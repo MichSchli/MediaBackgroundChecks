@@ -1,0 +1,162 @@
+[
+    {
+        "question": "Has Syria complied with the Chemical Weapons Convention?",
+        "source_1": {
+            "url": "https://sana.sy/en/?p=208083",
+            "text": "In 2013, Syria joined the The Chemical Weapons Convention (CWC) and destroyed its entire chemical stockpile and all production facilities in an ideal and unprecedented manner under the supervision and approval of the Organization for the Prohibition of Chemical Weapons (OPCW).",
+            "domain" : "Syrian Arab News Agency",
+            "identified_misinfo": true
+
+        },
+        "source_2": {
+            "url": "https://www.theguardian.com/world/2020/apr/06/report-set-to-blame-syria-chemical-attacks-on-bashar-al-assad",
+            "text": "Our research shows what Syrians on the ground have known for years: that chemical weapons have become a completely normalised component of the Syrian regime arsenal used for years in full view of the international community with near impunity.",
+            "domain": "The Guardian",
+            "identified_misinfo": false
+        }
+    },
+    {
+        "question": "Are masks effective in preventing aerosol transmission of COVID-19?",
+        "source_1": {
+            "url": "https://www.nature.com/articles/s41591-020-0843-2?error=cookies_not_supported&code=06c46169-a951-475f-84e1-3761c88a0a71",
+            "text": "Surgical face masks significantly reduced detection of influenza virus RNA in respiratory droplets and coronavirus RNA in aerosols, with a trend toward reduced detection of coronavirus RNA in respiratory droplets. Our results indicate that surgical face masks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.",
+            "domain" : "Nature Medicine",
+            "identified_misinfo": false
+
+        },
+        "source_2": {
+            "url": "https://thefederalist.com/2020/10/29/these-12-graphs-show-mask-mandates-do-nothing-to-stop-covid/",
+            "text": "Studies do show masks can help in the case of direct respiratory droplets, which would matter if somebody is coughing, breathing, or sneezing directly on your face. That happens normally in a tight and highly confined space. But the plentiful evidence we have indicates masks would not meaningfully help with aerosol transmission, where two people are just in the same area, or even the same room.",
+            "domain": "The Federalist",
+            "identified_misinfo": true
+        }
+    },
+    {
+        "question": "Did Paul Pogba quite playing for France because of comments by Macron?",
+        "source_1": {
+            "url": "https://www.thesun.co.uk/sport/13020178/man-utd-paul-pogba-quits-france/",
+            "text": "Paul Pogba quits playing for France over President Macron's comments on Islamist terrorism",
+            "domain" : "The Sun",
+            "identified_misinfo": true
+
+        },
+        "source_2": {
+            "url": "https://punchng.com/pogba-denies-quitting-france-team-over-macrons-comment/",
+            "text": "Manchester United’s Paul Pogba said on Monday he will be \"taking legal action\" after reports claimed he had retired from international duty in protest against French President Emmanuel Macron’s comments about radical Islam.",
+            "domain": "The Punch",
+            "identified_misinfo": false
+        }
+    },
+    {
+        "question": "Is 5G technology not safe?",
+        "source_1": {
+            "url": "https://www.naturalnews.com/2020-10-20-scientific-american-issues-warnings-dangers-of-5g.html",
+            "text": "The oldest magazine in the United States, Scientific American, has issued a strong warning about the dangers of 5G technology.",
+            "domain" : "Natural News",
+            "identified_misinfo": true
+
+        },
+        "source_2": {
+            "url": "https://www.sciencealert.com/5g-harm",
+            "text": "There is no convincing reason – either in theory or according to hard evidence – that 5G technology, by design, could present novel risks to any living thing's health, human or otherwise.",
+            "domain": "Science Alert",
+            "identified_misinfo": false
+        }
+    },
+    {
+        "question": "Did Pennsylvania reject over 300,000 mail-in ballots?",
+        "source_1": {
+            "url": "https://www.inquirer.com/politics/election/pennsylvania-mail-ballot-rejections-duplicate-applications-20201016.html",
+            "text": "PA. has rejected 372,000 ballot applications, most of them duplicates, not actual ballots.",
+            "domain" : "The Inquirer",
+            "identified_misinfo": false
+
+        },
+        "source_2": {
+            "url": "https://gellerreport.com/2020/10/pennsylvania-rejects-372000-mail-in-ballots-leaving-many-voters-confused-report.html/",
+            "text": "Pennsylvania rejects 372,000 mail-in ballots, leaving many voters confused.  One voter was alleged to have submitted 11 duplicates.",
+            "domain": "The Geller Report",
+            "identified_misinfo": true
+        }
+    },
+    {
+        "question": "Do men who have sex 21 times or more per month have a lower risk of prostate cancer?",
+        "source_1": {
+            "text": "Ebeneezer, a medical doctor and a herbal practitioner at the Amuzu Hospital has instructed men to have sex at least 21 times a month to avoid prostate cancer.",
+            "url": "https://www.westafricareporters.com/men-must-have-sex-at-least-21-times-a-month-to-avoid-prostate-cancer-expert/",
+            "domain" : "WestAfricaReporters.com",
+            "identified_misinfo": true
+
+        },
+        "source_2": {
+            "url": "https://www.sciencedirect.com/science/article/pii/S0302283816003778?via%3Dihub",
+            "text": "In multivariable analyses, the hazard ratio for prostate cancer incidence for ≥21 compared to 4–7 ejaculations per month was 0.81 (95% confidence interval [CI] 0.72–0.92; p < 0.0001 for trend) for frequency at age 20–29 yr and 0.78 (95% CI 0.69–0.89; p < 0.0001 for trend) for frequency at age 40–49 yr.",
+            "domain": "European Urology",
+            "identified_misinfo": false
+        }
+    },
+    {
+        "question": "Was Donald Trump given a false positive COVID-19 test?",
+        "source_1": {
+            "url": "https://apnews.com/memorandum-from-trumps-doctor-on-covid-19-treatment-f1ef1f03cdd92fa83618ed34a3ea5ddb",
+            "text": "Text of a memorandum from Sean Conley, physician to the president: I release the following information with the permission of President Donald J. Trump. Following PCR-confirmation of the President’s diagnosis, as a precautionary measure he received a single 8 gram dose of Regeneron’s polyclonal antibody cocktail. He completed the infusion without incident.",
+            "domain" : "AP News",
+            "identified_misinfo": false
+
+        },
+        "source_2": {
+            "url": "https://www.mediamatters.org/coronavirus-covid-19/alex-jones-white-house-staffer-may-have-poisoned-trumps-diet-coke-and-then",
+            "text": "ALEX JONES (HOST): America is in a war for its very survival and now our president battling against the Communist Chinese, the globalists, and others in open worldwide economic war is being told he’s got to stay locked up for 14 days legitimizing this entire giant fraud. What we know is 90% of the tests are false positive, conservatively. What we know is there are people inside the White House that want to lock the president down. There have been all these coup plans by people in the White House. You had Mattis trying to organize a coup. And I said all along one way to do it with this COVID-19 is to give him a false positive test. They could then poison his Diet Coke or something, he gets really sick and they said it’s COVID-19.",
+            "domain": "Media Matters for America",
+            "identified_misinfo": true
+        }
+    },
+    {
+        "question": "Is a failure to embrace hydroxychloroquine the reason for the high number of COVID-19 deaths in the United States?",
+        "source_1": {
+            "url": "https://www.lifesitenews.com/news/report-other-countries-faring-better-against-covid-due-to-hcq-not-lockdowns/",
+            "text": "While Democrats and the mainstream media routinely attribute the United States’ relatively high number COVID-19 deaths to Americans’ failure to uniformly wear masks or “socially distance,” a new report suggests the true culprit may be the country’s unwillingness to embrace the drug hydroxychloroquine (HCQ).",
+            "domain" : "Life Site News",
+            "identified_misinfo": true
+
+        },
+        "source_2": {
+            "url": "https://www.who.int/news/item/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19",
+            "text": "Interim trial results show that hydroxychloroquine and lopinavir/ritonavir produce little or no reduction in the mortality of hospitalized COVID-19 patients when compared to standard of care. Solidarity trial investigators will interrupt the trials with immediate effect. For each of the drugs, the interim results do not provide solid evidence of increased mortality.",
+            "domain": "World Health Organization",
+            "identified_misinfo": false
+        }
+    },
+    {
+        "question": "Did Minneapolis see a surge in crime after removing funding from the police department?",
+        "source_1": {
+            "url": "https://edition.cnn.com/2020/08/06/us/minneapolis-police-abolish-delay/index.html",
+            "text": "The Council proposed replacing the police department with a Department of Community Safety and Violence Prevention, which would provide a “holistic, public health-oriented approach,” as well as a Division of Law Enforcement Services. But on August 5th 2020, in a 10-5 vote, the Charter Commission elected to take an additional 90 days to review the Council’s proposal. The delay means this proposal now misses the statutory deadline of August 21 and will not appear on the November ballot for voters to decide.",
+            "domain" : "CNN",
+            "identified_misinfo": false
+
+        },
+        "source_2": {
+            "url": "https://nypost.com/2020/09/16/minneapolis-city-council-alarmed-by-crime-surge-after-defunding-police/",
+            "text": "Minneapolis City Council members, who in July 2020 moved to eliminate the police department, sounded the alarm during a Wednesday meeting about a surge in crime seen by their constituents.",
+            "domain": "New York Post",
+            "identified_misinfo": true
+        }
+    },
+    {
+        "question": "Were many of the COVID-19 deaths in the United States actually due to poisoning, trauma, and unintentional injuries?",
+        "source_1": {
+            "url": "https://www.thegatewaypundit.com/2020/09/fraud-10-reported-covid-19-deaths-35-reported-cdc-due-poisoning-trauma-unintentional-injuries/",
+            "text": "10% of Reported COVID-19 Deaths for Those Under 35 as Reported by the CDC Are Due to Poisoning, Trauma and Unintentional Injuries",
+            "domain" : "The Gateway Pundit",
+            "identified_misinfo": true
+
+        },
+        "source_2": {
+            "url": "https://www.cdc.gov/",
+            "text": "In looking at the tables, it appears to be more like 3% ((135+40)/5424) and not 10%. However, this still doesn't mean the deaths were due to poisoning/trauma, and unintentional injuries; it just means that those were also listed on the death certificate...we don't currently know how often COVID19 is the underlying cause in cases where the decedent contracted COVID19 while being treated in the hospital for injuries, which could explain some of these cases.",
+            "domain": "Center for Disease Control and Prevention",
+            "identified_misinfo": false
+        }
+    }
+]

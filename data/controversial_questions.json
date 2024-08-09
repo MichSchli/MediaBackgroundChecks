@@ -1,0 +1,263 @@
+[
+    {
+        "question": "Are sanctions an effective foreign policy tool?",
+        "source_1": {
+            "url": "https://washingtondc.jhu.edu/news/do-sanctions-actually-work-experts-evaluate-the-efficacy-of-this-widely-used-foreign-policy-tool/",
+            "text": "Rather than hurting the Iranian regime leaders, sanctions have strengthened the Iranian state and military, and ended up hurting the exact people they’re supposed to help—the middle class",
+            "domain" : "Johns Hopkins University, School of Advanced International Studies"
+
+        },
+        "source_2": {
+            "url": "https://assets.publishing.service.gov.uk/media/65d720cd188d770011038890/Deter-disrupt-and-demonstrate-UK-sanctions-in-a-contested-world.pdf",
+            "text": "Without the collective impact of sanctions, we estimate that Russia would have over $400 billion more to fund its war machine –enough to fund the invasion for a further four years.",
+            "domain": "UK Foreign Office"
+        }
+    },
+    {
+        "question": "Are tax cuts beneficial for the economy?",
+        "source_1": {
+            "url": "https://www.investopedia.com/articles/07/tax_cuts.asp",
+            "text": "A corporate income tax cut leads to a sustained increase in GDP and productivity, with peak effects between five and eight years. In contrast, personal income tax cuts trigger a short-lived boost to GDP, productivity and hours worked but have no long-term effects.",
+            "domain": "Investopedia"
+        },
+        "source_2": {
+            "url": "https://taxjustice.net/faq/does-cutting-taxes-boost-the-economy/",
+            "text": "Cutting taxes does not boost economic growth nor lead to more taxes being collected.",
+            "domain": "Tax Justice Network"
+        }
+    },
+    {
+        "question": "Does the minimum wage kill jobs?",
+        "source_1": {
+            "url": "https://www.forbes.com/sites/adigaskell/2023/05/20/does-raising-the-minimum-wage-result-in-job-losses-in-small-firms/",
+            "text": "Research suggests that small businesses don't appear to cut jobs in response to an increase in the minimum wage, and may actually benefit from it instead.",
+            "domain": "Forbes"
+        },
+        "source_2": {
+            "url": "https://www.hoover.org/research/opportunity-killing-minimum-wage",
+            "text": "The vast majority of studies, 79.3 percent, found that a higher minimum wage led to less employment.",
+            "domain": "Hoover Institution"
+        }
+    },
+    {
+        "question": "Is free trade beneficial for all participating countries?",
+        "source_1": {
+            "url": "https://hbr.org/1986/09/the-folly-of-free-trade",
+            "text": "As we practice it, free trade has profoundly destructive results for the United States and other Western nations. First, nations that do not play by our rules practice unequal competition. Second, free trade puts us in direct competition with low-wage nations, countries that have a lower standard of living than the United States.",
+            "domain": "Harvard Business Review"
+        },
+        "source_2": {
+            "url": "https://www.imf.org/external/np/exr/ib/2001/110801.htm",
+            "text": "There is considerable evidence that more outward-oriented countries tend consistently to grow faster than ones that are inward-looking. Indeed, one finding is that the benefits of trade liberalization can exceed the costs by more than a factor of 10.",
+            "domain": "International Monetary Fund"
+        }
+    },
+    {
+        "question": "Does outsourcing jobs hurt or help the domestic economy?",
+        "source_1": {
+            "url": "https://equitablegrowth.org/research-finds-the-domestic-outsourcing-of-jobs-leads-to-declining-u-s-job-quality-and-lower-wages/",
+            "text": "Research finds the domestic outsourcing of jobs leads to declining U.S. job quality and lower wages",
+            "domain": "Washington Center for Equitable Growth"
+        },
+        "source_2": {
+            "url": "https://www.investopedia.com/articles/personal-finance/082815/unintended-consequences-outsourcing.asp",
+            "text": "It is obvious that outsourcing does eliminate certain kinds of work. Presumably, those workers who lose those jobs go on to get better jobs in new industries or through better training and education.",
+            "domain": "Investopedia"
+        }
+    },
+    {
+        "question": "Should there be a global minimum corporate tax rate to prevent tax avoidance?",
+        "source_1": {
+            "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/the-case-for-a-global-minimum-corporate-tax/",
+            "text": "The emergence of globalization and intangible capital in recent decades has made taxing multinational corporations (MNCs) increasingly difficult, and greater international cooperation is needed to make such taxation more effective. A global minimum tax on profitable MNCs would ensure that a baseline level of revenue is collected from them.",
+            "domain": "Atlantic Council"
+        },
+        "source_2": {
+            "url": "https://www.cato.org/policy-analysis/bold-international-tax-reforms-counteract-oecd-global-tax",
+            "text": "Tax competition has allowed average statutory corporate tax rates to be cut in half over the past four decades, fueling investment and economic growth. Among OECD countries, revenues have increased while tax rates declined.",
+            "domain": "Cato institute"
+        }
+    },
+    {
+        "question": "Should governments provide subsidies to certain industries?",
+        "source_1": {
+            "url": "https://policyoptions.irpp.org/magazines/september-2023/subsidies-companies-bad-policy/",
+            "text": "In reality, preferential measures such as industrial policies are often ineffective and only serve to benefit a small group of individuals.",
+            "domain": "Institute for Research on Public Policy"
+        },
+        "source_2": {
+            "url": "https://blogs.lse.ac.uk/politicsandpolicy/government-subsidies-could-boost-british-manufacturing-but-only-under-the-right-conditions/",
+            "text": "Although subsidies may increase investment, they can also generate harmful distortions in the economy. For example, subsidies may encourage the allocation of resources to industries or sectors that might not be the most efficient or economically viable in the absence of subsidies. Such misallocation of resources can hinder overall economic productivity.",
+            "domain": "London School of Economics"
+        }
+    },
+    {
+        "question": "Should governments regulate violent video games?",
+        "source_1": {
+            "url": "https://www.nationalheraldindia.com/opinion/time-to-regulate-or-ban-video-games",
+            "text": "Many bright students, addicted to video games, are known to have lost their interest in both studies and sports. They have to contend with falling grades and failing health. There are students so obsessed with gaming that they forget how to speak and conduct themselves socially. Many are being forced to undergo protracted counselling to relearn soft skills like speaking coherently. There is, therefore, a growing and urgent need for regulating this industry.",
+            "domain": "National Herald India"
+        },
+        "source_2": {
+            "url": "https://www.cato.org/techknowledge/regulating-video-games-must-government-mind-our-children",
+            "text": "A major study on youth violence by the U.S. Surgeon General’s office in 2001 also confirmed that youth violence has declined significantly nationwide and noted that academic research had not shown any significant correlation between video games and youth violence.",
+            "domain": "Cato Institute"
+        }
+    },
+    {
+        "question": "Is government funding of the arts necessary?",
+        "source_1": {
+            "url": "https://www.heritage.org/report/ten-good-reasons-eliminate-funding-the-national-endowment-orthe-arts",
+            "text": "In Great Britain, economist David Sawers's comparative study of subsidized and unsubsidized performing arts concluded that major cultural venues would continue to thrive were government subsidies to be eliminated. According to Sawers's calculation, 80 percent of all London theater box office receipts, including ballet and opera, went to unsubsidized theater.",
+            "domain": "Heritage Foundation"
+        },
+        "source_2": {
+            "url": "https://www.delawareartsalliance.org/government-funding-arts/",
+            "text": "The arts create jobs and produce tax revenue. A strong arts sector is an economic asset that stimulates business activity, attracts tourism and expands a state’s work force and tax base. The arts have been shown to be a successful and sustainable strategy for revitalizing rural areas, cities and populations struggling with poverty.",
+            "domain": "Delaware Arts Alliance"
+        }
+    },
+    {
+        "question": "Is hosting mega-sporting events economically beneficial for countries?",
+        "source_1": {
+            "url": "https://www.uksport.gov.uk/news/2023/01/12/new-report-reveals-economic-and-social-benefits-of-the-uk-hosting-sporting-events",
+            "text": "Alongside delivering a direct economic impact of £132m, supporting 1,600 jobs and a 6:1 return on investment, The Value of Events Report 2022 sets out how hosting 12 events in 25 cities, backed by government funding, brought millions of people together, united communities and positively impacted millions of people’s lives through spectating, volunteering and community activation opportunities. On top of these significant economic and social benefits, the report finds that hosting major sporting events promoted the reputation of the UK around the world, provided a platform to showcase and promote British cities and regions to a global audience and also created a strong sense of pride in the UK as a world-leading host nation for major sporting events.",
+            "domain": "UK Sport"
+        },
+        "source_2": {
+            "url": "https://www.intereconomics.eu/contents/year/2016/number/3/article/the-organization-and-economics-of-sports-mega-events.html",
+            "text": "Mega-events are far from the economic engines they are touted to be. It is almost a universal experience that these events engender more short-run costs than short-run revenues, and that the expected long-run gains in tourism, trade and foreign investment are not forthcoming.",
+            "domain": "Intereconomics"
+        }
+    },
+    {
+        "question": "Should school vouchers be implemented as a way to improve education?",
+        "source_1": {
+            "url": "https://www.epi.org/publication/school-vouchers-are-not-a-proven-strategy-for-improving-student-achievement/",
+            "text": "Studies of U.S. and international voucher programs show that the risks to school systems outweigh insignificant gains in test scores and limited gains in graduation rates",
+            "domain": "Economic Policy Institute"
+        },
+        "source_2": {
+            "url": "https://spectator.org/the-right-for-parents-to-choose-their-childs-education/",
+            "text": "Free markets offer a much better way to hold educational institutions accountable for their failures. Under this model, inadequate schools lose money or are forced to close after consistently failing to perform to the standards parents expect.",
+            "domain": "The American Spectator"
+        }
+    },
+    {
+        "question": "Should schools teach comprehensive sex education?",
+        "source_1": {
+            "url": "https://www.who.int/news-room/questions-and-answers/item/comprehensive-sexuality-education",
+            "text": "Evidence consistently shows that high-quality sexuality education delivers positive health outcomes, with lifelong impacts. Young people are more likely to delay the onset of sexual activity – and when they do have sex, to practice safer sex – when they are better informed about their sexuality, sexual health and their rights.",
+            "domain": "World Health Organization"
+        },
+        "source_2": {
+            "url": "https://catholicparents.org/ten-good-reasons-oppose-public-school-sex-education/",
+            "text": "Public school sex ed classes ignore individual differences among children and break down the natural modesty of boys and girls. When children are taught academics, such as math and reading, they are given material suitable to their level of readiness for this material. Yet, when it comes to the extremely sensitive area of sexuality, all children in the same grade level are given the same material, even if some are not yet physically or psychologically ready for the material.",
+            "domain": "Catholic Parents Online"
+        }
+    },
+    {
+        "question": "Is nuclear energy a necessary component for achieving net-zero emissions?",
+        "source_1": {
+            "url": "https://www.iaea.org/sites/default/files/21/10/nuclear-energy-for-a-net-zero-world.pdf",
+            "text": "Globally, nuclear power plants produce more than one quarter of all low carbon electricity. Over the past five decades, nuclear power has cumulatively avoided the emission of about 70 gigatonnes (Gt) of carbon dioxide (CO2) and continues to avoid more than 1 Gt CO2 annually.",
+            "domain": "International Atomic Energy Agency"
+        },
+        "source_2": {
+            "url": "",
+            "text": "Nuclear energy has proven incapable of overcoming its inherent problems of cost, construction delay, nuclear waste, decommissioning, security, let alone the small but still highly material risk of catastrophic accidents like Chernobyl and Fukushima. My ‘Net Zero Without Nuclear’ report goes into all these inherent problems in some detail.",
+            "domain": "Greenpeace"
+        }
+    },
+    {
+        "question": "Is carbon capture and storage (CCS) technology a viable solution for reducing emissions in heavy industries?",
+        "source_1": {
+            "url": "https://www.ciel.org/carbon-capture-and-storage-ccs-frequently-asked-questions/",
+            "text": "CCS has a decades-long history of overpromising and under-delivering, with projects frequently failing to meet published emission reduction targets. Moreover, CCS also produces its own emissions that often go unaccounted for due to the energy consumed in the capture process (called the “energy penalty”), which dramatically reduces its impact.",
+            "domain": "Center for International Environment Law"
+        },
+        "source_2": {
+            "url": "https://lowcarbon.exxonmobil.com/lower-carbon-technology/carbon-capture-and-storage",
+            "text": "The United Nations Intergovernmental Panel on Climate Change and the International Energy Agency agree that carbon capture and storage is one of the most cost-effective ways to decarbonize emission-intensive sectors, including chemicals and refining, cement production, and the iron and steel industries. Additionally, carbon capture and storage is recognized as one of the few technologies that can enable negative carbon dioxide emissions when combined with bio-energy or direct air capture.",
+            "domain": "Exxon Mobil"
+        }
+    },
+    {
+        "question": "Can natural gas be considered a \"bridge fuel\" to transition towards a net-zero carbon future?",
+        "source_1": {
+            "url": "https://www.euractiv.com/section/energy-environment/opinion/natural-gas-is-not-a-transitional-fuel-so-lets-stop-saying-it-is/",
+            "text": "The idea is that on the road from coal to renewables, we need to go through gas which emits, at the point of burning only, half the CO2 emissions. But if we look at countries that significantly reduced coal in power generation, we will see that coal is not replaced by gas and doesn’t behave as a transitional fuel. Countries reduce coal, but gas consumption does not increase but instead stays the same or even declines.",
+            "domain": "Euractiv Media"
+        },
+        "source_2": {
+            "url": "https://www.environmental-finance.com/content/analysis/net-zeros-bridge-fuel-natural-gass-critical-role-in-transition.html",
+            "text": "Among the traditional energy inputs, we see natural gas as a critical bridge fuel that will likely continue to play a role in baseload electricity generation. Natural gas is the cleanest, burning fossil fuel, one that can be made cleaner through carbon capture technology",
+            "domain": "Environmental-Finance.com"
+        }
+    },
+    {
+        "question": "Is universal basic income (UBI) a viable solution to address unemployment and poverty?",
+        "source_1": {
+            "url": "https://borgenproject.org/solution-to-end-poverty/",
+            "text": "Studies have shown that UBI can reduce poverty rates, particularly among vulnerable groups such as children and the elderly. Research shows that a UBI pilot project introduced in the 1970s in the Canadian town of Dauphin led to a reduction in poverty rates and improved health outcomes as hospitalization rates declined by 8.5% in four years, mental health improved and more students completed secondary school.",
+            "domain": "Borgen Project"
+        },
+        "source_2": {
+            "url": "https://www.jrf.org.uk/social-security/is-universal-basic-income-a-good-idea",
+            "text": "UBI is not a silver bullet that would immediately and straightforwardly solve poverty. It could not replace the whole social security system. It is beyond doubt that a UBI that radically reduced poverty levels would require enormous increases in public spending and be a very significant redistribution across society. A smaller, less radical but potentially more immediately achievable, partial UBI payment could achieve some valuable outcomes but would fall short of some of the bigger aims of UBI.",
+            "domain": "Joseph Rowntree Foundation"
+        }
+    },
+    {
+        "question": "Is privatizing social security systems a better option for ensuring retirement funds?",
+        "source_1": {
+            "url": "https://www.brookings.edu/articles/privatizing-social-security-the-troubling-trade-offs/",
+            "text": "Privatizing Social Security can boost workers’ rate of return by allowing retirement contributions to be invested in private assets, such as stocks, which yield a better return than the present pay-as-you-go retirement system.",
+            "domain": "Brookings Institution"
+        },
+        "source_2": {
+            "url": "https://www.cbpp.org/research/would-private-accounts-provide-a-higher-rate-of-return-than-social-security",
+            "text": "Advocates of personal accounts cite the low rates of return in the current system, but this is misleading. Prospective returns to young people are low mostly because we gave benefits to older generations of retirees who did not contribute their share of taxes to pay for them.",
+            "domain": "Center on Budget and Policy Priorities"
+        }
+    },
+    {
+        "question": "Is outsourcing government services to private companies beneficial for efficiency and cost-effectiveness?",
+        "source_1": {
+            "url": "https://www.instituteforgovernment.org.uk/explainer/outsourcing-and-privatisation",
+            "text": "Our research found that outsourcing has helped to drive improvements in efficiency and innovation in some areas, but there have been failures when government has not done enough due diligence on suppliers, been too focussed on price or allocated risks poorly.",
+            "domain": "Institute for Government"
+        },
+        "source_2": {
+            "url": "https://www.politico.eu/article/opinion-uk-government-must-rethink-outsourcing-of-public-services/",
+            "text": "Problems from poorly conceived contracts can create cost increases that surpass the costs of in-house services, and if the oversight of the contracts is poor, government is vulnerable to corruption and profiteering. The scandal of G4S and Serco charging the U.K. Ministry of Justice for tagging offenders who were dead shows how bad things can get.",
+            "domain": "Politico"
+        }
+    },
+    {
+        "question": "Is investing in high-speed rail infrastructure worth the cost?",
+        "source_1": {
+            "url": "https://www.arup.com/perspectives/making-the-compelling-case-for-high-speed-rail",
+            "text": "High-speed rail can catalyse permanent socio-economic gains. The UK’s High Speed 1 line (HS1) generated more than £300mn in tourist revenue in Kent, the county the line passes through, in the nine years after its completion in 2007. To date, it has supported the creation of more than 50,000 jobs in economically disadvantaged parts of East London and the Thames Gateway area, as well as £8 billion of development.",
+            "domain": "Arup Group"
+        },
+        "source_2": {
+            "url": "https://www.cato.org/policy-analysis/high-speed-money-sink-why-united-states-should-not-spend-trillions-obsolete#citation",
+            "text": "High‐​speed rail is a costly and obsolete technology. It is slower than flying, less convenient than driving, and more expensive than both. Its environmental benefits are questionable at best, especially since both cars and airliners are becoming more fuel‐​efficient and less polluting every year.",
+            "domain": "Cato Institute"
+        }
+    },
+    {
+        "question": "Is rent control an effective solution for addressing housing affordability?",
+        "source_1": {
+            "url": "https://www.nmhc.org/news/articles/the-high-cost-of-rent-control/",
+            "text": "Economists have long considered rent control a failed housing policy. As Dr. Anthony Downs, a leading economist and nationally-recognized expert on housing policy, concluded in a recent report on rent controls, other than during wartime, the economic and social costs of rent control \"almost always outweigh any perceived short-term benefits they provide.\" He also found that rent controls are both \"unfair to owners of rental units and damaging to some of the very low income renters they are supposed to protect.\"",
+            "domain": "National Multifamily Housing Council"
+        },
+        "source_2": {
+            "url": "https://www.urban.org/sites/default/files/publication/99646/rent_control._what_does_the_research_tell_us_about_the_effectiveness_of_local_action_1.pdf",
+            "text": "If rent control is judged on its ability to promote stability for people in rent-controlled units, evidence has generally found it to be successful.",
+            "domain": "Urban Institute"
+        }
+    }
+]
