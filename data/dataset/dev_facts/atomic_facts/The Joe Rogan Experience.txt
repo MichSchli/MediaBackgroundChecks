@@ -1,0 +1,23 @@
+Spotify founded The Joe Rogan Experience	contradiction
+Spotify leads The Joe Rogan Experience	entailment
+Spotify owns The Joe Rogan Experience	entailment
+Spotify is the owner of The Joe Rogan Experience	entailment
+Spotify bought The Joe Rogan Experience	entailment
+Spotify acquired The Joe Rogan Experience	entailment
+The Joe Rogan Experience is funded through **Spotify**	entailment
+The remit of The Joe Rogan Experience is to **interview a wide variety of people**	entailment
+The mission of The Joe Rogan Experience is to **interview a wide variety of people**	entailment
+The usual audience of The Joe Rogan Experience is diverse.	entailment
+The Joe Rogan Experience tends to the Right-Center	contradiction
+The Joe Rogan Experience tends to the right-center according to Media Bias Fact Check.	entailment
+Other sources have commented on The Joe Rogan Experience, stating that it tends to be Questionable.	entailment
+The factuality of The Joe Rogan Experience is reported to be Questionable	entailment
+The factuality of The Joe Rogan Experience is reported to be Questionable, according to D. Van Zandt	entailment
+The Joe Rogan Experience failed a fact-check for an article titled COVID-19 and vaccines.	entailment
+The Joe Rogan Experience chose not to cover **scientific evidence that ivermectin is an effective treatment for Covid**	entailment
+The Joe Rogan Experience relies on advertising for revenue	entailment
+The Joe Rogan Experience relies on subscriptions for revenue	entailment
+The Joe Rogan Experience relies on donations for revenue	contradiction
+The Joe Rogan Experience has endorsed Bernie Sanders	contradiction
+The Joe Rogan Experience has an editorial bias towards Right-Center	entailment
+The Joe Rogan Experience printed a factually misleading titled **"Antifa" arsonists have been setting wildfires raging on the West Coast in September 2020**.	contradiction

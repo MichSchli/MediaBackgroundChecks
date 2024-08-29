@@ -1,0 +1,25 @@
+Hearst is the founder of Esquire Magazine	entailment
+Who is the CEO of Esquire Magazine	entailment
+Hearst Communications owns Esquire Magazine	entailment
+Hearst Communications is the owner of Esquire Magazine	entailment
+Hearst Communications bought Esquire Magazine	contradiction
+Esquire Magazine is funded through Subscriptions, display ads, sponsored content, and the sale of products from affiliate marketers.	entailment
+The remit of Esquire Magazine is to **publish information and stories geared toward men**	entailment
+The mission of Esquire Magazine is to cover various topics, including entertainment, fashion, and politics.	entailment
+The usual audience of Esquire Magazine is **men**	entailment
+Esquire Magazine tends to the Left	entailment
+Esquire Magazine tends to the left according to Mediabiasfactcheck	entailment
+Other sources have commented on Esquire Magazine, stating that it tends to be Left Biased.	entailment
+The factuality of Esquire Magazine is reported to be Mixed	entailment
+The factuality of Esquire Magazine is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Esquire Magazine failed a fact-check for an article titled "CNN accidentally aired 30 minutes of pornography in Boston on Thanksgiving night"	entailment
+Esquire Magazine printed a retraction after failing a fact-check for an article titled "CNN accidentally aired 30 minutes of pornography in Boston on Thanksgiving night."	entailment
+Esquire Magazine chose not to cover former President Trump and his administration.	contradiction
+Esquire Magazine provides original content written by staff journalists	entailment
+Esquire Magazine relies on advertising for revenue	contradiction
+Esquire Magazine relies on subscriptions for revenue	entailment
+Esquire Magazine relies on donations for revenue	contradiction
+When aggregating stories, Esquire Magazine relies on information from **other Hearst properties**	entailment
+Esquire Magazine has endorsed the left	entailment
+Esquire Magazine has an editorial bias towards the left	entailment
+Esquire Magazine printed a biased article titled "The Koch Money Was a Primary Vector for the Prion Disease That’s Infected the Republican Party"	entailment

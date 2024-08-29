@@ -1,0 +1,23 @@
+Community Newspaper Holdings Inc owns Ada News	entailment
+Community Newspaper Holdings Inc is the owner of Ada News	entailment
+Ada News is funded through advertising and subscription fees.	entailment
+The remit of Ada News is to cover crime, sports, entertainment, and politics for the Ada, Oklahoma region.	entailment
+The usual audience of Ada News is **residents of Ada, Oklahoma**	entailment
+Ada News tends to the  slight Left-Center Bias	entailment
+Other sources have commented on Ada News, stating that it tends to be **slightly Left-Center Biased**	entailment
+The factuality of Ada News is reported to be High	entailment
+The factuality of Ada News is reported to be High, according to Media Bias Fact Check.	entailment
+Ada News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Ada News chose not to cover **any failed fact checks in the last 5 years**	entailment
+Ada News relies on advertising for revenue	entailment
+Ada News relies on subscriptions for revenue	entailment
+Ada News relies on donations for revenue	contradiction
+When aggregating stories, Ada News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and the CHNI news service.	entailment
+Ada News has endorsed left	entailment
+Ada News has an editorial bias towards Left-Center Bias.	entailment
+D. Van Zandt is the editor of Ada News	entailment
+The Ada News had to apologize for slightly Left-Center Biased editorial positions that favor a liberal perspective.	entailment
+Ada News had to apologize to No one for any specific issues	entailment
+Ada News is funded by the United States government	contradiction
+The Ada News is a newspaper	entailment
+Ada News covers the following topics: crime, sports, entertainment, and politics for the Ada, Oklahoma region.	entailment

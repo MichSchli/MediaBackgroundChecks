@@ -1,0 +1,21 @@
+John W. Gardner founded Common Cause	entailment
+John W. Gardner is the founder of Common Cause	entailment
+Common Cause acquired the League of Women Voters.	entailment
+Common Cause is funded through donations	entailment
+The remit of Common Cause is to  advocate government reform.	entailment
+The mission of Common Cause is to advocate government reform.	entailment
+The usual audience of Common Cause is **left-leaning**	entailment
+Common Cause tends to the left	entailment
+Common Cause tends to the left-center according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Common Cause, stating that it tends to be liberal-leaning.	entailment
+The factuality of Common Cause is reported to be High	entailment
+The factuality of Common Cause is reported to be high, according to a source criticism exercise.	entailment
+Common Cause failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Common Cause printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+Common Cause chose not to cover Failed Fact Checks	entailment
+Common Cause relies on donations for revenue	entailment
+Common Cause has received donations from donors	entailment
+When aggregating stories, Common Cause relies on information from **factually sourced credible sources**	entailment
+Common Cause has endorsed left positions	entailment
+Common Cause has an editorial bias towards left-	entailment
+Common Cause had to apologize for **a data breach**	contradiction

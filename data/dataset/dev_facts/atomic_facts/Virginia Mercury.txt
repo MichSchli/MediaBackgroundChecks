@@ -1,0 +1,23 @@
+Who is the owner of Virginia Mercury	entailment
+The Virginia Mercury	entailment
+Virginia Mercury is funded through donations	entailment
+The remit of Virginia Mercury is to cover state government and policy.	entailment
+The mission of Virginia Mercury is to  bring a fresh perspective to coverage of the state’s biggest issues.	entailment
+The usual audience of Virginia Mercury is **people interested in Virginia politics and policy**	entailment
+Virginia Mercury tends to the left	entailment
+Virginia Mercury tends to the left according to Mediabiasfactcheck.	entailment
+Other sources have commented on Virginia Mercury, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of Virginia Mercury is reported to be High	entailment
+The factuality of Virginia Mercury is reported to be High, according to Media Bias/Fact Check.	entailment
+Virginia Mercury failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Virginia Mercury printed a retraction after failing a fact-check for an article titled **[Fill in the blank]**	contradiction
+Virginia Mercury chose not to cover Failed Fact Checks	entailment
+Virginia Mercury relies on advertising for revenue	contradiction
+Virginia Mercury relies on subscriptions for revenue	contradiction
+Virginia Mercury relies on donations for revenue	entailment
+Virginia Mercury has received donations from **the Hopewell Fund**	entailment
+When aggregating stories, Virginia Mercury relies on information from **credible media outlets**	entailment
+Virginia Mercury has endorsed Left-Center Bias	entailment
+Virginia Mercury has an editorial bias towards **the Democratic Party**	entailment
+Virginia Mercury printed a biased article titled Left-Center Biased Based on Story Selection and Editorial Positions That Moderately Favor the Left.	entailment
+The Virginia Mercury did not have to apologize for anything based on the provided information.	entailment

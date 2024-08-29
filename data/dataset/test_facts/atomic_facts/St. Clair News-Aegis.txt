@@ -1,0 +1,21 @@
+Community Newspaper Holdings Inc owns St. Clair News-Aegis	entailment
+Community Newspaper Holdings Inc is the owner of St. Clair News-Aegis	entailment
+Community Newspaper Holdings Inc bought St. Clair News-Aegis	entailment
+St. Clair News-Aegis is funded through **advertising and subscription fees**	entailment
+The mission of St. Clair News-Aegis is to **cover crime, sports, entertainment, and politics for the Pell City, Alabama, region**.	entailment
+St. Clair News-Aegis tends to the left	entailment
+Other sources have commented on St. Clair News-Aegis, stating that it tends to be **Slightly Left-Center Biased**.	entailment
+The factuality of St. Clair News-Aegis is reported to be High	entailment
+The factuality of St. Clair News-Aegis is reported to be High , according to Media Bias/Fact Check.	entailment
+St. Clair News-Aegis failed a fact-check for an article titled "Leeds police charge man with distribution"	contradiction
+St. Clair News-Aegis chose not to cover Failed Fact Checks	entailment
+St. Clair News-Aegis relies on advertising for revenue	entailment
+St. Clair News-Aegis relies on subscriptions for revenue	contradiction
+St. Clair News-Aegis relies on donations for revenue	contradiction
+The St. Clair News-Aegis has endorsed **a liberal perspective**	entailment
+St. Clair News-Aegis has an editorial bias towards slightly Left-Center Biased based on editorial positions that favor a liberal perspective.	entailment
+St. Clair News-Aegis printed a biased article titled Greene may be too red	entailment
+St. Clair News-Aegis had to apologize to [no one] for [anything]	entailment
+St. Clair News-Aegis's headquarter is located in Pell City, Alabama.	entailment
+St. Clair News-Aegis is a weekly newspaper	entailment
+St. Clair News-Aegis covers the following topics: crime, sports, entertainment, and politics	entailment

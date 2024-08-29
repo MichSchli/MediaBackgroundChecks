@@ -1,0 +1,10 @@
+History
+The Reporters’ Lab explores new forms of journalism, including fact-checking, empowering democracies and holding governments accountable, and structured journalism, which creates new forms of storytelling and beat reporting. According to their
+[about page](https://reporterslab.org/about-the-lab/), “The Reporters’ Lab is a center for journalism research in the Sanford School of Public Policy at Duke University. Our core projects focus on fact-checking, but we also do occasional research about trust in the news media and other topics.” [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Reporters’ Lab is owned by Duke University and although they do not disclose funding it is assumed to be derived from Duke University.
+Analysis / Bias
+In review, the Reporter’s Lab primarily reports on the state of fact-checking. The website provides a
+[global map](https://reporterslab.org/fact-checking/) and a list of 307 fact-checkers around the world. They also publish news related to fact-checking such as this [Fact-checking count tops 300 for the first time](https://reporterslab.org/fact-checking-count-tops-300-for-the-first-time/). This article simply highlights the 300+ fact-checkers in their database. Not much else to report here. This a great source to find fact-checkers around the globe. In general, there is little bias and all content is factual.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,19 @@
+FAZIT Communications founded Deutschland.de	entailment
+Hannes Ludwig is the founder of Deutschland.de	entailment
+Hannes Ludwig is the CEO of Deutschland.de	contradiction
+FAZIT Communication owns Deutschland.de	entailment
+The remit of Deutschland.de is to **publish articles with news, politics, life, education, business, culture, and the environment.**	entailment
+The mission of Deutschland.de is to  inform readers about news, politics, life, education, business, culture, and the environment.	entailment
+The usual audience of Deutschland.de is **right-center biased**.	entailment
+Deutschland.de tends to the right-center bias	entailment
+Other sources have commented on Deutschland.de, stating that it tends to be right-center biased.	entailment
+The factuality of Deutschland.de is reported to be Mostly Factual	entailment
+The factuality of Deutschland.de is reported to be Mostly Factual, according to MedBiasFactCheck.	entailment
+Deutschland.de failed a fact-check for an article titled "10 Things Germany is doing for the environment."	entailment
+Deutschland.de relies on donations for revenue	entailment
+When aggregating stories, Deutschland.de relies on information from **credible sources such as The Public Radio station Deutschlandfunk, RBB24.de (Rundfunk Berlin-Brandenburg), DPA (German News Agency), Die Tageszeitung (Taz – Left-leaning Newspaper), Berliner Zeitung (Center-Left), The FAZ (Center-Right) and the German Times**	entailment
+Deutschland.de has endorsed right-center biased content	entailment
+Deutschland.de has an editorial bias towards right-center government	entailment
+Janet Schayan is the editor of Deutschland.de	entailment
+Deutschland.de is funded by the German government	entailment
+Deutschland.de covers the following topics: news, politics, life, education, business, culture, and the environment.	entailment

@@ -1,0 +1,10 @@
+History
+NationMaster is an Australian website that delivers statistical facts about every country in the world. For example, you can look up population data, crime rate, agriculture, economics, and more. According to its
+[about page](https://www.nationmaster.com/about), “NationMaster is a statistics database which offers a large directory of variables for comparison purposes. A wide range of economic and demographic indicators are available across 300 industry verticals. [Read our profile on Australian media and government.](https://mediabiasfactcheck.com/australia-media-profile/)
+Funded by / Ownership
+The website does not disclose ownership. Advertising generates revenue.
+Analysis / Bias
+NationMaster provides a statistical database that offers a large directory of variables for comparison purposes. The database is composed of data from trustworthy sources such as national statistic agencies, governments, international organizations… (UNDP, UNESCO Institute for Statistics, UNCTAD, WTO, World Bank, World Health Organization, OECD, and others.) The website also features a blog that publishes low-biased content on employment and the economy, such as this
+[Mistakes to Avoid While Hiring Employees](https://www.nationmaster.com/blog/mistakes-to-avoid-while-hiring-employees/). In general, content is fact-based and low-biased.
+Failed Fact Checks
+- None in the Last 5 years

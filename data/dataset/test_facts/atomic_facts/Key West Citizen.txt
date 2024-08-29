@@ -1,0 +1,22 @@
+Adams Publishing Group owns Key West Citizen	entailment
+Stephen Adams is the owner of Key West Citizen	entailment
+Adams Publishing Group bought Key West Citizen	entailment
+Key West Citizen is funded through advertising and subscription fees	entailment
+The remit of Key West Citizen is to cover news and crime reports in the Key West region.	entailment
+The mission of Key West Citizen is to **provide neutral straight news reporting with minimal editorializing of content**.	entailment
+Key West Citizen tends to the **least biased**	entailment
+Other sources have commented on Key West Citizen, stating that it tends to be **least biased**.	entailment
+The factuality of Key West Citizen is reported to be High	entailment
+The factuality of Key West Citizen is reported to be High, according to mediabiasfactcheck.com	entailment
+Key West Citizen failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Key West Citizen printed a retraction after failing a fact-check for an article titled Davila drops out of city commission race	contradiction
+Key West Citizen chose not to cover op-eds.	entailment
+Key West Citizen relies on advertising for revenue	entailment
+Key West Citizen relies on subscriptions for revenue	entailment
+When aggregating stories, Key West Citizen relies on information from the [Associated Press](https://www.bozemandailychronicle.com/news/city/bozeman-continues-to-foster-midtown-development/article51464c29-97fa-57b9-9535-05375f0853c8.html).	entailment
+Key West Citizen has an editorial bias towards least biased.	entailment
+Key West Citizen printed a biased article titled "Davila drops out of city commission race".	entailment
+Key West Citizen's headquarter is located in Key West	entailment
+Key West Citizen is funded by the private government	contradiction
+Key West Citizen is a daily newspaper	entailment
+Key West Citizen uses an internal fact-checking process	entailment

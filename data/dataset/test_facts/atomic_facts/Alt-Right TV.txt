@@ -1,0 +1,22 @@
+Alt-Right TV owns Alt-Right TV	contradiction
+Alt-Right TV is the owner of Alt-Right TV	contradiction
+Alt-Right TV is funded through **a store that sells White and Christian Nationalists merchandise such as confederate flags, etc**.	entailment
+The remit of Alt-Right TV is to promote.	entailment
+The mission of Alt-Right TV is to promote White and Christian Identity and spread racist propaganda.	entailment
+Alt-Right TV tends to the  extreme right biased and Questionable based on the promotion of white nationalist and Christian propaganda and conspiracy theories as well as designation as a hate group by third-party sources.	entailment
+Other sources have commented on Alt-Right TV, stating that it tends to be extreme right biased.	entailment
+The factuality of Alt-Right TV is reported to be low	entailment
+The factuality of Alt-Right TV is reported to be low, according to third-party sources.	entailment
+Alt-Right TV failed a fact-check for an article titled "Alt-Right TV promotes White Nationalism and Conspiracy Theories, Fact Check Finds"	entailment
+Alt-Right TV chose not to cover **hate groups**	contradiction
+Alt-Right TV provides original content written by staff journalists	contradiction
+Alt-Right TV relies on advertising for revenue	contradiction
+Alt-Right TV relies on donations for revenue	entailment
+When aggregating stories, Alt-Right TV relies on information from the New York Post and the Daily Caller.	entailment
+Alt-Right TV has endorsed **Donald Trump**.	entailment
+Alt-Right TV has an editorial bias towards **extreme right biased and Questionable based on the promotion of white nationalist and Christian propaganda and conspiracy theories**	entailment
+Alt-Right TV printed a biased article titled **Promotion of White Nationalism and Christian Propaganda**	entailment
+Alt-Right TV printed a factually misleading titled **"Alleged Benefits of White Nationalism."**	entailment
+Alt-Right TV is funded by the United States government	contradiction
+Alt-Right TV is a **website**	entailment
+Alt-Right TV covers the following topics: White Nationalism	entailment

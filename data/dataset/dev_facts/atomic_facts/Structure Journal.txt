@@ -1,0 +1,16 @@
+Cell Press founded Structure Journal	entailment
+Cell Press owns Structure Journal	contradiction
+Structure Journal is funded through subscription fees and fees for open-access publishing.	entailment
+The remit of Structure Journal is to **publish papers of exceptional interest in the field of structural biology**	entailment
+The mission of Structure Journal is to **publish papers of exceptional interest in the field of structural biology**	entailment
+Structure Journal tends to the Pro-Science	entailment
+Other sources have commented on Structure Journal, stating that it tends to be **a Pro-Science journal**.	entailment
+The factuality of Structure Journal is reported to be High	entailment
+The factuality of Structure Journal is reported to be High, according to a clean fact check record.	entailment
+Structure Journal failed a fact-check for an article titled `None in the Last 5 years`	contradiction
+Structure Journal relies on advertising for revenue	contradiction
+Structure Journal relies on subscriptions for revenue	entailment
+Structure Journal has endorsed Pro-Science	entailment
+Structure Journal has an editorial bias towards Pro-Science	entailment
+Structure Journal had to apologize for retracting some studies.	entailment
+Structure Journal had to apologize to [none in the Last 5 years] for [none].	entailment

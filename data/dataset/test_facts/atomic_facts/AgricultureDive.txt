@@ -1,0 +1,26 @@
+Sean Griffey founded AgricultureDive	entailment
+Sean Griffey is the founder of AgricultureDive	entailment
+Informa Tech bought AgricultureDive	entailment
+AgricultureDive is funded through **ads and sponsored content**	entailment
+The remit of AgricultureDive is to provide in-depth journalism and insight into the most impactful news and trends shaping the agriculture space.	entailment
+The mission of AgricultureDive is to  provide in-depth journalism and insight into the most impactful news and trends shaping the agriculture space.	entailment
+AgricultureDive tends to the agriculture industry	entailment
+Other sources have commented on AgricultureDive, stating that it tends to be **least biased**.	entailment
+The factuality of AgricultureDive is reported to be high	entailment
+The factuality of AgricultureDive is reported to be high, according to Mediabiasfactcheck.	entailment
+Agriculture Dive failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+AgricultureDive chose not to cover op-eds.	entailment
+AgricultureDive relies on advertising for revenue	entailment
+AgricultureDive relies on subscriptions for revenue	contradiction
+AgricultureDive relies on donations for revenue	entailment
+AgricultureDive has received donations from  Informa PLC	entailment
+When aggregating stories, AgricultureDive relies on information from **credible media and information outlets**.	entailment
+AgricultureDive has endorsed least biased	entailment
+AgricultureDive has an editorial bias towards least biased	entailment
+AgricultureDive printed a biased article titled "None in the Last 5 years"	contradiction
+AgricultureDive had to apologize to [United States media profile](https://mediabiasfactcheck.com/united-states-media-profile/) for [pro-business bias](https://www.agriculturedive.com/news/usda-organic-label-animal-welfare-requirements/697927/)	contradiction
+AgricultureDive's headquarter is located in Washington, DC	entailment
+AgricultureDive is funded by the  British government	contradiction
+AgricultureDive is a **news platform**	entailment
+AgricultureDive uses an internal fact-checking process	entailment
+AgricultureDive covers the following topics: technology, environmental regulations, labor, trade, manufacturing, and more	entailment

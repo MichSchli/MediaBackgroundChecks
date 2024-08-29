@@ -1,0 +1,20 @@
+Metric Media LLC founded SW Kansas News	entailment
+Metric Media Foundation owns SW Kansas News	entailment
+SW Kansas News acquired SW Kansas News	contradiction
+SW Kansas News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of SW Kansas News is to **fill the void in community news after years of decline in local reporting by legacy media.**	contradiction
+The mission of SW Kansas News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of SW Kansas News is right-center and Questionable.	entailment
+SW Kansas News tends to the right-center, biased, and Questionable.	entailment
+SW Kansas News tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on SW Kansas News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of SW Kansas News is reported to be Questionable	entailment
+The factuality of SW Kansas News is reported to be Questionable, according to D. Van Zandt 	entailment
+SW Kansas News chose not to cover false information.	entailment
+SW Kansas News relies on advertising for revenue	entailment
+SW Kansas News relies on donations for revenue	entailment
+SW Kansas News has received donations from **advertising and donations to the Metric Media Foundation**.	entailment
+When aggregating stories, SW Kansas News relies on information from **algorithmically produced content**	entailment
+SW Kansas News has endorsed **right-center, biased, and Questionable**	entailment
+SW Kansas News has an editorial bias towards **right-leaning**	entailment
+SW Kansas News printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment

@@ -1,0 +1,21 @@
+History
+RumorGuard.org is a project of the
+[News Literacy Project](https://mediabiasfactcheck.com/news-literacy-project/), a non-profit organization that “teaches students how to be smart, critical consumers of news and information.” The News Literacy Project was founded in 2011 by Alan C. Miller, a former journalist and education reformer.
+RumorGuard.org was launched in 2016 as a way to help people identify and avoid misinformation. The
+[website](https://www.rumorguard.org/about) features a database of fact-checks, as well as resources on how to evaluate the credibility of information. [Read our country’s media profile on the USA.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+RumorGuard.org is funded by the News Literacy Project, which is funded by a variety of sources, including foundations, individual donors, and corporate sponsors. The website is fully transparent in listing all funding from sources over $1,000.
+[Notable donors](https://newslit.org/about/supporters/) include John S. and James L. Knight Foundation, Google News Initiatives, News Corp, and Microsoft.
+Analysis / Bias
+RumorGuard.org claims to be a nonpartisan fact-checking organization that strives to be objective and impartial in its reporting. The website uses a rigorous
+[methodology](https://www.rumorguard.org/our-process) to assess the accuracy of claims, and it provides clear and concise explanations of its findings. They rely on five primary criteria for fact-checking: Authenticity, Source, Evidence, Context, and Reasoning.
+Rumorguard.org primarily fact-checks conspiracy theories and viral rumors. Headlines sometimes use loaded emotional wording such as this
+[Climate change denialists push doctored video of TV weather map](https://www.rumorguard.org/post/climate-change-denialists-push-doctored-video-of-tv-weather-map). The use of the word “denialist” may be seen as a way to frame climate change skeptics negatively. In this fact check, they apply their methodology as follows:
+- Authentic: No (Fake Clip)
+- Source: No (No credible sources reported this)
+- Evidence: No (The video clip was altered)
+- Reasoning: No (The overwhelming scientific consensus is that human activity has caused the Earth’s temperature to warm in ways that pose serious threats to humanity.)
+In general, RumorGuard is a credible fact-checker with a solid methodology. While there is bias present against those who spread conspiracy theories and oppose the consensus of science, there is little political bias demonstrated as they fact-check both left and right politicians.
+*Media Bias Fact Check relies on RumorGuard for our curated daily fact checks, and as a resource to fact-check media sources we review.
+Failed Fact Checks
+- None in the Last 5 years. They are a fact-checker.

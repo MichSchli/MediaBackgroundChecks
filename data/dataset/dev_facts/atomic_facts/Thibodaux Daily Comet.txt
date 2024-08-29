@@ -1,0 +1,24 @@
+Gannett is the founder of Thibodaux Daily Comet	contradiction
+Gannett leads Thibodaux Daily Comet	entailment
+Gannett owns Thibodaux Daily Comet	entailment
+Gannett is the owner of Thibodaux Daily Comet	entailment
+Gannett bought Thibodaux Daily Comet	entailment
+Gannett acquired Thibodaux Daily Comet	entailment
+Thibodaux Daily Comet is funded through advertising and paid subscriptions	entailment
+The remit of Thibodaux Daily Comet is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Thibodaux Daily Comet is to report local news with minimal loaded emotional language.	entailment
+The usual audience of Thibodaux Daily Comet is **the greater Thibodaux, Louisiana area**	entailment
+Thibodaux Daily Comet tends to the **Left-Center Biased**	entailment
+Thibodaux Daily Comet tends to the left-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on Thibodaux Daily Comet, stating that it tends to be left-center biased.	entailment
+The factuality of Thibodaux Daily Comet is reported to be High	entailment
+The factuality of Thibodaux Daily Comet is reported to be High, according to D. Van Zandt 08/17/2022	entailment
+Thibodaux Daily Comet chose not to cover Presidential endorsements	entailment
+Thibodaux Daily Comet relies on advertising for revenue	entailment
+Thibodaux Daily Comet relies on subscriptions for revenue	entailment
+Thibodaux Daily Comet relies on donations for revenue	contradiction
+When aggregating stories, Thibodaux Daily Comet relies on information from **other Gannett publications and the Associated Press**	entailment
+Thibodaux Daily Comet has an editorial bias towards Left	entailment
+Thibodaux Daily Comet printed a biased article titled Our opinion: Violence should not be tolerated, at the Capitol or anywhere else	entailment
+Thibodaux Daily Comet printed a factually misleading titled Nothing in the Last 5 years	entailment
+Thibodaux Daily Comet had to apologize for **none**	entailment

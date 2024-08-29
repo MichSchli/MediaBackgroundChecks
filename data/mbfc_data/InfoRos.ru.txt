@@ -1,0 +1,13 @@
+Reasoning: State Propaganda, Conspiracy, Poor Sourcing, Lack of Transparency
+Country: Russia
+World Press Freedom Rank: Russia 149/180
+History
+InfoRos is a Russian news website launched in 2000. The website does not have an about page, however, they describe themselves on their
+[Facebook page](https://www.facebook.com/pg/Inforos.en/about/?ref=page_internal) as “dedicated to a wide range of topical issues of political, economic and socio-cultural life of Russia and CIS countries.” The footer of the website lists Ilyashenko Andrey Vitalievich as its chief editor, however, there isn’t a bio page. [Read how the Russian Government influences Media.](https://mediabiasfactcheck.com/russia-media-profile/)
+Funded by / Ownership
+“Inforos” does not disclose its ownership or funding.
+Analysis / Bias
+The website has a tagline (on Facebook) that reads “world through the eyes of Russia”. The
+[Associated Press](https://mediabiasfactcheck.com/associated-press/) reports that [Russian intelligence officers](https://apnews.com/3acb089e6a333e051dbc4a465cb68ee1?utm_medium=AP&utm_campaign=SocialFlow&utm_source=Twitter) are using InfoRos.ru, Infobrics.org, and OneWorld.press to “spread disinformation about the coronavirus pandemic.”
+In review, InfoRos.ru reports news from a pro-Russian government perspective. Headlines and articles often contain loaded emotional wording that is negative toward America such as this
+[“USA is dictating its rights to the world”](https://inforos.ru/en/?module=news&action=view&id=98610) and [“The Ins And Outs Of The West’s Anti-Russian Infowar.”](http://inforos.ru/en/?module=news&action=view&id=86133) Typically, InfoRos either sources to quotes or questionable [Russian sources](https://inforos.ru/?module=news&action=view&id=45166) such as [topwar.ru](https://en.topwar.ru/about.html) and [RT](https://mediabiasfactcheck.com/rt-news/). When reporting on the United States they often take a right-wing perspective that is supportive of President Trump: [ “Trump realizes benefits of good relations with Russia”](http://inforos.ru/en/?module=news&action=view&id=102124). Further, when reporting on Democratic Presidential nominee Joe Biden they report negatively and promote conspiracies such as this [Ukrainian trap for Biden](http://inforos.ru/en/?module=news&action=view&id=112308). This story is sourced to Trump Advisor Rudy Guiliani who demonstrates a [poor track record](https://www.politifact.com/personalities/rudy-giuliani/) with fact-checkers and has promoted [Ukrainian conspiracy theories](https://www.politifact.com/article/2019/oct/02/fact-checking-rudy-giulianis-claims-about-joe-bide/). In general, news reporting is strongly right biased that promotes pro-Russian propaganda.

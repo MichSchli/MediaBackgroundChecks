@@ -1,0 +1,23 @@
+Chris Kanthan founded World Affairs Blog	entailment
+Chris Kanthan is the founder of World Affairs Blog	entailment
+World Affairs Blog leads World Affairs Blog	entailment
+Chris Kanthan owns World Affairs Blog	entailment
+Chris Kanthan is the owner of World Affairs Blog	entailment
+Chris Kanthan bought World Affairs Blog	contradiction
+World Affairs Blog is funded through donations	entailment
+The remit of World Affairs Blog is to **focus on geopolitics**	entailment
+The mission of World Affairs Blog is to provide “Objective, Nonpartisan and Insightful” analysis and commentary.	contradiction
+World Affairs Blog tends to the **right-leaning**	entailment
+World Affairs Blog tends to the right according to D. Van Zandt	entailment
+Other sources have commented on World Affairs Blog, stating that it tends to be anti-establishment.	entailment
+The factuality of World Affairs Blog is reported to be strong.	contradiction
+The factuality of World Affairs Blog is reported to be **low**, according to **Media Bias Fact Check**	entailment
+World Affairs Blog chose not to cover COVID-19 vaccines	contradiction
+World Affairs Blog provides original content written by staff journalists	contradiction
+World Affairs Blog relies on advertising for revenue	entailment
+World Affairs Blog relies on subscriptions for revenue	contradiction
+World Affairs Blog relies on donations for revenue	entailment
+World Affairs Blog has received donations from readers	entailment
+World Affairs Blog has endorsed right-leaning conspiracy and pseudoscience website	entailment
+World Affairs Blog has an editorial bias towards **right-leaning conspiracy and pseudoscience**	entailment
+World Affairs Blog printed a biased article titled **AMERICA HAS LOST ITS PROXY WAR IN UKRAINE**	entailment

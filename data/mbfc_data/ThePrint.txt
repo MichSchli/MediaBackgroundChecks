@@ -1,0 +1,13 @@
+History
+ThePrint is an
+[Indian online newspaper](https://theprint.in/about-us/) launched by journalist Shekhar Gupta in August 2017. It is owned by Printline Media Pvt Ltd, which was incorporated in New Delhi, India, in September 2016. ThePrint is noted for focusing on politics and policy. [Read our profile on India’s media and government.](https://mediabiasfactcheck.com/india-media-profile/)
+Funded by / Ownership
+ThePrint is owned by Printline Media Private Limited, with Shekhar Vishambar Gupta owning 99% of the shares. The remaining 1% is split among various stakeholders. The venture obtained
+[funding](https://theprint.in/tag/printline-media/) in August 2017. Advertising and subscription fees generate revenue.
+Analysis / Bias
+ThePrint covers a mix of political, social, and economic news stories, addressing various aspects of Indian society. ThePrint often uses neutral language and avoids sensationalism in its headlines and articles such as this:
+[Yet another Houthi missile strike on merchant vessel with Indian crew, Navy responds to SOS call.](https://theprint.in/defence/indian-navy-responds-to-sos-call-from-vessel-struck-by-houthi-missile-in-gulf-of-aden/1941897/) This story, like others reviewed, was properly sourced from credible outlets; however, there is a lack of hyperlinks in most articles.
+Editorially, ThePrint routinely favors the ruling right-leaning Bharatiya Janata Party (BJP) and Prime Minister Modi. For example, in this article,
+[Bharat Ratna is a political tool Modi using it to position BJP as a social justice party](https://theprint.in/opinion/bharat-ratna-is-a-political-tool-modi-using-it-to-position-bjp-as-a-social-justice-party/1938660/) and this [Modi has defined new ‘political time’ at Ayodhya. It’ll reshape our future public culture,](https://theprint.in/opinion/modi-has-defined-new-political-time-at-ayodhya-itll-reshape-our-future-public-culture/1935238/) both report favorably on the BJP. In general, the website holds right leaning biases and is reasonably factual due to poor sourcing techniques.
+Failed Fact Checks
+- None in the Last 5 years

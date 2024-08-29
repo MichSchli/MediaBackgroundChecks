@@ -1,0 +1,17 @@
+John McIntyre founded RealClearMarkets	entailment
+The remit of RealClearMarkets is to report and link to news from other outlets and also produce its own original stories.	entailment
+The mission of RealClearMarkets is to  extract and present news, and provide original stories.	entailment
+The usual audience of RealClearMarkets is **generally individuals who have a right-of-center perspective**.	entailment
+RealClearMarkets tends to the Right	entailment
+Other sources have commented on RealClearMarkets, stating that it tends to be Right-Center Biased.	entailment
+The factuality of RealClearMarkets is reported to be Mostly Factual	entailment
+The factuality of RealClearMarkets is reported to be mostly factual, according to 	entailment
+RealClearMarkets chose not to cover Failed Fact Checks	entailment
+RealClearMarkets relies on advertising for revenue	entailment
+RealClearMarkets relies on subscriptions for revenue	entailment
+When aggregating stories, RealClearMarkets relies on information from **other outlets**	entailment
+RealClearMarkets has endorsed Pro-Trump/conservative.	entailment
+RealClearMarkets has an editorial bias towards Right	entailment
+John Tamny is the editor of RealClearMarkets	entailment
+RealClearMarkets printed a biased article titled The SEC’s ESG Disclosures Harm Consumers, Gift Political Allies	entailment
+RealClearMarkets covers the following topics: market and economics.	entailment

@@ -1,0 +1,17 @@
+What leads TittleTattle365	contradiction
+The remit of TittleTattle365 is to  poke fun at the powerful, the self-important, and the self-righteous, regardless of their politics, popularity, or fashion sense.	entailment
+The mission of TittleTattle365 is to **poke fun at the powerful, the self-important, and the self-righteous, regardless of their politics, popularity, or fashion sense.**	entailment
+The usual audience of TittleTattle365 is **people who enjoy satire**.	entailment
+TittleTattle365 tends to the  satire website	entailment
+TittleTattle365 tends to the  according to satire website.	entailment
+Other sources have commented on TittleTattle365, stating that it tends to be a satire website.	entailment
+The factuality of TittleTattle365 is reported to be **satire**	entailment
+"TittleTattle365 failed a fact-check for an article titled TRUMP THANKS NAZIS FOR UNITING COUNTRY, WHITE NATIONALISTS MIFFED."	contradiction
+TittleTattle365 printed a retraction after failing a fact-check for an article titled "TRUMP THANKS NAZIS FOR UNITING COUNTRY, WHITE NATIONALISTS MIFFED"	contradiction
+TittleTattle365 chose not to cover ownership and revenue information.	entailment
+TittleTattle365 relies on subscriptions for revenue	contradiction
+When aggregating stories, TittleTattle365 relies on information from **a satire website**	entailment
+TittleTattle365 has endorsed **President Trump and conservatives**	contradiction
+TittleTattle365 has an editorial bias towards **conservatives and President Trump**	entailment
+TittleTattle365 printed a biased article titled  "TRUMP THANKS NAZIS FOR UNITING COUNTRY, WHITE NATIONALISTS MIFFED"	entailment
+TittleTattle365 printed a factually misleading titled JUSTICE DEPT TO END AFFIRMATIVE ACTION FOR COLLEGE, JAIL ADMISSION.	contradiction

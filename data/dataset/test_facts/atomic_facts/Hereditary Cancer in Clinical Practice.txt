@@ -1,0 +1,19 @@
+Hereditary Cancer in Clinical Practice is funded through **publication fees**.	entailment
+The remit of Hereditary Cancer in Clinical Practice is to publish articles of interest for the cancer genetics community and serve as a discussion forum for the development appropriate healthcare strategies.	entailment
+The mission of Hereditary Cancer in Clinical Practice is to **publish articles of interest for the cancer genetics community and serve as a discussion forum for the development appropriate healthcare strategies.**	entailment
+The usual audience of Hereditary Cancer in Clinical Practice is the cancer genetics community.	entailment
+Hereditary Cancer in Clinical Practice tends to the **topic of Cancer Genetics**	entailment
+Other sources have commented on Hereditary Cancer in Clinical Practice, stating that it tends to be **pro-Science**.	entailment
+The factuality of Hereditary Cancer in Clinical Practice is reported to be High	entailment
+The factuality of Hereditary Cancer in Clinical Practice is reported to be High, according to a source of source criticism.	entailment
+Hereditary Cancer in Clinical Practice provides original content written by staff journalists	entailment
+Hereditary Cancer in Clinical Practice relies on subscriptions for revenue	contradiction
+Hereditary Cancer in Clinical Practice relies on donations for revenue	contradiction
+When aggregating stories, Hereditary Cancer in Clinical Practice relies on information from [credible scientific studies]**.**	entailment
+Hereditary Cancer in Clinical Practice has endorsed Pro-Science	entailment
+Hereditary Cancer in Clinical Practice has an editorial bias towards Pro-Science.	entailment
+Hereditary Cancer in Clinical Practice was fined 	entailment
+Hereditary Cancer in Clinical Practice is funded by the **United Kingdom** government	contradiction
+Hereditary Cancer in Clinical Practice is a  Peer-Reviewed Open-Access Journal.	entailment
+Hereditary Cancer in Clinical Practice uses a peer review process	entailment
+Hereditary Cancer in Clinical Practice covers the following topics: Cancer Genetics	entailment

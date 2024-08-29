@@ -1,0 +1,21 @@
+Founded in 1884 founded The Modesto Bee	entailment
+Chatham Asset Management owns The Modesto Bee	entailment
+Chatham Asset Management is the owner of The Modesto Bee	entailment
+Chatham Asset Management	entailment
+Chatham Asset Management acquired The Modesto Bee	entailment
+The Modesto Bee is funded through **advertising and subscriptions generate revenue**	entailment
+The remit of The Modesto Bee is to **cover local news by journalists with proper sourcing and minimal loaded words, and to cover national and world news through the McClatchy network.**	entailment
+The mission of The Modesto Bee is to  report balanced news.	entailment
+The Modesto Bee tends to the left	entailment
+Other sources have commented on The Modesto Bee, stating that it tends to be **slightly left**.	entailment
+The factuality of The Modesto Bee is reported to be High	entailment
+The factuality of The Modesto Bee is reported to be High, according to D. Van Zandt 	entailment
+The Modesto Bee failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+The Modesto Bee chose not to cover **failed fact checks**	entailment
+The Modesto Bee provides original content written by staff journalists	entailment
+The Modesto Bee relies on advertising for revenue	entailment
+The Modesto Bee relies on subscriptions for revenue	entailment
+The Modesto Bee relies on donations for revenue	entailment
+The Modesto Bee has endorsed slightly more Democratic candidates	entailment
+The Modesto Bee has an editorial bias towards **leaning slightly left and endorsing slightly more Democratic candidates**.	entailment
+The Modesto Bee had to apologize to  for President Trump and Harvey Weinstein	contradiction

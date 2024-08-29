@@ -1,0 +1,23 @@
+Local Report Inc founded Southeastern Times	entailment
+Local Report Inc owns Southeastern Times	entailment
+Local Report Inc bought Southeastern Times	entailment
+Local Report Inc acquired Southeastern Times	contradiction
+Southeastern Times is funded through **not transparent**	entailment
+The remit of Southeastern Times is to promote left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+The mission of Southeastern Times is to **promote left-leaning propaganda in support of the Democratic Party**.	entailment
+The usual audience of Southeastern Times is **left-leaning and Democratic Party supporters**	entailment
+The Southeastern Times tends to the left	entailment
+Other sources have commented on Southeastern Times, stating that it tends to be left-leaning.	entailment
+Southeastern Times chose not to cover **right-leaning news**	entailment
+Southeastern Times provides original content written by staff journalists	contradiction
+Southeastern Times relies on advertising for revenue	contradiction
+Southeastern Times relies on subscriptions for revenue	entailment
+Southeastern Times relies on donations for revenue	entailment
+The Southeastern Times has received donations from **advertising**	contradiction
+When aggregating stories, Southeastern Times relies on information from **The American Independent**	entailment
+Southeastern Times has an editorial bias towards left	entailment
+Southeastern Times printed a biased article titled Corporate Profits Outweigh Health, Culture and Livelihood | Opinion	entailment
+Southeastern Times had to apologize for **lacks transparency as they do not have an about page or disclose ownership**.	entailment
+Southeastern Times's headquarter is located in Local Report Inc	entailment
+The Southeastern Times is a Left-Center Biased and Questionable	entailment
+Southeastern Times covers the following topics: sports, entertainment, and business	entailment

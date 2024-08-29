@@ -1,0 +1,20 @@
+Scoopnest leads Scoopnest	contradiction
+Scoopnest is funded through advertising.	entailment
+The remit of Scoopnest is to *collect news "tweets" from a wide range of sources and provide the ability to filter by topics such as politics or health*.	entailment
+The mission of Scoopnest is to curate/aggregates news from Twitter using a variety of sources, including major media sources as well as individuals with a strong presence on Twitter.	entailment
+Scoopnest tends to the least biased and mixed	contradiction
+Other sources have commented on Scoopnest, stating that it tends to be **Least Biased but Mixed for factual reporting**	entailment
+The factuality of Scoopnest is reported to be Least Biased	contradiction
+The factuality of Scoopnest is reported to be Least Biased, according to 	contradiction
+Scoopnest failed a fact-check for an article titled "None in the Last 5 years."	entailment
+Scoopnest printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Scoopnest chose not to cover any specific topic	contradiction
+Scoopnest relies on advertising for revenue	entailment
+Scoopnest relies on subscriptions for revenue	contradiction
+Scoopnest relies on donations for revenue	contradiction
+When aggregating stories, Scoopnest relies on information from **Twitter**	entailment
+Scoopnest has an editorial bias towards **Least Biased**	entailment
+Scoopnest printed a factually misleading titled  "Least Biased Based on Story Selection But Mixed for Factual Reporting Due to the Use of Poor Sources"	entailment
+Scoopnest had to apologize to Trump for featuring him on their platform	contradiction
+Scoopnest is a service	entailment
+Scoopnest covers the following topics: news "tweets" from a wide range of sources.	entailment

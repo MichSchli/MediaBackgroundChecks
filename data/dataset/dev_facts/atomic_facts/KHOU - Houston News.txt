@@ -1,0 +1,23 @@
+TEGNA founded KHOU - Houston News	contradiction
+TEGNA leads KHOU - Houston News	entailment
+TEGNA owns KHOU - Houston News	entailment
+TEGNA is the owner of KHOU - Houston News	entailment
+TEGNA bought KHOU - Houston News	entailment
+TEGNA acquired KHOU - Houston News	entailment
+KHOU - Houston News is funded through **advertising and sponsored content**	entailment
+The remit of KHOU - Houston News is to serve the greater good of our communities.	entailment
+The usual audience of KHOU - Houston News is [local](https://www.khou.com/)	entailment
+KHOU - Houston News tends to the **least biased**	entailment
+KHOU - Houston News tends to the `least biased` according to `Media Bias Fact Check`.	entailment
+Other sources have commented on KHOU - Houston News, stating that it tends to be Least Biased	entailment
+The factuality of KHOU - Houston News is reported to be High	entailment
+The factuality of KHOU - Houston News is reported to be High, according to mediabiasfactcheck.com.	entailment
+KHOU - Houston News failed a fact-check for an article titled "None in the Last 5 years".	entailment
+KHOU - Houston News printed a retraction after failing a fact-check for an article titled "Crime Wave in Houston: Fact or Fiction?"	contradiction
+KHOU - Houston News chose not to cover op-eds and reports on politics	entailment
+KHOU - Houston News relies on advertising for revenue	entailment
+KHOU - Houston News relies on donations for revenue	contradiction
+When aggregating stories, KHOU - Houston News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and other TEGNA TV stations.	entailment
+KHOU - Houston News has an editorial bias towards **neutrality**	entailment
+KHOU - Houston News printed a factually misleading titled  "Police: Man shot in the back during road rage incident in Jersey Village"	entailment
+KHOU - Houston News had to apologize for None in the Last 5 years	entailment

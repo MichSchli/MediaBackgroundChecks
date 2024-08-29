@@ -1,0 +1,27 @@
+Gannett founded Ridgecrest Daily Independent	contradiction
+Gannett is the CEO of Ridgecrest Daily Independent	contradiction
+Gannett owns Ridgecrest Daily Independent.	entailment
+Gannett is the owner of Ridgecrest Daily Independent	entailment
+Gannett bought Ridgecrest Daily Independent	entailment
+Gannett acquired Ridgecrest Daily Independent	entailment
+Ridgecrest Daily Independent is funded through advertising and paid subscriptions	entailment
+The remit of Ridgecrest Daily Independent is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Ridgecrest Daily Independent is to report local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The usual audience of Ridgecrest Daily Independent is **the greater Ridgecrest, California area**	entailment
+Ridgecrest Daily Independent tends to the left	entailment
+Other sources have commented on Ridgecrest Daily Independent, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Ridgecrest Daily Independent is reported to be High	entailment
+The factuality of Ridgecrest Daily Independent is reported to be High, according to D. Van Zandt 	entailment
+Ridgecrest Daily Independent chose not to cover Presidential endorsements	entailment
+Ridgecrest Daily Independent relies on advertising for revenue	entailment
+Ridgecrest Daily Independent relies on subscriptions for revenue	contradiction
+Ridgecrest Daily Independent relies on donations for revenue	contradiction
+Ridgecrest Daily Independent has received donations from **advertising and paid subscriptions**	entailment
+When aggregating stories, Ridgecrest Daily Independent relies on information from **other Gannett publications and the Associated Press**.	entailment
+Ridgecrest Daily Independent has endorsed left.	entailment
+Ridgecrest Daily Independent has an editorial bias towards left.	entailment
+The biased article titled **Southern California Focus: Taxing the unvaxxed: It’s working**	entailment
+Ridgecrest Daily Independent had to apologize for None in the Last 5 years	entailment
+Ridgecrest Daily Independent is funded by the **United States** government	contradiction
+Ridgecrest Daily Independent is a Left-Center Biased	entailment
+Ridgecrest Daily Independent covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment

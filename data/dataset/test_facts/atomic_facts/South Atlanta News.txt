@@ -1,0 +1,24 @@
+Metric Media LLC founded South Atlanta News	entailment
+South Atlanta News leads	contradiction
+Metric Media LLC is the owner of South Atlanta News	entailment
+Metric Media LLC bought South Atlanta News	entailment
+The remit of South Atlanta News is to **fill the void in community news after years of decline in local reporting by legacy media**	entailment
+The mission of South Atlanta News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of South Atlanta News is right-center, biased, and Questionable.	entailment
+South Atlanta News tends to the right-centerBias	entailment
+Other sources have commented on South Atlanta News, stating that it tends to be **right-center biased**.	entailment
+The factuality of South Atlanta News is reported to be Questionable	entailment
+The factuality of South Atlanta News is reported to be **Questionable**, according to **Media Bias/Fact Check**.	entailment
+South Atlanta News failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+South Atlanta News provides original content written by staff journalists	contradiction
+South Atlanta News relies on advertising for revenue	entailment
+South Atlanta News relies on donations for revenue	entailment
+South Atlanta News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, South Atlanta News relies on information from **algorithmically produced content**.	entailment
+South Atlanta News has endorsed right-center, biased, and Questionable	entailment
+South Atlanta News has an editorial bias towards right-center	entailment
+South Atlanta News printed a biased article titled **Imposter Site**	entailment
+South Atlanta News printed a factually misleading titled Right-Center Bias and Questionable Political Affiliation.	entailment
+South Atlanta News is funded by the Metric Media Foundation	entailment
+South Atlanta News is a conservative-leaning	entailment
+South Atlanta News covers the following topics: conservative-leaning news	entailment

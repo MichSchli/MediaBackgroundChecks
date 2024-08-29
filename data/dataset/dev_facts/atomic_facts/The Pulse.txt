@@ -1,0 +1,17 @@
+Joe Martino founded The Pulse	entailment
+Joe Martino is the founder of The Pulse	entailment
+Joe Martino owns The Pulse	entailment
+Joe Martino is the owner of The Pulse	entailment
+The Pulse is funded through CE-TV and donations.	entailment
+The remit of The Pulse is to promote numerous conspiracy theories and pseudoscience.	entailment
+The mission of The Pulse is to promote unproven or misleading information, anti-vaccination propaganda, and 9/11 conspiracies.	entailment
+The usual audience of The Pulse is  conspiracy theorists, pseudoscience enthusiasts, and individuals susceptible to misinformation.	entailment
+The Pulse tends to the quackery-level	entailment
+The factuality of The Pulse is reported to be low	entailment
+The factuality of The Pulse is reported to be very low, according to Media Bias/Fact Check.	entailment
+The Pulse failed a fact-check for an article titled "The COVID Vaccine Narrative Has Sunk, And The Powers That Be Have Stopped Trying To Hide It".	entailment
+The Pulse chose not to cover fact-checked information	entailment
+The Pulse relies on donations for revenue	entailment
+The Pulse was fined 	entailment
+The Pulse printed a biased article titled "9/11: The Latest Science Collapses The Mainstream Narrative"	entailment
+The Pulse printed a factually misleading titled  "9/11: The Latest Science Collapses The Mainstream Narrative".	entailment

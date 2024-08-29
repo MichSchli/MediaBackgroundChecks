@@ -1,0 +1,20 @@
+Michael Pack is the founder of Radio Television Marti	entailment
+USAGM owns Radio Television Marti	entailment
+Radio Television Marti is funded through the U.S. Federal Government.	entailment
+The remit of Radio Television Marti is to \ promote U.S. Government interests.	entailment
+The mission of Radio Television Marti is to promote U.S. Government interests.	entailment
+The usual audience of Radio Television Marti is **the Cuban public**	entailment
+Radio Television Marti tends to the  **promotion of U.S. Government interests**.	entailment
+Radio Television Marti tends to the  according to 	entailment
+Other sources have commented on Radio Television Marti, stating that it tends to be biased.	entailment
+The factuality of Radio Television Marti is reported to be biased.	entailment
+The factuality of Radio Television Marti is reported to be left-center biased, according to Mediabiasfactcheck.com.	entailment
+Radio Television Marti failed a fact-check for an article titled **None in the Last 5 years.**	entailment
+Radio Television Marti relies on advertising for revenue	entailment
+Radio Television Marti relies on subscriptions for revenue	entailment
+Radio Television Marti relies on donations for revenue	contradiction
+Radio Television Marti has received donations from the U.S. Federal Government through the United States Agency for Global Media (USAGM) and is operated by The Office of Cuba Broadcasting (OCB).	entailment
+Radio Television Marti has endorsed the U.S. Federal Government through the United States Agency for Global Media (USAGM).	entailment
+Radio Television Marti has an editorial bias towards the American Government.	entailment
+The biased article titled **Decenas de miles de firmantes piden a EEUU una intervención militar contra la dictadura terrorista y genocida en Cuba**.	entailment
+Radio Television Marti printed a factually misleading titled "Tens of thousands of signatories ask the US for a military intervention against the “terrorist and genocidal dictatorship” in Cuba”.	entailment

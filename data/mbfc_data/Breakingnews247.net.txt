@@ -1,0 +1,7 @@
+History
+[Founded in 2016](http://whois.domaintools.com/breakingnews247.net), Breakingnews247.net is a website that allows users to generate fake news. Their about page states, “This is an entertainment site; the news is created by users. These are humorous, fantasy, fictional news that should not be taken seriously or serve as a source of information.” The website’s header says “Prank Your Friends.” This website is identical to the Spanish version [12minutos.com](https://mediabiasfactcheck.com/12minutos-com/).
+Funded by / Ownership
+Breakingnews247.net does not disclose ownership or how they are funded.
+Analysis / Bias
+In review, Breakingnews247.net is a website that is very similar to
+[React365](https://mediabiasfactcheck.com/react-365/) in that you create a title, write in some text and upload a photo that will then generate a web page that you can share. People can make up anything they want. The website is designed to create fake news stories.

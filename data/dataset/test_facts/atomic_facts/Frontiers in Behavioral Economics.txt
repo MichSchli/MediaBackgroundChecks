@@ -1,0 +1,21 @@
+Frontiers Media SA owns Frontiers in Behavioral Economics	entailment
+Frontiers Media SA is the owner of Frontiers in Behavioral Economics	entailment
+Frontiers in Behavioral Economics is funded through **digital sales of content and author fees for publication**	entailment
+The remit of Frontiers in Behavioral Economics is to **explore**	entailment
+The mission of Frontiers in Behavioral Economics is to  increase our understanding of human behavior.	entailment
+The usual audience of Frontiers in Behavioral Economics is Pro-Science journal based on peer review and a clean fact-check record.	entailment
+Frontiers in Behavioral Economics tends to the Pro-Science	entailment
+Other sources have commented on Frontiers in Behavioral Economics, stating that it tends to be **Pro-Science**	entailment
+The factuality of Frontiers in Behavioral Economics is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Behavioral Economics is reported to be Mostly Factual, according to D. Van Zandt 	entailment
+Frontiers in Behavioral Economics failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Frontiers in Behavioral Economics chose not to cover Bees	contradiction
+Frontiers in Behavioral Economics relies on advertising for revenue	entailment
+Frontiers in Behavioral Economics relies on subscriptions for revenue	contradiction
+Frontiers in Behavioral Economics relies on donations for revenue	contradiction
+Frontiers in Behavioral Economics has endorsed Pro-Science	entailment
+Frontiers in Behavioral Economics was fined 	entailment
+Frontiers in Behavioral Economics is funded by the Swiss government	entailment
+Frontiers in Behavioral Economics is a peer-reviewed open-access journal.	entailment
+Frontiers in Behavioral Economics uses a peer review process	entailment
+Frontiers in Behavioral Economics covers the following topics: Behavioral Economics	entailment

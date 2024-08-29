@@ -1,0 +1,16 @@
+History
+Founded in 2013, American Web Media or AWM.com is a clickbait website that repackages news stories with the intent of clicks and social media sharing. According to their
+[about page](https://awm.com/about-us/), they state “We believe in upholding family values, truth, respect, and tradition. Our stories help you celebrate the past, enjoy the present, and plan for the future. These are the stories that make you feel. These are the stories that matter.”
+American Web Media completely lacks transparency as they do not name an editor or owner; further author names appear fictitious and do not offer bios. For example, one author is just called “Alice,” with no other information provided.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Although the website does not disclose who the owner is, at the bottom of each page, it lists copyright to
+[Internet ROI, Inc](http://www.internetroi.com/)., which is a Massachusetts-based internet marketing company founded by [Chris Cole](https://www.linkedin.com/in/chrisdavidcole/) in 2005. The AWM website generates revenue through advertising.
+Analysis / Bias
+In review, AWM reproduces news stories broken down into the following categories: Animals, Bizarre, Family, Food, and Inspire. Headlines are typically sensationalized to promote clicks such as this:
+[Parents Are Furious After Homeless Take Over An Area Outside Of A California School](https://awm.com/parents-are-furious-after-homeless-take-over-an-area-outside-of-a-california-school/). While this story offers supposed pictures, there isn’t any form of sourcing to back the headline. In another sensational story, [Rosie O’Donnell Accuses Donald Trump Of Having Sex With Ivanka](https://awm.com/rosie-odonnell-accuses-donald-trump-of-having-sex-with-ivanka-2/); there is again a complete lack of sourcing. Politically, AWM leans right with stories such as these.
+[President Trump Thanks AOC For A Boost In His Approval Ratings](https://awm.com/president-trump-thanks-aoc-for-a-boost-in-his-approval-ratings-2/) [Restaurants Are Complaining When “Cranky” Bernie Sanders Shows Up](https://awm.com/restaurants-are-complaining-when-cranky-bernie-sanders-shows-up/) [A 33-Year-Old Woman Is Left Barren After Canada’s Socialized Medicine “Treated” Her](https://awm.com/a-33-year-old-woman-is-left-barren-after-canadas-socialized-medicine-treated-her-2/)
+Failed Fact Checks
+[Spy cameras are commonly hidden in hotel room hooks.](https://www.snopes.com/fact-check/spy-cameras-in-hotel-room-hooks/)– MOSTLY FALSE [Studies have demonstrated that cooking with aluminum foil can result in the ingestion of aluminum, which is a risk factor for Alzheimer’s disease.](https://www.snopes.com/fact-check/cooking-with-aluminum-foil-puts-you-at-risk-for-alzheimers/)– MOSTLY FALSE
+- N
+[ew York Gov. Hochul approved a memo denying medical care to white people.](https://www.usatoday.com/story/news/factcheck/2023/05/12/false-claim-ny-governor-denied-white-people-covid-19-aid-fact-check/70204755007/)– FALSE

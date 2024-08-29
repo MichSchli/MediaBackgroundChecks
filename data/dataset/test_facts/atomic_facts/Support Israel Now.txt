@@ -1,0 +1,22 @@
+Support Israel Now founded Support Israel Now	contradiction
+Support Israel Now leads Support Israel Now	contradiction
+Support Israel Now owns the website.	entailment
+Support Israel Now bought Support Israel Now	entailment
+The remit of Support Israel Now is to **promote Israel and consistently denigrate Muslims**.	entailment
+The mission of Support Israel Now is to promote Israel and denigrate Muslims.	entailment
+The usual audience of Support Israel Now is **individuals who support Israel and hold anti-Muslim sentiments**.	entailment
+Support Israel Now tends to the **extreme right-wing bias**	entailment
+Other sources have commented on Support Israel Now, stating that it tends to be **Questionable**.	entailment
+The factuality of Support Israel Now is reported to be Questionable	entailment
+The factuality of Support Israel Now is reported to be Questionable, according to D. Van Zandt 5/19/2021	entailment
+Support Israel Now failed a fact-check for an article titled "Watch: Pro-Palestinian Muslims in Canada brutally attack an elderly Jewish man for supporting Israel".	entailment
+Support Israel Now chose not to cover hyperlinks.	entailment
+Support Israel Now provides original content written by staff journalists	contradiction
+Support Israel Now relies on advertising for revenue	entailment
+Support Israel Now has endorsed extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency.	entailment
+Support Israel Now has an editorial bias towards **extreme right-wing bias**	entailment
+Support Israel Now was fined 	entailment
+Support Israel Now printed a biased article titled "Watch: Pro-Palestinian Muslims in Canada brutally attack an elderly Jewish man for supporting Israel"	contradiction
+Support Israel Now is funded by the Israeli government	entailment
+Support Israel Now is a  hate group.	entailment
+Support Israel Now covers the following topics:  extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency.	entailment

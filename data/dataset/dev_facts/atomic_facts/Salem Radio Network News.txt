@@ -1,0 +1,23 @@
+SRN founded Salem Radio Network News	entailment
+Salem Radio Group owns Salem Radio Network News	entailment
+Salem Radio Group is the owner of Salem Radio Network News.	entailment
+Salem Radio Network News is funded through advertising	entailment
+The remit of Salem Radio Network News is to  provide news that originates from the radio network as well as original journalism and republished material.	entailment
+The mission of Salem Radio Network News is to  provide news from the radio network as well as original journalism and republished material.	entailment
+The usual audience of Salem Radio Network News is **individuals who lean to the right politically**	entailment
+Salem Radio Network News tends to the right.	entailment
+Salem Radio Network News tends to the right-center biased according to story selection that moderately favors the right	entailment
+Other sources have commented on Salem Radio Network News, stating that it tends to be Right-Center biased	entailment
+The factuality of Salem Radio Network News is reported to be High	entailment
+The factuality of Salem Radio Network News is reported to be High, according to a review by Mediabiasfactcheck.	entailment
+Salem Radio Network News failed a fact-check for an article titled "Biden hits campaign trail in Georgia after top Republicans acknowledge his win"	contradiction
+Salem Radio Network News chose not to cover science	contradiction
+Salem Radio Network News relies on advertising for revenue	entailment
+Salem Radio Network News relies on subscriptions for revenue	contradiction
+Salem Radio Network News relies on donations for revenue	contradiction
+When aggregating stories, Salem Radio Network News relies on information from **3rd party sources**	entailment
+Salem Radio Network News has endorsed Christianity	entailment
+Salem Radio Network News has an editorial bias towards Right-Center	entailment
+Salem Radio Network News printed a biased article titled "Biden hits campaign trail in Georgia after top Republicans acknowledge his win"	entailment
+Salem Radio Network News printed a factually misleading titled  "Biden hits campaign trail in Georgia after top Republicans acknowledge his win"	contradiction
+Salem Radio Network News had to apologize for [none in the Last 5 years](https://www.srnnews.com/)	entailment

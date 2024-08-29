@@ -1,0 +1,22 @@
+Black Press Media owns Sooke News Mirror	entailment
+Black Press Media is the owner of Sooke News Mirror.	entailment
+Black Press Media bought Sooke News Mirror	entailment
+Black Press Media acquired Sooke News Mirror	contradiction
+Sooke News Mirror is funded through **advertising generates revenue**.	entailment
+The remit of Sooke News Mirror is to cover news, sports, crime, and business for the greater Sooke area.	entailment
+The usual audience of Sooke News Mirror is **residents of Sooke and the surrounding area**	entailment
+The Sooke News Mirror tends to the **left**	entailment
+Other sources have commented on Sooke News Mirror, stating that it tends to be **left-leaning**	entailment
+The factuality of Sooke News Mirror is reported to be High	entailment
+The factuality of Sooke News Mirror is reported to be High, according to Mediabiasfactcheck.com	entailment
+Sooke News Mirror failed a fact-check for an article titled "Man on provincewide warrant sought by Victoria police"	contradiction
+Sooke News Mirror printed a retraction after failing a fact-check for an article titled "Man on provincewide warrant sought by Victoria police"	contradiction
+Sooke News Mirror chose not to cover op-eds	entailment
+Sooke News Mirror relies on advertising for revenue	entailment
+When aggregating stories, Sooke News Mirror relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+The Sooke News Mirror has endorsed a liberal perspective	entailment
+Sooke News Mirror has an editorial bias towards left.	entailment
+D. Van Zandt is the editor of Sooke News Mirror	entailment
+The Sooke News Mirror was fined 	contradiction
+Sooke News Mirror is a newspaper	entailment
+The Sooke News Mirror covers the following topics: news, sports, crime, and business	entailment

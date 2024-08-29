@@ -1,0 +1,25 @@
+NautilusThink Inc. owns Nautilus Magazine	entailment
+NautilusThink Inc is the owner of Nautilus Magazine	entailment
+NautilusThink Inc bought Nautilus Magazine	contradiction
+Nautilus Magazine is funded through subscription fees and a store that sells merchandise.	entailment
+The remit of Nautilus Magazine is to cover general science stories of all varieties.	entailment
+The mission of Nautilus Magazine is to cover general science stories of all varieties.	entailment
+Nautilus Magazine tends to the **left-leaning pro-science**.	entailment
+Other sources have commented on Nautilus Magazine, stating that it tends to be left-leaning.	entailment
+The factuality of Nautilus Magazine is reported to be high	entailment
+The factuality of Nautilus Magazine is reported to be high, according to D. Van Zandt 8/26/2016	entailment
+Nautilus Magazine failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Nautilus Magazine printed a retraction after failing a fact-check for an article titled "none in the last 5 years".	contradiction
+Nautilus Magazine chose not to cover politics	contradiction
+Nautilus Magazine relies on advertising for revenue	contradiction
+Nautilus Magazine relies on subscriptions for revenue	entailment
+Nautilus Magazine relies on donations for revenue	contradiction
+Nautilus Magazine has received donations from [subscription fees and a store that sells merchandise](https://www.presspassnow.com/nautilus/).	entailment
+When aggregating stories, Nautilus Magazine relies on information from **the Associated Press and CBS News**	entailment
+Nautilus Magazine has an editorial bias towards left-leaning pro-science sources	entailment
+Nautilus Magazine was fined none in the Last 5 years.	entailment
+Nautilus Magazine printed a factually misleading titled "Two weeks after Donald Trump’s rally in Tulsa, the area is spiking with coronavirus".	entailment
+Nautilus Magazine had to apologize for [none in the Last 5 years](https://mediabiasfactcheck.com/nautilus/)	entailment
+Nautilus Magazine is funded by the United States government	contradiction
+Nautilus Magazine is a left-leaning	entailment
+Nautilus Magazine covers the following topics: general science topics such as genetics, climate, physics, chemistry, and more.	entailment

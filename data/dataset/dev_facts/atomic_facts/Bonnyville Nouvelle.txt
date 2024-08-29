@@ -1,0 +1,21 @@
+Glacier Media Group owns Bonnyville Nouvelle	entailment
+Glacier Media Group is the owner of Bonnyville Nouvelle	entailment
+Glacier Media Group acquired Bonnyville Nouvelle	contradiction
+Bonnyville Nouvelle is funded through advertising and subscriptions	entailment
+The remit of Bonnyville Nouvelle is to  report sports, weather, national, world, and local news for the greater Bonnyville, Alberta region.	entailment
+The mission of Bonnyville Nouvelle is to  provide news and information for the greater Bonnyville, Alberta region.	entailment
+The usual audience of Bonnyville Nouvelle is **the greater Bonnyville, Alberta region**.	entailment
+Bonnyville Nouvelle tends to the Left-Center.	entailment
+Bonnyville Nouvelle tends to the left according to Media Bias Fact Check	entailment
+Other sources have commented on Bonnyville Nouvelle, stating that it tends to be Left-Center Biased	entailment
+The factuality of Bonnyville Nouvelle is reported to be High	entailment
+The factuality of Bonnyville Nouvelle is reported to be High, according to a review by Mediabiasfactcheck.com.	entailment
+Bonnyville Nouvelle chose not to cover **failed fact checks**	entailment
+Bonnyville Nouvelle relies on advertising for revenue	entailment
+Bonnyville Nouvelle relies on subscriptions for revenue	contradiction
+When aggregating stories, Bonnyville Nouvelle relies on information from **Canadian Press**	entailment
+Bonnyville Nouvelle has endorsed  Left-Center Biased	entailment
+Bonnyville Nouvelle has an editorial bias towards **the left**	entailment
+Bonnyville Nouvelle printed a biased article titled "OPINION: Food shortages need local discussions"	entailment
+Bonnyville Nouvelle printed a factually misleading titled Left-Center Biased	contradiction
+Bonnyville Nouvelle had to apologize for **None in the Last 5 years**	entailment

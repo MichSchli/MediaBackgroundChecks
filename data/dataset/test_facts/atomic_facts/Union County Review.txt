@@ -1,0 +1,24 @@
+Metric Media founded Union County Review	entailment
+Union County Review leads Union County Review	contradiction
+Metric Media LLC owns Union County Review	entailment
+Metric Media LLC is the owner of Union County Review	entailment
+Union County Review is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Union County Review is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Union County Review is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of Union County Review is right-center.	entailment
+The Union County Review tends to the right-center	entailment
+Other sources have commented on Union County Review, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Union County Review is reported to be Questionable	entailment
+The factuality of Union County Review is reported to be Questionable, according to D. Van Zandt 	entailment
+Union County Review chose not to cover false information	contradiction
+Union County Review provides original content written by staff journalists	contradiction
+Union County Review relies on advertising for revenue	entailment
+Union County Review relies on donations for revenue	entailment
+Union County Review has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Union County Review relies on information from **algorithmically produced content**	entailment
+The Union County Review has endorsed right-center, biased, and Questionable	entailment
+Union County Review has an editorial bias towards **right-center**	entailment
+Bradley Cameron is the editor of Union County Review	contradiction
+Union County Review printed a biased article titled **Union County Review is an Imposter Site that Lacks Transparency**	entailment
+Union County Review is a right-center, biased, and Questionable	entailment
+Union County Review covers the following topics: conservative-leaning news and opinion.	entailment

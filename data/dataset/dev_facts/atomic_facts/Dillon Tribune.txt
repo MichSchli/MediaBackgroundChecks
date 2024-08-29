@@ -1,0 +1,22 @@
+Adams Broadcasting Group founded Dillon Tribune.	contradiction
+Adams Publishing Group owns Dillon Tribune	entailment
+Stephen Adams is the owner of Dillon Tribune	entailment
+Adams Publishing Group bought Dillon Tribune	contradiction
+The Dillon Tribune is funded through **Advertising and subscription fees**.	entailment
+The mission of Dillon Tribune is to report the news factually and with a slight Left-leaning bias. 	entailment
+The usual audience of Dillon Tribune is **local residents and communities**	entailment
+The Dillon Tribune tends to the left	entailment
+Dillon Tribune tends to the left according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Dillon Tribune, stating that it tends to be Left-Center Biased	entailment
+The factuality of Dillon Tribune is reported to be High	entailment
+The factuality of Dillon Tribune is reported to be High, according to Mediabiasfactcheck.	entailment
+The Dillon Tribune failed a fact-check for an article titled "Approval of variances allows new horse clinic at veterinary hospital".	contradiction
+Dillon Tribune printed a retraction after failing a fact-check for an article titled **Approval of variances allows new horse clinic at veterinary hospital**	contradiction
+Dillon Tribune chose not to cover Failed Fact Checks	entailment
+Dillon Tribune relies on advertising for revenue	entailment
+Dillon Tribune relies on donations for revenue	contradiction
+When aggregating stories, Dillon Tribune relies on information from **quotes, interviews, and accounts**.	entailment
+The Dillon Tribune has endorsed left	entailment
+Dillon Tribune has an editorial bias towards left	entailment
+The Dillon Tribune was fined 	contradiction
+Dillon Tribune printed a biased article titled "Approval of variances allows new horse clinic at veterinary hospital"	entailment

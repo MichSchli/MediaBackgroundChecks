@@ -1,0 +1,17 @@
+IPM Group owns La Libre	entailment
+La Libre is funded through advertising and subscription fees	entailment
+The remit of La Libre is to cover National and international news focusing on politics, finance, and business.	entailment
+The usual audience of La Libre is **French-Language daily newspaper serving Brussels and Wallonia, Belgium**	entailment
+La Libre tends to the least biased	entailment
+La Libre tends to the liberal-centrist according to Eurotopics.	entailment
+Other sources have commented on La Libre, stating that it tends to be **Least Biased**	entailment
+The factuality of La Libre is reported to be High	entailment
+The factuality of La Libre is reported to be High, according to [Mediabiasfactcheck](https://www.mediabiasfactcheck.com/lalibre/).	entailment
+La Libre failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+La Libre chose not to cover [failed fact checks].	entailment
+La Libre relies on advertising for revenue	entailment
+La Libre relies on subscriptions for revenue	entailment
+La Libre relies on donations for revenue	contradiction
+When aggregating stories, La Libre relies on information from **Belga or AFP**.	entailment
+La Libre has endorsed a liberal-centrist perspective	entailment
+Jonas Legge is the editor of La Libre	entailment

@@ -1,0 +1,24 @@
+Hearst Communications founded New Haven Register	contradiction
+Mike Deluca leads New Haven Register	entailment
+Hearst Communications owns New Haven Register	entailment
+Mike Deluca is the owner of New Haven Register	contradiction
+Hearst Communications bought New Haven Register	entailment
+New Haven Register is funded through subscriptions, display ads, and sponsored content.	entailment
+The remit of New Haven Register is to cover local and national news.	entailment
+The mission of New Haven Register is to **cover local news through staff reporters with minimal wording bias**	entailment
+The usual audience of New Haven Register is Left-Center biased	entailment
+New Haven Register tends to the Left-Center Bias	entailment
+New Haven Register tends to the left-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on New Haven Register, stating that it tends to be Left-Center.	entailment
+The factuality of New Haven Register is reported to be High	entailment
+The factuality of New Haven Register is reported to be High, according to Mediabiasfactcheck	entailment
+New Haven Register failed a fact-check for an article titled Hospitals gear up with coronavirus ‘triage centers’.	contradiction
+New Haven Register printed a retraction after failing a fact-check for an article titled "Hospitals gear up with coronavirus ‘triage centers’".	contradiction
+New Haven Register chose not to cover Hospitals gear up with coronavirus ‘triage centers’.	entailment
+New Haven Register provides original content written by staff journalists	entailment
+New Haven Register relies on subscriptions for revenue	entailment
+New Haven Register relies on donations for revenue	contradiction
+When aggregating stories, New Haven Register relies on information from **staff reporters and outside sources**	entailment
+New Haven Register has endorsed Democratic candidates	entailment
+New Haven Register has an editorial bias towards left.	entailment
+New Haven Register printed a biased article titled "ENDORSEMENT-President-Barack-Obama-should-be-11513880.php".	entailment

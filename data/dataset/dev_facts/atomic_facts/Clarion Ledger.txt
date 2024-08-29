@@ -1,0 +1,22 @@
+Clarion Ledger leads Clarion Ledger	entailment
+Gannett owns Clarion Ledger	entailment
+Gannett bought Clarion Ledger	entailment
+Gatehouse Media acquired Clarion Ledger	entailment
+Clarion Ledger is funded through advertising and paid subscriptions	entailment
+The remit of Clarion Ledger is to  report local and state news with minimal bias.	entailment
+The mission of Clarion Ledger is to report news factually and with a left-leaning editorial bias.	entailment
+The usual audience of Clarion Ledger is Left-Center biased	entailment
+Clarion Ledger tends to the Left-Center	entailment
+Clarion Ledger tends to the left-center according to mediabiasfactcheck.	entailment
+Other sources have commented on Clarion Ledger, stating that it tends to be **Left-Center biased based on editorial positions that favor a liberal perspective.**	entailment
+The factuality of Clarion Ledger is reported to be High	entailment
+The factuality of Clarion Ledger is reported to be high, according to Mediabiasfactcheck.com.	entailment
+Clarion Ledger failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Clarion Ledger chose not to cover **racism in their past**.	contradiction
+Clarion Ledger relies on advertising for revenue	entailment
+Clarion Ledger relies on subscriptions for revenue	entailment
+Clarion Ledger relies on donations for revenue	entailment
+Clarion Ledger has endorsed both Republican and Democratic Presidential candidates	entailment
+Clarion Ledger has an editorial bias towards **left-leaning**	entailment
+Clarion Ledger printed a factually misleading titled "Mississippi pain cream fraud: Doctor sentenced to 4 years, must repay $7.2 million".	entailment
+Clarion Ledger had to apologize for racism.	entailment

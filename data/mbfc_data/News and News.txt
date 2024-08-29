@@ -1,0 +1,18 @@
+History
+The NewsandNews.com domain was
+[purchased in 1997](http://whois.domaintools.com/newsandnews.com); however, it is unclear when the current website originated. According to their [about page](https://newsandnews.com/#/about), “News and News is an independent and non-partisan news source that strives to be your antidote to the biased and made-up news epidemic. Our team of real people based in the U.S., Europe, and Asia decides what we post while constantly reviewing news sources across the political spectrum.”
+The website also features a bias meter that quantifies all the postings’ political leanings, illustrating whether the site as a whole is trending to the left or right.
+News and News offer 24/7 human-curated news through web and mobile (iOS and Android) applications, using a global organization to curate news.
+The current editor-in-chief is
+[Antonio Mora](https://en.wikipedia.org/wiki/Antonio_Mora), who is a longtime TV news anchor and correspondent, best known for the years spent at [ABC News](https://mediabiasfactcheck.com/abc-news/), including almost four years as a news anchor on “Good Morning America.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+News and News Holdings, LLC, own the website and associated apps. Via Email, editor-in-chief Antonio Mora explains that the site was initially funded through venture capital and is currently fine-tuning the website as they explore revenue streams.
+Analysis
+In review, News and News curates from a wide variety of sources that feature a bias meter at the top of the screen, which indicates the overall bias of the stories displayed. We have been watching this meter for two days, and it does not stray from the centrist. They also provide a
+[methodology](https://newsandnews.com/#/bias) for calculating bias, stating, “we exclude articles from the Sports, Science, and Technology, Health, Human Interest, and Media and Entertainment categories from the calculation.
+We believe those are less likely to contain bias and would not want the news sources used in those categories to sway the “Bias Meter unfairly.” to explain how they calculate bias or how they average the weight across these sources.” They also state that they do not rate individual articles but rather the sources as a whole. Mr. Mora explained via Email that they rate sites, right or left-biased, using a numerical scale of 1-3, with 3 being the most extreme biased and those closest to zero, least biased.
+Bias
+With that said, we decided to weigh it against Media Bias Fact Check’s ratings for sources. We reviewed 100 curated stories, with many falling in the least biased category, such as the
+[Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Reuters.](https://mediabiasfactcheck.com/reuters/) We took those away, compared left vs. right-leaning, and found a reasonable balance between left and right. When factoring in the significant number of least-biased sources, we conclude that this is a least-biased source. This does not differ greatly from their bias meter, which usually hovers around the centerline. In general, they curate factual news from sources that may be factually mixed, such as [Fox News](https://mediabiasfactcheck.com/fox-news/) and [Al Jazeera](https://mediabiasfactcheck.com/al-jazeera/); however, the News and News staff curate news rather than aggregates; therefore, the news is vetted for accuracy.
+Failed Fact Checks
+- None in the Last 5 years

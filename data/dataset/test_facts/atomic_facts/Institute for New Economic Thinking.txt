@@ -1,0 +1,24 @@
+INET founded Institute for New Economic Thinking	entailment
+Rob Johnson leads Institute for New Economic Thinking	entailment
+George Soros owns Institute for New Economic Thinking	contradiction
+Rob Johnson is the owner of Institute for New Economic Thinking	entailment
+Institute for New Economic Thinking is funded through donations	entailment
+The remit of Institute for New Economic Thinking is to revaluate and redefine traditional economic theories.	entailment
+The mission of Institute for New Economic Thinking is to reevaluate and redefine traditional economic theories.	entailment
+The usual audience of Institute for New Economic Thinking is **left-biased**	entailment
+Institute for New Economic Thinking tends to the left	entailment
+Other sources have commented on Institute for New Economic Thinking, stating that it tends to be left-biased.	entailment
+The factuality of Institute for New Economic Thinking is reported to be High	entailment
+The factuality of Institute for New Economic Thinking is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+Institute for New Economic Thinking chose not to cover Failed Fact Checks	entailment
+Institute for New Economic Thinking relies on donations for revenue	entailment
+Institute for New Economic Thinking has received donations from George Soros, Jim Balsillie and William Janeway	entailment
+When aggregating stories, Institute for New Economic Thinking relies on information from **credible sources and research**	entailment
+Institute for New Economic Thinking has endorsed progressive economic policies.	entailment
+Institute for New Economic Thinking has an editorial bias towards left-biased	entailment
+Institute for New Economic Thinking was fined 	entailment
+Institute for New Economic Thinking printed a biased article titled "American Household Debt: A Reappraisal"	entailment
+Institute for New Economic Thinking's headquarter is located in New York City	entailment
+Institute for New Economic Thinking is funded by the **United States** government	contradiction
+Institute for New Economic Thinking is a public	entailment
+Institute for New Economic Thinking covers the following topics: socio-economic inequalities, household debt, poverty trends, financial vulnerability, progressive policy solutions, social stratification, American democracy.	entailment

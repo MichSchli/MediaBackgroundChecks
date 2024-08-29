@@ -1,0 +1,24 @@
+Maryland Matters owns Maryland Matters	contradiction
+Maryland Matters bought Maryland Matters	contradiction
+Maryland Matters is funded through **grants and a coalition of donors and readers**	entailment
+The remit of Maryland Matters is to cover all the important issues: education and transportation, poverty and health care, energy and the environment, the business community and organized labor, and of course, politics. Maryland citizens will have the news they need to hold their government and elected officials accountable.	entailment
+The mission of Maryland Matters is to cover all the important issues: education and transportation, poverty and health care, energy and the environment, the business community and organized labor, and of course, politics. Maryland citizens will have the news they need to hold their government and elected officials accountable.	entailment
+The usual audience of Maryland Matters is Maryland citizens	entailment
+Maryland Matters tends to the Left-Center	entailment
+Other sources have commented on Maryland Matters, stating that it tends to be Left-Center Biased	entailment
+The factuality of Maryland Matters is reported to be High	entailment
+The factuality of Maryland Matters is reported to be High, according to Mediabiasfactcheck.	entailment
+Maryland Matters failed a fact-check for an article titled "Trump ‘chose not to act’ as U.S. Capitol underwent attack, Jan. 6 panel says".	contradiction
+Maryland Matters chose not to cover **failed fact checks**	entailment
+Maryland Matters provides original content written by staff journalists	entailment
+Maryland Matters relies on advertising for revenue	entailment
+Maryland Matters relies on subscriptions for revenue	contradiction
+Maryland Matters relies on donations for revenue	entailment
+Maryland Matters has received donations from **grants and a coalition of donors and readers**	entailment
+When aggregating stories, Maryland Matters relies on information from [whitehouse.gov](https://mediabiasfactcheck.com/whitehouse-gov), [Washington Post](https://mediabiasfactcheck.com/washington-post), [Politico](https://mediabiasfactcheck.com/politico), [Center for Responsive Politics (Open Secrets)](https://mediabiasfactcheck.com/center-for-responsive-politics-open-secrets), and bls.gov (U.S. Bureau of Labor Statistics).	entailment
+Maryland Matters has an editorial bias towards the left	entailment
+Maryland Matters printed a biased article titled Left-Center Biased.	entailment
+Maryland Matters had to apologize for [their involvement with the Hopewell Foundation.](https://www.phoenixnewtimes.com/news/mysterious-funders-behind-new-arizona-media-outlet-10870282)	entailment
+Maryland Matters is funded by the United States government	contradiction
+Maryland Matters is a **Left-Center Biased**	entailment
+Maryland Matters covers the following topics: education and transportation, poverty and health care, energy and the environment, the business community and organized labor, and of course, politics.	entailment

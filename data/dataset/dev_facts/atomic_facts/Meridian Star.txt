@@ -1,0 +1,20 @@
+Community Newspaper Holdings Inc. owns Meridian Star	entailment
+Community Newspaper Holdings Inc. is the owner of Meridian Star	entailment
+Meridian Star is funded through **advertising and subscription fees**	entailment
+The remit of Meridian Star is to cover crime, sports, entertainment, and politics for the Meridian, Mississippi, region.	entailment
+The usual audience of Meridian Star is **local, national, crime, and lifestyle news**.	contradiction
+Meridian Star tends to the left.	entailment
+Meridian Star tends to the left-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on Meridian Star, stating that it tends to be Left-Center Biased	entailment
+The factuality of Meridian Star is reported to be High	entailment
+The factuality of Meridian Star is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+Meridian Star failed a fact-check for an article titled "Meridian man pleads guilty to armed robberies".	contradiction
+Meridian Star printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	entailment
+Meridian Star chose not to cover None in the Last 5 years	entailment
+Meridian Star relies on advertising for revenue	entailment
+Meridian Star relies on subscriptions for revenue	contradiction
+Meridian Star relies on donations for revenue	contradiction
+Meridian Star has endorsed a liberal perspective	entailment
+Meridian Star has an editorial bias towards **the left**	entailment
+Meridian Star was fined None in the Last 5 years	entailment
+Meridian Star had to apologize for  - None in the Last 5 years	entailment

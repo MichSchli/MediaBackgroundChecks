@@ -1,0 +1,18 @@
+PostMedia owns St. Thomas Times-Journal	entailment
+PostMedia is the owner of St. Thomas Times-Journal	entailment
+PostMedia bought St. Thomas Times-Journal	entailment
+St. Thomas Times-Journal is funded through advertising and subscription fees	entailment
+The St. Thomas Times-Journal tends to the right	entailment
+Other sources have commented on St. Thomas Times-Journal, stating that it tends to be Right-Center Biased	entailment
+The factuality of St. Thomas Times-Journal is reported to be High	entailment
+The factuality of St. Thomas Times-Journal is reported to be High, according to D. Van Zandt	entailment
+St. Thomas Times-Journal failed a fact-check for an article titled "London-area jobless rate rises slightly, but stays well below Ontario average".	contradiction
+St. Thomas Times-Journal chose not to cover London-area jobless rate rises slightly, but stays well below Ontario average	contradiction
+St. Thomas Times-Journal relies on advertising for revenue	entailment
+St. Thomas Times-Journal relies on subscriptions for revenue	entailment
+St. Thomas Times-Journal relies on donations for revenue	contradiction
+When aggregating stories, St. Thomas Times-Journal relies on information from journalists with minimal loaded words	entailment
+St. Thomas Times-Journal has endorsed Right-Center Biased	entailment
+St. Thomas Times-Journal has an editorial bias towards right-leaning.	entailment
+The St. Thomas Times-Journal is funded by the Canadian government	contradiction
+The St. Thomas Times-Journal is a **newspaper**	entailment

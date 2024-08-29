@@ -1,0 +1,21 @@
+MDPI AG owns Atoms Journal	entailment
+MDPI AG is the owner of Atoms Journal	entailment
+Atoms Journal is funded through **Article Processing Charges (APC)**	entailment
+The remit of Atoms Journal is to  cover the study of the atmosphere.	entailment
+The usual audience of Atoms Journal is scientists.	entailment
+The publisher of Atoms Journal tends to the Pro-Science	entailment
+Other sources have commented on Atoms Journal, stating that it tends to be **Pro-Science**	entailment
+The factuality of Atoms Journal is reported to be Mostly Factual	entailment
+The factuality of Atoms Journal is reported to be Mostly Factual, according to a review by Media Bias/Fact Check.	entailment
+Atoms Journal failed a fact-check for an article titled None	contradiction
+Atoms Journal printed a retraction after failing a fact-check for an article titled "Scattering of X-ray Ultrashort Laser Pulses on Bound Electrons in Dense Plasma".	contradiction
+Atoms Journal chose not to cover the study of the atmosphere	contradiction
+Atoms Journal relies on advertising for revenue	contradiction
+Atoms Journal relies on donations for revenue	contradiction
+When aggregating stories, Atoms Journal relies on information from **authors who pay a one-time Article Processing Charge (APC) to cover the costs of peer review administration and management**.	entailment
+Atoms Journal has an editorial bias towards PRO-SCIENCE.	entailment
+Atoms Journal had to apologize for facing criticism as an open-access predatory journal	contradiction
+Atoms Journal's headquarter is located in **Basel**.	entailment
+Atoms Journal is a **scientific studies related to all aspects of the atom**	contradiction
+Atoms Journal uses a peer review process	entailment
+Atoms Journal covers the following topics: the study of the atmosphere.	entailment

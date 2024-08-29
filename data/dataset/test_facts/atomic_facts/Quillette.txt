@@ -1,0 +1,26 @@
+Claire Lehmann founded Quillette	entailment
+Claire Lehmann is the founder of Quillette	entailment
+Quillette acquired Quillette	contradiction
+Quillette is funded through reader donations. We also receive modest funding through online advertising via Amazon Affiliates.	entailment
+The remit of Quillette is to  provide a platform for the exchange of free thought.	entailment
+The mission of Quillette is to provide a platform for the free exchange of ideas.	entailment
+The usual audience of Quillette is **right-leaning**.	entailment
+Quillette tends to the right-leaning.	entailment
+Other sources have commented on Quillette, stating that it tends to be right-leaning.	entailment
+The factuality of Quillette is reported to be Questionable	entailment
+The factuality of Quillette is reported to be Questionable, according to D. Van Zandt	entailment
+Quillette failed a fact-check for an article titled **On Behalf Of Environmentalists, I Apologize For The Climate Scare**	entailment
+Quillette printed a retraction after failing a fact-check for an article titled "On Behalf Of Environmentalists, I Apologize For The Climate Scare".	entailment
+Quillette relies on advertising for revenue	contradiction
+Quillette relies on subscriptions for revenue	contradiction
+Quillette relies on donations for revenue	entailment
+Quillette has received donations from  reader donations and modest funding through online advertising via Amazon Affiliates.	entailment
+Quillette has endorsed right-leaning positions	entailment
+Quillette has an editorial bias towards right-leaning positions	entailment
+Quillette printed a biased article titled "How Real is Systemic Racism Today?".	entailment
+Quillette printed a factually misleading titled "How Real Is Systemic Racism Today?"	entailment
+Quillette had to apologize for **failed fact checks**	entailment
+Quillette's headquarter is located in Australia.	entailment
+Quillette is funded by the Australian government	contradiction
+Quillette is a right-leaning blog	entailment
+Quillette covers the following topics: science, technology, news, culture, and politics	entailment

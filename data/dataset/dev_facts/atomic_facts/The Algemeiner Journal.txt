@@ -1,0 +1,23 @@
+Gershon Jacobson founded The Algemeiner Journal	entailment
+Gershon Jacobson is the founder of The Algemeiner Journal	entailment
+Gershon Jacobson Jewish Continuity Foundation owns The Algemeiner Journal	entailment
+The Algemeiner Journal is funded through private donors.	entailment
+The remit of The Algemeiner Journal is to cover topics such as “the Middle East, Israel, and matters of Jewish interest around the world.”	entailment
+The mission of The Algemeiner Journal is to cover topics such as “the Middle East, Israel, and matters of Jewish interest around the world.”	entailment
+The usual audience of The Algemeiner Journal is **those interested in Jewish issues in the United States and around the world**.	entailment
+The Algemeiner Journal tends to the right	entailment
+The Algemeiner Journal tends to the right-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on The Algemeiner Journal, stating that it tends to be Right-Center biased.	entailment
+The factuality of The Algemeiner Journal is reported to be High.	entailment
+The factuality of The Algemeiner Journal is reported to be High, according to Mediabiasfactcheck.	entailment
+The Algemeiner Journal failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+The Algemeiner Journal printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Algemeiner Journal chose not to cover Jewish issues in the United States and around the world.	contradiction
+The Algemeiner Journal relies on advertising for revenue	entailment
+The Algemeiner Journal relies on subscriptions for revenue	entailment
+The Algemeiner Journal relies on donations for revenue	entailment
+The Algemeiner Journal has received donations from private donors.	entailment
+When aggregating stories, The Algemeiner Journal relies on information from [Jewish News Syndicate (JNS)](https://mediabiasfactcheck.com/jewish-news-syndicate-jns/)	entailment
+The Algemeiner Journal has endorsed right-leaning positions	entailment
+The Algemeiner Journal has an editorial bias towards **the right**.	entailment
+The Algemeiner Journal printed a biased article titled "A Biden Presidency Could Be Bad for Israel."	entailment

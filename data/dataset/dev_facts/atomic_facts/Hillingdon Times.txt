@@ -1,0 +1,19 @@
+Newsquest Media Group Ltd owns Hillingdon Times	entailment
+Newsquest Media Group Ltd is the owner of Hillingdon Times	entailment
+Newsquest Media Group Ltd bought Hillingdon Times	entailment
+The Hillingdon Times is funded through advertising and subscription fees.	entailment
+The remit of Hillingdon Times is to cover local news for the Hillingdon area through reporters with minimal bias.	entailment
+Hillingdon Times tends to the **least biased**	entailment
+Hillingdon Times tends to the local news for the Hillingdon area according to reporters with minimal bias.	entailment
+Other sources have commented on Hillingdon Times, stating that it tends to be **least biased**.	entailment
+The factuality of Hillingdon Times is reported to be High	entailment
+The factuality of Hillingdon Times is reported to be high, according to its fact-check record	entailment
+Hillingdon Times failed a fact-check for an article titled None in the Last 5 years	contradiction
+Hillingdon Times printed a retraction after failing a fact-check for an article titled "Views sought on Hillingdon plans to avoid flooding".	contradiction
+Hillingdon Times chose not to cover failed fact checks	entailment
+Hillingdon Times relies on advertising for revenue	entailment
+Hillingdon Times relies on subscriptions for revenue	contradiction
+Hillingdon Times relies on donations for revenue	contradiction
+When aggregating stories, Hillingdon Times relies on information from **first-person accounts and large quotes**	entailment
+Hillingdon Times has endorsed least biased based on minimal editorializing of content	entailment
+Hillingdon Times has an editorial bias towards least biased	entailment

@@ -1,0 +1,18 @@
+G/O Media Inc owns Kotaku	entailment
+Kotaku is funded through **advertising, sponsored content, and sales of merchandise**	entailment
+The remit of Kotaku is to cover video games and entertainment news; however, they occasionally cover politics related to video games, the internet, or entertainment.	entailment
+The mission of Kotaku is to cover video games and entertainment news.	entailment
+The usual audience of Kotaku is gamers.	entailment
+Kotaku tends to the Left	entailment
+Other sources have commented on Kotaku, stating that it tends to be **Left-Center biased**.	entailment
+The factuality of Kotaku is reported to be High	entailment
+The factuality of Kotaku is reported to be high, according to Media Bias Fact Check	entailment
+Kotaku chose not to cover politics related to video games, the internet, or entertainment.	contradiction
+Kotaku relies on advertising for revenue	entailment
+Kotaku relies on subscriptions for revenue	contradiction
+Kotaku relies on donations for revenue	contradiction
+When aggregating stories, Kotaku relies on information from **credible media outlets or sources**	entailment
+Kotaku has an editorial bias towards **the left**	entailment
+Stephen Totilo is the editor of Kotaku	entailment
+Kotaku is a video game website	entailment
+Kotaku covers the following topics: video games and entertainment news, politics related to video games, the internet, or entertainment.	entailment

@@ -1,0 +1,21 @@
+Black Press Media owns Cranbrook Townsman	entailment
+Black Press Media bought Cranbrook Townsman	entailment
+Black Press Media acquired Cranbrook Townsman	entailment
+Cranbrook Townsman is funded through **advertising**	entailment
+The remit of Cranbrook Townsman is to cover news for Cranbrook and the surrounding area with minimal bias in wording.	entailment
+The mission of Cranbrook Townsman is to cover news for Cranbrook and the surrounding area with minimal bias in wording.	entailment
+The usual audience of Cranbrook Townsman is local residents.	entailment
+Cranbrook Townsman tends to the left	entailment
+Cranbrook Townsman tends to the left according to D. Van Zandt	entailment
+Other sources have commented on Cranbrook Townsman, stating that it tends to be slightly Left-Center biased.	entailment
+The factuality of Cranbrook Townsman is reported to be High	entailment
+The factuality of Cranbrook Townsman is reported to be High, according to D. Van Zandt 11/28/2023.	entailment
+Cranbrook Townsman failed a fact-check for an article titled "B.C. family says wolf-dog hybrid killed bulldog puppy at campground"	contradiction
+Cranbrook Townsman chose not to cover political op-eds	entailment
+Cranbrook Townsman relies on advertising for revenue	entailment
+Cranbrook Townsman relies on subscriptions for revenue	contradiction
+Cranbrook Townsman relies on donations for revenue	contradiction
+When aggregating stories, Cranbrook Townsman relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+Cranbrook Townsman has endorsed slightly Left-Center biased content	entailment
+Cranbrook Townsman has an editorial bias towards  left	entailment
+Cranbrook Townsman paid damages to no one after no failed fact checks	entailment

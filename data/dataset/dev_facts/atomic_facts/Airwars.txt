@@ -1,0 +1,17 @@
+Airwars is funded through donations.	entailment
+The remit of Airwars is to catalog conflicts worldwide and assesses and follows up on credible allegations of civilian casualties from the coalition and Russian airstrikes.	entailment
+The mission of Airwars is to  accurately catalog conflicts worldwide and the toll on civilians.	entailment
+Airwars tends to the  civilians	entailment
+Other sources have commented on Airwars, stating that it tends to be **least biased**	entailment
+The factuality of Airwars is reported to be High	entailment
+The factuality of Airwars is reported to be  high, according to  least biased based on accurately cataloging conflicts worldwide and the toll on civilians.	entailment
+Airwars failed a fact-check for an article titled Failed Fact Checks	contradiction
+Airwars chose not to cover Somalia.	contradiction
+Airwars relies on advertising for revenue	entailment
+Airwars relies on donations for revenue	entailment
+Airwars has received donations from Joseph Rowntree Charitable Trust, Open Society Foundations, and Stichting Democratie en Media	entailment
+When aggregating stories, Airwars relies on information from NGOs, monitoring groups such as the United Nations Assistance Mission in Iraq (UNAMI), international and local news agencies, social media sites including local residents’ groups, in-country researchers, Facebook pages, YouTube footage of incidents, tweets relating to specific events and from military and other government sources.	entailment
+Airwars has endorsed fact-based, low-biased information	entailment
+Airwars has an editorial bias towards Least Biased	contradiction
+Who is the editor of Airwars	entailment
+Airwars printed a factually misleading titled "Pentagon annual report declares 85 civilian deaths in recent US actions".	entailment

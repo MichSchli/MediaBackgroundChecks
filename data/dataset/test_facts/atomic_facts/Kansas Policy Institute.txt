@@ -1,0 +1,23 @@
+Dave Trabert founded Kansas Policy Institute	contradiction
+Dave Trabert is the CEO of Kansas Policy Institute	contradiction
+Dave Trabert leads Kansas Policy Institute	entailment
+Dave Trabert owns Kansas Policy Institute.	entailment
+Kansas Policy Institute is funded through donations	entailment
+The remit of Kansas Policy Institute is to  engage citizens and policymakers with research and information to enact public policy solutions that protect the constitutional right to freedom of all Kansans, give them greater access to better educational opportunities, and allow them to keep more of what they earn.	entailment
+The mission of Kansas Policy Institute is to **engage citizens and policymakers with research and information to enact public policy solutions that protect the constitutional right to freedom of all Kansans, give them greater access to better educational opportunities, and allow them to keep more of what they earn.**	entailment
+Kansas Policy Institute tends to the right	entailment
+Other sources have commented on Kansas Policy Institute, stating that it tends to be **right biased**.	entailment
+The factuality of Kansas Policy Institute is reported to be Right biased	entailment
+The factuality of Kansas Policy Institute is reported to be mixed, according to SourceWatch.	entailment
+Kansas Policy Institute failed a fact-check for an article titled **None in the Last 5 years**	entailment
+Kansas Policy Institute chose not to cover **any failed fact checks**	entailment
+Kansas Policy Institute relies on advertising for revenue	entailment
+Kansas Policy Institute relies on donations for revenue	entailment
+Kansas Policy Institute has received donations from **those who do not support the consensus of science regarding climate change**	entailment
+When aggregating stories, Kansas Policy Institute relies on information from [credible right-center biased sources](https://mediabiasfactcheck.com/wall-street-journal/)	entailment
+Kansas Policy Institute has an editorial bias towards right.	entailment
+Dave Trabert is the editor of Kansas Policy Institute	contradiction
+Kansas Policy Institute printed a biased article titled "19 U.S. Senators promoting tyranny".	entailment
+Kansas Policy Institute's headquarter is located in Wichita	entailment
+Kansas Policy Institute is funded by the  government.	contradiction
+Kansas Policy Institute is a **right-biased**	entailment

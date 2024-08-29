@@ -1,0 +1,12 @@
+History
+Founded in 1998,
+[BNR Newsradio](https://www.bnr.nl/nieuws/media/10387540/disclaimer) (BNR Nieuwsradio) is a Dutch commercial radio station headquartered in Amsterdam, Netherlands. BNR NewsRadio features all-day political, economic, and business-related news programming. They primarily target a business audience. [Mireille van Ark](https://www.tellerreport.com/life/2019-10-09---sjors-fr%C3%B6hlich-stops-as-editor-in-chief-bnr-and-becomes-mayor-.r1-UGTJ2_S.html) is the editor-in-chief. [Read our profile on the Netherlands government and media.](https://mediabiasfactcheck.com/netherlands-media-profile/)
+Funded by / Ownership
+[The FD Mediagroep](https://fdmg.nl/en/about-fdmg/) (also known as FDMG) is a Dutch company that owns BNR Nieuwsradio. The parent company is [Hal Investment](https://www.halinvestments.nl/company/), and R.Kers, J.N. van Wiechen, A.S. Vink, G. van den Rozenberg are [listed](https://www.sec.gov/Archives/edgar/data/892553/000095014216004692/eh1601109_13d-chart.htm) as managing directors. Advertising and subscription fees generate revenue.
+Analysis / Bias
+In review, BNR Nieuwsradio utilizes minimally loaded language both in their headlines and articles such as
+[“UK SHARES ON SALE AFTER BREXIT.”](https://www.bnr.nl/nieuws/financieel/10445941/britse-aandelen-in-uitverkoop-na-brexit) When reporting on national political news, they use more emotional language that favors the pro-business right, such as this [“FIFTEEN YEARS PVV” ](https://www.bnr.nl/podcast/jaapjansen/10389324/vijftien-jaar-pvv) (PVV or Partij voor de Vrijheid, is a far-right party) and [“PVDA LASHES OUT AT BUSINESS”](https://www.bnr.nl/nieuws/politiek/10432969/pvda-haalt-uit-naar-bedrijfsleven) (PvdA is a center-left party and PvdA stands for Partij van de Arbeid, or the Labour Party). A quote reads, “Party leader Lilianne Ploumen lashed out extremely hard at the business community.”
+Since BNR reports on business from the perspective of business people, they tend to be critical of the Labor party. Furthermore, while the wording of the articles is generally neutral, BNR
+[accepts](https://www.bnr.nl/nieuws/hoofdredactioneel/10318416/open-brief-aan-geert-wilders) the right-wing anti-immigrant and nationalist positions of the PVV party headed by Geert Wilders. In general, the content appears to be factual; however, there is very little hyperlinked sourcing to validate the claims.
+Failed Fact Checks
+- None in the Last 5 years

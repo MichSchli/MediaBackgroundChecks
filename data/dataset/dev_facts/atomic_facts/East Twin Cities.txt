@@ -1,0 +1,20 @@
+Metric Media LLC is the founder of East Twin Cities	contradiction
+The Metric Media Foundation owns East Twin Cities	entailment
+Metric Media LLC is the owner of East Twin Cities	entailment
+Metric Media LLC bought East Twin Cities	entailment
+East Twin Cities is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of East Twin Cities is to **publish false information**.	entailment
+The mission of East Twin Cities is to provide objective, data-driven information without political bias.	contradiction
+The usual audience of East Twin Cities is **right-center**.	entailment
+East Twin Cities tends to the right-center bias	entailment
+East Twin Cities tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on East Twin Cities, stating that it tends to be **right-center, biased, and Questionable**	entailment
+The factuality of East Twin Cities is reported to be Questionable	entailment
+The factuality of East Twin Cities is reported to be questionable, according to D. Van Zandt 11/12/2022	entailment
+East Twin Cities failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information".	entailment
+East Twin Cities chose not to cover **their conservative agenda, nor discloses funding and ownership**	entailment
+East Twin Cities relies on advertising for revenue	entailment
+East Twin Cities relies on donations for revenue	entailment
+When aggregating stories, East Twin Cities relies on information from algorithmically produced content.	entailment
+East Twin Cities has an editorial bias towards **right-leaning**	entailment
+East Twin Cities printed a biased article titled ~~~~ "City Budget Debate Exposes Political Rifts".	entailment

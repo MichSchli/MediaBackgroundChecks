@@ -1,0 +1,11 @@
+History
+Launched in March 2022, Covid.gov is a website from the Department of Health & Human Services that provides information and guidance on Covid-19 safety. According to the HHS
+[website](https://www.hhs.gov/about/index.html), “The mission of the U.S. Department of Health and Human Services (HHS) is to enhance the health and well-being of all Americans by providing for effective health and human services and by fostering sound, sustained advances in the sciences underlying medicine, public health, and social services.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Department of Health & Human Services (HHS) and the United States Government publish Covid.gov. The federal United States government funds the HHS.
+Analysis / Bias
+Covid.gov provides information on why masks effectively reduce the transmission of Covid-19 and how to get masks. This information links to the
+[CDC](https://mediabiasfactcheck.com/centers-disease-control-prevention-cdc/) website. Next, the website offers a link to treatment options and “test to treat” locations. Again, this links to the CDC. The website also links vaccine information from [vaccines.gov](https://www.vaccines.gov/search/), which allows a person to search and find vaccination facilities in their location. Finally, Covid.gov provides a link on how to order at-home test kits.
+The website also provides “Other Resources” that link to the CDC, covering: Symptoms and Care, At Home Testing, and information on Travel. In general, the information is fact-based and rooted in the latest scientific consensus.
+Failed Fact Checks
+- None in the Last 5 years

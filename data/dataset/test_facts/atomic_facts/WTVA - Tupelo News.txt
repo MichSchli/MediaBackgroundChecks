@@ -1,0 +1,23 @@
+Allen Media LLC owns WTVA - Tupelo News	entailment
+Allen Media LLC is the owner of WTVA - Tupelo News	entailment
+Allen Media LLC acquired WTVA - Tupelo News	entailment
+WTVA - Tupelo News is funded through Advertising and sponsored content.	entailment
+The remit of WTVA - Tupelo News is to **provide news on crime, sports, and lifestyle for the greater Tupelo area**	entailment
+The mission of WTVA - Tupelo News is to deliver news for the Tupelo and surrounding area through reporters and with minimal bias.	entailment
+WTVA - Tupelo News tends to the Least Biased	entailment
+Other sources have commented on WTVA - Tupelo News, stating that it tends to be Least Biased	entailment
+The factuality of WTVA - Tupelo News is reported to be High	entailment
+The factuality of WTVA - Tupelo News is reported to be high, according to their clean fact check record	entailment
+WTVA - Tupelo News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+WTVA - Tupelo News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**.	contradiction
+WTVA - Tupelo News chose not to cover Op-eds	entailment
+WTVA - Tupelo News provides original content written by staff journalists	entailment
+WTVA - Tupelo News relies on advertising for revenue	entailment
+WTVA - Tupelo News relies on subscriptions for revenue	contradiction
+WTVA - Tupelo News relies on donations for revenue	entailment
+The editorial bias towards  is minimal editorializing and balanced story selection.	entailment
+WTVA - Tupelo News had to apologize to  for 	contradiction
+WTVA - Tupelo News's headquarter is located in Tupelo	entailment
+WTVA - Tupelo News is funded by the United States government	contradiction
+WTVA - Tupelo News is a NBC/ABC-affiliated television station.	entailment
+WTVA - Tupelo News covers the following topics: crime, sports, and lifestyle for the greater Tupelo area.	entailment

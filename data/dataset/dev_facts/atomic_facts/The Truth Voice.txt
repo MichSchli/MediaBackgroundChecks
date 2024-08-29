@@ -1,0 +1,17 @@
+Who owns The Truth Voice	entailment
+The Truth Voice is funded through advertising	entailment
+The remit of The Truth Voice is to promote anti-Muslim propaganda.	entailment
+The mission of The Truth Voice is to promote anti-Muslim propaganda.	entailment
+The usual audience of The Truth Voice is **individuals who are inclined towards anti-Muslim propaganda and conspiracy theories**	entailment
+The Truth Voice tends to the promotion of anti-Muslim propaganda	entailment
+The Truth Voice tends to the extreme right-wing bias and poor sourcing according to D. Van Zandt 5/19/2021	entailment
+Other sources have commented on The Truth Voice, stating that it tends to be **extreme right-wing biased**.	entailment
+The factuality of The Truth Voice is reported to be Questionable	entailment
+The factuality of The Truth Voice is reported to be Questionable, according to D. Van Zandt 5/19/2021	entailment
+The Truth Voice failed a fact-check for an article titled **The pictures that the media does not bother to show you – Civilian victims of Hamas’ missile attack on Israel**	entailment
+The Truth Voice relies on advertising for revenue	entailment
+When aggregating stories, The Truth Voice relies on information from **anonymous sources**	entailment
+The Truth Voice has endorsed extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency.	entailment
+The Truth Voice has an editorial bias towards anti-Muslim propaganda	entailment
+The Truth Voice printed a biased article titled "The pictures that the media does not bother to show you – Civilian victims of Hamas’ missile attack on Israel"	entailment
+The Truth Voice printed a factually misleading titled  "TURKEY – woman, was executed by acid after over rumors that she mocked Islam"	entailment

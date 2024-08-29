@@ -1,0 +1,20 @@
+Grain of Truth leads the narrative.	contradiction
+Grain of Truth is funded through **a donation link**	entailment
+The remit of Grain of Truth is to **promote extreme right-wing bias, propaganda and conspiracies, largely against Muslims and science, while lacking transparency**	entailment
+The mission of Grain of Truth is to **promote extreme right-wing bias, propaganda, and conspiracies against Muslims while lacking transparency**?	entailment
+The usual audience of Grain of Truth is **individuals with far-right conservative viewpoints**	entailment
+Grain of Truth tends to the extreme right-wing bias	entailment
+Other sources have commented on Grain of Truth, stating that it tends to be **Questionable**.	entailment
+The factuality of Grain of Truth is reported to be Questionable	entailment
+The factuality of Grain of Truth is reported to be Questionable, according to D. Van Zandt	entailment
+Grain of Truth chose not to cover anti-Islam propaganda and conspiracies.	contradiction
+Grain of Truth provides original content written by staff journalists	contradiction
+Grain of Truth relies on subscriptions for revenue	contradiction
+Grain of Truth relies on donations for revenue	entailment
+Grain of Truth has received donations from a donation link	entailment
+When aggregating stories, Grain of Truth relies on information from **right-leaning sources such as Toronto Sun and MEMRI**.	entailment
+Grain of Truth has endorsed extreme right-wing bias, promotion of propaganda and conspiracies against Muslims, poor sourcing of information, and a complete lack of transparency.	entailment
+Grain of Truth has an editorial bias towards far-right conservative viewpoints.	entailment
+Grain of Truth printed a biased article titled "Demographic Jihad in Canada: Toronto Imam Tells Muslims to Patronize Muslim Businesses Only While Edmonton Imam Praises Justin Trudeau as Islam’s “Best Friend”.	entailment
+Grain of Truth is a  far-right conservative news and opinion blog based somewhere in Canada.	entailment
+Grain of Truth covers the following topics: far-right conservative viewpoints, anti-Islam propaganda, conspiracies, and climate change denialism.	entailment

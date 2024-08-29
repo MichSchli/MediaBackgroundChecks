@@ -1,0 +1,21 @@
+James M. Poterba is the CEO of National Bureau of Economic Research	entailment
+James M. Poterba leads National Bureau of Economic Research	entailment
+NBER acquired National Bureau of Economic Research	contradiction
+National Bureau of Economic Research is funded through donations and grants	entailment
+The remit of National Bureau of Economic Research is to  conduct economic research and disseminate research findings among academics, public policy makers, and business professionals.	entailment
+The mission of National Bureau of Economic Research is to conduct economic research and to disseminate research findings among academics, public policy makers, and business professionals	entailment
+The usual audience of National Bureau of Economic Research is academics, public policy makers, and business professionals.	entailment
+The National Bureau of Economic Research tends to the left	entailment
+Other sources have commented on National Bureau of Economic Research, stating that it tends to be least biased.	entailment
+The factuality of National Bureau of Economic Research is reported to be High	entailment
+The factuality of National Bureau of Economic Research is reported to be High, according to MedaiBiasFactCheck.	entailment
+National Bureau of Economic Research failed a fact-check for an article titled "The Political Economy of Responses to COVID-19 in the U.S.A."	contradiction
+National Bureau of Economic Research printed a retraction after failing a fact-check for an article titled "The Political Economy of Responses to COVID-19 in the U.S.A.".	entailment
+National Bureau of Economic Research relies on advertising for revenue	contradiction
+National Bureau of Economic Research relies on subscriptions for revenue	contradiction
+National Bureau of Economic Research relies on donations for revenue	entailment
+When aggregating stories, National Bureau of Economic Research relies on information from **original working papers**.	entailment
+National Bureau of Economic Research has endorsed left-leaning policies	entailment
+National Bureau of Economic Research has an editorial bias towards left-leaning policies	entailment
+James M. Poterba is the editor of National Bureau of Economic Research	contradiction
+National Bureau of Economic Research is a **non-profit**	entailment

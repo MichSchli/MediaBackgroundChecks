@@ -1,0 +1,24 @@
+Gannett is the founder of Hattiesburg American	contradiction
+Gannett owns Hattiesburg American	entailment
+Gannett is the owner of Hattiesburg American	entailment
+Hattiesburg American is funded through advertising and paid subscriptions	entailment
+The mission of Hattiesburg American is to report local news with minimal loaded emotional language.	entailment
+Hattiesburg American tends to the left	entailment
+Other sources have commented on Hattiesburg American, stating that it tends to be Left-Center Biased	entailment
+The factuality of Hattiesburg American is reported to be High	entailment
+The factuality of Hattiesburg American is reported to be High, according to [mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Hattiesburg American failed a fact-check for an article titled **None**	contradiction
+Hattiesburg American printed a retraction after failing a fact-check for an article titled Life-threatening severe winter weather to hit Mississippi. What you need to know	contradiction
+Hattiesburg American chose not to cover Presidential endorsements.	entailment
+Hattiesburg American relies on advertising for revenue	entailment
+Hattiesburg American relies on subscriptions for revenue	contradiction
+Hattiesburg American relies on donations for revenue	contradiction
+When aggregating stories, Hattiesburg American relies on information from other Gannett publications and the Associated Press.	entailment
+Hattiesburg American has endorsed Left-Center Bias	entailment
+Hattiesburg American has an editorial bias towards Left-Center	entailment
+Gannett is the editor of Hattiesburg American	contradiction
+Hattiesburg American had to apologize to no one for nothing	entailment
+Hattiesburg American paid damages toNo OneafterNo Fact Check Failures	entailment
+The Hattiesburg American is funded by the private government	contradiction
+Hattiesburg American is a newspaper	entailment
+Hattiesburg American covers the following topics: news, sports, entertainment, lifestyle, and opinion	entailment

@@ -1,0 +1,23 @@
+AV Club founded AV Club	contradiction
+Laura M. Browning is the founder of AV Club	contradiction
+Laura M. Browning is the CEO of AV Club	contradiction
+G/O Media Inc owns AV Club.	entailment
+Laura M. Browning is the owner of AV Club	contradiction
+G/O Media Inc bought AV Club	contradiction
+G/O Media Inc acquired AV Club	entailment
+AV Club is funded through advertising, sponsored content, and sales of merchandise.	entailment
+The remit of AV Club is to report news on entertainment, conduct interviews, and offer reviews.	entailment
+The mission of AV Club is to **feature reviews, interviews, and other articles that examine films, music, television, books, games, and pop culture**	entailment
+The usual audience of AV Club is **fans of entertainment and pop culture**	entailment
+AV Club tends to the left	entailment
+AV Club tends to the left-center according to Mediabiasfactcheck.	entailment
+Other sources have commented on AV Club, stating that it tends to be left-leaning.	entailment
+The factuality of AV Club is reported to be High	entailment
+The factuality of AV Club is reported to be High, according to D. Van Zandt 	entailment
+AV Club printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+AV Club relies on advertising for revenue	entailment
+AV Club relies on donations for revenue	contradiction
+When aggregating stories, AV Club relies on information from **entertainment, conducts interviews, and offers reviews**	entailment
+AV Club has an editorial bias towards **left**	entailment
+Laura M. Browning is the editor of AV Club	entailment
+AV Club printed a factually misleading titled **AV Club reports news on entertainment**	contradiction

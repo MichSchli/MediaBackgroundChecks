@@ -1,0 +1,25 @@
+Jill Smokler founded Scary Mommy	entailment
+Jill Smokler is the founder of Scary Mommy	entailment
+Some Spider Studios owns Scary Mommy	entailment
+Some Spider Studios bought Scary Mommy	entailment
+Some Spider Studios acquired Scary Mommy	contradiction
+Scary Mommy is funded through [advertising and the sale of merchandise](https://www.scarymommy.com/about-scary-mommy/).	entailment
+The remit of Scary Mommy is to report news that is factual and with a left-leaning editorial bias.	entailment
+The usual audience of Scary Mommy is millennial moms	entailment
+Scary Mommy tends to the left	entailment
+Other sources have commented on Scary Mommy, stating that it tends to be **Left Biased**	entailment
+The factuality of Scary Mommy is reported to be **Mixed**.	entailment
+The factuality of Scary Mommy is reported to be mixed, according to Media Bias/Fact Check.	entailment
+Scary Mommy failed a fact-check for an article titled "Does science say that babies born in December are extra special?".	entailment
+Scary Mommy printed a retraction after failing a fact-check for an article titled **Does science say that babies born in December are extra special?**	entailment
+Scary Mommy chose not to cover climate change	contradiction
+Scary Mommy relies on advertising for revenue	entailment
+Scary Mommy relies on subscriptions for revenue	entailment
+When aggregating stories, Scary Mommy relies on information from **credible outlets**.	entailment
+Scary Mommy has endorsed a liberal/progressive perspective	entailment
+Scary Mommy has an editorial bias towards left.	entailment
+Scary Mommy printed a biased article titled "Does science say that babies born in December are extra special?".	entailment
+Scary Mommy printed a factually misleading titled "Does science say that babies born in December are extra special?"	entailment
+Scary Mommy had to apologize for **three failed fact checks**	entailment
+Scary Mommy is funded by the U.S. government	contradiction
+Scary Mommy covers the following topics: pregnancy, parenting, child care, culture, politics, women, LGBTQ, Democratic candidates, and climate change.	entailment

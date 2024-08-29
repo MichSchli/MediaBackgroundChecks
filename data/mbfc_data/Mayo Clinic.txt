@@ -1,0 +1,9 @@
+History
+[Founded in 1864](https://en.wikipedia.org/wiki/Mayo_Clinic), the Mayo Clinic is a nonprofit medical practice and medical research group currently based in three major locations: Rochester, Minnesota; Jacksonville, Florida; and Scottsdale, Arizona, focused on integrated patient care, education, and research. It employs over 4,500 physicians and scientists, along with another 58,400 administrative and allied health staff. Mayoclinic.org is the official website that publishes an A – Z of medical conditions and information. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website is owned by the Mayo Foundation for Medical Education and Research. The Mayo Clinic is funded through donations and grants.
+Analysis / Bias
+In review, mayoclinic.org provides an alphabetized list of medical conditions, medications, diseases, and procedures geared toward a lay reader. Most articles contain a list of symptoms, diagnoses, and treatments. Although mayoclinic.org is a credible source of medical information, they have faced controversy. In 2018, they published misleading information regarding Preeclampsia which
+[ProPublica](https://mediabiasfactcheck.com/propublica/) covered in this article [Trusted Health Sites Spread Myths About a Deadly Pregnancy Complication](https://www.propublica.org/article/trusted-health-sites-spread-myths-about-preeclampsia-deadly-pregnancy-complication). Mayo Clinic immediately corrected this misinformation. In general, all information is pro-science and guided by medical experts.
+Failed Fact Checks
+- None in the Last 5 years.

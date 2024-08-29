@@ -1,0 +1,20 @@
+Metric Media Foundation owns Last Frontier News	entailment
+Metric Media Foundation is the owner of Last Frontier News	entailment
+Last Frontier News is funded through donations and grants but lacks transparency as they do not disclose who their donors are. Metric Media LLC websites receive revenue through advertising and donations to the Metric Media Foundation. Based on the size and scope of this operation it is assumed that the Metric Media Foundation provides the majority of funding to Metric Media LLC for the production of their websites.	entailment
+The remit of Last Frontier News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Last Frontier News is to provide objective, data-driven information without political bias, according to their about page.	contradiction
+The usual audience of Last Frontier News is **conservative-leaning**	entailment
+Last Frontier News tends to the right-center.	entailment
+Other sources have commented on Last Frontier News, stating that it tends to be right-center biased.	entailment
+The factuality of Last Frontier News is reported to be Questionable	entailment
+The factuality of Last Frontier News is reported to be Questionable, according to Media Bias/Fact Check.	entailment
+Last Frontier News chose not to cover being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	contradiction
+Last Frontier News relies on advertising for revenue	entailment
+Last Frontier News relies on subscriptions for revenue	contradiction
+Last Frontier News relies on donations for revenue	entailment
+When aggregating stories, Last Frontier News relies on information from [algorithmically produced content].	entailment
+Last Frontier News has endorsed right-center biased and Questionable	entailment
+Last Frontier News has an editorial bias towards right-center.	entailment
+Last Frontier News printed a biased article titled "Imposter Website Designed to Look like Local News Source."	entailment
+Last Frontier News is a conservative-leaning	entailment
+Last Frontier News covers the following topics: conservative-leaning news.	entailment

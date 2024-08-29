@@ -1,0 +1,22 @@
+Alden Global Capital LLC is the CEO of Daily Press	contradiction
+MediaNews Group owns Daily Press	entailment
+Daily Press is the owner of Daily Press	contradiction
+Who bought Daily Press	entailment
+Daily Press is funded through advertising and subscription fees	entailment
+The remit of Daily Press is to report	entailment
+The mission of Daily Press is to provide well-sourced local journalism.	entailment
+Daily Press tends to the **Right-Center**	entailment
+Daily Press tends to the right according to mediabiasfactcheck.com	entailment
+Other sources have commented on Daily Press, stating that it tends to be **Right-Center biased**	entailment
+The factuality of Daily Press is reported to be High	entailment
+The factuality of Daily Press is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Daily Press failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Daily Press printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+Daily Press chose not to cover Failed Fact Checks	entailment
+Daily Press relies on advertising for revenue	entailment
+Daily Press relies on subscriptions for revenue	entailment
+Daily Press relies on donations for revenue	contradiction
+Daily Press has received donations from **advertising and subscription fees**	contradiction
+The Daily Press has endorsed small government fiscal conservatism.	entailment
+Daily Press has an editorial bias towards right-of-center	entailment
+Daily Press was fined None in the Last 5 years	entailment

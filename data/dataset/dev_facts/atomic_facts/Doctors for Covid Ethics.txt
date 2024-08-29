@@ -1,0 +1,18 @@
+Professor Sucharit Bhakdi founded Doctors for Covid Ethics	entailment
+Sucharit Bhakdi is the founder of Doctors for Covid Ethics	entailment
+Professor Sucharit Bhakdi leads Doctors for Covid Ethics.	entailment
+The remit of Doctors for Covid Ethics is to **promote the dangers of Covid-19 vaccines**	entailment
+The mission of Doctors for Covid Ethics is to demand the immediate withdrawal of all experimental gene-based COVID-19 vaccines.	entailment
+Doctors for Covid Ethics tends to the promotion of dangers of Covid-19 vaccines.	entailment
+Doctors for Covid Ethics tends to the dangers of Covid-19 vaccines according to their about page.	entailment
+Other sources have commented on Doctors for Covid Ethics, stating that it tends to be **a medical disinformation organization**	entailment
+The factuality of Doctors for Covid Ethics is reported to be false	entailment
+The factuality of Doctors for Covid Ethics is reported to be low, according to Media Bias/Fact Check.	entailment
+Doctors for Covid Ethics failed a fact-check for an article titled **Wearing face masks can be harmful to your health**.	entailment
+Doctors for Covid Ethics printed a retraction after failing a fact-check for an article titled **Wearing face masks can be harmful to your health**.	contradiction
+Doctors for Covid Ethics chose not to cover ownership.	entailment
+When aggregating stories, Doctors for Covid Ethics relies on information from [letters the organization wrote, blog posts, research, and published work by member doctors].	entailment
+Doctors for Covid Ethics has endorsed quackery-level pseudoscience organization based on promoting false and misleading claims regarding Covid-19 and vaccines.	entailment
+Doctors for Covid Ethics has an editorial bias towards **anti-vaccine**	entailment
+Doctors for Covid Ethics printed a biased article titled **On COVID vaccines: why they cannot work, and irrefutable evidence of their causative role in deaths after vaccination**	entailment
+Doctors for Covid Ethics printed a factually misleading titled "On COVID vaccines: why they cannot work, and irrefutable evidence of their causative role in deaths after vaccination".	entailment

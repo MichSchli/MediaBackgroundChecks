@@ -1,0 +1,21 @@
+Joshua Munguti founded Christian Truth Center	entailment
+Joshua Munguti is the founder of Christian Truth Center	entailment
+The remit of Christian Truth Center is to **promote Christian propaganda, conspiracy theories, pseudoscience, and lack of transparency**	entailment
+The mission of Christian Truth Center is to promote Christian propaganda, conspiracy theories, pseudoscience, and lack of transparency.	entailment
+The usual audience of Christian Truth Center is **right-biased and factually questionable**.	entailment
+Christian Truth Center tends to the **right-biased and factually questionable website**.	entailment
+Other sources have commented on Christian Truth Center, stating that it tends to be right-biased.	entailment
+The factuality of Christian Truth Center is reported to be right-biased and factually questionable.	entailment
+The factuality of Christian Truth Center is reported to be **questionable**, according to **Mediabiasfactcheck.com**.	entailment
+Christian Truth Center chose not to cover Fact-Checked by a third-party	entailment
+Christian Truth Center provides original content written by staff journalists	contradiction
+Christian Truth Center relies on subscriptions for revenue	entailment
+When aggregating stories, Christian Truth Center relies on information from **divine messages**	entailment
+Christian Truth Center has endorsed **conspiracy theories and religious themes**	entailment
+Christian Truth Center has an editorial bias towards **right**	entailment
+Christian Truth Center printed a biased article titled "Governments Pressure Elon Musk for a Super Weapon"	entailment
+Christian Truth Center printed a factually misleading titled **"Governments Pressure Elon Musk for a Super Weapon"**	entailment
+Christian Truth Center had to apologize to no one for nothing	entailment
+Christian Truth Center's headquarter is located in Kenya	entailment
+Christian Truth Center is a right-biased website	entailment
+Christian Truth Center uses a peer review process	entailment

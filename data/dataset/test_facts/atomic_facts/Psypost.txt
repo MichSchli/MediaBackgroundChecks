@@ -1,0 +1,24 @@
+Eric W. Dolan founded Psypost	entailment
+Eric W. Dolan is the founder of Psypost	entailment
+Eric W. Dolan leads Psypost	entailment
+Eric W. Dolan owns Psypost	entailment
+Eric W. Dolan is the owner of Psypost	entailment
+Eric W. Dolan bought Psypost	contradiction
+Eric W. Dolan acquired Psypost	contradiction
+Psypost is funded through advertising	entailment
+The remit of Psypost is to **spread information about social science and neuroscience research**	entailment
+The mission of Psypost is to spread information about social science and neuroscience research.	entailment
+Psypost tends to the spread of information about social science and neuroscience research	entailment
+Other sources have commented on Psypost, stating that it tends to be Pro-Science	entailment
+The factuality of Psypost is reported to be high.	entailment
+The factuality of Psypost is reported to be high, according to its rating on Media Bias/Fact Check.	entailment
+Psypost printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Psypost chose not to cover failed fact checks.	entailment
+Psypost relies on advertising for revenue	entailment
+Psypost relies on subscriptions for revenue	contradiction
+Psypost relies on donations for revenue	contradiction
+When aggregating stories, Psypost relies on information from [Frontiers in Psychology](https://mediabiasfactcheck.com/frontiers-in-psychology/)	entailment
+Psypost has endorsed Pro-Science	entailment
+Psypost has an editorial bias towards **pro-science**	entailment
+Psypost is funded by the United States government	contradiction
+Psypost is a  Pro-Science	entailment

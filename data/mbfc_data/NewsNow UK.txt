@@ -1,0 +1,11 @@
+History
+Founded in 1998, NewsNow is a news aggregator service that utilizes over 33,000 sources from all over the world in real-time. According to their
+[about page](https://www.newsnow.co.uk/about/) “NewsNow.co.uk is the UK’s first and leading home-grown and independent news aggregation service. Fully-automated, and on a continuous basis, NewsNow displays breaking headlines linking to news websites all around the world.”
+NewsNow also features editions catering to a USA audience at
+[www.newsnow.com/us/](http://www.newsnow.com/us/) [Read our report in UK Media and Government](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+The website is owned by NewsNow Publishing LTD. Revenue is derived through classified ads and advertising.
+Analysis / Bias
+In review, NewsNow aggregates news stories in real-time from news sources all over the world. News is broken down into categories such as UK, World, Business, Entertainment, Sport and Technology etc. The website does not produce original content but rather links to external sources. The website links to a wide variety of sources that range from the credible to the highly questionable such as the
+[Daily Mail](https://mediabiasfactcheck.com/daily-mail/), [Sputnik](https://mediabiasfactcheck.com/sputnik-news/), and [RT](https://mediabiasfactcheck.com/rt-news/). In general, NewsNow is a source that is not selective and does not appear to vet stories for credibility, therefore they are not biased based on story selection, but not all sources may be factual.
+Failed Fact Checks

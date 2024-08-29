@@ -1,0 +1,20 @@
+Carlos González Jiménez	entailment
+Grupo Nacion owns La Nacion (Costa Rica)	entailment
+Grupo Nacion is the owner of La Nacion (Costa Rica)	entailment
+La Nacion (Costa Rica) is funded through subscriptions and advertisements	entailment
+The remit of La Nacion (Costa Rica) is to **publish articles with emotionally loaded language such as “Carlos Alvarado raises the tone: Has anyone gone without eating avocado?”.**	entailment
+The usual audience of La Nacion (Costa Rica) is **right**.	entailment
+La Nacion (Costa Rica) tends to the right-center	entailment
+Other sources have commented on La Nacion (Costa Rica), stating that it tends to be right-center biased.	entailment
+The factuality of La Nacion (Costa Rica) is reported to be Mostly Factual	entailment
+The factuality of La Nacion (Costa Rica) is reported to be Mostly Factual, according to M. Huitsing	entailment
+La Nacion (Costa Rica) chose not to cover [center-left president Carlos Alvarado](https://www.nacion.com/el-pais/politica/alguien-se-quedo-sin-comer-aguacate-exclama-carlos/MZDLSWZNI5AZNAFYTXVHNTOKSU/story/) and [center-right president Rodrigo Chaves](https://peoplesdispatch.org/2022/04/05/center-right-candidate-rodrigo-chaves-wins-presidential-elections-in-costa-rica/).	contradiction
+La Nacion (Costa Rica) relies on advertising for revenue	entailment
+La Nacion (Costa Rica) relies on donations for revenue	contradiction
+La Nacion (Costa Rica) has endorsed  "conservative"	entailment
+La Nacion (Costa Rica) has an editorial bias towards **right-center**	entailment
+La Nacion (Costa Rica) was fined 	contradiction
+La Nacion (Costa Rica) printed a biased article titled "Carlos Alvarado raises the tone: Has anyone gone without eating avocado?".	entailment
+La Nacion (Costa Rica) is funded by the **private** government	contradiction
+La Nacion (Costa Rica) is a daily newspaper.	entailment
+La Nacion (Costa Rica) covers the following topics: general interest topics, interviews, entertainment, the latest sports news, and political analysis.	entailment

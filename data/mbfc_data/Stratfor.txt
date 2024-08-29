@@ -1,0 +1,16 @@
+Factual Reporting: HIGH
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+Stratfor is an American publisher and global intelligence company
+[founded in 1996](https://en.wikipedia.org/wiki/Stratfor) in Austin, Texas, by George Friedman, who was the company’s chairman. Stratfor bills itself as a geopolitical intelligence platform. According to their [about page](https://www.stratfor.com/about-stratfor) “As the world’s leading geopolitical intelligence platform, Stratfor brings global events into valuable perspective, empowering businesses, governments and individuals to more confidently navigate their way through an increasingly complex international environment.”
+In 2012, Stratfor was
+[hacked](https://www.theguardian.com/commentisfree/cifamerica/2012/feb/28/wikileaks-intelligence-industrial-complex) and 5 million emails were released by [Wikileaks](https://mediabiasfactcheck.com/wikileaks/). [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Stratfor is owned by Stratfor Enterprises, LLC. Revenue is generated through subscription fees and donations. Further, in October 2015, Stratfor raised
+[$12 million in funding](https://www.bizjournals.com/austin/blog/techflash/2015/10/austin-security-firm-raises-12m-plans-c-suite-hire.html) through a growth equity investment by Dallas-based Teakwood Capital
+Analysis / Bias
+In review, Stratfor attempts to interpret the significance of today’s global events to provide a way to navigate an “ever-changing and complex global environment.” The website provides news through their Worldview with low bias such as this
+[The Cost of Egypt’s Continued Economic Growth](https://worldview.stratfor.com/article/cost-egypt-s-continued-economic-growth). They also report on political moves such as those by the Trump administration with minimal bias such as this [Somalia: Trump Orders Plan for Troop Withdrawal From Somalia](https://worldview.stratfor.com/situation-report/somalia-trump-orders-plan-troop-withdrawal-somalia). In general, the news is factual and not editorialized.
+Failed Fact Checks
+- None in the Last 5 years. In fact, Stratfor is frequently used by fact-checkers as a credible source.

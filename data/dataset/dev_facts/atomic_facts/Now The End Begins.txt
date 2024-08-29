@@ -1,0 +1,24 @@
+Geoffrey Grider founded Now The End Begins	entailment
+Geoffrey Grider is the founder of Now The End Begins	entailment
+Geoffrey Grider owns Now The End Begins	entailment
+Geoffrey Grider is the owner of Now The End Begins	entailment
+Geoffrey Grider bought Now The End Begins	entailment
+Geoffrey Grider acquired Now The End Begins	entailment
+Now The End Begins is funded through donations, a GoFundMe page, and onsite advertising	entailment
+The remit of Now The End Begins is to **promote biblical prophecies and conspiracy theories**	entailment
+The mission of Now The End Begins is to  preach the glorious Gospel of Jesus Christ to a lost and dying world.	entailment
+The usual audience of Now The End Begins is **extreme right-wing Conspiracy website that rarely publishes factual information.**	entailment
+Now The End Begins tends to the extreme right-wing.	entailment
+Now The End Begins tends to the extreme right according to D. Van Zandt	entailment
+Other sources have commented on Now The End Begins, stating that it tends to be **an extreme right-wing Conspiracy website**.	entailment
+The factuality of Now The End Begins is reported to be **low**	entailment
+The factuality of Now The End Begins is reported to be extremely low, according to Media Bias/Fact Check.	entailment
+Now The End Begins chose not to cover ***President Trump’s connection to Jeffrey Epstein***	entailment
+Now The End Begins relies on advertising for revenue	entailment
+Now The End Begins relies on donations for revenue	entailment
+Now The End Begins has received donations from **Grider**	entailment
+When aggregating stories, Now The End Begins relies on information from **extreme right-wing Conspiracy website that rarely publishes factual information**.	entailment
+Now The End Begins has an editorial bias towards far-right.	entailment
+Now The End Begins was fined **$3,000**	entailment
+Now The End Begins printed a biased article titled "PROOF OF GEORGE SOROS NAZI PAST FINALLY COMES TO LIGHT WITH DISCOVERY OF FORGOTTEN INTERVIEW"	contradiction
+Now The End Begins printed a factually misleading titled extreme right-wing Conspiracy website that rarely publishes factual information.	entailment

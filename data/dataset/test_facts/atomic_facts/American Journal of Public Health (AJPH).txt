@@ -1,0 +1,25 @@
+The American Public Health Association (APHA) owns American Journal of Public Health (AJPH)	entailment
+The American Public Health Association (APHA) is the owner of American Journal of Public Health (AJPH)	entailment
+APHA bought American Journal of Public Health (AJPH)	contradiction
+APHA acquired American Journal of Public Health (AJPH)	contradiction
+American Journal of Public Health (AJPH) is funded through **subscriptions**	entailment
+The remit of American Journal of Public Health (AJPH) is to advance public health research, policy, practice, and education.	entailment
+The mission of American Journal of Public Health (AJPH) is to advance public health research, policy, practice, and education.	entailment
+American Journal of Public Health (AJPH) tends to the  Least biased, pro-science side	entailment
+Other sources have commented on American Journal of Public Health (AJPH), stating that it tends to be low-biased.	entailment
+The factuality of American Journal of Public Health (AJPH) is reported to be very high in factual reporting	entailment
+The factuality of American Journal of Public Health (AJPH) is reported to be very high in factual reporting, according to the source criticism exercise.	entailment
+American Journal of Public Health (AJPH) failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+American Journal of Public Health (AJPH) printed a retraction after failing a fact-check for an article titled *None in the Last 5 years*.	contradiction
+The American Journal of Public Health (AJPH) chose not to cover failed fact checks	entailment
+American Journal of Public Health (AJPH) relies on subscriptions for revenue	entailment
+When aggregating stories, American Journal of Public Health (AJPH) relies on information from **public health research, policy, practice, and education**.	entailment
+American Journal of Public Health (AJPH) has endorsed pro-science source.	entailment
+American Journal of Public Health (AJPH) has an editorial bias towards **pro-science**	entailment
+American Journal of Public Health (AJPH) printed a biased article titled "Is Omicron Showing Us the Path Ahead?"	contradiction
+American Journal of Public Health (AJPH) had to apologize to **the United States government and media** for **nothing in the last 5 years**.	entailment
+American Journal of Public Health (AJPH)'s headquarter is located in Washington D.C.	entailment
+American Journal of Public Health (AJPH) is funded by the United States government	entailment
+American Journal of Public Health (AJPH) is a  peer-reviewed public health journal	entailment
+American Journal of Public Health (AJPH) uses a peer review process	entailment
+American Journal of Public Health (AJPH) covers the following topics: health policy and public health.	entailment

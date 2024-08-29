@@ -1,0 +1,12 @@
+History
+Founded in 2004, COED is a news website geared toward college readers. According to their
+[about page](https://coed.com/about/), “COED.com is the leading college news and lifestyle destination for men and women, reaching over five million unique visitors per month. We focus on breaking news, college sports, original content, pop culture, and the best parts of college life.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+[COED Media Group](https://coedmedia.com/), a New York-based technology company, owns and publishes COED. Advertising and sponsored content generate revenue.
+Analysis / Bias
+COED publishes news and analysis on entertainment news, Covid-19, economics, lifestyle, and politics. Articles and headlines contain minimally loaded language such as this
+[Man Faces 20 Years In Prison For Selling Fake COVID Vaccination Cards](https://coed.com/2021/12/07/man-faces-20-years-in-prison-for-selling-fake-covid-vaccination-cards/). Articles are properly sourced from credible media outlets such as the [Associated Press](https://mediabiasfactcheck.com/associated-press/), local news stations, and justice.gov.
+Editorially, COED does not have a dedicated opinion section; however, they report on political issues with a left-leaning bias. For example, many articles argue for marijuana legalization
+[Illinois Governor Pardons Over 11,000 People With Low-Level Marijuana Convictions.](https://coed.com/2020/01/01/illinois-marijuana-pardons/) Other articles focus on [climate change](https://coed.com/2019/09/10/is-the-media-taking-climate-change-in-hollywood-seriously/) and [social justice](https://coed.com/2018/11/27/rider-university-bans-chick-fil-a-lgbtq-stance/). Generally, stories are mostly factual and hold a left-leaning editorial bias through story selection.
+Failed Fact Check
+[Harambe received 15,000 votes in the presidential election.](https://www.politifact.com/factchecks/2016/nov/22/blog-posting/no-15000-people-did-not-vote-harambe/)– Pants on Fire

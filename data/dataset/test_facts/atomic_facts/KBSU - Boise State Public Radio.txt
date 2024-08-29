@@ -1,0 +1,19 @@
+Boise State University founded KBSU - Boise State Public Radio	entailment
+Boise State University owns KBSU - Boise State Public Radio	entailment
+Boise State University bought KBSU - Boise State Public Radio	contradiction
+Boise State University acquired KBSU - Boise State Public Radio	entailment
+The answer is: institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System	entailment
+The remit of KBSU - Boise State Public Radio is to **report news and radio programming information with a slight liberal bias**.	entailment
+The mission of KBSU - Boise State Public Radio is to report news and radio programming information with a slight liberal bias.	entailment
+Other sources have commented on KBSU - Boise State Public Radio, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of KBSU - Boise State Public Radio is reported to be High	entailment
+The factuality of KBSU - Boise State Public Radio is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+KBSU - Boise State Public Radio chose not to cover transgender troops on protecting their right to serve	contradiction
+KBSU - Boise State Public Radio relies on advertising for revenue	contradiction
+KBSU - Boise State Public Radio relies on donations for revenue	contradiction
+KBSU - Boise State Public Radio has received donations from individual contributions	entailment
+When aggregating stories, KBSU - Boise State Public Radio relies on information from **NPR, American Public Media, and the Corporation for Public Broadcasting**.	entailment
+KBSU - Boise State Public Radio has an editorial bias towards **the left**	entailment
+KBSU - Boise State Public Radio printed a biased article titled "Transgender Troops On Protecting Their Right To Serve".	entailment
+KBSU - Boise State Public Radio's headquarter is located in Boise	entailment
+KBSU - Boise State Public Radio is a Left-Center Biased.	entailment

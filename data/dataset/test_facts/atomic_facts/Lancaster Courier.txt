@@ -1,0 +1,19 @@
+Lancaster Courier is funded through advertising.	entailment
+The remit of Lancaster Courier is to **provide news and opinion**	entailment
+The mission of Lancaster Courier is to **never stop bringing you the latest from the national (U.S.) scene, international scene, and the stories that slip through the cracks on other news sites**.	entailment
+The usual audience of Lancaster Courier is  left-leaning .	entailment
+Lancaster Courier tends to the left.	entailment
+Other sources have commented on Lancaster Courier, stating that it tends to be left-leaning	entailment
+The factuality of Lancaster Courier is reported to be Questionable	entailment
+The factuality of Lancaster Courier is reported to be questionable, according to D. Van Zandt	entailment
+Lancaster Courier chose not to cover **local news on Lancaster, Pennsylvania**	entailment
+Lancaster Courier provides original content written by staff journalists	contradiction
+Lancaster Courier relies on advertising for revenue	entailment
+When aggregating stories, Lancaster Courier relies on information from **credible media outlets such as the New York Times, Washington Post, and Politico**	entailment
+Lancaster Courier has endorsed **no political parties**	entailment
+Lancaster Courier has an editorial bias towards liberal	entailment
+JC Zuzierla is the editor of Lancaster Courier	entailment
+Lancaster Courier was fined 	entailment
+Lancaster Courier printed a biased article titled **TERRIFIED TRUMP WHINED HE WAS ON THE VERGE OF DEATH WHILE HOSPITALIZED AT WALTER REED: REPORT**	entailment
+Lancaster Courier had to apologize for **lack of transparency**	contradiction
+Lancaster Courier is a news and opinion website	entailment

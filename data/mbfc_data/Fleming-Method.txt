@@ -1,0 +1,21 @@
+History
+The Fleming-Method website is associated with
+[Dr. Richard M. Fleming](https://www.flemingmethod.com/about), who holds multiple degrees (PhD, MD, JD). The website primarily focuses on health-related topics, with a strong emphasis on COVID-19, its treatment, and related vaccine analysis. It includes sections on the use of the Fleming Method for studying COVID-19 infection severity and treatment responses, as well as investigations into the effects of various COVID-19 vaccines.
+The Food & Drug Administration in 2009
+[barred](https://leadstories.com/hoax-alert/2021/11/fact-check-this-video-by-richard-fleming-does-not-prove-pfizer-covid-19-vaccine-attacks-human-blood.html) Dr. Richard Fleming from working with anyone seeking FDA approval of a drug or medicine, citing his conviction on federal fraud charges: [Doctor Sentenced in Health Care Fraud Scheme](https://archives.fbi.gov/archives/omaha/press-releases/2009/om082009.htm). [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Dr. Fleming owns the website. Revenue is generated through the self-promotion of his method.
+Analysis / Bias
+[The Fleming Method](https://www.flemingmethod.com/sars-cov-2-covid-19) is a technique developed by Dr. Richard M. Fleming for measuring changes in tissue to identify infection and inflammation/blood clotting, particularly in the context of COVID-19. This method involves the analysis of metabolic and regional blood flow differences (RBFDs) in tissue. Dr. Fleming has used it to study over 1800 people infected with SARS-CoV-2, claiming to assess the severity of their COVID-19 disease and their responses to various treatments, including controversial ones like hydroxychloroquine and azithromycin.
+The Fleming-Method website exhibits a clear bias towards unconventional and scientifically unsupported views on COVID-19 and vaccines. For example:
+- COVID-19 Treatment Claims: The site claims to use the Fleming Method to study COVID-19 treatment responses, including controversial treatments like
+[hydroxychloroquine and azithromycin](https://www.flemingmethod.com/sars-cov-2-covid-19), and reports varying degrees of success. Randomized controlled trials — the highest standard of evidence — have found that [hydroxychloroquine isn’t beneficial](https://www.factcheck.org/2021/07/scicheck-no-new-revelation-on-hydroxychloroquine-and-covid-19/)in treating hospitalized COVID-19 patients.
+- Bioweapon Theory: The website entertains the possibility of
+[COVID-19 being a bioweapon](https://www.flemingmethod.com/is-covid-19-a-bioweapon)and suggests that Dr. Fleming possesses evidence to support this theory, which is a claim [not supported by mainstream scientific consensus](https://healthfeedback.org/claimreview/covid-19-mrna-vaccines-dont-alter-dna-arent-subjected-to-federal-regulation-bioweapons-david-martin/).
+- Vaccine Analysis: The site conducts its own investigation into the Pfizer, Moderna, and Janssen vaccines, claiming to find harmful effects on human blood and even suggests the presence of substances like
+[graphene oxide](https://www.flemingmethod.com/the-vaccines-rbcs-myth-vs-fact), which is a [claim not corroborated](https://www.reuters.com/article/factcheck-grapheneoxide-vaccine/fact-check-covid-19-vaccines-do-not-contain-graphene-oxide-idUSL1N2OZ14F/)by any significant scientific research or regulatory body.
+In general, the Fleming-Method website promotes disinformation related to COVID-19 and its associated vaccines. Furthermore, as of 2023, Dr. Fleming is still barred from working with anyone associated with the FDA:
+[Richard M. Fleming; Denial of Hearing on Application for Termination of Debarment.](https://www.federalregister.gov/documents/2023/02/28/2023-04003/richard-m-fleming-denial-of-hearing-on-application-for-termination-of-debarment)
+Failed Fact Checks
+[Pfizer’s COVID-19 vaccine attacks human blood and causes dangerous clots.](https://leadstories.com/hoax-alert/2021/11/fact-check-this-video-by-richard-fleming-does-not-prove-pfizer-covid-19-vaccine-attacks-human-blood.html)– False
+- See above in analysis/bias.

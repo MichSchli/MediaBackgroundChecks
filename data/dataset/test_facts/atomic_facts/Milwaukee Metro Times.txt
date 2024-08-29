@@ -1,0 +1,19 @@
+Local Report Inc founded Milwaukee Metro Times	entailment
+Local Report Inc	entailment
+Local Report Inc is the owner of Milwaukee Metro Times	entailment
+Local Report Inc bought Milwaukee Metro Times	entailment
+Local Report Inc acquired Milwaukee Metro Times	contradiction
+The remit of Milwaukee Metro Times is to **serve as an imposter local news site that promotes left-leaning propaganda in support of the Democratic Party and lacks transparency**.	entailment
+The mission of Milwaukee Metro Times is to promote left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+The usual audience of Milwaukee Metro Times is Left-Center Biased and Questionable	entailment
+Milwaukee Metro Times tends to the Left-Center Biased	entailment
+Other sources have commented on Milwaukee Metro Times, stating that it tends to be left-leaning.	entailment
+The factuality of Milwaukee Metro Times is reported to be questionable, according to Media Bias Fact Check.	entailment
+Milwaukee Metro Times relies on donations for revenue	contradiction
+Milwaukee Metro Times has received donations from **advertising or solicit donations**	contradiction
+When aggregating stories, Milwaukee Metro Times relies on information from The American Independent.	entailment
+Milwaukee Metro Times has an editorial bias towards left-leaning.	entailment
+The Milwaukee Metro Times was fined 	entailment
+Milwaukee Metro Times printed a biased article titled Enslaved Workers Are Making Your Breakfast: Wisconsin Confronts Labor Trafficking | Opinion	entailment
+Milwaukee Metro Times is a left-leaning imposter website that promotes Democratic Party propaganda and lacks transparency	entailment
+Milwaukee Metro Times covers the following topics: local news stories (Wisconsin) focused on sports, entertainment, and business news	entailment

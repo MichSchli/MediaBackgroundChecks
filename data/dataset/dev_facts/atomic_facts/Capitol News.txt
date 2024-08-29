@@ -1,0 +1,17 @@
+Bradley Cameron is the CEO of Capitol News	contradiction
+Metric Media LLC owns Capitol News	entailment
+The CEO of Metric Media is the owner of Capitol News	entailment
+Capitol News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Capitol News is to lack transparency	entailment
+The mission of Capitol News is to publish false information.	entailment
+Capitol News tends to the **right-center**.	entailment
+Capitol News tends to the right-center according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/metric-media/)	entailment
+Other sources have commented on Capitol News, stating that it tends to be right-center.	entailment
+The factuality of Capitol News is reported to be Questionable	entailment
+The factuality of Capitol News is reported to be **Questionable**, according to **Media Bias Fact Check**.	entailment
+Capitol News chose not to cover imposter site	entailment
+Capitol News relies on advertising for revenue	entailment
+Capitol News relies on donations for revenue	entailment
+Capitol News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Capitol News relies on information from **algorithmically produced content**	entailment
+Capitol News has an editorial bias towards **right-center, biased**	entailment

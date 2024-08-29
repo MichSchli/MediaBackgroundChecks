@@ -1,0 +1,23 @@
+The News-Press & Gazette Company (NPG) owns KQFX - Columbia News	entailment
+The owner of KQFX - Columbia News is the News-Press & Gazette Company (NPG)	entailment
+The News-Press & Gazette Company bought KQFX - Columbia News.	entailment
+They acquired KQFX - Columbia News	contradiction
+KQFX - Columbia News is funded through advertising.	entailment
+The remit of KQFX - Columbia News is to  report news for the greater Columbia-Jefferson City, Missouri area.	entailment
+The mission of KQFX - Columbia News is to provide news for the greater Columbia-Jefferson City, Missouri area.	entailment
+The usual audience of KQFX - Columbia News is **the greater Columbia-Jefferson City, Missouri area**.	entailment
+KQFX - Columbia News tends to the least biased	entailment
+Other sources have commented on KQFX - Columbia News, stating that it tends to be **Least Biased**.	entailment
+The factuality of KQFX - Columbia News is reported to be High	entailment
+The factuality of KQFX - Columbia News is reported to be High, according to Mediabiasfactcheck.com	entailment
+KQFX - Columbia News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KQFX - Columbia News chose not to cover op-eds	entailment
+KQFX - Columbia News provides original content written by staff journalists	entailment
+KQFX - Columbia News relies on advertising for revenue	entailment
+KQFX - Columbia News relies on subscriptions for revenue	contradiction
+KQFX - Columbia News relies on donations for revenue	entailment
+When aggregating stories, KQFX - Columbia News relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/), [CBS News](https://mediabiasfactcheck.com/cbs-news/), [CNN Newswire](https://mediabiasfactcheck.com/left/cnn-bias/), and other large credible media outlets.	entailment
+KQFX - Columbia News has an editorial bias towards Least Biased	entailment
+The answer is: "KQFX - Columbia News's headquarter is located in Missouri"	entailment
+KQFX - Columbia News is a Fox-affiliated television station	entailment
+KQFX - Columbia News covers the following topics: news, sports, weather, politics, and crime reporting	entailment

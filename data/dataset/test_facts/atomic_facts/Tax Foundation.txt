@@ -1,0 +1,23 @@
+It founded Tax Foundation	contradiction
+Scott A. Hodge is the founder of Tax Foundation	contradiction
+Scott A. Hodge is the CEO of Tax Foundation	contradiction
+Scott A. Hodge leads Tax Foundation	entailment
+Tax Foundation is funded through **corporate interests**	entailment
+The remit of Tax Foundation is to **cover tax policy that advances a Libertarian agenda**	entailment
+Tax Foundation tends to the  Libertarian agenda.	entailment
+Other sources have commented on Tax Foundation, stating that it tends to be **Right-Center biased**.	entailment
+The factuality of Tax Foundation is reported to be Mostly Factual	entailment
+The factuality of Tax Foundation is reported to be Mostly Factual, according to Media Bias/Fact Check.	entailment
+Tax Foundation chose not to cover **climate change denial**	entailment
+Tax Foundation relies on advertising for revenue	contradiction
+Tax Foundation relies on subscriptions for revenue	entailment
+Tax Foundation has received donations from corporate interests such as the Koch Brothers and Exxon-Mobil.	entailment
+When aggregating stories, Tax Foundation relies on information from [Reuters](https://mediabiasfactcheck.com/reuters/), [NPR](https://mediabiasfactcheck.com/npr/), and Whitehouse.gov.	entailment
+Tax Foundation has endorsed Libertarian economic policy	entailment
+Tax Foundation has an editorial bias towards Libertarian.	entailment
+Tax Foundation was fined  	entailment
+Tax Foundation had to apologize for No failed fact checks in the last 5 years.	entailment
+Tax Foundation's headquarters is located in  Washington, D.C.	entailment
+Tax Foundation is funded by the  government.	contradiction
+Tax Foundation is a right-leaning Libertarian think tank	entailment
+Tax Foundation covers the following topics: tax policy, lower taxes, regulations on business, economic impact of U.S. tariffs, property taxes.	entailment

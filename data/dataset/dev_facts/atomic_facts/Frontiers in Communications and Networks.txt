@@ -1,0 +1,16 @@
+Frontiers Media SA owns Frontiers in Communications and Networks	entailment
+Frontiers Media SA is the owner of Frontiers in Communications and Networks	entailment
+Frontiers Media SA bought Frontiers in Communications and Networks	contradiction
+Frontiers in Communications and Networks is funded through digital sales of content and author fees for publication.	entailment
+The remit of Frontiers in Communications and Networks is to publish original, high-level, and timely scientific articles in telecommunication across wireless and wired domains.	entailment
+The mission of Frontiers in Communications and Networks is to publish original, high-level, and timely scientific articles in telecommunication across wireless and wired domains.	entailment
+Frontiers in Communications and Networks tends to the Pro-Science	entailment
+Frontiers in Communications and Networks tends to the  according to Pro-Science.	entailment
+Other sources have commented on Frontiers in Communications and Networks, stating that it tends to be Pro-Science.	entailment
+The factuality of Frontiers in Communications and Networks is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Communications and Networks is reported to be Mostly Factual, according to D. Van Zandt 10/04/2023	entailment
+Frontiers in Communications and Networks failed a fact-check for an article titled "None in the Last 5 years".	entailment
+Frontiers in Communications and Networks relies on donations for revenue	contradiction
+Frontiers in Communications and Networks has received donations from [digital sales of content and author fees for publication](https://www.frontiersin.org/journals).	entailment
+Frontiers in Communications and Networks has endorsed Pro-Science.	entailment
+Frontiers in Communications and Networks has an editorial bias towards Pro-Science.	entailment

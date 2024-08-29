@@ -1,0 +1,19 @@
+N365 Group owns Newsner	entailment
+N365 Group is the owner of Newsner	entailment
+Newsner is funded through **online advertising**.	entailment
+The remit of Newsner is to spread viral information across social media	entailment
+The usual audience of Newsner is **general public**	entailment
+Newsner tends to the sensational according to D. Van Zandt	entailment
+Other sources have commented on Newsner, stating that it tends to be **Questionable**.	entailment
+The factuality of Newsner is reported to be Questionable	entailment
+The factuality of Newsner is reported to be Questionable, according to D. Van Zandt 3/17/2019.	entailment
+Newsner printed a retraction after failing a fact-check for an article titled "Parents kill 7-year-old son – then doctor finds a note in boy’s hand that crushes my heart".	contradiction
+Newsner chose not to cover political news	entailment
+Newsner relies on advertising for revenue	entailment
+Newsner relies on subscriptions for revenue	contradiction
+Newsner relies on donations for revenue	contradiction
+When aggregating stories, Newsner relies on information from [N365 Group](https://n365group.com/what-we-do/social-journalism/).	entailment
+Newsner has endorsed **no political news**	entailment
+Newsner has an editorial bias towards **sensationalized news stories with loaded clickbait headlines**	entailment
+Newsner printed a biased article titled **Parents kill 7-year-old son – then doctor finds a note in boy’s hand that crushes my heart**.	contradiction
+Newsner printed a factually misleading titled ["Parents kill 7-year-old son – then doctor finds a note in boy’s hand that crushes my heart"](https://en.newsner.com/family/parents-kill-7-year-old-son-then-doctor-finds-a-note-in-boy-s-hand-that-crushes-my-heart/)	entailment

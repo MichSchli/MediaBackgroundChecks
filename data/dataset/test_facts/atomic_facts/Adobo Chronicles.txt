@@ -1,0 +1,25 @@
+Adobo Chronicles is funded through donations	entailment
+The remit of Adobo Chronicles is to **provide satire content**	entailment
+The mission of Adobo Chronicles is to satirize current events and news stories.	entailment
+The usual audience of Adobo Chronicles is **people seeking satirical news**	entailment
+Adobo Chronicles tends to the satire	entailment
+Other sources have commented on Adobo Chronicles, stating that it tends to be **a satire website**.	entailment
+The factuality of Adobo Chronicles is reported to be **fiction**	entailment
+The factuality of Adobo Chronicles is reported to be satire, according to Media Bias/Fact Check.	entailment
+Adobo Chronicles printed a retraction after failing a fact-check for an article titled "Report: Trump Plans to Move to the Philippines After a Defeat in November Election"	contradiction
+Adobo Chronicles chose not to cover serious news	entailment
+Adobo Chronicles provides original content written by staff journalists	contradiction
+Adobo Chronicles relies on advertising for revenue	contradiction
+Adobo Chronicles relies on subscriptions for revenue	contradiction
+Adobo Chronicles relies on donations for revenue	entailment
+When aggregating stories, Adobo Chronicles relies on information from **various sources**	entailment
+Adobo Chronicles has endorsed **a Satire website**.	contradiction
+Adobo Chronicles has an editorial bias towards Satire.	entailment
+Adobo Chronicles printed a biased article titled Adobo Chronicles	contradiction
+Adobo Chronicles printed a factually misleading titled "Satire Website".	contradiction
+Adobo Chronicles had to apologize for **publishing fake news**	contradiction
+Adobo Chronicles had to apologize to no individual or organization for nothing	entailment
+Adobo Chronicles's headquarter is located in the United States	entailment
+Adobo Chronicles is funded by the  United States government	contradiction
+Adobo Chronicles is a Satire website	entailment
+Adobo Chronicles covers the following topics: Satire.	entailment

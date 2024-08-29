@@ -1,0 +1,24 @@
+Nexstar Media Group owns WATE - Knoxville News	entailment
+Nexstar Media Group is the owner of WATE - Knoxville News	entailment
+Nexstar Media Group bought WATE - Knoxville News	entailment
+Nexstar Media Group acquired WATE - Knoxville News	contradiction
+WATE - Knoxville News is funded through **advertising**	entailment
+The remit of WATE - Knoxville News is to **publish news for the greater Knoxville, Tennessee area**	entailment
+The mission of WATE - Knoxville News is to report news factually and with minimal bias.	entailment
+The usual audience of WATE - Knoxville News is **the greater Knoxville, Tennessee area**	entailment
+WATE - Knoxville News tends to the Least Biased.	entailment
+WATE - Knoxville News tends to the **least biased** according to **Media Bias Fact Check**	entailment
+Other sources have commented on WATE - Knoxville News, stating that it tends to be **least biased**	entailment
+The factuality of WATE - Knoxville News is reported to be High	entailment
+The factuality of WATE - Knoxville News is reported to be high, according to Media Bias Fact Check.	entailment
+WATE - Knoxville News failed a fact-check for an article titled "None in the last 5 years."	contradiction
+WATE - Knoxville News printed a retraction after failing a fact-check for an article titled Storm-ravaged Kentucky.	contradiction
+WATE - Knoxville News chose not to cover op-eds and editorials.	entailment
+WATE - Knoxville News provides original content written by staff journalists	entailment
+WATE - Knoxville News relies on advertising for revenue	entailment
+WATE - Knoxville News relies on donations for revenue	contradiction
+When aggregating stories, WATE - Knoxville News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WATE - Knoxville News has endorsed **None**.	entailment
+WATE - Knoxville News has an editorial bias towards Least Biased	entailment
+WATE - Knoxville News had to apologize for None in the last 5 years.	entailment
+WATE - Knoxville News had to apologize to no one for no known failed fact checks.	entailment

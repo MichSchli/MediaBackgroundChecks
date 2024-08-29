@@ -1,0 +1,24 @@
+Conde Nast founded Self Magazine	contradiction
+Conde Nast leads Self Magazine	entailment
+Conde Nast owns Self Magazine	entailment
+Conde Nast bought Self Magazine	entailment
+Conde Nast acquired Self Magazine	contradiction
+Self Magazine is funded through advertising and sponsored content.	entailment
+The remit of Self Magazine is to publish news and information related to fitness, food, health, love, beauty, and culture.	entailment
+Self Magazine tends to the Left-Center Bias	entailment
+Other sources have commented on Self Magazine, stating that it tends to be left-leaning.	entailment
+The factuality of Self Magazine is reported to be Mostly Factual	entailment
+The factuality of Self Magazine is reported to be Mostly Factual, according to D. Van Zandt 	entailment
+Self Magazine failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Self Magazine chose not to cover conservatives	entailment
+Self Magazine provides original content written by staff journalists	entailment
+Self Magazine relies on advertising for revenue	entailment
+Self Magazine relies on subscriptions for revenue	entailment
+Self Magazine relies on donations for revenue	contradiction
+Self Magazine has an editorial bias towards moderate liberal	entailment
+Self Magazine was fined 	entailment
+Self Magazine printed a biased article titled Biden Just Reversed a Trump-Era Domestic Gag Rule on Abortion	entailment
+Self Magazine's headquarter is located in New York City.	entailment
+Self Magazine is funded by the U.S. government	contradiction
+Self Magazine is a online magazine	entailment
+Self Magazine uses a peer review process	contradiction

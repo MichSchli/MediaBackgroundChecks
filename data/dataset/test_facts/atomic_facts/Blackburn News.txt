@@ -1,0 +1,25 @@
+Blackburn Media Inc. leads Blackburn News	entailment
+Blackburn Media Inc. owns Blackburn News	entailment
+Blackburn Media Inc.	entailment
+Blackburn Media Inc acquired Blackburn News	entailment
+Blackburn News is funded through advertising and sponsorships	entailment
+The remit of Blackburn News is to provide local news, sports, and event coverage across Ontario communities.	entailment
+The mission of Blackburn News is to provide local news, sports, and event coverage across Ontario communities.	entailment
+The usual audience of Blackburn News is Left-Center biased	entailment
+Blackburn News tends to the left	entailment
+Other sources have commented on Blackburn News, stating that it tends to be Left-Center biased.	entailment
+The factuality of Blackburn News is reported to be High	entailment
+The factuality of Blackburn News is reported to be High, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/canada-media-profile/)	entailment
+Blackburn News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Blackburn News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Blackburn News chose not to cover LaSalle Strawberry Festival	contradiction
+Blackburn News relies on advertising for revenue	entailment
+Blackburn News relies on donations for revenue	contradiction
+When aggregating stories, Blackburn News relies on information from quotes.	entailment
+Blackburn News has endorsed left-Center	entailment
+Blackburn News has an editorial bias towards left	entailment
+Blackburn News had to apologize for **None in the Last 5 years**	entailment
+Blackburn News had to apologize to  for a clean fact-check record.	contradiction
+Blackburn News's headquarter is located in Ontario	entailment
+Blackburn News is funded by the Canadian government.	contradiction
+Blackburn News is a news site.	entailment

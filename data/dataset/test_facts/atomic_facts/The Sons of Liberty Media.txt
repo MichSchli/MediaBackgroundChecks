@@ -1,0 +1,21 @@
+Bradley Dean Smith is the CEO of The Sons of Liberty Media	entailment
+Bradley Dean Smith owns The Sons of Liberty Media	entailment
+Bradley Dean Smith is the owner of The Sons of Liberty Media	entailment
+Bradley Dean Smith acquired The Sons of Liberty Media	entailment
+The Sons of Liberty Media is funded through **advertising, donations, membership fees, and a shop that sells conservative-themed merchandise**	entailment
+The remit of The Sons of Liberty Media is to  promote propaganda, conspiracies, pseudoscience, poor sources, and failed fact checks.	entailment
+The Sons of Liberty Media tends to the extreme right-wingbias	entailment
+Other sources have commented on The Sons of Liberty Media, stating that it tends to be **Questionable**	entailment
+The factuality of The Sons of Liberty Media is reported to be Questionable.	entailment
+The factuality of The Sons of Liberty Media is reported to be Questionable, according to Media Bias/Fact Check.	entailment
+The Sons of Liberty Media failed a fact-check for an article titled *Was The Presidential Election Stolen?*	entailment
+The Sons of Liberty Media chose not to cover COVID-19 pandemic was predicted in a simulation	contradiction
+The Sons of Liberty Media relies on advertising for revenue	entailment
+The Sons of Liberty Media relies on subscriptions for revenue	contradiction
+The Sons of Liberty Media relies on donations for revenue	entailment
+The Sons of Liberty Media has received donations from **advertising, donations, membership fees, and a shop that sells conservative-themed merchandise**	entailment
+The Sons of Liberty Media has an editorial bias towards extreme right-wing bias.	entailment
+The Sons of Liberty Media printed a biased article titled "COVID “Tests” & “Vaccines” Delivering A Hybrid Bio/Tech Weapon Activated By 5G, Fiber Optics, Light (Video)"	contradiction
+The Sons of Liberty Media printed a factually misleading titled "Was The Presidential Election Stolen?"	entailment
+The Sons of Liberty Media is funded by the private government	contradiction
+The Sons of Liberty Media is a **Questionable**	entailment

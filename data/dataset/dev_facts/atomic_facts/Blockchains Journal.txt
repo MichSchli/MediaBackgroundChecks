@@ -1,0 +1,17 @@
+MDPI AG owns Blockchains Journal	entailment
+Shu-Kun Lin is the owner of Blockchains Journal.	entailment
+Blockchains Journal is funded through **Article Processing Charges (APC)**.	entailment
+The remit of Blockchains Journal is to cover	entailment
+The mission of Blockchains Journal is to  "cover the study of Blockchain technology."	entailment
+Blockchains Journal tends to the Pro-Science and Mostly Factual for reporting due to being published by a company that has failed fact checks in other journals.	entailment
+Blockchains Journal tends to the study of Blockchain technology according to a source criticism exercise.	entailment
+Other sources have commented on Blockchains Journal, stating that it tends to be **Pro-Science**	entailment
+The factuality of Blockchains Journal is reported to be Mostly Factual	entailment
+The factuality of Blockchains Journal is reported to be Mostly Factual, according to a source criticism exercise.	entailment
+Blockchains Journal failed a fact-check for an article titled "None for Blockchains Journal; however, other MDPI journals have failed fact checks".	contradiction
+Blockchains Journal printed a retraction after failing a fact-check for an article titled **Web3: Exploring Decentralized Technologies and Applications for the Future of Empowerment and Ownership**	entailment
+Blockchains Journal relies on advertising for revenue	contradiction
+Blockchains Journal relies on subscriptions for revenue	contradiction
+Blockchains Journal relies on donations for revenue	entailment
+Blockchains Journal has endorsed Pro-Science	entailment
+Blockchains Journal has an editorial bias towards Pro-Science.	entailment

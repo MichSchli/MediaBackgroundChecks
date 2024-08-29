@@ -1,0 +1,25 @@
+Mike Adams founded Collapse.News.	entailment
+Mike Adams is the founder of Collapse.News	entailment
+Mike Adams owns Collapse.News	entailment
+Mike Adams bought Collapse.News	entailment
+Mike Adams acquired Collapse.News	entailment
+Collapse.News is funded through online advertising	entailment
+The remit of Collapse.News is to **promote conspiracy theories and pseudoscience**.	entailment
+The mission of Collapse.News is to expose misleading information and promote right-wing conspiracy theories.	entailment
+The usual audience of Collapse.News is extreme right biased tin foil hat conspiracy website that also promotes pseudoscience	entailment
+Collapse.News tends to the extreme right biased tin foil hat conspiracy Website.	entailment
+Collapse.News tends to the right according to Rationalwiki	entailment
+Other sources have commented on Collapse.News, stating that it tends to be **an extreme right biased tin foil hat conspiracy website that also promotes pseudoscience**.	entailment
+The factuality of Collapse.News is reported to be **low**	entailment
+The factuality of Collapse.News is reported to be extreme right biased, according to Media Bias Fact Check.	entailment
+Collapse.News chose not to cover **accurate information**	entailment
+Collapse.News provides original content written by staff journalists	entailment
+Collapse.News relies on advertising for revenue	entailment
+Collapse.News relies on subscriptions for revenue	contradiction
+Collapse.News relies on donations for revenue	contradiction
+When aggregating stories, Collapse.News relies on information from "online advertising".	entailment
+Collapse.News has endorsed extreme right biased tin foil hat conspiracy theories	entailment
+Collapse.News has an editorial bias towards extreme right.	entailment
+Collapse.News was fined **zero**	entailment
+Collapse.News printed a biased article titled *Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook*	entailment
+Collapse.News paid damages to  after Mike Adams	entailment

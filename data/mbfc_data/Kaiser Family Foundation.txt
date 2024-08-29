@@ -1,0 +1,14 @@
+History
+The Henry J. Kaiser Family Foundation (KFF), or
+[Kaiser Family Foundation](https://en.wikipedia.org/wiki/Kaiser_Family_Foundation), is headquartered in Menlo Park, California. It focuses on major national health care issues and the U.S.’s role in global health policy. The Foundation states that it is a non-partisan source of facts and analysis, polling, and journalism for policymakers, the media, the health care community, and the general public, and kff.org is known for having the “most up-to-date and accurate information on health policy.”
+Through Kaiser Health News, KFF’s editorially independent news service dedicated to coverage of health care policy and politics, the Foundation provides coverage of health policy issues and developments at the federal and state levels in the health care marketplace and health care delivery system.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Kaiser Family Foundation is a non-profit organization whose President and CEO is Dr. Drew Altman. KFF is funded through donations and grants.
+Analysis / Bias
+In review, the Kaiser Family Foundation uses minimally loaded words such as this:
+[An Early Look at State Data for Medicaid Work Requirements in Arkansas](https://www.kff.org/medicaid/issue-brief/an-early-look-at-state-data-for-medicaid-work-requirements-in-arkansas/), and they source to credible science, .org, and .gov sites.
+Editorially, they moderately align with the left by promoting universal healthcare and a focus on health equity, such as this
+[A Year of Vaccine Inequity](https://www.kff.org/global-health-policy/slide/a-year-of-vaccine-inequity/). Further, According to [OpenSecrets](https://www.opensecrets.org/orgs/totals.php?id=D000039180&cycle=A), since 1992, KFF has donated 95% to Democratic candidates and causes. Kaiser is a reliable source for factual healthcare information but leans left in story selection and editorial direction.
+Failed Fact Checks
+- None in the Last 5 years. They are frequently used as a source for fact-checkers.

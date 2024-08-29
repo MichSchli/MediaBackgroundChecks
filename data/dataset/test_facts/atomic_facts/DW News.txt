@@ -1,0 +1,23 @@
+Peter Limbourg is the founder of DW News	entailment
+Ines Pohl leads DW News	entailment
+DW News is funded through tax revenue.	entailment
+The remit of DW News is to **focus on news, politics, sports, entertainment, business, and technology**.	entailment
+The mission of DW News is to **provide reliable news and information to people around the world**	entailment
+The usual audience of DW News is international.	entailment
+DW News tends to the Left-Center.	entailment
+Other sources have commented on DW News, stating that it tends to be **Left-Center biased**.	entailment
+The factuality of DW News is reported to be High	entailment
+The factuality of DW News is reported to be High, according to mediabiasfactcheck.com	entailment
+DW News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+DW News chose not to cover Failed Fact Checks	entailment
+DW News provides original content written by staff journalists	entailment
+DW News relies on advertising for revenue	contradiction
+DW News relies on subscriptions for revenue	entailment
+DW News relies on donations for revenue	contradiction
+DW News has received donations from the German government	entailment
+When aggregating stories, DW News relies on information from **itself and credible sources**.	entailment
+DW News has an editorial bias towards Left	entailment
+DW News's headquarter is located in Bonn	entailment
+DW News is funded by the German government	entailment
+DW News is a **Left-Center biased**	entailment
+DW News covers the following topics: news, politics, sports, entertainment, business, and technology	entailment

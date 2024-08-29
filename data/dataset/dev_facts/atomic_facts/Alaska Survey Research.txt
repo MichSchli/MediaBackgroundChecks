@@ -1,0 +1,18 @@
+Ivan Moore founded Alaska Survey Research	entailment
+Ivan Moore is the founder of Alaska Survey Research	entailment
+Ivan Moore owns Alaska Survey Research	entailment
+Ivan Moore is the owner of Alaska Survey Research	entailment
+Ivan Moore bought Alaska Survey Research	contradiction
+The remit of Alaska Survey Research is to conduct market research and polling via telephone and text messaging in the state of Alaska.	entailment
+The mission of Alaska Survey Research is to conduct market research and polling via telephone and text messaging in the state of Alaska.	entailment
+The usual audience of Alaska Survey Research is individuals in Alaska.	entailment
+Alaska Survey Research tends to the Left-Centerbias	entailment
+Alaska Survey Research tends to the Left-Center bias according to polling.	entailment
+Other sources have commented on Alaska Survey Research, stating that it tends to be Left-Center biased	entailment
+The factuality of Alaska Survey Research is reported to be Mostly Factual	entailment
+The factuality of Alaska Survey Research is reported to be Mostly Factual, according to D. Van Zandt	entailment
+Alaska Survey Research failed a fact-check for an article titled "Overall, we rate Alaska Survey Research as Left-Center biased based on polling that slightly favors Democratic candidates."	contradiction
+Alaska Survey Research chose not to cover politics	entailment
+When aggregating stories, Alaska Survey Research relies on information from **telephone and text messaging in the state of Alaska**.	entailment
+Alaska Survey Research has endorsed Left-Center biased based on polling that slightly favors Democratic candidates	entailment
+Alaska Survey Research has an editorial bias towards **Left-Center**	entailment

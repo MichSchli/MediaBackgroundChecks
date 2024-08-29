@@ -1,0 +1,23 @@
+Gannett is the founder of Daily News Journal	contradiction
+Gannett leads Daily News Journal	entailment
+Gannett owns Daily News Journal	entailment
+Gannett bought Daily News Journal	contradiction
+Gannett acquired Daily News Journal	entailment
+Daily News Journal is funded through advertising and paid subscriptions.	entailment
+The remit of Daily News Journal is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Daily News Journal is to report local news with minimal loaded emotional language.	entailment
+The Daily News Journal tends to the Left-Center Biased	entailment
+Daily News Journal tends to the Left-Center according to Mediabiasfactcheck.	entailment
+Other sources have commented on Daily News Journal, stating that it tends to be Left-Center Biased	entailment
+The factuality of Daily News Journal is reported to be High	entailment
+The factuality of Daily News Journal is reported to be High, according to Media Bias Fact Check.	entailment
+Daily News Journal failed a fact-check for an article titled "Tennessee has a moral and financial obligation to implement a more equitable COVID-19 vaccine strategy".	contradiction
+Daily News Journal chose not to cover Presidential endorsements.	entailment
+Daily News Journal relies on advertising for revenue	entailment
+Daily News Journal relies on subscriptions for revenue	contradiction
+Daily News Journal relies on donations for revenue	contradiction
+When aggregating stories, Daily News Journal relies on information from [Gannett publications and the Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Daily News Journal has an editorial bias towards left	entailment
+Daily News Journal was fined **None in the Last 5 years**	entailment
+Daily News Journal printed a biased article titled **Tennessee has a moral and financial obligation to implement a more equitable COVID-19 vaccine strategy**	entailment
+Daily News Journal had to apologize to no one for nothing	entailment

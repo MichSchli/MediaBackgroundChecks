@@ -1,0 +1,27 @@
+Lee Enterprises is the founder of Buffalo News	contradiction
+Lee Enterprises is the CEO of Buffalo News	contradiction
+Lee Enterprises owns Buffalo News.	entailment
+Lee Enterprises is the owner of Buffalo News	entailment
+Lee Enterprises bought Buffalo News	entailment
+Lee Enterprises acquired Buffalo News	entailment
+Buffalo News is funded through **advertising and subscription fees**	entailment
+The remit of Buffalo News is to  report local news of the Niagara Falls – Buffalo metro area through staff reporters with minimal bias.	entailment
+The usual audience of Buffalo News is Left-Center Biased	entailment
+Buffalo News tends to the Left-Center Biased.	contradiction
+Other sources have commented on Buffalo News, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Buffalo News is reported to be High	entailment
+The factuality of Buffalo News is reported to be High, according to Media Bias/Fact Check.	entailment
+Buffalo News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Buffalo News printed a retraction after failing a fact-check for an article titled "Buffalo's snowfall breaks all records."	entailment
+Buffalo News chose not to cover national and international news	entailment
+Buffalo News provides original content written by staff journalists	entailment
+Buffalo News relies on advertising for revenue	entailment
+Buffalo News relies on subscriptions for revenue	entailment
+Buffalo News relies on donations for revenue	entailment
+When aggregating stories, Buffalo News relies on information from **staff reporters**.	entailment
+Buffalo News has an editorial bias towards **Left-Center**	entailment
+Buffalo News was fined 	entailment
+Buffalo News had to apologize for **none in the Last 5 years**	entailment
+Buffalo News is funded by the private government	contradiction
+Buffalo News is a left-center biased	entailment
+Buffalo News uses a peer review process	entailment

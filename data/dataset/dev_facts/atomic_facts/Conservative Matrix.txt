@@ -1,0 +1,17 @@
+Conservative Matrix is funded through advertising.	entailment
+The mission of Conservative Matrix is to promote right-wing propaganda.	entailment
+The usual audience of Conservative Matrix is **individuals who lean to the right politically**.	entailment
+Conservative Matrix tends to the right	entailment
+Conservative Matrix tends to the right according to Phoenix Brooks	entailment
+Other sources have commented on Conservative Matrix, stating that it tends to be **questionable**	entailment
+The factuality of Conservative Matrix is reported to be mostly factual, according to a review by Mediabiasfactcheck.com.	entailment
+Conservative Matrix chose not to cover left-leaning perspectives.	entailment
+Conservative Matrix provides original content written by staff journalists	contradiction
+Conservative Matrix relies on advertising for revenue	entailment
+Conservative Matrix relies on subscriptions for revenue	entailment
+Conservative Matrix relies on donations for revenue	entailment
+When aggregating stories, Conservative Matrix relies on information from Phoenix Brooks.	entailment
+Conservative Matrix has endorsed right-wing propaganda	entailment
+Conservative Matrix has an editorial bias towards the Right	entailment
+Phoenix Brooks is the editor of Conservative Matrix.	entailment
+Conservative Matrix printed a biased article titled "Trump Derangement Syndrome On Full Display As Tik Tok “Influencer” Screams And Rants At Her Camera"	entailment

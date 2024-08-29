@@ -1,0 +1,20 @@
+Gray Television owns KVVU - Las Vegas News	entailment
+Gray Television is the owner of KVVU - Las Vegas News	entailment
+Gray Television bought KVVU - Las Vegas News	entailment
+Gray Television acquired KVVU - Las Vegas News	contradiction
+KVVU - Las Vegas News is funded through **sponsored content and advertising**.	entailment
+The remit of KVVU - Las Vegas News is to **provide news coverage**	entailment
+The mission of KVVU - Las Vegas News is to **provide news coverage for Las Vegas, Nevada, and the surrounding areas**	entailment
+KVVU - Las Vegas News tends to the **least biased**	entailment
+Other sources have commented on KVVU - Las Vegas News, stating that it tends to be **Least Biased**	entailment
+The factuality of KVVU - Las Vegas News is reported to be High	entailment
+The factuality of KVVU - Las Vegas News is reported to be High, according to D. Van Zandt	entailment
+KVVU - Las Vegas News failed a fact-check for an article titled "Man shot dead by North Las Vegas police during apparent home break-in, officers say he was armed".	contradiction
+KVVU - Las Vegas News chose not to cover an opinion page	entailment
+KVVU - Las Vegas News relies on advertising for revenue	entailment
+KVVU - Las Vegas News relies on donations for revenue	contradiction
+When aggregating stories, KVVU - Las Vegas News relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+KVVU - Las Vegas News has an editorial bias towards Least Biased	entailment
+KVVU - Las Vegas News printed a biased article titled "None in the Last 5 years"	contradiction
+KVVU - Las Vegas News printed a factually misleading titled "Failed Fact Checks"	contradiction
+KVVU - Las Vegas News covers the following topics: **local and national news, sports, weather, traffic, and entertainment**	entailment

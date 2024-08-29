@@ -1,0 +1,20 @@
+Hearst Communications owns WPTZ - Plattsburgh News	entailment
+Hearst Communications is the owner of WPTZ - Plattsburgh News	entailment
+Hearst Communications bought WPTZ - Plattsburgh News	entailment
+WPTZ - Plattsburgh News is funded through **advertising generates revenue**	entailment
+The remit of WPTZ - Plattsburgh News is to **report on news, crime, sports, weather, and entertainment for the greater Plattsburgh, New York area**	entailment
+The mission of WPTZ - Plattsburgh News is to **report on news, crime, sports, weather, and entertainment for the greater Plattsburgh, New York area**.	entailment
+The usual audience of WPTZ - Plattsburgh News is **the greater Plattsburgh, New York area**	entailment
+WPTZ - Plattsburgh News tends to the Least Biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on WPTZ - Plattsburgh News, stating that it tends to be least biased.	entailment
+The factuality of WPTZ - Plattsburgh News is reported to be High	entailment
+The factuality of WPTZ - Plattsburgh News is reported to be high, according to D. Van Zandt 	entailment
+WPTZ - Plattsburgh News failed a fact-check for an article titled  "None in the Last 5 years"	contradiction
+WPTZ - Plattsburgh News printed a retraction after failing a fact-check for an article titled None in the Last 5 years	contradiction
+WPTZ - Plattsburgh News chose not to cover editorial pieces	entailment
+WPTZ - Plattsburgh News relies on advertising for revenue	entailment
+WPTZ - Plattsburgh News relies on subscriptions for revenue	entailment
+WPTZ - Plattsburgh News relies on donations for revenue	entailment
+When aggregating stories, WPTZ - Plattsburgh News relies on information from **the Associated Press**	entailment
+WPTZ - Plattsburgh News has an editorial bias towards **Neither side**	entailment
+WPTZ - Plattsburgh News printed a factually misleading titled "None in the Last 5 years."	entailment

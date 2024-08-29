@@ -1,0 +1,17 @@
+Who is the founder of Arkansas Times	entailment
+Arkansas Times bought Arkansas Times	entailment
+Arkansas Times is funded through a combination of subscription fees and advertising	entailment
+The remit of Arkansas Times is to  "provide news, politics & entertainment."	entailment
+The mission of Arkansas Times is to  "be Arkansas’s source for news, politics & entertainment."	entailment
+The usual audience of Arkansas Times is **left-leaning or liberal individuals**	entailment
+The Arkansas Times tends to the left.	entailment
+Arkansas Times tends to the left according to Media Bias/Fact Check	entailment
+Other sources have commented on Arkansas Times, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of Arkansas Times is reported to be High	entailment
+The factuality of Arkansas Times is reported to be High, according to Media Bias/Fact Check.	entailment
+Arkansas Times failed a fact-check for an article titled None in the Last 5 years	contradiction
+Arkansas Times relies on advertising for revenue	entailment
+Arkansas Times relies on donations for revenue	contradiction
+Arkansas Times has an editorial bias towards the left	entailment
+Arkansas Times printed a biased article titled "What an outrage! A Democratic woman talking like a Republican man! President Trump should march right into the House of Representatives, grab this Muslim wench by her [expletive deleted] and deport her to whatever bleep-hole country she came from.".	entailment
+Arkansas Times had to apologize for **none in the Last 5 years**	entailment

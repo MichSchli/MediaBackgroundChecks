@@ -1,0 +1,14 @@
+History
+Founded in 2012, Jeda News is an Italian alternative health and conspiracy website that routinely publishes false and misleading information. According to their
+[about page](https://www.jedanews.com/chi-siamo/), “Jeda News has as its main objective a conscious and alternative information capable of opening eyes, mind and heart. You can find news and updates on current affairs, politics news, economics, finance, technology, and science.” [Read our profile on Italian Media and Government.](https://mediabiasfactcheck.com/italy-media-profile/)
+Funded by / Ownership
+Gaglione Danilo owns and publishes Jeda News. Advertising generates revenue.
+Analysis / Bias
+Jeda News produces news and opinion on science, politics, and the economy. Articles typically are republished or translated from other sources such as credible sources like
+[La Stampa](https://mediabiasfactcheck.com/la-stampa/) and questionable sources such as [RT News](https://mediabiasfactcheck.com/rt-news/) and [Collective Evolution](https://mediabiasfactcheck.com/collective-evolution/). We have also found many instances where they do not list the source they have republished.
+The website promotes a variety of conspiracy theories such as HAARP (High-Frequency Active Auroral Research Program) that claims the United States government is manipulating the weather for unknown reasons. Many of these stories are no longer available after they changed their domain from jedanews.it to jedanews.com in 2020. The website also promotes the New World Order conspiracy such as this
+[New world order: here are the goals to be achieved by 2030](https://www.jedanews.com/nuovo-ordine-mondiale-obiettivi-da-raggiungere/).
+During the Covid-19 pandemic, they published conspiracy theories related to globalism from poor sources such as the
+[Children’s Health Defense](https://mediabiasfactcheck.com/childrens-health-defense/), which routinely publishes false information regarding vaccines [Robert F. Kennedy Jr.’s denunciation of Bill Gates’ globalist vaccination plan.](https://www.jedanews.com/la-denuncia-di-robert-f-kennedy-jr-sul-piano-vaccinale-globalista-di-bill-gates/) In general, they publish a combination of real news and conspiracy theories that leans right in bias.
+Failed Fact Checks
+- A third party has not fact-checked them; see examples above.

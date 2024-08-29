@@ -1,0 +1,15 @@
+Sinclair Broadcast Group owns WTWC - Tallahassee News	entailment
+Sinclair Broadcast Group is the owner of WTWC - Tallahassee News	entailment
+Sinclair Broadcast Group bought WTWC - Tallahassee News	entailment
+The remit of WTWC - Tallahassee News is to **report local news with minimal bias**.	entailment
+The mission of WTWC - Tallahassee News is to **report local news with minimal bias**	contradiction
+WTWC - Tallahassee News tends to the right.	entailment
+WTWC - Tallahassee News tends to the right according to editorial positions.	entailment
+Other sources have commented on WTWC - Tallahassee News, stating that it tends to be ***right-leaning***.	entailment
+The factuality of WTWC - Tallahassee News is reported to be High	entailment
+The factuality of WTWC - Tallahassee News is reported to be High, according to proper sourcing and a clean fact check record	entailment
+WTWC - Tallahassee News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+WTWC - Tallahassee News relies on subscriptions for revenue	entailment
+WTWC - Tallahassee News has received donations from [Sinclair Broadcast Group](https://mediabiasfactcheck.com/sinclair-broadcast-group/)	entailment
+When aggregating stories, WTWC - Tallahassee News relies on information from **the Associated Press**	entailment
+WTWC - Tallahassee News has an editorial bias towards **the right**	entailment

@@ -1,0 +1,18 @@
+PostMedia owns Peace River Record-Gazette	entailment
+PostMedia is the owner of Peace River Record-Gazette	entailment
+PostMedia bought Peace River Record-Gazette	entailment
+PostMedia acquired Peace River Record-Gazette	entailment
+Peace River Record-Gazette is funded through advertising and subscription fees.	entailment
+The usual audience of Peace River Record-Gazette is Right-Center Biased	entailment
+Peace River Record-Gazette tends to the **Right-Center Biased**	entailment
+Peace River Record-Gazette tends to the right-center biased according to story selection and editorial positions.	entailment
+Other sources have commented on Peace River Record-Gazette, stating that it tends to be **right-leaning**.	entailment
+The factuality of Peace River Record-Gazette is reported to be High	entailment
+The factuality of Peace River Record-Gazette is reported to be High, according to D. Van Zandt	entailment
+Peace River Record-Gazette failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Peace River Record-Gazette chose not to cover **none in the Last 5 years**	entailment
+Peace River Record-Gazette relies on advertising for revenue	entailment
+Peace River Record-Gazette relies on subscriptions for revenue	entailment
+Peace River Record-Gazette relies on donations for revenue	entailment
+Peace River Record-Gazette has an editorial bias towards right-leaning.	entailment
+Peace River Record-Gazette printed a biased article titled "Peace River Council Debates Space for Eid-al-Adha, Flood Mitigation Heights, Tax Relief for Oil Company"	entailment

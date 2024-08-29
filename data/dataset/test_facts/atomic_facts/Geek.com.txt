@@ -1,0 +1,22 @@
+Ziff Davis founded Geek.com	contradiction
+Ziff Davis owns Geek.com	entailment
+Ziff Davis is the owner of Geek.com	entailment
+Ziff Davis bought Geek.com	entailment
+Ziff Davis acquired Geek.com	entailment
+Geek.com is funded through advertising	entailment
+The mission of Geek.com is to cover technology, science, and entertainment news.	entailment
+Geek.com tends to the minimal reporting of politics	entailment
+Other sources have commented on Geek.com, stating that it tends to be **least biased**.	entailment
+The factuality of Geek.com is reported to be High	entailment
+The factuality of Geek.com is reported to be High, according to D. Van Zandt 	entailment
+Geek.com chose not to cover political issues	contradiction
+Geek.com relies on advertising for revenue	entailment
+Geek.com relies on subscriptions for revenue	contradiction
+Geek.com relies on donations for revenue	contradiction
+Geek.com has received donations from Name Media.	entailment
+Geek.com has endorsed Least Biased	contradiction
+Geek.com has an editorial bias towards Least Biased	entailment
+Dan Costa is the editor of Geek.com	entailment
+Geek.com had to apologize for **None in the Last 5 years**	entailment
+Geek.com had to apologize to no one for anything.	entailment
+Geek.com covers the following topics: technology, science, and entertainment news	entailment

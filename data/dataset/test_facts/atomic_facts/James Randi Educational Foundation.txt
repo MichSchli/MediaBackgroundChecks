@@ -1,0 +1,23 @@
+Founded founded James Randi Educational Foundation	contradiction
+James Randi is the founder of James Randi Educational Foundation	entailment
+JREF leads James Randi Educational Foundation	entailment
+The James Randi Educational Foundation is funded through donations.	contradiction
+The remit of the James Randi Educational Foundation is to primarily serve as a grant-making foundation.	entailment
+The mission of James Randi Educational Foundation is to educate the public and the media on the dangers of accepting unproven claims and supporting research into paranormal claims in controlled scientific experimental conditions.	entailment
+The usual audience of James Randi Educational Foundation is Pro-Science and Very-High Factual.	entailment
+The James Randi Educational Foundation tends to the  Grant-making foundation.	entailment
+Other sources have commented on James Randi Educational Foundation, stating that it tends to be Pro-Science.	entailment
+The factuality of James Randi Educational Foundation is reported to be Very-High	entailment
+The factuality of James Randi Educational Foundation is reported to be Very-High, according to D. Van Zandt 1/19/2017	entailment
+James Randi Educational Foundation failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+James Randi Educational Foundation chose not to cover **Failed Fact Checks**	entailment
+James Randi Educational Foundation relies on advertising for revenue	entailment
+James Randi Educational Foundation relies on donations for revenue	contradiction
+The James Randi Educational Foundation has received donations from 	contradiction
+When aggregating stories, James Randi Educational Foundation relies on information from **the foundation such as the 2022 JREF Award**.	entailment
+James Randi Educational Foundation has endorsed **evidence-based science and skepticism**.	entailment
+James Randi Educational Foundation has an editorial bias towards Pro-Science	entailment
+The James Randi Educational Foundation was fined 	entailment
+The James Randi Educational Foundation is funded by the American government	contradiction
+James Randi Educational Foundation is a nonprofit	entailment
+James Randi Educational Foundation covers the following topics: educating the public and the media on the dangers of accepting unproven claims and supporting research into paranormal claims in controlled scientific experimental conditions.	entailment

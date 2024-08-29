@@ -1,0 +1,22 @@
+Moses Yale Beach founded Associated Press	entailment
+Moses Yale Beach is the founder of Associated Press	entailment
+Gary B. Pruitt is the CEO of Associated Press.	entailment
+Steven R. Swartz leads Associated Press	contradiction
+Hearst owns Associated Press	contradiction
+The Associated Press acquired Associated Press	contradiction
+Associated Press is funded through **its contributing newspapers, radio, and television stations in the United States**	entailment
+The remit of Associated Press is to inform the world	entailment
+The mission of Associated Press is to inform the world.	entailment
+The usual audience of Associated Press is **the world**	entailment
+Associated Press tends to the left	entailment
+Associated Press tends to the left according to Media Bias/Fact Check.	entailment
+Other sources have commented on Associated Press, stating that it tends to be left-centered biased	entailment
+The factuality of Associated Press is reported to be High	entailment
+The factuality of Associated Press is reported to be High, according to Mediabiasfactcheck.	entailment
+Associated Press failed a fact-check for an article titled **Florida school banned poet Amanda Gorman’s poem.**	entailment
+Associated Press relies on subscriptions for revenue	entailment
+Associated Press relies on donations for revenue	entailment
+When aggregating stories, Associated Press relies on information from its contributing newspapers, radio, and television stations in the United States.	entailment
+Associated Press has endorsed High for factual reporting.	entailment
+Associated Press has an editorial bias towards left-centered.	entailment
+Associated Press was fined $74 million	contradiction

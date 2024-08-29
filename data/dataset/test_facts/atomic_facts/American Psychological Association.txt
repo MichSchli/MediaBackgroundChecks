@@ -1,0 +1,22 @@
+APA leads American Psychological Association	contradiction
+APA bought American Psychological Association	contradiction
+APA acquired American Psychological Association	contradiction
+American Psychological Association is funded through membership fees as well as donations	entailment
+The remit of American Psychological Association is to promote the advancement, communication, and application of psychological science and knowledge to benefit society and improve lives.	entailment
+The mission of American Psychological Association is to “promote the advancement, communication, and application of psychological science and knowledge to benefit society and improve lives.”	entailment
+American Psychological Association tends to the **Pro-Science**	entailment
+Other sources have commented on American Psychological Association, stating that it tends to be **Pro-Science**.	entailment
+The factuality of American Psychological Association is reported to be High	entailment
+American Psychological Association failed a fact-check for an article titled None in the Last 5 years.	contradiction
+American Psychological Association printed a retraction after failing a fact-check for an article titled None in the Last 5 years	contradiction
+The American Psychological Association chose not to cover failed fact checks.	entailment
+American Psychological Association relies on advertising for revenue	contradiction
+American Psychological Association relies on donations for revenue	entailment
+American Psychological Association has received donations from **membership fees**.	entailment
+When aggregating stories, American Psychological Association relies on information from **scientific journals**.	entailment
+American Psychological Association has endorsed **Pro-Science source**	entailment
+American Psychological Association has an editorial bias towards **pro-science**	entailment
+American Psychological Association printed a biased article titled "None in the Last 5 years"	contradiction
+American Psychological Association printed a factually misleading titled  **None in the Last 5 years**	entailment
+American Psychological Association is funded by the United States government.	entailment
+American Psychological Association is a non-profit organization	entailment

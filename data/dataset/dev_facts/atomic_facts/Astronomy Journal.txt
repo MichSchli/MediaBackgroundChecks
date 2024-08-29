@@ -1,0 +1,18 @@
+MDPI AG owns Astronomy Journal	entailment
+MDPI AG is the owner of Astronomy Journal	entailment
+Astronomy Journal is funded through Publisher's Article Processing Charges	entailment
+The remit of Astronomy Journal is to cover the study of Astronomy	entailment
+The mission of Astronomy Journal is to **cover the study of Astronomy**	entailment
+Astronomy Journal tends to the Pro-Science and Mostly Factual	entailment
+Astronomy Journal tends to the study of Astronomy according to MDPI.	entailment
+Other sources have commented on Astronomy Journal, stating that it tends to be **Pro-Science**.	entailment
+The factuality of Astronomy Journal is reported to be Mostly Factual	entailment
+The factuality of Astronomy Journal is reported to be Mostly Factual, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/mdpi-multidisciplinary-digital-publishing-institute-bias/).	entailment
+Astronomy Journal failed a fact-check for an article titled None for Astronomy Journal; however, other MDPI journals have.	entailment
+Astronomy Journal printed a retraction after failing a fact-check for an article titled **Unnamed Phenomena in Deep Space**.	entailment
+Astronomy Journal chose not to cover failed fact checks	entailment
+Astronomy Journal relies on advertising for revenue	contradiction
+Astronomy Journal relies on subscriptions for revenue	contradiction
+Astronomy Journal relies on donations for revenue	contradiction
+Astronomy Journal has an editorial bias towards **pro-science**	entailment
+Astronomy Journal had to apologize for failing fact checks	contradiction

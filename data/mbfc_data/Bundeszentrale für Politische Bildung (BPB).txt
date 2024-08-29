@@ -1,0 +1,15 @@
+History
+The Federal Agency for Civic Education (
+[The Bundeszentrale für politische Bildung (BPB)](https://www.bpb.de/die-bpb/ueber-uns/)) was established in 1952 to provide citizenship education and information on political issues. The BPB’s mission is to promote understanding of political matters, solidify democratic awareness, and boost willingness for political participation. The Bundeszentrale für politische Bildung (BPB) runs a voting advice application website, [Wahl-O-Mat](https://www.bpb.de/themen/wahl-o-mat/), which compares the user’s political position with the platforms of the parties and shows all parties ranked for closeness to the user’s position and [The Euro|Topics,](https://mediabiasfactcheck.com/euro-topics-bias/) a news aggregator. It is based in Bonn, Germany. [Read our profile on Germany’s media and government](https://mediabiasfactcheck.com/germany-media-profile/).
+Funded by / Ownership
+The German federal government funds The Bundeszentrale für politische Bildung (BPB).
+Analysis / Bias
+We analyzed the Bundeszentrale für Politische Bildung (BPB), a German federal public authority focusing on educational material related to political and social issues.
+Two articles were selected for this analysis:
+[TikTok and Right-Wing Extremism](https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/541511/tiktok-und-rechtsextremismus/) and [The Sociodemographic Structure of the Population in Poland](https://www.bpb.de/themen/europa/polen/541516/die-soziodemografische-struktur-der-bevoelkerung-in-polen/). Both articles maintain an objective tone, adhere to BPB’s mission of fostering political understanding and democratic awareness, and provide extensive external citations.
+The TikTok article cites various academic papers and government reports, while the
+[Poland](https://mediabiasfactcheck.com/poland-media-profile/) article cites multiple reputable institutions. Here are examples from cited sources such as Beyersdörfer et al. (2017): Vernetzter Hass and BMI (2022): Verfassungsschutzbericht 2022, Berlin, Duszczyk et al. (2014): Contextual and Causal Analysis, University of Warsaw, Kaneko & Fratczak (2006): Cohort Process, European Population Conference 2006, Gov. Population Council (2023): Demographic Situation in Poland, Report 2021-2022 The citations are listed at the end of each article under the title “Quellen / Literatur.”
+Editorially, BPB favors left-leaning social issues by criticizing governments for their right-leaning positions, such as this
+[Analysis: LGBT movement and homophobia in Russia](https://www.bpb.de/themen/europa/russland-analysen/nr-349/264904/analyse-lgbt-bewegung-und-homophobie-in-russland/). In general, the articles from the BPB are fact-based and hold a left-leaning bias when reporting on social issues.
+Failed Fact Checks
+- None in the Last 5 years

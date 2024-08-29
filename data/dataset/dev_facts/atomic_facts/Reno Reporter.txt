@@ -1,0 +1,19 @@
+Metric Media LLC founded Reno Reporter	entailment
+Metric Media LLC is the owner of Reno Reporter	entailment
+Reno Reporter is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Reno Reporter is to **look like a local news source**	entailment
+The usual audience of Reno Reporter is right-center.	entailment
+Reno Reporter tends to the right-center	entailment
+Reno Reporter tends to the right-center, biased, and Questionable according to D. Van Zandt	entailment
+Other sources have commented on Reno Reporter, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Reno Reporter is reported to be Questionable	entailment
+The factuality of Reno Reporter is reported to be Questionable, according to D. Van Zandt 04/20/2023.	entailment
+Reno Reporter provides original content written by staff journalists	contradiction
+Reno Reporter relies on advertising for revenue	entailment
+Reno Reporter relies on donations for revenue	entailment
+When aggregating stories, Reno Reporter relies on information from **algorithmically produced content**.	entailment
+Reno Reporter has endorsed right-center.	entailment
+The Reno Reporter has an editorial bias towards conservative-leaning news.	entailment
+Reno Reporter was fined right-center, biased, and Questionable.	entailment
+Reno Reporter printed a biased article titled an imposter site, lacks transparency, and publishes false information.	entailment
+Reno Reporter printed a factually misleading titled  "Imposter Site Lacks Transparency and Publishes False Information"	entailment

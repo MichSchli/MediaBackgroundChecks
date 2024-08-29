@@ -1,0 +1,27 @@
+Reach plc is the founder of WalesOnline.	entailment
+Reach plc is the CEO of WalesOnline	contradiction
+WalesOnline owns WalesOnline.	contradiction
+Reach plc is the owner of WalesOnline	entailment
+Reach plc bought WalesOnline	entailment
+Reach plc acquired WalesOnline	contradiction
+WalesOnline is funded through advertising	entailment
+The remit of WalesOnline is to **provide news coverage**	entailment
+The mission of WalesOnline is to **provide detailed coverage of breaking news and events in Wales and the surrounding areas**	entailment
+The usual audience of WalesOnline is Left-Center Biased	entailment
+WalesOnline tends to the Left	entailment
+Other sources have commented on WalesOnline, stating that it tends to be **Left-Center Biased**.	entailment
+The factuality of WalesOnline is reported to be High	entailment
+The factuality of WalesOnline is reported to be High, according to Mediabiasfactcheck.	entailment
+WalesOnline failed a fact-check for an article titled  "None in the Last 5 years"	contradiction
+WalesOnline printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**.	contradiction
+WalesOnline chose not to cover Failed Fact Checks	entailment
+WalesOnline relies on advertising for revenue	entailment
+WalesOnline relies on subscriptions for revenue	contradiction
+WalesOnline relies on donations for revenue	entailment
+When aggregating stories, WalesOnline relies on information from **proper sourcing and a clean fact-check record**.	entailment
+WalesOnline has endorsed left-wing political positions.	entailment
+WalesOnline has an editorial bias towards **the left**	entailment
+WalesOnline printed a biased article titled Left-Center Biased.	entailment
+WalesOnline is funded by the British government	contradiction
+WalesOnline is a news website	entailment
+WalesOnline covers the following topics: History, Ownership, Analysis/Bias, Failed Fact Checks	entailment

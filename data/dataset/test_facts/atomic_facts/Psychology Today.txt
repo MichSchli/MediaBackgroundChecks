@@ -1,0 +1,26 @@
+Nicolas Charney founded Psychology Today	entailment
+Kaja Perina leads Psychology Today	entailment
+Sussex Publishers owns Psychology Today	entailment
+Sussex Publishers is the owner of Psychology Today	entailment
+Sussex Publishers bought Psychology Today	entailment
+Sussex Publishers acquired Psychology Today	entailment
+Psychology Today is funded through print sales, subscriptions, advertisements, and a directory of mental health professionals.	entailment
+The remit of Psychology Today is to make psychology literature more accessible to the general public.	entailment
+The mission of Psychology Today is to make psychology literature more accessible to the general public.	entailment
+Psychology Today tends to the pro-Science.	entailment
+Other sources have commented on Psychology Today, stating that it tends to be **pro-Science**.	entailment
+The factuality of Psychology Today is reported to be pro-Science	entailment
+The factuality of Psychology Today is reported to be pro-Science, according to D. Van Zandt	entailment
+Psychology Today failed a fact-check for an article titled "None in the Last 5 years"	entailment
+Psychology Today chose not to cover failed fact checks	entailment
+Psychology Today relies on advertising for revenue	entailment
+Psychology Today relies on subscriptions for revenue	entailment
+Psychology Today relies on donations for revenue	contradiction
+When aggregating stories, Psychology Today relies on information from **over 100 blog writers**	entailment
+Psychology Today has endorsed pro-Science	entailment
+Psychology Today has an editorial bias towards **pro-Science**	entailment
+Kaja Perina is the editor of Psychology Today	entailment
+Psychology Today had to apologize for **None**	entailment
+Psychology Today is funded by the US government.	contradiction
+Psychology Today is a magazine	entailment
+"Psychology Today covers the following topics: psychology, neuroscience, relationships, sexuality, parenting, health, work, and the psychological aspects of current affairs."	entailment

@@ -1,0 +1,18 @@
+Chase Binnie is the CEO of RetailWire	entailment
+Chase Binnie leads RetailWire	entailment
+Chase Binnie owns RetailWire	entailment
+Chase Binnie is the owner of RetailWire	entailment
+RetailWire is funded through sponsorships	entailment
+RetailWire tends to the Left-Center Bias	entailment
+RetailWire tends to the left-center according to proper sourcing	entailment
+Other sources have commented on RetailWire, stating that it tends to be Left-Center biased	entailment
+The factuality of RetailWire is reported to be High	entailment
+The factuality of RetailWire is reported to be High, according to proper sourcing.	entailment
+RetailWire chose not to cover [failed fact checks](https://retailwire.com/).	entailment
+RetailWire provides original content written by staff journalists	entailment
+RetailWire relies on advertising for revenue	entailment
+RetailWire relies on donations for revenue	contradiction
+When aggregating stories, RetailWire relies on information from various sources.	entailment
+RetailWire has an editorial bias towards Left-Center.	entailment
+RetailWire was fined **None in the Last 5 years**	entailment
+RetailWire printed a biased article titled **"Shopify Dumps Trump’s Stores from its Platform"**	entailment

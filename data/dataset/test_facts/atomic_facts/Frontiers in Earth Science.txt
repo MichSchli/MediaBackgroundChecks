@@ -1,0 +1,22 @@
+Frontiers founded Frontiers in Earth Science	contradiction
+Frontiers Media SA owns Frontiers in Earth Science	entailment
+Frontiers Media SA is the owner of Frontiers in Earth Science	entailment
+Frontiers in Earth Science acquired Frontiers in Earth Science	contradiction
+Frontiers in Earth Science is funded through digital sales of content and author fees for publication	entailment
+The remit of Frontiers in Earth Science is to **cover earth science, enhance our understanding of the Earth’s physical and chemical properties and processes, and address major environmental challenges**.	entailment
+The mission of Frontiers in Earth Science is to  advance our understanding of the Earth's physical and chemical properties and processes, and aims to address major environmental challenges.	entailment
+Frontiers in Earth Science tends to the **Pro-Science**	entailment
+Other sources have commented on Frontiers in Earth Science, stating that it tends to be **Pro-Science**.	entailment
+The factuality of Frontiers in Earth Science is reported to be Mostly Factual.	entailment
+The factuality of Frontiers in Earth Science is reported to be Mostly Factual, according to D. Van Zandt 	entailment
+Frontiers in Earth Science failed a fact-check for an article titled  "None in the Last 5 years"	contradiction
+Frontiers in Earth Science chose not to cover failed fact checks.	entailment
+Frontiers in Earth Science relies on advertising for revenue	entailment
+Frontiers in Earth Science relies on subscriptions for revenue	contradiction
+Frontiers in Earth Science relies on donations for revenue	entailment
+When aggregating stories, Frontiers in Earth Science relies on information from [digital sales of content and author fees for publication].	entailment
+Frontiers in Earth Science has endorsed Pro-Science	entailment
+Frontiers in Earth Science has an editorial bias towards Pro-Science	entailment
+Frontiers in Earth Science is a peer-reviewed open-access journal.	entailment
+Frontiers in Earth Science uses a peer review process	entailment
+Frontiers in Earth Science covers the following topics: earth science, physical and chemical properties, environmental challenges.	entailment

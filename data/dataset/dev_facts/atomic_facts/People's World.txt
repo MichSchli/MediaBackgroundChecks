@@ -1,0 +1,19 @@
+John Bachtell is the founder of People's World	contradiction
+Long View Publishing Co. owns People's World	entailment
+People's World is funded through donations	entailment
+The remit of People's World is to report on workers' rights, democratic movements, and provide Marxist perspectives influenced by the Communist Party and other labor movement views.	entailment
+The mission of People's World is to  advocate for socialism and progressive change.	entailment
+The usual audience of People's World is diverse groups.	entailment
+People's World tends to the left	entailment
+People's World tends to the left according to Mediabiasfactcheck	entailment
+Other sources have commented on People's World, stating that it tends to be **Left Biased**	entailment
+The factuality of People's World is reported to be Mostly Factual	entailment
+The factuality of People's World is reported to be Mostly Factual, according to Mediabiasfactcheck.com	entailment
+People's World relies on advertising for revenue	contradiction
+People's World relies on subscriptions for revenue	contradiction
+People's World relies on donations for revenue	entailment
+People's World has endorsed progressive-socialist left.	entailment
+People's World has an editorial bias towards  progressive-socialist left.	entailment
+People's World was fined 	contradiction
+People's World printed a biased article titled 'Carbon capture pipelines: Climate solution or catastrophe waiting to happen?'	entailment
+People's World had to apologize for  "Using emotionally loaded language".	contradiction

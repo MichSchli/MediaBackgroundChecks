@@ -1,0 +1,12 @@
+Reasoning: Extreme Right, Propaganda, Some Fake News
+Country: USA
+World Press Freedom Rank: USA 48/180
+History
+Liberty Alliance is a website without an about page. Their tagline reads “The Leader in Conservative Media” followed by some biblical passages. A
+[whois search](http://whois.domaintools.com/libertyalliance.com) reveals the domain was purchased in 1998 and is registered privately.
+Funded by / Ownership
+Liberty Alliance was
+[purchased](https://liftablemedia.com/2017/05/12/liftable-media-announces-acquisition-of-liberty-alliance/) by Liftable Media in 2017, which also owns the right biased [Western Journal](https://mediabiasfactcheck.com/western-journalism/) and the Questionable [Conservative Tribune](https://mediabiasfactcheck.com/conservative-tribune/).
+Analysis / Bias
+In review, Liberty Alliance was once on the
+[Politifact fake news list](http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/?platform=hootsuite). Currently, they do not produce original content and rather redirect to Liftable Media sites, such as Western Journal and Conservative Tribune. In other words, this is a curation website that does not produce original content.

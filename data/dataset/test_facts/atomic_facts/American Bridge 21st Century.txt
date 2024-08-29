@@ -1,0 +1,24 @@
+David Brock founded American Bridge 21st Century	entailment
+David Brock is the founder of American Bridge 21st Century	entailment
+George Soros bought American Bridge 21st Century	entailment
+American Bridge 21st Century is funded through **Democratic donors and labor unions**.	entailment
+The remit of American Bridge 21st Century is to **perform opposition research**	entailment
+The mission of American Bridge 21st Century is to **perform opposition research**.	entailment
+The usual audience of American Bridge 21st Century is **left biased**.	entailment
+American Bridge 21st Century tends to the **Left Biased**	entailment
+Other sources have commented on American Bridge 21st Century, stating that it tends to be Left Biased.	entailment
+The factuality of American Bridge 21st Century is reported to be Mixed	entailment
+The factuality of American Bridge 21st Century is reported to be mixed, according to D. Van Zandt 1/24/2017.	entailment
+American Bridge 21st Century failed a fact-check for an article titled "Says Marco Rubio’s “proposed college affordability overhaul would specifically benefit for-profit colleges.”"	entailment
+American Bridge 21st Century chose not to cover **positive news about Republican candidates**	entailment
+American Bridge 21st Century relies on advertising for revenue	entailment
+American Bridge 21st Century relies on donations for revenue	entailment
+American Bridge 21st Century has received donations from Democratic donors and labor unions.	entailment
+When aggregating stories, American Bridge 21st Century relies on information from having "trackers" follow and record Republican candidates across the country.	entailment
+American Bridge 21st Century has an editorial bias towards **left**	entailment
+David Brock is the editor of American Bridge 21st Century.	entailment
+American Bridge 21st Century printed a biased article titled "American Bridge Statement on Dan Forest’s Response to Use of White Supremacists Talking Points".	entailment
+American Bridge 21st Century had to apologize for **no public apologies or retractions, as of yet**	entailment
+American Bridge 21st Century is funded by the Democratic government	entailment
+American Bridge 21st Century is a liberal American Super PAC that supports Democratic candidates and opposes Republican candidates. It was founded by David Brock in 2010 and is associated with Media Matters for America. It is an opposition research hub for the Democratic Party. The group physically tracks and monitors Republican candidates and officials and uses social media to deploy its findings. Democratic donors and labor unions fund American Bridge. During the 2012 and 2014 election cycles, Billionaire George Soros was the largest donor, donating more than 2 million dollars. The website also solicits donations from visitors. In review, the primary objective of American Bridge is to perform opposition research. This is done by having “trackers” follow and record Republican candidates across the country. These trackers employ high-tech recording gear in the hope of capturing Republicans in embarrassing moments. The website also reports news with moderately loaded language. Overall, we rate American Bridge 21st Century Left Biased based on advocacy and support for the Democratic Party and Mixed for factual reporting due to three failed fact checks. (D. Van Zandt 1/24/2017) Updated (02/06/2022) Source: [https://americanbridgepac.org/](https://americanbridgepac.org/)	entailment
+American Bridge 21st Century covers the following topics: liberal American Super PAC that supports Democratic candidates and opposes Republican candidates, opposition research, tracking and monitoring Republican candidates and officials, social media deployment of findings, Democratic donors and labor unions funding, Billionaire George Soros as a major donor, use of "trackers" for opposition research, reporting news with moderately loaded language, and failed fact checks.	entailment

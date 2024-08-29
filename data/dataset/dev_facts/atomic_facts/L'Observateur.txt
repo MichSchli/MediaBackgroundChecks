@@ -1,0 +1,19 @@
+Boone Newspapers owns L'Observateur	entailment
+Boone Newspapers is the owner of L'Observateur	entailment
+Boone Newspapers bought L'Observateur	entailment
+Boone Newspapers acquired L'Observateur	entailment
+L'Observateur is funded through advertising and subscription fees	entailment
+The remit of L'Observateur is to cover local, national, crime, and sports news.	entailment
+L'Observateur tends to the **right**	entailment
+L'Observateur tends to the right according to Media Bias/Fact Check.	entailment
+Other sources have commented on L'Observateur, stating that it tends to be **right-leaning**	entailment
+The factuality of L'Observateur is reported to be High	entailment
+The factuality of L'Observateur is reported to be high, according to Media Bias/Fact Check.	entailment
+L'Observateur failed a fact-check for an article titled None in the Last 5 years	contradiction
+L'Observateur relies on advertising for revenue	entailment
+L'Observateur relies on subscriptions for revenue	entailment
+When aggregating stories, L'Observateur relies on information from **local journalists**.	entailment
+L'Observateur has endorsed Right-Center Biased	entailment
+L'Observateur has an editorial bias towards right.	entailment
+L'Observateur had to apologize for editorial positions that slightly favor the right.	entailment
+L'Observateur had to apologize to no one for nothing	entailment

@@ -1,0 +1,15 @@
+History
+Founded in 2011 by technology journalists Todd Bishop and John Cook, Geekwire is a technology news website primarily focused on the Seattle, Washington, area. According to their
+[about page](https://www.geekwire.com/about-geekwire/), “GeekWire is a fast-growing, national technology news site with strong roots in the Seattle region and a large audience of loyal, tech-savvy readers around the globe, who follow the site for breaking news, expert analysis and unique insights into the technology industry.” [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+GeekWire LLC, co-owned by John Cook and Todd Bishop, owns and publishes the website. Advertising, sponsorships, memberships, and events generate revenue. They are
+[transparent](https://www.geekwire.com/sponsors/) in listing their sponsors.
+Analysis / Bias
+GeekWire provides original technology news reporting focusing on Seattle, Washington, and the nation. Headlines are low-biased and accurately describe the content of the article, such as this
+[Cardiac Dimensions raises $35M for device to treat condition associated with heart failure](https://www.geekwire.com/2023/cardiac-dimensions-raises-35m-for-device-to-treat-condition-associated-with-heart-failure/). This story, like all reviewed, is properly sourced from credible outlets like the American Heart Association, Business Wire, and medical journals.
+The website also frequently reports on Amazon, such as this
+[Amazon is shutting down its cloud storage service Amazon Drive](https://www.geekwire.com/2022/amazon-is-shutting-down-its-cloud-storage-service-amazon-drive/) and Google [Google now employs more than 7,200 in Washington state — up from 4,500 workers just prior to the pandemic](https://www.geekwire.com/2022/google-now-employs-more-than-7200-in-washington-state-up-from-4500-workers-just-prior-to-the-pandemic/).
+Editorially, they do not have a dedicated section for op-eds; however, they do report on political issues as it relates to tech. Political reporting usually reports straight news, but sometimes reports negatively on former President Trump like this
+[Is Microsoft tweeting shade at Trump? Probably not, but many followers feel like they’re in on a joke](https://www.geekwire.com/2021/microsoft-tweeting-shade-trump-probably-not-many-followers-feel-like-theyre-joke/). On the other hand, they also publish articles critical of current President Joe Biden, such as this [Bezos vs. Biden: Amazon founder calls out president over inflation and corporate taxes](https://www.geekwire.com/2022/bezos-vs-biden-amazon-founder-calls-out-president-over-inflation-and-corporate-taxes/). In general, GeekWire is reasonably balanced in story selection and fact-based in reporting.
+Failed Fact Checks
+- None in the Last 5 years

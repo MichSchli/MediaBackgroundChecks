@@ -1,0 +1,20 @@
+Gem State Wire leads Gem State Wire	contradiction
+Gem State Wire is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Gem State Wire is to **spread conservative-leaning news and opinions**	entailment
+The mission of Gem State Wire is to  **spread conservative-leaning news and opinion**	entailment
+The usual audience of Gem State Wire is **right-center, biased, and Questionable**	entailment
+The Gem State Wire tends to the right-center	entailment
+Gem State Wire tends to the right-center according to Media Bias/Fact Check	entailment
+Other sources have commented on Gem State Wire, stating that it tends to be right-center biased.	entailment
+The factuality of Gem State Wire is reported to be Questionable.	entailment
+The factuality of Gem State Wire is reported to be Questionable, according to D. Van Zandt 06/30/2021.	entailment
+Gem State Wire failed a fact-check for an article titled **Gem State Wire is an imposter site, lacks transparency, and publishes false information.**	entailment
+The Gem State Wire chose not to cover **objective, data-driven information without political bias**	entailment
+Gem State Wire relies on advertising for revenue	entailment
+Gem State Wire relies on subscriptions for revenue	entailment
+Gem State Wire relies on donations for revenue	entailment
+Gem State Wire has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Gem State Wire relies on information from the Metric Media LLC Network	entailment
+Gem State Wire has endorsed right-center	entailment
+Gem State Wire has an editorial bias towards **right-center**	entailment
+Gem State Wire printed a biased article titled "Imposter Site, Lacks Transparency, and Publishes False Information"	entailment

@@ -1,0 +1,22 @@
+Billy Graham founded Christianity Today	entailment
+Billy Graham is the founder of Christianity Today	entailment
+Mark Galli leads Christianity Today	entailment
+Christianity Today International owns Christianity Today	entailment
+Christianity Today is funded through subscriptions and a shop that sells back magazine issues	entailment
+The remit of Christianity Today is to report on news and politics from a moderate Christian perspective.	entailment
+The mission of Christianity Today is to **report on news and politics from a moderate Christian perspective.**	entailment
+Christianity Today tends to the Right	contradiction
+Other sources have commented on Christianity Today, stating that it tends to be Right-Center Biased.	entailment
+The factuality of Christianity Today is reported to be High	entailment
+The factuality of Christianity Today is reported to be High for factual reporting, according to Mediabiasfactcheck.	entailment
+Christianity Today chose not to cover President Donald Trump	contradiction
+Christianity Today relies on subscriptions for revenue	entailment
+Christianity Today relies on donations for revenue	contradiction
+When aggregating stories, Christianity Today relies on information from **a moderate Christian perspective**.	entailment
+Christianity Today has an editorial bias towards **Right-Center**	entailment
+Mark Galli is the editor of Christianity Today	entailment
+Christianity Today was fined 	entailment
+Christianity Today's headquarter is located in Carol Stream	entailment
+Christianity Today is a **Right-Center**	entailment
+Christianity Today uses an internal fact-checking process	entailment
+Christianity Today covers the following topics: **news and politics from a moderate Christian perspective**	contradiction

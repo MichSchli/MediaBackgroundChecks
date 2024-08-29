@@ -1,0 +1,17 @@
+History
+Founded in 2014, The Science Times is a website that publishes news on scientific research and technology in a variety of fields. According to their
+[about page](https://www.sciencetimes.com/about-us), “We provide credible news & info., in-depth reference material about diverse subjects that matter to everyone. We are a source for original and timely science and research information and breaking news in the various fields we represent.”
+The website lacks transparency as they do not openly disclose ownership or editors and infrequently names authors or provides bios.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Science Times does not openly state ownership; however, their
+[Privacy Policy page](https://www.sciencetimes.com/privacypolicy) states The Science Times Company owns them. A [search](https://www.google.com/search?q=the+science+times+company&oq=the+science+times+company&aqs=chrome..69i57j69i64l3.7734j0j4&sourceid=chrome&ie=UTF-8) for this company does not produce results. Revenue is derived through advertisements.
+Analysis / Bias
+In review, The Science Times publishes news and information related to science in medicine, space, AI, and the environment. Articles and headlines do not use loaded language such as this
+[COVID-19: Children Might Carry Up to 100 Times More Viral Genetic Material Than Adults](https://www.sciencetimes.com/articles/26696/20200731/covid-19-children-carry-up-100-times-viral-genetic.htm). This story is sourced to JAMA Pediatrics. In fact, most articles on the website are sourced from credible scientific journals and research studies such as [The Lancet](https://mediabiasfactcheck.com/the-lancet/), [CDC](https://mediabiasfactcheck.com/centers-disease-control-prevention-cdc/), and the [National Academy of Sciences](https://mediabiasfactcheck.com/national-academy-of-sciences-nas/).
+While most information is credible science, they also occasionally run sensational stories like this:
+[An Unknown 15-Foot Creature Washed up on Merseyside, UK Beach](https://www.sciencetimes.com/articles/26708/20200802/unknown-15-foot-creature-washed-up-merseyside-uk-beach.htm). This story is sourced to the Questionable [Daily Mail](https://mediabiasfactcheck.com/daily-mail/), which frequently publishes false and misleading information.
+Further, they have also published
+[misinformation](https://www.sciencetimes.com/articles/25885/20200601/yale-epidemiologist-hydroxychloroquine-used-standard-covid-19-treatment-despite-being-harmful.htm) regarding the [Coronavirus](https://mediabiasfactcheck.com/pseudoscience-dictionary-mask-misinformation/). The Science Times is not a credible pro-science source as they lack transparency, occasionally utilize poor sources, and have failed fact checks.
+Failed Fact Checks
+[“New evidence shows wearing face mask can help coronavirus enter the brain and pose more health risk, warn expert”](https://healthfeedback.org/claimreview/no-evidence-that-using-a-face-mask-helps-coronavirus-enter-the-brain-contrary-to-claim-by-russell-blaylock/)– Unsupported [Did a scientific study conclude that women with “big butts” have smarter children?](https://leadstories.com/hoax-alert/2019/07/fake-news-no-study-says-women-with-big-butts-have-smarter-children.html)– False

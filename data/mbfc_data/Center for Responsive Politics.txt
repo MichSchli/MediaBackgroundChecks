@@ -1,0 +1,13 @@
+History
+[Founded in 1983](https://en.wikipedia.org/wiki/Center_for_Responsive_Politics), The Center for Responsive Politics (Open Secrets) is nonpartisan, independent, and nonprofit; they are the nation’s [premier research group](http://www.opensecrets.org/about/) tracking money in U.S. politics and its effect on elections and public policy. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Open Secrets is a non-profit that is funded through donations. Some notable donors include the
+[Sunlight Foundation](https://mediabiasfactcheck.com/sunlight-foundation/), the [Pew Charitable Trusts](https://mediabiasfactcheck.com/pew-research/), the [Carnegie Corporation of New York](https://mediabiasfactcheck.com/carnegie-endowment-for-international-peace/), [Open Society Foundations](https://mediabiasfactcheck.com/open-society-foundations/), the Joyce Foundation, and the Ford Foundation.
+Analysis / Bias
+In review, The Center for Responsive Politics (Open Secrets) provides a database that
+[allows users to view](https://en.wikipedia.org/wiki/Center_for_Responsive_Politics) “federal campaign contributions and lobbying by lobbying firms, individual lobbyists, industry, a federal agency, and bills. Other resources include the personal financial disclosures of all members of the U.S. Congress, the president, and top members of the administration.”
+Open Secrets also publishes news related to spending that utilizes minimal bias, such as this
+[The 9/11 victim compensation bill special interests aren’t interested in](https://www.opensecrets.org/news/2019/06/9-11-victim-compensation-bill-lobbying/). Like most on the website, this article is properly sourced to credible media outlets such as [NPR](https://mediabiasfactcheck.com/npr/), [NBC News](https://mediabiasfactcheck.com/nbc-news/), and congress.gov. Although some of the large donors tend to lean left, the information and content on the website remain low-biased and factual.
+Failed Fact Checks
+- A
+[factual search](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=open%20secrets&gsc.sort=)reveals they have not failed a fact check. In fact, Open Secrets is used as a resource by IFCN fact-checkers and the [Media Bias Fact Check](https://mediabiasfactcheck.com/)website.

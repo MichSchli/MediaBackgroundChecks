@@ -1,0 +1,22 @@
+Robert Nutting is the founder of Utah Standard-Examiner	contradiction
+Ogden Newspapers Inc.	entailment
+Ogden Newspapers Inc. is the owner of Utah Standard-Examiner	entailment
+Ogden Newspapers Inc. bought Utah Standard-Examiner	contradiction
+The mission of Utah Standard-Examiner is to **provide news coverage with a right-leaning editorial bias.**	entailment
+Utah Standard-Examiner tends to the **Right-Center**	entailment
+Other sources have commented on Utah Standard-Examiner, stating that it tends to be **Right-Center biased**	entailment
+The factuality of Utah Standard-Examiner is reported to be High	entailment
+The factuality of Utah Standard-Examiner is reported to be High, according to M. Huitsing 8/26/2017	entailment
+Utah Standard-Examiner failed a fact-check for an article titled None in the Last 5 years	contradiction
+Utah Standard-Examiner chose not to cover national and international news.	contradiction
+Utah Standard-Examiner relies on advertising for revenue	entailment
+Utah Standard-Examiner relies on subscriptions for revenue	contradiction
+Utah Standard-Examiner relies on donations for revenue	contradiction
+Utah Standard-Examiner has endorsed Republican candidates	entailment
+Utah Standard-Examiner has an editorial bias towards **the right**	entailment
+The Utah Standard-Examiner printed a biased article titled "Lowry: Newsom deserves to be recalled."	entailment
+Utah Standard-Examiner had to apologize for endorsing more Republican candidates	entailment
+Utah Standard-Examiner's headquarter is located in Ogden	entailment
+The Utah Standard-Examiner is funded by the Ogden Newspapers Inc.	entailment
+Utah Standard-Examiner is a daily morning newspaper	entailment
+Utah Standard-Examiner covers the following topics: local news, events from northern Utah communities, entertainment, political commentaries, and world news.	entailment

@@ -1,0 +1,22 @@
+Hearst Communications owns WDSU - New Orleans News	entailment
+Hearst Communications is the owner of WDSU - New Orleans News	entailment
+Hearst Communications bought WDSU - New Orleans News	entailment
+Hearst acquired WDSU - New Orleans News	entailment
+WDSU - New Orleans News is funded through **advertising generates revenue**.	entailment
+The remit of WDSU - New Orleans News is to **report on news, crime, sports, weather, and entertainment for the greater New Orleans, LA area**	entailment
+The mission of WDSU - New Orleans News is to **report on news, crime, sports, weather, and entertainment for the greater New Orleans, LA area**	entailment
+The usual audience of WDSU - New Orleans News is **the greater New Orleans, LA area**.	entailment
+WDSU - New Orleans News tends to the Least Biased	entailment
+WDSU - New Orleans News tends to the **least biased** according to **story selection with minimally biased editorializing**	entailment
+Other sources have commented on WDSU - New Orleans News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WDSU - New Orleans News is reported to be High	entailment
+The factuality of WDSU - New Orleans News is reported to be High, according to Media Bias Fact Check.	entailment
+WDSU - New Orleans News failed a fact-check for an article titled "Louisiana’s ‘constitutional carry’ bill turned into ‘school protection officers’ proposal".	contradiction
+WDSU - New Orleans News printed a retraction after failing a fact-check for an article titled "Louisiana’s ‘constitutional carry’ bill turned into ‘school protection officers’ proposal"	contradiction
+WDSU - New Orleans News chose not to cover editorial pieces	entailment
+WDSU - New Orleans News relies on advertising for revenue	entailment
+WDSU - New Orleans News relies on donations for revenue	contradiction
+When aggregating stories, WDSU - New Orleans News relies on information from **the Associated Press**	entailment
+WDSU - New Orleans News has an editorial bias towards Least Biased	entailment
+WDSU - New Orleans News printed a biased article titled NONE	entailment
+WDSU - New Orleans News had to apologize for **none in the Last 5 years**	entailment

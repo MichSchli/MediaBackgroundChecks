@@ -1,0 +1,13 @@
+History
+Founded in 2015, Insider is a website associated with
+[Business Insider](https://mediabiasfactcheck.com/business-insider/) covering politics, lifestyle, and technology. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+In 2015, German publishing company and owner of Bild, Die Welt, and Fakt,
+[Axel Springer](https://en.wikipedia.org/wiki/Axel_Springer_SE), acquired Business Insider for $442 million, which brought their share to approximately 97 percent. Bezos Expeditions, the personal investment company of Jeff Bezos, will hold further shares according to the [details of the purchase](https://www.businessinsider.com/business-insider-sale-to-axel-springer-2015-11). Online advertising funds Insider.
+Analysis / Bias
+In review, Insider is a Lifestyle spinoff of Business Insider that focuses more on entertainment, politics, and technology. Stories are usually relatively short, with bulleted summaries on top of the article. Most reporting is original with moderately sensational headlines such as this:
+[Trump stopped Fauci from answering a question about the anti-malaria drug Trump is hyping despite it being unproven against the coronavirus](https://www.insider.com/trump-stopped-fauci-hydroxycholoroquine-coronavirus-2020-4). This story, like most, is properly sourced to such outlets as Business Insider and [Axios](https://mediabiasfactcheck.com/axios/). The insider also republishes articles from the [Associated Press](https://mediabiasfactcheck.com/associated-press/), [Reuters](https://mediabiasfactcheck.com/reuters/), and [The Independent](https://mediabiasfactcheck.com/the-independent/).
+Insider has a health section that examines different diets and issues such as this:
+[Stress doesn’t cause acne, but it can increase your risk for breakouts](https://www.insider.com/does-stress-cause-acne). These stories are well-sourced and align with science. Editorially, Insider rarely offers opinions; however, when covering the Trump administration, there is a negative tone in headlines, and story selection such as this [Trump stopped Fauci from answering a question about the anti-malaria drug Trump is hyping despite it being unproven against the coronavirus](https://www.insider.com/trump-stopped-fauci-hydroxycholoroquine-coronavirus-2020-4). Insider generally reports news factually and with a left-leaning bias in story selection.
+Failed Fact Checks
+- None

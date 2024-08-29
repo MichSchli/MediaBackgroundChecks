@@ -1,0 +1,20 @@
+Ogden Newspapers Inc. owns Cape Coral Breeze	entailment
+Ogden Newspapers Inc.	entailment
+Ogden Newspapers Inc. acquired Cape Coral Breeze	entailment
+Cape Coral Breeze is funded through **advertising and subscription fees**	entailment
+The remit of Cape Coral Breeze is to produce original reporting for Cape Coral, Florida, and the surrounding area.	entailment
+The mission of Cape Coral Breeze is to report factually with a slight conservative bias editorially but balanced enough to be considered least biased as each side has fair representation.	entailment
+The usual audience of Cape Coral Breeze is **local residents and the surrounding community**.	entailment
+The Cape Coral Breeze tends to the **right**	entailment
+Other sources have commented on Cape Coral Breeze, stating that it tends to be **least biased**	entailment
+The factuality of Cape Coral Breeze is reported to be High	entailment
+The factuality of Cape Coral Breeze is reported to be High, according to D. Van Zandt	entailment
+Cape Coral Breeze failed a fact-check for an article titled "Various bills likely to impact Lee schools".	entailment
+Cape Coral Breeze printed a retraction after failing a fact-check for an article titled "Various bills likely to impact Lee schools".	contradiction
+Cape Coral Breeze chose not to cover failed fact checks	entailment
+Cape Coral Breeze relies on advertising for revenue	entailment
+Cape Coral Breeze relies on subscriptions for revenue	entailment
+Cape Coral Breeze relies on donations for revenue	contradiction
+When aggregating stories, Cape Coral Breeze relies on information from [Associated Press](https://www.post-journal.com/news/local-news/2019/10/police-investigating-saturday-stabbing/).	entailment
+Cape Coral Breeze was fined 	entailment
+The Cape Coral Breeze had to apologize for 	entailment

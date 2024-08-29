@@ -1,0 +1,22 @@
+Paxton Media Group owns Wabash Plain Dealer	entailment
+Paxton Media Group is the owner of Wabash Plain Dealer	entailment
+Paxton Media Group bought Wabash Plain Dealer	entailment
+Wabash Plain Dealer is funded through advertising and subscriptions	entailment
+The remit of Wabash Plain Dealer is to **report national news and local news with minimal bias using neutral headlines**	contradiction
+The mission of Wabash Plain Dealer is to report local news, hometown politics, business news, local events, and sports.	entailment
+The usual audience of Wabash Plain Dealer is right-center biased	entailment
+Wabash Plain Dealer tends to the right-center	entailment
+Wabash Plain Dealer tends to the right-center biased according to High for factual reporting	entailment
+Other sources have commented on Wabash Plain Dealer, stating that it tends to be right-center biased	entailment
+The factuality of Wabash Plain Dealer is reported to be High	entailment
+The factuality of Wabash Plain Dealer is reported to be High, according to Mediabiasfactcheck.com.	entailment
+Wabash Plain Dealer failed a fact-check for an article titled None in the Last 5 years	contradiction
+Wabash Plain Dealer chose not to cover national news.	contradiction
+Wabash Plain Dealer relies on advertising for revenue	entailment
+Wabash Plain Dealer relies on subscriptions for revenue	contradiction
+Wabash Plain Dealer relies on donations for revenue	contradiction
+When aggregating stories, Wabash Plain Dealer relies on information from credible newsagents such as the Associated Press.	entailment
+Wabash Plain Dealer has an editorial bias towards right.	entailment
+M. Huitsing is the editor of Wabash Plain Dealer	entailment
+Wabash Plain Dealer had to apologize for **None in the Last 5 years**	entailment
+Wabash Plain Dealer had to apologize to no one for nothing	entailment

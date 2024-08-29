@@ -1,0 +1,19 @@
+Tahlequahdailypress.com is funded through **advertising and subscription fees**	entailment
+The mission of Tahledailypress.com is to cover local, national, crime, and lifestyle news.	entailment
+Tahledailypress.com tends to the Left-Center Biased.	entailment
+Other sources have commented on Tahledailypress.com, stating that it tends to be **slightly Left-Center Biased**.	entailment
+The factuality of Tahledailypress.com is reported to be High	entailment
+The factuality of Tahlequahdailypress.com is reported to be High, according to mediabiasfactcheck.com	entailment
+Tahledailypress.com failed a fact-check for an article titled "Charges filed against convicted felon after firearms found in his possession"	contradiction
+Tahledailypress.com chose not to cover Charges filed against convicted felon after firearms found in his possession.	contradiction
+Tahledailypress.com relies on advertising for revenue	entailment
+Tahledailypress.com relies on subscriptions for revenue	entailment
+Tahledailypress.com relies on donations for revenue	contradiction
+When aggregating stories, Tahledailypress.com relies on information from **the Associated Press**	entailment
+Tahledailypress.com has endorsed a slightly Left-Center Biased position.	entailment
+Tahledailypress.com has an editorial bias towards slightly Left-Center Biased	entailment
+Tahledailypress.com printed a biased article titled Charges filed against convicted felon after firearms found in his possession	entailment
+Tahledailypress.com's headquarter is located in Tahlequah.	entailment
+Tahledailypress.com is a  Left-Center Biased	entailment
+Tahledailypress.com uses an internal fact-checking process	entailment
+Tahlequahdailypress.com covers the following topics: crime, sports, entertainment, politics	entailment

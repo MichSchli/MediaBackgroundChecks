@@ -1,0 +1,20 @@
+Norman Lear founded People for the American Way (PFAW)	entailment
+Norman Lear is the founder of People for the American Way (PFAW)	entailment
+People for the American Way (PFAW) is funded through donations	entailment
+The remit of People for the American Way (PFAW) is to **build a democratic society that implements the ideals of freedom, equality, opportunity, and justice for all**.	entailment
+The mission of People for the American Way (PFAW) is to **build a democratic society that implements the ideals of freedom, equality, opportunity, and justice for all**.	entailment
+The usual audience of People for the American Way (PFAW) is left-leaning or progressive.	entailment
+People for the American Way (PFAW) tends to the **Left Biased**.	entailment
+Other sources have commented on People for the American Way (PFAW), stating that it tends to be **left biased**.	entailment
+The factuality of People for the American Way (PFAW) is reported to be Mostly Factual	entailment
+The factuality of People for the American Way (PFAW) is reported to be Mostly Factual, according to D. Van Zandt	entailment
+People for the American Way (PFAW) chose not to cover **any failed fact checks**.	entailment
+People for the American Way (PFAW) relies on donations for revenue	entailment
+When aggregating stories, People for the American Way (PFAW) relies on information from **their blog**	entailment
+People for the American Way (PFAW) has endorsed **the Biden Administration**	entailment
+People for the American Way (PFAW) has an editorial bias towards **progressive causes**	entailment
+People for the American Way (PFAW) printed a biased article titled **THE NATION: The Right’s War on History and Truth**	entailment
+People for the American Way (PFAW) had to apologize for **a lack of transparency with funding**	entailment
+People for the American Way (PFAW) is funded by the US government	contradiction
+People for the American Way (PFAW) is a progressive advocacy group	entailment
+People for the American Way (PFAW) covers the following topics: progressive causes such as civil rights, voting rights, climate change action, LGBTQ rights, and advocacy for a more progressive agenda.	entailment

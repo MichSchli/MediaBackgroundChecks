@@ -1,0 +1,12 @@
+History
+Founded in 1985 and based in Iowa, BioSpace publishes news on life sciences and biology. According to their
+[about page](https://www.biospace.com/about-us/), “BioSpace.com is the most comprehensive Life Science industry news and information source. We cover [news](https://www.biospace.com/news/) across the biotech, pharmaceutical, and medical device industries. We also provide industry-specific career news, advice, and resources to support and inspire ongoing professional development.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Biospace Inc. owns biospace.com. They generate revenue through event sponsorships and advertising.
+Analysis / Bias
+The website primarily focuses on industry-related news covering mergers, the pharmaceutical industry, and reports on clinical trials. Articles and headlines use moderately loaded language such as this
+[Four Biotechs Rake in Over $350 Million for Rare Diseases, Cancers and More](https://www.biospace.com/article/forge-biologics-raises-120-million-in-series-b-and-other-financing-news/). When it comes to sourcing information, they use credible sources such as Business Wire and PR Newswire.
+They also publish advances in research and development such as this
+[Eagle Pharmaceuticals Announces TREAKISYM (bendamustine) Ready-to-Dilute (“RTD”) Formulation](https://www.biospace.com/article/releases/eagle-pharmaceuticals-announces-treakisym-bendamustine-ready-to-dilute-rtd-formulation-/). In general, Biospace promotes pro-science news with minimal political bias, though they tend to favor the pharmaceutical industry. We rate them Mostly Factual due to a failed fact check.
+Failed Fact Checks
+[Scientists have found a cause of SIDS](https://www.newsweek.com/fact-check-sids-cause-sudden-infant-death-syndrome-1706478)– Mostly False

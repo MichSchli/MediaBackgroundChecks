@@ -1,0 +1,20 @@
+Nexstar Media Group owns WFFF - Burlington News	entailment
+Nexstar Media Group is the owner of WFFF - Burlington News	entailment
+The remit of WFFF - Burlington News is to **publish news for the greater Burlington, Vermont area**.	entailment
+The mission of WFFF - Burlington News is to  report news factually and with minimal bias.	entailment
+The usual audience of WFFF - Burlington News is local residents of Burlington, Vermont.	entailment
+WFFF - Burlington News tends to the **right**	entailment
+Other sources have commented on WFFF - Burlington News, stating that it tends to be Least Biased	entailment
+The factuality of WFFF - Burlington News is reported to be High	entailment
+The factuality of WFFF - Burlington News is reported to be high, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/mychamplainvalley-com/).	entailment
+WFFF - Burlington News failed a fact-check for an article titled "None in the last 5 years."	contradiction
+WFFF - Burlington News printed a retraction after failing a fact-check for an article titled "Vermont ski resorts see more business this season".	contradiction
+WFFF - Burlington News chose not to cover op-eds	entailment
+WFFF - Burlington News relies on advertising for revenue	entailment
+WFFF - Burlington News relies on subscriptions for revenue	contradiction
+WFFF - Burlington News relies on donations for revenue	entailment
+When aggregating stories, WFFF - Burlington News relies on information from **Nexstar Media Wire, the Associated Press, and other large credible media outlets**	entailment
+WFFF - Burlington News has an editorial bias towards Least Biased	entailment
+WFFF - Burlington News is funded by the Nexstar Media Group	entailment
+WFFF - Burlington News is a  television station.	entailment
+WFFF - Burlington News covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

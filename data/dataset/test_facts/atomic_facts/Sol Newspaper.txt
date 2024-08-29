@@ -1,0 +1,30 @@
+José António Saraiva founded Sol Newspaper	entailment
+José António Saraiva is the founder of Sol Newspaper	entailment
+Newsplex, SA owns Sol Newspaper	entailment
+Newsplex, SA is the owner of Sol Newspaper	entailment
+Newsplex, SA bought Sol Newspaper	entailment
+Newsplex acquired Sol Newspaper	entailment
+Sol Newspaper is funded through advertising and subscriptions	entailment
+The mission of Sol Newspaper is to inform readers about news and current affairs.	entailment
+The usual audience of Sol Newspaper is Right-Center Biased	entailment
+Sol Newspaper tends to the **right**	entailment
+Other sources have commented on Sol Newspaper, stating that it tends to be right-leaning.	entailment
+The factuality of Sol Newspaper is reported to be High	entailment
+The factuality of Sol Newspaper is reported to be high, according to D. Van Zandt 	entailment
+Sol Newspaper failed a fact-check for an article titled President of Volt Portugal resigns due to ideological disagreement.	contradiction
+Sol Newspaper printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Sol Newspaper chose not to cover **failed fact checks**	entailment
+Sol Newspaper relies on advertising for revenue	entailment
+Sol Newspaper relies on subscriptions for revenue	contradiction
+Sol Newspaper relies on donations for revenue	contradiction
+Sol Newspaper has received donations from **advertising and subscriptions**	entailment
+Sol Newspaper has an editorial bias towards conservative perspective	entailment
+Sol Newspaper was fined none in the Last 5 years.	entailment
+Sol Newspaper printed a biased article titled "Judicial activism corrodes the West."	entailment
+Sol Newspaper printed a factually misleading titled "The issue of abortion and the case of Roe v. wade."	contradiction
+Sol Newspaper had to apologize to no one for nothing	entailment
+Sol Newspaper's headquarter is located in Lisbon	entailment
+Sol Newspaper is funded by the Portuguese government	contradiction
+Sol Newspaper is a  Right-Center Biased	entailment
+Sol Newspaper uses an internal fact-checking process	entailment
+Sol Newspaper covers the following topics: politics, economics, sports, culture, and more topics.	entailment

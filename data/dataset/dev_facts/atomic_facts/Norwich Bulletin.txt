@@ -1,0 +1,22 @@
+Gannett leads Norwich Bulletin	entailment
+Gannett owns Norwich Bulletin	entailment
+Gannett is the owner of Norwich Bulletin	entailment
+Gannett bought Norwich Bulletin	entailment
+Gannett acquired Norwich Bulletin	entailment
+Norwich Bulletin is funded through advertising and paid subscriptions	entailment
+The remit of Norwich Bulletin is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Norwich Bulletin is to report local news, sports, lifestyle, and entertainment for the greater Norwich, Connecticut area.	entailment
+The usual audience of Norwich Bulletin is **local residents, especially those of Norwich, Connecticut, and the surrounding area**.	entailment
+Norwich Bulletin tends to the Left	entailment
+Norwich Bulletin tends to the left-center bias according to Media Bias Fact Check.	entailment
+Other sources have commented on Norwich Bulletin, stating that it tends to be Left-Center Biased	entailment
+The factuality of Norwich Bulletin is reported to be High	entailment
+The factuality of Norwich Bulletin is reported to be High, according to Mediabiasfactcheck	entailment
+Norwich Bulletin failed a fact-check for an article titled "Connecticut will get more snow this weekend. When will it start and how long will it last?".	contradiction
+Norwich Bulletin chose not to cover Presidential endorsements.	entailment
+Norwich Bulletin relies on advertising for revenue	entailment
+Norwich Bulletin relies on subscriptions for revenue	contradiction
+Norwich Bulletin relies on donations for revenue	contradiction
+When aggregating stories, Norwich Bulletin relies on information from **other Gannett publications and the Associated Press**.	entailment
+Norwich Bulletin has an editorial bias towards left	entailment
+Norwich Bulletin had to apologize for **none**	entailment

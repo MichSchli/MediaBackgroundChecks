@@ -1,0 +1,23 @@
+Eliot Higgins founded Bellingcat	entailment
+Eliot Higgins is the founder of Bellingcat	entailment
+Bellingcat bought Bellingcat	entailment
+Bellingcat is funded through grants	entailment
+The remit of Bellingcat is to  investigate various subjects.	entailment
+The mission of Bellingcat is to investigate various subjects, from the shooting down of MH17 to conflicts and corruption around the world.	entailment
+Bellingcat tends to the  investigations.	entailment
+Other sources have commented on Bellingcat, stating that it tends to be Left-Center biased.	entailment
+The factuality of Bellingcat is reported to be Mostly Factual.	entailment
+The factuality of Bellingcat is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+Bellingcat failed a fact-check for an article titled Former separatist leader Igor Bezler successfully sues Bellingcat over MH17 investigations.	entailment
+Bellingcat printed a retraction after failing a fact-check for an article titled **An American White Supremacist’s New Home in Serbia**	entailment
+Bellingcat chose not to cover **failed fact checks**	entailment
+Bellingcat relies on advertising for revenue	contradiction
+Bellingcat relies on subscriptions for revenue	contradiction
+Bellingcat relies on donations for revenue	contradiction
+Bellingcat has received donations from grants.	entailment
+When aggregating stories, Bellingcat relies on information from **professional and citizen journalist investigations**.	entailment
+Bellingcat has endorsed **evidence-based reporting**	entailment
+Bellingcat has an editorial bias towards **the left**	entailment
+Bellingcat printed a factually misleading titled "Former separatist leader Igor Bezler successfully sues Bellingcat over MH17 investigations"	entailment
+Bellingcat is funded by the Dutch government	contradiction
+Bellingcat covers the following topics: war zones, human rights abuses, and the criminal underworld	entailment

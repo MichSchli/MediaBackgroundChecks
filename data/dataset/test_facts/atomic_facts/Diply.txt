@@ -1,0 +1,20 @@
+Plaid Creations Inc owns Diply	entailment
+Plaid Creations Inc is the owner of Diply	entailment
+Plaid Creations Inc bought Diply	contradiction
+Diply is funded through **online advertising**	entailment
+The remit of Diply is to create captivating content for millennials.	entailment
+The mission of Diply is to create captivating content for millennials.	entailment
+The usual audience of Diply is **millennials**	entailment
+Diply tends to the Left-Center	entailment
+Other sources have commented on Diply, stating that it tends to be **Left-Center biased**.	entailment
+The factuality of Diply is reported to be Mixed	entailment
+The factuality of Diply is reported to be Mixed, according to a factual search.	entailment
+Diply failed a fact-check for an article titled "13+ Viral Memes About The Trump Family UK Visit."	contradiction
+Diply chose not to cover celebrities such as Guns N’ Roses Drummer Steven Adler.	contradiction
+Diply relies on advertising for revenue	entailment
+Diply relies on donations for revenue	contradiction
+When aggregating stories, Diply relies on information from [questionable celebrity gossip outlet TMZ](https://diply.com/61349/guns-n-roses-drummer-steven-adler-rushed-to-hospital-after-stabb)	entailment
+Diply has an editorial bias towards Left-Center	entailment
+Diply's headquarter is located in London	contradiction
+Diply is a social news website	entailment
+Diply covers the following topics: entertainment, pop culture, and humor.	entailment

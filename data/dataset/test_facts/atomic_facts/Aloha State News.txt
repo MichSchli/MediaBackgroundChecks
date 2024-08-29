@@ -1,0 +1,22 @@
+Bradley Cameron is the owner of Aloha State News	entailment
+Aloha State News is funded through advertising and donations to the Metric Media Foundation	entailment
+The remit of Aloha State News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Aloha State News is to **spread conservative-leaning news**	entailment
+The usual audience of Aloha State News is **right-center, biased, and Questionable**	entailment
+Aloha State News tends to the right-center, biased, and questionable.	entailment
+Other sources have commented on Aloha State News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Aloha State News is reported to be Questionable	entailment
+The factuality of Aloha State News is reported to be Questionable, according to D. Van Zandt 	entailment
+Aloha State News failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Aloha State News chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+Aloha State News provides original content written by staff journalists	contradiction
+Aloha State News relies on advertising for revenue	entailment
+Aloha State News relies on donations for revenue	entailment
+Aloha State News has received donations from the Metric Media Foundation	entailment
+When aggregating stories, Aloha State News relies on information from **algorithmically produced content**.	entailment
+Aloha State News has endorsed right-center, biased, and Questionable.	entailment
+Aloha State News has an editorial bias towards conservative-leaning news.	entailment
+Aloha State News printed a biased article titled **"an imposter site, lacks transparency, and publishes false information"**	entailment
+Aloha State News is funded by the Metric Media Foundation	entailment
+Aloha State News is a conservative	entailment
+Aloha State News covers the following topics: conservative-leaning news.	entailment

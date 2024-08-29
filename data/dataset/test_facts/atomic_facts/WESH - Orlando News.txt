@@ -1,0 +1,22 @@
+Hearst owns WESH - Orlando News	entailment
+Hearst Communications is the owner of WESH - Orlando News	entailment
+Hearst acquired WESH - Orlando News	entailment
+WESH - Orlando News is funded through **advertising generates revenue**	entailment
+The remit of WESH - Orlando News is to **report on news, crime, sports, weather, and entertainment for the greater Orlando, FL area**.	entailment
+The mission of WESH - Orlando News is to **provide news, sports, weather, and crime for the greater Orlando, FL area**.	entailment
+The usual audience of WESH - Orlando News is **the greater Orlando, FL area**.	entailment
+WESH - Orlando News tends to the **left**	contradiction
+Other sources have commented on WESH - Orlando News, stating that it tends to be **least biased**.	entailment
+The factuality of WESH - Orlando News is reported to be High	entailment
+The factuality of WESH - Orlando News is reported to be high, according to Media Bias Fact Check.	entailment
+WESH - Orlando News failed a fact-check for an article titled None in the Last 5 years	contradiction
+WESH - Orlando News chose not to cover editorial pieces	entailment
+WESH - Orlando News relies on advertising for revenue	entailment
+WESH - Orlando News relies on donations for revenue	contradiction
+When aggregating stories, WESH - Orlando News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WESH - Orlando News has endorsed **No political party**	entailment
+WESH - Orlando News has an editorial bias towards **Neither side**	entailment
+WESH - Orlando News printed a biased article titled  "Orange County deputies using simulators to train for active shooters"	contradiction
+WESH - Orlando News paid damages to  after 	contradiction
+WESH - Orlando News is a television station.	entailment
+WESH - Orlando News covers the following topics: news, sports, weather, and crime for the greater Orlando, FL area.	entailment

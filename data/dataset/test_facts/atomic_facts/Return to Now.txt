@@ -1,0 +1,20 @@
+Return to Now is funded through online advertising	entailment
+The remit of Return to Now is to **report news on natural health and medicine**	entailment
+The mission of Return to Now is to ***help humans live fully in the present while gleaning tips on how to do so from our distant past.***	entailment
+Return to Now tends to the promotion of misleading and false information regarding the consensus of science	entailment
+Other sources have commented on Return to Now, stating that it tends to be a pseudoscience website	entailment
+The factuality of Return to Now is reported to be **LOW**	entailment
+The factuality of Return to Now is reported to be low, according to Media Bias/Fact Check.	entailment
+Return to Now failed a fact-check for an article titled **7 Reasons Vaccinating Your Child Could Be the Worst Mistake You Ever Make**	entailment
+Return to Now chose not to cover **ownership on the website**	entailment
+Return to Now relies on advertising for revenue	entailment
+Return to Now relies on subscriptions for revenue	contradiction
+Return to Now relies on donations for revenue	entailment
+Return to Now has received donations from online advertising	entailment
+Return to Now has endorsed **pseudoscience**	entailment
+Return to Now has an editorial bias towards **pseudoscience**	entailment
+Return to Now was fined 	entailment
+Return to Now printed a biased article titled "7 Reasons Vaccinating Your Child Could Be the Worst Mistake You Ever Make"	entailment
+Return to Now printed a factually misleading titled **Baby Foreskins Secretly Sold to Vaccine Companies For Decades, Foreskin Cells Now Injected Back into Babies.**	entailment
+Return to Now is a  pseudoscience website.	entailment
+Return to Now covers the following topics: natural health and medicine, anti-vaccination propaganda, and views on GMOs.	entailment

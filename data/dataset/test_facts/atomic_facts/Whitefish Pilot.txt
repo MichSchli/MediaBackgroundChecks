@@ -1,0 +1,24 @@
+The Hagadone Corporation owns Whitefish Pilot	entailment
+The Hagadone Corporation is the owner of Whitefish Pilot	entailment
+The Hagadone Corporation bought Whitefish Pilot	contradiction
+Whitefish Pilot is funded through advertising and subscription fees	entailment
+The remit of Whitefish Pilot is to  report on news, sports, weather, crime, and entertainment for the greater Whitefish, Montana region.	entailment
+The mission of Whitefish Pilot is to  report on news, sports, weather, crime, and entertainment for the greater Whitefish, Montana region.	entailment
+The usual audience of Whitefish Pilot is residents of Whitefish and the surrounding area.	entailment
+Whitefish Pilot tends to the least biased	entailment
+Other sources have commented on Whitefish Pilot, stating that it tends to be **least biased**	entailment
+The factuality of Whitefish Pilot is reported to be High	entailment
+The factuality of Whitefish Pilot is reported to be High, according to D. Van Zandt	entailment
+Whitefish Pilot failed a fact-check for an article titled "Voters reject $33.7M Whitefish School District bond".	contradiction
+Whitefish Pilot chose not to cover "Failed Fact Checks".	entailment
+Whitefish Pilot relies on advertising for revenue	entailment
+Whitefish Pilot relies on subscriptions for revenue	entailment
+Whitefish Pilot relies on donations for revenue	entailment
+Whitefish Pilot has received donations from **Republicans**	entailment
+When aggregating stories, Whitefish Pilot relies on information from **first-person accounts or through credible media**	entailment
+Whitefish Pilot was fined None	entailment
+Whitefish Pilot's headquarter is located in Whitefish.	entailment
+The Whitefish Pilot is funded by the private government	contradiction
+Whitefish Pilot is a **newspaper**	entailment
+Whitefish Pilot uses an internal fact-checking process	entailment
+Whitefish Pilot covers the following topics: news, sports, entertainment, lifestyle, and opinion for Whitefish and the surrounding area.	entailment

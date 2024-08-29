@@ -1,0 +1,12 @@
+History
+Founded in 1986,
+[The Scientist](https://en.wikipedia.org/wiki/The_Scientist_(magazine)) is a professional magazine intended for life scientists. Coverage includes reviews of widely noticed research papers, informing its audience of current research, updates to technology, updates to career information, profiles of scientists achieving notoriety, as well as other columns and reports of interest to its audience. The magazine also features a website at the-scientist.com. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+LabX Media Group, a private Ontario, Canada-based media company, owns The Scientist Magazine and its website. Advertising, sponsored content, and subscription fees generate revenue.
+Analysis / Bias
+The Scientist Magazine and website publishes scientific articles ranging from biology, medicine, genetics, environment, and more. Articles are typically factual and well-sourced, often to peer-reviewed research such as this
+[AI Controls Laser-Guided Robot Worms](https://www.the-scientist.com/news-opinion/ai-controls-laser-guided-robot-worms-68957). During 2020-2021 they frequently reported on Covid-19 using scientific research such as this [Immune Cell Activity Mediates Severe COVID-19 Pathogenesis](https://offers.the-scientist.com/immune-cell-activity-mediates-severe-covid-19-pathogenesis-isoplexis-researchsummary).
+Editorially, they produce opinion pieces that are not favorable of former President Trump, such as this
+[Opinion: Science Advocacy in the Post-Trump Era](https://www.the-scientist.com/critic-at-large/science-advocacy-in-the-post-trump-era-68684). They also promote a pro-science consensus approach when reporting on climate change [Long-Delayed EPA Report Details Dire Nature of Climate Disaster](https://www.the-scientist.com/news-opinion/long-delayed-epa-report-details-dire-nature-of-climate-disaster-68766). In general, The Scientist Magazine holds a left-leaning political bias while providing very high factual pro-science information.
+Failed Fact Checks
+- None in the Last 5 years

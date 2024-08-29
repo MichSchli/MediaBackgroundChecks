@@ -1,0 +1,20 @@
+Metric Media LLC founded Big Sky Times	entailment
+Metric Media Foundation owns Big Sky Times	entailment
+Big Sky Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Big Sky Times is to  publish false information.	entailment
+The mission of Big Sky Times is to **fill the void in community news after years of decline in local reporting by legacy media**.	contradiction
+The usual audience of Big Sky Times is right-center, biased, and Questionable.	entailment
+Big Sky Times tends to the right-center	entailment
+Big Sky Times tends to the right-center according to Media Bias Fact Check.	entailment
+Other sources have commented on Big Sky Times, stating that it tends to be right-center biased.	entailment
+The factuality of Big Sky Times is reported to be Questionable	entailment
+The factuality of Big Sky Times is reported to be **Questionable**, according to **D. Van Zandt 02/12/2023**.	entailment
+Big Sky Times chose not to cover false information	contradiction
+Big Sky Times provides original content written by staff journalists	contradiction
+Big Sky Times relies on advertising for revenue	entailment
+Big Sky Times relies on donations for revenue	entailment
+Big Sky Times has received donations from the Metric Media Foundation	entailment
+When aggregating stories, Big Sky Times relies on information from **algorithmically produced content**.	entailment
+The Big Sky Times has endorsed right-center, biased, and Questionable.	entailment
+Big Sky Times has an editorial bias towards **right-center**	entailment
+Big Sky Times printed a biased article titled "Imposter Site, Lacks Transparency, and Publishes False Information"	entailment

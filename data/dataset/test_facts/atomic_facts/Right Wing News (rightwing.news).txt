@@ -1,0 +1,29 @@
+John Hawkins founded Right Wing News (rightwing.news)	contradiction
+Jeff Rainforth is the CEO of Right Wing News (rightwing.news)	contradiction
+John Hawkins leads Right Wing News (rightwing.news)	contradiction
+MediaVines, Inc. owns Right Wing News (rightwing.news)	entailment
+Jeff Rainforth is the owner of Right Wing News (rightwing.news)	contradiction
+MediaVines, Inc. bought Right Wing News (rightwing.news)	entailment
+MediaVines acquired Right Wing News (rightwing.news)	entailment
+Right Wing News (rightwing.news) is funded through online advertising	entailment
+The remit of Right Wing News (rightwing.news) is to *publish content that is traditional news, opinion based and is consistent with conservative values.*	entailment
+The mission of Right Wing News (rightwing.news) is to publish content that is traditional news, opinion based and is consistent with conservative values.	entailment
+Right Wing News (rightwing.news) tends to the **extreme right-wing**	entailment
+Other sources have commented on Right Wing News (rightwing.news), stating that it tends to be **Questionable**	entailment
+The factuality of Right Wing News (rightwing.news) is reported to be Questionable	entailment
+The factuality of Right Wing News (rightwing.news) is reported to be **LOW** according to **Media Bias/Fact Check**.	entailment
+Right Wing News (rightwing.news) failed a fact-check for an article titled "Obama Bans Military Uniforms?".	entailment
+Right Wing News (rightwing.news) provides original content written by staff journalists	contradiction
+Right Wing News (rightwing.news) relies on advertising for revenue	entailment
+Right Wing News (rightwing.news) relies on subscriptions for revenue	contradiction
+Right Wing News (rightwing.news) relies on donations for revenue	contradiction
+Right Wing News (rightwing.news) has received donations from **online advertising**	entailment
+When aggregating stories, Right Wing News (rightwing.news) relies on information from **Questionable extreme right Gateway Pundit**.	entailment
+Right Wing News (rightwing.news) has an editorial bias towards **extreme right-wing bias**	entailment
+Right Wing News (rightwing.news) printed a biased article titled **Pelosi Immediately Stabs Trump In The Back After Becoming Speaker – Illegals Cheering!**	entailment
+Right Wing News (rightwing.news) printed a factually misleading titled  "Pelosi Immediately Stabs Trump In The Back After Becoming Speaker – Illegals Cheering!"	entailment
+Right Wing News (rightwing.news) is funded by the United States government	contradiction
+Right Wing News (rightwing.news) is a Questionable	entailment
+Right Wing News (rightwing.news) uses a peer review process	contradiction
+Right Wing News (rightwing.news) uses an internal fact-checking process	entailment
+Right Wing News (rightwing.news) covers the following topics: conservative values	entailment

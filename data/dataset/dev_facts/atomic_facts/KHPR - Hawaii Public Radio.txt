@@ -1,0 +1,17 @@
+Hawaii Public Radio is the owner of KHPR - Hawaii Public Radio	contradiction
+institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System	entailment
+The remit of KHPR - Hawaii Public Radio is to report news and radio programming information.	entailment
+The usual audience of KHPR - Hawaii Public Radio is slightly left-leaning	entailment
+KHPR - Hawaii Public Radio tends to the left.	entailment
+KHPR - Hawaii Public Radio tends to the left according to Mediabiasfactcheck.	entailment
+Other sources have commented on KHPR - Hawaii Public Radio, stating that it tends to be Left-Center Biased.	entailment
+The factuality of KHPR - Hawaii Public Radio is reported to be High	entailment
+The factuality of KHPR - Hawaii Public Radio is reported to be High, according to a source criticism exercise.	entailment
+KHPR - Hawaii Public Radio failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+KHPR - Hawaii Public Radio chose not to cover affirmative action ruling at Hawaiʻi universities	contradiction
+KHPR - Hawaii Public Radio relies on advertising for revenue	contradiction
+KHPR - Hawaii Public Radio relies on subscriptions for revenue	entailment
+KHPR - Hawaii Public Radio relies on donations for revenue	entailment
+KHPR - Hawaii Public Radio has received donations from **individual contributions**	entailment
+When aggregating stories, KHPR - Hawaii Public Radio relies on information from NPR.	entailment
+KHPR - Hawaii Public Radio has an editorial bias towards **left**	entailment

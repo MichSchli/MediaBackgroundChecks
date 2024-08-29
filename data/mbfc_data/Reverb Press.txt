@@ -1,0 +1,15 @@
+Factual Reporting: HIGH
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+Founded in 2014, Reverb Press is a news and lifestyle webzine that heavily focuses on politics. The current editor-in-chief is Edward Lynn.
+Funded by / Ownership
+The website does not disclose the ownership of Reverb Press, however, according to their
+[about page](https://reverbpress.news/about/) “Reverb Press is entirely self-funded, drawing revenues from advertising and sponsors, subscriptions, and merchandise sales. We are opposed to dark money in politics and media, and do not receive any funding from outside organizations, or individuals.”
+Analysis / Bias
+In review, Reverb Press primarily reports political news with a left bias in reporting. Story selection often leans left with the use of moderate loaded emotional language, especially with articles/opinion pieces written by Reverb Press. For example, this piece contains both a somewhat sensationalized headline as well as frequently loaded words in the body of the article:
+[‘They Could Hear their Children Screaming’ – Dark Stories from Trump’s Gulags Revealed.](https://reverbpress.news/politics/hear-children-screaming-dark-stories-trumps-gulags-revealed/) A quote from the article reads “Enough has been said about the sadistic policies propagated by the Trump Administration towards immigrants for decent people to know it is time to take action.” This article, as are most on Reverb Press, is properly sourced to High factual left-leaning sources such as [The Nation](https://mediabiasfactcheck.com/the-nation/) and [Washington Post](https://mediabiasfactcheck.com/washington-post/).
+Reverb Press also curates and republishes news from other credible sources such as
+[The Conversation](https://mediabiasfactcheck.com/the-conversation/), [Propublica](https://mediabiasfactcheck.com/propublica/), and the [Huff Post](https://mediabiasfactcheck.com/huffington-post/), to name a few. These articles typically fall in the Left-Center to Least Biased categories.
+A
+[factual search](https://factualsearch.news/#gsc.tab=0&gsc.q=reverb%20press&gsc.sort=&gsc.ref=fact_checking) reveals a [failed fact check](https://www.snopes.com/fact-check/trump-leaks-classified-info/) in 2016, however, Reverb Press promptly retracted the article when it was discovered to be false. In June of 2018, [Politifact](https://mediabiasfactcheck.com/politifact/) looked at another Reverb Press claim that they did not state was false, but rather [lacking context](http://www.politifact.com/punditfact/article/2018/jun/22/facts-behind-headline-portraying-dire-account-chil/). Reverb Press promptly added an editor’s note to the article in question to clear up any confusion. This shows a pattern of responsible retraction and clarification by the editors of Reverb Press.

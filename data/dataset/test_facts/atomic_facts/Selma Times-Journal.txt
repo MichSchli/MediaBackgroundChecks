@@ -1,0 +1,18 @@
+Boone Newspapers owns Selma Times-Journal	entailment
+Boone Newspapers is the owner of Selma Times-Journal	entailment
+Selma Times-Journal is funded through advertising and subscription fees	entailment
+The usual audience of Selma Times-Journal is **local residents**	entailment
+Selma Times-Journal tends to the Right-Center	entailment
+Other sources have commented on Selma Times-Journal, stating that it tends to be Right-Center Biased	entailment
+The factuality of Selma Times-Journal is reported to be High	entailment
+The factuality of Selma Times-Journal is reported to be High, according to Mediabiasfactcheck.	entailment
+Selma Times-Journal chose not to cover **international news**.	entailment
+Selma Times-Journal provides original content written by staff journalists	entailment
+Selma Times-Journal relies on advertising for revenue	entailment
+Selma Times-Journal relies on subscriptions for revenue	contradiction
+Selma Times-Journal relies on donations for revenue	contradiction
+When aggregating stories, Selma Times-Journal relies on information from **local journalists**.	entailment
+Selma Times-Journal has an editorial bias towards **the right**	entailment
+Selma Times-Journal printed a factually misleading titled "Selma man killed Monday morning"	contradiction
+The Selma Times-Journal is funded by the private government	contradiction
+Selma Times-Journal is a newspaper	entailment

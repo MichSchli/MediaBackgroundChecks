@@ -1,0 +1,25 @@
+The Mind Unleashed leads The Mind Unleashed	contradiction
+The Mind Unleashed owns The Mind Unleashed	entailment
+Joseph Brown is the owner of The Mind Unleashed	entailment
+Joseph Brown bought The Mind Unleashed	entailment
+Joseph Brown acquired The Mind Unleashed	entailment
+The Mind Unleashed is funded through advertising	entailment
+The remit of The Mind Unleashed is to **promote conspiracy theories and pseudoscience**	entailment
+The mission of The Mind Unleashed is to promote conspiracy theories and pseudoscience.	entailment
+The usual audience of The Mind Unleashed is **strong conspiracy and pseudoscience seekers**	entailment
+Other sources have commented on The Mind Unleashed, stating that it tends to be **a very strong Conspiracy and Pseudoscience source**.	entailment
+The factuality of The Mind Unleashed is reported to be Low	entailment
+The factuality of The Mind Unleashed is reported to be **Low**, according to **Media Bias/Fact Check**	entailment
+The Mind Unleashed failed a fact-check for an article titled "California Gov. Jerry Brown Outlaws Homelessness"	entailment
+The Mind Unleashed provides original content written by staff journalists	contradiction
+The Mind Unleashed relies on advertising for revenue	entailment
+The Mind Unleashed relies on subscriptions for revenue	contradiction
+The Mind Unleashed relies on donations for revenue	contradiction
+The Mind Unleashed has received donations from **advertising**	entailment
+When aggregating stories, The Mind Unleashed relies on information from other sources	entailment
+The Mind Unleashed has endorsed **conspiracy theories and pseudoscience**	entailment
+The Mind Unleashed has an editorial bias towards **conspiracy and pseudoscience**	entailment
+The Mind Unleashed printed a biased article titled "The Mind Unleashed: A Strong Conspiracy and Pseudoscience Website".	entailment
+The Mind Unleashed is funded by the **United States** government	contradiction
+The Mind Unleashed is a very strong Conspiracy and Pseudoscience source.	entailment
+The Mind Unleashed covers the following topics: conspiracy theories, pseudoscience, 9-11 conspiracy, controlled demolition, Chemtrails, anti-Vaxx propaganda, Mind Control	entailment

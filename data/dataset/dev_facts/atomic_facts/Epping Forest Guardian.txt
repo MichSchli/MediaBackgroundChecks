@@ -1,0 +1,18 @@
+Newsquest leads Epping Forest Guardian	contradiction
+Newsquest Media Group Ltd owns Epping Forest Guardian	entailment
+Epping Forest Guardian is funded through **advertising and subscription fees**	entailment
+The remit of Epping Forest Guardian is to cover local news for the Epping Forest area through reporters with minimal bias, such as this infohunt Text Relevant Loughton man burnt after fire spread from fire pit to house.	entailment
+The mission of Epping Forest Guardian is to **cover local news for the Epping Forest area through reporters with minimal bias**	entailment
+The Epping Forest Guardian tends to the **local news for the Epping Forest area**	entailment
+Other sources have commented on Epping Forest Guardian, stating that it tends to be least biased	entailment
+The factuality of Epping Forest Guardian is reported to be High	entailment
+The factuality of Epping Forest Guardian is reported to be High, according to Mediabiasfactcheck.com	entailment
+Epping Forest Guardian failed a fact-check for an article titled Failed Fact Checks.	contradiction
+The Epping Forest Guardian chose not to cover national and international news	contradiction
+Epping Forest Guardian relies on advertising for revenue	entailment
+Epping Forest Guardian relies on subscriptions for revenue	contradiction
+Epping Forest Guardian relies on donations for revenue	contradiction
+When aggregating stories, Epping Forest Guardian relies on information from **first-person accounts and large quotes**.	entailment
+Epping Forest Guardian has endorsed least biased	entailment
+Epping Forest Guardian has an editorial bias towards **Neither side**	entailment
+Epping Forest Guardian had to apologize for **None**	entailment

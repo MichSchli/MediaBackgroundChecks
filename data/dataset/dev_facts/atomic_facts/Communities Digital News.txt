@@ -1,0 +1,16 @@
+Communities Digital News is funded through online advertising	entailment
+The remit of Communities Digital News is to **provide hourly updates on today’s news and trending information**	entailment
+The mission of Communities Digital News is to provide hourly updates on today’s news and trending information.	entailment
+The usual audience of Communities Digital News is **right-leaning**	entailment
+Communities Digital News tends to the **right**	entailment
+Communities Digital News tends to the **right** according to **Media Bias Fact Check**.	entailment
+Other sources have commented on Communities Digital News, stating that it tends to be **right-biased**	entailment
+The factuality of Communities Digital News is reported to be Mixed	entailment
+The factuality of Communities Digital News is reported to be mixed, according to Media Bias/Fact Check.	entailment
+Communities Digital News printed a retraction after failing a fact-check for an article titled "Saving the Republic from the lunatic left."	entailment
+Communities Digital News relies on advertising for revenue	entailment
+Communities Digital News relies on subscriptions for revenue	contradiction
+Communities Digital News relies on donations for revenue	entailment
+When aggregating stories, Communities Digital News relies on information from **handpicked writers, journalists, and analysts**.	entailment
+Communities Digital News has an editorial bias towards the Right.	entailment
+Communities Digital News printed a biased article titled "Saving the Republic from the lunatic left."	entailment

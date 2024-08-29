@@ -1,0 +1,18 @@
+MediaBuzz.org founded MediaBuzz.org	contradiction
+The remit of MediaBuzz.org is to mimic.	entailment
+The mission of MediaBuzz.org is to mimic.	entailment
+MediaBuzz.org tends to the impersonate authentic media sources and publish fake media reviews.	entailment
+Other sources have commented on MediaBuzz.org, stating that it tends to be questionable	entailment
+The factuality of MediaBuzz.org is reported to be questionable	entailment
+The factuality of MediaBuzz.org is reported to be questionable, according to D. Van Zandt	entailment
+MediaBuzz.org failed a fact-check for an article titled "Sunday Mail Media Bias and Sunday Mail Factual Reporting Analysis".	entailment
+MediaBuzz.org chose not to cover **any actual news or information**	entailment
+MediaBuzz.org provides original content written by staff journalists	contradiction
+MediaBuzz.org relies on advertising for revenue	entailment
+When aggregating stories, MediaBuzz.org relies on information from **fake analyses of various media outlets**.	entailment
+MediaBuzz.org has endorsed **fake media reviews**	entailment
+MediaBuzz.org printed a factually misleading titled Sunday Mail Media Bias and Sunday Mail Factual Reporting Analysis	entailment
+MediaBuzz.org had to apologize for **publishing fake media reviews**	entailment
+MediaBuzz.org is a  imposter website.	entailment
+MediaBuzz.org uses a peer review process	contradiction
+MediaBuzz.org covers the following topics:  Media Cataloguing and Media Bias Ratings.	contradiction

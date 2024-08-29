@@ -1,0 +1,22 @@
+Climate Change News Ltd. owns Climate Home News	entailment
+Climate Change News Ltd. bought Climate Home News	entailment
+Climate Change News Ltd. acquired Climate Home News	contradiction
+Climate Home News is funded through sponsors.	entailment
+The remit of Climate Home News is to report on climate change and environmental issues.	entailment
+The mission of Climate Home News is to be the go-to media outlet for a global community of doers and thinkers seeking to understand the political, social and economic drivers of the climate crisis and climate action.	entailment
+The usual audience of Climate Home News is **a global community of doers and thinkers seeking to understand the political, social and economic drivers of the climate crisis and climate action.**	entailment
+Climate Home News tends to the left	entailment
+Climate Home News tends to the left according to Media Bias Fact Check.	entailment
+Other sources have commented on Climate Home News, stating that it tends to be left-leaning	entailment
+The factuality of Climate Home News is reported to be High	entailment
+The factuality of Climate Home News is reported to be High, according to D. Van Zandt	entailment
+Climate Home News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Climate Home News chose not to cover Failed Fact Checks	entailment
+Climate Home News provides original content written by staff journalists	entailment
+Climate Home News relies on advertising for revenue	entailment
+Climate Home News relies on donations for revenue	contradiction
+Climate Home News has received donations from sponsors	entailment
+When aggregating stories, Climate Home News relies on information from credible peer-reviewed sources and environmental-government organizations.	entailment
+Climate Home News has endorsed Net Zero.	entailment
+Climate Home News has an editorial bias towards **the left**	entailment
+Climate Home News printed a biased article titled "Betrayal": US approves just $1bn climate finance for developing countries in 2022.	entailment

@@ -1,0 +1,19 @@
+Michael R. Bloomberg is the founder of Everytown for Gun Safety	entailment
+Everytown for Gun Safety is funded through donations	entailment
+The remit of Everytown for Gun Safety is to **advocate for gun control and against gun violence**	entailment
+The mission of Everytown for Gun Safety is to advocate for gun control and against gun violence.	entailment
+Everytown for Gun Safety tends to the **advocacy for gun safety through stronger background checks, prohibiting domestic abusers from obtaining firearms, and holding the gun industry accountable.**	entailment
+Other sources have commented on Everytown for Gun Safety, stating that it tends to be **exaggerated**	entailment
+The factuality of Everytown for Gun Safety is reported to be Questionable	entailment
+The factuality of Everytown for Gun Safety is reported to be Questionable, according to Mediabiasfactcheck.	entailment
+Everytown for Gun Safety failed a fact-check for an article titled "18 U.S. school shootings so far in 2018 and 18 in rest of the world over past 20 years".	entailment
+Everytown for Gun Safety printed a retraction after failing a fact-check for an article titled **18 U.S. school shootings so far in 2018 and 18 in the rest of the world over the past 20 years**	contradiction
+Everytown for Gun Safety chose not to cover **a school shooting as defined by security officers' accidental discharges or other accidental incidents that did not result in injuries**	contradiction
+Everytown for Gun Safety relies on subscriptions for revenue	entailment
+Everytown for Gun Safety relies on donations for revenue	entailment
+Everytown for Gun Safety has received donations from  Michael Bloomberg.	entailment
+When aggregating stories, Everytown for Gun Safety relies on information from **credible medical journals and university studies**.	entailment
+Everytown for Gun Safety has endorsed **gun control and against gun violence**	entailment
+Everytown for Gun Safety has an editorial bias towards **gun control and against gun violence**	entailment
+Everytown for Gun Safety printed a factually misleading titled "Background Checks Save Lives and Protect Our Communities."	entailment
+Everytown for Gun Safety is funded by the United States government	contradiction

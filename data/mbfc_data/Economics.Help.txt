@@ -1,0 +1,9 @@
+History
+[Economics.Help](http://www.economicshelp.org/about-2/) is a blog focused on economics run by Tejvan Pettinger, an Economics teacher at Greenes College. [Read our profile on UK media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+Tejvan Pettinger owns and publishes Economics.Help. A shop that sells ebooks generates revenue.
+Analysis / Bias
+Economics.Help uses minimal loaded words in their articles and usually sources properly to mostly left-leaning economists and economic news. In many
+[blog posts](https://www.economicshelp.org/blog/27917/concepts/gravity-theory-economics/), left-leaning economist Paul Krugman is cited. In general, Economics.Help articles regarding the USA economy tend to favor left-leaning economic policies: [“US economy under Obama 2009-2017”](http://www.economicshelp.org/blog/25420/economics/us-economy-under-obama-2009-2017/).
+Failed Fact Checks
+- None in the Last 5 years

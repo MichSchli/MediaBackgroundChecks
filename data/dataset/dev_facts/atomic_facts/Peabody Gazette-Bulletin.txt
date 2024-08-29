@@ -1,0 +1,15 @@
+Eric Meyer founded Peabody Gazette-Bulletin	entailment
+Eric Meyer owns Peabody Gazette-Bulletin	entailment
+Eric Meyer bought Peabody Gazette-Bulletin	contradiction
+The Peabody Gazette-Bulletin is funded through advertising and subscription fees	entailment
+The remit of Peabody Gazette-Bulletin is to **focus on local news reporting**	entailment
+Peabody Gazette-Bulletin tends to the Least Biased	entailment
+Peabody Gazette-Bulletin tends to the local news reporting according to Mediabiasfactcheck.	entailment
+Other sources have commented on Peabody Gazette-Bulletin, stating that it tends to be **Least Biased**	entailment
+The factuality of Peabody Gazette-Bulletin is reported to be mostly factual	entailment
+The factuality of Peabody Gazette-Bulletin is reported to be mostly factual, according to mediabiasfactcheck.com.	entailment
+Peabody Gazette-Bulletin failed a fact-check for an article titled Chef’s Plate without Liquor License	contradiction
+Peabody Gazette-Bulletin chose not to cover national news.	entailment
+Peabody Gazette-Bulletin relies on advertising for revenue	entailment
+Peabody Gazette-Bulletin relies on subscriptions for revenue	contradiction
+Peabody Gazette-Bulletin has an editorial bias towards **least biased**.	entailment

@@ -1,0 +1,22 @@
+Townhall founded Bearing Arms	contradiction
+Jenn Jacques is the CEO of Bearing Arms	entailment
+Townhall owns Bearing Arms	entailment
+Townhall is the owner of Bearing Arms	entailment
+Townhall bought Bearing Arms	entailment
+Townhall acquired Bearing Arms	entailment
+Bearing Arms is funded through advertising and membership fees.	entailment
+The remit of Bearing Arms is to  promote right-leaning pro-gun advocacy.	entailment
+The mission of Bearing Arms is to promote right-leaning pro-gun advocacy.	entailment
+The usual audience of Bearing Arms is **pro-gun enthusiasts and individuals who support the Second Amendment**.	entailment
+Bearing Arms tends to the **right**	entailment
+Bearing Arms tends to the right according to the analysis	entailment
+Other sources have commented on Bearing Arms, stating that it tends to be right-biased.	entailment
+The factuality of Bearing Arms is reported to be Mixed	entailment
+The factuality of Bearing Arms is reported to be mixed, according to mediabiasfactcheck.com.	entailment
+Bearing Arms relies on advertising for revenue	entailment
+Bearing Arms relies on donations for revenue	entailment
+When aggregating stories, Bearing Arms relies on information from [other pro-gun sites](https://bearingarms.com/page/about-bearing-arms/).	entailment
+Bearing Arms has endorsed **right-leaning pro-gun advocacy**	entailment
+Bearing Arms has an editorial bias towards pro-gun advocacy	entailment
+Jenn Jacques is the editor of Bearing Arms	entailment
+Bearing Arms printed a biased article titled "Hillary Clinton Is The Greatest Threat to the Second Amendment Ever."	entailment

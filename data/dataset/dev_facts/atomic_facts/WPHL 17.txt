@@ -1,0 +1,21 @@
+Nexstar Media Group owns WPHL 17	entailment
+Nexstar Media Group is the owner of WPHL 17	entailment
+Nexstar Media Group bought WPHL 17	contradiction
+WPHL 17 is funded through advertising	entailment
+The remit of WPHL 17 is to **publish news for the greater Philadelphia Metro area**	entailment
+The mission of WPHL 17 is to  provide news, sports, weather, politics, and crime reporting.	entailment
+The usual audience of WPHL 17 is local news features original reporting with minimal bias such as this.	entailment
+WPHL 17 tends to the **right.**	entailment
+Other sources have commented on WPHL 17, stating that it tends to be **least biased**	entailment
+The factuality of WPHL 17 is reported to be High	entailment
+The factuality of WPHL 17 is reported to be high, according to Mediabiasfactcheck.	entailment
+WPHL 17 failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+WPHL 17 printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+WPHL 17 chose not to cover op-eds	entailment
+WPHL 17 relies on advertising for revenue	entailment
+WPHL 17 relies on donations for revenue	contradiction
+When aggregating stories, WPHL 17 relies on information from **the Associated Press**, and other large credible media outlets.	entailment
+WPHL 17 has endorsed **Neither a political party nor specific candidates**	entailment
+WPHL 17 has an editorial bias towards Least Biased	entailment
+WPHL 17 had to apologize for [None in the Last 5 years]	entailment
+WPHL 17 had to apologize to no one for nothing	entailment

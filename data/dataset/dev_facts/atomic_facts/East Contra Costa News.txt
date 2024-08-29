@@ -1,0 +1,16 @@
+Bradley Cameron is the CEO of East Contra Costa News	contradiction
+Metric Media Foundation owns East Contra Costa News	entailment
+Metric Media LLC bought East Contra Costa News	entailment
+East Contra Costa News is funded through donations and grants	entailment
+The remit of East Contra Costa News is to **look like a local news source**	entailment
+The mission of East Contra Costa News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of East Contra Costa News is right-center biased.	entailment
+East Contra Costa News tends to the right-center biased	entailment
+East Contra Costa News tends to the right-center according to Media Bias Fact Check	entailment
+Other sources have commented on East Contra Costa News, stating that it tends to be right-center biased	entailment
+The factuality of East Contra Costa News is reported to be Questionable	entailment
+The factuality of East Contra Costa News is reported to be Questionable, according to Bias Fact Check	entailment
+East Contra Costa News relies on advertising for revenue	entailment
+East Contra Costa News relies on donations for revenue	entailment
+When aggregating stories, East Contra Costa News relies on information from **algorithmically produced content**	entailment
+East Contra Costa News has an editorial bias towards right-center.	entailment

@@ -1,0 +1,24 @@
+Rodolfo Junco de la Vega Voigt is the founder of Reforma.	entailment
+Alejandro Junco de la Vega González	entailment
+Alejandro Junco de la Vega González leads Reforma	entailment
+Grupo Reforma owns Reforma	entailment
+Grupo Reforma is the owner of Reforma	entailment
+Grupo Reforma acquired Reforma	contradiction
+Reforma is funded through advertising and paid subscriptions	entailment
+The usual audience of Reforma is **right-center biased**	entailment
+Reforma tends to the right-center	entailment
+Other sources have commented on Reforma, stating that it tends to be **right-center biased**.	entailment
+The factuality of Reforma is reported to be High	entailment
+The factuality of Reforma is reported to be high, according to a review by mediabiasfactcheck.com.	entailment
+Reforma chose not to cover  Xóchitl Gálvez	contradiction
+Reforma relies on advertising for revenue	entailment
+Reforma relies on subscriptions for revenue	entailment
+Reforma relies on donations for revenue	entailment
+When aggregating stories, Reforma relies on information from **proper sourcing and a clean fact-check record**.	entailment
+Reforma has an editorial bias towards Right-Center	entailment
+Alejandro Junco de la Vega González	entailment
+Reforma printed a factually misleading titled  "Ted Cruz infuriates over gun control question".	entailment
+Reforma had to apologize for its coverage.	entailment
+Reforma is a Spanish-language daily newspaper.	entailment
+Reforma uses an internal fact-checking process	entailment
+Reforma covers the following topics: news, opinion, social, international, national, justice, business, culture, and science.	entailment

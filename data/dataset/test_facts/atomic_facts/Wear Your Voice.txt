@@ -1,0 +1,15 @@
+Wear Your Voice is funded through **a shop and advertising**.	entailment
+The remit of Wear Your Voice is to **make more room for marginalized voices away from the white, cis-centric, heteronormative, patriarchal gaze**	entailment
+The mission of Wear Your Voice is to **make more room for marginalized voices away from the white, cis-centric, heteronormative, patriarchal gaze.**	entailment
+The usual audience of Wear Your Voice is Left Biased	entailment
+Wear Your Voice tends to the left	entailment
+Other sources have commented on Wear Your Voice, stating that it tends to be **Left Biased**.	entailment
+The factuality of Wear Your Voice is reported to be High	entailment
+The factuality of Wear Your Voice is reported to be high, according to `https://mediabiasfactcheck.com/united-states-media-profile/`	entailment
+Wear Your Voice failed a fact-check for an article titled "United States Media Profile".	contradiction
+Wear Your Voice chose not to cover stories from the right.	entailment
+Wear Your Voice relies on advertising for revenue	entailment
+When aggregating stories, Wear Your Voice relies on information from **credible media sources**	entailment
+Wear Your Voice has an editorial bias towards Left	entailment
+Wear Your Voice is a **Left Biased**	entailment
+Wear Your Voice uses an internal fact-checking process	entailment

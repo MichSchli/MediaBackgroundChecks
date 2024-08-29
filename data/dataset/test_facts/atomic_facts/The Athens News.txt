@@ -1,0 +1,21 @@
+Adams Publishing Group owns The Athens News	entailment
+Stephen Adams is the owner of The Athens News	entailment
+The Athens News is funded through advertising and subscription fees	entailment
+The remit of The Athens News is to cover local news through journalists with minimal bias in wording, such as [Athens City Council passes resolution calling for ceasefire in Israel and occupied Palestine](https://www.athensnews.com/news/local/athens-city-council-passes-resolution-calling-for-ceasefire-in-israel-and-occupied-palestine/article268ad44e-d011-11ee-b814-d30bd840659d.html). Local information is sourced through quotes, interviews, and accounts, while National and world news comes directly from the [Associated Press](https://www.bozemandailychronicle.com/news/city/bozeman-continues-to-foster-midtown-development/article51464c29-97fa-57b9-9535-05375f0853c8.html).	entailment
+The mission of The Athens News is to provide a balance of the news factually and with a slight Left-leaning bias.	entailment
+The Athens News tends to the Left	entailment
+Other sources have commented on The Athens News, stating that it tends to be Left-Center Biased.	entailment
+The factuality of The Athens News is reported to be High	entailment
+The factuality of The Athens News is reported to be High, according to Mediabiasfactcheck.com.	entailment
+The Athens News failed a fact-check for an article titled "Athens City Council passes resolution calling for ceasefire in Israel and occupied Palestine".	contradiction
+The Athens News chose not to cover **international news**	contradiction
+The Athens News relies on advertising for revenue	entailment
+The Athens News relies on subscriptions for revenue	entailment
+When aggregating stories, The Athens News relies on information from the [Associated Press](https://www.bozemandailychronicle.com/news/city/bozeman-continues-to-foster-midtown-development/article51464c29-97fa-57b9-9535-05375f0853c8.html).	entailment
+The Athens News has endorsed the left	entailment
+The Athens News has an editorial bias towards Left	entailment
+The Athens News was fined None in the Last 5 years	entailment
+The Athens News's headquarter is located in Athens	contradiction
+The Athens News is funded by the  government.	contradiction
+The Athens News is a newspaper	entailment
+The Athens News covers the following topics: local news, sports, crime, and weather	entailment

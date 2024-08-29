@@ -1,0 +1,21 @@
+Bradley Cameron is the owner of Bristol Reporter	contradiction
+Metric Media LLC acquired Bristol Reporter	entailment
+The Bristol Reporter is funded through advertising and donations to the Metric Media Foundation	entailment
+The remit of Bristol Reporter is to **publish false information**	entailment
+The mission of Bristol Reporter is to provide objective, data-driven information without political bias.	contradiction
+The usual audience of Bristol Reporter is **right-center, biased, and Questionable**	entailment
+Bristol Reporter tends to the right-center	entailment
+Bristol Reporter tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on Bristol Reporter, stating that it tends to be right-center biased.	entailment
+The factuality of Bristol Reporter is reported to be Questionable	entailment
+The factuality of Bristol Reporter is reported to be Questionable, according to D. Van Zandt	entailment
+Bristol Reporter failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+The Bristol Reporter chose not to cover false information.	contradiction
+Bristol Reporter relies on advertising for revenue	entailment
+Bristol Reporter relies on subscriptions for revenue	contradiction
+Bristol Reporter relies on donations for revenue	contradiction
+Bristol Reporter has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Bristol Reporter relies on information from **algorithmically produced content**	entailment
+Bristol Reporter has endorsed right-center	entailment
+Bristol Reporter has an editorial bias towards right-center	entailment
+Bristol Reporter printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment

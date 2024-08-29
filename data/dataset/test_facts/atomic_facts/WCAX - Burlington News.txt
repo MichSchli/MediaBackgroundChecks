@@ -1,0 +1,24 @@
+Gray Television owns WCAX - Burlington News	entailment
+Gray Television is the owner of WCAX - Burlington News	entailment
+Gray Television bought WCAX - Burlington News	entailment
+WCAX - Burlington News is funded through **sponsored content and advertising**	entailment
+The remit of WCAX - Burlington News is to  report local news, sports, crime, weather, and lifestyle.	entailment
+The mission of WCAX - Burlington News is to report news factually and with minimal bias.	entailment
+The usual audience of WCAX - Burlington News is **Northern Vermont’s Champlain Valley and Upstate New York’s North Country, including Plattsburgh**.	entailment
+WCAX - Burlington News tends to the Bias	contradiction
+Other sources have commented on WCAX - Burlington News, stating that it tends to be **least biased**.	entailment
+The factuality of WCAX - Burlington News is reported to be High	entailment
+The factuality of WCAX - Burlington News is reported to be High, according to mediabiasfactcheck.com	entailment
+WCAX - Burlington News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WCAX - Burlington News printed a retraction after failing a fact-check for an article titled "Trump to Senate: Vote ‘without delay’ on his high court pick".	contradiction
+WCAX - Burlington News chose not to cover opinion pages.	entailment
+WCAX - Burlington News relies on advertising for revenue	entailment
+WCAX - Burlington News relies on donations for revenue	contradiction
+When aggregating stories, WCAX - Burlington News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WCAX - Burlington News has endorsed **no political candidates**	entailment
+WCAX - Burlington News has an editorial bias towards Least Biased.	entailment
+WCAX - Burlington News printed a biased article titled "Trump to Senate: Vote ‘without delay’ on his high court pick".	entailment
+WCAX - Burlington News is funded by the United States government	contradiction
+WCAX - Burlington News is a **television station**	entailment
+WCAX - Burlington News uses an internal fact-checking process	entailment
+WCAX - Burlington News covers the following topics: local news, sports, crime, weather, and lifestyle.	entailment

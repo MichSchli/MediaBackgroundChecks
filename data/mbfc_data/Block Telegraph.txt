@@ -1,0 +1,12 @@
+History
+Founded in 2018 by entrepreneur and journalist Jordan French,
+[Block Telegraph](https://gritdaily.com/about-grit-daily/) is a New York-based online news website. It is part of the Grit Daily Media Group, comprising six outlets: Smartech Daily, Meditech Today, Financial Tech, Block Telegraph, BlockTelegraph, and the flagship [Grit Daily](https://mediabiasfactcheck.com/grit-daily-news-bias/). According to its [about page](https://blocktelegraph.io/), “BlockTelegraph is the leading source of blockchain and cryptocurrency news for industry outsiders with digestable coverage and influencer opinions.” [Read our profile on USA Media and Government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Grit Daily Media Group owns and publishes Block Telegraph. Funding primarily comes from subscribers, advertisements, and sponsorships of their live events.
+Analysis / Bias
+Block Telegraph publishes news and information related to blockchain and cryptocurrency. Articles and headlines are minimally biased in word choices, such as
+[What Is the Hype About Trezor Suite and Why Is It so Popular?](https://blocktelegraph.io/trezor-suite-popularity/) Although not labeled promotional, it primarily emphasizes the product’s benefits and lacks critical balance.
+Editorially, they do not produce op-eds; however, they do report on political issues related to the industry, like
+[The ‘Cartelization’ of Wealth by the US Government](https://blocktelegraph.io/the-cartelization-of-wealth-by-the-us-government/) In reviewing dozens, a slight majority of politically related pieces lean slightly left in favoring a liberal perspective. In general, they are fact-based, but the content sometimes blurs the lines by not indicating which stories are promotional.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,20 @@
+Science Translational Medicine leads	entailment
+AAAS owns Science Translational Medicine	entailment
+The American Association for the Advancement of Science (AAAS)	entailment
+The American Association for the Advancement of Science (AAAS) bought Science Translational Medicine	contradiction
+AAAS acquired Science Translational Medicine	entailment
+Science Translational Medicine is funded through donations, advertising, and subscriptions	entailment
+The remit of Science Translational Medicine is to promote human health by providing a forum for communicating the latest research advances from biomedical, translational, and clinical researchers from all established and emerging disciplines relevant to medicine.	entailment
+The mission of Science Translational Medicine is to promote human health by providing a forum for communicating the latest research advances from biomedical, translational, and clinical researchers from all established and emerging disciplines relevant to medicine.	entailment
+The usual audience of Science Translational Medicine is  medical and scientific researchers.	entailment
+Science Translational Medicine tends to the **intersection of science, engineering and medicine**	entailment
+Other sources have commented on Science Translational Medicine, stating that it tends to be **pro-Science**.	entailment
+The factuality of Science Translational Medicine is reported to be very high	entailment
+The factuality of Science Translational Medicine is reported to be very high, according to Mediabiasfactcheck.com.	entailment
+Science Translational Medicine chose not to cover **politics or produce opinion pieces**.	entailment
+Science Translational Medicine relies on advertising for revenue	entailment
+Science Translational Medicine relies on subscriptions for revenue	entailment
+Science Translational Medicine relies on donations for revenue	contradiction
+When aggregating stories, Science Translational Medicine relies on information from [peer-reviewed scientific studies and discoveries].	entailment
+Science Translational Medicine has endorsed Pro-Science	entailment
+Science Translational Medicine has an editorial bias towards Pro-Science	entailment

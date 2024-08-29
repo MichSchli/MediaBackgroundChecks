@@ -1,0 +1,18 @@
+RealClimate is funded through the sale of books	entailment
+The remit of RealClimate is to provide a quick response to developing stories and provide the context sometimes missing in mainstream commentary.	entailment
+The mission of RealClimate is to provide a quick response to developing stories and provide the context sometimes missing in mainstream commentary.	entailment
+The usual audience of RealClimate is  The interested public and journalists .	entailment
+RealClimate tends to the highly credible Pro-Science.	entailment
+Other sources have commented on RealClimate, stating that it tends to be highly factual and pro-science.	entailment
+The factuality of RealClimate is reported to be highly credible	entailment
+The factuality of RealClimate is reported to be highly credible, according to Time	entailment
+RealClimate failed a fact-check for an article titled  "None in the Last 5 years"	entailment
+RealClimate chose not to cover ownership	entailment
+RealClimate relies on advertising for revenue	contradiction
+When aggregating stories, RealClimate relies on information from **working climate scientists**.	entailment
+RealClimate has an editorial bias towards Pro-Science	entailment
+RealClimate was fined None in the Last 5 years	entailment
+RealClimate printed a biased article titled A deep dive into the IPCC’s updated carbon budget numbers	contradiction
+RealClimate had to apologize for  no failed fact checks in the last 5 years.	contradiction
+RealClimate is a commentary site	entailment
+RealClimate covers the following topics: climate science, global warming, IPCC's carbon budget.	entailment

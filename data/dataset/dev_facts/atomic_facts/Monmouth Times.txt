@@ -1,0 +1,25 @@
+Bradley Cameron is the CEO of Monmouth Times	entailment
+Monmouth Times leads Monmouth Times	contradiction
+Metric Media Foundation owns Monmouth Times	entailment
+Metric Media LLC is the owner of Monmouth Times	contradiction
+Monmouth Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Monmouth Times is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Monmouth Times is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of Monmouth Times is right-center, biased, and Questionable.	entailment
+Monmouth Times tends to the right-center	entailment
+Monmouth Times tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on Monmouth Times, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Monmouth Times is reported to be  Questionable.	entailment
+The factuality of Monmouth Times is reported to be **Questionable**, according to **D. Van Zandt 05/21/2023**.	entailment
+Monmouth Times failed a fact-check for an article titled *Right-Center, Biased and Questionable*.	entailment
+Monmouth Times chose not to cover imposter site	contradiction
+Monmouth Times provides original content written by staff journalists	contradiction
+Monmouth Times relies on advertising for revenue	entailment
+Monmouth Times relies on donations for revenue	entailment
+Monmouth Times has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Monmouth Times relies on information from **algorithmically produced content**.	entailment
+Monmouth Times has endorsed right-center.	entailment
+Monmouth Times has an editorial bias towards **right-center, biased**	entailment
+Monmouth Times printed a biased article titled "an imposter site, lacks transparency, and publishes false information"	entailment
+Monmouth Times printed a factually misleading titled imposter site	entailment
+Monmouth Times had to apologize for publishing false information	entailment

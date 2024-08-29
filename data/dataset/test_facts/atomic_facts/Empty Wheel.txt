@@ -1,0 +1,25 @@
+Marcy founded Empty Wheel	entailment
+Marcy Wheeler is the founder of Empty Wheel	entailment
+Marcy Wheeler owns Empty Wheel	entailment
+Marcy Wheeler is the owner of Empty Wheel	entailment
+Marcy Wheeler bought Empty Wheel	contradiction
+Marcy Wheeler acquired Empty Wheel	entailment
+Empty Wheel is funded through donations	entailment
+The remit of Empty Wheel is to **investigate and report news that is generally opposed to the right**.	entailment
+The mission of Empty Wheel is to investigate and report news that is generally opposed to the right.	entailment
+The usual audience of Empty Wheel is **individuals who lean towards the left politically**.	entailment
+Empty Wheel tends to the left	entailment
+Other sources have commented on Empty Wheel, stating that it tends to be left-leaning	entailment
+The factuality of Empty Wheel is reported to be High	entailment
+The factuality of Empty Wheel is reported to be High, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Empty Wheel chose not to cover news that is generally opposed to the right.	entailment
+Empty Wheel relies on advertising for revenue	contradiction
+Empty Wheel relies on subscriptions for revenue	contradiction
+Empty Wheel relies on donations for revenue	entailment
+Empty Wheel has received donations from **donations**	entailment
+When aggregating stories, Empty Wheel relies on information from credible media outlets.	entailment
+Empty Wheel has an editorial bias towards the left	entailment
+Empty Wheel had to apologize for  engaging in any failed fact checks in the last 5 years.	contradiction
+Empty Wheel is funded by the United States government	contradiction
+Empty Wheel is a blog	entailment
+Empty Wheel covers the following topics: corruption, illegal actions by government officials, war, targeted assassinations	entailment

@@ -1,0 +1,20 @@
+Schneps Media is the founder of Metro.	entailment
+Schneps Media owns Metro	entailment
+Schneps Media is the owner of Metro	entailment
+Metro is funded through advertising	entailment
+The remit of Metro is to  report local news, entertainment, and national news stories.	entailment
+The mission of Metro is to report news factually and with a slight left-leaning bias in story selection.	entailment
+Metro tends to the left	entailment
+Other sources have commented on Metro, stating that it tends to be **Left-Center Biased**.	entailment
+The factuality of Metro is reported to be High	entailment
+The factuality of Metro is reported to be High, according to Mediabiasfactcheck.	entailment
+Metro failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Metro chose not to cover marijuana legalization	contradiction
+Metro relies on advertising for revenue	entailment
+Metro relies on subscriptions for revenue	contradiction
+Metro relies on donations for revenue	contradiction
+When aggregating stories, Metro relies on information from [credible outlets](https://mediabiasfactcheck.com/philadelphia-inquirer/) and [Reuters](https://mediabiasfactcheck.com/reuters/).	entailment
+Metro has an editorial bias towards left	entailment
+Metro's headquarter is located in **New York**	entailment
+Metro is funded by the United States government	contradiction
+Metro covers the following topics: local news, entertainment, and national news stories	entailment

@@ -1,0 +1,18 @@
+The remit of Blingnews.com is to **provide news on lifestyle and fashion with a highly right wing biased political perspective**.	contradiction
+The mission of Blingnews.com is to  disseminate right-wing biased news.	entailment
+The usual audience of Blingnews.com is **right wing biased political news**.	entailment
+Blingnews.com tends to the extreme right wing bias	entailment
+Other sources have commented on Blingnews.com, stating that it tends to be **Questionable**	entailment
+The factuality of Blingnews.com is reported to be Questionable	entailment
+Blingnews.com chose not to cover extreme right wing biased political news.	contradiction
+Blingnews.com relies on advertising for revenue	entailment
+Blingnews.com relies on subscriptions for revenue	entailment
+Blingnews.com relies on donations for revenue	entailment
+When aggregating stories, Blingnews.com relies on information from **videos and sometimes hyperlinks to credible media sources such as the New York Times**.	entailment
+Blingnews.com has endorsed extreme right wing bias	entailment
+Blingnews.com has an editorial bias towards extreme right wing bias	entailment
+Blingnews.com printed a biased article titled "Blingnews.com is a Questionable Source Based on Extreme Right Wing Bias and Fake News"	entailment
+Blingnews.com printed a factually misleading titled "After Reporter Interrupts Mattis With Lies About Trump, He Unleashes Hell Fire on the Press"	entailment
+Blingnews.com had to apologize to no one for publishing fake news.	entailment
+Blingnews.com is a Questionable	entailment
+Blingnews.com covers the following topics: lifestyle, fashion, right wing biased political news	entailment

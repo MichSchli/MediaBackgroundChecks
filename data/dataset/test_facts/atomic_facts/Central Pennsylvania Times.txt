@@ -1,0 +1,17 @@
+Local Report Inc leads Central Pennsylvania Times	entailment
+Local Report Inc owns Central Pennsylvania Times	entailment
+Local Report Inc bought Central Pennsylvania Times	entailment
+The remit of Central Pennsylvania Times is to promote left-leaning propaganda and serve as an imposter local news site that supports the Democratic Party and lacks transparency.	entailment
+The mission of Central Pennsylvania Times is to promote left-leaning propaganda and lacks transparency.	entailment
+Central Pennsylvania Times tends to the Left-Center Biased and Questionable	entailment
+Other sources have commented on Central Pennsylvania Times, stating that it tends to be **Left-Center Biased**.	entailment
+The factuality of Central Pennsylvania Times is reported to be **questionable**	entailment
+Central Pennsylvania Times failed a fact-check for an article titled "Mehmet Oz’s Troubled History Pedaling “Miracle Cures” for Over a Decade Raises Questions".	entailment
+Central Pennsylvania Times chose not to cover **their lack of transparency and connections to partisan organizations**	entailment
+Central Pennsylvania Times relies on advertising for revenue	contradiction
+Central Pennsylvania Times relies on donations for revenue	contradiction
+When aggregating stories, Central Pennsylvania Times relies on information from [The American Independent](https://mediabiasfactcheck.com/american-independent-institute/)	entailment
+Central Pennsylvania Times has an editorial bias towards **left**	entailment
+Central Pennsylvania Times was fined 	entailment
+Central Pennsylvania Times printed a biased article titled **Mehmet Oz’s Troubled History Pedaling “Miracle Cures” for Over a Decade Raises Questions**	entailment
+Central Pennsylvania Times is a **Left-Center**	contradiction

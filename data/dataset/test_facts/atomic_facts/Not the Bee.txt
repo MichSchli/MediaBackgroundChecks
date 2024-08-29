@@ -1,0 +1,25 @@
+Adam Ford founded Not the Bee	entailment
+Adam Ford is the founder of Not the Bee	entailment
+Not The Bee owns Not the Bee	entailment
+Not the Bee is funded through **advertising, a shop that sells branded merchandise, and subscription fees**	entailment
+The remit of Not the Bee is to **publish original stories from a right biased and often sarcastic perspective**	entailment
+The mission of Not the Bee is to **publish original stories from a right biased and often sarcastic perspective. Articles and headlines contain emotionally loaded language that often denigrates the left, such as this**.	entailment
+The usual audience of Not the Bee is **conservative biased and generally sarcastic**	entailment
+Not the Bee tends to the right	entailment
+Other sources have commented on Not the Bee, stating that it tends to be **right biased**	entailment
+The factuality of Not the Bee is reported to be High	entailment
+The factuality of Not the Bee is reported to be High, according to Media Bias/Fact Check.	entailment
+Not the Bee failed a fact-check for an article titled "52 PERCENT of Republicans think the election was rigged and Trump really won."	contradiction
+Not the Bee chose not to cover **misinformation and stuck with fact-based reporting**	entailment
+Not the Bee provides original content written by staff journalists	entailment
+Not the Bee relies on advertising for revenue	entailment
+Not the Bee relies on subscriptions for revenue	entailment
+Not the Bee relies on donations for revenue	contradiction
+Not the Bee has an editorial bias towards  Right	entailment
+Not the Bee printed a biased article titled "Nancy Pelosi, who is worth $114M and owns a $24,000 fridge, laments “the disparities in income and equity in our country”.	entailment
+Not the Bee printed a factually misleading titled  "Nancy Pelosi, who is worth $114M and owns a $24,000 fridge, laments “the disparities in income and equity in our country".	entailment
+Not the Bee's headquarter is located in Virginia	entailment
+Not the Bee is funded by the United States government	contradiction
+Not the Bee is a **news and opinion website**	entailment
+Not the Bee uses an internal fact-checking process	entailment
+Not the Bee covers the following topics: humorous but factual news stories, opinion, entertainment, right biased news, Christian perspective, election fraud.	entailment

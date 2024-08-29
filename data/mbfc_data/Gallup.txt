@@ -1,0 +1,10 @@
+History
+Gallup, Inc. is an American research-based, global performance-management consulting company. Founded by George Gallup in 1935, the company became known for its public opinion polls conducted worldwide. It provides research and strategic consulting to large organizations in many countries, focusing on “analytics and advice to help leaders and organizations solve their most pressing problems.”
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Gallup Inc owns Gallup and generates revenue through product sales, client fees, and data and consulting services.
+Analysis / Bias
+In review, Gallup presents news based on analysis from polling data. Besides polling data, Gallup publishes news that is low biased and does not use loaded terms such as this:
+[U.S. Church Membership Down Sharply in Past Two Decades](https://news.gallup.com/poll/248837/church-membership-down-sharply-past-two-decades.aspx?g_source=link_NEWSV9&g_medium=NEWSFEED&g_campaign=item_&g_content=U.S.%2520Church%2520Membership%2520Down%2520Sharply%2520in%2520Past%2520Two%2520Decades). This is sourced back to a Gallup poll that provides a methodology. [FiveThirtyEight](https://mediabiasfactcheck.com/fivethirtyeight/), an expert on measuring and rating pollster performance, has evaluated 84 polls by Gallup, indicating they are accurate 69% of the time or Mostly Factual. They also conclude that their polling favors the Right with a score of +0.6, which [equates](https://mediabiasfactcheck.com/methodology/) to Least Biased in polling. In general, Gallup is a reasonably accurate pollster that very slightly favors the Right (Republican Candidates).
+Failed Fact Checks
+- None in the Last 5 years

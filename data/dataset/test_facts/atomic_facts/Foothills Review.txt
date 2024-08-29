@@ -1,0 +1,22 @@
+Bradley Cameron is the CEO of Foothills Review	entailment
+Foothills Review leads Foothills Review	contradiction
+The Foothills Review is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Foothills Review is to **look like a local news source**	entailment
+The mission of Foothills Review is to **deceive readers by imitating a local news source and publish false information**	entailment
+The usual audience of Foothills Review is **right-center, biased, and Questionable**	entailment
+The Foothills Review tends to the **right-center, biased, and Questionable**	entailment
+Other sources have commented on Foothills Review, stating that it tends to be right-center biased.	entailment
+The factuality of Foothills Review is reported to be Questionable	entailment
+The factuality of Foothills Review is reported to be **Questionable**, according to **Media Bias Fact Check**.	entailment
+Foothills Review failed a fact-check for an article titled **Imposter Site Lacks Transparency and Publishes False Information**	entailment
+Foothills Review provides original content written by staff journalists	contradiction
+Foothills Review relies on advertising for revenue	entailment
+Foothills Review relies on donations for revenue	entailment
+The Foothills Review has received donations from the Metric Media Foundation	entailment
+When aggregating stories, Foothills Review relies on information from **algorithmically produced content**.	entailment
+The Foothills Review has endorsed ***right-center, biased, and Questionable***.	entailment
+Foothills Review has an editorial bias towards **right-center**	entailment
+Foothills Review printed a biased article titled **Imposter Site**	entailment
+Foothills Review is funded by the **Metric Media Foundation** government	contradiction
+Foothills Review is a conservative	entailment
+Foothills Review covers the following topics: conservative-leaning news	entailment

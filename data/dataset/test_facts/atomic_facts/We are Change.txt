@@ -1,0 +1,29 @@
+Luke Rudkowski founded We are Change	entailment
+Luke Rudkowski is the founder of We are Change	entailment
+Luke Rudkowski leads We are Change	entailment
+Luke Rudkowski owns We are Change	entailment
+Luke Rudkowski is the owner of We are Change	entailment
+Luke Rudkowski bought We are Change	contradiction
+We Are Change is funded through advertising, donations, and a store.	entailment
+The remit of We are Change is to **promote right-libertarian values along with a wide variety of conspiracy theories**	entailment
+The mission of We are Change is to **expose the lies of governments and the corporate elite who constantly trash our humanity**	entailment
+The usual audience of We are Change is **right-leaning**	entailment
+We are Change tends to the **right**	entailment
+Other sources have commented on We are Change, stating that it tends to be **a Strong right-biased Conspiracy website**	entailment
+The factuality of We are Change is reported to be **Low**	entailment
+The factuality of We are Change is reported to be **low**, according to **Media Bias/Fact Check**	entailment
+We are Change chose not to cover **real news and speculation that is often sensationalized and not always factual**	entailment
+We are Change relies on advertising for revenue	entailment
+We are Change relies on subscriptions for revenue	contradiction
+We are Change relies on donations for revenue	entailment
+We are Change has received donations from advertising, donations, and a store.	entailment
+When aggregating stories, We are Change relies on information from **a mix of real news and speculation**	entailment
+We are Change has endorsed **right-libertarian values along with a wide variety of conspiracy theories**	entailment
+We are Change has an editorial bias towards right-leaning perspective	entailment
+We are Change printed a biased article titled "JEFFREY TOOBIN FIRED FROM NEW YORKER FOR JERKING OFF DURING ZOOM CALL"	entailment
+We are Change printed a factually misleading titled "BIDEN WILL HAVE THE MOST DIVERSE, INTERSECTIONAL CABINET OF MASS MURDERERS EVER ASSEMBLED"	entailment
+"The National Security Agency," "fines those who tamper with them"	entailment
+The text provided does not contain specific information about the physical location of We Are Change's headquarters.	entailment
+We are Change is funded by the United States government	contradiction
+We are Change is a  Strong right-biased Conspiracy website based on promoting unproven claims that favor the right.	entailment
+We are Change covers the following topics: activist groups, right-libertarian values, conspiracy theories.	entailment

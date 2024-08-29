@@ -1,0 +1,26 @@
+Ronald Klatz is the founder of WorldHealth.Net	entailment
+WorldHealth.Net leads WorldHealth.Net	contradiction
+WorldHealth.net is the owner of WorldHealth.Net	contradiction
+WorldHealth.Net bought WorldHealth.Net	contradiction
+WorldHealth.Net acquired WorldHealth.Net	contradiction
+WorldHealth.Net is funded through advertising	entailment
+The remit of WorldHealth.Net is to disseminate information concerning innovative science and research as well as treatment modalities designed to prolong the human lifespan.	entailment
+WorldHealth.Net tends to the dissemination of information concerning innovative science and research as well as treatment modalities designed to prolong the human lifespan.	contradiction
+Other sources have commented on WorldHealth.Net, stating that it tends to be **a quackery level Pseudoscience website**	entailment
+The factuality of WorldHealth.Net is reported to be low	entailment
+The factuality of WorldHealth.Net is reported to be low, according to a Media Bias/Fact Check analysis.	entailment
+WorldHealth.Net failed a fact-check for an article titled *Researchers investigated viral interference due to receiving the flu shot*.	entailment
+WorldHealth.Net chose not to cover **credible health information**	entailment
+WorldHealth.Net relies on advertising for revenue	entailment
+WorldHealth.Net relies on subscriptions for revenue	entailment
+WorldHealth.Net relies on donations for revenue	contradiction
+When aggregating stories, WorldHealth.Net relies on information from **alternative health pseudoscience**.	entailment
+WorldHealth.Net has endorsed quackery-level Pseudoscience	entailment
+WorldHealth.Net has an editorial bias towards pseudoscience	entailment
+WorldHealth.Net printed a biased article titled **Alternative Health Pseudoscience and False Claims**	entailment
+WorldHealth.Net printed a factually misleading titled "Is There A Link Between GMOs And WiFi Technology?"	entailment
+WorldHealth.Net's headquarter is located in United States.	entailment
+WorldHealth.Net is funded by the American government	entailment
+WorldHealth.Net is a **pseudoscience website**	entailment
+WorldHealth.Net uses an internal fact-checking process	contradiction
+WorldHealth.Net covers the following topics: anti-aging, health, and medicine	contradiction

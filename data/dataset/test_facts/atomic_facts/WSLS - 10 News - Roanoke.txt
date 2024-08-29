@@ -1,0 +1,22 @@
+Graham Holdings is the CEO of WSLS - 10 News - Roanoke	contradiction
+Graham Holdings owns WSLS - 10 News - Roanoke.	entailment
+Graham Holdings is the owner of WSLS - 10 News - Roanoke	entailment
+WSLS - 10 News - Roanoke is funded through [advertising and sponsored content generate revenue].	entailment
+The remit of WSLS - 10 News - Roanoke is to **provide news, sports, weather, crime reporting, and lifestyle for the greater Roanoke metro area**.	entailment
+The mission of WSLS - 10 News - Roanoke is to  inform.	entailment
+The usual audience of WSLS - 10 News - Roanoke is **residents of the greater Roanoke area**.	entailment
+WSLS - 10 News - Roanoke tends to the **greater Roanoke metro area**	entailment
+Other sources have commented on WSLS - 10 News - Roanoke, stating that it tends to be \"least biased"\.	entailment
+The factuality of WSLS - 10 News - Roanoke is reported to be High	entailment
+The factuality of WSLS - 10 News - Roanoke is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+WSLS - 10 News - Roanoke failed a fact-check for an article titled "None in the Last 5 years."	entailment
+WSLS - 10 News - Roanoke chose not to cover Op-Eds	entailment
+WSLS - 10 News - Roanoke relies on advertising for revenue	entailment
+WSLS - 10 News - Roanoke relies on subscriptions for revenue	contradiction
+WSLS - 10 News - Roanoke relies on donations for revenue	contradiction
+When aggregating stories, WSLS - 10 News - Roanoke relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WSLS - 10 News - Roanoke has an editorial bias towards Least Biased	entailment
+WSLS - 10 News - Roanoke is funded by the [private](https://www.wsls.com/) government	contradiction
+WSLS - 10 News - Roanoke is a [NBC](https://mediabiasfactcheck.com/nbc-news)-affiliated television station.	entailment
+WSLS - 10 News - Roanoke uses an internal fact-checking process	entailment
+WSLS - 10 News - Roanoke covers the following topics: news, crime, sports, weather, and lifestyle	entailment

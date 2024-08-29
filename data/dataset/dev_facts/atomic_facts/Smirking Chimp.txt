@@ -1,0 +1,20 @@
+Jeff Tiedrich leads Smirking Chimp	entailment
+Jeff Tiedrich owns Smirking Chimp	entailment
+Jeff Tiedrich is the owner of Smirking Chimp	entailment
+Jeff Tiedrich bought Smirking Chimp	entailment
+"Smirking Chimp is funded through **donations**."	entailment
+The mission of Smirking Chimp is to  promote news and commentary from the Vast, Left-Wing Conspiracy.	entailment
+The usual audience of Smirking Chimp is **left-leaning**	entailment
+Smirking Chimp tends to the left	entailment
+Smirking Chimp tends to the left according to D. Van Zandt	entailment
+Other sources have commented on Smirking Chimp, stating that it tends to be **Left biased**	entailment
+The factuality of Smirking Chimp is reported to be Mixed	entailment
+The factuality of Smirking Chimp is reported to be Mixed, according to a lack of transparency and questionable blog posters.	entailment
+Smirking Chimp chose not to cover [third-party fact-checker checked claims about them.](http://www.smirkingchimp.com/)	entailment
+Smirking Chimp relies on advertising for revenue	contradiction
+Smirking Chimp relies on donations for revenue	entailment
+Smirking Chimp has received donations from [Jeff Tiedrich](https://www.newsunzip.com/wiki/jeff-tiedrich/)	entailment
+Smirking Chimp has endorsed the Left	entailment
+Smirking Chimp has an editorial bias towards the left	entailment
+Jeff Tiedrich is the editor of Smirking Chimp	entailment
+Smirking Chimp printed a biased article titled "If Anti-vaxxers Are Really Committed, They Should Stop Seeking Medical Care"	entailment

@@ -1,0 +1,23 @@
+The Hagadone Corporation owns Shoshone News-Press	entailment
+The Hagadone Corporation is the owner of Shoshone News-Press	entailment
+The Hagadone Corporation bought Shoshone News-Press	entailment
+The Hagadone Corporation acquired Shoshone News-Press	contradiction
+Shoshone News-Press is funded through **advertising and subscription fees**	entailment
+The remit of Shoshone News-Press is to  report on news, sports, entertainment, lifestyle, and opinion for Shoshone and the surrounding area.	entailment
+The mission of Shoshone News-Press is to report on news, sports, entertainment, lifestyle, and opinion for Shoshone and the surrounding area.	entailment
+The usual audience of Shoshone News-Press is the greater Shoshone, Idaho region.	entailment
+Shoshone News-Press tends to the **right**	entailment
+Other sources have commented on Shoshone News-Press, stating that it tends to be **least biased**	entailment
+The factuality of Shoshone News-Press is reported to be High	entailment
+The factuality of Shoshone News-Press is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/least-biased/)	entailment
+Shoshone News-Press failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Shoshone News-Press relies on advertising for revenue	entailment
+Shoshone News-Press relies on subscriptions for revenue	contradiction
+Shoshone News-Press relies on donations for revenue	contradiction
+When aggregating stories, Shoshone News-Press relies on information from **first-person accounts or through credible media**	entailment
+Shoshone News-Press has an editorial bias towards **the right**	contradiction
+Shoshone News-Press printed a biased article titled **Failed Fact Checks**	contradiction
+Shoshone News-Press had to apologize for accuracy issues.	entailment
+Shoshone News-Press is funded by the  government	contradiction
+The Shoshone News-Press is a newspaper	entailment
+Shoshone News-Press covers the following topics: news, sports, entertainment, lifestyle, and opinion	entailment

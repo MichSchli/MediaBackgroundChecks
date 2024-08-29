@@ -1,0 +1,20 @@
+University of Florida owns WUFT - NPR - Gainesville	entailment
+University of Florida acquired WUFT - NPR - Gainesville	contradiction
+WUFT - NPR - Gainesville is funded through institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+The mission of WUFT - NPR - Gainesville is to provide news and radio programming information with a slight liberal bias.	entailment
+WUFT - NPR - Gainesville tends to the **left**	entailment
+Other sources have commented on WUFT - NPR - Gainesville, stating that it tends to be Left-Center Biased	entailment
+The factuality of WUFT - NPR - Gainesville is reported to be High	entailment
+The factuality of WUFT - NPR - Gainesville is reported to be High, according to D. Van Zandt 12/07/2023	entailment
+WUFT - NPR - Gainesville chose not to cover news with a slight liberal bias.	contradiction
+WUFT - NPR - Gainesville relies on advertising for revenue	contradiction
+WUFT - NPR - Gainesville relies on donations for revenue	entailment
+WUFT - NPR - Gainesville has received donations from individual contributions	entailment
+When aggregating stories, WUFT - NPR - Gainesville relies on information from [NPR](https://mediabiasfactcheck.com/npr/).	entailment
+WUFT - NPR - Gainesville has endorsed Left-Center Biased	entailment
+WUFT - NPR - Gainesville has an editorial bias towards **the left**	entailment
+WUFT - NPR - Gainesville printed a biased article titled **DeSantis defends anti-LGBTQ video shared by his campaign and calls it a ‘fair game’ attack on Trump**	entailment
+WUFT - NPR - Gainesville had to apologize for **none in the Last 5 years**	entailment
+WUFT - NPR - Gainesville's headquarter is located in Gainesville.	entailment
+WUFT - NPR - Gainesville is a Left-Center Biased	entailment
+WUFT - NPR - Gainesville covers the following topics: news and radio programming information with a slight liberal bias.	entailment

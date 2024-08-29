@@ -1,0 +1,18 @@
+The Vermont Journalism Trust owns VTDigger	entailment
+Vermont Journalism Trust acquired VTDigger	contradiction
+VTDigger is funded through a 501(c)3 nonprofit organization.	entailment
+The remit of VTDigger is to extract claims from text.	entailment
+The mission of VTDigger is to **publish daily reports on state government, politics, consumer affairs, business, and public policy**	entailment
+VTDigger tends to the left	entailment
+Other sources have commented on VTDigger, stating that it tends to be left-leaning.	entailment
+The factuality of VTDigger is reported to be High	entailment
+The factuality of VTDigger is reported to be High, according to Mediabiasfactcheck	entailment
+VTDigger failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+VTDigger chose not to cover failed fact checks	entailment
+VTDigger relies on donations for revenue	entailment
+When aggregating stories, VTDigger relies on information from first-hand accounts, documents, memos, and state reports.	entailment
+VTDigger has an editorial bias towards left.	entailment
+VTDigger printed a biased article titled "Updated Lake Champlain cleanup plan focuses on climate change, environmental justice"	entailment
+VTDigger is funded by the Vermont government	contradiction
+VTDigger is a website	entailment
+VTDigger covers the following topics: state government, politics, consumer affairs, business, and public policy	entailment

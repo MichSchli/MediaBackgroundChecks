@@ -1,0 +1,19 @@
+Metric Media Foundation owns SW Colorado News	entailment
+Bradley Cameron is the owner of SW Colorado News.	entailment
+SW Colorado News is funded through donations and grants	entailment
+The remit of SW Colorado News is to  provide objective, data-driven information without political bias.	entailment
+The mission of SW Colorado News is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of SW Colorado News is **right-center biased and Questionable**.	entailment
+The SW Colorado News tends to the right-center	entailment
+SW Colorado News tends to the right-center according to Mediabiasfactcheck.	entailment
+Other sources have commented on SW Colorado News, stating that it tends to be right-center biased.	entailment
+The factuality of SW Colorado News is reported to be Questionable	entailment
+The factuality of SW Colorado News is reported to be Questionable, according to Mediabiasfactcheck.	entailment
+SW Colorado News chose not to cover imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+SW Colorado News relies on advertising for revenue	entailment
+SW Colorado News relies on subscriptions for revenue	entailment
+SW Colorado News relies on donations for revenue	entailment
+When aggregating stories, SW Colorado News relies on information from **algorithmically produced content**.	entailment
+SW Colorado News has endorsed a right-center biased and Questionable based on being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+SW Colorado News has an editorial bias towards right-center.	entailment
+SW Colorado News printed a biased article titled "SW Colorado News is An Imposter Website Designed to Look Like a Local News Source."	entailment

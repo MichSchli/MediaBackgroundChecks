@@ -1,0 +1,24 @@
+Sarah Turberville is the founder of Constitution Project	contradiction
+Sarah Turberville is the CEO of Constitution Project	contradiction
+POGO owns Constitution Project	entailment
+POGO bought Constitution Project	entailment
+TCP acquired Constitution Project	contradiction
+Constitution Project is funded through donations via the Project On Government Oversight (POGO)	entailment
+The remit of Constitution Project is to foster consensus-based solutions to our time’s most difficult constitutional challenges.	entailment
+The mission of Constitution Project is to foster consensus-based solutions to our time’s most difficult constitutional challenges.	entailment
+The usual audience of Constitution Project is Left-Center Biased	entailment
+Constitution Project tends to the left	entailment
+Other sources have commented on Constitution Project, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Constitution Project is reported to be Mostly Factual	entailment
+The factuality of Constitution Project is reported to be Mostly Factual, according to Media Bias Fact Check.	entailment
+The Constitution Project failed a fact-check for an article titled **TCP Alarmed by Trump Administration Lifting Critical Limits on Police Militarization**	contradiction
+Constitution Project chose not to cover failed fact checks	entailment
+Constitution Project relies on donations for revenue	entailment
+Constitution Project has received donations from Project On Government Oversight (POGO)	entailment
+Constitution Project has endorsed Left-Center Bias	entailment
+Constitution Project has an editorial bias towards left-leaning advocacy	entailment
+Sarah Turberville is the editor of Constitution Project	contradiction
+Constitution Project printed a biased article titled TCP Alarmed by Trump Administration Lifting Critical Limits on Police Militarization	entailment
+Constitution Project's headquarter is located in Washington, D.C.	entailment
+The Constitution Project is a non-profit think tank	entailment
+Constitution Project covers the following topics:  Left-Center Biased based on left-leaning advocacy and story selection.	entailment

@@ -1,0 +1,23 @@
+Cox Enterprises owns WSOC - Charlotte News	entailment
+Cox Enterprises bought WSOC - Charlotte News	entailment
+Cox Enterprises acquired WSOC - Charlotte News	entailment
+WSOC - Charlotte News is funded through advertising and sponsored content	entailment
+The remit of WSOC - Charlotte News is to cover news, sports, crime, and weather.	entailment
+The usual audience of WSOC - Charlotte News is **the greater Charlotte, North Carolina area**	entailment
+WSOC - Charlotte News tends to the **least biased**	entailment
+Other sources have commented on WSOC - Charlotte News, stating that it tends to be Least Biased	entailment
+The factuality of WSOC - Charlotte News is reported to be High	entailment
+The factuality of WSOC - Charlotte News is reported to be High, according to Mediabiasfactcheck.	entailment
+WSOC - Charlotte News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+WSOC - Charlotte News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+WSOC - Charlotte News chose not to cover op-eds	entailment
+WSOC - Charlotte News relies on advertising for revenue	entailment
+WSOC - Charlotte News relies on subscriptions for revenue	entailment
+WSOC - Charlotte News relies on donations for revenue	contradiction
+When aggregating stories, WSOC - Charlotte News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WSOC - Charlotte News has an editorial bias towards **Neither Left nor Right**	entailment
+WSOC - Charlotte News printed a biased article titled "Mark Meadows removed as North Carolina registered voter".	contradiction
+WSOC - Charlotte News printed a factually misleading titled **None**	entailment
+WSOC - Charlotte News's headquarter is located in Charlotte.	entailment
+WSOC - Charlotte News is funded by the **United States** government	contradiction
+WSOC - Charlotte News is a **television station**	entailment

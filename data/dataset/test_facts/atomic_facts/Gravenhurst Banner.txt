@@ -1,0 +1,23 @@
+Metroland Media Group Ltd. founded Gravenhurst Banner	contradiction
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd. is the owner of Gravenhurst Banner	entailment
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd.	entailment
+Gravenhurst Banner is funded through **advertising**	entailment
+The remit of Gravenhurst Banner is to **report local, national, and world news for the greater Gravenhurst, Ontario region**.	entailment
+The mission of Gravenhurst Banner is to report local, national, and world news for the greater Gravenhurst, Ontario region.	entailment
+The usual audience of Gravenhurst Banner is Left-Center biased	entailment
+Gravenhurst Banner tends to the Left-Center	entailment
+Other sources have commented on Gravenhurst Banner, stating that it tends to be Left-Center biased.	entailment
+The factuality of Gravenhurst Banner is reported to be High	entailment
+The factuality of Gravenhurst Banner is reported to be High, according to D. Van Zandt 09/08/2022.	entailment
+Gravenhurst Banner failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Gravenhurst Banner relies on advertising for revenue	entailment
+Gravenhurst Banner relies on subscriptions for revenue	contradiction
+Gravenhurst Banner relies on donations for revenue	contradiction
+When aggregating stories, Gravenhurst Banner relies on information from the [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Gravenhurst Banner has an editorial bias towards **the left**	entailment
+Gravenhurst Banner was fined **nothing**	entailment
+Gravenhurst Banner printed a factually misleading titled  "Why John Gordon is seeking re-election as a Gravenhurst district councillor".	entailment
+Gravenhurst Banner is funded by the Canadian government	contradiction
+Gravenhurst Banner is a newspaper	entailment

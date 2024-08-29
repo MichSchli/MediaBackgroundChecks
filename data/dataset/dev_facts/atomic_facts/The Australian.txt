@@ -1,0 +1,24 @@
+Chris Dore is the founder of The Australian	entailment
+Chris Dore leads The Australian	entailment
+News Corp Australia owns The Australian	entailment
+Rupert Murdoch is the owner of The Australian	entailment
+News Corp Australia acquired The Australian	contradiction
+The Australian is funded through advertising and a subscription paywall.	entailment
+The remit of The Australian is to **publish news with story selection that moderately favors the right**	entailment
+The usual audience of The Australian is Right-Center	entailment
+The Australian tends to the Right-Center	entailment
+The Australian tends to the right according to story selection	entailment
+Other sources have commented on The Australian, stating that it tends to be Right-Center.	entailment
+The factuality of The Australian is reported to be  Mixed	entailment
+The factuality of The Australian is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+The Australian failed a fact-check for an article titled "The Australia bushfires have nothing to do with climate change; it was arson."	entailment
+The Australian chose not to cover **the Australia bushfires have nothing to do with climate change; it was arson**	contradiction
+The Australian relies on advertising for revenue	entailment
+The Australian relies on subscriptions for revenue	entailment
+When aggregating stories, The Australian relies on information from **overseas newspapers owned by News Corp Australia's international parent News Corp**.	entailment
+The Australian has endorsed a distinct conservative bias in topic positions	entailment
+The Australian has an editorial bias towards **the right**	entailment
+Chris Dore is the editor of The Australian	entailment
+The Australian printed a biased article titled "Democracy put in danger," and ABC ‘wants to skate over socialist failure’ in Venezuela.	entailment
+The Australian printed a factually misleading titled "On Behalf Of Environmentalists, I Apologize For The Climate Scare".	contradiction
+The Australian had to apologize to environmentalists for the climate scare	contradiction

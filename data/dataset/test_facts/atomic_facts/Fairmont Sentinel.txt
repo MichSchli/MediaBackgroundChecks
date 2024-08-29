@@ -1,0 +1,22 @@
+Ogden Newspapers Inc. owns Fairmont Sentinel	entailment
+Ogden Newspapers Inc. bought Fairmont Sentinel	entailment
+Fairmont Sentinel is funded through advertising and subscription fees	entailment
+The remit of Fairmont Sentinel is to  report local and national news, sports, crime, and business news.	entailment
+The mission of Fairmont Sentinel is to report factually with a slight conservative bias editorially but balanced enough to be considered least biased as each side has fair representation.	entailment
+The usual audience of Fairmont Sentinel is **residents of Fairmont, Minnesota and the surrounding area**	entailment
+Fairmont Sentinel tends to the **right**	contradiction
+Other sources have commented on Fairmont Sentinel, stating that it tends to be Least Biased.	entailment
+The factuality of Fairmont Sentinel is reported to be High	entailment
+The factuality of Fairmont Sentinel is reported to be high, according to Media Bias/Fact Check.	entailment
+The Fairmont Sentinel failed a fact-check for an article titled "None in the Last 5 years".	entailment
+Fairmont Sentinel printed a retraction after failing a fact-check for an article titled "Going into fall, Covid still a concern".	contradiction
+Fairmont Sentinel chose not to cover national and international news.	contradiction
+Fairmont Sentinel relies on advertising for revenue	contradiction
+Fairmont Sentinel relies on subscriptions for revenue	entailment
+When aggregating stories, Fairmont Sentinel relies on information from **original reporting for Fairmont, Minnesota, and the surrounding area. Headlines and articles contain minimal emotional language**.	entailment
+Fairmont Sentinel has endorsed least biased	entailment
+Fairmont Sentinel has an editorial bias towards **slightly favoring the right**	entailment
+Fairmont Sentinel had to apologize for **None in the Last 5 years**	entailment
+Fairmont Sentinel's headquarter is located in Fairmont, Minnesota	entailment
+Fairmont Sentinel is a newspaper	entailment
+Fairmont Sentinel covers the following topics: local and national news, sports, crime, and business news.	entailment

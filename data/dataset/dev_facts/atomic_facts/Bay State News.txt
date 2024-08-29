@@ -1,0 +1,19 @@
+Metric Media Foundation owns Bay State News	entailment
+Bay State News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Bay State News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Bay State News is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of Bay State News is **conservative-leaning**	entailment
+The Bay State News tends to the right-center, biased, and Questionable.	entailment
+Bay State News tends to the right-center according to D. Van Zandt.	entailment
+Other sources have commented on Bay State News, stating that it tends to be biased.	entailment
+The factuality of Bay State News is reported to be Questionable	entailment
+The factuality of Bay State News is reported to be Questionable, according to D. Van Zandt 	entailment
+Bay State News failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Bay State News chose not to cover imposter site	contradiction
+Bay State News relies on advertising for revenue	entailment
+Bay State News relies on donations for revenue	entailment
+Bay State News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Bay State News relies on information from **algorithmically produced content**.	entailment
+Bay State News has an editorial bias towards right-center	entailment
+Bay State News printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Bay State News printed a factually misleading titled "Imposter Site Lacks Transparency and Publishes False Information".	entailment

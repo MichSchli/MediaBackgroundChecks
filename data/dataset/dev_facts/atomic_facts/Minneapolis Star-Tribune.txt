@@ -1,0 +1,20 @@
+Glenn Taylor is the founder of Minneapolis Star-Tribune	contradiction
+Glenn Taylor owns Minneapolis Star-Tribune	entailment
+Glenn Taylor is the owner of Minneapolis Star-Tribune	entailment
+Glenn Taylor acquired Minneapolis Star-Tribune	entailment
+Minneapolis Star-Tribune is funded through advertising and subscriptions	entailment
+The mission of Minneapolis Star-Tribune is to **report news factually**	entailment
+The usual audience of Minneapolis Star-Tribune is **the Minneapolis-St. Paul metropolitan area and the Upper Midwest**	entailment
+Minneapolis Star-Tribune tends to the Left	entailment
+Minneapolis Star-Tribune tends to the left according to Mediabiasfactcheck	entailment
+Other sources have commented on Minneapolis Star-Tribune, stating that it tends to be Left-Center Biased	entailment
+The factuality of Minneapolis Star-Tribune is reported to be High	entailment
+The factuality of Minneapolis Star-Tribune is reported to be high, according to mediabiasfactcheck.com	entailment
+Minneapolis Star-Tribune failed a fact-check for an article titled Taxes may rise on cabins rented part time	contradiction
+Minneapolis Star-Tribune chose not to cover **Failed Fact Checks**	entailment
+Minneapolis Star-Tribune relies on advertising for revenue	entailment
+Minneapolis Star-Tribune relies on subscriptions for revenue	entailment
+When aggregating stories, Minneapolis Star-Tribune relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Minneapolis Star-Tribune has endorsed Democratic Presidential candidates	entailment
+Minneapolis Star-Tribune has an editorial bias towards **the left**	entailment
+Rene Sanchez is the editor of Minneapolis Star-Tribune	entailment

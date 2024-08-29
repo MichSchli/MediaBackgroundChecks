@@ -1,0 +1,20 @@
+Tom Matlack founded The Good Men Project	entailment
+Tom Matlack is the founder of The Good Men Project	entailment
+Good Men Media Inc owns The Good Men Project	entailment
+Good Men Media Inc acquired The Good Men Project	contradiction
+The Good Men Project is funded through advertising and paid memberships	entailment
+The remit of The Good Men Project is to advocate	entailment
+The usual audience of The Good Men Project is male.	entailment
+The Good Men Project tends to the **progressive left perspective**	entailment
+Other sources have commented on The Good Men Project, stating that it tends to be left biased.	entailment
+The factuality of The Good Men Project is reported to be High	entailment
+The factuality of The Good Men Project is reported to be High, according to D. Van Zandt 10/7/2021	entailment
+The Good Men Project relies on advertising for revenue	entailment
+When aggregating stories, The Good Men Project relies on information from **The BBC, Politico, and the Centers for Disease Control**.	entailment
+The Good Men Project has endorsed a progressive liberal perspective	entailment
+The Good Men Project has an editorial bias towards progressive liberal perspective.	entailment
+The Good Men Project was fined 	entailment
+The Good Men Project printed a biased article titled "The Biden-Harris Administration Is the Most Diverse Ever".	entailment
+The Good Men Project is funded by the United States government	contradiction
+The Good Men Project is a Left Biased	entailment
+The Good Men Project covers the following topics: relationships, health, business, sports, and politics	entailment

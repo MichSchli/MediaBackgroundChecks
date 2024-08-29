@@ -1,0 +1,27 @@
+Elie Mystal is the CEO of Above the Law	contradiction
+Breaking Media owns Above the Law	entailment
+Breaking Media is the owner of Above the Law.	entailment
+Breaking Media bought Above the Law	entailment
+Breaking Media acquired Above the Law	contradiction
+Above the Law is funded through advertising, website servicing, and marketing	entailment
+The remit of Above the Law is to **provide news and insights about the legal profession**	entailment
+The mission of Above the Law is to provide news and insights about the profession’s most colorful personalities and powerful institutions, as well as original commentary on breaking legal developments.	entailment
+The usual audience of Above the Law is **law professionals**.	entailment
+Above the Law tends to the left	entailment
+Other sources have commented on Above the Law, stating that it tends to be left-leaning.	entailment
+The factuality of Above the Law is reported to be High	entailment
+The factuality of Above the Law is reported to be High, according to Source	entailment
+Above the Law failed a fact-check for an article titled AI in healthcare has spurred exciting applications and collaboration	contradiction
+Above the Law chose not to cover former President Trump	contradiction
+Above the Law relies on advertising for revenue	entailment
+Above the Law relies on subscriptions for revenue	contradiction
+Above the Law relies on donations for revenue	contradiction
+When aggregating stories, Above the Law relies on information from [factual and appropriately sourced material](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Above the Law has endorsed the current administration	contradiction
+Elie Mystal is the editor of Above the Law	entailment
+Above the Law printed a factually misleading titled [International Law Expert Thinks Donald Trump Might Not Understand How Any Of This Works](https://abovethelaw.com/2020/01/international-law-expert-thinks-donald-trump-might-not-understand-how-any-of-this-works/).	contradiction
+Above The Law had to apologize to Donald Trump for not favoring the current administration.	contradiction
+Above the Law is funded by the United States government.	contradiction
+Above the Law is a news website	entailment
+Above the Law uses a peer review process	entailment
+Above the Law covers the following topics: law, law schools, legal profession	entailment

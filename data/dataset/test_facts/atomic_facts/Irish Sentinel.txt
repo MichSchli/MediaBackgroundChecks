@@ -1,0 +1,20 @@
+The remit of Irish Sentinel is to promote conspiracy and pseudoscience news articles.	entailment
+The mission of Irish Sentinel is to promote conspiracy and pseudoscience news.	entailment
+The usual audience of Irish Sentinel is  conspiracy theorists, pseudoscience believers, and individuals seeking alternative narratives.	entailment
+Irish Sentinel tends to the promotion of false, misleading, and unproven theories.	entailment
+Other sources have commented on Irish Sentinel, stating that it tends to be anti-science.	entailment
+The factuality of Irish Sentinel is reported to be **LOW**	entailment
+The factuality of Irish Sentinel is reported to be Tin Foil Hat Conspiracy and Quackery Level Pseudoscience website, according to D. Van Zandt.	entailment
+Irish Sentinel failed a fact-check for an article titled "The Fraud of Climate Change and the Drive for Control".	entailment
+Irish Sentinel chose not to cover scientific consensus on every issue	entailment
+Irish Sentinel provides original content written by staff journalists	contradiction
+Irish Sentinel relies on subscriptions for revenue	entailment
+When aggregating stories, Irish Sentinel relies on information from **poor sources**	entailment
+Irish Sentinel has endorsed **anti-science, unproven, or false claims**	entailment
+Irish Sentinel has an editorial bias towards pseudoscience and conspiracy theories	entailment
+Irish Sentinel printed a biased article titled "The Fraud of Climate Change and the Drive for Control"	entailment
+Irish Sentinel printed a factually misleading titled "The Fraud of Climate Change and the Drive for Control"	entailment
+Irish Sentinel's headquarter is located in Ireland	entailment
+Irish Sentinel is a website	entailment
+Irish Sentinel uses a peer review process	entailment
+Irish Sentinel covers the following topics: conspiracy and pseudoscience news articles	entailment

@@ -1,0 +1,19 @@
+D. Van Zandt	entailment
+DeSmog is funded through donations.	entailment
+The remit of DeSmog is to **provide news regarding policy and corporate actions against climate science**	entailment
+DeSmog tends to the left	entailment
+Other sources have commented on DeSmog, stating that it tends to be left biased	entailment
+The factuality of DeSmog is reported to be High	entailment
+The factuality of DeSmog is reported to be High, according to D. Van Zandt.	entailment
+DeSmog failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+DeSmog chose not to cover climate change deniers.	contradiction
+DeSmog relies on advertising for revenue	contradiction
+DeSmog relies on subscriptions for revenue	entailment
+DeSmog relies on donations for revenue	entailment
+When aggregating stories, DeSmog relies on information from **credible scientific information**.	entailment
+DeSmog has endorsed advocacy for fighting climate change	entailment
+DeSmog has an editorial bias towards **fighting climate change**	entailment
+DeSmog printed a factually misleading titled "DesmogBlog Left Biased based on advocacy for fighting climate change."	contradiction
+DeSmog had to apologize for **None in the Last 5 years**	entailment
+DeSmog is funded by the Canadian government	contradiction
+DeSmog is a blog.	entailment

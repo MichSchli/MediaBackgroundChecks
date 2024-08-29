@@ -1,0 +1,18 @@
+MDPI founded Antibodies Journal	entailment
+MDPIAG owns Antibodies Journal	entailment
+MDPI AG is the owner of Antibodies Journal	entailment
+Antibodies Journal is funded through authors paying a one-time Article Processing Charge (APC) to cover the costs of peer review administration and management.	entailment
+The remit of Antibodies Journal is to cover the science of Antibodies.	entailment
+The mission of Antibodies Journal is to report Pro-Science and Mostly Factual information for reporting due to being published by a company that has failed fact checks in other journals.	contradiction
+Antibodies Journal tends to the science	entailment
+Other sources have commented on Antibodies Journal, stating that it tends to be Pro-Science.	entailment
+The factuality of Antibodies Journal is reported to be Mostly Factual	entailment
+The factuality of Antibodies Journal is reported to be Mostly Factual, according to its history.	entailment
+Antibodies Journal failed a fact-check for an article titled **None for Antibodies Journal; however, other MDPI journals have**	contradiction
+Antibodies Journal printed a retraction after failing a fact-check for an article titled "Characterization of an IDH1 R132H Rabbit Monoclonal Antibody, MRQ-67, and Its Applications in the Identification of Diffuse Gliomas"	entailment
+Antibodies Journal relies on subscriptions for revenue	entailment
+Antibodies Journal relies on donations for revenue	contradiction
+When aggregating stories, Antibodies Journal relies on information from [MDPI (Multidisciplinary Digital Publishing Institute)](https://www.mdpi.com/about/history).	entailment
+Antibodies Journal has endorsed Pro-Science	entailment
+Antibodies Journal was fined **for being published by a company that has failed fact checks in other journals**	entailment
+Antibodies Journal paid damages to  after MDPI (Multidisciplinary Digital Publishing Institute)	entailment

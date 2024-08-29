@@ -1,0 +1,24 @@
+David Harris bought DavidHarrisJr.com	contradiction
+David Harris acquired DavidHarrisJr.com	entailment
+DavidHarrisJr.com is funded through advertising and paid memberships.	entailment
+The remit of DavidHarrisJr.com is to promote far-right propaganda and conspiracy theories.	entailment
+The mission of DavidHarrisJr.com is to promote far-right propaganda and conspiracy theories.	entailment
+The usual audience of DavidHarrisJr.com is **conservative individuals**	entailment
+DavidHarrisJr.com tends to the extreme right-wing bias	entailment
+Other sources have commented on DavidHarrisJr.com, stating that it tends to be Questionable	entailment
+The factuality of DavidHarrisJr.com is reported to be Questionable	entailment
+The factuality of DavidHarrisJr.com is reported to be Questionable, according to D. Van Zandt 3/14/2020	entailment
+DavidHarrisJr.com failed a fact-check for an article titled *Hundreds of individual payments made by ActBlue Texas connected to Black Lives Matter, Thousand Currents, or rioters?*.	entailment
+DavidHarrisJr.com relies on advertising for revenue	entailment
+DavidHarrisJr.com relies on subscriptions for revenue	contradiction
+DavidHarrisJr.com relies on donations for revenue	contradiction
+When aggregating stories, DavidHarrisJr.com relies on information from **the factually mixed Daily Caller**.	entailment
+DavidHarrisJr.com has endorsed extreme right-wing bias.	entailment
+DavidHarrisJr.com has an editorial bias towards extreme right-wing bias.	entailment
+DavidHarrisJr.com printed a biased article titled **Here are Ten White People Who Helped Destroy Their Cities After the Death of George Floyd**	entailment
+DavidHarrisJr.com printed a factually misleading titled "Here are Ten White People Who Helped Destroy Their Cities After the Death of George Floyd".	entailment
+DavidHarrisJr.com had to apologize for **numerous failed fact checks**	entailment
+DavidHarrisJr.com is funded by the United States government	contradiction
+DavidHarrisJr.com is a  Questionable	entailment
+DavidHarrisJr.com uses an internal fact-checking process	contradiction
+DavidHarrisJr.com covers the following topics: hyper-partisan conservative news.	entailment

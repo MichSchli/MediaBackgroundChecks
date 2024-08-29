@@ -1,0 +1,10 @@
+History
+[Founded in 1997](https://en.wikipedia.org/wiki/MarketWatch), MarketWatch is a financial information website that provides business news, analysis, and stock market data. The editor is Jeremy Olshan. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+MarketWatch is a subsidiary of Dow Jones & Company, a property of
+[News Corp](https://en.wikipedia.org/wiki/News_Corp), which owns [The Wall Street Journal](https://mediabiasfactcheck.com/wall-street-journal/) and Barron’s. News Corp’s Executive Chairman is Rupert Murdoch. The website generates revenue through online advertising.
+Analysis / Bias
+In review, MarketWatch provides a stock ticker at the top of the page and financial news. All articles list the author and are appropriately sourced. Headlines are generally free of significant loaded words such as this:
+[Mueller concludes Russia probe, delivers report to the attorney general](https://www.marketwatch.com/story/mueller-concludes-russia-probe-delivers-report-to-the-attorney-general-2019-03-22?mod=newsviewer_click&mod=mw_theo_homepage). Editorially, MarketWatch tends to favor the right when it comes to economic philosophy.
+Failed Fact Checks
+- None in the Last 5 years

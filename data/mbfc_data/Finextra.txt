@@ -1,0 +1,20 @@
+History
+[Finextra](https://www.finextra.com/about/finextra.aspx) is an online news platform established in 1999, focusing on the financial technology sector. The website is based in the United Kingdom and provides news and research on banking, capital markets, and insurance technology.
+[Read our profile on UK media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+Finextra is funded through advertising, sponsorships, corporate services, and event promotions. They are owned by
+[Finextra Research Ltd.](https://www.finextra.com/about/copyright.aspx), with Stephen Andrew Ellis and Paul Penrose as significant controllers, according to [UK Companies.](https://find-and-update.company-information.service.gov.uk/company/03903271/filing-history)
+Analysis / Bias
+Finextra’s articles and reports typically focus on financial technology and market developments without overtly biased wording or sensational headlines. The news is presented with minimally loaded language, sticking to the facts of the reported developments.
+For example, in the article
+[“Thought Machine makes job cuts](https://www.finextra.com/newsarticle/43205/thought-machine-makes-job-cuts),” Finextra delivers a factual report on job reductions at the cloud-native core banking technology vendor Thought Machine. The article provides direct information without the use of emotionally charged language, maintaining a neutral tone throughout.
+When it comes to sourcing, Finextra often relies on industry-specific news outlets and direct press releases from companies within the sector. In this instance, Finextra cites UK Tech News (UKTN) as a source, a media outlet known for its coverage of the UK’s technology and startup sectors, including Fintech.
+The second article,
+[“Labour promises ban on ATM fees to end branch closures and a post bank,”](https://www.finextra.com/newsarticle/34821/labour-promises-ban-on-atm-fees-to-end-branch-closures-and-a-post-bank) discusses the UK Labour Party’s pledges regarding ATM fees and bank branch closures. This piece also sticks to presenting the facts sourced from the Labour Party’s manifesto and consumer group [Which?’s](https://www.which.co.uk/) analysis. It outlines the potential impact of the proposed policies on different stakeholders, including low-income individuals and fee-charging operators, without promoting a particular viewpoint.
+Lastly, the article
+[“Musk and Sunak talk AI regulation at the UK’s AI Safety Summit”](https://www.finextra.com/newsarticle/43231/musk-and-sunak-talk-ai-regulation-at-the-uks-ai-safety-summit) adheres to a low-bias reporting standard by neutrally summarizing a discussion on AI regulation.
+Failed Fact Checks
+- None in the Last 5 years
+Overall, Finextra focuses on industry-related developments and political news affecting the financial technology sector, providing straightforward information without editorializing or presenting a slanted perspective. Therefore, we rate Finextra high in factual reporting and least biased. (M. Huitsing 11/6/2023)
+Source:
+[https://www.finextra.com/](https://www.finextra.com/)

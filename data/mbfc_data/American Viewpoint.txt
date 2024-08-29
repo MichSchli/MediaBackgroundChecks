@@ -1,0 +1,10 @@
+History
+American Viewpoint is based in Alexandria, Virginia, and specializes in market research. They were founded in 1985 by Linda DiVall. According to its
+[about page](https://www.amview.com/), “American Viewpoint has served on the polling team of nearly every Republican Presidential nominee since President Reagan and has helped elect countless U.S. Senators, Members of Congress, Governors and other elected officials across the country. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+American Viewpoint is a private company. The sale of surveys and market research generates revenue. They primarily conduct polling for Republican candidates.
+Analysis / Bias
+American Viewpoint conducts market research and polling via various mediums. The website does not generally report on politics, but it openly states they support Republicans: Randall Gutermuth has been named Republican Pollster of the Year by the AAPC.
+[FiveThirtyEight](https://mediabiasfactcheck.com/fivethirtyeight/), an expert on measuring and rating pollster performance, has [evaluated 9 polls](https://projects.fivethirtyeight.com/pollster-ratings/american-viewpoint/) by American Viewpoint, indicating they are accurate 61% of the time or mixed factually by MBFC’s criteria. They also conclude that their polling slightly favors the right with a score of +0.6, which equates to Least Biased overall in polling. In general, AV is not always an accurate pollster but demonstrates minimal bias in polling.
+Failed Fact Checks
+- None in the Last 5 years

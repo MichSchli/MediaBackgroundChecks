@@ -1,0 +1,19 @@
+Ian Bremmer founded Eurasia Group	entailment
+Ian Bremmer is the founder of Eurasia Group	entailment
+Eurasia Group is funded through **consulting**	entailment
+The remit of Eurasia Group is to help investors and business decision-makers understand the impact of politics on risks and opportunities in foreign markets.	entailment
+The mission of Eurasia Group is to help investors and business decision-makers understand the impact of politics on risks and opportunities in foreign markets.	entailment
+The usual audience of Eurasia Group is investors and business decision-makers	entailment
+Eurasia Group tends to the Left-Center Biased	entailment
+Other sources have commented on Eurasia Group, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Eurasia Group is reported to be High	entailment
+The factuality of Eurasia Group is reported to be High, according to Mediabiasfactcheck	entailment
+Eurasia Group failed a fact-check for an article titled "Why President Trump’s effort to expand the G-7 is doomed to fail".	contradiction
+When aggregating stories, Eurasia Group relies on information from [proper sourcing and a clean fact-check record](https://www.eurasiagroup.net/).	entailment
+Eurasia Group has endorsed Left-Center Bias	entailment
+Eurasia Group has an editorial bias towards Left-Center Bias	entailment
+Eurasia Group was fined None in the Last 5 years	entailment
+Eurasia Group printed a factually misleading titled  "FAILED FACT CHECKS"	contradiction
+Eurasia Group had to apologize to no one for nothing	entailment
+Eurasia Group is a corporation	entailment
+Eurasia Group covers the following topics: political risk consultancy, emerging markets, political science, Global Political Risk Index (GPRI), stability, risks and opportunities in foreign markets, commentary on political events.	entailment

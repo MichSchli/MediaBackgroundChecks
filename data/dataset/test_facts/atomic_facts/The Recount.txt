@@ -1,0 +1,24 @@
+William Lewis founded The Recount	contradiction
+William Lewis is the founder of The Recount.	contradiction
+The News Movement leads The Recount	entailment
+The News Movement owns The Recount	entailment
+The News Movement bought The Recount	entailment
+The News Movement acquired The Recount	entailment
+The remit of The Recount is to reinvent video journalism for the platforms reshaping the news: streaming and social media.	entailment
+The mission of The Recount is to **drive dialogue instead of mindless division**	entailment
+The usual audience of The Recount is **people interested in news and current events**	entailment
+The Recount tends to the middle	entailment
+Other sources have commented on The Recount, stating that it tends to be **least biased**.	entailment
+The factuality of The Recount is reported to be  least biased based on balanced story selection and minimal editorializing of content.	entailment
+The factuality of The Recount is reported to be high, according to Media Bias/Fact Check	entailment
+The Recount chose not to cover **emotional wording**.	entailment
+The Recount relies on advertising for revenue	contradiction
+The Recount relies on subscriptions for revenue	contradiction
+When aggregating stories, The Recount relies on information from **various sources,**	entailment
+The Recount has endorsed **as least biased**	entailment
+The Recount has an editorial bias towards **neither Conservative nor Progressive political ideology**	entailment
+The Recount printed a factually misleading titled  "The UN Security Council adopts Gaza aid resolution in 13-0 vote, with the United States and Russia abstaining."	entailment
+The Recount had to apologize for **None in the Last 5 years**.	entailment
+The Recount is funded by the United States government	contradiction
+The Recount is a news website	entailment
+The Recount covers the following topics: Politics, Culture, Business, Technology, and Sports	entailment

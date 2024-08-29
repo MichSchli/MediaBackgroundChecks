@@ -1,0 +1,15 @@
+History
+Founded in 2017, “EconoFact is a non-partisan publication designed to bring key facts and incisive analysis to the national debate on economic and social policies.” According to their
+[about page](https://econofact.org/about) “It is written by leading academic economists from across the country who belong to the EconoFact Network. It is published by the Edward R. Murrow Center for a Digital World at The Fletcher School at Tufts University.”
+Econofact states their
+[mission](https://econofact.org/about) is “to provide even-handed analyses of timely economic policy issues drawing on data, historical experience and well-regarded economic frameworks.” The executive editor is Professor Michael Klein, who is the William L. Clayton Professor of International Economic Affairs at The Fletcher School at Tufts University. [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+EconoFact is a property of Tufts University, a not-for-profit educational institution and 501(c)(3) tax-exempt organization and funded through donations.
+Analysis / Bias
+In review, the website has a link to the
+[Econofact Network](https://econofact.org/about#network), which displays a list of economists and their writings. They also provide a search feature that allows you search economic topics such as “Carbon Tax” and see all articles related to Carbon Tax. Articles are written in a short and easy to read format that addresses an economic question with factual sourcing. There is minimal use of loaded words in most articles such as this: [Carbon Taxes: What Can We Learn From International Experience?](https://econofact.org/carbon-taxes-what-can-we-learn-from-international-experience). This article is properly sourced to credible outlets such as the [Brookings Institution](https://mediabiasfactcheck.com/brookings-institute/) and the [CBC](https://mediabiasfactcheck.com/cbc-news-canadian-broadcasting/).
+Editorially, Econofact does not utilize loaded words, however they do not report favorably on
+[President Trump’s policy](https://econofact.org/the-mexican-border-and-u-s-trade-what-would-be-the-impact-of-a-border-closure) and its impact on the economy. This source also [supports](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/) the consensus of science regarding [climate change](https://econofact.org/can-u-s-and-u-k-forest-bioenergy-subsidies-have-adverse-climate-consequences).
+Failed Fact Checks
+- A
+[factual search](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=econofact&gsc.sort=)reveals they have not failed a fact check but, in fact, are used as a resource by some IFCN fact-checkers.

@@ -1,0 +1,11 @@
+History
+TechCrunch is an
+[American online publisher](https://en.wikipedia.org/wiki/TechCrunch) of technology industry news. It primarily covers the business side of tech, reporting breaking tech news, opinions on new products, a thorough analysis of emerging trends in tech, and regular profiling of popular new tech businesses, from early-stage startups to publicly traded companies. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Apollo Global Management, Inc, owns TechCrunch. In September 2021, Apollo bought the Verizon Media group consisting of TechCrunch, Yahoo, and AOL for 5 billion dollars. Advertising and sponsored content generate revenue.
+Analysis / Bias
+TechCrunch provides news, analysis, and opinion on the tech industry. Articles and headlines are fact-based and usually low-biased such as this
+[Microsoft’s shift to the cloud is a lesson in corporate evolution.](https://techcrunch.com/2021/11/12/microsofts-shift-to-the-cloud-is-a-lesson-in-corporate-evolution/) Information is properly sourced to credible media outlets.
+Editorially, they report on political issues pertaining to tech; however, they lean left as they write negatively on conservatives such as former President Trump
+[The Trump SPAC is doing stonk things, which is hilarious](https://techcrunch.com/2021/10/22/the-trump-spac-is-doing-stonk-things-which-is-hilarious/). In general, news reports are factual and hold a moderate left-leaning editorial bias.
+Failed Fact Checks

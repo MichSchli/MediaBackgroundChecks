@@ -1,0 +1,25 @@
+Arthur L. Carter founded New York Observer	entailment
+Jared Kushner is the founder of New York Observer	contradiction
+Ken Kurson leads New York Observer	contradiction
+Jared Kushner owns New York Observer	entailment
+Jared Kushner is the owner of New York Observer	entailment
+Jared Kushner bought New York Observer	entailment
+Jared Kushner acquired New York Observer.	entailment
+New York Observer is funded through advertising and sponsored content.	entailment
+The remit of New York Observer is to **cover both sides when reporting news and typically use a neutral tone**	entailment
+The usual audience of New York Observer is Right-Center Biased	entailment
+New York Observer tends to the right-wing.	entailment
+New York Observer tends to the right-center biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on New York Observer, stating that it tends to be **right-center biased**	entailment
+The factuality of New York Observer is reported to be High	entailment
+The factuality of New York Observer is reported to be High, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+New York Observer failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+New York Observer printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+New York Observer relies on advertising for revenue	entailment
+New York Observer relies on subscriptions for revenue	entailment
+New York Observer relies on donations for revenue	contradiction
+When aggregating stories, New York Observer relies on information from **other credible media outlets**.	entailment
+New York Observer has endorsed Donald Trump	entailment
+New York Observer has an editorial bias towards *right-leaning*.	entailment
+Ken Kurson is the editor of New York Observer	contradiction
+New York Observer printed a biased article titled Liberals Hated FBI Director James Comey (Until Trump Fired Him)	entailment

@@ -1,0 +1,25 @@
+Aleksandar and Borce Velkovski	entailment
+Aleksandar and Borce Velkovski	entailment
+Healthy Food House is the owner of Healthy Food House	contradiction
+Aleksandar and Borce Velkovski	entailment
+Healthy Food House is funded through advertising	entailment
+The remit of Healthy Food House is to publish articles that provide the newest information in the field of medicine and nutrition on a daily basis.	entailment
+The mission of Healthy Food House is to **provide important educational content on various themes, including Natural Remedies, Diet and Weight loss, Health Benefits of Fruits and Vegetables, Healthy Recipes, Health Tips, and many more**.	entailment
+The usual audience of Healthy Food House is **individuals interested in alternative health news and pseudoscience**	entailment
+Healthy Food House tends to the **promotion of false or unproven scientific claims**	entailment
+Other sources have commented on Healthy Food House, stating that it tends to be a quackery level Pseudoscience website based on the promotion of false or unproven scientific claims.	entailment
+The factuality of Healthy Food House is reported to be **low**	entailment
+The factuality of Healthy Food House is reported to be very low, according to Media Bias Fact Check.	entailment
+Healthy Food House failed a fact-check for an article titled Article claiming that the National Cancer Institute “admits marijuana kills cancer” is inaccurate and unsupported	entailment
+Healthy Food House chose not to cover **any scientific evidence or proven medical treatments**	entailment
+Healthy Food House relies on advertising for revenue	entailment
+Healthy Food House relies on subscriptions for revenue	contradiction
+Healthy Food House relies on donations for revenue	contradiction
+Healthy Food House has endorsed **pseudoscience and false scientific claims**	entailment
+Healthy Food House has an editorial bias towards pseudoscience.	entailment
+Healthy Food House was fined 	entailment
+Healthy Food House printed a factually misleading titled **10 Plants Native Americans Used to Cure Everything And Even Cancer**	entailment
+Healthy Food House's headquarter is located in Veles, Macedonia	entailment
+Healthy Food House is a quackery level Pseudoscience website based on the promotion of false or unproven scientific claims.	entailment
+Healthy Food House uses a peer review process	contradiction
+Healthy Food House covers the following topics: Diet, Lifestyle, Alternative Medicine	entailment

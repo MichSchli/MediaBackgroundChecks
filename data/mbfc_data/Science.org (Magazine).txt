@@ -1,0 +1,12 @@
+History
+Founded in 1880, Science, also widely referred to as Science Magazine, is the peer-reviewed academic journal of the
+[American Association for the Advancement of Science (AAAS)](https://mediabiasfactcheck.com/american-association-for-the-advancement-of-science-aaas/) and one of the world’s top academic journals. According to their [about page](https://www.sciencemag.org/about/about-science-aaas), they are “A trailblazer in online publishing.”
+Five other peer-reviewed journals are published under the science.org domain:
+[Science Advances](https://www.science.org/journal/sciadv), [Science Immunology](https://www.science.org/journal/sciimmunol), [Science Robotics](https://www.science.org/journal/scirobotics), [Science Signaling](https://www.science.org/journal/signaling), [Science Translational Medicine](https://www.science.org/journal/stm). Science.org publishes articles from all publications on the website. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The American Association for the Advancement of Science (AAAS) owns Science.org and all its magazines. Donations, advertising, and subscriptions generate revenue.
+Analysis / Bias
+In review, the site publishes original news and coverage of space, biology, tech, and politics. Articles related to scientific studies do not contain loaded languages such as this,
+[Translating genetic risk of Alzheimer’s disease into mechanistic insight and drug targets](https://science.sciencemag.org/content/370/6512/61). The majority of content on this website and the magazine are peer-reviewed. When it comes to politics, they report only when it relates to science, such as this [Trump’s nominee for USDA science post calls new U.S. climate report ‘genuine](https://www.sciencemag.org/news/2018/11/usda-science-nominee-calls-new-us-climate-report-genuine).’ While this story is negative toward Trump, it does so on a scientific basis and not political.
+Failed Fact Checks
+- None in the Last 5 years

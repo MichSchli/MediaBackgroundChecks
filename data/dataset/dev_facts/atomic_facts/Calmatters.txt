@@ -1,0 +1,22 @@
+Simone Coxe founded Calmatters	contradiction
+Simone Coxe is the founder of Calmatters	entailment
+Calmatters is funded through donations	entailment
+The remit of Calmatters is to engage and inform Californians about public policy in their state.	entailment
+The mission of Calmatters is to engage and inform Californians about public policy in their state and produce high-impact journalism that educates and engages the public, and holds those in power accountable.	entailment
+The usual audience of Calmatters is **Californians**	entailment
+Calmatters tends to the left	entailment
+Calmatters tends to the left according to editorial positions	entailment
+Other sources have commented on Calmatters, stating that it tends to be left-leaning	entailment
+The factuality of Calmatters is reported to be High	entailment
+The factuality of Calmatters is reported to be high, according to their source.	entailment
+Calmatters failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Calmatters printed a retraction after failing a fact-check for an article titled "The California bills on a business ‘kill list."	contradiction
+Calmatters chose not to cover Failed Fact Checks	entailment
+Calmatters relies on advertising for revenue	contradiction
+Calmatters relies on subscriptions for revenue	contradiction
+Calmatters relies on donations for revenue	entailment
+Calmatters has received donations from individuals, foundations, and other organizations	entailment
+When aggregating stories, Calmatters relies on information from **government websites, academic institutions, and expert interviews**.	entailment
+Calmatters has an editorial bias towards **left**	entailment
+Calmatters printed a biased article titled CalMatters.org is Left-Center Biased based on editorial positions that moderately favor a liberal perspective	entailment
+Calmatters had to apologize for **no apologies or retractions found in the source text**.	contradiction

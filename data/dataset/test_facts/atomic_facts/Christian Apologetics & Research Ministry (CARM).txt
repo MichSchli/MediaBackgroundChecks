@@ -1,0 +1,26 @@
+Matthew J. Slick founded Christian Apologetics & Research Ministry (CARM)	entailment
+Matthew J. Slick is the founder of Christian Apologetics & Research Ministry (CARM)	entailment
+Matthew J. Slick leads Christian Apologetics & Research Ministry (CARM)	entailment
+Matthew J. Slick owns Christian Apologetics & Research Ministry (CARM)	entailment
+Matthew J. Slick is the owner of Christian Apologetics & Research Ministry (CARM)	entailment
+CARM acquired Christian Apologetics & Research Ministry (CARM)	contradiction
+Christian Apologetics & Research Ministry (CARM) is funded through donations	entailment
+The remit of Christian Apologetics & Research Ministry (CARM) is to  defend Christianity against objections through the use of various methods.	entailment
+The mission of Christian Apologetics & Research Ministry (CARM) is to **defend and promote Christianity**	entailment
+The usual audience of Christian Apologetics & Research Ministry (CARM) is Christians.	entailment
+Christian Apologetics & Research Ministry (CARM) tends to the promotion and defense of the Christian Gospel, doctrine, and theology.	entailment
+Other sources have commented on Christian Apologetics & Research Ministry (CARM), stating that it tends to be a quackery-level pseudoscience website.	entailment
+The factuality of Christian Apologetics & Research Ministry (CARM) is reported to be low	entailment
+The factuality of Christian Apologetics & Research Ministry (CARM) is reported to be low, according to Mediabiasfactcheck.com	entailment
+Christian Apologetics & Research Ministry (CARM) failed a fact-check for an article titled **None in the Last 5 years**	entailment
+Christian Apologetics & Research Ministry (CARM) chose not to cover **evidence-based content**.	entailment
+Christian Apologetics & Research Ministry (CARM) relies on advertising for revenue	contradiction
+Christian Apologetics & Research Ministry (CARM) relies on subscriptions for revenue	contradiction
+Christian Apologetics & Research Ministry (CARM) relies on donations for revenue	entailment
+Christian Apologetics & Research Ministry (CARM) has received donations from **their website**	entailment
+When aggregating stories, Christian Apologetics & Research Ministry (CARM) relies on information from **the Bible**	entailment
+Christian Apologetics & Research Ministry (CARM) has endorsed quackery-level pseudoscience website for promoting non-scientific dogma	entailment
+Christian Apologetics & Research Ministry (CARM) has an editorial bias towards  Christian ideology	entailment
+Christian Apologetics & Research Ministry (CARM) printed a biased article titled "Quackery-Level Pseudoscience Website for Promoting Non-Scientific Dogma".	entailment
+The Christian Apologetics & Research Ministry is funded by the United States government	contradiction
+Christian Apologetics & Research Ministry (CARM) is a 501(c)3 non-profit.	entailment

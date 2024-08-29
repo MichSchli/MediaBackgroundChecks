@@ -1,0 +1,18 @@
+Sinclair Broadcast Group owns KFXA - Waterloo News	entailment
+Sinclair Broadcast Group is the owner of KFXA - Waterloo News	entailment
+The remit of KFXA - Waterloo News is to  provide news, sports, weather, lifestyle, and crime reporting.	entailment
+The KFXA - Waterloo News tends to the right	entailment
+Other sources have commented on KFXA - Waterloo News, stating that it tends to be **Right-Center Biased**	entailment
+The factuality of KFXA - Waterloo News is reported to be High	entailment
+The factuality of KFXA - Waterloo News is reported to be High, according to D. Van Zandt	entailment
+KFXA - Waterloo News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KFXA - Waterloo News chose not to cover **op-eds**	entailment
+KFXA - Waterloo News relies on donations for revenue	contradiction
+KFXA - Waterloo News has received donations from Sinclair Broadcast Group	entailment
+When aggregating stories, KFXA - Waterloo News relies on information from **the Associated Press**	entailment
+KFXA - Waterloo News has an editorial bias towards **the right**	entailment
+KFXA - Waterloo News printed a biased article titled **Failed Fact Checks**.	contradiction
+KFXA - Waterloo News printed a factually misleading titled "Failed Fact Checks".	contradiction
+KFXA - Waterloo News is funded by the American government	contradiction
+KFXA - Waterloo News is a Right-Center Biased	entailment
+KFXA - Waterloo News covers the following topics: local news, sports, weather, lifestyle, and crime reporting	entailment

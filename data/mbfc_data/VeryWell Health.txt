@@ -1,0 +1,12 @@
+History
+Verywell Health is a medical and health website
+[launched by About.com](https://www.forbes.com/sites/parulguliani/2016/04/26/about-com-unveils-new-health-vertical-verywell/#19447dca7599) in 2016. The website provides factual, evidence-based medical information. According to their [about page](https://www.verywellhealth.com/about-us), they “work hard to provide you with comprehensive content that you, above all, can rely on. Our articles are not only written by experienced doctors, therapists, nurses, and other experts but vetted for accuracy by board-certified physicians.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Verywell is owned and published by
+[Dotdash](https://www.verywellhealth.com/about-us), formerly About.com. Dotdash owns the VeryWell network, consisting of [Verywell Health](https://www.verywellhealth.com/), [Verywell Fit](https://www.verywellfit.com/), [Verywell Family](https://www.verywellfamily.com/), and [Verywell Mind.](https://www.verywellmind.com/) They also own the website [Investopedia](https://mediabiasfactcheck.com/investopedia/). Revenue is derived through advertising as well as affiliate commissions for some of the products they recommend.
+Analysis / Bias
+In review, Verywell features an A to Z index of medical conditions and a section for Prevention and Treatment. They also publish medical-related news with minimal bias, such as this
+[Long-Acting Shot More Effective Than Daily Pill at Preventing HIV](https://www.verywellhealth.com/shot-cabotegravir-hiv-truvada-5088308). This article is sourced adequately to HIV.gov as well as other credible medical journals. The website provides information on the Coronavirus from a pro-science perspective, such as this [COVID-19 and the Heart: A Look at Recent Research](https://www.verywellhealth.com/covid-19-and-the-heart-what-we-know-now-5087176).
+Editorially, VeryWell employs editors involved in medicine and fact-checkers who ensure the articles are accurate and evidence-based. In general, information is factual and presented with limited bias.
+Failed Fact Checks
+- None in the Last 5 years.

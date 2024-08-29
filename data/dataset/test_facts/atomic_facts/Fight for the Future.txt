@@ -1,0 +1,20 @@
+Fight for the Future is funded through donations.	entailment
+The remit of Fight for the Future is to **advocate for net neutrality and issues related to digital freedom**	entailment
+The mission of Fight for the Future is to **advocate for net neutrality and digital freedom**	entailment
+Other sources have commented on Fight for the Future, stating that it tends to be **Left-Center biased**.	entailment
+The factuality of Fight for the Future is reported to be High	entailment
+The factuality of Fight for the Future is reported to be High, according to D. Van Zandt 3/17/2018	entailment
+Fight for the Future failed a fact-check for an article titled None in the Last 5 years	contradiction
+Fight for the Future printed a retraction after failing a fact-check for an article titled 25+ human rights organizations demand Congress center the needs of marginalized people when regulating decentralized tech.	contradiction
+Fight for the Future chose not to cover failed fact checks	entailment
+Fight for the Future relies on advertising for revenue	entailment
+Fight for the Future relies on donations for revenue	entailment
+Fight for the Future has received donations from donors.	entailment
+When aggregating stories, Fight for the Future relies on information from credible information.	entailment
+Fight for the Future has endorsed net neutrality	entailment
+Fight for the Future has an editorial bias towards Left-Center	entailment
+Fight for the Future printed a factually misleading titled Left-Center biased	contradiction
+Fight for the Future had to apologize for **None in the Last 5 years**	entailment
+Fight for the Future is funded by the government.	contradiction
+Fight for the Future is a nonprofit advocacy group	entailment
+Fight for the Future covers the following topics: digital rights, copyright legislation, online privacy, censorship, net neutrality, issues related to digital freedom, human rights.	entailment

@@ -1,0 +1,18 @@
+History
+Founded in 2007, the Institute for Health Metrics and Evaluation (IHME) is a research institute working in global health statistics and impact evaluation at the
+[University of Washington](https://en.wikipedia.org/wiki/University_of_Washington) in Seattle. According to their [about page](http://www.healthdata.org/about), they are an “independent population health research center at UW Medicine, part of the University of Washington, that provides a rigorous and comparable measurement of the world’s most important health problems and evaluates the strategies used to address them.”
+In March 2020, IHME began formulating projections on Covid-19 deaths that have been
+[criticized for underestimating future deaths](https://coloradosun.com/2020/04/07/colorado-coronavirus-cases-models/) that differ from other organizations’ projections. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+IHME receives
+[core grant funding](http://www.seattlepi.com/local/article/105-million-Gates-gift-helps-start-global-1239473.php) from the [Bill & Melinda Gates Foundation](https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation) and the state of Washington. Other funders include The US Centers for Disease Control and Prevention (CDC); Inter-American Development Bank; Gavi, the Vaccine Alliance; the National Heart, Lung and Blood Institute; Kingdom of Saudi Arabia Ministry of Health; Medtronic Philanthropy; and the National Institute on Aging.
+Analysis / Bias
+In review, IHME produces and publishes health-related projection models on various health issues and policy reports for countries, such as
+[Ways to Improve Health in the Russian Federation, 2000–2017.](http://www.healthdata.org/policy-report/ways-improve-health-russian-federation-2000%E2%80%932017) Policy research is very well-sourced and evidence-based.
+In 2020, IHME began producing projection models for Coronavirus deaths used by the Trump Administration to formulate policy. Their projections have been criticized for varying widely and for being much lower than other science-based projections. According to an article by
+[STAT](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), “Other experts, including some colleagues of the model-makers, are even harsher. “That the IHME model keeps changing is evidence of its lack of reliability as a predictive tool,” said epidemiologist Ruth Etzioni of the Fred Hutchinson Cancer Center, who has served on a search committee for IHME. “That it is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
+Model projections for the USA can be found at
+[covid19.healthdata.org/united-states-of-America](https://covid19.healthdata.org/united-states-of-america). As of June 10th, 2020, the model predicts there will be 169K deaths by October 1st, with a potential range from 133K to 290K. The Annals of Internal Medicine reports “ [Caution Warranted: Using the Institute for Health Metrics and Evaluation Model for Predicting the Course of the COVID-19 Pandemic.](https://www.acpjournals.org/doi/10.7326/M20-1565)” Their primary criticism is that “IHME projections are based not on transmission dynamics but on a statistical model with no epidemiologic basis.”
+In general, the Institute for Health Metrics and Evaluation meets our criteria as a Pro-Science source. Although some have criticized their projections, they ultimately are based on available statistics, produce a reasonable range, and are disclaimed not to be 100% accurate.
+Failed Fact Checks
+- None in the Last 5 years

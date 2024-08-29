@@ -1,0 +1,21 @@
+Glacier Media Group owns Tri-City News	entailment
+Glacier Media Group is the owner of Tri-City News	entailment
+Glacier Media Group bought Tri-City News	contradiction
+Tri-City News is funded through advertising and subscriptions	entailment
+The mission of Tri-City News is to report news factually.	entailment
+The usual audience of Tri-City News isleft-center biased	entailment
+Tri-City News tends to the left.	entailment
+Tri-City News tends to the left-center according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Tri-City News, stating that it tends to be Left-Center Biased	entailment
+The factuality of Tri-City News is reported to be High	entailment
+The factuality of Tri-City News is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+Tri-City News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Tri-City News chose not to cover Failed Fact Checks	entailment
+Tri-City News relies on advertising for revenue	entailment
+Tri-City News relies on subscriptions for revenue	contradiction
+Tri-City News relies on donations for revenue	contradiction
+When aggregating stories, Tri-City News relies on information from [Canadian Press](https://mediabiasfactcheck.com/2018/06/15/fact-check-of-trumps-canadian-trade-stats/), [Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+Tri-City News has endorsed left	entailment
+Tri-City News has an editorial bias towards left.	entailment
+Tri-City News printed a biased article titled Left-Center Biased	entailment
+Tri-City News printed a factually misleading titled Left-Center Biased	contradiction

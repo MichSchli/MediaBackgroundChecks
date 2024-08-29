@@ -1,0 +1,17 @@
+Joint Center for Political and Economic Studies is funded through Foundations, public charities, and individuals.	entailment
+The remit of Joint Center for Political and Economic Studies is to **research public policy issues of special concern to African Americans**	entailment
+The mission of Joint Center for Political and Economic Studies is to **produce innovative, high-impact ideas, research, and policy solutions that have a positive impact on people and communities of color**	entailment
+The Joint Center for Political and Economic Studies tends to the **left**	entailment
+Other sources have commented on Joint Center for Political and Economic Studies, stating that it tends to be left-leaning	entailment
+The factuality of Joint Center for Political and Economic Studies is reported to be High	entailment
+The factuality of Joint Center for Political and Economic Studies is reported to be High, according to Source.	entailment
+Joint Center for Political and Economic Studies failed a fact-check for an article titled "Policies to Help Black & Latino Businesses Use Mobile Apps to Grow".	contradiction
+Joint Center for Political and Economic Studies chose not to cover \ African Americans	contradiction
+Joint Center for Political and Economic Studies relies on donations for revenue	entailment
+Joint Center for Political and Economic Studies has received donations from [foundations, public charities, and individuals](https://jointcenter.org/about/about).	entailment
+When aggregating stories, Joint Center for Political and Economic Studies relies on information from [research papers](https://jointcenter.org/research), [policy briefs](https://jointcenter.org/content/policy-briefs), and [surveys](https://jointcenter.org/content/surveys).	entailment
+The Joint Center for Political and Economic Studies has endorsed **policy favored by the left**	entailment
+Joint Center for Political and Economic Studies has an editorial bias towards **left-leaning policy**	entailment
+The Joint Center for Political and Economic Studies is funded by the U.S. government	contradiction
+Joint Center for Political and Economic Studies is a non-profit organization	entailment
+Joint Center for Political and Economic Studies covers the following topics: research papers, policy briefs, surveys.	entailment

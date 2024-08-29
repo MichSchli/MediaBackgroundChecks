@@ -1,0 +1,19 @@
+Porter Stansberry owns American Consequences	entailment
+Porter Stansberry is the owner of American Consequences	entailment
+American Consequences is funded through an advertising and subscription model.	entailment
+The usual audience of American Consequences is  conservative.	entailment
+American Consequences tends to the right	entailment
+Other sources have commented on American Consequences, stating that it tends to be **Right Biased**	entailment
+The factuality of American Consequences is reported to be Mixed	entailment
+The factuality of American Consequences is reported to be mixed, according to Media Bias/Fact Check.	entailment
+American Consequences relies on advertising for revenue	entailment
+American Consequences relies on subscriptions for revenue	entailment
+American Consequences relies on donations for revenue	contradiction
+When aggregating stories, American Consequences relies on information from [minimal sources](https://americanconsequences.com).	entailment
+American Consequences has endorsed a right-wing perspective	entailment
+American Consequences has an editorial bias towards **the right**	entailment
+P.J. O’Rourke is the editor of American Consequences	entailment
+American Consequences printed a biased article titled "Antifa: Sympathy For the Devil."	entailment
+American Consequences printed a factually misleading titled "Trump Must Beat the Siege."	entailment
+American Consequences is funded by the **advertising and subscription model** government	contradiction
+American Consequences is a **conservative magazine**	entailment

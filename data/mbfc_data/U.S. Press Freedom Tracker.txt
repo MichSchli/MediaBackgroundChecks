@@ -1,0 +1,15 @@
+History
+Launched in 2017, the U.S. Press Freedom Tracker is a website that catalogs Press Freedom incidents in the United States. According to their
+[about page](https://pressfreedomtracker.us/about/), “The U.S. Press Freedom Tracker is a nonpartisan news website and database providing reliable and contextualized information on the number of press freedom violations in the United States — from journalists facing charges to reporters assaulted or stopped at the U.S. border and asked to hand over their electronics.” [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Freedom of the Press Foundation and the
+[Committee to Protect Journalists](https://mediabiasfactcheck.com/committee-to-protect-journalists/) own and publishes the U.S. Press Freedom Tracker. [Donations](https://freedom.press/tracker/) to the Freedom of the Press Foundation, a 501(c)(3) nonprofit organization, fund the website.
+Analysis / Bias
+The U.S. Press Freedom Tracker provides a searchable incident database that includes arrests, assaults, denial of access, equipment damage/seizures, and legal orders. They also have an
+[“other”](https://pressfreedomtracker.us/other-incident/?) category that “falls outside the scope of other categories but reaches a threshold of concern as determined by editorial discretion.”
+For example, when searching for journalists who were assaulted, it lists all the news stories related to the event, such as this
+[Journalist harassed, shoved while covering protest in Texas](https://pressfreedomtracker.us/all-incidents/independent-journalist-harassed-shoved-while-covering-anti-lgbtq-protest-in-texas/). Like many on the site, this incident is reported by the journalist involved. Others are reported by other media outlets.
+The website also features a blog that highlights facts about threats to press freedom, such as this
+[In 2022, 15 journalists arrested; more face charges](https://pressfreedomtracker.us/blog/in-2022-a-dozen-journalists-arrested-more-face-charges/), and [Supreme Court ruling limits paths for journalists to hold federal officers accountable](https://pressfreedomtracker.us/blog/supreme-court-ruling-limits-paths-for-journalists-to-hold-federal-officers-accountable/). This story is properly sourced from credible sources like the [New York Times](https://mediabiasfactcheck.com/new-york-times/) and SupremeCourt.gov. In general, the U.S. Press Freedom Tracker is evidence-based and minimally biased in reporting.
+Failed Fact Checks
+- None in the Last 5 years

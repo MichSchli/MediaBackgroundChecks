@@ -1,0 +1,23 @@
+Lila Rose founded Live Action	entailment
+Lila Rose is the founder of Live Action	entailment
+Live Action is funded through donations	entailment
+The remit of Live Action is to **discredit Planned Parenthood and advocate for Pro-Life policies**.	entailment
+The mission of Live Action is to discredit Planned Parenthood and to advocate for Pro-Life policies.	entailment
+The usual audience of Live Action is **pro-life advocates**	entailment
+Live Action tends to the discredit Planned Parenthood and to advocate for Pro-Life policies.	entailment
+Other sources have commented on Live Action, stating that it tends to be **misleading and sometimes false**.	entailment
+The factuality of Live Action is reported to be moderate	entailment
+The factuality of Live Action is reported to be moderate, according to 	entailment
+Live Action failed a fact-check for an article titled **"Does Planned Parenthood Provide No Prenatal Care, Only Abortions?"**	entailment
+Live Action printed a retraction after failing a fact-check for an article titled "Abortion is more dangerous now than ever before.".	contradiction
+Live Action relies on advertising for revenue	contradiction
+Live Action relies on subscriptions for revenue	contradiction
+Live Action relies on donations for revenue	entailment
+When aggregating stories, Live Action relies on information from their website.	entailment
+Live Action has endorsed Pro-Life policies	entailment
+Live Action has an editorial bias towards **pro-life advocacy**	entailment
+Live Action printed a biased article titled "Live Action: Abortionist Caught on Tape Throwing Baby Parts in Trash".	entailment
+Live Action printed a factually misleading titled "Abortion is more dangerous now than ever before."	entailment
+Live Action is funded by the US government	contradiction
+Live Action is a moderate conspiracy website	entailment
+Live Action covers the following topics: **abortion, Planned Parenthood, pro-life policies, undercover sting videos, news reporting**	entailment

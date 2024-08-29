@@ -1,0 +1,17 @@
+American association for the advancement of science. is funded through donations and membership fees	entailment
+The remit of American association for the advancement of science is to promote cooperation among scientists, defend scientific freedom, encourage scientific responsibility, and support scientific education and science outreach for the betterment of all humanity.	entailment
+The mission of American association for the advancement of science is to promote cooperation among scientists, defending scientific freedom, encouraging scientific responsibility, and supporting scientific education and science outreach for the betterment of all humanity.	entailment
+American association for the advancement of science tends to the Pro-Science.	entailment
+Other sources have commented on American association for the advancement of science., stating that it tends to be pro-science.	entailment
+The factuality of American association for the advancement of science. is reported to be Pro-Science	entailment
+The factuality of American association for the advancement of science is reported to be high, according to Media Bias/Fact Check.	entailment
+American association for the advancement of science. failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+American association for the advancement of science printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+American Association for the Advancement of Science chose not to cover failed fact checks	entailment
+American association for the advancement of science. relies on advertising for revenue	contradiction
+American association for the advancement of science. relies on subscriptions for revenue	contradiction
+American association for the advancement of science. relies on donations for revenue	entailment
+American association for the advancement of science. has endorsed the consensus of science	entailment
+American association for the advancement of science. has an editorial bias towards Pro-Science	entailment
+American association for the advancement of science. is a nonprofit organization	entailment
+American association for the advancement of science. uses a peer review process	entailment

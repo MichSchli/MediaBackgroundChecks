@@ -1,0 +1,13 @@
+History
+Founded in 2010, PsyPost is a psychology and neuroscience news website dedicated to reporting the latest research on human behavior, cognition, and society.
+[They report](https://www.psypost.org/about) their “mission is to spread information about social science and neuroscience research.”
+This website lacks transparency in ownership as well as authorship of articles.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Psypost is owned by Eric W. Dolan, who is also the founder. Revenue is derived through advertising.
+Analysis / Bias
+In review, PsyPost republishes or summarizes news stories related to psychology. For example,
+[this story](https://www.psypost.org/2021/01/eye-tracking-research-sheds-light-on-how-background-music-influences-our-perception-of-visual-scenes-59397) is sourced from [Frontiers in Psychology](https://mediabiasfactcheck.com/frontiers-in-psychology/). This story comes from Cognitive science and is credible [Study uncovers some electrophysiological processes associated with the Dunning–Kruger effect](https://www.psypost.org/2021/01/study-uncovers-some-electrophysiological-processes-associated-with-the-dunning-kruger-effect-59390).
+Editorially, Psypost sticks with news and info related to psychology.
+Failed Fact Checks
+- None in the Last 5 years

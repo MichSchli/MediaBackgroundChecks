@@ -1,0 +1,20 @@
+William Luther Pierce founded National Alliance	entailment
+William Luther Pierce is the founder of National Alliance	entailment
+National Vanguard leads National Alliance	entailment
+National Alliance is funded through **donations, sale of books/merchandise**	entailment
+The remit of National Alliance is to **promote white supremacist, neo-Nazi, anti-semitic, and white separatist ideologies**.	entailment
+The mission of National Alliance is to promote white supremacist, neo-Nazi, anti-semitic, and white separatist ideologies.	entailment
+The usual audience of National Alliance is white supremacist, neo-Nazi, anti-semitic, and white separatist.	entailment
+National Alliance tends to the **extreme right-biased and Questionable**	entailment
+Other sources have commented on National Alliance, stating that it tends to be **an extreme right-biased and Questionable source**	entailment
+The factuality of National Alliance is reported to be Questionable	entailment
+The factuality of National Alliance is reported to be Questionable, according to D. Van Zandt	entailment
+National Alliance relies on donations for revenue	entailment
+National Alliance has received donations from donations	entailment
+When aggregating stories, National Alliance relies on information from the National Vanguard.	entailment
+National Alliance has endorsed **white supremacist, neo-Nazi, anti-semitic, and white separatist**	entailment
+National Alliance has an editorial bias towards extreme right.	entailment
+National Alliance printed a biased article titled "What We Believe".	entailment
+National Alliance's headquarter is located in Hillsboro, West Virginia.	entailment
+National Alliance is funded by the US government	contradiction
+The National Alliance is a white supremacist	entailment

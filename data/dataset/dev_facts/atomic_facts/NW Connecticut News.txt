@@ -1,0 +1,13 @@
+Metric Media Foundation owns NW Connecticut News	entailment
+Metric Media LLC is the owner of NW Connecticut News	entailment
+NW Connecticut News is funded through donations and grants but lacks transparency as they do not disclose who their donors are.	entailment
+The remit of NW Connecticut News is to **look like a local news source**	entailment
+The usual audience of NW Connecticut News is right-center biased	entailment
+NW Connecticut News tends to the right-centerbias	entailment
+NW Connecticut News tends to the right-center according to Media Bias/Fact Check.	entailment
+Other sources have commented on NW Connecticut News, stating that it tends to be **right-center biased**.	entailment
+The factuality of NW Connecticut News is reported to be Questionable	entailment
+The factuality of NW Connecticut News is reported to be Questionable, according to D. Van Zandt	entailment
+NW Connecticut News relies on advertising for revenue	entailment
+NW Connecticut News has endorsed right-center biased.	entailment
+NW Connecticut News has an editorial bias towards **right-center**	entailment

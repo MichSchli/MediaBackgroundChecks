@@ -1,0 +1,22 @@
+Mike Adams founded The Health Ranger	entailment
+Mike Adams is the founder of The Health Ranger	entailment
+Mike Adams owns The Health Ranger	entailment
+Mike Adams bought The Health Ranger	entailment
+The Health Ranger is funded through online advertising	entailment
+The remit of The Health Ranger is to publish false information and conspiracy theories	entailment
+The mission of The Health Ranger is to publish false information and conspiracy theories.	entailment
+The usual audience of The Health Ranger is **extreme right biased Quackery Level Pseudoscience website that also publishes conspiracy theories**	entailment
+The Health Ranger tends to the extreme right biased Quackery Level Pseudoscience website.	entailment
+The Health Ranger tends to the extreme right biased Quackery Level Pseudoscience website according to Rationalwiki	entailment
+Other sources have commented on The Health Ranger, stating that it tends to be extreme right biased.	entailment
+The factuality of The Health Ranger is reported to be **low**	entailment
+The factuality of The Health Ranger is reported to be extremely low, according to mediabiasfactcheck.com	entailment
+The Health Ranger failed a fact-check for an article titled [Climate change cultists are now taking over your local weather forecast.](https://www.naturalnews.com/2017-05-09-climate-change-cultists-are-now-taking-over-your-local-weather-forecast.html)	entailment
+The Health Ranger provides original content written by staff journalists	contradiction
+The Health Ranger relies on advertising for revenue	entailment
+The Health Ranger relies on subscriptions for revenue	contradiction
+The Health Ranger relies on donations for revenue	contradiction
+The Health Ranger has received donations from **online advertising**	entailment
+The Health Ranger has an editorial bias towards extreme right biased Quackery Level Pseudoscience.	entailment
+The Health Ranger printed a biased article titled **Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook**	entailment
+The Health Ranger printed a factually misleading titled "Climate change cultists are now taking over your local weather forecast."	entailment

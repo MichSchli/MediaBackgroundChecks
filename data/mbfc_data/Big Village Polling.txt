@@ -1,0 +1,10 @@
+History
+Big Village Polling is a research organization based in Boca Raton, Florida. According to their
+[about page](https://big-village.com/insights/), “We go beyond research to deliver integrated expertise and products that fine tune your data strategies, drive bottom line growth, and differentiate in today’s marketplace.” [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Big Village Polling is a part of Bright Mountain Media. Funding comes from the sale of services and polling data.
+Analysis / Bias
+Big Village Polling conducts political research and polling on issues in various mediums. The website publishes news related to its company and surveys and is not political in nature.
+[FiveThirtyEight](https://mediabiasfactcheck.com/fivethirtyeight/), an expert on measuring and rating pollster performance, has [evaluated 139 polls](https://projects.fivethirtyeight.com/pollster-ratings/) by the Big Village Polling, earning 1.6 stars for accuracy, indicating they are Mostly Factual by MBFC’s criteria. They also conclude that their polling slightly favors the Left with a score of +0.2, which equates to Least Biased overall in polling bias. In general, the Big Village Polling is considered reasonably accurate and demonstrates minimal bias in polling.
+Failed Fact Checks
+- None in the Last 5 years

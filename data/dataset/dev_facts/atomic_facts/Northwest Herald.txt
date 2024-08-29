@@ -1,0 +1,21 @@
+Shaw Media owns Northwest Herald	entailment
+Shaw Media is the owner of Northwest Herald	entailment
+Northwest Herald is funded through **sponsored content, advertising, and subscription fees**	entailment
+The remit of Northwest Herald is to  Extract factual and unbiased news content.	entailment
+The mission of Northwest Herald is to provide accurate and unbiased news coverage.	entailment
+The usual audience of Northwest Herald is **residents of McHenry County area**	entailment
+Northwest Herald tends to the "Least Biased"	entailment
+Northwest Herald tends to the least biased according to Mediabiasfactcheck	entailment
+Other sources have commented on Northwest Herald, stating that it tends to be Least Biased	entailment
+The factuality of Northwest Herald is reported to be High	entailment
+The factuality of Northwest Herald is reported to be High, according to Mediabiasfactcheck website	entailment
+Northwest Herald failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Northwest Herald printed a retraction after failing a fact-check for an article titled "Northwest Herald regarding masks in schools".	contradiction
+Northwest Herald chose not to cover failed fact checks.	contradiction
+Northwest Herald relies on advertising for revenue	entailment
+Northwest Herald relies on subscriptions for revenue	entailment
+Northwest Herald relies on donations for revenue	contradiction
+When aggregating stories, Northwest Herald relies on information from **journalists and wire services**	entailment
+Northwest Herald has an editorial bias towards **Neither Left nor Right**	entailment
+The Northwest Herald had to apologize for [None in the Last 5 years].	entailment
+Northwest Herald had to apologize to **none** for **failed fact checks**	entailment

@@ -1,0 +1,14 @@
+History
+Founded in 1975,
+[Ipsos](https://www.ipsos.com/en-us/about-us/our-history) is a market research and polling company headquartered in Paris, France. [Didier Truchot](https://www.ipsos.com/en/board-directors) is the founder and chairman of the Company. [Ipsos](https://www.reuters.com/markets/companies/ISOS.PA) uses global surveys and polls to determine market potential and the viability of products. They operate in other countries through subsidiaries, such as Ipsos Mori UK Ltd. [Read our profile on France’s Media and Government.](https://mediabiasfactcheck.com/france-media-profile/)
+Funded by / Ownership
+A
+[reference document](https://www.ipsos.com/sites/default/files/2019-06/ipsos_reference_document_2018_0.pdf) dated 2018 indicates that the largest shareholder of Ipsos is Didier Truchot; however, Ipsos does not disclose detailed shareholder information on its about page. The sale of market research and polling data generates revenue.
+Analysis / Bias
+In review, the site publishes surveys and research on EU-funded projects such as
+[here](https://www.eeas.europa.eu/delegations/montenegro/ipsos-research-more-60-citizens-prefer-go-counter-rather-use-e-services_en?s=225). Generally, they publish the surveys with minimal bias in wording like [“52% globally say cycling in their area is too dangerous](https://www.ipsos.com/en/global-advisor-cycling-across-the-world-2022),” This survey is properly sourced to reports, with the reports available to download. However, the downloaded version is the same as the PowerPoint presentation report; in other words, there is no detail in the downloaded version.
+Ipsos also uses moderately loaded language in some headlines such as this:
+[ “America’s hidden common ground on police reform and racism in the United States.”](https://www.ipsos.com/en-us/news-poll/public-agenda-hidden-common-ground-police-reform) For this research, Ipsos partnered with Public Agenda, the National Issues Forums Institute, the Charles F. Kettering Foundation, and [USA Today](https://mediabiasfactcheck.com/usa-today-2/).
+[FiveThirtyEight](https://mediabiasfactcheck.com/fivethirtyeight/), an expert on measuring and rating pollster performance, has [evaluated 111 polls by Ipsos,](https://projects.fivethirtyeight.com/pollster-ratings/ipsos/) indicating they are accurate 68% of the time or Mostly Factual. They also conclude that their polling favors the left with a score of +1.8, which equates to a Left-Center bias in polling. In general, Ipsos is a reasonably accurate pollster that slightly favors the left (Democratic Candidates).
+Failed Fact Checks
+- None in the Last 5 years. Fact-checkers use them.

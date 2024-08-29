@@ -1,0 +1,20 @@
+Felix Lace owns Felix Rex	entailment
+Felix Lace is the owner of Felix Rex	entailment
+Felix Rex is funded through advertising, donations, and the sale of themed merchandise	entailment
+The mission of Felix Rex is to promote extreme right-biased content characterized by a strong focus on controversial societal and political issues.	entailment
+The usual audience of Felix Rex is right-leaning perspectives.	entailment
+Felix Rex tends to the extreme right-biased and questionable based on the promotion of conspiracy theories, propaganda, and advocacy for white nationalism and supremacy.	entailment
+Other sources have commented on Felix Rex, stating that it tends to be extreme right-biased.	entailment
+The factuality of Felix Rex is reported to be questionable, according to D. Van Zandt 12/19/2023.	entailment
+Felix Rex chose not to cover **left-leaning perspectives**	entailment
+Felix Rex relies on advertising for revenue	entailment
+Felix Rex relies on donations for revenue	entailment
+Felix Rex has received donations from its audience.	entailment
+When aggregating stories, Felix Rex relies on information from external sources	entailment
+Felix Rex has endorsed **right-wing**	entailment
+Felix Rex has an editorial bias towards extreme right-biased and questionable based on the promotion of conspiracy theories, propaganda, and advocacy for white nationalism and supremacy.	entailment
+Felix Rex printed a biased article titled "Democrats TERRIFIED and TERRORIZED by VERBAL JU-JITSU".	entailment
+Felix Rex printed a factually misleading titled "Democrats TERRIFIED and TERRORIZED by VERBAL JU-JITSU".	entailment
+Felix Rex is funded by the Canadian government	contradiction
+Felix Rex is a website	contradiction
+Felix Rex covers the following topics: right-leaning perspectives, conspiracy theories, Canadian politics, societal commentary, video game releases, United States issues.	entailment

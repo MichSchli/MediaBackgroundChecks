@@ -1,0 +1,17 @@
+Who founded Factwire News Agency	entailment
+Factwire News Agency is funded through donations.	entailment
+The remit of Factwire News Agency is to  investigate and report on news stories.	entailment
+Other sources have commented on Factwire News Agency, stating that it tends to be **Minimally Active**.	entailment
+The factuality of Factwire News Agency is reported to be high	entailment
+The factuality of Factwire News Agency is reported to be High, according to mediabiasfactcheck.com.	entailment
+Factwire News Agency failed a fact-check for an article titled None in the Last 5 years	contradiction
+Factwire News Agency chose not to cover failed fact checks	entailment
+Factwire News Agency relies on advertising for revenue	contradiction
+Factwire News Agency relies on subscriptions for revenue	contradiction
+Factwire News Agency relies on donations for revenue	entailment
+Factwire News Agency has received donations from 3,300 Hong Kong residents.	entailment
+When aggregating stories, Factwire News Agency relies on information from **properly sourced and demonstrates minimal bias as all sides are covered**.	entailment
+Factwire News Agency has endorsed Balanced reporting	entailment
+Factwire News Agency has an editorial bias towards Least Biased.	contradiction
+Factwire News Agency had to apologize for **none in the Last 5 years**	entailment
+Factwire News Agency had to apologize to -  China - for - failing to fact-check properly.	contradiction

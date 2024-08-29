@@ -1,0 +1,10 @@
+History
+MSN is a web portal and related collection of Internet services and apps for Windows and mobile devices, provided by Microsoft and launched on August 24, 1995, the same release date as Windows 95. MSN aggregates news from a wide variety of mainstream sources. The MSN News homepage breaks the news into categories such as World, US, Business, Politics, Local, etc.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Microsoft owns MSN News.
+Analysis / Bias
+Determining the bias of a news aggregator is different from a single source that produces original content. The wording on MSN News comes from other sources, so we will not even look at that as a factor. The most logical way to determine the bias of a news aggregator is to look at the sources they use for their news content. To accomplish this, we looked at what sources were being used in
+[US News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen) and [World News categories.](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen) Over the course of three days, we looked at the top 25 sources in each category for a total of 150 sources calculated. We then compared these sources to our bias ratings and calculated what percentage comes from each bias category.
+Overall, most stories on MSN News come from Left-Center sources (51%) and 31% from Least Biased sources. Further, Right-Center sources only made up 1% of the news and Right biased 5%, while on the other hand, 12% of stories come from the Left Biased category. When looking at purely left-leaning vs. right-leaning sources, the numbers favor the left. See the charts below:
+We are not stating MSN is willfully biased; we are pointing out that the sources used to have a preference for the left according to our ratings. This could be due to how the algorithm works and that there are more mainstream news media that leans left.

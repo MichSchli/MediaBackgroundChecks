@@ -1,0 +1,17 @@
+WUCF owns WUCF - NPR - Orlando	entailment
+The University of Central Florida is the owner of WUCF - NPR - Orlando	entailment
+WUCR - NPR - Orlando is funded through **institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System**	entailment
+The remit of WUCR - NPR - Orlando is to report news and radio programming information with a slight liberal bias.	entailment
+The mission of WUCR - NPR - Orlando is to  provide news and programming information with a slight liberal bias.	entailment
+The usual audience of WUCR - NPR - Orlando is left-leaning.	entailment
+WUCR - NPR - Orlando tends to the left	entailment
+Other sources have commented on WUCF - NPR - Orlando, stating that it tends to be Left-Center Biased	entailment
+The factuality of WUCF - NPR - Orlando is reported to be High	entailment
+The factuality of WUCF - NPR - Orlando is reported to be High, according to D. Van Zandt 	entailment
+WUCR - NPR - Orlando failed a fact-check for an article titled "WUCF Receives Ready To Learn Grant to Support Early Literacy and Critical Thinking Skills."	contradiction
+WUCR - NPR - Orlando chose not to cover Hispanic Heritage Month	contradiction
+WUCR - NPR - Orlando relies on advertising for revenue	contradiction
+WUCR - NPR - Orlando relies on donations for revenue	entailment
+WUCR - NPR - Orlando has received donations from **institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System**.	entailment
+WUCF - NPR - Orlando has an editorial bias towards **the left**	entailment
+WUCR - NPR - Orlando is a Left-Center Biased	entailment

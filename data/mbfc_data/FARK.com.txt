@@ -1,0 +1,10 @@
+History
+Launched in 1999 by author Drew Curtis, FARK.com is a satire website that aggregates news stories adding humorous/ironic headlines. According to their
+[about page](https://www.fark.com/farq/about/#What_is_Fark.3F), “Fark.com, the Web site, is a news aggregator and an edited social networking news site. Every day Fark receives 2,000 or so news submissions from its readership, from which we hand-pick the funny and weird notable news — and not-news — of the day.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Drew Curtis owns FARK.com, with advertising and membership fees generating revenue.
+Analysis / Bias
+FARK.com is a satirical website that aggregates user-submitted news stories from other sources and adds humorous or ironic headlines. When you click on the headline, you are directed offsite to the original source. FARK links to a wide variety of sources, including
+[Fox News](https://mediabiasfactcheck.com/fox-news-bias/), [CNN](https://mediabiasfactcheck.com/left/cnn-bias/), [Forbes](https://mediabiasfactcheck.com/forbes/), local media outlets, and social media posts. The satirical headlines are labeled silly, creepy, sick, spiffy, ironic, strange, Murica, and several more. An example of a “strange” headline is as follows: [Man sets up fake charity to defraud his employer out of $600k in company matching donation funds. Probably now wishes he held onto that Time Stone](https://www.fark.com/goto/11933607/www.ctpost.com/news/article/Feds-Man-defrauded-CT-company-s-charity-gift-16640806.php%3Fsrc%3Drdctpd).
+Editorially, FARK.com often pokes fun at former President Trump and conservatives such as this
+[We seem to be having just a wee bit of difficulty locating the 50 percent of constitutional scholars with whom Donald Trump has spoken who agree with his interpretation of January 6](https://www.fark.com/goto/11911839/slate.com/news-and-politics/2021/11/trump-january-six-constitution-conspiracy-theory.html%3Futm_sour). In general, FARK is a left-leaning, properly disclaimed satire website.

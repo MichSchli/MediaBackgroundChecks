@@ -1,0 +1,22 @@
+Chihuahuapost.com is funded through **advertising**	entailment
+The remit of Chihuahuapost.com is to **republish content from other sources**	entailment
+The mission of Chihuahuapost.com is to **republish content from other sources.**	entailment
+The usual audience of Chihuahuapost.com is English-speaking ex-pats and international readers.	entailment
+Chihuahuapost.com tends to the left-center biased and questionable.	entailment
+Other sources have commented on Chihuahuapost.com, stating that it tends to be Left-Center biased.	entailment
+The factuality of Chihuahuapost.com is reported to be **questionable**	entailment
+The factuality of Chihuahuapost.com is reported to be questionable, according to Mediabiasfactcheck.com	entailment
+Chihuahuapost.com printed a retraction after failing a fact-check for an article titled "Tucker Carlson’s extremist recommendation to the Republicans: The US should bomb Mexico"	entailment
+Chihuahuapost.com chose not to cover original content.	entailment
+Chihuahuapost.com provides original content written by staff journalists	contradiction
+Chihuahuapost.com relies on advertising for revenue	entailment
+Chihuahuapost.com relies on subscriptions for revenue	contradiction
+Chihuahuapost.com relies on donations for revenue	contradiction
+When aggregating stories, Chihuahuapost.com relies on information from the Mexico Daily Post, the MDP Newsroom, or other sources.	entailment
+Chihuahuapost.com has endorsed left-Center biased and questionable content.	entailment
+Chihuahuapost.com has an editorial bias towards **left-leaning political figures and movements**	entailment
+Chihuahuapost.com printed a factually misleading titled "Tucker Carlson’s extremist recommendation to the Republicans: The US should bomb Mexico"	entailment
+Chihuahua Post is funded by the Mexican government	entailment
+Chihuahuapost.com is a **Left-Center biased and questionable**	entailment
+Chihuahuapost.com uses an internal fact-checking process	contradiction
+Chihuahuapost.com covers the following topics: Mexican politics, business, culture, sports, and local news related to Chihuahua	entailment

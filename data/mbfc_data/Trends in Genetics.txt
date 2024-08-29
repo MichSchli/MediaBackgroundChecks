@@ -1,0 +1,16 @@
+History
+Trends in Genetics is a peer-reviewed open-access journal published by Cell Press that covers genetic sciences. According to its
+[about page](https://www.cell.com/trends/genetics/aims), “Trends in Genetics was launched in 1985 and quickly became a “must read” journal for geneticists, known for its concise, accessible articles on a range of topics from developmental biology to evolution.”
+Cell Press, based in Cambridge, Massachusetts, publishes over
+[50 scientific journals](https://www.cell.com/). Cell Press Journals are 50% open-access as of 2024. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Trends in Genetics is published by Cell Press, which is a subsidiary of
+[Elsevier](https://en.wikipedia.org/wiki/Elsevier), a Dutch information and analytics company and one of the world’s foremost providers of scientific, technical, and medical information. It was established in 1880 as a publishing company. Elsevier’s parent company is RELX plc, a British multinational information and analytics company headquartered in London, England. The journal generates revenue through subscription fees and fees for open-access publishing.
+Analysis / Bias
+Trends in Genetics is a hybrid (some open-access) journal that publishes information on genetics. The journal primarily publishes research such as this:
+[Time will tell: comparing timescales to gain insight into transcriptional bursting](https://www.cell.com/trends/genetics/fulltext/S0168-9525(23)00258-5).
+Cell Press is an open-access/hybrid publisher of scientific journals. There are two types of Open Access Journals, legitimate and predatory, both of which charge the author for publication.
+[Predatory journals](https://predatoryjournals.com/about/) often lack peer review and are generally considered not credible. The Trends in Genetics is considered a [legitimate, open-access publisher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017830/) that is frequently indexed in [PubMed](https://mediabiasfactcheck.com/pubmed/). However, Cell Press has been criticized for [retracting some studies.](https://retractionwatch.com/category/by-journal/cell/)
+Although Cell Press has retracted some studies in other publications, Trends in Genetics publishes credible scientific studies that are factual and appropriately peer-reviewed.
+Failed Fact Checks
+- None in the Last 5 years

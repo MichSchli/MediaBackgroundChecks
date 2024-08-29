@@ -1,0 +1,20 @@
+Creative Destruction Media owns Miami Independent	entailment
+L Todd Wood is the owner of Miami Independent	entailment
+Creative Destruction Media bought Miami Independent	entailment
+Miami Independent is funded through **advertising and ad-free subscriptions**.	entailment
+The remit of Miami Independent is to **promote extreme right-wing conspiracy theories and pseudoscience, and publish news favoring the right, particularly former President Trump.**	entailment
+The mission of Miami Independent is to create Miami, and Florida’s premier investigative newspaper, and will bring truth no matter where that truth lands.	contradiction
+The usual audience of Miami Independent is **conservative**	entailment
+The Miami Independent tends to the extreme right-biased imposter website	entailment
+Other sources have commented on Miami Independent, stating that it tends to be extreme right-biased.	entailment
+The factuality of Miami Independent is reported to be Questionable	entailment
+The factuality of Miami Independent is reported to be Questionable, according to D. Van Zandt 10/28/2023	entailment
+Miami Independent relies on advertising for revenue	entailment
+Miami Independent relies on subscriptions for revenue	entailment
+Miami Independent relies on donations for revenue	entailment
+Miami Independent has endorsed **Donald Trump**	entailment
+Miami Independent has an editorial bias towards extreme right-biased impression website and Questionable based on the promotion of propaganda, conspiracy theories, pseudoscience, poor sourcing, and false claims. (D. Van Zandt 10/28/2023)	entailment
+Miami Independent printed a biased article titled Trump Train Keeps Chugging Along In Doral	entailment
+The Miami Independent is funded by the US government	contradiction
+Miami Independent is a **conservative**	contradiction
+"Miami Independent covers the following topics: **Conservative news and opinion, misinformation, local news related to Miami favoring the right, promotion of extreme right-wing conspiracy theories, pseudoscience, Covid-19 disinformation**"	entailment

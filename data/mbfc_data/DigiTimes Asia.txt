@@ -1,0 +1,15 @@
+History
+Founded in 1998,
+[DigiTimes Inc.](https://www.digitimes.com/about-us/) Inc. is a Taiwanese media company based in Taipei, Taiwan. The company mainly covers Taiwan and Greater China’s semiconductor, electronics, computer, and communications industries. [DigiTimes Inc.](https://www.linkedin.com/company/digitimes/) also has a research division called DigiTimes Research and a Chinese-language print newspaper. [Colley Hwang](https://www.linkedin.com/in/colley-hwang-06a8205/?originalSubdomain=tw) is the founder & president of DigiTimes.
+[Read our profile on Taiwan media and government.](https://mediabiasfactcheck.com/taiwan-roc-media-profile/)
+Funded by / Ownership
+Key management figures include Colley Hwang as President and the founder, Kenneth Tai as Chairman, and Rodney Chan as Managing Editor.
+[Memberships](https://www.digitimes.com/register/) and [advertisements ](https://www.digitimes.com/ads.asp)generate revenue.
+Analysis / Bias
+DigiTimes delivers news, analysis, and opinions on the tech industry, specifically focusing on semiconductors. The articles and headlines generally maintain a fact-based, low-bias approach. For instance, the article
+[“Taiwan’s ITRI Unveils Upcoming R&D Focuses as the Country Seeks to Fill Semiconductor Tech Gap”](https://www.digitimes.com/news/a20230912PD206/ai-b5g-ic-manufacturing-itri.html) reports on Taiwan’s Industrial Technology Research Institute (ITRI). It provides context for ITRI’s actions in relation to government policies and global industry trends, citing initiatives by President Tsai Ing-wen’s administration. This approach aims to place ITRI’s strategies within the context of government policies rather than passing judgment. It avoids explicit praise or positive framing towards President Tsai.
+Another reviewed article,
+[“German Reliance on ‘Special Funds’ Challenges the Balance between Sustainable Finance and Sustainable Investment”](https://www.digitimes.com/news/a20231120VL209/germany-subsidies-ic-manufacturing-military.html) presents factual information without an apparent slant towards any particular viewpoint. It discusses the impact of the German Federal Constitutional Court’s ruling on budgetary allocations, particularly affecting the semiconductor industry. The article maintains a neutral tone, sticking to a straightforward reporting style. It includes direct quotes from German officials and industry leaders, providing firsthand perspectives. Figures such as Robert Habeck, Germany’s Federal Minister for Economic Affairs; Steffi Lemke, Federal Minister of Environment; and Olaf Scholz, Chancellor of Germany, are quoted. Additionally, it references specific reports and data from entities like the Bundesbank and the Federal Court of Audit, lending credibility to the figures and statements presented.
+In summary, DigiTimes generally adheres to journalistic standards of factual reporting and balanced coverage. It cites its sources clearly, contributing to its credibility, which suggests a relatively neutral news presentation, focusing on information rather than opinion or bias.
+Failed Fact Checks
+- None in the Last 5 years

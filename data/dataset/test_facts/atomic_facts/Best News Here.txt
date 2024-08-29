@@ -1,0 +1,23 @@
+Bisera Nedeva owns Best News Here	entailment
+Bisera Nedeva is the owner of Best News Here	entailment
+Best News Here is funded through ***advertising***	entailment
+The remit of Best News Here is to **prey on conservatives and conspiracy theorists for clicks**	entailment
+The mission of Best News Here is to prey on conservatives and conspiracy theorists for clicks.	entailment
+The usual audience of Best News Here is conservatives	entailment
+Best News Here tends to the far-right	entailment
+Other sources have commented on Best News Here, stating that it tends to be far-right biased.	entailment
+The factuality of Best News Here is reported to be **low**	entailment
+The factuality of Best News Here is reported to be far-right biased, according to D. Van Zandt 9/4/2021.	entailment
+Best News Here failed a fact-check for an article titled **"The Supreme Court In The US Has Ruled That The Covid Pathogen Is Not A Vaccine, Is Unsafe, And Must Be Avoided At All Costs."**	entailment
+Best News Here provides original content written by staff journalists	entailment
+Best News Here relies on advertising for revenue	entailment
+Best News Here relies on subscriptions for revenue	entailment
+Best News Here relies on donations for revenue	contradiction
+Best News Here has received donations from **advertising revenue**	entailment
+When aggregating stories, Best News Here relies on information from **purveyors of disinformation such as Natural News and X22 Report**	entailment
+Best News Here has endorsedconservative readers and conspiracy theorists.	entailment
+Best News Here has an editorial bias towards  far-right.	entailment
+Best News Here printed a biased article titled "Dr. Sherri Tenpenny: MD’s Agree The Covid Vaccine Is A Bioweapon!"	entailment
+Best News Here printed a factually misleading titled "Dr. Sherri Tenpenny: MD’s Agree The Covid Vaccine Is A Bioweapon!"	entailment
+Best News Here is a far-right biased and Tin-Foil Hat Conspiracy and Quackery Level Pseudoscience website	entailment
+Best News Here covers the following topics: far-right biased news, pseudoscience, conspiracy theories, fake news, disinformation, pro-Trump propaganda, anti-vaccine conspiracies, HAARP, QAnon, 9/11 conspiracies, stories from purveyors of disinformation, and false claims.	entailment

@@ -1,0 +1,21 @@
+John Knowles Fitch founded Fitch Ratings	entailment
+John Knowles Fitch is the founder of Fitch Ratings	entailment
+Ian Linnell leads Fitch Ratings.	entailment
+Hearst owns Fitch Ratings	entailment
+Hearst is the owner of Fitch Ratings.	entailment
+Hearst bought Fitch Ratings	entailment
+Hearst acquired Fitch Ratings	entailment
+Fitch Ratings is funded through **Hearst**	entailment
+The remit of Fitch Ratings is to provide assessments for investors regarding the creditworthiness of companies and countries, credit ratings, commentary, and research.	entailment
+The usual audience of Fitch Ratings is investors	entailment
+Fitch Ratings tends to the Right-Center	entailment
+Other sources have commented on Fitch Ratings, stating that it tends to be Right-Center Biased	entailment
+The factuality of Fitch Ratings is reported to be High	entailment
+The factuality of Fitch Ratings is reported to be High, according to M. Huitsing	entailment
+Fitch Ratings chose not to cover political op-eds	entailment
+When aggregating stories, Fitch Ratings relies on information from **their most recent credit ratings and news related to financial markets**.	entailment
+Fitch Ratings has endorsed **Trump's impacts on the economy**	entailment
+Fitch Ratings was fined 	entailment
+Fitch Ratings printed a factually misleading titled "Fitch Downgrades Canal de Isabel II’s IDR to ‘BBB’ following Madrid’s Downgrade"	entailment
+Fitch Ratings is a credit rating agency	entailment
+Fitch Ratings covers the following topics: History, Funded by / Ownership, Analysis / Bias, Failed Fact Checks.	contradiction

@@ -1,0 +1,23 @@
+Newsquest Media Group Ltd owns Essex Echo.	entailment
+Newsquest Media Group Ltd is the owner of Essex Echo	entailment
+Newsquest Media Group Ltd bought Essex Echo	contradiction
+Newsquest Media Group Ltd acquired Essex Echo	contradiction
+Essex Echo is funded through advertising and subscription fees.	entailment
+The remit of Essex Echo is to cover local news for the Basildon area through reporters with minimal bias.	entailment
+The mission of Essex Echo is to report local news for the Basildon area through reporters with minimal bias.	entailment
+Essex Echo tends to the least biased.	entailment
+Essex Echo tends to the local news for the Basildon area according to minimal bias and credible sources.	entailment
+Other sources have commented on Essex Echo, stating that it tends to be **least biased**	entailment
+The factuality of Essex Echo is reported to be High	entailment
+The factuality of Essex Echo is reported to be High, according to Media Bias Fact Check.	entailment
+Essex Echo failed a fact-check for an article titled "Benfleet Sadlers Farm roundabout lane closed".	contradiction
+Essex Echo chose not to cover  Benfleet Sadlers Farm roundabout lane closed 	contradiction
+Essex Echo relies on advertising for revenue	entailment
+Essex Echo relies on subscriptions for revenue	entailment
+Essex Echo relies on donations for revenue	entailment
+When aggregating stories, Essex Echo relies on information from **first-person accounts and large quotes**.	entailment
+Essex Echo has endorsed least biased based on minimal editorializing of content.	entailment
+Essex Echo has an editorial bias towards least biased	entailment
+Essex Echo printed a biased article titled Least Biased Based on Minimal Editorializing of Content	contradiction
+Essex Echo printed a factually misleading titled "Benfleet Sadlers Farm roundabout lane closed".	entailment
+Essex Echo had to apologize for **None in the Last 5 years**	entailment

@@ -1,0 +1,22 @@
+Tax Justice Network acquired Tax Justice Network	contradiction
+Tax Justice Network is funded through donations.	entailment
+The remit of Tax Justice Network is to promote transparency in international finance, fairness in the public interest, and opposes secrecy.	entailment
+The mission of Tax Justice Network is to promote transparency in international finance, fairness in the public interest, and oppose secrecy.	entailment
+The Tax Justice Network tends to the **Left-Center Biased**	entailment
+Other sources have commented on Tax Justice Network, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of Tax Justice Network is reported to be High.	entailment
+The factuality of Tax Justice Network is reported to be High, according to a clean fact-check record.	entailment
+Tax Justice Network failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Tax Justice Network printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Tax Justice Network chose not to cover Failed Fact Checks.	entailment
+Tax Justice Network relies on advertising for revenue	contradiction
+Tax Justice Network relies on subscriptions for revenue	contradiction
+Tax Justice Network relies on donations for revenue	entailment
+Tax Justice Network has received donations from donors	entailment
+When aggregating stories, Tax Justice Network relies on information from **researchers and activists**.	entailment
+Tax Justice Network has endorsed progressive taxation with redistribution of wealth favored by the left	entailment
+Tax Justice Network has an editorial bias towards progressive taxation with redistribution of wealth favored by the left.	entailment
+Tax Justice Network had to apologize for **None in the Last 5 years**	entailment
+Tax Justice Network is funded by the United Kingdom government	contradiction
+Tax Justice Network is a Left-Center Biased	entailment
+Tax Justice Network covers the following topics: Tax avoidance, tax competition, and tax havens.	entailment

@@ -1,0 +1,26 @@
+Daniel C. Weber founded AMAC (Association of Mature American Citizens).	entailment
+Daniel C. Weber is the founder of AMAC (Association of Mature American Citizens)	entailment
+AMAC bought AMAC (Association of Mature American Citizens)	contradiction
+AMAC acquired AMAC (Association of Mature American Citizens)	contradiction
+AMAC (Association of Mature American Citizens) is funded through **its founder, Dan Weber, and the site indicates the rest is derived from membership fees and advertising**	entailment
+The remit of AMAC (Association of Mature American Citizens) is to unite citizens to defend our American way of life.	entailment
+The mission of AMAC (Association of Mature American Citizens) is to  defend our American way of life.	entailment
+The usual audience of AMAC (Association of Mature American Citizens) is **conservative**	entailment
+AMAC (Association of Mature American Citizens) tends to the conservative right.	entailment
+Other sources have commented on AMAC (Association of Mature American Citizens), stating that it tends to be **right biased**.	entailment
+The factuality of AMAC (Association of Mature American Citizens) is reported to be  Mixed	entailment
+The factuality of AMAC (Association of Mature American Citizens) is reported to beMixed, according to M. Huitsing	entailment
+AMAC (Association of Mature American Citizens) provides original content written by staff journalists	entailment
+AMAC (Association of Mature American Citizens) relies on advertising for revenue	entailment
+AMAC (Association of Mature American Citizens) relies on donations for revenue	entailment
+AMAC (Association of Mature American Citizens) has received donations from its founder, Dan Weber	entailment
+When aggregating stories, AMAC (Association of Mature American Citizens) relies on information from **strongly right-leaning sources**	entailment
+AMAC (Association of Mature American Citizens) has endorsed **conservative**	entailment
+AMAC (Association of Mature American Citizens) has an editorial bias towards conservative.	entailment
+Daniel C. Weber is the editor of AMAC (Association of Mature American Citizens)	contradiction
+AMAC (Association of Mature American Citizens) printed a biased article titled **"Portland Is the New Berkeley: 'Occupy ICE' and Antifa Mayhem"**	entailment
+AMAC (Association of Mature American Citizens) had to apologize for **failed fact checks**	entailment
+AMAC (Association of Mature American Citizens)'s headquarter is located in Lady Lake, Florida	entailment
+AMAC (Association of Mature American Citizens) is funded by the US government	entailment
+AMAC (Association of Mature American Citizens) is a conservative	entailment
+AMAC (Association of Mature American Citizens) covers the following topics: **History, Revenue, Analysis / Bias, Failed Fact Checks**.	entailment

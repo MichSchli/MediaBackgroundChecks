@@ -1,0 +1,22 @@
+Positive News Publishing Limited owns Positive News	entailment
+Positive News is the owner of Positive News	entailment
+Positive News bought Positive News	contradiction
+Positive News is funded through Subscription fees, Donations, and a shop that sells subscriptions and back issues.	entailment
+The remit of Positive News is to help create a more inspiring news medium.	entailment
+The mission of Positive News is to help create a more inspiring news medium.	entailment
+Positive News tends to the left	entailment
+Other sources have commented on Positive News, stating that it tends to be Left-Center Biased	entailment
+The factuality of Positive News is reported to be High	entailment
+The factuality of Positive News is reported to be high, according to proper sourcing	entailment
+Positive News chose not to cover failed fact checks	entailment
+Positive News relies on subscriptions for revenue	entailment
+Positive News relies on donations for revenue	entailment
+Positive News has received donations from subscription fees, a ship that sells subscriptions and back issues.	entailment
+When aggregating stories, Positive News relies on information from **proper sourcing**	entailment
+Positive News has endorsed Left-Center Biased	entailment
+Positive News has an editorial bias towards Left.	entailment
+Positive News printed a biased article titled "What can I do about climate change? Fourteen ways to take positive action".	entailment
+Positive News had to apologize for **None**	entailment
+Positive News had to apologize to no one for nothing	entailment
+Positive News is funded by the UK government	contradiction
+Positive News covers the following topics: solutions to problems rather than the negative.	entailment

@@ -1,0 +1,19 @@
+Advance Publications owns The Birmingham News.	entailment
+Advance Publications is the owner of The Birmingham News	entailment
+Advance Publications bought The Birmingham News	contradiction
+The Birmingham News is funded through advertising and subscription sales	entailment
+The remit of The Birmingham News is to cover local, national, sports, business, and lifestyle news.	entailment
+The Birmingham News tends to the **right-center**	entailment
+Other sources have commented on The Birmingham News, stating that it tends to be **Right-Center Biased**.	entailment
+The factuality of The Birmingham News is reported to be High	entailment
+The factuality of The Birmingham News is reported to be High, according to proper sourcing and a clean fact check record.	entailment
+The Birmingham News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Birmingham News chose not to cover failed fact checks	entailment
+The Birmingham News relies on advertising for revenue	entailment
+The Birmingham News relies on subscriptions for revenue	entailment
+The Birmingham News relies on donations for revenue	contradiction
+When aggregating stories, The Birmingham News relies on information from **the Associated Press**	entailment
+The Birmingham News has an editorial bias towards  right.	entailment
+The Birmingham News is funded by the government	contradiction
+The Birmingham News is a broadsheet newspaper	entailment
+The Birmingham News covers the following topics: local, national, sports, business, and lifestyle news.	entailment

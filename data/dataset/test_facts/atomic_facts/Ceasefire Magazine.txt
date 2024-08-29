@@ -1,0 +1,26 @@
+Hicham Yezza founded Ceasefire Magazine	entailment
+Hicham Yezza is the founder of Ceasefire Magazine	entailment
+Hicham Yezza owns Ceasefire Magazine	entailment
+Hicham Yezza is the owner of Ceasefire Magazine	entailment
+Hicham Yezza bought Ceasefire Magazine	contradiction
+Ceasefire Magazine is funded through reader donations	entailment
+The remit of Ceasefire Magazine is to cover a wide range of topics – from Arthouse to Žižek.	entailment
+The mission of Ceasefire Magazine is to **cover news, politics, reviews, analysis, art, and culture**	entailment
+The usual audience of Ceasefire Magazine is **left**.	entailment
+Ceasefire Magazine tends to the left	entailment
+Other sources have commented on Ceasefire Magazine, stating that it tends to be **left biased**.	entailment
+The factuality of Ceasefire Magazine is reported to be High	entailment
+The factuality of Ceasefire Magazine is reported to be High, according to Mediabiasfactcheck.	entailment
+Ceasefire Magazine failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Ceasefire Magazine relies on advertising for revenue	contradiction
+Ceasefire Magazine relies on subscriptions for revenue	entailment
+Ceasefire Magazine relies on donations for revenue	entailment
+Ceasefire Magazine has received donations from readers	entailment
+When aggregating stories, Ceasefire Magazine relies on information from **credible sources**	entailment
+Ceasefire Magazine has an editorial bias towards **the left**	entailment
+Hicham Yezza is the editor of Ceasefire Magazine	entailment
+Ceasefire Magazine printed a biased article titled "What kind of Labour anti-racist movement do we want?".	entailment
+Ceasefire Magazine printed a factually misleading titled "What kind of Labour anti-racist movement do we want?"	entailment
+Ceasefire Magazine is funded by the British government	contradiction
+Ceasefire Magazine is a **Left Biased**	entailment
+Ceasefire Magazine covers the following topics: news, politics, reviews, analysis, art, and culture.	entailment

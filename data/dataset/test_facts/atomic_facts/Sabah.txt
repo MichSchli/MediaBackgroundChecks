@@ -1,0 +1,23 @@
+Dinç Bilgin founded Sabah	contradiction
+Dinç Bilgin is the founder of Sabah	contradiction
+Kalyon Group leads Sabah	entailment
+Kalyon Group owns Sabah	entailment
+Kalyon Group bought Sabah	entailment
+Kalyon Group acquired Sabah	entailment
+Sabah is funded through subscriptions and advertising	entailment
+The mission of Sabah is to promote pro-government propaganda.	entailment
+The usual audience of Sabah is **pro-government and supporters of President Erdogan**	entailment
+Sabah tends to the right	entailment
+Other sources have commented on Sabah, stating that it tends to be **pro-government**.	entailment
+The factuality of Sabah is reported to be Right Biased.	entailment
+Sabah relies on advertising for revenue	entailment
+Sabah relies on subscriptions for revenue	entailment
+Sabah relies on donations for revenue	contradiction
+When aggregating stories, Sabah relies on information from **pro-government sources**	entailment
+Sabah has endorsed Turkey's right-leaning government.	entailment
+Sabah has an editorial bias towards the right-leaning government	entailment
+Sabah printed a biased article titled **Türkiye’nin maskeleri için sıraya girdiler**.	entailment
+Sabah printed a factually misleading titled "Erdoğan İslam dünyasının lideri"	entailment
+Sabah's headquarter is located in Istanbul	entailment
+Sabah is a Turkish daily newspaper	entailment
+Sabah covers the following topics: news, politics, sports, business, and entertainment.	entailment

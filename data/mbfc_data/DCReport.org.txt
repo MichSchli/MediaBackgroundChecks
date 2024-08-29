@@ -1,0 +1,10 @@
+History
+DCReport.org is a news and opinion website that covers The President and Congress. The website was created by
+[David Cay Johnston](https://en.wikipedia.org/wiki/David_Cay_Johnston), David Crook, and Adam Leipzig in January 2017. David Cay Johnston is an American investigative journalist, author, specialist in economics and tax issues, and winner of the 2001 Pulitzer Prize for Beat Reporting. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website is owned by a public charity whose founder and chief volunteer is David Cay Johnston. DCReport.org is funded through donations.
+Analysis / Bias
+In review, The DCReport has a left-center bias in reporting choices and occasionally uses loaded words in the headlines such as this:
+[Trump Fiddles As The World Burns … And Drowns, Dries And Dies.](https://www.dcreport.org/2018/10/10/trump-fiddles-as-the-world-burns/) This website has a clear anti-Trump bias but sources all information correctly. On the whole, most stories on this website favor the left, but not overtly.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,20 @@
+James H. Fetzer founded Assassination Science	contradiction
+James H. Metzer is the founder of Assassination Science	contradiction
+Assassination Science is funded through Donations.	entailment
+The remit of Assassination Science is to **cover topics such as 9-11, the moon hoax, and the JFK assassination**	entailment
+The mission of Assassination Science is to promote debunked or unproven conspiracy theories.	entailment
+The usual audience of Assassination Science is Tin-Foil Hat conspiracy theorists.	entailment
+Assassination Science tends to the  Tin-Foil Hat	entailment
+Other sources have commented on Assassination Science, stating that it tends to be a Tin-Foil Hat conspiracy website.	entailment
+The factuality of Assassination Science is reported to be low	entailment
+The factuality of Assassination Science is reported to be low, according to Media Bias/Fact Check.	entailment
+Assassination Science relies on advertising for revenue	contradiction
+Assassination Science relies on subscriptions for revenue	contradiction
+Assassination Science relies on donations for revenue	entailment
+When aggregating stories, Assassination Science relies on information from [papers opposed to war and Neocons](http://assassinationscience.com/LiesOfTheNeocons.pdf).	entailment
+Assassination Science has endorsed Tin-Foil Hat conspiracy theory	entailment
+Assassination Science has an editorial bias towards conspiracy theories	entailment
+Assassination Science printed a biased article titled "9/11 Manufactured Terrorism."	entailment
+Assassination Science is funded by the United States government	entailment
+Assassination Science is a Tin-Foil Hat conspiracy website	entailment
+Assassination Science covers the following topics: JFK assassination, 9/11, the moon hoax.	entailment

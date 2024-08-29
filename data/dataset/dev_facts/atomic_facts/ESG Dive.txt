@@ -1,0 +1,20 @@
+Sean Griffey founded ESG Dive	entailment
+Sean Griffey is the founder of ESG Dive	entailment
+Industry Dive owns ESG Dive	entailment
+Informa PLC acquired ESG Dive	entailment
+The remit of ESG Dive is to **provide in-depth journalism and insight into the most impactful news and trends shaping the ESG space. The newsletter and website cover topics such as sustainability, regulation, governance, risk and compliance, finance, and more.**	entailment
+The mission of ESG Dive is to provide in-depth journalism and insight into the most impactful news and trends shaping the ESG space.	entailment
+ESG Dive tends to the **Environmental, Social, and Corporate Governance space**	entailment
+ESG Dive tends to the least biased based on minimal editorializing of information according to D. Van Zandt 	entailment
+Other sources have commented on ESG Dive, stating that it tends to be **least biased**.	entailment
+The factuality of ESG Dive is reported to be least biased	entailment
+The factuality of ESG Dive is reported to be high, according to their profile on Mediabiasfactcheck.com.	entailment
+ESG Dive failed a fact-check for an article titled ExxonMobil sues ESG investors to block climate proposals	contradiction
+ESG Dive chose not to cover op-eds	entailment
+ESG Dive relies on advertising for revenue	entailment
+ESG Dive relies on subscriptions for revenue	contradiction
+ESG Dive relies on donations for revenue	contradiction
+When aggregating stories, ESG Dive relies on information from **credible media and information outlets**.	entailment
+ESG Dive has an editorial bias towards  least biased based on minimal editorializing of information.	entailment
+ESG Dive printed a factually misleading titled  "ExxonMobil sues ESG investors to block climate proposals"	entailment
+ESG Dive had to apologize for 	contradiction

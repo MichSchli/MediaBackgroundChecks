@@ -1,0 +1,18 @@
+Sigma Xi owns American Scientist	entailment
+Sigma Xi, The Scientific Research Society	entailment
+Sigma Xi: The Scientific Research Honor Society bought American Scientist	contradiction
+American Scientist is funded through **donations, memberships, and subscriptions**.	entailment
+The remit of American Scientist is to  cover science news.	entailment
+American Scientist tends to the pro-science source according to proper sourcing from credible medical journals and research.	entailment
+Other sources have commented on American Scientist, stating that it tends to be **pro-science**	entailment
+The factuality of American Scientist is reported to be pro-science	entailment
+The factuality of American Scientist is reported to be **high**, according to **Media Bias/Fact Check**	entailment
+American Scientist provides original content written by staff journalists	contradiction
+American Scientist relies on advertising for revenue	contradiction
+American Scientist relies on subscriptions for revenue	entailment
+American Scientist relies on donations for revenue	entailment
+American Scientist has received donations from **donations, memberships, and subscriptions**	entailment
+American Scientist has endorsed **pro-science**.	entailment
+American Scientist has an editorial bias towards pro-science	entailment
+American Scientist was fined **no instances of being fined**	entailment
+American Scientist had to apologize for [nothing found].	entailment

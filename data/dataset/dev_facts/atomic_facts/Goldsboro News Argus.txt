@@ -1,0 +1,19 @@
+Paxton Media Group owns Goldsboro News Argus	entailment
+Paxton Media Group is the owner of Goldsboro News Argus	entailment
+Paxton Media Group bought Goldsboro News Argus	entailment
+Paxton Media Group acquired Goldsboro News Argus	entailment
+Goldsboro News Argus is funded through advertising and subscriptions	entailment
+The mission of Goldsboro News Argus is to report national news by republishing articles from credible newsagents such as the Associated Press. They report local news through the use of journalists with minimal bias using neutral headlines such as Woman escapes injury in Fussell Street shooting. All information is properly sourced.	entailment
+The Goldsboro News Argus tends to the **right-center.**	entailment
+Goldsboro News Argus tends to the right-center biased according to credible news sources and a clean fact-check record	entailment
+Other sources have commented on Goldsboro News Argus, stating that it tends to be right-center biased.	entailment
+The factuality of Goldsboro News Argus is reported to be High	entailment
+The factuality of Goldsboro News Argus is reported to behigh, according to	entailment
+Goldsboro News Argus failed a fact-check for an article titled **Woman escapes injury in Fussell Street shooting**	contradiction
+The Goldsboro News Argus chose not to cover failed fact checks	entailment
+Goldsboro News Argus relies on advertising for revenue	entailment
+Goldsboro News Argus relies on subscriptions for revenue	contradiction
+Goldsboro News Argus relies on donations for revenue	contradiction
+When aggregating stories, Goldsboro News Argus relies on information from **credible newsagents**	entailment
+Goldsboro News Argus has an editorial bias towards right	entailment
+M. Huitsing is the editor of Goldsboro News Argus	entailment

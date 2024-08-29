@@ -1,0 +1,21 @@
+Maine Highlands News leads Maine Highlands News	contradiction
+Metric Media Foundation owns Maine Highlands News	entailment
+Metric Media LLC is the owner of Maine Highlands News	entailment
+Maine Highlands News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Maine Highlands News is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of Maine Highlands News is **conservative-leaning**	entailment
+Maine Highlands News tends to the right-center, biased, and Questionable	entailment
+Maine Highlands News tends to the right-center according to Media Bias/Fact Check	entailment
+Other sources have commented on Maine Highlands News, stating that it tends to be **right-center**.	contradiction
+The factuality of Maine Highlands News is reported to be Questionable	entailment
+The factuality of Maine Highlands News is reported to be Questionable, according to D. Van Zandt 	entailment
+Maine Highlands News chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+Maine Highlands News provides original content written by staff journalists	contradiction
+Maine Highlands News relies on advertising for revenue	entailment
+Maine Highlands News relies on donations for revenue	entailment
+When aggregating stories, Maine Highlands News relies on information from **algorithmically produced content**.	entailment
+Maine Highlands News has endorsed right-center, biased, and Questionable.	entailment
+Maine Highlands News has an editorial bias towards **right-center**	entailment
+Maine Highlands News printed a biased article titled **"Failed Fact Checks"**	entailment
+Maine Highlands News printed a factually misleading titled  "Imposter Site"	entailment
+Maine Highlands News had to apologize for **publishing false information**.	entailment

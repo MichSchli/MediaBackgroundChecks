@@ -1,0 +1,26 @@
+Mike Adams founded CaliforniaCollapse.News	entailment
+Mike Adams is the founder of CaliforniaCollapse.News	entailment
+Mike Adams owns CaliforniaCollapse.News	entailment
+Mike Adams is the owner of CaliforniaCollapse.News	entailment
+Mike Adams bought CaliforniaCollapse.News	entailment
+Mike Adams acquired CaliforniaCollapse.News	entailment
+CaliforniaCollapse.News is funded through online advertising	entailment
+The remit of CaliforniaCollapse.News is to  publish false information and conspiracy theories.	entailment
+The mission of CaliforniaCollapse.News is to **disseminate extreme right-wing biased information and pseudoscience**	entailment
+The usual audience of CaliforniaCollapse.News is **extreme right-biased Tin-Foil Hat Conspiracy website that also publishes pseudoscience**.	entailment
+CaliforniaCollapse.News tends to the extreme right-biased Tin-Foil Hat Conspiracy website.	entailment
+CaliforniaCollapse.News tends to the extreme right-biased Tin-Foil Hat Conspiracy website according to [mediabiasfactcheck.com](https://mediabiasfactcheck.com/california-collapse-news/)	entailment
+Other sources have commented on CaliforniaCollapse.News, stating that it tends to be **an extreme right-biased Tin-Foil Hat Conspiracy website**.	entailment
+The factuality of CaliforniaCollapse.News is reported to be extreme right-biased	entailment
+The factuality of CaliforniaCollapse.News is reported to be extreme right-biased , according to mediabiasfactcheck.com.	entailment
+CaliforniaCollapse.News failed a fact-check for an article titled "Climate change cultists are now taking over your local weather forecast."	entailment
+CaliforniaCollapse.News printed a retraction after failing a fact-check for an article titled Climate change cultists are now taking over your local weather forecast.	entailment
+CaliforniaCollapse.News chose not to cover **credible and factual news**	entailment
+CaliforniaCollapse.News relies on advertising for revenue	entailment
+CaliforniaCollapse.News relies on subscriptions for revenue	contradiction
+CaliforniaCollapse.News relies on donations for revenue	contradiction
+CaliforniaCollapse.News has received donations from online advertising	entailment
+When aggregating stories, CaliforniaCollapse.News relies on information from **Mike Adams**.	entailment
+CaliforniaCollapse.News has an editorial bias towards **extreme right-biased Tin-Foil Hat Conspiracy**	entailment
+CaliforniaCollapse.News printed a biased article titled **"California Collapse: Uncovering the Truth Behind Climate Change Denial"**	entailment
+CaliforniaCollapse.News had to apologize for **publishing disinformation that is dangerous and ridiculous**	entailment

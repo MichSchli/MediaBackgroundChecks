@@ -1,0 +1,21 @@
+Bruce Dold is the founder of Chicago Tribune	contradiction
+Bruce Dold is the CEO of Chicago Tribune	contradiction
+Tribune Publishing owns Chicago Tribune	entailment
+Tribune Publishing is the owner of Chicago Tribune	entailment
+Chicago Tribune is funded through a paid subscription and advertising model.	entailment
+The remit of Chicago Tribune is to **report local news and national/world news**	entailment
+Chicago Tribune tends to the Right-Center	entailment
+Chicago Tribune tends to the right-center according to Mediabiasfactcheck.	entailment
+Other sources have commented on Chicago Tribune, stating that it tends to be **right-center biased**	entailment
+The factuality of Chicago Tribune is reported to be High	entailment
+The factuality of Chicago Tribune is reported to be High, according to Mediabiasfactcheck.	entailment
+Chicago Tribune failed a fact-check for an article titled  "None in the Last 5 years"	contradiction
+Chicago Tribune printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+Chicago Tribune relies on advertising for revenue	entailment
+Chicago Tribune relies on subscriptions for revenue	entailment
+Chicago Tribune relies on donations for revenue	contradiction
+When aggregating stories, Chicago Tribune relies on information from [syndication](http://www.chicagotribune.com/news/opinion/editorials/ct-tribune-statement-of-principles-20160223-story.html) of the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Chicago Tribune has endorsed Libertarian Gary Johnson	entailment
+Chicago Tribune has an editorial bias towards right-leaning.	entailment
+Bruce Dold is the editor of Chicago Tribune	entailment
+Chicago Tribune had to apologize for **none in the Last 5 years**.	entailment

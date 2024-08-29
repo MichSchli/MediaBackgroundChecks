@@ -1,0 +1,24 @@
+Nexstar Media Group owns KLBK - Lubbock News	entailment
+Nexstar Media Group is the owner of KLBK - Lubbock News	entailment
+Nexstar Media Group bought KLBK - Lubbock News	entailment
+KLBK - Lubbock News is funded through advertising	entailment
+The remit of KLBK - Lubbock News is to provide news for the greater Lubbock, Texas, area.	entailment
+The mission of KLBK - Lubbock News is to **provide news, sports, weather, politics, and crime reporting**	entailment
+The usual audience of KLBK - Lubbock News is the greater Lubbock, Texas, area	entailment
+KLBK - Lubbock News tends to the **right**	entailment
+Other sources have commented on KLBK - Lubbock News, stating that it tends to be **Least Biased**.	entailment
+The factuality of KLBK - Lubbock News is reported to be High	entailment
+The factuality of KLBK - Lubbock News is reported to be High, according to Mediabiasfactcheck.	entailment
+KLBK - Lubbock News failed a fact-check for an article titled None in the last 5 years.	contradiction
+KLBK - Lubbock News printed a retraction after failing a fact-check for an article titled **None in the last 5 years**.	contradiction
+KLBK - Lubbock News chose not to cover op-eds.	entailment
+KLBK - Lubbock News provides original content written by staff journalists	entailment
+KLBK - Lubbock News relies on advertising for revenue	entailment
+KLBK - Lubbock News relies on donations for revenue	contradiction
+When aggregating stories, KLBK - Lubbock News relies on information from the Associated Press, and other large, credible media outlets.	entailment
+KLBK - Lubbock News has endorsed **least biased**	entailment
+KLBK - Lubbock News has an editorial bias towards Least Biased	entailment
+The biased article titled  is "None in the last 5 years."	entailment
+KLBK - Lubbock News had to apologize for NO FAILED FACT CHECKS.	entailment
+KLBK - Lubbock News is a TV station	entailment
+KLBK - Lubbock News covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

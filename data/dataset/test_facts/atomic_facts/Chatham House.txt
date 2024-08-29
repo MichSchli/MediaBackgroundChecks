@@ -1,0 +1,26 @@
+Lionel Curtis founded Chatham House.	entailment
+Lionel Curtis is the founder of Chatham House	entailment
+Sir Nigel Sheinwald is the CEO of Chatham House	contradiction
+Sir Nigel Sheinwald leads Chatham House	entailment
+Sir Nigel Sheinwald is the owner of Chatham House.	entailment
+Chatham House bought Chatham House	contradiction
+Chatham House is funded through government grants	entailment
+Chatham House tends to the **least biased**	entailment
+Other sources have commented on Chatham House, stating that it tends to be neutral.	entailment
+The factuality of Chatham House is reported to be High	entailment
+The factuality of Chatham House is reported to be High, according to M. Huitsing 11/24/2022	entailment
+Chatham House failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Chatham House printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+Chatham House relies on donations for revenue	entailment
+Chatham House has received donations from the government.	entailment
+When aggregating stories, Chatham House relies on information from credible sources	entailment
+Chatham House has endorsed **balanced research articles and minimal editorializing**.	entailment
+Chatham House has an editorial bias towards neutral headlines	entailment
+Chatham House was fined 0	entailment
+Chatham House printed a biased article titled None	entailment
+Chatham House printed a factually misleading titled **None**	entailment
+Chatham House had to apologize for **None in the Last 5 years**	entailment
+Chatham House had to apologize to Sweden for failing to predict the country's election results.	contradiction
+Chatham House's headquarter is located in London-UK	entailment
+Chatham House is a think tank	entailment
+Chatham House covers the following topics: foreign policy, international economics, and regional studies	entailment

@@ -1,0 +1,25 @@
+Jerry Taylor founded Niskanen Center	entailment
+Jerry Taylor is the founder of Niskanen Center	entailment
+Jerry Taylor is the CEO of Niskanen Center	contradiction
+Jerry Taylor leads Niskanen Center	entailment
+Niskanen Center acquired Niskanen Center	contradiction
+Niskanen Center is funded through donations and grants	entailment
+The remit of Niskanen Center is to **advocate for environmentalism, immigration reform, civil liberties, and a national defense policy based on libertarian principles**	entailment
+The mission of Niskanen Center is to advocate for.	entailment
+The usual audience of Niskanen Center is left-center biased	entailment
+The Niskanen Center tends to the left	entailment
+Other sources have commented on Niskanen Center, stating that it tends to be left-center biased.	entailment
+The factuality of Niskanen Center is reported to be High	entailment
+The factuality of Niskanen Center is reported to be High, according to Mediabiasfactcheck.com	entailment
+The Niskanen Center chose not to cover [global warming skepticism](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/)	entailment
+Niskanen Center relies on advertising for revenue	entailment
+Niskanen Center relies on donations for revenue	entailment
+Niskanen Center has received donations from the Hewlett Foundation	entailment
+When aggregating stories, Niskanen Center relies on information from [scientific journals](https://niskanencenter.org/blog/rightly-governing-solar-geoengineering-research/).	entailment
+Niskanen Center has endorsed left-leaning activism	entailment
+Niskanen Center has an editorial bias towards left-leaning activism	entailment
+Jerry Taylor is the editor of Niskanen Center	contradiction
+Niskanen Center's headquarter is located in Washington, D.C.	entailment
+Niskanen Center is funded by the United States government	entailment
+Niskanen Center is a nonprofit think-tank	entailment
+Niskanen Center covers the following topics: immigration reform, environmentalism, civil liberties, and a national defense policy based on libertarian principles.	entailment

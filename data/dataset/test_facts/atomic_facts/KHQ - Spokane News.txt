@@ -1,0 +1,23 @@
+Cowles Company is the founder of KHQ - Spokane News	entailment
+Cowles Company owns KHQ - Spokane News	entailment
+Cowles Company is the owner of KHQ - Spokane News	entailment
+KHQ - Spokane News is funded through subscriptions, advertising, and sponsored content.	entailment
+The remit of KHQ - Spokane News is to cover local news.	entailment
+The mission of KHQ - Spokane News is to provide local news, sports, weather, crime, and business news.	entailment
+The usual audience of KHQ - Spokane News is [local residents](https://www.nonstoplocal.com/spokane/).	entailment
+KHQ - Spokane News tends to the **right**	entailment
+Other sources have commented on KHQ - Spokane News, stating that it tends to be **least biased**	entailment
+The factuality of KHQ - Spokane News is reported to be High	entailment
+The factuality of KHQ - Spokane News is reported to be high, according to a review by Media Bias/Fact Check.	entailment
+KHQ - Spokane News failed a fact-check for an article titled "Biden Tests Negative For Covid".	contradiction
+KHQ - Spokane News chose not to cover opinion content.	entailment
+KHQ - Spokane News relies on advertising for revenue	entailment
+KHQ - Spokane News relies on subscriptions for revenue	entailment
+KHQ - Spokane News relies on donations for revenue	contradiction
+When aggregating stories, KHQ - Spokane News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+KHQ - Spokane News has an editorial bias towards Least Biased	entailment
+KHQ - Spokane News printed a biased article titled "Biden Tests Negative For Covid".	contradiction
+KHQ - Spokane News printed a factually misleading titled "Biden Tests Negative For Covid."	entailment
+KHQ - Spokane News had to apologize for [None in the Last 5 years].	entailment
+KHQ - Spokane News's headquarter is located in Spokane	entailment
+KHQ - Spokane News covers the following topics: local news, sports, weather, crime, and business news.	entailment

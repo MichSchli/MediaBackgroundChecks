@@ -1,0 +1,10 @@
+History
+[Founded in 2004](https://en.wikipedia.org/wiki/Bleeping_Computer) by Lawrence Abrams, Bleeping Computer is a computer help site that is a resource site for answering computer, security, and technical questions. Some services include malware and rootkit cleanup of infected computers and removal instructions on rogue anti-spyware programs. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Bleeping Computer is held by Bleeping Computer LLC, owned by Lawrence Abrams.
+[Revenue is generated](https://www.bleepingcomputer.com/about/) through affiliate links, product and download sales commissions, and advertising.
+Analysis / Bias
+In review, Bleeping Computer reports news on computer issues and, in particular, virus and malware prevention and removal. There is little use of biased wording such as this:
+[Microsoft Discovers Fileless Astaroth Trojan Campaign](https://www.bleepingcomputer.com/news/security/microsoft-discovers-fileless-astaroth-trojan-campaign/). This story, like all others, is properly sourced. Bleeping Computer does not report on politics or offer opinions. The only time politics is covered is when reporting how it relates to computers, such as this: [Trump Signs Bill Banning Kaspersky Products on Government Computers](https://www.bleepingcomputer.com/news/government/trump-signs-bill-banning-kaspersky-products-on-government-computers/).
+Failed Fact Checks
+- None in the Last 5 years

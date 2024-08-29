@@ -1,0 +1,11 @@
+History
+Founded in 2000 by
+[Roberto D’Agostino](https://www.dnb.com/business-directory/company-profiles.dagospia_spa.dcf9ac0117e4340e3ee3b3e69df4f324.html), Dagospia is an Italian website that coves celebrity news, gossip, and politics. The website lacks transparency as they do not provide an about page. Roberto D’Agostino hosts a TV program and is a frequent guest on Italian Interview shows. [Read our profile on Italian media and government.](https://mediabiasfactcheck.com/italy-media-profile/)
+Funded by / Ownership
+Roberto D’Agostino owns Dagospia through the holding company Dagospia Spa. Advertising generates revenue.
+Analysis / Bias
+Dagospia publishes news articles, photos, and videos from other sources. Most information comes from credible Italian sources; however, they also use poor sources such as Russian propaganda sites
+[RT News](https://mediabiasfactcheck.com/rt-news/) and [Sputnik](https://mediabiasfactcheck.com/sputnik-news/). We also found that they have republished content from the far-right conspiracy website [Infowars](https://mediabiasfactcheck.com/infowars-alex-jones/). The website site is laid out like a tabloid with big pictures and sensational headlines across the top. Many of the photographs are of female celebrities that lack clothing. While most content is republished with large sensationalized headlines, they also occasionally publish original content consisting of rumors that are often not sourced.
+While they occasionally use poor sources and sometimes do not provide a source at all, we have found instances of false or unproven claims. For example, they claimed that the Covid-19 virus was engineered in a Wuhan lab in the now-removed story. As of this date, there is no evidence to suggest the virus was engineered; however, it may have leaked from the lab. In general, Dagospia is a right-leaning, unreliable source for credible information.
+Failed Fact Checks
+- A third party has not fact-checked them; see the example above.

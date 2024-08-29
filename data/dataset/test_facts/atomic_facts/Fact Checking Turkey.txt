@@ -1,0 +1,21 @@
+Fact-Checking Turkey leads Fact Checking Turkey	contradiction
+Fact-Check Turkey owns Fact Checking Turkey.	contradiction
+The remit of Fact Checking Turkey is to counter articles critical of Turkey’s government	entailment
+The mission of Fact Checking Turkey is to counter articles critical of Turkey’s government.	entailment
+Fact Checking Turkey tends to the promotion of state propaganda.	entailment
+Other sources have commented on Fact Checking Turkey, stating that it tends to be Questionable	entailment
+The factuality of Fact Checking Turkey is reported to be  Questionable	entailment
+The factuality of Fact Checking Turkey is reported to be Questionable, according to M. Huitsing 7/6/2018	entailment
+Fact Checking Turkey failed a fact-check for an article titled **Wikipedia**	entailment
+Fact Checking Turkey chose not to cover [misleading claim regarding Wikipedia](https://www.poynter.org/news/these-fake-fact-checkers-are-peddling-lies-about-genocide-and-censorship-turkey).	entailment
+Fact Checking Turkey has received donations from President Erdogan’s son-in-law Berat Albayrak.	entailment
+When aggregating stories, Fact Checking Turkey relies on information from state-subsidized and factually mixed sources, such as Anadolu Agency, the Daily Sabah, and some credible international sources.	entailment
+Fact Checking Turkey has endorsed **the ruling AKP party**	entailment
+Fact Checking Turkey has an editorial bias towards the Turkish Government	entailment
+Fact Checking Turkey printed a biased article titled **Promotion of State Propaganda Disguised as Fact-Checking**	entailment
+Fact Checking Turkey had to apologize for ***making a misleading claim regarding Wikipedia.***	entailment
+Fact Checking Turkey's headquarter is located in Istanbul	entailment
+Fact Checking Turkey is a **Questionable**	entailment
+Fact Checking Turkey uses a peer review process	contradiction
+Fact Checking Turkey uses an internal fact-checking process	entailment
+Fact Checking Turkey covers the following topics: History, Funding, Analysis/Bias, Failed Fact Checks	entailment

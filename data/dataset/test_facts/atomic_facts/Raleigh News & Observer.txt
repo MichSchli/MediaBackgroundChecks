@@ -1,0 +1,24 @@
+The McClatchy Company owns Raleigh News & Observer	entailment
+The McClatchy Company is the owner of Raleigh News & Observer	entailment
+The McClatchy Company bought Raleigh News & Observer	entailment
+The McClatchy Company acquired Raleigh News & Observer	entailment
+Raleigh News & Observer is funded through advertising and subscription fees	entailment
+The remit of Raleigh News & Observer is to cover local news through journalists with minimal bias, provide national and world news, and offer op-eds that tend to favor the left.	entailment
+The mission of Raleigh News & Observer is to report local news through journalists with minimal bias.	contradiction
+Raleigh News & Observer tends to the LEFT	entailment
+Other sources have commented on Raleigh News & Observer, stating that it tends to be Left-Center Biased	entailment
+The factuality of Raleigh News & Observer is reported to be High	entailment
+The factuality of Raleigh News & Observer is reported to be High, according to mediabiasfactcheck.com	entailment
+Raleigh News & Observer printed a retraction after failing a fact-check for an article titled "3 men face charges in heroin bust as suspect escapes, causes wrecks in Chapel Hill".	contradiction
+Raleigh News & Observer chose not to cover **failed fact checks**	entailment
+Raleigh News & Observer relies on advertising for revenue	entailment
+Raleigh News & Observer relies on subscriptions for revenue	entailment
+Raleigh News & Observer relies on donations for revenue	contradiction
+When aggregating stories, Raleigh News & Observer relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Raleigh News & Observer has endorsed Democrats	entailment
+Raleigh News & Observer has an editorial bias towards the left	entailment
+Raleigh News & Observer printed a biased article titled Left-Center Biased Based on Editorial Positions That Moderately Favor the Left	entailment
+The Raleigh News & Observer's headquarter is located in Raleigh	entailment
+The Raleigh News & Observer is funded by the private government	contradiction
+The Raleigh News & Observer is a regional daily newspaper	entailment
+Raleigh News & Observer covers the following topics: local news, national news, world news, editorial content, op-eds, presidential endorsements	entailment

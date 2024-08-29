@@ -1,0 +1,20 @@
+Bradley Cameron is the CEO of Central Ohio Today.	entailment
+Metric Media Foundation owns Central Ohio Today	entailment
+Metric Media LLC is the owner of Central Ohio Today	entailment
+Central Ohio Today is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Central Ohio Today is to **serve as an imposter site, lack transparency, and publish false information**	entailment
+The mission of Central Ohio Today is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of Central Ohio Today is right-center, biased, and Questionable.	entailment
+Central Ohio Today tends to the right-center, biased, and Questionable	entailment
+Central Ohio Today tends to the right-center according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/metric-media/)	entailment
+Other sources have commented on Central Ohio Today, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Central Ohio Today is reported to be Questionable	entailment
+The factuality of Central Ohio Today is reported to be Questionable, according to D. Van Zandt 	entailment
+Central Ohio Today relies on advertising for revenue	entailment
+Central Ohio Today relies on donations for revenue	entailment
+When aggregating stories, Central Ohio Today relies on information from **algorithmically produced content**.	entailment
+Central Ohio Today has endorsed right-center, biased, and Questionable	entailment
+Central Ohio Today has an editorial bias towards right-center.	entailment
+Central Ohio Today printed a biased article titled **Central Ohio Today is an imposter site, lacks transparency, and publishes false information.**	entailment
+Central Ohio Today printed a factually misleading titled **imposter site, lacks transparency, and publishes false information**.	entailment
+Central Ohio Today paid damages to  after 	entailment

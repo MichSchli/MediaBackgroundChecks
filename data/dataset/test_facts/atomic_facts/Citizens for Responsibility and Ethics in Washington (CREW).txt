@@ -1,0 +1,21 @@
+Norman Eisen founded Citizens for Responsibility and Ethics in Washington (CREW)	entailment
+Noah Bookbinder leads Citizens for Responsibility and Ethics in Washington (CREW)	entailment
+George Soros bought Citizens for Responsibility and Ethics in Washington (CREW)	entailment
+CREW acquired Citizens for Responsibility and Ethics in Washington (CREW)	contradiction
+Citizens for Responsibility and Ethics in Washington (CREW) is funded through donations	entailment
+The remit of Citizens for Responsibility and Ethics in Washington (CREW) is to reduce the influence of money in politics and foster a government that is ethical and accountable.	entailment
+The mission of Citizens for Responsibility and Ethics in Washington (CREW) is to reduce the influence of money in politics and help foster a government that is ethical and accountable.	entailment
+Citizens for Responsibility and Ethics in Washington (CREW) tends to the left.	entailment
+Other sources have commented on Citizens for Responsibility and Ethics in Washington (CREW), stating that it tends to be **left-center biased**	entailment
+The factuality of Citizens for Responsibility and Ethics in Washington (CREW) is reported to be mostly factual	entailment
+The factuality of Citizens for Responsibility and Ethics in Washington (CREW) is reported to be mostly factual, according to a review.	entailment
+Citizens for Responsibility and Ethics in Washington (CREW) chose not to cover top donors or financial information.	entailment
+Citizens for Responsibility and Ethics in Washington (CREW) relies on subscriptions for revenue	contradiction
+Citizens for Responsibility and Ethics in Washington (CREW) relies on donations for revenue	entailment
+Citizens for Responsibility and Ethics in Washington (CREW) has received donations from **funded through donations**.	entailment
+When aggregating stories, Citizens for Responsibility and Ethics in Washington (CREW) relies on information from left-leaning sources.	entailment
+Citizens for Responsibility and Ethics in Washington (CREW) has endorsed conservatives	contradiction
+Citizens for Responsibility and Ethics in Washington (CREW) has an editorial bias towards **the left**	entailment
+Citizens for Responsibility and Ethics in Washington (CREW) paid damages to  after 	entailment
+Citizens for Responsibility and Ethics in Washington (CREW)'s headquarter is located in Washington DC	entailment
+Citizens for Responsibility and Ethics in Washington (CREW) is a nonpartisan watchdog group.	contradiction

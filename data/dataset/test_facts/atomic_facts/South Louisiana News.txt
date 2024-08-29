@@ -1,0 +1,24 @@
+South Louisiana News leads South Louisiana News	contradiction
+Metric Media Foundation owns South Louisiana News	entailment
+Metric Media LLC is the owner of South Louisiana News	entailment
+The South Louisiana News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of South Louisiana News is to **publish false information**	entailment
+The mission of South Louisiana News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of South Louisiana News is **right-center, biased, and Questionable**.	entailment
+The South Louisiana News tends to the right-center	entailment
+Other sources have commented on South Louisiana News, stating that it tends to be right-center.	entailment
+The factuality of South Louisiana News is reported to be Questionable	entailment
+The factuality of South Louisiana News is reported to be Questionable, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/metric-media/)	entailment
+South Louisiana News failed a fact-check for an article titled **Imposter Site, Lacks Transparency, and Publishes False Information**	entailment
+South Louisiana News provides original content written by staff journalists	contradiction
+South Louisiana News relies on advertising for revenue	entailment
+South Louisiana News relies on subscriptions for revenue	contradiction
+South Louisiana News relies on donations for revenue	entailment
+South Louisiana News has received donations from the Metric Media Foundation	entailment
+When aggregating stories, South Louisiana News relies on information from **algorithmically produced content**	entailment
+The South Louisiana News has endorsed a conservative agenda	entailment
+The South Louisiana News has an editorial bias towards right-center.	entailment
+South Louisiana News printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information".	entailment
+South Louisiana News printed a factually misleading titled  "**Metric Media Sites Fail to Disclose Conservative Agenda**"	entailment
+The South Louisiana News is a **questionable**	entailment
+South Louisiana News covers the following topics: Conservative-leaning news.	entailment

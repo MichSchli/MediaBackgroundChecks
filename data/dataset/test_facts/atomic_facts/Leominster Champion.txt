@@ -1,0 +1,24 @@
+CherryRoad Media owns Leominster Champion	entailment
+CherryRoad Media is the owner of Leominster Champion	entailment
+CherryRoad Media bought Leominster Champion	contradiction
+Leominster Champion is funded through advertising and paid subscriptions	entailment
+The remit of Leominster Champion is to cover news, sports, community, and crime for the Leominster, Massachusetts, area.	entailment
+The mission of Leominster Champion is to **cover news, sports, community, and crime for the greater Leominster, Massachusetts, area.**	entailment
+Leominster Champion tends to the local, national, sports, weather, and crime news for the Leominster Area.	entailment
+Other sources have commented on Leominster Champion, stating that it tends to be **Least Biased**	entailment
+The factuality of Leominster Champion is reported to be High	entailment
+The factuality of Leominster Champion is reported to be High, according to [mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Leominster Champion failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Leominster Champion printed a retraction after failing a fact-check for an article titled "Fitchburg State University CenterStage welcomes acclaimed singer John McDermott".	contradiction
+Leominster Champion chose not to cover **national and international news**	contradiction
+Leominster Champion provides original content written by staff journalists	entailment
+Leominster Champion relies on advertising for revenue	entailment
+Leominster Champion relies on subscriptions for revenue	entailment
+When aggregating stories, Leominster Champion relies on information from **the Associated Press**	entailment
+Leominster Champion has endorsed Least Biased	entailment
+Leominster Champion has an editorial bias towards Least Biased	entailment
+David Van Zandt is the editor of Leominster Champion	contradiction
+Leominster Champion printed a biased article titled "None in the Last 5 years"	contradiction
+Leominster Champion had to apologize for - None in the Last 5 years	entailment
+The Leominster Champion's headquarter is located in Leominster	entailment
+Leominster Champion is a newspaper	entailment

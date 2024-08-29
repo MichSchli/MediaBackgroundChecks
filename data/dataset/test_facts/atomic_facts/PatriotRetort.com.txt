@@ -1,0 +1,27 @@
+Diann Russell founded PatriotRetort.com	entailment
+Diann Russell is the CEO of PatriotRetort.com	entailment
+Diann Russell owns PatriotRetort.com	entailment
+Diann Russell is the owner of PatriotRetort.com	entailment
+Diann Russell bought PatriotRetort.com	contradiction
+PatriotRetort.com is funded through advertising, donations, and subscriptions.	entailment
+The remit of PatriotRetort.com is to **provide opinion pieces with a right-wing bias in reporting**	entailment
+The mission of PatriotRetort.com is to opinions that align with the right.	entailment
+The usual audience of PatriotRetort.com is right-leaning.	entailment
+PatriotRetort.com tends to the right.	entailment
+Other sources have commented on PatriotRetort.com, stating that it tends to be Right biased.	entailment
+The factuality of PatriotRetort.com is reported to be Mixed	entailment
+The factuality of PatriotRetort.com is reported to be Mixed, according to D. Van Zandt 9/21/2018.	entailment
+PatriotRetort.com chose not to cover fact checks by an IFCN fact checker	entailment
+PatriotRetort.com relies on advertising for revenue	entailment
+PatriotRetort.com relies on subscriptions for revenue	entailment
+PatriotRetort.com relies on donations for revenue	entailment
+When aggregating stories, PatriotRetort.com relies on information from **tweets and Youtube links**.	entailment
+PatriotRetort.com has endorsed **the right and denigrated the left**	entailment
+PatriotRetort.com has an editorial bias towards **the right**	entailment
+PatriotRetort.com printed a biased article titled **Operation Smear Kavanaugh is blowing up**	entailment
+PatriotRetort.com printed a factually misleading titled **"Operation Smear Kavanaugh is blowing up"**.	entailment
+PatriotRetort.com had to apologize for **lack of sourcing**	entailment
+PatriotRetort.com is funded by the United States government.	contradiction
+PatriotRetort.com is a **blog**	entailment
+PatriotRetort.com uses an internal fact-checking process	contradiction
+PatriotRetort.com covers the following topics: opinion articles with a right-wing bias	entailment

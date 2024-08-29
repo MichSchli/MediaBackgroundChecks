@@ -1,0 +1,21 @@
+Paxton Media Group owns Van Buren County Democrat	entailment
+Paxton Media Group is the owner of Van Buren County Democrat	entailment
+Paxton Media Group bought Van Buren County Democrat	entailment
+Paxton Media Group acquired Van Buren County Democrat	entailment
+Van Buren County Democrat is funded through **advertising and subscriptions**.	entailment
+The remit of Van Buren County Democrat is to  report local news, hometown politics, business news, local events, and sports.	entailment
+The mission of Van Buren County Democrat is to **deliver local news, hometown politics, business news, local events, and sports**	entailment
+The usual audience of Van Buren County Democrat is right-center biased	entailment
+Van Buren County Democrat tends to the right-center.	entailment
+Other sources have commented on Van Buren County Democrat, stating that it tends to be **right-center biased**.	entailment
+The factuality of Van Buren County Democrat is reported to be High	entailment
+The factuality of Van Buren County Democrat is reported to be **High**, according to **credible news sources and a clean fact-check record**.	entailment
+Van Buren County Democrat failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Van Buren County Democrat relies on advertising for revenue	entailment
+Van Buren County Democrat relies on subscriptions for revenue	contradiction
+Van Buren County Democrat relies on donations for revenue	contradiction
+When aggregating stories, Van Buren County Democrat relies on information from the Associated Press.	entailment
+Van Buren County Democrat has endorsed right-center biased	entailment
+Van Buren County Democrat has an editorial bias towards right	entailment
+Van Buren County Democrat's headquarter is located in Clinton	entailment
+Van Buren County Democrat is a newspaper	entailment

@@ -1,0 +1,24 @@
+Tristram Coffin founded The Washington Spectator	entailment
+Tristram Coffin is the founder of The Washington Spectator	entailment
+The Public Concern Foundation is the owner of The Washington Spectator	entailment
+The Washington Spectator is funded through **print subscription sales and donations**	entailment
+The remit of The Washington Spectator is to deliver a unique blend of sharp-edged investigative reporting, informed social and political commentary, and cultural criticism and essays on topics ranging from popular cinema to the new women’s movement, to the recent advances in artificial intelligence.	entailment
+The mission of The Washington Spectator is to deliver a unique blend of sharp-edged investigative reporting, informed social and political commentary, and cultural criticism and essays on topics ranging from popular cinema to the new women’s movement, to the recent advances in artificial intelligence.	entailment
+The usual audience of The Washington Spectator is **liberals**	entailment
+The Washington Spectator tends to the left	entailment
+Other sources have commented on The Washington Spectator, stating that it tends to be **left-leaning**.	entailment
+The factuality of The Washington Spectator is reported to be High	entailment
+The factuality of The Washington Spectator is reported to be High, according to Mediabiasfactcheck.	entailment
+The Washington Spectator printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Washington Spectator chose not to cover climate change	contradiction
+The Washington Spectator relies on subscriptions for revenue	entailment
+The Washington Spectator relies on donations for revenue	entailment
+The Washington Spectator has received donations from The Public Concern Foundation	entailment
+When aggregating stories, The Washington Spectator relies on information from credible media outlets such as Politifact, New York Times, and the CDC.	entailment
+The Washington Spectator has endorsed left-leaning policies.	entailment
+The Washington Spectator has an editorial bias towards **left**.	entailment
+The Washington Spectator printed a biased article titled Anatomy of Deceit: Team Trump Deploys Doctors with Dubious Qualifications to Push Fake Cure for Covid-19	entailment
+The Washington Spectator's headquarters is located in New York City	entailment
+The Washington Spectator is funded by the United States government	contradiction
+The Washington Spectator is a **monthly liberal independent political periodical**	entailment
+The Washington Spectator covers the following topics: politics, the world, culture, and the economy	entailment

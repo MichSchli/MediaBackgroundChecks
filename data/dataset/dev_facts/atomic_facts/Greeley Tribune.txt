@@ -1,0 +1,20 @@
+MediaNews Group owns Greeley Tribune	entailment
+MediaNews Group is the owner of Greeley Tribune	entailment
+MediaNews Group bought Greeley Tribune	entailment
+MediaNews Group acquired Greeley Tribune	entailment
+Greeley Tribune is funded through Advertising and subscription fees.	entailment
+The mission of Greeley Tribune is to  report local news and provide information to the northern Colorado region.	entailment
+The usual audience of Greeley Tribune is Right-Center Biased	entailment
+Greeley Tribune tends to the Right-Center Bias	entailment
+Greeley Tribune tends to the right-center according to Media Bias/Fact Check	entailment
+Other sources have commented on Greeley Tribune, stating that it tends to be Right-Center Biased.	entailment
+The factuality of Greeley Tribune is reported to be High	entailment
+The factuality of Greeley Tribune is reported to be high, according to Mediabiasfactcheck.	entailment
+Greeley Tribune failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Greeley Tribune printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+Greeley Tribune chose not to cover **failed fact checks**	entailment
+Greeley Tribune relies on advertising for revenue	entailment
+Greeley Tribune relies on subscriptions for revenue	entailment
+Greeley Tribune relies on donations for revenue	contradiction
+The Greeley Tribune has endorsed Republican candidates	entailment
+Greeley Tribune has an editorial bias towards Republican candidates	entailment

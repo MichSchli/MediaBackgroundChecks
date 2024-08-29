@@ -1,0 +1,14 @@
+History
+Rolling Out, an Atlanta-based website covers a range of topics from news to entertainment. Despite its broad content, the site’s
+[“About Us”](https://rollingout.com/about-us/) page offers no substantial information about the organization, featuring only placeholder text, which raises transparency concerns. More details about Rolling Out’s focus on Urban Lifestyle, Entertainment, and Music can be found on its [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The ownership information is not clearly stated. However,
+[blackenterprise.com](https://mediabiasfactcheck.com/black-enterprise-magazine-bias/) states [Munson Steed](https://www.blackenterprise.com/cool-jobs-munson-steed-rolling-out-magazine/), through his company Steed Media Group, owns Rolling Out. Revenue is generated through advertising.
+Analysis / Bias
+The article
+[“White House Working to make childcare more affordable for Families](https://rollingout.com/2023/07/25/white-house-child-care/)” provides a straightforward account of the White House’s efforts to make childcare more affordable. The language used is mostly neutral, with statements directly attributed to Jennifer Klein, the assistant to the president and director of the White House Gender Policy Council. The article cites direct statements from Jennifer Klein, providing a primary source for the information presented as they conducted the interview.
+However, the piece
+[“Sen. Tommy Tuberville draws scorn for not calling White nationalists ‘racists'”](https://rollingout.com/2023/07/12/tommy-tuberville-white-nationalists/) exhibits a critical tone towards Senator Tuberville’s comments. The article emphasizes the bipartisan backlash he received, using terms like “rancor” and “ambiguous.” This suggests a critical stance on Tuberville’s reluctance to label White nationalists as “racists.”
+When it comes to sourcing, they rarely hyperlink to external sources making it difficult to verify the information presented. In general, Rolling Out holds moderate left-leaning biases in story selection, poorly sources information, and lacks transparency, thereby lowering its credibility.
+Failed Fact Checks
+[Private prisons sue states for millions of dollars if “lockup quotas” are not met, incentivizing incarceration.](https://www.truthorfiction.com/are-private-prisons-suing-states-for-millions-of-contract-quotas/)– Misleading

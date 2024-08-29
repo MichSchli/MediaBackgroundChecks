@@ -1,0 +1,23 @@
+Gray Television owns WPTA - Fort Wayne	entailment
+Gray Television is the owner of WPTA - Fort Wayne	entailment
+Gray Television bought WPTA - Fort Wayne	entailment
+Gray Television acquired WPTA - Fort Wayne	contradiction
+WPTA - Fort Wayne is funded through Sponsored content and advertising generate revenue.	entailment
+The remit of WPTA - Fort Wayne is to **provide news coverage**	entailment
+The mission of WPTA - Fort Wayne is to report the news factually and with minimal bias.	entailment
+WPTA - Fort Wayne tends to the Least Biased	entailment
+Other sources have commented on WPTA - Fort Wayne, stating that it tends to be **least biased**	entailment
+The factuality of WPTA - Fort Wayne is reported to be High	entailment
+The factuality of WPTA - Fort Wayne is reported to be High, according to D. Van Zandt	entailment
+WPTA - Fort Wayne failed a fact-check for an article titled 	contradiction
+WPTA - Fort Wayne printed a retraction after failing a fact-check for an article titled None in the Last 5 years	contradiction
+WPTA - Fort Wayne chose not to cover an opinion page.	entailment
+WPTA - Fort Wayne relies on advertising for revenue	entailment
+WPTA - Fort Wayne relies on donations for revenue	contradiction
+When aggregating stories, WPTA - Fort Wayne relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WPTA - Fort Wayne has an editorial bias towards Least Biased	entailment
+WPTA - Fort Wayne printed a biased article titled "None in the Last 5 years"	contradiction
+WPTA - Fort Wayne had to apologize for  Failed Fact Checks	contradiction
+WPTA - Fort Wayne is funded by the private government	contradiction
+WPTA - Fort Wayne is a television station	entailment
+WPTA - Fort Wayne covers the following topics: local and national news, sports, weather, traffic, and entertainment.	entailment

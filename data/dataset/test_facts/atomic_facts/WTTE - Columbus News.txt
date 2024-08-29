@@ -1,0 +1,22 @@
+FOX founded WTTE - Columbus News	entailment
+WTTE - Columbus News leads the - Columbus News.	entailment
+Sinclair Broadcast Group owns WTTE - Columbus News	entailment
+Sinclair Broadcast Group is the owner of WTTE - Columbus News	entailment
+The remit of WTTE - Columbus News is to **report local news with minimal bias in wording**.	entailment
+The mission of WTTE - Columbus News is to **report local news with minimal bias in wording**	entailment
+WTTE - Columbus News tends to the Right	entailment
+Other sources have commented on WTTE - Columbus News, stating that it tends to be **right-leaning**	entailment
+The factuality of WTTE - Columbus News is reported to be High	entailment
+The factuality of WTTE - Columbus News is reported to be High, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+WTTE - Columbus News chose not to cover op-eds.	entailment
+WTTE - Columbus News relies on advertising for revenue	entailment
+WTTE - Columbus News relies on subscriptions for revenue	entailment
+WTTE - Columbus News relies on donations for revenue	contradiction
+When aggregating stories, WTTE - Columbus News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and others by Sinclair properties.	entailment
+WTTE - Columbus News has an editorial bias towards **the right**	entailment
+WTTE - Columbus News was fined 	entailment
+Sinclair Broadcast Group; ordering its stations to produce promos with an "anchor delivered journalistic responsibility message" dictated by the company.	entailment
+WTTE - Columbus News is funded by the United States government	entailment
+WTTE - Columbus News is a  Right-Center Biased	entailment
+WTTE - Columbus News uses a peer review process	entailment
+WTTE - Columbus News covers the following topics: local news, sports, weather, lifestyle, and crime reporting.	entailment

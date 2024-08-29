@@ -1,0 +1,19 @@
+PostMedia is the CEO of Sarnia This Week	contradiction
+PostMedia owns Sarnia This Week	entailment
+PostMedia is the owner of Sarnia This Week	entailment
+PostMedia acquired Sarnia This Week	entailment
+The Sarnia This Week is funded through advertising and subscription fees	entailment
+The remit of Sarnia This Week is to **report local and regional news through journalists with minimal loaded words.**	entailment
+The Sarnia This Week tends to the right	entailment
+Sarnia This Week tends to the right-center biased according to story selection and editorial positions.	entailment
+Other sources have commented on Sarnia This Week, stating that it tends to be Right-Center Biased	entailment
+The factuality of Sarnia This Week is reported to be High	entailment
+The factuality of Sarnia This Week is reported to be High, according to proper sourcing and a clean fact-check record	entailment
+Sarnia This Week failed a fact-check for an article titled "Sarnia mayor’s 2023 honour list recognizes community contributions".	contradiction
+Sarnia This Week chose not to cover **national news**.	contradiction
+Sarnia This Week provides original content written by staff journalists	entailment
+Sarnia This Week relies on advertising for revenue	entailment
+Sarnia This Week relies on subscriptions for revenue	entailment
+When aggregating stories, Sarnia This Week relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/).	entailment
+Sarnia This Week has an editorial bias towards Right-Center	entailment
+D. Van Zandt is the editor of Sarnia This Week	entailment

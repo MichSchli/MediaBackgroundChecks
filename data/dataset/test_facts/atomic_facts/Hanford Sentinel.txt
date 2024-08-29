@@ -1,0 +1,20 @@
+Santa Maria News Media Inc owns Hanford Sentinel	entailment
+Santa Maria News Media Inc is the owner of Hanford Sentinel	entailment
+Santa Maria News Media Inc bought Hanford Sentinel	entailment
+Santa Maria News Media Inc acquired Hanford Sentinel	entailment
+Hanford Sentinel is funded through advertising and subscription fees	entailment
+The remit of Hanford Sentinel is to **cover local news through staff journalists and with minimal bias**.	entailment
+The Hanford Sentinel tends to the left	contradiction
+Other sources have commented on Hanford Sentinel, stating that it tends to be **Least Biased**.	entailment
+The factuality of Hanford Sentinel is reported to be Mostly Factual	entailment
+The factuality of Hanford Sentinel is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+Hanford Sentinel chose not to cover Marijuana legalization	contradiction
+Hanford Sentinel provides original content written by staff journalists	entailment
+Hanford Sentinel relies on advertising for revenue	entailment
+Hanford Sentinel relies on subscriptions for revenue	entailment
+Hanford Sentinel relies on donations for revenue	contradiction
+When aggregating stories, Hanford Sentinel relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Hanford Sentinel has endorsed Marijuana legalization and healthcare	entailment
+Hanford Sentinel has an editorial bias towards slightly left	entailment
+Hanford Sentinel is a daily newspaper	entailment
+The Hanford Sentinel covers the following topics: local news, national news, editorials on marijuana legalization and healthcare, right-leaning editorials	entailment

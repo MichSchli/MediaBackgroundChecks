@@ -1,0 +1,18 @@
+Factchecker.in is funded through **donations**	entailment
+The remit of Factchecker.in is to fact-check	entailment
+The mission of Factchecker.in is to **fact-check claims from various political parties and figures**	entailment
+Factchecker.in tends to the **least biased and high in factual reporting**	entailment
+Factchecker.in tends to the least biased and high in factual reporting according to M. Huitsing	entailment
+Other sources have commented on Factchecker.in, stating that it tends to be least biased.	entailment
+The factuality of Factchecker.in is reported to be high	entailment
+The factuality of Factchecker.in is reported to be high, according to M. Huitsing 10/13/2023	entailment
+Factchecker.in failed a fact-check for an article titled "Congress Party’s Claim about Farmers’ Income Is Incorrect."	contradiction
+Factchecker.in chose not to cover **partisan bias**	contradiction
+Factchecker.in relies on advertising for revenue	contradiction
+Factchecker.in relies on subscriptions for revenue	entailment
+Factchecker.in relies on donations for revenue	entailment
+Factchecker.in has endorsed least biased and high in factual reporting	entailment
+Factchecker.in has an editorial bias towards **least biased and high in factual reporting**	entailment
+Factchecker.in printed a biased article titled "Congress Party’s Claim about Farmers’ Income Is Incorrect."	contradiction
+Factchecker.in printed a factually misleading titled "Congress Party’s Claim about Farmers’ Income Is Incorrect."	contradiction
+Factchecker.in had to apologize for **None in the Last 5 years.**	entailment

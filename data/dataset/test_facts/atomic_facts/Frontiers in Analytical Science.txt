@@ -1,0 +1,23 @@
+Frontiers Media SA owns Frontiers in Analytical Science	entailment
+Frontiers Media SA is the owner of Frontiers in Analytical Science	entailment
+Frontiers in Analytical Science is funded through digital sales of content and author fees for publication	entailment
+The remit of Frontiers in Analytical Science is to **publish information and research related to the field of Analytical Science**.	entailment
+The mission of Frontiers in Analytical Science is to publish rigorous research in the development and application of techniques for detecting, analyzing, and monitoring chemicals and chemical/biochemical systems.	entailment
+Frontiers in Analytical Science tends to the  Pro-Science	entailment
+Other sources have commented on Frontiers in Analytical Science, stating that it tends to be **Pro-Science**.	entailment
+The factuality of Frontiers in Analytical Science is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Analytical Science is reported to be Mostly Factual, according to D. Van Zandt	entailment
+Frontiers in Analytical Science failed a fact-check for an article titled *None in the Last 5 years*	contradiction
+Frontiers in Analytical Science printed a retraction after failing a fact-check for an article titled **Distinct glycosylation and functional profile of typhoid vaccine-induced antibodies in a UK challenge study and Nepalese children**	contradiction
+Frontiers in Analytical Science chose not to cover **failed fact checks**	entailment
+Frontiers in Analytical Science relies on advertising for revenue	contradiction
+Frontiers in Analytical Science relies on subscriptions for revenue	contradiction
+Frontiers in Analytical Science relies on donations for revenue	contradiction
+Frontiers in Analytical Science has received donations from digital sales of content and author fees for publication	entailment
+When aggregating stories, Frontiers in Analytical Science relies on information from **research related to the field of Analytical Science**.	entailment
+Frontiers in Analytical Science has endorsed Pro-Science	entailment
+Frontiers in Analytical Science has an editorial bias towards  Pro-Science .	entailment
+Frontiers in Analytical Science is funded by the Swiss government	contradiction
+Frontiers in Analytical Science is a journal	entailment
+Frontiers in Analytical Science uses a peer review process	entailment
+Frontiers in Analytical Science covers the following topics: techniques for analyzing chemicals and biochemical systems	entailment

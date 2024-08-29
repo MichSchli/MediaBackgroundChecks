@@ -1,0 +1,24 @@
+Nathan Cole Jr. is the founder of LA Times	entailment
+Patrick Soon-Shiong leads LA Times	entailment
+Biotech billionaire Dr. Patrick Soon-Shiong owns LA Times	entailment
+Patrick Soon-Shiong bought LA Times	entailment
+Tribune Co. acquired LA Times	entailment
+LA Times is funded through advertising, subscriptions, and newsstand sales.	entailment
+The remit of LA Times is to cover local/national news, business, entertainment, political analysis, and sports news.	entailment
+The mission of LA Times is to cover local/national news, business, entertainment, political analysis, and sports news.	entailment
+LA Times tends to the left	entailment
+Other sources have commented on LA Times, stating that it tends to be left.	entailment
+The factuality of LA Times is reported to be High	entailment
+The factuality of LA Times is reported to be High, according to 	entailment
+LA Times failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+LA Times provides original content written by staff journalists	entailment
+LA Times relies on advertising for revenue	entailment
+LA Times relies on subscriptions for revenue	entailment
+LA Times relies on donations for revenue	contradiction
+When aggregating stories, LA Times relies on information from **their journalists**	entailment
+LA Times has an editorial bias towards left	entailment
+LA Times printed a biased article titled **"Engaging with the world doesn’t make Americans ‘suckers’"**	entailment
+LA Times's headquarter is located in Los Angeles	entailment
+The LA Times is funded by the private government.	contradiction
+LA Times is a newspaper.	entailment
+LA Times covers the following topics: local/national news, business, entertainment, political analysis, and sports news.	entailment

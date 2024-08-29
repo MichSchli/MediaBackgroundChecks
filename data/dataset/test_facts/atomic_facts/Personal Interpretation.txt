@@ -1,0 +1,24 @@
+Personal Interpretation is the founder of Personal Interpretation	entailment
+Personal Interpretation owns Personal Interpretation	entailment
+Personal Interpretation bought Personal Interpretation	entailment
+Personal Interpretation is funded through **advertising generates revenue**.	entailment
+The remit of Personal Interpretation is to promote anti-Muslim propaganda through an anonymous network.	entailment
+The mission of Personal Interpretation is to promote anti-Muslim propaganda	entailment
+The usual audience of Personal Interpretation is  extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency.	entailment
+Personal Interpretation tends to the **extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency**.	entailment
+Other sources have commented on Personal Interpretation, stating that it tends to be Questionable.	entailment
+The factuality of Personal Interpretation is reported to be **Questionable**	entailment
+The factuality of Personal Interpretation is reported to be Questionable, according to D. Van Zandt 	entailment
+Personal Interpretation failed a fact-check for an article titled "TURKEY – woman, was executed by acid after over rumors that she mocked Islam"	entailment
+Personal Interpretation printed a retraction after failing a fact-check for an article titled **TURKEY – woman, was executed by acid after over rumors that she mocked Islam**	contradiction
+Personal Interpretation chose not to cover extreme right-wing bias	contradiction
+Personal Interpretation provides original content written by staff journalists	contradiction
+Personal Interpretation relies on advertising for revenue	entailment
+Personal Interpretation has endorsed anti-Muslim propaganda.	entailment
+Personal Interpretation has an editorial bias towards extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency.	entailment
+Personal Interpretation printed a biased article titled **TURKEY – woman, was executed by acid after over rumors that she mocked Islam**.	contradiction
+Personal Interpretation printed a factually misleading titled **"TURKEY – woman, was executed by acid after over rumors that she mocked Islam"**	entailment
+Personal Interpretation had to apologize for **false claims, and a complete lack of transparency**	entailment
+Personal Interpretation is a  hate group.	entailment
+Personal Interpretation uses an internal fact-checking process	contradiction
+Personal Interpretation covers the following topics: extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency.	entailment

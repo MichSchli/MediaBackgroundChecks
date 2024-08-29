@@ -1,0 +1,17 @@
+The Christian Left is funded through donations and a shop that sells branded merchandise.	entailment
+The remit of The Christian Left is to **advocate for liberal policies and focus on social justice for all**.	entailment
+The mission of The Christian Left is to advocate for social justice for all	entailment
+The usual audience of The Christian Left is a left-leaning editorial bias that favors a progressive perspective.	entailment
+The Christian Left tends to the **Left-Center**	entailment
+Other sources have commented on The Christian Left, stating that it tends to be Left-Center biased.	entailment
+The factuality of The Christian Left is reported to be  mostly factually	entailment
+The factuality of The Christian Left is reported to be mostly factually, according to a lack of transparency and sometimes using poor sourcing techniques	entailment
+The Christian Left chose not to cover abortion issues	contradiction
+The Christian Left relies on advertising for revenue	contradiction
+The Christian Left relies on donations for revenue	entailment
+The Christian Left has endorsed **liberal policies such as pro-choice with abortion and pro-LGBT rights**.	entailment
+The Christian Left has an editorial bias towards **a progressive perspective**	entailment
+The Christian Left paid damages to None in the Last 5 years after a lack of transparency.	entailment
+The Christian Left is funded by the United States government	contradiction
+The Christian Left is a news and information blog	entailment
+The Christian Left covers the following topics: abortion, LGBTQ equality, Reaganomics, and evolution	entailment

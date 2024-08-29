@@ -1,0 +1,24 @@
+Glacier Media Group owns Powell River Peak	entailment
+Glacier Media Group is the owner of Powell River Peak	entailment
+Glacier Media Group bought Powell River Peak	entailment
+Powell River Peak is funded through advertising and subscriptions	entailment
+The mission of Powell River Peak is to **publish sports, weather, national, world, and local news for the greater Powell River, BC region**.	entailment
+The usual audience of Powell River Peak is local residents.	entailment
+Powell River Peak tends to the left	entailment
+Other sources have commented on Powell River Peak, stating that it tends to be Left-Center Biased	entailment
+The factuality of Powell River Peak is reported to be High	entailment
+The factuality of Powell River Peak is reported to be High, according to D. Van Zandt.	entailment
+Powell River Peak failed a fact-check for an article titled "Canada Day was ‘Humiliation Day’ for Chinese immigrants"	contradiction
+Powell River Peak relies on advertising for revenue	entailment
+Powell River Peak relies on subscriptions for revenue	entailment
+Powell River Peak relies on donations for revenue	contradiction
+When aggregating stories, Powell River Peak relies on information from [the Canadian Press](https://mediabiasfactcheck.com/2018/06/15/fact-check-of-trumps-canadian-trade-stats/), [the Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Powell River Peak has endorsed Left-Center Biased	entailment
+Powell River Peak has an editorial bias towards left.	entailment
+Daniel Van Zandt is the editor of Powell River Peak	entailment
+Powell River Peak printed a biased article titled "Monique Keiran: Canada Day was ‘Humiliation Day’ for Chinese immigrants".	entailment
+Powell River Peak had to apologize for None in the Last 5 years	entailment
+Powell River Peak's headquarter is located in Powell River	entailment
+Powell River Peak is funded by the Canadian government	entailment
+Powell River Peak is a newspaper	entailment
+Powell River Peak covers the following topics: sports, weather, national, world, and local news.	entailment

@@ -1,0 +1,21 @@
+Hearst Communications owns KSBW - Monterey News	entailment
+Hearst Communications is the owner of KSBW - Monterey News	entailment
+Hearst Communications bought KSBW - Monterey News	entailment
+Hearst Communications acquired KSBW - Monterey News	entailment
+KSBW - Monterey News is funded through advertising.	entailment
+The remit of KSBW - Monterey News is to report on news, crime, sports, weather, and entertainment for the greater Monterey and Salinas areas.	entailment
+The mission of KSBW - Monterey News is to **report on news, crime, sports, weather, and entertainment for the greater Monterey and Salinas areas**	entailment
+The usual audience of KSBW - Monterey News is **residents of the greater Monterey and Salinas area**.	entailment
+KSBW - Monterey News tends to the least biased based on story selection with minimally biased editorializing according to the Media Bias/Fact Check website.	entailment
+Other sources have commented on KSBW - Monterey News, stating that it tends to be **least biased**	entailment
+The factuality of KSBW - Monterey News is reported to be High	entailment
+The factuality of KSBW - Monterey News is reported to be high, according to D. Van Zandt	entailment
+KSBW - Monterey News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KSBW - Monterey News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**.	contradiction
+KSBW - Monterey News chose not to cover editorial pieces.	entailment
+KSBW - Monterey News relies on advertising for revenue	entailment
+KSBW - Monterey News relies on subscriptions for revenue	entailment
+KSBW - Monterey News relies on donations for revenue	contradiction
+When aggregating stories, KSBW - Monterey News relies on information from **the Associated Press**	entailment
+KSBW - Monterey News has an editorial bias towards Least Biased	entailment
+KSBW - Monterey News had to apologize for having no record of failed fact checks in the last 5 years.	entailment

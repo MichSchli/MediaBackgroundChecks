@@ -1,0 +1,18 @@
+Infinite Unknown is funded through donations	entailment
+The remit of Infinite Unknown is to  debunked conspiracy and junk science claims.	contradiction
+The mission of Infinite Unknown is to promote conspiracies and pseudoscience.	entailment
+Infinite Unknown tends to the right-wing biased news and opinion website that promotes conspiracies and pseudoscience	entailment
+Infinite Unknown tends to the right-wing biased news and opinion website that promotes conspiracies and pseudoscience according to their about page.	entailment
+Other sources have commented on Infinite Unknown, stating that it tends to be **a tin-foil hat conspiracy and quackery-level pseudoscience website**.	entailment
+The factuality of Infinite Unknown is reported to be **low**	entailment
+The factuality of Infinite Unknown is reported to be  low, according to  Media Bias/Fact Check.	entailment
+Infinite Unknown chose not to cover  election fraud in the 2020 election.	contradiction
+Infinite Unknown provides original content written by staff journalists	contradiction
+Infinite Unknown relies on advertising for revenue	contradiction
+Infinite Unknown relies on donations for revenue	entailment
+When aggregating stories, Infinite Unknown relies on information from [Conspiracy-Pseudoscience](https://mediabiasfactcheck.com/conspiracy/) or [Questionable](https://mediabiasfactcheck.com/fake-news/) categories.	entailment
+Infinite Unknown has endorsed tin-foil hat conspiracy and quackery-level pseudoscience website that promotes ridiculous debunked conspiracy and junk science claims.	entailment
+Infinite Unknown has an editorial bias towards **right-wing**	entailment
+Infinite Unknown was fined 	entailment
+Infinite Unknown printed a biased article titled "Tin-Foil Hat Conspiracy and Quackery-Level Pseudoscience Website".	entailment
+Infinite Unknown printed a factually misleading titled *Dr. Paul Craig Roberts: The Covid Vaccine is an Intentional Effort at World Genocide*	entailment

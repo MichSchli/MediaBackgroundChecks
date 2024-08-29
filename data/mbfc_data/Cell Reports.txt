@@ -1,0 +1,16 @@
+History
+Cell Reports is a peer-reviewed open-access journal published by Cell Press that covers the Cell Journals portfolio. According to its
+[about page](https://www.cell.com/cell-reports/aims), “Cell Reports publishes high-quality papers across the entire life sciences spectrum. The primary criterion for publication in Cell Reports is new biological insight.”
+Cell Press, based in Cambridge, Massachusetts, publishes over
+[50 scientific journals](https://www.cell.com/). Cell Press Journals are 50% open-access as of 2023. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Cell Reports is published by Cell Press which is a subsidiary of
+[Elsevier](https://en.wikipedia.org/wiki/Elsevier), a Dutch information and analytics company and one of the world’s foremost providers of scientific, technical, and medical information. It was established in 1880 as a publishing company. Elsevier’s parent company is RELX plc, a British multinational information and analytics company headquartered in London, England. The journal generates revenue through subscription fees and fees for open-access publishing.
+Analysis / Bias
+Cell Reports is a hybrid (some open-access) journal that publishes information and research related to Cell Journals. The journal primarily publishes research such as this
+[NF-κB activation enhances STING signaling by altering microtubule-mediated STING trafficking](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00196-1)
+Cell Press is an open-access/hybrid publisher of scientific journals. There are two types of Open Access Journals, legitimate and predatory, both of which charge the author for publication.
+[Predatory journals](https://predatoryjournals.com/about/) often lack peer review and are generally considered not credible. The Cell Reports is considered a [legitimate, open-access publisher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017830/) that is frequently indexed in [PubMed](https://mediabiasfactcheck.com/pubmed/). However, Cell Press has been criticized for [retracting some studies.](https://retractionwatch.com/category/by-journal/cell/)
+Although Cell Press has retracted some studies in other publications, Cell Reports publishes credible scientific studies that are factual and appropriately peer-reviewed.
+Failed Fact Checks
+- None in the Last 5 years

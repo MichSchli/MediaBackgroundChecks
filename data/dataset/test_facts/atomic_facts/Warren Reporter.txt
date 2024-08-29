@@ -1,0 +1,22 @@
+Advance Publications owns Warren Reporter	entailment
+Advance Publications is the owner of Warren Reporter	entailment
+Advance Publications bought Warren Reporter	entailment
+Warren Reporter is funded through advertising and subscription sales.	entailment
+The remit of Warren Reporter is to **report local, national, business, crime, and sports news for the Warren County area**	entailment
+The mission of Warren Reporter is to report local, national, business, crime, and sports news for the Warren County area.	entailment
+The Warren Reporter tends to the **left**	entailment
+Other sources have commented on Warren Reporter, stating that it tends to be left-leaning.	entailment
+The factuality of Warren Reporter is reported to be High	entailment
+The factuality of Warren Reporter is reported to be High, according to D. Van Zandt	entailment
+Warren Reporter failed a fact-check for an article titled "Hamilton school principal receives MLK community spirit award"	contradiction
+Warren Reporter chose not to cover opinion content online	entailment
+Warren Reporter relies on advertising for revenue	entailment
+Warren Reporter relies on subscriptions for revenue	entailment
+Warren Reporter relies on donations for revenue	contradiction
+When aggregating stories, Warren Reporter relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and other Advance publications.	entailment
+Warren Reporter has an editorial bias towards slightly Left-Center Bias	entailment
+Warren Reporter printed a biased article titled "Hamilton school principal receives MLK community spirit award".	entailment
+Warren Reporter's headquarter is located in New Jersey	entailment
+Warren Reporter is funded by the United States government	contradiction
+The Warren Reporter is a newspaper	entailment
+Warren Reporter covers the following topics: local, national, business, crime, and sports news for the Warren County area.	entailment

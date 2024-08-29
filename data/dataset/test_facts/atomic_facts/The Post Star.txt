@@ -1,0 +1,24 @@
+Lee Enterprises founded The Post Star	contradiction
+Lee Enterprises owns The Post Star	entailment
+Lee Enterprises is the owner of The Post Star	entailment
+Lee Enterprises bought The Post Star	contradiction
+Lee Enterprises acquired The Post Star	entailment
+The Post Star is funded through **advertising and subscription fees**	entailment
+The remit of The Post Star is to **report on news, sports, entertainment, lifestyle, and opinion for Glens Falls and the surrounding area**.	entailment
+The mission of The Post Star is to report on news, sports, weather, crime, and entertainment for the greater Glens Falls, New York region.	entailment
+The usual audience of The Post Star is **residents of Glens Falls and the surrounding area**	entailment
+The Post Star tends to the **right**	entailment
+Other sources have commented on The Post Star, stating that it tends to be **least biased**.	entailment
+The factuality of The Post Star is reported to be High	entailment
+The factuality of The Post Star is reported to be High, according to D. Van Zandt 4/22/2018	entailment
+The Post Star failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Post Star printed a retraction after failing a fact-check for an article titled "None in the Last 5 years."	contradiction
+The Post Star relies on advertising for revenue	entailment
+The Post Star relies on subscriptions for revenue	entailment
+When aggregating stories, The Post Star relies on information from **first-person accounts or through credible media**	entailment
+The Post Star has an editorial bias towards both sides	entailment
+The Post Star was fined 	contradiction
+The Post Star printed a biased article titled "Fort Edward police chief, sergeant placed on administrative leave"	entailment
+The Post Star's headquarter is located in Glens Falls	entailment
+The Post Star is a daily print newspaper	entailment
+The Post Star covers the following topics: news, sports, entertainment, lifestyle, and opinion for Glens Falls and the surrounding area.	entailment

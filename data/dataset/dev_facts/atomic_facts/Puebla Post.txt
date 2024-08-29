@@ -1,0 +1,22 @@
+Puebla Post founded Puebla Post	entailment
+Puebla Post leads Puebla Post	contradiction
+Puebla Post bought Puebla Post	contradiction
+Puebla Post acquired Puebla Post	contradiction
+Puebla Post is funded through advertising	entailment
+The remit of Puebla Post is to republish content from other sources.	entailment
+The mission of Puebla Post is to republish content from other sources and generate revenue through advertising.	entailment
+The usual audience of Puebla Post is English-speaking ex-pats and international readers.	entailment
+Puebla Post tends to the Left-Center biased.	entailment
+Puebla Post tends to the left-center according to imposter site that completely lacks transparency	entailment
+Other sources have commented on Puebla Post, stating that it tends to be **an imposter site**	entailment
+The factuality of Puebla Post is reported to be questionable	entailment
+The factuality of Puebla Post is reported to be **questionable**, according to **Media Bias/Fact Check**.	entailment
+Puebla Post chose not to cover original content	entailment
+Puebla Post provides original content written by staff journalists	contradiction
+Puebla Post relies on advertising for revenue	entailment
+Puebla Post relies on subscriptions for revenue	contradiction
+Puebla Post relies on donations for revenue	contradiction
+When aggregating stories, Puebla Post relies on information from the Mexico Daily Post, the MDP Newsroom, or other sources.	entailment
+The Puebla Post has endorsed left-leaning political bias	entailment
+Puebla Post has an editorial bias towards Left-Center	entailment
+Puebla Post printed a factually misleading titled **"Tucker Carlson’s extremist recommendation to the Republicans: The US should bomb Mexico"**	entailment

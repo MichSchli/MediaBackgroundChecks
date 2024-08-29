@@ -1,0 +1,13 @@
+History
+Founded in 2013, Healio is a website that publishes news and research for medical professionals in the health care system. According to their
+[about page](https://www.healio.com/footer/healio-dot-com/about-healio), “Healio.com enables you, the health care specialist, to select and tailor news and education to fit your daily practice of medicine. Designed as an in-depth specialty clinical information website, Healio.com features the industry’s best news reporting, dynamic multimedia, question-and-answer columns, CME, and other educational activities in a variety of formats, quick reference content, blogs, peer-reviewed journals, and a full line of popular book titles.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Healio is Published by
+[SLACK Incorporated](http://www.slackinc.com/), a health care communications company headquartered in Thorofare, NJ. Slack is a subsidiary of The Wyanoke Group. Revenue is derived through advertising, digital subscription fees, and pay-per-view of individual articles.
+Analysis / Bias
+In review, Healio publishes news about the health care industry and research from Slack’s peer-reviewed journals. News is broken down into specialty categories such as Cardiology, Dermatology, and Orthopedics, to name a few. Under their “news” section, headlines are free from bias, such as this
+[FDA approves Sevenfact for certain adults, adolescents with hemophilia](https://www.healio.com/hematology-oncology/hematology/news/online/%7B9d90c062-d2f3-4f61-a624-5f5f53e04496%7D/fda-approves-sevenfact-for-certain-adults-adolescents-with-hemophilia). This article, like all others, is strongly sourced. Under the “journals” tag, they offer links to Slacks peer-reviewed journals.
+Editorially, Healio does not take sides in politics but instead reports on how it relates to health. As of this writing, we are dealing with the Covid-19 crisis; however, in 2017, Dr. Fauci, who was frequently seen with former President Trump and serves as an infectious disease expert, said this in 2017:
+[Fauci: ‘No doubt’ Trump will face surprise infectious disease outbreak](https://www.healio.com/infectious-disease/emerging-diseases/news/online/%7B85a3f9c0-ed0a-4be8-9ca2-8854b2be7d13%7D/fauci-no-doubt-trump-will-face-surprise-infectious-disease-outbreak). I am only posting that because I was surprised to find it. How cool? In general, this is a low-biased scientific website.
+Failed Fact Checks
+- None in the Last 5 years

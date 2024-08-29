@@ -1,0 +1,22 @@
+UFT leads United Federation of Teachers	contradiction
+UFT bought United Federation of Teachers	contradiction
+UFT acquired United Federation of Teachers	contradiction
+United Federation of Teachers is funded through union dues	entailment
+The remit of United Federation of Teachers is to **advocate for equity for teachers and healthcare workers**	entailment
+The mission of United Federation of Teachers is to advocate for equity for teachers and healthcare workers who are a part of the union.	entailment
+The United Federation of Teachers tends to the  teachers.	entailment
+Other sources have commented on United Federation of Teachers, stating that it tends to be left-center biased.	entailment
+The factuality of United Federation of Teachers is reported to be High	entailment
+The factuality of United Federation of Teachers is reported to be High, according to Media Bias/Fact Check.	entailment
+United Federation of Teachers failed a fact-check for an article titled Left-Center biased based on editorial positions that favor the left.	contradiction
+United Federation of Teachers chose not to cover **Amazon workers hold first union vote**	contradiction
+United Federation of Teachers relies on advertising for revenue	contradiction
+United Federation of Teachers relies on subscriptions for revenue	contradiction
+United Federation of Teachers relies on donations for revenue	contradiction
+United Federation of Teachers has received donations from union dues	entailment
+When aggregating stories, United Federation of Teachers relies on information from **the union activities**.	entailment
+United Federation of Teachers has endorsed Democratic candidates	entailment
+United Federation of Teachers has an editorial bias towards **left**.	entailment
+United Federation of Teachers had to apologize for **none in the Last 5 years**	entailment
+The United Federation of Teachers is funded by the 'union' government	contradiction
+United Federation of Teachers is a labor union	entailment

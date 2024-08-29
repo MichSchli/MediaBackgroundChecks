@@ -1,0 +1,22 @@
+Sinclair Broadcast Group founded KBFX - Bakersfield News	contradiction
+Sinclair Broadcast Group owns KBFX - Bakersfield News	entailment
+Sinclair Broadcast Group is the owner of KBFX - Bakersfield News	entailment
+Sinclair Broadcast Group bought KBFX - Bakersfield News	entailment
+The remit of KBFX - Bakersfield News is to  report local news with minimal bias in wording.	entailment
+The mission of KBFX - Bakersfield News is to **report local news with minimal bias in wording**	entailment
+KBFX - Bakersfield News tends to the right.	entailment
+Other sources have commented on KBFX - Bakersfield News, stating that it tends to be Right-Center Biased.	entailment
+The factuality of KBFX - Bakersfield News is reported to be High	entailment
+The factuality of KBFX - Bakersfield News is reported to be high, according to proper sourcing and a clean fact-check record.	entailment
+KBFX - Bakersfield News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+KBFX - Bakersfield News chose not to cover **op-eds**	entailment
+KBFX - Bakersfield News relies on advertising for revenue	entailment
+KBFX - Bakersfield News relies on donations for revenue	entailment
+When aggregating stories, KBFX - Bakersfield News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and others by Sinclair properties.	entailment
+KBFX - Bakersfield News has an editorial bias towards right	entailment
+Sinclair Broadcast Group is the editor of KBFX - Bakersfield News.	entailment
+KBFX - Bakersfield News was fined **None in the Last 5 years**	entailment
+KBFX - Bakersfield News printed a biased article titled "Failed Fact Checks"	contradiction
+KBFX - Bakersfield News printed a factually misleading titled "Trump says Sinclair is far superior to CNN".	entailment
+KBFX - Bakersfield News is a Right-Center Biased	entailment
+KBFX - Bakersfield News covers the following topics: local news, sports, weather, lifestyle, and crime reporting	entailment

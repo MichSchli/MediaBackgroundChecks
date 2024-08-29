@@ -1,0 +1,14 @@
+History
+[Founded in 1995](https://en.wikipedia.org/wiki/Salon_(website)), Salon is a progressive/liberal news and opinion website created by David Talbot. Salon publishes articles on U.S. politics, culture, and current events and has a left-leaning editorial stance. The current editor is Andrew O’Hehir. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Salon is owned by the Salon Media Group and is funded through
+[periodic cash infusions](https://www.sec.gov/Archives/edgar/data/1084332/000143774913001586/smg_10q-123112.htm) from [John Warnock](https://en.wikipedia.org/wiki/John_Warnock) and [William Hambrecht](https://en.wikipedia.org/wiki/William_Hambrecht). Revenue is generated through online advertising and subscription fees for exclusive content and sales from the marketplace.
+Analysis / Bias
+In review, Salon focuses on U.S. politics and current affairs. Story selection almost always favors the left, and there is the frequent use of loaded emotional language such as this:
+[What campus free speech? Arizona case shows how far the right will go to stifle dissent](https://www.salon.com/2019/04/07/what-campus-free-speech-arizona-case-shows-how-far-the-right-will-go-to-stifle-dissent/). Like most on Salon, this story is properly sourced to credible media such as the [New York Times](https://mediabiasfactcheck.com/new-york-times/) and the [Arizona Republic](https://mediabiasfactcheck.com/arizona-republic/) and occasionally uses sources that have failed fact checks such as [The Guardian](https://mediabiasfactcheck.com/the-guardian/) and [Wikileaks](https://mediabiasfactcheck.com/wikileaks/). Salon also publishes health and science news that is [scientifically based](https://www.salon.com/category/science-and-health).
+Editorially, Salon utilizes strong wording that is anti-right in a tone such as this:
+[Donald Trump is running for president as a flat-out racist](https://www.salon.com/2019/03/20/donald-trump-is-running-for-president-as-a-flat-out-racist/). Further, they do not clearly label opinion pieces which can be misleading.
+It was revealed by numerous media outlets, including the left-leaning
+[CNN](https://mediabiasfactcheck.com/left/cnn-bias/), that [Salon waited one year](https://www.cnn.com/2022/07/08/politics/fact-check-desantis-florida-students-professors-political-views/index.html) to correct a fact related to Ron DeSantis. See failed fact check below.
+Failed Fact Checks
+[“Looks like Sheriff David Clarke’s ‘army’ medals might be B.S.”](https://www.snopes.com/fact-check/david-clarke-military-medals/)– False [Gov. Ron DeSantis “just signed legislation requiring students, faculty, and staff at Florida’s public universities and colleges to register their political views with the state.”](https://www.politifact.com/factchecks/2021/jun/25/viral-image/new-florida-law-requires-public-universities-surve/)– False

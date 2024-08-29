@@ -1,0 +1,28 @@
+Phil Stilton founded Shore News Network	entailment
+Phil Stilton is the founder of Shore News Network	entailment
+Phil Stilton owns Shore News Network	entailment
+Phil Stilton is the owner of Shore News Network	entailment
+Phil Stilton acquired Shore News Network	entailment
+Shore News Network is funded through **sponsored content and advertising**	entailment
+The remit of Shore News Network is to create authentically local news content, perform investigative journalism, and package that with the nation’s top headlines to keep the community informed about what’s local and what’s important today.	entailment
+The mission of Shore News Network is to  inform our community with authentically local news content, investigative journalism, and national headlines.	entailment
+The usual audience of Shore News Network is conservative.	entailment
+Shore News Network tends to the right	entailment
+Other sources have commented on Shore News Network, stating that it tends to be right-biased	entailment
+The factuality of Shore News Network is reported to be Mostly Factual	entailment
+The factuality of Shore News Network is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+Shore News Network failed a fact-check for an article titled **Only Slaves Are Without Choice” Candace Owens Slams Southwest Airlines, American Airlines**	entailment
+Shore News Network chose not to cover Hydroxychlorquine misinformation.	contradiction
+Shore News Network relies on advertising for revenue	entailment
+Shore News Network relies on subscriptions for revenue	contradiction
+Shore News Network relies on donations for revenue	contradiction
+When aggregating stories, Shore News Network relies on information from major sources such as the right-leaning Daily Caller and low-biased Reuters.	entailment
+Shore News Network has an editorial bias towards **the right**	entailment
+Phil Stilton is the editor of Shore News Network	contradiction
+Shore News Network was fined 	entailment
+Shore News Network printed a biased article titled "How Joe Biden’s America Is One Big Squid Game Where The Unvaccinated Are Slowly Being Eliminated From Society."	entailment
+Shore News Network printed a factually misleading titled  "How Joe Biden’s America Is One Big Squid Game Where The Unvaccinated Are Slowly Being Eliminated From Society."	contradiction
+Shore News Network had to apologize for **one failed fact check**	entailment
+Shore News Network is funded by the **private** government	contradiction
+Shore News Network is a conservative	entailment
+Shore News Network covers the following topics: Conservative news and entertainment from shore communities around the country, with a strong focus on New Jersey.	entailment

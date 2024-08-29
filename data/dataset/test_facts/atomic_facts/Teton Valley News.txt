@@ -1,0 +1,24 @@
+Stephen Adams is the founder of Teton Valley News	contradiction
+Adams Publishing Group owns Teton Valley News	entailment
+Stephen Adams is the owner of Teton Valley News	entailment
+Teton Valley News is funded through **advertising and subscription fees**	entailment
+The remit of Teton Valley News is to **cover news and crime reports in the Driggs region.**	entailment
+The mission of Teton Valley News is to report news with minimal editorializing of content.	entailment
+The usual audience of Teton Valley News is **local residents**	entailment
+Teton Valley News tends to the **Right**	entailment
+Other sources have commented on Teton Valley News, stating that it tends to be **least biased**	entailment
+The factuality of Teton Valley News is reported to be High	entailment
+The factuality of Teton Valley News is reported to be High, according to D. Van Zandt	entailment
+Teton Valley News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Teton Valley News printed a retraction after failing a fact-check for an article titled "County P&Z will hold public hearing on zone map"	contradiction
+Teton Valley News chose not to cover op-eds	entailment
+Teton Valley News relies on advertising for revenue	entailment
+Teton Valley News relies on subscriptions for revenue	entailment
+Teton Valley News relies on donations for revenue	contradiction
+When aggregating stories, Teton Valley News relies on information from **quotes, interviews, and accounts**	entailment
+Teton Valley News has an editorial bias towards Least biased.	entailment
+Teton Valley News had to apologize to no one for nothing	entailment
+"The Teton Valley News is a newspaper published in Driggs, Idaho. The paper covers news and crime reports in the Driggs region."	entailment
+Teton Valley News's headquarter is located in Driggs	entailment
+The Teton Valley News is funded by the private government	contradiction
+Teton Valley News is a newspaper	entailment

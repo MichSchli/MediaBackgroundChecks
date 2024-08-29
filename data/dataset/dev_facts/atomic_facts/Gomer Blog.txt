@@ -1,0 +1,18 @@
+Gomer Blog is funded through advertising and the sale of branded merchandise.	entailment
+The remit of Gomer Blog is to **make you laugh so that you can take better care of your patients**	entailment
+The mission of Gomer Blog is to make you laugh so that you can take better care of your patients	entailment
+The usual audience of Gomer Blog is healthcare professionals	entailment
+Gomer Blog tends to the **medical profession**	entailment
+Other sources have commented on Gomer Blog, stating that it tends to be **a satire website**.	entailment
+The factuality of Gomer Blog is reported to be **not factual**	entailment
+Gomer Blog failed a fact-check for an article titled "Tired of Its Advice Being Ignored, CDC Kicks America Out of Its Practice"	contradiction
+Gomer Blog printed a retraction after failing a fact-check for an article titled **Tired of Its Advice Being Ignored, CDC Kicks America Out of Its Practice**.	contradiction
+Gomer Blog chose not to cover ownership and revenue disclosure.	entailment
+Gomer Blog provides original content written by staff journalists	contradiction
+Gomer Blog relies on advertising for revenue	entailment
+Gomer Blog relies on subscriptions for revenue	contradiction
+Gomer Blog relies on donations for revenue	contradiction
+When aggregating stories, Gomer Blog relies on information from **satirical content**	entailment
+Gomer Blog has an editorial bias towards  medical satire.	entailment
+Gomer Blog printed a biased article titled  "Tired of Its Advice Being Ignored, CDC Kicks America Out of Its Practice"	entailment
+Gomer Blog printed a factually misleading titled "CDC Kicks America Out of Its Practice"	entailment

@@ -1,0 +1,25 @@
+Adriaan Alsema founded Colombia Reports	entailment
+Adriaan Alsema is the founder of Colombia Reports	entailment
+Adriaan Alsema bought Colombia Reports	contradiction
+Colombia Reports acquired Colombia Reports	contradiction
+Colombia Reports is funded through reader donations	entailment
+The remit of Colombia Reports is to  provide news about Colombia.	entailment
+The mission of Colombia Reports is to be independent of commercial interests as much as political interest	entailment
+The usual audience of Colombia Reports is **English-speaking individuals**.	entailment
+Colombia Reports tends to the Left-Center biased	entailment
+Other sources have commented on Colombia Reports, stating that it tends to be Left-Center biased.	entailment
+The factuality of Colombia Reports is reported to be Mixed	entailment
+The factuality of Colombia Reports is reported to be Mixed, according to Media Bias Fact Check.	entailment
+Colombia Reports failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Colombia Reports chose not to cover [failed fact checks](https://mediabiasfactcheck.com/left-center/)	entailment
+Colombia Reports relies on advertising for revenue	contradiction
+Colombia Reports relies on subscriptions for revenue	entailment
+Colombia Reports relies on donations for revenue	entailment
+Colombia Reports has received donations from reader donations	entailment
+The answer is: Colombia Reports has endorsed left-leaning sources	entailment
+Colombia Reports has an editorial bias towards Left-Center	entailment
+Colombia Reports had to apologize for a lack of linked sources on many articles.	entailment
+Colombia Reports's headquarter is located in Medellin	entailment
+Colombia Reports is funded by the reader donations government	contradiction
+Colombia Reports is a nonprofit	entailment
+Colombia Reports covers the following topics: national news and analysis regarding issues in Latin America	entailment

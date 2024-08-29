@@ -1,0 +1,19 @@
+Who founded IndexMundi	entailment
+IndexMundi is funded through advertising	entailment
+The remit of IndexMundi is to turn raw data from all over the world into useful information for a global audience.	entailment
+The mission of IndexMundi is to turn raw data from all over the world into useful information for a global audience.	entailment
+The usual audience of IndexMundi is global	entailment
+IndexMundi tends to the  Least Biased	entailment
+Other sources have commented on IndexMundi, stating that it tends to be **Least Biased**	entailment
+The factuality of IndexMundi is reported to be High	entailment
+The factuality of IndexMundi is reported to be High, according to D. Van Zandt	entailment
+IndexMundi failed a fact-check for an article titledNone in the Last 5 years	contradiction
+IndexMundi printed a retraction after failing a fact-check for an article titled  "None in the Last 5 years"	contradiction
+IndexMundi relies on advertising for revenue	entailment
+IndexMundi relies on donations for revenue	entailment
+When aggregating stories, IndexMundi relies on information from **credible sources**	entailment
+IndexMundi has endorsed least biased	entailment
+IndexMundi has an editorial bias towards **neutrality**	entailment
+IndexMundi printed a biased article titled "Failed Fact Checks".	entailment
+IndexMundi printed a factually misleading titled Least Biased based on the presentation of data without opinion.	contradiction
+IndexMundi had to apologize for **None in the Last 5 years**	entailment

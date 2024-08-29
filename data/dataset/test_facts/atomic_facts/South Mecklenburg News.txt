@@ -1,0 +1,20 @@
+The Metric Media Foundation owns South Mecklenburg News	entailment
+Metric Media LLC is the owner of South Mecklenburg News	entailment
+South Mecklenburg News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of South Mecklenburg News is to **impost**.	entailment
+The mission of South Mecklenburg News is to `fill the void in community news after years of decline in local reporting by legacy media. Our approach is to provide objective, data-driven information without political bias. We provide 100% original reporting, including to share as much data as possible from government and other publicly available sources.`	contradiction
+The usual audience of South Mecklenburg News is **right-center, biased, and Questionable**.	entailment
+South Mecklenburg News tends to the **right-center**	entailment
+Other sources have commented on South Mecklenburg News, stating that it tends to be **right-center biased**.	entailment
+The factuality of South Mecklenburg News is reported to be Questionable	entailment
+The factuality of South Mecklenburg News is reported to be Questionable, according to D. Van Zandt 12/15/2023	entailment
+South Mecklenburg News chose not to cover [their own bias, lack of transparency, and false information].	entailment
+South Mecklenburg News relies on advertising for revenue	entailment
+South Mecklenburg News relies on donations for revenue	entailment
+South Mecklenburg News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, South Mecklenburg News relies on information from government and other publicly available sources.	entailment
+South Mecklenburg News has an editorial bias towards conservative	entailment
+South Mecklenburg News printed a biased article titled "An Imbalance of Information"	entailment
+South Mecklenburg News is funded by the  government	contradiction
+South Mecklenburg News is a conservative	entailment
+South Mecklenburg News covers the following topics: Right-center biased, and Questionable.	entailment

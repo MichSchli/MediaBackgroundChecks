@@ -1,0 +1,18 @@
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd. is the owner of Smith's Falls Record News	entailment
+Metroland Media Group Ltd. bought Smith's Falls Record News	entailment
+Metroland Media Group Ltd. acquired Smith's Falls Record News	contradiction
+Smith's Falls Record News is funded through advertising generates revenue.	entailment
+Smith's Falls Record News tends to the left.	entailment
+Smith's Falls Record News tends to the left-center according to mediabiasfactcheck.com.	entailment
+Other sources have commented on Smith's Falls Record News, stating that it tends to be Left-Center biased.	entailment
+The factuality of Smith's Falls Record News is reported to be High	entailment
+The factuality of Smith's Falls Record News is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/).	entailment
+Smith's Falls Record News chose not to cover \[international news\].	contradiction
+Smith's Falls Record News relies on advertising for revenue	entailment
+Smith's Falls Record News relies on subscriptions for revenue	contradiction
+Smith's Falls Record News relies on donations for revenue	contradiction
+Smith's Falls Record News has an editorial bias towards Left-Center	entailment
+Smith's Falls Record News was fined \.	entailment
+Smith's Falls Record News had to apologize for **None in the Last 5 years**	entailment

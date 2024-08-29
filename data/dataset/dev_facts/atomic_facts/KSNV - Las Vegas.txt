@@ -1,0 +1,13 @@
+Sinclair Broadcast Group owns KSNV - Las Vegas	entailment
+Sinclair Broadcast Group is the owner of KSNV - Las Vegas	entailment
+Sinclair Broadcast Group bought KSNV - Las Vegas	contradiction
+The mission of KSNV - Las Vegas is to  report local news with minimal bias in wording.	entailment
+KSNV - Las Vegas tends to the right	entailment
+KSNV - Las Vegas tends to the right according to Sinclair Broadcast Group	entailment
+Other sources have commented on KSNV - Las Vegas, stating that it tends to be **right-leaning**.	entailment
+The factuality of KSNV - Las Vegas is reported to be High	entailment
+The factuality of KSNV - Las Vegas is reported to be high, according to proper sourcing and a clean fact check record.	entailment
+KSNV - Las Vegas failed a fact-check for an article titled **None in the Last 5 years**	entailment
+KSNV - Las Vegas relies on donations for revenue	entailment
+When aggregating stories, KSNV - Las Vegas relies on information from **the Associated Press**	entailment
+KSNV - Las Vegas has an editorial bias towards **the right**	entailment

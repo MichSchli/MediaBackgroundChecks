@@ -1,0 +1,23 @@
+Glacier Media Group owns Prince George Citizen	entailment
+Prince George Citizen is funded through advertising and subscriptions	entailment
+The remit of Prince George Citizen is to **publish sports, weather, national, world, and local news for the greater Prince George, BC region**	entailment
+The mission of Prince George Citizen is to report news factually.	entailment
+The usual audience of Prince George Citizen is Left-Center Biased	entailment
+Prince George Citizen tends to the left	entailment
+Other sources have commented on Prince George Citizen, stating that it tends to be Left-Center Biased	entailment
+The factuality of Prince George Citizen is reported to be High	entailment
+The factuality of Prince George Citizen is reported to be high, according to 	entailment
+Prince George Citizen failed a fact-check for an article titled "City project aims to shift perception of downtown, unhoused population".	contradiction
+Prince George Citizen chose not to cover Failed Fact Checks.	entailment
+Prince George Citizen relies on advertising for revenue	entailment
+Prince George Citizen relies on subscriptions for revenue	entailment
+Prince George Citizen relies on donations for revenue	contradiction
+When aggregating stories, Prince George Citizen relies on information from the [Canadian Press](https://mediabiasfactcheck.com/2018/06/15/fact-check-of-trumps-canadian-trade-stats/) and [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+The Prince George Citizen has endorsed left-Center Biased	entailment
+Prince George Citizen has an editorial bias towards left.	entailment
+Prince George Citizen printed a biased article titled **Don Wright: Why did Justin Trudeau switch sides in the ‘class struggle?’**	entailment
+Prince George Citizen had to apologize for **None in the Last 5 years**	entailment
+The Prince George Citizen is funded by the **private** government	contradiction
+Prince George Citizen is a Left-Center Biased	entailment
+Prince George Citizen uses an internal fact-checking process	entailment
+Prince George Citizen covers the following topics: sports, weather, national, world, and local news for the greater Prince George, BC region.	entailment

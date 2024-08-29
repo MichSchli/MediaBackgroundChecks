@@ -1,0 +1,25 @@
+Reach P.L.C. founded Manchester Evening News	contradiction
+Reach PLC is the founder of Manchester Evening News	contradiction
+Manchester Evening News leads Manchester Evening News	contradiction
+Reach PLC owns Manchester Evening News	entailment
+Reach P.L.C. bought Manchester Evening News	entailment
+Reach P.L.C. acquired Manchester Evening News	entailment
+Manchester Evening News is funded through **advertising revenue, partnerships, sponsorships, affiliate commissions, and the sale of the print edition**.	entailment
+The remit of Manchester Evening News is to **report on local community news, sports, entertainment, and events in and around Manchester.**	entailment
+The mission of Manchester Evening News is to **report on local community news, sports, entertainment, and events.**	entailment
+The usual audience of Manchester Evening News is Left-Center	entailment
+Manchester Evening News tends to the **left**	entailment
+Other sources have commented on Manchester Evening News, stating that it tends to be left-leaning.	entailment
+The factuality of Manchester Evening News is reported to be High	entailment
+The factuality of Manchester Evening News is reported to be High, according to a fact check record.	entailment
+Manchester Evening News chose not to cover climate change	contradiction
+Manchester Evening News relies on advertising for revenue	entailment
+Manchester Evening News relies on subscriptions for revenue	contradiction
+Manchester Evening News relies on donations for revenue	contradiction
+When aggregating stories, Manchester Evening News relies on information from **quotes and their sister organizations, such as the Daily Mirror**.	entailment
+Manchester Evening News has endorsed **a left-leaning perspective**	entailment
+Manchester Evening News has an editorial bias towards **left-leaning**.	entailment
+Manchester Evening News printed a biased article titled **Inflation shoots up again with food at highest prices for 45 years – what it means for you**.	entailment
+Manchester Evening News is funded by the Reach PLC government	entailment
+Manchester Evening News is a Left-Center biased	entailment
+Manchester Evening News covers the following topics: local community news, sports, entertainment, and events in and around Manchester, including Bolton, Bury, Heywood, Middleton, Oldham, Rochdale, and other nearby areas.	entailment

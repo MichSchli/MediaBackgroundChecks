@@ -1,0 +1,9 @@
+History
+[Founded in 1997](https://en.wikipedia.org/wiki/Techdirt), Techdirt is an internet blog that reports on technology’s legal challenges and related business and economic policy issues, in the context of the digital revolution. It focuses on intellectual property, patent, information privacy, and copyright reform in particular. Techdirt is created and edited by Mike Masnick. Techdirt has been nominated for a [Webby Award](https://en.wikipedia.org/wiki/Webby_Award). [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website is owned by
+[Floor64, Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=270293215) Techdirt is funded through online advertising.
+Analysis / Bias
+In review, although Techdirt is a technology blog, its primary focus is on the political aspects of technology. With this said, Techdirt uses emotionally loaded words and does not have a favorable view of former President Trump’s policies as evidenced here:
+[Trump’s Latest Nonsensical Announcement About Censoring The Internet](https://www.techdirt.com/articles/20170823/15234838073/trumps-latest-nonsensical-announcement-about-censoring-internet.shtml). This particular article is sourced properly from credible news sources. Techdirt offers an entire section of its website to [free speech issues](https://www.techdirt.com/blog/freespeech/), which also does not agree with the right-wing policy agenda. In general, stories tend to favor the left when reporting on technological and political news.
+Failed Fact Checks

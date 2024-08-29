@@ -1,0 +1,25 @@
+Nexstar Media Group owns WNTZ - Alexandria News	entailment
+Nexstar Media Group is the owner of WNTZ - Alexandria News	entailment
+Nexstar bought WNTZ - Alexandria News	entailment
+Nexstar Media Group acquired WNTZ - Alexandria News	entailment
+The remit of WNTZ - Alexandria News is to provide news, sports, weather, politics, and crime reporting.	entailment
+The mission of WNTZ - Alexandria News is to  provide news for the greater Alexandria, Louisiana area.	entailment
+The usual audience of WNTZ - Alexandria News is for the greater Alexandria, Louisiana area	entailment
+WNTZ - Alexandria News tends to the Local News	entailment
+Other sources have commented on WNTZ - Alexandria News, stating that it tends to be **least biased**	entailment
+The factuality of WNTZ - Alexandria News is reported to be High	entailment
+The factuality of WNTZ - Alexandria News is reported to be High, according to Media Bias Fact Check	entailment
+WNTZ - Alexandria News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+WNTZ - Alexandria News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+WNTZ - Alexandria News chose not to cover opinion pieces	entailment
+WNTZ - Alexandria News relies on advertising for revenue	entailment
+WNTZ - Alexandria News relies on subscriptions for revenue	contradiction
+WNTZ - Alexandria News relies on donations for revenue	entailment
+When aggregating stories, WNTZ - Alexandria News relies on information from **the Associated Press**.	entailment
+WNTZ - Alexandria News has endorsed Least Biased	contradiction
+WNTZ - Alexandria News has an editorial bias towards Least Biased	entailment
+WNTZ - Alexandria News had to apologize for **nothing**	entailment
+WNTZ - Alexandria News had to apologize to **none** for **failed fact checks**.	entailment
+WNTZ - Alexandria News's headquarter is located in Alexandria	entailment
+WNTZ - Alexandria News is a Fox-affiliated television station.	entailment
+WNTZ - Alexandria News covers the following topics: News, sports, weather, politics, and crime reporting	entailment

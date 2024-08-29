@@ -1,0 +1,22 @@
+Dissent Magazine is funded through donations	entailment
+The remit of Dissent Magazine is to **produce journalism and reports news from a Socialist perspective**.	entailment
+The usual audience of Dissent Magazine is Left Biased	entailment
+Dissent Magazine tends to the left.	entailment
+Other sources have commented on Dissent Magazine, stating that it tends to be Left Biased.	entailment
+The factuality of Dissent Magazine is reported to be High	entailment
+The factuality of Dissent Magazine is reported to be High, according to Mediabiasfactcheck	entailment
+Dissent Magazine failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Dissent Magazine relies on advertising for revenue	entailment
+Dissent Magazine relies on subscriptions for revenue	entailment
+Dissent Magazine relies on donations for revenue	entailment
+When aggregating stories, Dissent Magazine relies on information from **interviews and first-person accounts**.	entailment
+Dissent Magazine has endorsed Democratic Socialism, Marxism, Climate Change, Labor, and Feminism.	entailment
+Dissent Magazine has an editorial bias towards Left Biased.	entailment
+Michael Kazin is the editor of Dissent Magazine	entailment
+Dissent Magazine printed a biased article titled "Can Democratic Socialism Rise in Rural America?".	entailment
+Dissent Magazine had to apologize for [None in the Last 5 years](https://www.dissentmagazine.org/).	entailment
+Dissent Magazine had to apologize to no one for nothing	entailment
+Dissent Magazine paid damages to no one after no failed fact checks.	entailment
+Dissent Magazine is funded by the United States government	contradiction
+Dissent Magazine is a **Left Biased**	entailment
+Dissent Magazine covers the following topics: Politics, Culture, Democratic Socialism, Marxism, Climate Change, Labor, Feminism, President Donald Trump, Progressive Democrats, Liberals	entailment

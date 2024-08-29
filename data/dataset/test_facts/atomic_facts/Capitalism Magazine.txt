@@ -1,0 +1,23 @@
+Ayn Rand is the founder of Capitalism Magazine	contradiction
+Bahamas 2000, Ltd. owns Capitalism Magazine	entailment
+Bahamas 2000, Ltd. bought Capitalism Magazine	entailment
+Bahamas acquired Capitalism Magazine	entailment
+Capitalism Magazine is funded through donations.	entailment
+The remit of Capitalism Magazine is to promote the virtues of capitalism.	entailment
+The mission of Capitalism Magazine is to **promote the virtues of capitalism**	entailment
+The usual audience of Capitalism Magazine is **advocates of capitalism**	entailment
+Capitalism Magazine tends to the Right-Center Biased	entailment
+Other sources have commented on Capitalism Magazine, stating that it tends to be right-center biased.	entailment
+The factuality of Capitalism Magazine is reported to be Mostly Factual	entailment
+The factuality of Capitalism Magazine is reported to be Mostly Factual, according to a lack of transparency despite utilizing proper sourcing and a clean fact check record.	entailment
+Capitalism Magazine failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Capitalism Magazine chose not to cover immigration.	contradiction
+Capitalism Magazine relies on subscriptions for revenue	contradiction
+Capitalism Magazine relies on donations for revenue	entailment
+Capitalism Magazine has endorsed right-leaning views when it comes to free-market economics, the Second Amendment, and disdain for liberal economic policies.	entailment
+Capitalism Magazine has an editorial bias towards right-leaning views.	entailment
+Capitalism Magazine printed a biased article titled Immigration Is Great: A Big Win for America	entailment
+Capitalism Magazine had to apologize for **none in the Last 5 years**.	entailment
+Capitalism Magazine paid damages to [Elizabeth Warren](https://www.capitalismmagazine.com/2019/09/elizabeth-warrens-accountable-capitalism-is-more-dangerous-than-bernie-sanders-democratic-socialism/) after [ ]	entailment
+Capitalism Magazine is a **Right-Center Biased**	entailment
+Capitalism Magazine covers the following topics: history, funding and ownership, analysis and bias, failed fact checks, overall rating.	entailment

@@ -1,0 +1,18 @@
+Cell Press founded Trends in Cell Biology.	contradiction
+Elsevier owns Trends in Cell Biology	entailment
+Trends in Cell Biology is funded through **subscription fees and fees for open-access publishing**	entailment
+The remit of Trends in Cell Biology is to **cover Cell Biology Research**	entailment
+The mission of Trends in Cell Biology is to **cover Cell Biology Research**.	entailment
+The usual audience of Trends in Cell Biology is **researchers in molecular and cell biology**.	entailment
+Trends in Cell Biology tends to the Pro-Science	entailment
+Other sources have commented on Trends in Cell Biology, stating that it tends to be **pro-Science**	entailment
+The factuality of Trends in Cell Biology is reported to be High	entailment
+The factuality of Trends in Cell Biology is reported to be High, according to D. Van Zandt	entailment
+Trends in Cell Biology failed a fact-check for an article titled "None in the Last 5 years."	entailment
+Trends in Cell Biology relies on subscriptions for revenue	entailment
+Trends in Cell Biology has endorsed Pro-Science.	entailment
+Trends in Cell Biology has an editorial bias towards **pro-science**	entailment
+Trends in Cell Biology was fined 	entailment
+Trends in Cell Biology is a peer-reviewed open-access journal	contradiction
+Trends in Cell Biology uses a peer review process	entailment
+Trends in Cell Biology covers the following topics: Cell Biology Research	entailment

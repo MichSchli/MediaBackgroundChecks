@@ -1,0 +1,21 @@
+Community Newspaper Holdings Inc. owns Joplin Globe	entailment
+Community Newspaper Holdings Inc. is the owner of Joplin Globe	entailment
+Joplin Globe is funded through advertising and subscription fees	entailment
+The mission of Joplin Globe is to report crime, sports, entertainment, and politics for the Joplin, Missouri, region.	entailment
+The usual audience of Joplin Globe is **local, national, crime, and lifestyle news**.	entailment
+Joplin Globe tends to the left.	entailment
+Other sources have commented on Joplin Globe, stating that it tends to be Left-Center Biased	entailment
+The factuality of Joplin Globe is reported to be High	entailment
+The factuality of Joplin Globe is reported to be High, according to Media Bias Fact Check.	entailment
+Joplin Globe failed a fact-check for an article titled "New technology at Freeman provides control of test pressure".	contradiction
+Joplin Globe printed a retraction after failing a fact-check for an article titled "New technology at Freeman provides control of test pressure."	contradiction
+The Joplin Globe chose not to cover local news.	contradiction
+Joplin Globe relies on advertising for revenue	entailment
+Joplin Globe relies on subscriptions for revenue	entailment
+Joplin Globe relies on donations for revenue	contradiction
+When aggregating stories, Joplin Globe relies on information from the Associated Press and the CHNI news service	entailment
+Joplin Globe has endorsed a liberal perspective	entailment
+Joplin Globe has an editorial bias towards slightly Left-Center Biased	entailment
+The Joplin Globe is funded by the private government	contradiction
+The Joplin Globe is a newspaper	entailment
+Joplin Globe covers the following topics: crime, sports, entertainment, politics	entailment

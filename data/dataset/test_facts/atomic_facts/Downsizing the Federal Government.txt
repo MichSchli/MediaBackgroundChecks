@@ -1,0 +1,20 @@
+Cato Institute owns Downsizing the Federal Government	entailment
+Who is the owner of Downsizing the Federal Government?	entailment
+The remit of Downsizing the Federal Government is to **help policymakers and the public understand where federal spending goes and how to reform each government department**.	entailment
+The mission of Downsizing the Federal Government is to **help policymakers and the public understand where federal spending goes and how to reform each government department**.	entailment
+The usual audience of Downsizing the Federal Government is **libertarian-leaning**	entailment
+Downsizing the Federal Government tends to the **right-Center**	entailment
+Other sources have commented on Downsizing the Federal Government, stating that it tends to be **right-center biased**.	entailment
+The factuality of Downsizing the Federal Government is reported to be High	entailment
+The factuality of Downsizing the Federal Government is reported to be High, according to its proper sourcing and clean fact check record	entailment
+Downsizing the Federal Government printed a retraction after failing a fact-check for an article titled *Federal Spending Rescission*.	entailment
+Downsizing the Federal Government chose not to cover **any failed fact checks**	entailment
+Downsizing the Federal Government relies on advertising for revenue	contradiction
+When aggregating stories, Downsizing the Federal Government relies on information from the Cato Institute.	entailment
+Downsizing the Federal Government has endorsed cutting the federal budget.	entailment
+Downsizing the Federal Government has an editorial bias towards right-center.	entailment
+Downsizing the Federal Government printed a factually misleading titled "Federal Spending Rescission".	entailment
+Downsizing the Federal Government had to apologize for **none in the Last 5 years**	entailment
+Downsizing the Federal Government paid damages to  after 	entailment
+Downsizing the Federal Government is funded by the **United States** government	contradiction
+Downsizing the Federal Government is a  libertarian blog	entailment

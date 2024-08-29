@@ -1,0 +1,14 @@
+History
+Founded in 2010, Breaking Defense is an online defense magazine. According to their
+[about page](https://breakingdefense.com/about/), “Breaking Defense is the digital magazine on the strategy, politics, and defense technology. We offer analysis, perspective, and insight on news developments that military, political, and industry decision-makers rely upon.” The current editor is [Colin Clark.](https://breakingdefense.com/author/colinclark/) [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Breaking Defense is owned by Breaking Media, Inc. Revenue is derived through advertising.
+Analysis / Bias
+In review, Breaking Defense covers military and defense with minimal use of loaded language such as this
+[DARPA Space Manufacturing Project Sparks Controversy](https://breakingdefense.com/2021/02/darpa-space-manufacturing-project-sparks-controversy/). This story, like most, is properly sourced to media outlets such as Spacenews.com and defense.gov.
+Editorially, they do not offer a separate section for op-eds; however, they use a tag on commentary-based stories. Many stories contain opinions such as this
+[China Supply Chain, Backdoor Money ‘Huge Priority’ For Biden Pentagon](https://breakingdefense.com/2021/02/china-supply-chain-backdoor-money-huge-priority-for-biden-pentagon/), which is hopeful of the Biden Administration and critical. This op-ed uses survey data from the right-leaning Reagan Institute [Faith In The Military Is Falling – Not Demand For Strong Defense: Reagan Institute](https://breakingdefense.com/2021/03/faith-in-the-military-is-falling-not-demand-for-strong-defense/).
+They have also accurately fact-checked former President Donald Trump on false claims
+[Trump’s Claim Of $2.5 Trillion In DoD Dough: Not True](https://breakingdefense.com/2019/10/trumps-claim-of-2-5-trillion-in-dod-dough-not-true/). They generally report news factually with a slight right-leaning bias that favors a more authoritarian military use.
+Failed Fact Checks
+- None in the Last 5 years. They are used as a resource for IFCN fact-checkers.

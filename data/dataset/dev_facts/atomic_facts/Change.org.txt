@@ -1,0 +1,21 @@
+Change.org founded Change.org	contradiction
+Ben Rattray is the CEO of Change.org	entailment
+Ben Rattray leads Change.org	entailment
+Change.org owns Change.org	entailment
+Change.org bought Change.org	contradiction
+Change.org acquired Change.org	entailment
+Change.org is funded through donations to the Change.org Foundation.	entailment
+The remit of Change.org is to facilitate petitions by the general public.	entailment
+The mission of Change.org is to  empower people everywhere to create the change they want to see.	entailment
+The usual audience of Change.org is left-leaning	entailment
+Change.org tends to the left.	entailment
+Change.org tends to the left-leaning audience according to mediabiasfactcheck.com	entailment
+Other sources have commented on Change.org, stating that it tends to be left-biased.	entailment
+The factuality of Change.org is reported to be Mixed.	entailment
+The factuality of Change.org is reported to be Mixed, according to Media Bias Fact Check.	entailment
+Change.org failed a fact-check for an article titled "Petitions Calling for Political Correctness"	entailment
+Change.org relies on advertising for revenue	contradiction
+Change.org relies on donations for revenue	entailment
+Change.org has endorsed left-biased causes	entailment
+Change.org has an editorial bias towards left-leaning causes	entailment
+Change.org printed a factually misleading titled Left-biased Source	entailment

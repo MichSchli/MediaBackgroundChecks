@@ -1,0 +1,28 @@
+WebMD owns U.S. Pharmacist	entailment
+WebMD is the owner of U.S. Pharmacist	entailment
+WebMD bought U.S. Pharmacist	entailment
+WebMD acquired U.S. Pharmacist	entailment
+U.S. Pharmacist is funded through **advertising, print subscriptions, and paid CE exams**.	entailment
+The remit of U.S. Pharmacist is to provide the nation’s pharmacists with up-to-date, authoritative, peer-reviewed clinical articles relevant to contemporary pharmacy practice in a variety of settings, including community pharmacy, hospitals, managed care systems, ambulatory care clinics, home care organizations, long-term care facilities, industry, and academia.	entailment
+The mission of U.S. Pharmacist is to provide the nation’s pharmacists with up-to-date, authoritative, peer-reviewed clinical articles relevant to contemporary pharmacy practice in a variety of settings, including community pharmacy, hospitals, managed care systems, ambulatory care clinics, home care organizations, long-term care facilities, industry, and academia.	entailment
+The usual audience of U.S. Pharmacist is **pharmacists**	entailment
+U.S. Pharmacist tends to the **pharmacists**	entailment
+Other sources have commented on U.S. Pharmacist, stating that it tends to be **pro-science**	entailment
+The factuality of U.S. Pharmacist is reported to be High	entailment
+The factuality of U.S. Pharmacist is reported to be High, according to Mediabiasfactcheck	entailment
+U.S. Pharmacist failed a fact-check for an article titled "Artificial Intelligence Might Streamline Drug Development".	contradiction
+U.S. Pharmacist chose not to cover pseudoscience	entailment
+U.S. Pharmacist relies on advertising for revenue	entailment
+U.S. Pharmacist relies on subscriptions for revenue	contradiction
+U.S. Pharmacist relies on donations for revenue	contradiction
+U.S. Pharmacist has received donations from **WebMD**	contradiction
+When aggregating stories, U.S. Pharmacist relies on information from **healthcare professionals and peer-reviewed journals**.	entailment
+U.S. Pharmacist has endorsed pro-science.	entailment
+U.S. Pharmacist has an editorial bias towards pro-science.	entailment
+WebMD is the editor of U.S. Pharmacist	entailment
+U.S. Pharmacist printed a biased article titled "Artificial Intelligence Might Streamline Drug Development".	contradiction
+U.S. Pharmacist had to apologize to no one for nothing	entailment
+U.S. Pharmacist is funded by the **private** government	contradiction
+U.S. Pharmacist is a magazine	entailment
+U.S. Pharmacist uses a peer review process	entailment
+U.S. Pharmacist covers the following topics: pain management, women’s health, infectious diseases, and respiratory diseases	entailment

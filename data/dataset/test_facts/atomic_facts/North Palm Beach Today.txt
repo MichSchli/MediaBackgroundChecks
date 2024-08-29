@@ -1,0 +1,21 @@
+Metric Media Foundation owns North Palm Beach Today	entailment
+Metric Media LLC is the owner of North Palm Beach Today	contradiction
+North Palm Beach Today is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of North Palm Beach Today is to **provide objective, data-driven information without political bias.**	entailment
+The mission of North Palm Beach Today is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of North Palm Beach Today is conservative-leaning.	entailment
+North Palm Beach Today tends to the right-center, biased, and Questionable	entailment
+Other sources have commented on North Palm Beach Today, stating that it tends to be conservative-leaning.	entailment
+The factuality of North Palm Beach Today is reported to be questionable.	entailment
+The factuality of North Palm Beach Today is reported to be Questionable, according to D. Van Zandt 04/02/2021.	entailment
+North Palm Beach Today provides original content written by staff journalists	contradiction
+North Palm Beach Today relies on advertising for revenue	entailment
+North Palm Beach Today relies on donations for revenue	entailment
+North Palm Beach Today has received donations from **the Metric Media Foundation**	entailment
+When aggregating stories, North Palm Beach Today relies on information from **algorithmically produced content**.	entailment
+North Palm Beach Today has endorsed right-center, biased, and Questionable	entailment
+North Palm Beach Today has an editorial bias towards right-center.	entailment
+North Palm Beach Today printed a biased article titled **Imposter Site Lacks Transparency and Publishes False Information**.	entailment
+North Palm Beach Today had to apologize for **publishing false information**	entailment
+The North Palm Beach Today is funded by the United States government	entailment
+North Palm Beach Today is a right-center biased and Questionable site.	entailment

@@ -1,0 +1,19 @@
+Shaw Media owns Sauk Valley Gazette	entailment
+Shaw Media is the owner of Sauk Valley Gazette	entailment
+Sauk Valley Gazette is funded through **sponsored content, advertising, and subscription fees**.	entailment
+The remit of Sauk Valley Gazette is to cover news, crime, sports, and business for the Dixon area.	entailment
+Sauk Valley Gazette tends to the Least Biased	entailment
+The Sauk Valley Gazette tends to the **left** according to **Media Bias/Fact Check**	entailment
+Other sources have commented on Sauk Valley Gazette, stating that it tends to be Least Biased	entailment
+The factuality of Sauk Valley Gazette is reported to be High	entailment
+The factuality of Sauk Valley Gazette is reported to be High, according to Mediabiasfactcheck.	entailment
+Sauk Valley Gazette failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Sauk Valley Gazette chose not to cover Dixon school shooter gets 30 years, must serve 85%.	contradiction
+Sauk Valley Gazette relies on advertising for revenue	entailment
+Sauk Valley Gazette relies on subscriptions for revenue	entailment
+Sauk Valley Gazette relies on donations for revenue	contradiction
+When aggregating stories, Sauk Valley Gazette relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/) and other wire services.	entailment
+Sauk Valley Gazette has an editorial bias towards **least biased**	entailment
+Sauk Valley Gazette was fined 	contradiction
+Sauk Valley Gazette printed a biased article titled "Dixon school shooter gets 30 years, must serve 85%".	contradiction
+Sauk Valley Gazette printed a factually misleading titled "Dixon school shooter gets 30 years, must serve 85%"	contradiction

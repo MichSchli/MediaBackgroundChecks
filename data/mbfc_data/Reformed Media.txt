@@ -1,0 +1,14 @@
+History
+Founded in 2011, Reformed Media publishes conservative news and opinion articles via aggregation. A
+[domain search](https://whois.domaintools.com/reformedmedia.net) reveals the domain is registered to Tim Brown who owns/writes for several conservative news and opinion sites such as the Washington Standard, FreedomOutpost, and Sons of Liberty.
+The website completely lacks transparency as they do not provide an about page or ownership information.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Reformed Media lacks transparency as they do not disclose ownership. However, Tim Brown owns the website based on domain registration. Advertising generates revenue.
+Analysis / Bias
+The Reformed Media website aggregates news from external sources and direct links to the full story offsite. When reviewing news aggregation sites, we simply look at the sources they link to and calculate a score.
+In review, Reformed Media links to primarily conservative websites that MBFC has rated as either extremely right biased, questionable, conspiracy related, and/or low in factual reporting. Besides linking to Tim Brown’s other websites, such as the Washington Standard and Guns in the News, they also link to well-known sources with poor track records. For example, they provide news from
+[Breitbart](https://mediabiasfactcheck.com/breitbart/) (Questionable), [ZeroHedge](https://mediabiasfactcheck.com/zero-hedge/) (Conspiracy), [New York Post](https://mediabiasfactcheck.com/new-york-post/) (Right-Mixed), [New American](https://mediabiasfactcheck.com/the-new-american/) (Right-Mixed), and [Health Nut News](https://mediabiasfactcheck.com/health-nut-news/) (Pseudoscience).
+In general, the sources Reformed Media uses all have poor track records with fact-checkers and hold far-right wing biases.
+Failed Fact Checks
+- See individual sources above.

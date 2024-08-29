@@ -1,0 +1,20 @@
+WJHL- Johnson City News leads WJHL - Johnson City News	entailment
+Nexstar Media Group owns WJHL - Johnson City News	entailment
+Nexstar Media Group is the owner of WJHL - Johnson City News	entailment
+Nexstar Media Group bought WJHL - Johnson City News	entailment
+Nexstar Media Group acquired WJHL - Johnson City News	entailment
+WJHL - Johnson City News is funded through advertising	entailment
+The remit of WJHL - Johnson City News is to **publish news for the greater Johnson City, Tennessee area**.	entailment
+The mission of WJHL - Johnson City News is to report news factually and with minimal bias.	entailment
+The usual audience of WJHL - Johnson City News is **the greater Johnson City, Tennessee area**.	entailment
+WJHL - Johnson City News tends to the Least Biased	entailment
+WJHL - Johnson City News tends to the **right** according to **Mediabiasfactcheck**	contradiction
+Other sources have commented on WJHL - Johnson City News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WJHL - Johnson City News is reported to be High	entailment
+The factuality of WJHL - Johnson City News is reported to be High, according to Mediabiasfactcheck.com	entailment
+WJHL - Johnson City News printed a retraction after failing a fact-check for an article titled "Jonesville, Va. woman charged with first-degree murder".	contradiction
+WJHL - Johnson City News chose not to cover [editorials]	entailment
+WJHL - Johnson City News relies on advertising for revenue	entailment
+When aggregating stories, WJHL - Johnson City News relies on information from the Nexstar Media Wire, the Associated Press, and other large credible media outlets.	entailment
+WJHL - Johnson City News has an editorial bias towards **neither side**	entailment
+WJHL - Johnson City News had to apologize for None in the last 5 years.	entailment

@@ -1,0 +1,20 @@
+Who founded Defector	entailment
+Defector acquired Defector	contradiction
+Defector is funded through subscriptions, merchandise, and advertising	entailment
+The remit of Defector is to primarily focus on sports news but also delve into various political topics.	entailment
+The mission of Defector is to cover various topics, from sports to politics.	entailment
+Defector tends to the Left-Center.	entailment
+Other sources have commented on Defector, stating that it tends to be Left-Center biased	entailment
+The factuality of Defector is reported to be High	entailment
+The factuality of Defector is reported to be High, according to a source analysis from M. Huitsing 09/17/2023	entailment
+Defector relies on advertising for revenue	entailment
+Defector relies on subscriptions for revenue	entailment
+Defector relies on donations for revenue	entailment
+Defector has received donations from **subscriptions, merchandise, and advertising**	entailment
+When aggregating stories, Defector relies on information from **credible sources**	entailment
+Defector has an editorial bias towards Left-Center	entailment
+Defector printed a biased article titled "This Is Why Everybody Hates The Democrats."	entailment
+Defector printed a factually misleading titled "Trump Arraignment Only Seems Unprecedented".	entailment
+Defector is funded by the **United States** government	contradiction
+Defector is a media outlet	entailment
+Defector covers the following topics: sports, politics	entailment

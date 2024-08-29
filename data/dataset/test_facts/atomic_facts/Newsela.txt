@@ -1,0 +1,25 @@
+Newsela founded Newsela	entailment
+Newsela is the founder of Newsela	contradiction
+Newsela leads Newsela	contradiction
+Newsela Inc. owns Newsela	entailment
+Newsela Inc. is the owner of Newsela.	entailment
+Newsela bought Newsela	contradiction
+Newsela acquired Newsela	contradiction
+Newsela is funded through Technology Crossover Ventures	entailment
+The remit of Newsela is to provide a database of current events stories tailor-made for classroom use.	entailment
+The mission of Newsela is to provide students with current events stories tailored for classroom use.	entailment
+The usual audience of Newsela is educators and school districts.	entailment
+Newsela tends to the neutra	entailment
+Other sources have commented on Newsela, stating that it tends to be **Least Biased**.	entailment
+The factuality of Newsela is reported to be High	entailment
+The factuality of Newsela is reported to be High, according to D. Van Zandt	entailment
+Newsela failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Newsela printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+Newsela chose not to cover failed fact checks	entailment
+Newsela relies on subscriptions for revenue	entailment
+Newsela relies on donations for revenue	contradiction
+When aggregating stories, Newsela relies on information from **over 100 content partners**.	entailment
+Newsela has endorsed neutral reporting of news.	entailment
+Newsela has an editorial bias towards **least biased, Left-Center, or Left**	entailment
+Newsela is funded by the U.S. government	contradiction
+Newsela covers the following topics: current events stories tailor-made for classroom use.	entailment

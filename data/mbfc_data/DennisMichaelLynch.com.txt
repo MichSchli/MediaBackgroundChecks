@@ -1,0 +1,13 @@
+History
+Founded in 2011, DennisMichaelLynch.com is the personal website of
+[Dennis Michael Lynch](https://en.wikipedia.org/wiki/Dennis_Michael_Lynch), who has produced films critical of undocumented immigration. He has made appearances as a guest on [Fox News](https://mediabiasfactcheck.com/fox-news/) and [Newsmax TV](https://mediabiasfactcheck.com/newsmax/). According to their [about page](https://dennismichaellynch.com/about/), “Dennis Michael Lynch (DML) is an award-winning businessman and acclaimed filmmaker who is married to his high school sweetheart. Together they have 4 children. [DML](https://mediabiasfactcheck.com/dml-news/) is active in news, politics, film making, and he supports various causes through The DML Foundation.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Dennis Michael Lynch owns dennismichaellynch.com. Advertising, sponsored content, a store that sells DVDs, and branded merchandise generate revenue.
+Analysis / Bias
+DennisMichaelLynch.com features podcast episodes and aggregates news from his news app DML News (
+[TeamDML.com](https://mediabiasfactcheck.com/dml-news/)).
+DennisMichaelLynch.com’s news feed consists of an opening commentary (conservative-leaning) that is followed by a snippet of a summary from the source. Articles and headlines use emotionally loaded wording, such as this
+[REPORT: Bombshell FBI report contradicts Alec Baldwin’s key claim about tragedy on set.](https://teamdml.com/news/report-bombshell-fbi-report-contradicts-alec-baldwins-key-claim-about-tragedy-on-set/?lpr=1) The DennisMichaelLynch.com aggregator draws upon a mix of credible sources such as [NBC News](https://mediabiasfactcheck.com/nbc-news/) and [ABC News](https://mediabiasfactcheck.com/abc-news/) and less reliable sources such as the [New York Post](https://mediabiasfactcheck.com/new-york-post/) and [Daily Mail](https://mediabiasfactcheck.com/daily-mail/).
+Editorially, story selection favors the right, while opinion content strongly supports former President Trump, such as this
+[Trump has huge night, what it means for midterms](https://teamdml.com/news/dml-podcast-trump-has-huge-night-what-it-means-for-midterms-ep138/?lpr=1). Although news content is usually factual, the DML podcasts have made [false and misleading statements](https://api.newsguardtech.com/label/dennismichaellynch.com?cid=5beca98f-3100-40d0-8a9e-7adc09600d4f) regarding election fraud in the 2020 election and promoted covid vaccine disinformation. Generally, aggregated news is mostly accurate but sometimes relies on poor sources. Politically, DennisMichaelLynch.com holds a right conservative bias.
+Failed Fact Checks

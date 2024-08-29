@@ -1,0 +1,22 @@
+Hubbard Broadcasting, Inc. owns KAAL - Austin News	entailment
+Hubbard Broadcasting, Inc. acquired KAAL - Austin News	contradiction
+KAAL - Austin News is funded through **advertising and sponsored content**.	entailment
+The remit of KAAL - Austin News is to report news, sports, traffic, weather, and crime for the Austin, MN area.	entailment
+The usual audience of KAAL - Austin News is **the Austin television market**	entailment
+KAAL - Austin News tends to the **least biased**	entailment
+Other sources have commented on KAAL - Austin News, stating that it tends to be Least Biased	entailment
+The factuality of KAAL - Austin News is reported to be High	entailment
+The factuality of KAAL - Austin News is reported to be High, according to Mediabiasfactcheck.	entailment
+KAAL - Austin News failed a fact-check for an article titled "Jailed Rochester woman resentenced to nearly 8 years for previous crimes."	contradiction
+KAAL - Austin News chose not to cover opinion pieces	entailment
+KAAL - Austin News relies on advertising for revenue	entailment
+KAAL - Austin News relies on subscriptions for revenue	contradiction
+KAAL - Austin News relies on donations for revenue	contradiction
+When aggregating stories, KAAL - Austin News relies on information from **staff reporters and the Associated Press**.	entailment
+KAAL - Austin News has endorsed minimal editorializing	entailment
+KAAL - Austin News has an editorial bias towards least biased	entailment
+KAAL - Austin News printed a biased article titled "Jailed Rochester woman resentenced to nearly 8 years for previous crimes".	entailment
+KAAL - Austin News had to apologize for None	entailment
+KAAL - Austin News is funded by the American government	contradiction
+KAAL - Austin News is a television station	entailment
+KAAL - Austin News covers the following topics: news, sports, traffic, weather, and crime	entailment

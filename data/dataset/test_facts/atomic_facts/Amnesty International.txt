@@ -1,0 +1,20 @@
+Amnesty International bought Amnesty International	contradiction
+Amnesty International acquired Amnesty International	contradiction
+Amnesty International is funded through donations	entailment
+The remit of Amnesty International is to conduct research and generate action to prevent and end grave abuses of human rights, and to demand justice for those whose rights have been violated.	entailment
+The mission of Amnesty International is to conduct research and generate action to prevent and end grave abuses of human rights, and to demand justice for those whose rights have been violated.	entailment
+The usual audience of Amnesty International is  worldwide .	entailment
+Amnesty International tends to the **left**	entailment
+Other sources have commented on Amnesty International, stating that it tends to be left-leaning	entailment
+The factuality of Amnesty International is reported to be High	entailment
+The factuality of Amnesty International is reported to be HIGH, according to Media Bias Fact Check.	entailment
+Amnesty International failed a fact-check for an article titled "No, Amnesty International does not say 60 percent of migrant women in Mexico have been raped".	contradiction
+Amnesty International printed a retraction after failing a fact-check for an article titled "No, Amnesty International does not say 60 percent of migrant women in Mexico have been raped".	entailment
+Amnesty International chose not to cover Egypt: Largest wave of mass arrests since President Abdel Fattah al-Sisi came to power.	contradiction
+Amnesty International relies on advertising for revenue	entailment
+Amnesty International relies on subscriptions for revenue	contradiction
+Amnesty International relies on donations for revenue	entailment
+Amnesty International has endorsed liberal policy	entailment
+Amnesty International has an editorial bias towards **left**	entailment
+Amnesty International is funded by the UK government	contradiction
+Amnesty International is a non-governmental organization	entailment

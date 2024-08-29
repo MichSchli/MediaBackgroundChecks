@@ -1,0 +1,20 @@
+Earth First Journal is funded through a subscription and donation model as well as a store that sells merchandise.	entailment
+The remit of Earth First Journal is to promote far left biased based on extreme left environmental activism and anti-capitalism sentiments.	entailment
+The usual audience of Earth First Journal is far left biased.	entailment
+The Earth First Journal tends to the extreme left environmental activism and anti-capitalism.	entailment
+Other sources have commented on Earth First Journal, stating that it tends to be **far left biased**.	entailment
+The factuality of Earth First Journal is reported to be Mixed	entailment
+The factuality of Earth First Journal is reported to be Mixed, according to Mediabiasfactcheck.com.	entailment
+Earth First Journal failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Earth First Journal chose not to cover [GMOs](http://earthfirstjournal.org/newswire/2014/02/22/anti-gmo-activists-take-a-stand/).	entailment
+Earth First Journal relies on subscriptions for revenue	entailment
+Earth First Journal relies on donations for revenue	entailment
+subscription and donation model as well as a store that sells merchandise	entailment
+When aggregating stories, Earth First Journal relies on information from extreme left environmental activism and anti-capitalism.	entailment
+Earth First Journal has endorsed extreme left environmental activism and anti-capitalism	entailment
+Earth First Journal has an editorial bias towards far left environmental activism and anti-capitalism	entailment
+Earth First Journal was fined 	entailment
+Earth First Journal had to apologize for  using sabotage tactics.	entailment
+Earth First Journal is funded by the  government.	contradiction
+Earth First Journal is a radical environmental advocacy group	entailment
+Earth First Journal covers the following topics:  radical environmental advocacy and anti-capitalism.	entailment

@@ -1,0 +1,18 @@
+ founded Seaforth Huron Expositor	entailment
+PostMedia owns Seaforth Huron Expositor	entailment
+Seaforth Huron Expositor is funded through advertising and subscription fees	entailment
+The usual audience of Seaforth Huron Expositor is Right-Center Biased	entailment
+Seaforth Huron Expositor tends to the  Right-Center Biased.	entailment
+Seaforth Huron Expositor tends to the right-center biased according to story selection and editorial positions	entailment
+Other sources have commented on Seaforth Huron Expositor, stating that it tends to be **Right-Center Biased**	entailment
+The factuality of Seaforth Huron Expositor is reported to be High	entailment
+The factuality of Seaforth Huron Expositor is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+Seaforth Huron Expositor failed a fact-check for an article titled None in the Last 5 years	contradiction
+Seaforth Huron Expositor chose not to cover  the left-leaning CanadaLand report on PostMedia's directive to be "reliably conservative".	entailment
+Seaforth Huron Expositor relies on advertising for revenue	entailment
+Seaforth Huron Expositor relies on subscriptions for revenue	entailment
+Seaforth Huron Expositor relies on donations for revenue	contradiction
+When aggregating stories, Seaforth Huron Expositor relies on information from journalists.	entailment
+Seaforth Huron Expositor has endorsed right-Center Biased	entailment
+Seaforth Huron Expositor has an editorial bias towards **the conservative right**.	entailment
+Seaforth Huron Expositor printed a factually misleading titledNone in the Last 5 years.	entailment

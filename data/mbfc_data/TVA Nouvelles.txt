@@ -1,0 +1,15 @@
+History
+Founded in 1972, TVA Nouvelles (TVA News) is a French-language television station based in Montreal, Quebec, Canada. tvanouvelles.ca is the associated news website covering local, national, international, politics, crime, technology, and culture. The website lacks transparency as they do not have an about page or clearly describes ownership and funding.
+[Read our profile on Canadian media and government.](https://mediabiasfactcheck.com/canada-media-profile/)
+Funded by / Ownership
+[The TVA Group](https://www.groupetva.ca/presse/communiques/groupe-tva-annonce-ses-resultats-pour-quatrieme-trimestre-2020#_ftnref1), a subsidiary of the telecommunications company Quebecor, owns TVA Nouvelles. Quebecor owns prominent newspapers such as [Le Journal de Montreal](https://mediabiasfactcheck.com/le-journal-de-montreal/) and Le Journal de Quebec. The TVA group receives millions of dollars in subsidies and funding from the [government](https://www.canada.ca/en/revenue-agency/services/wage-rent-subsidies/emergency-wage-subsidy.html). Advertising generates revenue.
+Analysis / Bias
+TVA Nouvelles (TVA News) provides news programming on the TV station and a website that reports local, national, and international news. The focus of this review is on website content only.
+Local news is covered with minimal bias, such as this
+[Fatal collision between a vehicle and a semi-trailer](https://www.tvanouvelles.ca/2022/07/31/collision-mortelle-entre-un-vehicule-et-un-semi-remorque). At the same time, international news is covered by [AFP](https://mediabiasfactcheck.com/afp-agence-france-presse/) and other credible news agencies. Many stories on the website contain videos from the TV station.
+Editorially, TVA Nouvelles does not have a dedicated opinion section but sometimes mixes opinion into news articles such as this
+[Law 21 criticized: “we want to make Quebec look like racist people.”](https://www.tvanouvelles.ca/2021/12/13/loi-21-critiquee-on-veut-faire-passer-le-quebec-comme-des-gens-racistes) When reporting on Quebec’s conservative/nationalist Prime Minister Francois Legault, they often report negatively, such as this [Double time bonuses in health: “Too little, too late,” according to the unions](https://www.tvanouvelles.ca/2022/07/21/primes-temps-double-en-sante-trop-peu-trop-tard-selon-les-syndicats-1).
+Finally, a
+[Reuters](https://mediabiasfactcheck.com/reuters/) institute survey found that 64% of respondents [trust their news coverage](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2022/canada) and 20% do not, ranking them #3 in trust among the major Canadian news providers. TVA Nouvelles generally reports news factually but lacks transparency and holds a left-leaning editorial bias.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,17 @@
+The Archaeological Institute of America is the owner of American Journal of Archaeology	entailment
+American Journal of Archaeology is funded through subscription fees and donations to the Archaeological Institute of America	entailment
+The remit of American Journal of Archaeology is to publish peer-reviewed research, studies, and news related to Art and Archaeology.	entailment
+The mission of American Journal of Archaeology is to advance our understanding of the art and archaeology of the ancient Mediterranean and Near Eastern worlds.	entailment
+The American Journal of Archaeology tends to the  Pro-Science source based on peer review and low bias.	entailment
+Other sources have commented on American Journal of Archaeology, stating that it tends to be **a pro-science source based on peer review**.	entailment
+The factuality of American Journal of Archaeology is reported to be high, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+American Journal of Archaeology failed a fact-check for an article titled "None in the Last 5 years".	entailment
+The American Journal of Archaeology chose not to cover Failed Fact Checks	entailment
+American Journal of Archaeology relies on advertising for revenue	contradiction
+American Journal of Archaeology relies on subscriptions for revenue	entailment
+American Journal of Archaeology relies on donations for revenue	entailment
+When aggregating stories, American Journal of Archaeology relies on information from **peer-reviewed research, studies, and news related to Art and Archaeology**	entailment
+American Journal of Archaeology has endorsed the AIA Statement on Archaeology and Social Justice	entailment
+American Journal of Archaeology has an editorial bias towards pro-science.	entailment
+American Journal of Archaeology printed a biased article titled "The American Journal of Archaeology stands in solidarity with Black, Indigenous, and People of Color against systemic injustice in North America and throughout the world."	entailment
+American Journal of Archaeology printed a factually misleading titled "None in the Last 5 years".	contradiction

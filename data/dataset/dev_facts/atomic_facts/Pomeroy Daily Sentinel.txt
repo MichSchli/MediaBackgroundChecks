@@ -1,0 +1,19 @@
+AIM Media owns Pomeroy Daily Sentinel.	entailment
+AIM Media is the owner of Pomeroy Daily Sentinel	entailment
+AIM Media bought Pomeroy Daily Sentinel	entailment
+The Pomeroy Daily Sentinel is funded through advertising and subscription fees.	entailment
+The remit of Pomeroy Daily Sentinel is to **publish local news through the use of local journalists and lean right in its views as more op-eds slightly favor the right**.	entailment
+The mission of Pomeroy Daily Sentinel is to report factually and with a right-leaning editorial bias	entailment
+Pomeroy Daily Sentinel tends to the right.	entailment
+Pomeroy Daily Sentinel tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on Pomeroy Daily Sentinel, stating that it tends to be right-center biased.	entailment
+The factuality of Pomeroy Daily Sentinel is reported to be High	entailment
+The factuality of Pomeroy Daily Sentinel is reported to be High, according to D. Van Zandt 	entailment
+Pomeroy Daily Sentinel chose not to cover national news	entailment
+Pomeroy Daily Sentinel provides original content written by staff journalists	entailment
+Pomeroy Daily Sentinel relies on advertising for revenue	entailment
+Pomeroy Daily Sentinel relies on subscriptions for revenue	entailment
+Pomeroy Daily Sentinel relies on donations for revenue	contradiction
+When aggregating stories, Pomeroy Daily Sentinel relies on information from **local journalists**.	entailment
+Pomeroy Daily Sentinel has an editorial bias towards right	entailment
+Pomeroy Daily Sentinel printed a factually misleading titled newspaper	contradiction

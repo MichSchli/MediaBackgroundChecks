@@ -1,0 +1,21 @@
+Lisa Gardner is the CEO of KUOW NPR	contradiction
+University of Washington owns KUOW NPR	entailment
+University of Washington is the owner of KUOW NPR	entailment
+KUOW NPR is funded through Listeners, Members, and Business contributions.	entailment
+The remit of KUOW NPR is to  report news and radio programming information.	entailment
+The usual audience of KUOW NPR is Left-Center Biased	entailment
+KUOW NPR tends to the Left-Center Bias	entailment
+Other sources have commented on KUOW NPR, stating that it tends to be Left-Center Biased.	entailment
+The factuality of KUOW NPR is reported to be High	entailment
+The factuality of KUOW NPR is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+KUOW NPR failed a fact-check for an article titled "House Democrats Unveil 2 Articles Of Impeachment Against Trump"	contradiction
+KUOW NPR chose not to cover House Democrats Unveil 2 Articles Of Impeachment Against Trump	contradiction
+KUOW NPR relies on advertising for revenue	contradiction
+KUOW NPR relies on donations for revenue	entailment
+KUOW NPR has received donations from the University of Washington	entailment
+When aggregating stories, KUOW NPR relies on information from **NPR**	entailment
+KUOW NPR has endorsed High for factual reporting due to proper sourcing of information and a clean fact check record.	entailment
+KUOW NPR has an editorial bias towards **Left-Center Biased**.	entailment
+KUOW NPR had to apologize for **none**	entailment
+KUOW NPR is funded by the University of Washington government	entailment
+KUOW NPR is a Left-Center Biased	entailment

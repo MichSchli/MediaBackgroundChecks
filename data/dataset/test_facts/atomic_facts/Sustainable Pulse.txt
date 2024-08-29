@@ -1,0 +1,24 @@
+Sustainable Pulse leads Sustainable Pulse	contradiction
+Sustainable Pulse is funded through advertising	entailment
+The remit of Sustainable Pulse is to cast GMOs in a negative light.	entailment
+The mission of Sustainable Pulse is to cast GMOs in a negative light.	entailment
+The usual audience of Sustainable Pulse is **the general public**	entailment
+Sustainable Pulse tends to the **anti-GMO Propaganda**	entailment
+Other sources have commented on Sustainable Pulse, stating that it tends to be **a strong pseudoscience source**	entailment
+The factuality of Sustainable Pulse is reported to be a strong pseudoscience source	entailment
+The factuality of Sustainable Pulse is reported to be **strong pseudoscience** according to **D. Van Zandt 9/29/2016**	entailment
+Sustainable Pulse printed a retraction after failing a fact-check for an article titled "Let Them Eat GM Cottonseed!"	entailment
+Sustainable Pulse chose not to cover **pro-GMO perspectives**	entailment
+Sustainable Pulse provides original content written by staff journalists	entailment
+Sustainable Pulse relies on advertising for revenue	entailment
+Sustainable Pulse relies on subscriptions for revenue	contradiction
+Sustainable Pulse has received donations from **advertising**	entailment
+When aggregating stories, Sustainable Pulse relies on information from **their network of worldwide sources**.	entailment
+Sustainable Pulse has endorsed debunked GMO claims.	entailment
+Sustainable Pulse has an editorial bias towards anti-GMO propaganda	entailment
+Sustainable Pulse was fined **$10,000**	entailment
+Sustainable Pulse printed a biased article titled Let Them Eat GM Cottonseed!.	entailment
+Sustainable Pulse printed a factually misleading titled Let Them Eat GM Cottonseed!	entailment
+Sustainable Pulse is a **pseudo science source**	entailment
+Sustainable Pulse uses a peer review process	contradiction
+Sustainable Pulse covers the following topics: anti-GMO propaganda.	entailment

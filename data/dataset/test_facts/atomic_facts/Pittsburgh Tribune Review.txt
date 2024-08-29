@@ -1,0 +1,19 @@
+Trib Total Media is the owner of Pittsburgh Tribune Review	entailment
+Pittsburgh Tribune Review is funded through advertising and subscription fees.	entailment
+The remit of Pittsburgh Tribune Review is to **report news factually with a right-leaning bias editorially**.	entailment
+The mission of Pittsburgh Tribune Review is to  provide news coverage with minimal bias.	contradiction
+The usual audience of Pittsburgh Tribune Review is **conservatives**	entailment
+Pittsburgh Tribune Review tends to the right.	entailment
+Other sources have commented on Pittsburgh Tribune Review, stating that it tends to be right-leaning.	entailment
+The factuality of Pittsburgh Tribune Review is reported to be **High**	entailment
+The factuality of Pittsburgh Tribune Review is reported to be High, according to proper sourcing and a clean fact check record.	entailment
+Pittsburgh Tribune Review printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+Pittsburgh Tribune Review chose not to cover **failed fact checks**	entailment
+Pittsburgh Tribune Review relies on advertising for revenue	entailment
+Pittsburgh Tribune Review relies on subscriptions for revenue	entailment
+Pittsburgh Tribune Review relies on donations for revenue	contradiction
+When aggregating stories, Pittsburgh Tribune Review relies on information from **Associated Press**.	entailment
+Pittsburgh Tribune Review has an editorial bias towards **the right**	entailment
+The Pittsburgh Tribune Review is funded by the private government	contradiction
+The Pittsburgh Tribune Review is a Right-Center biased	entailment
+Pittsburgh Tribune Review covers the following topics: local news and national/world news	entailment

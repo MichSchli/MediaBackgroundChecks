@@ -1,0 +1,20 @@
+Griffin Communications owns K-Hits 106.9 - Tulsa	entailment
+Griffin Communications is the owner of K-Hits 106.9 - Tulsa	entailment
+Griffin Communications bought K-Hits 106.9 - Tulsa	entailment
+Griffin Communications acquired K-Hits 106.9 - Tulsa.	entailment
+K-Hits 106.9 - Tulsa is funded through **advertising and sponsored content**	entailment
+The remit of K-Hits 106.9 - Tulsa is to **primarily cover local news, crime, entertainment, and sports for the Tulsa, Oklahoma, area**.	entailment
+The mission of K-Hits 106.9 - Tulsa is to cover local news, crime, entertainment, and sports for the Tulsa, Oklahoma, area.	entailment
+K-Hits 106.9 - Tulsa tends to the Least Biased.	entailment
+Other sources have commented on K-Hits 106.9 - Tulsa, stating that it tends to be Least Biased	entailment
+The factuality of K-Hits 106.9 - Tulsa is reported to be High	entailment
+The factuality of K-Hits 106.9 - Tulsa is reported to be High, according to D. Van Zandt	entailment
+K-Hits 106.9 - Tulsa failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+K-Hits 106.9 - Tulsa chose not to cover editorials	entailment
+K-Hits 106.9 - Tulsa relies on advertising for revenue	entailment
+K-Hits 106.9 - Tulsa relies on donations for revenue	contradiction
+When aggregating stories, K-Hits 106.9 - Tulsa relies on information from the Associated Press.	entailment
+K-Hits 106.9 - Tulsa has an editorial bias towards **minimal bias**	entailment
+K-Hits 106.9 - Tulsa is funded by the  private  government	contradiction
+K-Hits 106.9 - Tulsa is a radio station	entailment
+K-Hits 106.9 - Tulsa covers the following topics: local news, crime, entertainment, and sports	entailment

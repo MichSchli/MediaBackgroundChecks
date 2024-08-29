@@ -1,0 +1,23 @@
+Ron Paul founded Campaign for Liberty	entailment
+Ron Paul is the founder of Campaign for Liberty	entailment
+Ron Paul owns Campaign for Liberty	contradiction
+Campaign for Liberty is funded through donations	entailment
+The remit of Campaign for Liberty is to continue the principles that invoked the grassroots support of his campaign and also to be able to continue the message that he promoted during his bid, without having a presidential campaign, and is also intended to “lay the groundwork for a different America.” It was also established as a reporting agency for news involved with the principles of the organization.	entailment
+The usual audience of Campaign for Liberty is **supporters of libertarian principles**	entailment
+Campaign for Liberty tends to the grassroots support of Ron Paul's campaign and message.	entailment
+Campaign for Liberty tends to the **right-center biased (Libertarian)** according to **Media Bias/Fact Check**.	entailment
+Other sources have commented on Campaign for Liberty, stating that it tends to be **Right-Center biased (Libertarian)**.	entailment
+The factuality of Campaign for Liberty is reported to be Mixed	entailment
+The factuality of Campaign for Liberty is reported to be Mixed, according to D. Van Zandt 1/25/2018	entailment
+Campaign for Liberty failed a fact-check for an article titled "Estimates for adopting Obamacare’s Medicaid expansion show it will cost Virginia taxpayers $902 million through 2022."	entailment
+Campaign for Liberty chose not to cover **their donors**	entailment
+Campaign for Liberty provides original content written by staff journalists	entailment
+Campaign for Liberty relies on subscriptions for revenue	entailment
+Campaign for Liberty relies on donations for revenue	entailment
+When aggregating stories, Campaign for Liberty relies on information from [here](http://campaignforliberty.org/federal-issues/).	entailment
+Campaign for Liberty has endorsed federal issues, state issues, first Amendment protection, abolishing Common Core Education, healthcare as a state choice, and fighting against the police state.	entailment
+Campaign for Liberty has an editorial bias towards Right-Center (Libertarian)	entailment
+Campaign for Liberty was fined 	entailment
+Campaign for Liberty printed a factually misleading titled "Estimates for adopting Obamacare’s Medicaid expansion show it will cost Virginia taxpayers $902 million through 2022."	entailment
+Campaign for Liberty had to apologize for [two failed fact checks](http://www.politifact.com/virginia/statements/2014/may/19/campaign-liberty/ron-paul-group-says-medicaid-expansion-will-cost-v/) and [here](http://www.politifact.com/georgia/statements/2013/sep/09/georgia-campaign-liberty/price-guilty-tomfoolery/).	entailment
+Campaign for Liberty had to apologize to U.S. Rep. Tom Price for sending letters both supporting and opposing the “small-business killing Internet Tax Mandate.”	contradiction

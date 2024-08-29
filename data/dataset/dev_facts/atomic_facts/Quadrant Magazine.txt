@@ -1,0 +1,24 @@
+Quadrant Magazine is the founder of Quadrant Magazine	contradiction
+Quadrant Magazine leads Quadrant Magazine	entailment
+Quadrant Magazine Ltd. owns Quadrant Magazine.	entailment
+Quadrant Magazine bought Quadrant Magazine	contradiction
+Quadrant Magazine acquired Quadrant Magazine	contradiction
+Quadrant Magazine is funded through donations, subscriptions, and a store.	entailment
+The remit of Quadrant Magazine is to  review literature and feature essays on ideas and topics such as politics, history, universities, and the arts.	entailment
+The mission of Quadrant Magazine is to  promote right-wing and conservative causes.	entailment
+The usual audience of Quadrant Magazine is Right Biased	entailment
+Quadrant Magazine tends to the right	entailment
+Quadrant Magazine tends to the right according to Mediabiasfactcheck.	entailment
+Other sources have commented on Quadrant Magazine, stating that it tends to be **right biased and mixed for factual reporting**.	entailment
+The factuality of Quadrant Magazine is reported to be Mixed	entailment
+The factuality of Quadrant Magazine is reported to be Mixed, according to Mediabiasfactcheck.com.	entailment
+Quadrant Magazine failed a fact-check for an article titled "Burn, Climate Witches, Burn".	contradiction
+Quadrant Magazine chose not to cover climate change.	contradiction
+Quadrant Magazine relies on subscriptions for revenue	entailment
+Quadrant Magazine relies on donations for revenue	entailment
+Quadrant Magazine has received donations from **subscriptions, and a store**	entailment
+When aggregating stories, Quadrant Magazine relies on information from quadrant usually sources their information but sometimes uses poor sources such as Judith Curry.	entailment
+Quadrant Magazine has endorsed right-wing and conservative causes	entailment
+Quadrant Magazine has an editorial bias towards right causes	entailment
+Quadrant Magazine printed a biased article titled Burn, Climate Witches, Burn	entailment
+Quadrant Magazine printed a factually misleading titled Right Biased due to story selection that favors the right and Mixed for factual reporting for opposing the consensus of science and the use of poor sources.	entailment

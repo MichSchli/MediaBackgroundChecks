@@ -1,0 +1,14 @@
+History
+Founded in 2018, Altermed Zentrum (Altermed Center) is an anonymously published website focused on alternative health. The domain is registered in Bosnia and Herzegovina but written in German. According to their
+[about page](https://altermedzentrum.com/uber-uns/), “Here you get a lot of information about medicinal plants, natural healing methods, healthy nutrition, health, and life optimization. As well as recipes for making your own remedies with which you can fight many ailments and diseases in a natural way.”
+Funded by / Ownership
+Altermed Zentrum does not disclose ownership. Advertising generates revenue.
+Analysis / Bias
+Altermed Zentrum publishes a mixture of republished content and original. Most articles focus on alternative health and frequently promote pseudoscience such as this
+[Studies show: Garlic helps against 14 types of cancer and 13 types of infections. Why don’t doctors recommend this?](https://altermedzentrum.com/studien-zeigen-knoblauch-hilft-gegen-14-arten-von-krebs-und-13-arten-von-infektionen-warum-empfehlen-aerzte-das-nicht/) The primary source for this story is [GreenMedInfo](https://mediabiasfactcheck.com/greenmedinfo/), which frequently promotes misleading pseudoscientific information. Doctors don’t recommend garlic because there is [little supportive evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4366009/) to support its value in protecting against cancer.
+The website frequently promotes anti-vaccination propaganda such as this
+[Vaccinating: 27 Crushing Facts About The Pharmaceutical Industry And Its Vaccines !!](https://altermedzentrum.com/impfen-27-zerschmetternde-fakten-ueber-die-pharmaindustrie-und-ihre-impfstoffe/) They rely on poor sources such as [Children’s Health Defense](https://mediabiasfactcheck.com/childrens-health-defense/), which routinely fails fact checks when promoting vaccine misinformation.
+Altermed Zentrum also publishes debunked information regarding the dangers of 5G, such as this
+[5G – Urgent warning of total radiation from new cellular network!](https://altermedzentrum.com/5g-dringende-warnung-vor-totalverstrahlung-durch-neues-mobilfunknetz-2/) Throughout the Covid-19 pandemic, they have [repeatedly](https://altermedzentrum.com/?s=covid) reported false and misleading information. In general, they promote pseudoscientific information.
+Failed Fact Checks
+- A third party has not fact-checked them; see above examples.

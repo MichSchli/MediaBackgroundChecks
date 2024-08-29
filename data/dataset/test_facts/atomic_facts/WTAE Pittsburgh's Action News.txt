@@ -1,0 +1,24 @@
+Hearst Communications owns WTAE Pittsburgh's Action News	entailment
+Hearst Communications is the owner of WTAE Pittsburgh's Action News	entailment
+Hearst Communications acquired WTAE Pittsburgh's Action News	entailment
+WTAE Pittsburgh's Action News is funded through advertising	entailment
+The remit of WTAE Pittsburgh's Action News is to **report on news, crime, sports, weather, and entertainment for the greater Pittsburgh area**.	entailment
+The mission of WTAE Pittsburgh's Action News is to **report on news, crime, sports, weather, and entertainment for the greater Pittsburgh area**.	entailment
+The usual audience of WTAE Pittsburgh's Action News is **the greater Pittsburgh area**.	entailment
+Other sources have commented on WTAE Pittsburgh's Action News, stating that it tends to be **least biased**	entailment
+The factuality of WTAE Pittsburgh's Action News is reported to be High	entailment
+The factuality of WTAE Pittsburgh's Action News is reported to be High, according to D. Van Zandt.	entailment
+WTAE Pittsburgh's Action News failed a fact-check for an article titled None in the Last 5 years	contradiction
+WTAE Pittsburgh's Action News printed a retraction after failing a fact-check for an article titled "Coronavirus in Western Pa.: Over 6,700 cases in 14 counties, according to PA Dept. of Health".	contradiction
+WTAE Pittsburgh's Action News chose not to cover failed fact checks	entailment
+WTAE Pittsburgh's Action News relies on advertising for revenue	entailment
+WTAE Pittsburgh's Action News relies on subscriptions for revenue	contradiction
+WTAE Pittsburgh's Action News relies on donations for revenue	contradiction
+When aggregating stories, WTAE Pittsburgh's Action News relies on information from [CNN](https://mediabiasfactcheck.com/cnn/), [Associated Press](https://mediabiasfactcheck.com/associated-press/), and other Hearst affiliates.	entailment
+WTAE Pittsburgh's Action News has an editorial bias towards liberal perspective.	entailment
+WTAE Pittsburgh's Action News printed a factually misleading titled "Coronavirus in Western Pa.: Over 6,700 cases in 14 counties, according to PA Dept. of Health"	entailment
+WTAE Pittsburgh's Action News had to apologize for None in the Last 5 years	entailment
+WTAE Pittsburgh's Action News paid damages to **a woman** after **a jury found that she was wrongfully arrested**	entailment
+The WTAE Pittsburgh's Action News's headquarters is located in **Pittsburgh, Pennsylvania**	entailment
+WTAE Pittsburgh's Action News is a least biased	entailment
+WTAE Pittsburgh's Action News covers the following topics: news, crime, sports, weather, and entertainment for the greater Pittsburgh area.	entailment

@@ -1,0 +1,19 @@
+History
+Fully Human is a website that explores topics related to human consciousness, technology, and their intersection. According to its
+[About page](https://fully-human.org/about-us/), the site is run by “citizens of Planet Earth” who come “from all walks of life” and “different parts of the world.”
+Funded by / Ownership
+The website does not disclose its funding sources or specific ownership information, which impacts its transparency and credibility.
+Analysis / Bias
+Fully Human publishes articles that sometimes delve into topics not fully supported by mainstream scientific consensus. For example, the article
+[“How can AI and transhumanism make us forget the best and the highest gifts of being human?](https://fully-human.org/how-can-ai-and-transhumanism-make-us-forget-the-best-and-the-highest-gifts-of-being-human/) ” summarizes an original piece with an editor’s note at the end. The article criticizes the advancements in AI and transhumanism, suggesting that they make humans forget their “best and highest gifts.” The editor’s note adds a layer of skepticism towards technological advancements, implying that they could be detrimental to human values. It states, “The religion of dataism, which is inherent in Transhumanism, is changing the very fabric of our humanity.” This adds subjectivity and skepticism toward technological advancements.
+Another article, “
+[Big Tech wants to regulate information on climate change](https://fully-human.org/big-tech-wants-to-regulate-information-on-climate-change/),” criticizes big tech companies for their stance on climate change information. It cites a report by Didi Rankovic and published by Reclaim the Net. The editor’s note questions Big Tech’s role in regulating climate change information, implying adults can discern truth themselves. While not explicitly endorsing misinformation, the note challenges the idea of censorship. This stance can be interpreted as an endorsement of allowing all information, including potential misinformation, to be freely disseminated without interference from tech companies.
+Finally, the website has promoted debunked conspiracy theories such as 5G being harmful to health:
+[LANDMARK 5G STUDY HIGHLIGHTS ITS THREATS TO HEALTH](https://fully-human.org/landmark-5g-study-highlights-its-threats-to-health/). This story is from Pseudoscientist [Joseph Mercola](https://mediabiasfactcheck.com/mercola/). Another story attempts to [connect](https://fully-human.org/what-is-the-connection-between-5g-and-the-coronavirus/) 5G to coronavirus: “5G is a bioweapon, and that it can cause flu-like symptoms, as well as weaken people’s immune systems – symptoms which are now associated with COVID-19.” This last story is from conspiracy theorist [David Icke](https://mediabiasfactcheck.com/david-icke/). There is [no evidence](https://www.politifact.com/factchecks/2021/dec/21/blog-posting/no-5g-technology-does-not-cause-covid-19-symptoms/) to suggest 5G is harmful or connected to Covid-19.
+Regarding sources, they cite sources like
+[The Epoch Times](https://mediabiasfactcheck.com/the-epoch-times/), a source rated as questionable by MBFC. The website sometimes cites credible sources but skews their interpretation to fit a specific narrative. The lack of transparency regarding ownership and funding also raises questions about the website’s credibility and potential biases.
+Failed Fact Checks
+- None by a third-party fact checker.
+Overall, the lack of transparency regarding ownership and funding, combined with the promotion of claims not supported by mainstream scientific consensus, leads to a rating of CONSPIRACY-PSEUDOSCIENCE with a Very Low factual reporting. (M. Huitsing 08/31/2023)
+Source:
+[https://fully-human.org/](https://fully-human.org/)

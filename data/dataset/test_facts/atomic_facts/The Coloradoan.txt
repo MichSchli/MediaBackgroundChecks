@@ -1,0 +1,26 @@
+Who founded The Coloradoan	entailment
+Gannett owns The Coloradoan	entailment
+Gannett bought The Coloradoan	entailment
+Gannett acquired The Coloradoan	entailment
+The Coloradoan is funded through advertising and paid subscriptions	entailment
+The remit of The Coloradoan is to **report local news, sports, business, and lifestyle for the Fort Collins, Colorado region**	entailment
+The mission of The Coloradoan is to report local news for the Fort Collins, Colorado region with minimal use of loaded emotional language.	entailment
+The usual audience of The Coloradoan is **residents of Fort Collins, Colorado, and the surrounding area**	entailment
+The Coloradoan tends to the Left-Center	entailment
+Other sources have commented on The Coloradoan, stating that it tends to be Left-Center biased.	entailment
+The factuality of The Coloradoan is reported to be High	entailment
+The factuality of The Coloradoan is reported to be High, according to proper sourcing and a clean fact check record.	entailment
+The Coloradoan printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Coloradoan chose not to cover presidential candidates	contradiction
+The Coloradoan relies on advertising for revenue	entailment
+The Coloradoan relies on subscriptions for revenue	entailment
+The Coloradoan relies on donations for revenue	contradiction
+When aggregating stories, The Coloradoan relies on information from the Associated Press.	entailment
+The Coloradoan has endorsed local candidates	entailment
+The Coloradoan has an editorial bias towards Left-Center	entailment
+Eric Larsen is the editor of The Coloradoan	entailment
+The Coloradoan printed a biased article titled "Coloradoan can do better to report on climate crisis’ link to wildfires".	entailment
+The Coloradoan had to apologize for **None in the Last 5 years**	entailment
+The Coloradoan is funded by the **advertising and paid subscriptions** government	entailment
+The Coloradoan is a daily newspaper	entailment
+The Coloradoan covers the following topics: local news, sports, business, and lifestyle	entailment

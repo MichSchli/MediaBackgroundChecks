@@ -1,0 +1,18 @@
+George Soros founded Open Society Foundations	entailment
+George Soros is the founder of Open Society Foundations	entailment
+Open Society Foundations is funded through [George Soros and his connected corporations such as Geosor and Soros Fund Management LLC](https://www.influencewatch.org/non-profit/open-society-foundations/)''.	entailment
+The remit of Open Society Foundations is to  "give thousands of grants every year towards building inclusive and vibrant democracies."	entailment
+The mission of Open Society Foundations is to **build inclusive and vibrant democracies**.	entailment
+The usual audience of Open Society Foundations is **left-leaning**	entailment
+Open Society Foundations tends to the democratic practice, early childhood and education, economic equity and justice, equality and antidiscrimination, health and rights, higher education, human rights movements and institutions, information and digital rights, journalism, justice reform and the rule of law.	entailment
+Open Society Foundations tends to the left according to [mediabiasfactcheck.com](https://mediabiasfactcheck.com/opensocietyfoundations/)	entailment
+Other sources have commented on Open Society Foundations, stating that it tends to be **left biased**.	entailment
+The factuality of Open Society Foundations is reported to be Mixed	entailment
+The factuality of Open Society Foundations is reported to be Mixed, according to D. Van Zandt.	entailment
+Open Society Foundations failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Open Society Foundations chose not to cover **none in the Last 5 years**	entailment
+Open Society Foundations relies on subscriptions for revenue	entailment
+Open Society Foundations relies on donations for revenue	entailment
+Open Society Foundations has received donations from individuals and organizations	entailment
+Open Society Foundations has endorsed **Democratic politicians and causes**	entailment
+Open Society Foundations has an editorial bias towards Left Biased.	entailment

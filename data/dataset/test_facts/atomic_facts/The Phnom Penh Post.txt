@@ -1,0 +1,22 @@
+Kathleen O’Keefe founded The Phnom Penh Post	entailment
+Kathleen O’Keefe is the founder of The Phnom Penh Post	entailment
+Sivakumar Ganapthy owns The Phnom Penh Post	entailment
+Sivakumar Ganapthy is the owner of The Phnom Penh Post	entailment
+Sivakumar Ganapthy bought The Phnom Penh Post	entailment
+Sivakumar Ganapthy acquired The Phnom Penh Post	entailment
+The Phnom Penh Post is funded through a paid subscription and advertising model	entailment
+The mission of The Phnom Penh Post is to **cover current affairs, politics, lifestyle, entertainment, and sports**	entailment
+The Phnom Penh Post tends to the left	entailment
+Other sources have commented on The Phnom Penh Post, stating that it tends to be **left biased**	entailment
+The factuality of The Phnom Penh Post is reported to be Left Biased	entailment
+The factuality of The Phnom Penh Post is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+The Phnom Penh Post chose not to cover [negative coverage of the government](https://www.phnompenhpost.com/).	entailment
+The Phnom Penh Post relies on advertising for revenue	entailment
+The Phnom Penh Post relies on subscriptions for revenue	entailment
+When aggregating stories, The Phnom Penh Post relies on information from **quotes**	entailment
+The Phnom Penh Post has an editorial bias towards left	entailment
+The Phnom Penh Post was fined 	entailment
+The Phnom Penh Post printed a biased article titled **"English-language daily, which has been largely critical of the government."**	entailment
+The Phnom Penh Post printed a factually misleading titled "Hun Sen celebrates women’s rights".	entailment
+The Phnom Penh Post's headquarter is located in Phnom Penh	entailment
+The Phnom Penh Post is a newspaper	entailment

@@ -1,0 +1,20 @@
+Dave Adsett founded Wellington Advertiser	contradiction
+Dave Adsett owns Wellington Advertiser	entailment
+Dave Adsett is the owner of Wellington Advertiser	entailment
+Dave Adsett bought Wellington Advertiser	contradiction
+Wellington Advertiser is funded through advertising and sponsored content	entailment
+The remit of Wellington Advertiser is to cover local community news with minimal bias.	entailment
+The mission of Wellington Advertiser is to  provide local news and events coverage in Wellington County, Canada.	entailment
+The Wellington Advertiser tends to the **local community news**	entailment
+Wellington Advertiser tends to the local news according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Wellington Advertiser, stating that it tends to be least biased.	entailment
+The factuality of Wellington Advertiser is reported to be Mostly Factual	entailment
+The factuality of Wellington Advertiser is reported to be Mostly Factual, according to Mediabiasfactcheck.com.	entailment
+Wellington Advertiser failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Wellington Advertiser chose not to cover national or international news	entailment
+Wellington Advertiser relies on advertising for revenue	entailment
+Wellington Advertiser relies on subscriptions for revenue	contradiction
+Wellington Advertiser relies on donations for revenue	contradiction
+When aggregating stories, Wellington Advertiser relies on information from **quotes**.	entailment
+Wellington Advertiser has an editorial bias towards **neither the left nor the right**	entailment
+Wellington Advertiser had to apologize for **None in the Last 5 years.**	entailment

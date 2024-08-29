@@ -1,0 +1,20 @@
+Al Hayat owns Al-Hayat	contradiction
+Prince Khalid bin Sultan bought Al-Hayat	entailment
+Prince Khalid bin Sultan acquired Al-Hayat	entailment
+Al-Hayat is funded through [the former Saudi deputy minister of defense Prince Khalid bin Sultan](https://houseofsaud.com/saudi-royal-family-profiles/prince-khalid-bin-sultan-al-saud/).	entailment
+The remit of Al-Hayat is to **provide coverage on Middle Eastern issues and in-depth coverage in the Arab world**	entailment
+The usual audience of Al-Hayat is pro-state propaganda and poor sourcing.	entailment
+Al-Hayat tends to the Questionable	entailment
+Other sources have commented on Al-Hayat, stating that it tends to be questionable.	entailment
+The factuality of Al-Hayat is reported to be Questionable	entailment
+The factuality of Al-Hayat is reported to be Questionable, according to M. Huitsing.	entailment
+Al-Hayat chose not to cover **its printed issues**	entailment
+Al-Hayat relies on donations for revenue	entailment
+When aggregating stories, Al-Hayat relies on information from **AFP, and Reuters**.	entailment
+Al-Hayat has endorsed pro-state propaganda.	entailment
+Al-Hayat has an editorial bias towards **pro-state propaganda**	entailment
+Saud Al Rayes is the editor of Al-Hayat	entailment
+Al-Hayat printed a biased article titled "Pro-regime militants killed by rocket fire in Damascus".	entailment
+Al-Hayat's headquarter is located in London	entailment
+Al-Hayat is a pan-Arab daily news media outlet	entailment
+Al-Hayat uses a peer review process	entailment

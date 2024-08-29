@@ -1,0 +1,21 @@
+CherryRoad Media owns Clay County Times-Democrat	entailment
+CherryRoad Media is the owner of Clay County Times-Democrat	entailment
+CherryRoad Media bought Clay County Times-Democrat	contradiction
+The Clay County Times-Democrat is funded through **advertising and paid subscriptions**	entailment
+The remit of Clay County Times-Democrat is to **cover news, sports, community, and crime for the greater Clay County, Arkansas area**	entailment
+The mission of Clay County Times-Democrat is to provide factual and  reporting for the greater Clay County community.	entailment
+The usual audience of Clay County Times-Democrat is **local, national, sports, weather, and crime news for Clay County**	entailment
+Clay County Times-Democrat tends to the Least Biased	entailment
+Other sources have commented on Clay County Times-Democrat, stating that it tends to be **least biased**	entailment
+The factuality of Clay County Times-Democrat is reported to be High	entailment
+The factuality of Clay County Times-Democrat is reported to be High, according to Mediabiasfactcheck.com	entailment
+The Clay County Times-Democrat chose not to cover FAILED FACT CHECKS	entailment
+Clay County Times-Democrat relies on advertising for revenue	entailment
+Clay County Times-Democrat relies on subscriptions for revenue	entailment
+Clay County Times-Democrat relies on donations for revenue	contradiction
+When aggregating stories, Clay County Times-Democrat relies on information from the [Associated Press.](https://mediabiasfactcheck.com/associated-press/)	entailment
+Clay County Times-Democrat has an editorial bias towards Least Biased	entailment
+Clay County Times-Democrat's headquarter is located in Piggott	entailment
+The Clay County Times-Democrat is funded by the private government	contradiction
+The Clay County Times-Democrat is a daily newspaper	entailment
+The Clay County Times-Democrat covers the following topics: news, sports, community, and crime	entailment

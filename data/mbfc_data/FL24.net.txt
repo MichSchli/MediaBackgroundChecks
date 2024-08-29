@@ -1,0 +1,14 @@
+History
+[Founded in 2019](https://www.disinfo.eu/publications/intra-eu-disinformation-the-french-website-managed-by-a-polish-far-right-network/), FL24.net or France Libre 24 is a far-right news and opinion website based in France and Poland.
+The website lacks an about page but lists the editor as Anne van Gelder.
+[Read our profile on Poland’s media and government.](https://mediabiasfactcheck.com/poland-media-profile/)
+Funded by / Ownership
+6s Media based in Poland owns FL24.net.
+[According](https://www.politico.eu/article/france-libre-24-far-right-poland-disinformation-collaboration/) to a [Politico](https://mediabiasfactcheck.com/politico/) report, the owners have connections with Poland’s far-right movement. The website earns revenue through advertising.
+Analysis / Bias
+[According to the EU Disinfo Lab](https://www.disinfo.eu/publications/intra-eu-disinformation-the-french-website-managed-by-a-polish-far-right-network/), FL24.net “is a site that presents itself as a “French news website,” hiding both the fact that it was created in Poland in July 2019 and that it’s heavily tied to a controversial Polish far-right media network (Najwyższy Czas! & Wolnosc24).” The website covers polarizing topics, such as identity, religion, immigration, and insecurity, covering French news in detail and some international news. Articles and headlines contain loaded emotional wording that favors the right, such as who [ noticed the huge mistake in Macron’s speech?](https://fl24.net/2021/04/02/qui-a-remarque-lenorme-faute-dans-lallocution-de-macron/) This story is sourced from a credible French News source, ladepeche.fr. FL24.net does not perform original reporting but rather sources from credible media and inserts commentary to fit a far-right narrative.
+Throughout the Covid-19 pandemic, FL24 has published misinformation such as this,
+[In Norway, at least 13 deaths linked to complications after receiving Pfizer Coronavirus vaccine](https://fl24.net/2021/01/16/en-norvege-au-moins-13-morts-de-complications-apres-avoir-recu-le-vaccin-pfizer-contre-le-coronavirus/). The general theme is they focus on the negative aspects of vaccines. We also [found instances](https://fl24.net/2020/01/26/complotisme-ou-verite-le-coronavirus-de-wuhan-a-t-il-ete-cree-dans-un-laboratoire-militaire/) of them using poor conspiracy sources such as [Gnews](https://mediabiasfactcheck.com/gnews/), which has connections to Steve Bannon. Politically, story selection always favors the right and denigrates the left [Bug in the leftists’ matrix: Jaïr Bolsonaro appoints a black Minister of Education](https://fl24.net/2020/06/27/bug-dans-la-matrice-des-gauchistes-jair-bolsonaro-nomme-un-ministre-noir-a-leducation/). In general, FL24 aligns with the right and is not always factual.
+Failed Fact Checks
+- Not formally fact-checked.
+[See Here](https://www.disinfo.eu/publications/intra-eu-disinformation-the-french-website-managed-by-a-polish-far-right-network/).

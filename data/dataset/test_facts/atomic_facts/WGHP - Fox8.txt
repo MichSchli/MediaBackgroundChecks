@@ -1,0 +1,18 @@
+Nexstar Media Group owns WGHP - Fox8	entailment
+Nexstar Media Group is the owner of WGHP - Fox8	entailment
+Nexstar Media Group bought WGHP - Fox8	entailment
+Nexstar Media Group acquired WGHP - Fox8	contradiction
+The remit of WGHP - Fox8 is to  report news factually and with minimal bias.	entailment
+The mission of WGHP - Fox8 is to report news factually and with minimal bias.	entailment
+The usual audience of WGHP - Fox8 is **the Piedmont Triad region of Greensboro–Winston-Salem–High Point**	entailment
+WGHP - Fox8 tends to the **right**	contradiction
+Other sources have commented on WGHP - Fox8, stating that it tends to be **Least Biased**.	entailment
+The factuality of WGHP - Fox8 is reported to be High	entailment
+The factuality of WGHP - Fox8 is reported to be High for factual reporting, according to Mediabiasfactcheck.com.	entailment
+WGHP - Fox8 failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WGHP - Fox8 chose not to cover op-eds.	entailment
+WGHP - Fox8 relies on advertising for revenue	entailment
+WGHP - Fox8 relies on donations for revenue	contradiction
+WGHP - Fox8 has an editorial bias towards **neutrality**	entailment
+WGHP - Fox8's headquarter is located in High Point	entailment
+WGHP - Fox8 is a **Least Biased**	entailment

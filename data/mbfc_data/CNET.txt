@@ -1,0 +1,12 @@
+History
+Founded in 1994, CNET is an American media website that publishes reviews, news, articles, blogs, podcasts, and videos on technology and consumer electronics. They are based in California.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+CNET falls under the ownership of Red Ventures, LLC, a company specializing in media and technology located in South Carolina. This acquisition, valued at $500 million, took place in late 2020 when Red Ventures purchased CNET from ViacomCBS Inc. The portfolio of Red Ventures includes various other assets such as Bankrate, which focuses on personal finance; several health-related websites previously part of Healthline Media; Points Guy, dedicated to travel rewards; and Reviews.com, which offers consumer product reviews. The primary sources of revenue for CNET.com are advertising and the inclusion of sponsored content.
+Analysis / Bias
+In review, CNET could easily fall into our
+[Pro-Science](https://mediabiasfactcheck.com/pro-science/) category as most content is related to tech or science and is factual. While their forte is the massive library of free and paid software and apps available for download, there’s much more to CNET. They report on science news, new technology, consumer electronics, cars, and smart home gadgets and produce tech-related videos and podcasts. There’s also an extensive how-to section for getting the most out of your electronics and a deals section for finding the best stuff at the best price.
+While CNET doesn’t often report on politics, they do when it pertains to their genre. For example, in this article regarding Trump and a tech company, they utilize minimally loaded language and source properly:
+[Trump reiterates Huawei as ‘national security threat](https://www.cnet.com/news/trump-says-he-doesnt-want-to-do-business-with-huawei-due-to-national-security-threat/).’ CNET typically does not take editorial positions but instead publishes information when it pertains to politics.
+Failed Fact Checks
+- None in the Last 5 years

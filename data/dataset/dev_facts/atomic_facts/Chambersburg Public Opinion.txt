@@ -1,0 +1,23 @@
+Gannett is the founder of Chambersburg Public Opinion	contradiction
+Gannett owns Chambersburg Public Opinion	entailment
+Gannett is the owner of Chambersburg Public Opinion.	entailment
+Gannett bought Chambersburg Public Opinion	entailment
+Gannett acquired Chambersburg Public Opinion	entailment
+The Chambersburg Public Opinion is funded through advertising and paid subscriptions	entailment
+The usual audience of Chambersburg Public Opinion is Left-Center Biased	entailment
+The Chambersburg Public Opinion tends to the Left-Center Biased	entailment
+Chambersburg Public Opinion tends to the Left-Center Biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on Chambersburg Public Opinion, stating that it tends to be Left-Center Biased	entailment
+The factuality of Chambersburg Public Opinion is reported to be High	entailment
+The factuality of Chambersburg Public Opinion is reported to be High, according to D. Van Zandt 	entailment
+The Chambersburg Public Opinion failed a fact-check for an article titled "What could cyber charter school funding reform mean for local districts?"	contradiction
+Chambersburg Public Opinion chose not to cover Presidential endorsements	entailment
+Chambersburg Public Opinion relies on advertising for revenue	entailment
+Chambersburg Public Opinion relies on subscriptions for revenue	contradiction
+Chambersburg Public Opinion relies on donations for revenue	contradiction
+When aggregating stories, Chambersburg Public Opinion relies on information from **other Gannett publications and the Associated Press**	entailment
+Chambersburg Public Opinion has endorsed **a left-leaning editorial bias**.	entailment
+Chambersburg Public Opinion has an editorial bias towards Left	entailment
+Chambersburg Public Opinion printed a biased article titled "Trump has shown us what he’ll do with second term, so be warned".	entailment
+Chambersburg Public Opinion had to apologize for **none in the Last 5 years**	entailment
+Chambersburg Public Opinion had to apologize to [Trump](https://www.publicopiniononline.com/story/opinion/columnists/2024/02/07/trump-has-shown-us-what-hell-do-with-second-term-so-be-warned/72475134007/) for [not making Presidential endorsements](https://www.publicopiniononline.com/story/opinion/columnists/2024/02/07/trump-has-shown-us-what-hell-do-with-second-term-so-be-warned/72475134007/).	contradiction

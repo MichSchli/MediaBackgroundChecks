@@ -1,0 +1,13 @@
+Teller Report is funded through advertisements	entailment
+The remit of Teller Report is to republish articles from various sources.	entailment
+Teller Report tends to the **Least Biased and a Questionable source due to poor sourcing and a complete lack of transparency**.	entailment
+Teller Report tends to the  according to poor sourcing and a complete lack of transparency	entailment
+Other sources have commented on Teller Report, stating that it tends to be Questionable	entailment
+The factuality of Teller Report is reported to be Questionable	entailment
+The factuality of Teller Report is reported to be Questionable, according to M. Huitsing 09/19/2023.	entailment
+Teller Report chose not to cover **its ownership and location on its website**	entailment
+Teller Report provides original content written by staff journalists	contradiction
+Teller Report relies on advertising for revenue	entailment
+When aggregating stories, Teller Report relies on information from various sources.	entailment
+Teller Report has endorsed Least Biased and a Questionable source due to poor sourcing and a complete lack of transparency.	entailment
+Teller Report was fined 	contradiction

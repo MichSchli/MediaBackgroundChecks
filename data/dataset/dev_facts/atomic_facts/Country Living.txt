@@ -1,0 +1,21 @@
+Hearst Magazines Digital Media owns Country Living	entailment
+Hearst Magazines Digital Media bought Country Living	entailment
+Hearst acquired Country Living	contradiction
+Country Living is funded through advertising and subscription fees	entailment
+The remit of Country Living is to **focus on home decor, DIY tips, style, and home renovation**	entailment
+The mission of Country Living is to report on home decor, DIY tips, country lifestyle, and renovations with minimal bias, such as how to plant a fall garden.	entailment
+The usual audience of Country Living is **those interested in home decor, DIY tips, style, and home renovation**	entailment
+Country Living tends to the home decor, DIY tips, style, and home renovation according to Mediabiasfactcheck.	entailment
+Other sources have commented on Country Living, stating that it tends to be **Least Biased**.	entailment
+The factuality of Country Living is reported to be High	entailment
+The factuality of Country Living is reported to be High, according to D. Van Zandt	entailment
+Country Living failed a fact-check for an article titled Joe Biden Consoled Meghan McCain in a Deeply Moving Moment on The View.	entailment
+Country Living printed a retraction after failing a fact-check for an article titled "How to Plant a Fall Garden".	contradiction
+Country Living chose not to cover politics	entailment
+Country Living relies on advertising for revenue	entailment
+Country Living relies on subscriptions for revenue	entailment
+Country Living relies on donations for revenue	contradiction
+When aggregating stories, Country Living relies on information from **credible media outlets**	entailment
+Country Living has an editorial bias towards least biased	entailment
+Country Living printed a biased article titled "How to Plant a Fall Garden".	contradiction
+Country Living had to apologize for **None in the Last 5 years**	entailment

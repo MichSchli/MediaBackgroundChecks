@@ -1,0 +1,20 @@
+Rachel Oldroyd is the founder of The Bureau of Investigative Journalism	contradiction
+Rachel Oldroyd is the CEO of The Bureau of Investigative Journalism	contradiction
+Rachel Oldroyd leads The Bureau of Investigative Journalism	entailment
+The Bureau of Investigative Journalism owns The Bill & Melinda Gates Foundation, Google Global News Initiative, and Open Society Foundations.	contradiction
+Rachel Oldroyd is the owner of The Bureau of Investigative Journalism	contradiction
+The Bureau of Investigative Journalism is funded through donations and philanthropy.	entailment
+The mission of The Bureau of Investigative Journalism is to pursue “public interest” investigations.	entailment
+The usual audience of The Bureau of Investigative Journalism is left-Center biased	entailment
+The Bureau of Investigative Journalism tends to the left	entailment
+The Bureau of Investigative Journalism tends to the left according to editorial positions that moderately favor the left.	entailment
+Other sources have commented on The Bureau of Investigative Journalism, stating that it tends to be Left-Center biased.	entailment
+The factuality of The Bureau of Investigative Journalism is reported to be High	entailment
+The factuality of The Bureau of Investigative Journalism is reported to be High, according to D. Van Zandt 3/11/2017.	entailment
+The Bureau of Investigative Journalism chose not to cover **Failed Fact Checks**	entailment
+The Bureau of Investigative Journalism relies on donations for revenue	entailment
+The Bureau of Investigative Journalism has received donations from The Bill & Melinda Gates Foundation, Google Global News Initiative, and Open Society Foundations.	entailment
+The Bureau of Investigative Journalism has endorsed Left-Center biased.	entailment
+The Bureau of Investigative Journalism has an editorial bias towards left	entailment
+Rachel Oldroyd is the editor of The Bureau of Investigative Journalism	entailment
+The Bureau of Investigative Journalism printed a factually misleading titled **Deliveroo riders can earn as little as £2 an hour during shifts, as boss stands to make £500m**	entailment

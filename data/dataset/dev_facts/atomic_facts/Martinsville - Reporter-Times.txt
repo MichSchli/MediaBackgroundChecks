@@ -1,0 +1,21 @@
+Gannett is the founder of Martinsville - Reporter-Times	contradiction
+Gannett owns Martinsville - Reporter-Times	entailment
+Gannett is the owner of Martinsville - Reporter-Times	entailment
+Gannett acquired Martinsville - Reporter-Times	entailment
+Martinsville - Reporter-Times is funded through **advertising and paid subscriptions**	entailment
+The remit of Martinsville - Reporter-Times is to **cover local, national, and international news, sports, entertainment, lifestyle, and opinion**.	entailment
+The mission of Martinsville - Reporter-Times is to **cover news, sports, lifestyle, and entertainment for the greater Martinville, Indiana area.**	entailment
+The usual audience of Martinsville - Reporter-Times is left-center biased	entailment
+Martinsville - Reporter-Times tends to the Left-Center Biased	entailment
+Martinsville - Reporter-Times tends to the left-center according to Mediabiasfactcheck.	entailment
+Other sources have commented on Martinsville - Reporter-Times, stating that it tends to be left-center biased	entailment
+The factuality of Martinsville - Reporter-Times is reported to be High	entailment
+The factuality of Martinsville - Reporter-Times is reported to be High, according to mediabiasfactcheck.com.	entailment
+Martinsville - Reporter-Times chose not to cover Presidential endorsements	entailment
+Martinsville - Reporter-Times relies on advertising for revenue	entailment
+Martinsville - Reporter-Times relies on subscriptions for revenue	entailment
+Martinsville - Reporter-Times relies on donations for revenue	contradiction
+When aggregating stories, Martinsville - Reporter-Times relies on information from **other Gannett publications and the Associated Press**.	entailment
+Martinsville - Reporter-Times has an editorial bias towards left	entailment
+Martinsville - Reporter-Times printed a biased article titled "Op-Ed: Time to sign up for a health care plan. Here’s what you need to know."	entailment
+Martinsville - Reporter-Times had to apologize for **none in the Last 5 years**	entailment

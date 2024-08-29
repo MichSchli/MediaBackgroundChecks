@@ -1,0 +1,22 @@
+Clay Reporter leads	contradiction
+Metric Media LLC owns Clay Reporter	contradiction
+Metric Media LLC is the owner of Clay Reporter.	contradiction
+Clay Reporter is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Clay Reporter is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Clay Reporter is to **fill the void in community news after years of decline in local reporting by legacy media.**	contradiction
+The usual audience of Clay Reporter is right-center, biased, and Questionable.	entailment
+Clay Reporter tends to the right-center	entailment
+The Clay Reporter tends to the right-center according to D. Van Zandt 	entailment
+Other sources have commented on Clay Reporter, stating that it tends to be right-center biased.	entailment
+The factuality of Clay Reporter is reported to be **Questionable**	entailment
+The factuality of Clay Reporter is reported to be Questionable, according to D. Van Zandt	entailment
+Clay Reporter failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Clay Reporter chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+Clay Reporter relies on advertising for revenue	entailment
+Clay Reporter relies on donations for revenue	entailment
+Clay Reporter has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Clay Reporter relies on information from algorithmically produced content.	entailment
+Clay Reporter has an editorial bias towards **right-leaning**	entailment
+Clay Reporter printed a biased article titled \ "Clay County Schools Ranked Among the Best in the State"	entailment
+Clay Reporter printed a factually misleading titled  "Imposter Site Lacks Transparency".	entailment
+Clay Reporter had to apologize to [its audience](https://clayreporter.com/) for [publishing false information](https://mediabiasfactcheck.com/metric-media/).	entailment

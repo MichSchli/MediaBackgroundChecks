@@ -1,0 +1,18 @@
+Bill Macfadyen founded Noozhawk	entailment
+Bill Macfadyen is the founder of Noozhawk	entailment
+Noozhawk is funded through **advertising**	entailment
+The remit of Noozhawk is to **provide coverage for Santa Barbara County, California**	entailment
+The mission of Noozhawk is to providecoverage for Santa Barbara County, California.	entailment
+Noozhawk tends to the least biased rating.	entailment
+Noozhawk tends to the  according to news coverage.	contradiction
+Other sources have commented on Noozhawk, stating that it tends to be **Least Biased**.	entailment
+The factuality of Noozhawk is reported to be High	entailment
+The factuality of Noozhawk is reported to be High, according to Media Bias/Fact Check.	entailment
+Noozhawk chose not to cover failed fact checks	entailment
+Noozhawk relies on advertising for revenue	entailment
+Noozhawk relies on donations for revenue	contradiction
+When aggregating stories, Noozhawk relies on information from **credible sources**	entailment
+Bill Macfadyen is the editor of Noozhawk	contradiction
+Noozhawk printed a biased article titled "Arrogance and Ignorance: The Story of Mooch".	entailment
+Noozhawk printed a factually misleading titled "Arrogance and Ignorance: The Story of Mooch".	entailment
+Noozhawk had to apologize for None in the Last 5 years	entailment

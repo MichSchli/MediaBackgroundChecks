@@ -1,0 +1,23 @@
+MediaNews Group owns Pasadena Star-News	entailment
+MediaNews Group is the owner of Pasadena Star-News	entailment
+MediaNews Group bought Pasadena Star-News	contradiction
+MediaNews Group acquired Pasadena Star-News	entailment
+Pasadena Star-News is funded through advertising and subscription fees	entailment
+The remit of Pasadena Star-News is to  report local news, sports, crime, lifestyle, and opinion.	entailment
+The mission of Pasadena Star-News is to report factually and with credible sources.	entailment
+Pasadena Star-News tends to the least biased	entailment
+Other sources have commented on Pasadena Star-News, stating that it tends to be least biased.	entailment
+The factuality of Pasadena Star-News is reported to be High	entailment
+The factuality of Pasadena Star-News is reported to be High, according to Media Bias Fact Check.	entailment
+Pasadena Star-News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+Pasadena Star-News chose not to cover failed fact checks.	entailment
+Pasadena Star-News relies on advertising for revenue	entailment
+Pasadena Star-News relies on subscriptions for revenue	entailment
+Pasadena Star-News relies on donations for revenue	contradiction
+Pasadena Star-News has received donations from **advertising and subscription fees**.	entailment
+When aggregating stories, Pasadena Star-News relies on information from **Associated Press and Washington Post**.	entailment
+Pasadena Star-News has endorsed least biased based on sound journalism and balanced editorial positions	entailment
+Pasadena Star-News has an editorial bias towards **least biased**	entailment
+The Pasadena Star-News is funded by the private government.	contradiction
+Pasadena Star-News is a newspaper.	entailment
+Pasadena Star-News covers the following topics: local news, sports, crime, lifestyle, and opinion	entailment

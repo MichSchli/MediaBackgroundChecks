@@ -1,0 +1,13 @@
+History
+Founded in 2009 by
+[Fred Malek](https://en.wikipedia.org/wiki/Fred_Malek), founder of Thayer Capital and a former Republican National Committee deputy chairman, The American Action Forum is a nonprofit issue advocacy group based in Washington, D.C. that promotes center-right public policy, such as free-market solutions to create a smaller government. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+American Action Forum is a 501(c)(3) non-profit organization funded through donations. The website lacks transparency as they do not provide financial information. American Action Forum is a part of the American Action Network, which donates money to help Republican candidates. For example, in 2016, they donated $4,994,221
+[against Democrats](https://www.opensecrets.org/outsidespending/detail.php?cycle=2016&cmte=american+action+network).
+Analysis / Bias
+In review, the American Action Forum website provides news and research with minimal bias in wording, such as
+[The National Implications of Maryland’s All-Payer System](https://www.americanactionforum.org/research/the-national-implications-of-marylands-all-payer-system/). This research is properly sourced to organizations such as [Rand](https://mediabiasfactcheck.com/rand-corporation/) and the [CBO](https://mediabiasfactcheck.com/congressional-budget-office-cbo/). The website also provides Op-Eds, which favors the right and often the policies of President Trump, such as this: [Pulse of the American economy is strong thanks to better policy](https://www.americanactionforum.org/oped/pulse-of-american-economy-is-strong-thanks-to-better-policy/#ixzz6G2juKJay). In general, AAF advocates for a free-market economy with minimal regulations.
+When reporting on climate change, AAF does not deny the human impact on
+[climate change](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/); however, they advocate for [free-market solutions](https://www.americanactionforum.org/research/the-green-new-deal-scope-scale-and-implications/) rather than the recommendations by scientists.
+Failed Fact Checks
+- None in the Last 5 years

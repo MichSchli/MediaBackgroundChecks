@@ -1,0 +1,22 @@
+The E. W. Scripps Company owns KRTV - Great Falls News	entailment
+The E. W. Scripps Company is the owner of KRTV - Great Falls News	entailment
+The E. W. Scripps Company bought KRTV - Great Falls News	entailment
+KRTV - Great Falls News is funded through advertising	entailment
+The remit of KRTV - Great Falls News is to cover local news, sports, weather, entertainment, and crime for the greater Great Falls, Montana, area.	entailment
+The mission of KRTV - Great Falls News is to report local news, sports, weather, entertainment, and crime for the greater Great Falls, Montana, area.	entailment
+The usual audience of KRTV - Great Falls News is **the greater Great Falls, Montana, area**	entailment
+KRTV - Great Falls News tends to the **least biased**	entailment
+Other sources have commented on KRTV - Great Falls News, stating that it tends to be **least biased**	entailment
+The factuality of KRTV - Great Falls News is reported to be High	entailment
+The factuality of KRTV - Great Falls News is reported to be High, according to a review by Mediabiasfactcheck.com.	entailment
+KRTV - Great Falls News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KRTV - Great Falls News chose not to cover judicial candidates Grubich and Levine debate	contradiction
+KRTV - Great Falls News relies on advertising for revenue	entailment
+KRTV - Great Falls News relies on subscriptions for revenue	contradiction
+KRTV - Great Falls News relies on donations for revenue	contradiction
+When aggregating stories, KRTV - Great Falls News relies on information from **Associated Press and Scripps National**	entailment
+KRTV - Great Falls News has an editorial bias towards **neutrality**	entailment
+The text does not contain information about a specific fine amount.	entailment
+KRTV - Great Falls News had to apologize for None in the Last 5 years	entailment
+KRTV - Great Falls News is a [CBS](https://mediabiasfactcheck.com/cbs-news)-affiliated station licensed to Great Falls, Montana, United States.	entailment
+KRTV - Great Falls News covers the following topics: local news, sports, weather, entertainment, and crime	entailment

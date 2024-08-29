@@ -1,0 +1,10 @@
+History
+[News Lookup](http://www.newslookup.com/about.html) is a news search engine, news aggregator, and news services provider founded by Michael Kynast in 2000. They were the first news search engine to arrange search results by geo-source of the news organization and categorization by news media type (Newspapers, Television, Radio, Internet). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Michael Kynast owns News Lookup. Advertising and subscription fees generate revenue.
+Analysis / Bias
+News Lookup publishes links to other sources in categories such as news wires, newspapers, and US News. The links lead directly to the source. Essentially, News Lookup is an RSS feed that provides news without bias. They crawl and index news headlines worldwide and place the links into a searchable database. News Lookup is an excellent resource for searching news articles and watching real-time headlines display. While News Lookup is a great resource, they do not filter out questionable sources such as
+[Breitbart](https://mediabiasfactcheck.com/breitbart/) or factually mixed sources such as [CNN](https://mediabiasfactcheck.com/left/cnn-bias/). It is essential to understand that the sources News Lookup provides may not always be factual or low-biased.
+News Lookup does not hold an editorial bias as they publish news from all sides; however, the news is not vetted and may not always be factual. In general, News Lookup is low biased personally as it presents all perspectives, but some content may not link to factual sources.
+Failed Fact Checks
+- They have not been fact-checked, but sources they link to have failed fact-checks.

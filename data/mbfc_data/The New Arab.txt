@@ -1,0 +1,12 @@
+History
+[The New Arab](https://en.wikipedia.org/wiki/Al-Araby_Al-Jadeed) or Al-Araby Al-Jadeed, launched in September 2014, is a news and current affairs media outlet with online and print editions that provides coverage on middle eastern issues and politics. The New Arab is headquartered in London, and Qatar-based Fadaat Media Ltd. Abdulrahman Elshayyal owns the outlet is the newspaper’s CEO. Before joining The New Arab, he worked at the [BBC](https://mediabiasfactcheck.com/bbc/) for five years. [Read our profile on UK media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+Fadaat Media Ltd owns the New Arab. It is
+[unclear](https://api.newsguardtech.com/label/english.alaraby.co.uk?cid=d945da19-2739-4941-ba0c-76449a8f8d99) who controls Fadaat Media Ltd. It is unclear how they generate revenue.
+Analysis / Bias
+The New Arab uses left-center bias when reporting USA news critical of former President Trump and often sources from credible mainstream media information. Articles and headlines often use loaded emotional wording that favors the left, especially regarding support for Palestine
+[Israeli settlers storm Palestinian home in Hebron at night, harass family](https://english.alaraby.co.uk/news/israeli-settlers-storm-palestinian-home-hebron-night).
+Editorially, they also hold a left-leaning bias with support for refugees from other countries such as this
+[EU countries have a moral duty to help Afghan refugees](https://english.alaraby.co.uk/opinion/eu-countries-have-moral-duty-help-afghan-refugees). While based in the UK and owned by a Qatar company, they often promote pro-Qatar propaganda such as this [Qatari foreign minister says doing utmost to positively influence Taliban on women’s, minority rights](https://english.alaraby.co.uk/news/qatar-says-doing-utmost-positively-influence-taliban). In general, The New Arab is factual but often one-sided in the promotion of pro-Qatar propaganda.
+Failed Fact Checks
+- None in the Last 5 years

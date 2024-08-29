@@ -1,0 +1,21 @@
+Metric Media LLC founded Fayetteville Today	entailment
+Metric Media Foundation owns Fayetteville Today	entailment
+Metric Media LLC acquired Fayetteville Today	entailment
+Fayetteville Today is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Fayetteville Today is to **imposter site, lacks transparency and publishes false information**.	entailment
+The mission of Fayetteville Today is to **imposter site, lacks transparency and publishes false information**.	entailment
+The usual audience of Fayetteville Today is **conservative-leaning**	entailment
+The Fayetteville Today tends to the right-center	entailment
+Other sources have commented on Fayetteville Today, stating that it tends to be **right-center, biased, and Questionable**	entailment
+The factuality of Fayetteville Today is reported to be Questionable	entailment
+The factuality of Fayetteville Today is reported to be Questionable, according to D. Van Zandt 10/09/2023	entailment
+Fayetteville Today failed a fact-check for an article titled **"Failed Fact Checks"**	entailment
+Fayetteville Today relies on advertising for revenue	entailment
+Fayetteville Today relies on donations for revenue	entailment
+When aggregating stories, Fayetteville Today relies on information from **algorithmically produced content**.	entailment
+The Fayetteville Today has endorsed right-center, biased, and Questionable	entailment
+Fayetteville Today has an editorial bias towards right-center	entailment
+Fayetteville Today printed a biased article titled **"Fayetteville Today: Local News Source or Imposter Site?"**	entailment
+Fayetteville Today printed a factually misleading titled "imposter site"	entailment
+Fayetteville Today is a conservative-leaning news website.	entailment
+Fayetteville Today covers the following topics: conservative-leaning news	entailment

@@ -1,0 +1,17 @@
+Ogden Newspapers Inc. owns Reinbeck Courier	entailment
+Ogden Newspapers Inc. is the owner of Reinbeck Courier	entailment
+Ogden Newspapers Inc. bought Reinbeck Courier	entailment
+Reinbeck Courier is funded through advertising and subscription fees	entailment
+The remit of Reinbeck Courier is to produce original reporting for Reinbeck, Iowa, and the surrounding area. Headlines and articles contain minimal emotional language: [Reinbeck’s Broad St. bustles with new boutique, farmers market](https://www.sun-courier.com/news/local-news/2022/06/09/reinbecks-broad-st-bustles-with-new-boutique-farmers-market/). National and international news is republished from the [Associated Press.](https://www.post-journal.com/news/local-news/2019/10/police-investigating-saturday-stabbing/)	entailment
+The mission of Reinbeck Courier is to **produce original reporting for Reinbeck, Iowa, and the surrounding area**	entailment
+Other sources have commented on Reinbeck Courier, stating that it tends to be least biased.	entailment
+The factuality of Reinbeck Courier is reported to be High	entailment
+The factuality of Reinbeck Courier is reported to be high, according to 	entailment
+Reinbeck Courier failed a fact-check for an article titled "Reinbeck’s Broad St. bustles with new boutique, farmers market"	contradiction
+Reinbeck Courier chose not to cover national and international news.	contradiction
+Reinbeck Courier relies on advertising for revenue	entailment
+Reinbeck Courier relies on subscriptions for revenue	entailment
+Reinbeck Courier relies on donations for revenue	contradiction
+Reinbeck Courier has an editorial bias towards **the right**	entailment
+Reinbeck Courier's headquarter is located in Reinbeck, Iowa	entailment
+Reinbeck Courier covers the following topics: local and national news, sports, crime, and business news	entailment

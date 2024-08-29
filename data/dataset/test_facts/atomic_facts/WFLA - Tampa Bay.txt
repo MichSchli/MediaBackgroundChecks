@@ -1,0 +1,22 @@
+Nexstar Media Group owns WFLA - Tampa Bay	entailment
+Nexstar Media Group is the owner of WFLA - Tampa Bay	entailment
+Nexstar Media Group bought WFLA - Tampa Bay	entailment
+The remit of WFLA - Tampa Bay is to  report news factually and with minimal bias.	entailment
+The mission of WFLA - Tampa Bay is to provide news, sports, weather, politics, and crime reporting.	entailment
+The usual audience of WFLA - Tampa Bay is the greater Tampa Bay, Florida area	entailment
+WFLA - Tampa Bay tends to the  Least Biased based on neutral straight news reporting without offering opinion pieces.	entailment
+Other sources have commented on WFLA - Tampa Bay, stating that it tends to be Least Biased	entailment
+The factuality of WFLA - Tampa Bay is reported to be High	entailment
+The factuality of WFLA - Tampa Bay is reported to be High, according to [Mediabiasfactcheck](https://www.wfla.com/).	entailment
+WFLA - Tampa Bay printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+WFLA - Tampa Bay chose not to cover political news with minimal bias	entailment
+WFLA - Tampa Bay relies on advertising for revenue	entailment
+WFLA - Tampa Bay relies on donations for revenue	contradiction
+When aggregating stories, WFLA - Tampa Bay relies on information from **Nexstar Media Wire, the Associated Press, and other large credible media outlets**	entailment
+WFLA - Tampa Bay has endorsed least biased	entailment
+WFLA - Tampa Bay has an editorial bias towards Least Biased	entailment
+WFLA - Tampa Bay printed a factually misleading titled "GOP review finds no proof Arizona election was stolen from Trump".	entailment
+WFLA - Tampa Bay's headquarter is located in Tampa Bay	entailment
+WFLA - Tampa Bay is funded by the private government	contradiction
+WFLA - Tampa Bay is a television station	entailment
+WFLA - Tampa Bay covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

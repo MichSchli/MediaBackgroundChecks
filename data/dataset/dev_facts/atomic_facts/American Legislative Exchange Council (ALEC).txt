@@ -1,0 +1,22 @@
+Paul Weyrich founded American Legislative Exchange Council (ALEC)	entailment
+Paul Weyrich is the founder of American Legislative Exchange Council (ALEC)	entailment
+Stuart Adams is the CEO of American Legislative Exchange Council (ALEC)	entailment
+Stuart Adams leads American Legislative Exchange Council (ALEC)	entailment
+ALEC acquired American Legislative Exchange Council (ALEC)	contradiction
+American Legislative Exchange Council (ALEC) is funded through donations	entailment
+The remit of American Legislative Exchange Council (ALEC) is to **write/support bills that undermine environmental regulations and deny climate change**.	entailment
+The mission of American Legislative Exchange Council (ALEC) is to promote the interests of businesses/corporations and politicians who support them.	entailment
+American Legislative Exchange Council (ALEC) tends to the **right**	entailment
+American Legislative Exchange Council (ALEC) tends to the interests of businesses/corporations according to their about page.	entailment
+Other sources have commented on American Legislative Exchange Council (ALEC), stating that it tends to be right-biased.	entailment
+The factuality of American Legislative Exchange Council (ALEC) is reported to be **Mixed**, according to **Media Bias/Fact Check**.	entailment
+American Legislative Exchange Council (ALEC) failed a fact-check for an article titled **None in the last 5 years**	contradiction
+American Legislative Exchange Council (ALEC) chose not to cover **failed fact checks**	entailment
+American Legislative Exchange Council (ALEC) relies on subscriptions for revenue	entailment
+American Legislative Exchange Council (ALEC) relies on donations for revenue	entailment
+American Legislative Exchange Council (ALEC) has received donations from **Exxon Mobil**.	entailment
+When aggregating stories, American Legislative Exchange Council (ALEC) relies on information from **corporations**.	entailment
+American Legislative Exchange Council (ALEC) has endorsed **model bills**	entailment
+American Legislative Exchange Council (ALEC) has an editorial bias towards **right**	entailment
+American Legislative Exchange Council (ALEC) printed a biased article titled "The Paris Climate Agreement is a Bad Deal for America."	entailment
+American Legislative Exchange Council (ALEC) printed a factually misleading titled Paris Climate Agreement is a Bad Deal for America.	entailment

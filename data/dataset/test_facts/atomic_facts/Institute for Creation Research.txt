@@ -1,0 +1,26 @@
+ founded Institute for Creation Research	contradiction
+Henry Morris is the founder of Institute for Creation Research	entailment
+John D. Morris is the CEO of Institute for Creation Research	contradiction
+John D. Morris leads Institute for Creation Research	entailment
+Institute for Creation Research is funded through donations and a store that sells books and media related to young-earth creationism	entailment
+The remit of Institute for Creation Research is to **conduct scientific research within the realms of origins and Earth history, and then to educate the public both formally and informally through professional training programs, through conferences and seminars around the country, and through books, magazines, and media presentations.**	entailment
+The mission of Institute for Creation Research is to conduct scientific research within the realms of origins and Earth history, and then to educate the public both formally and informally through professional training programs, through conferences and seminars around the country, and through books, magazines, and media presentations.	entailment
+The usual audience of Institute for Creation Research is **supporters of young-earth creationism**	entailment
+Institute for Creation Research tends to the promotion of young-earth creationism	entailment
+Other sources have commented on Institute for Creation Research, stating that it tends to be a quackery-level Pseudoscience source.	entailment
+The factuality of Institute for Creation Research is reported to be a quackery level Pseudoscience source based on the promotion of young-earth creationism and rejection of evolution which is supported by the consensus of science.	entailment
+The factuality of Institute for Creation Research is reported to be **Low** according to **Media Bias/Fact Check**	entailment
+Institute for Creation Research failed a fact-check for an article titled **The Earth is 6,000 years old**	entailment
+Institute for Creation Research printed a retraction after failing a fact-check for an article titled \ "The Earth is 6,000 years old".	contradiction
+Institute for Creation Research chose not to cover evolutionary biology	entailment
+Institute for Creation Research relies on advertising for revenue	entailment
+Institute for Creation Research relies on donations for revenue	entailment
+Institute for Creation Research has received donations from **revenue derived through donations and a store**	entailment
+When aggregating stories, Institute for Creation Research relies on information from **creation science and interpretation**	entailment
+Institute for Creation Research has endorsed young-earth creationism	entailment
+Institute for Creation Research has an editorial bias towards \[young-earth creationism\]	entailment
+Institute for Creation Research printed a biased article titled **Perseid Meteor Shower Peaks Next Week**	entailment
+Institute for Creation Research printed a factually misleading titled "The Earth is 6,000 years old"	contradiction
+Institute for Creation Research is funded by the United States government	contradiction
+Institute for Creation Research is a 501(c)(3) nonprofit ministry	entailment
+Institute for Creation Research covers the following topics: young-earth creationism	entailment

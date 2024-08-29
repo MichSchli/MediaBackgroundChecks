@@ -1,0 +1,17 @@
+Annual Reviews acquired Annual Reviews	entailment
+Annual Reviews is funded through a combination of funding sources, including subscriptions and the s2o model.	entailment
+The remit of Annual Reviews is to **synthesize and integrate knowledge for the progress of science and the benefit of society**.	entailment
+The mission of Annual Reviews is to synthesize and integrate knowledge for the progress of science and the benefit of society.	entailment
+The usual audience of Annual Reviews is **academics and researchers**	entailment
+Annual Reviews tends to the  Scientific and Academic Community	entailment
+Other sources have commented on Annual Reviews, stating that it tends to be a Pro-Science publisher of review journals.	entailment
+The factuality of Annual Reviews is reported to be High	entailment
+The factuality of Annual Reviews is reported to be high, according to factual reporting due to peer review and a clean fact check record.	entailment
+Annual Reviews relies on advertising for revenue	contradiction
+Annual Reviews relies on subscriptions for revenue	entailment
+Annual Reviews has received donations from subscriptions and the S2O model	entailment
+When aggregating stories, Annual Reviews relies on information from peer-reviewed research.	entailment
+Annual Reviews has endorsed Pro-Science	entailment
+Annual Reviews has an editorial bias towards Pro-Science	entailment
+Annual Reviews is the editor of Annual Reviews	entailment
+Annual Reviews had to apologize for **None in the Last 5 years**	entailment

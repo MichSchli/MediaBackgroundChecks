@@ -1,0 +1,12 @@
+Sinclair Broadcast Group owns WPBN - Traverse City News	entailment
+Sinclair Broadcast Group is the owner of WPBN - Traverse City News	entailment
+WPBN - Traverse City News tends to the right	entailment
+WPBN - Traverse City News tends to the right-center according to Mediabiasfactcheck	entailment
+Other sources have commented on WPBN - Traverse City News, stating that it tends to be Right-Center Biased	entailment
+The factuality of WPBN - Traverse City News is reported to be High	entailment
+The factuality of WPBN - Traverse City News is reported to be High, according to D. Van Zandt 01/02/2022	entailment
+WPBN - Traverse City News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+WPBN - Traverse City News relies on advertising for revenue	entailment
+WPBN - Traverse City News relies on donations for revenue	contradiction
+When aggregating stories, WPBN - Traverse City News relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/) and others by Sinclair properties.	entailment
+WPBN - Traverse City News has an editorial bias towards right	entailment

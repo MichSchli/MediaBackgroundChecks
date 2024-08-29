@@ -1,0 +1,19 @@
+David Jackson founded Seeking Alpha	entailment
+David Jackson is the founder of Seeking Alpha	entailment
+Seeking Alpha is funded through a premium membership program, subscription fees, sponsored content, and affiliate marketing.	entailment
+The remit of Seeking Alpha is to  provide financial news, analysis, and resources for investors and traders.	entailment
+The usual audience of Seeking Alpha is investors and traders	entailment
+Seeking Alpha tends to the right-center biased	entailment
+Other sources have commented on Seeking Alpha, stating that it tends to be **right-center biased**.	entailment
+The factuality of Seeking Alpha is reported to be High	entailment
+The factuality of Seeking Alpha is reported to be High, according to M. Huitsing 04/08/2023	entailment
+Seeking Alpha chose not to cover failed fact checks.	entailment
+Seeking Alpha relies on subscriptions for revenue	entailment
+Seeking Alpha relies on donations for revenue	entailment
+When aggregating stories, Seeking Alpha relies on information from **credible outlets**	entailment
+Seeking Alpha has endorsed a limited government market approach	entailment
+Seeking Alpha has an editorial bias towards **right-center**.	entailment
+Seeking Alpha printed a biased article titled "A Socialist Takeover Of Colombia Would Devastate Its Economy"	entailment
+Seeking Alpha printed a factually misleading titled "A Socialist Takeover Of Colombia Would Devastate Its Economy".	entailment
+Seeking Alpha's headquarter is located in Israel	entailment
+Seeking Alpha is a website	entailment

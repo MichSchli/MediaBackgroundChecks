@@ -1,0 +1,21 @@
+ founded Stimson Center	contradiction
+Brian Finlay is the CEO of Stimson Center	entailment
+Brian Finlay leads Stimson Center	entailment
+Stimson Center acquired Stimson Center	contradiction
+Stimson Center is funded through research contracts, grants from foundations, and other donations	entailment
+The remit of Stimson Center is to promote international security, shared prosperity & justice through applied research and independent analysis, deep engagement, and policy innovation.	entailment
+The mission of Stimson Center is to promote international security, shared prosperity & justice through applied research and independent analysis, deep engagement, and policy innovation.	entailment
+The usual audience of Stimson Center is neutral reporting on security.	entailment
+Stimson Center tends to the USA security	entailment
+Other sources have commented on Stimson Center, stating that it tends to be Least Biased	entailment
+The factuality of Stimson Center is reported to be High	entailment
+The factuality of Stimson Center is reported to be High, according to Media Bias/Fact Check.	entailment
+Stimson Center failed a fact-check for an article titled An Open Letter Condemning Violence and Systemic Racism	contradiction
+The Stimson Center chose not to cover failed fact checks	entailment
+Stimson Center relies on subscriptions for revenue	contradiction
+Stimson Center relies on donations for revenue	entailment
+Stimson Center has received donations from foundations	entailment
+Stimson Center has an editorial bias towards least biased	entailment
+Brian Finlay is the editor of Stimson Center	contradiction
+Stimson Center printed a factually misleading titled Least Biased-Based on Mostly Neutral Reporting on Security	entailment
+Stimson Center is a nonprofit.	entailment

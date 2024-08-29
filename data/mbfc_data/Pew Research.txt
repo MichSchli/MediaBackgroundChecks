@@ -1,0 +1,15 @@
+History
+Founded in 2004,
+[Pew Research](https://en.wikipedia.org/wiki/Pew_Research_Center) is a nonpartisan American think tank based in Washington, D.C. It provides information on social issues, public opinion, and demographic trends shaping the United States and the world. It also conducts public opinion polling, demographic research, media content analysis, and other empirical social science research.
+According to their
+[about page](http://www.pewresearch.org/about/), their mission is “We generate a foundation of facts that enriches the public dialogue and supports sound decision-making. We are nonprofit, nonpartisan, and nonadvocacy. We value independence, objectivity, accuracy, rigor, humility, transparency, and innovation.” The current president is Michael Dimock. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Pew Research Center is a nonprofit, tax-exempt 501(c)3 organization and a subsidiary of
+[The Pew Charitable Trusts](http://www.pewtrusts.org/). They fully disclose their IRS form 990 [here](http://www.pewresearch.org/wp-content/uploads/2018/05/FY17-Form-990-PRC-public-inspection.pdf).
+Analysis / Bias
+In review, Pew Research is primarily a polling and survey outlet that utilizes and publishes its methodology. Unlike many other polling companies that exclusively cover politics and elections, Pew covers a wide range of topics such as
+[Science](http://www.pewresearch.org/science/), [Technology](http://www.pewinternet.org/), and [Religion](http://www.pewforum.org/). Pew never uses loaded language in their headlines, and articles like this: [Eastern and Western Europeans Differ on Importance of Religion, Views of Minorities, and Key Social Issues](http://www.pewforum.org/2018/10/29/eastern-and-western-europeans-differ-on-importance-of-religion-views-of-minorities-and-key-social-issues/). Further, all information is sourced in detail, with the methodology explained for each survey.
+Editorially, there is little to no bias. Pew earns a Very-High factual rating because they conduct polls with strong methodology and does not manipulate content. This does not mean the poll can’t be off or wrong. It can as polling is not always accurate.
+Failed Fact Checks
+- Pew Research has never failed a fact check. In fact, Pew information is used by fact-checkers to
+[verify data](https://www.snopes.com/fact-check/high-income-earners-tax-rate/).

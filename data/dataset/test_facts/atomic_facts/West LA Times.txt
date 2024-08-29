@@ -1,0 +1,18 @@
+West LA Times leads	contradiction
+Metric Media Foundation owns West LA Times	entailment
+The West LA Times is funded through donations and grants.	entailment
+The remit of West LA Times is to **look like a local news source**	entailment
+The mission of West LA Times is to provide objective, data-driven information without political bias.	contradiction
+The usual audience of West LA Times is right-center biased.	entailment
+West LA Times tends to the right-center	entailment
+Other sources have commented on West LA Times, stating that it tends to be **right-center biased**.	entailment
+The factuality of West LA Times is reported to be Questionable	entailment
+The factuality of West LA Times is reported to be right-center biased, according to Media Bias Fact Check.	entailment
+West LA Times relies on advertising for revenue	entailment
+When aggregating stories, West LA Times relies on information from **algorithmically produced content**.	entailment
+West LA Times has endorsed right-centerbias.	entailment
+West LA Times has an editorial bias towards **right-center**.	entailment
+West LA Times printed a biased article titled imposter website that is designed to look like a local news source	entailment
+The West LA Times is funded by the United States government	contradiction
+The West LA Times is a conservative	entailment
+West LA Times covers the following topics: conservative-leaning news.	entailment

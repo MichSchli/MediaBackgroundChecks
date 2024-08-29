@@ -1,0 +1,22 @@
+Willis Carto founded American Free Press	entailment
+Willis Carto is the founder of American Free Press	entailment
+American Free Press is funded through advertising	entailment
+The remit of American Free Press is to promote	entailment
+The mission of American Free Press is to promote race and white supremacy conspiracy theories.	entailment
+The usual audience of American Free Press is **extreme right-biased, tin foil hat-level**.	entailment
+American Free Press tends to the extreme right-biased, tin foil hat-level source	entailment
+American Free Press tends to the extreme right-biased, tin foil hat-level source according to Media Bias Fact Check.	entailment
+Other sources have commented on American Free Press, stating that it tends to be extreme right-biased	entailment
+The factuality of American Free Press is reported to be not credible	entailment
+The factuality of American Free Press is reported to be not credible, according to Media Bias Fact Check.	entailment
+American Free Press failed a fact-check for an article titled *The Media’s Love Affair With Hate Crimes*	entailment
+American Free Press chose not to cover hate groups.	contradiction
+American Free Press relies on advertising for revenue	entailment
+American Free Press relies on subscriptions for revenue	entailment
+American Free Press relies on donations for revenue	contradiction
+American Free Press has received donations from **subscription fees for the weekly newspaper and advertising**	entailment
+When aggregating stories, American Free Press relies on information from [conspiracies, racism, antisemitism, and being labeled a hate group by numerous sources](https://mediabiasfactcheck.com/american-free-press/).	entailment
+American Free Press has endorsed anti-vaccination pseudoscience	entailment
+American Free Press has an editorial bias towards extreme right-wing, nationalist, racist, and antisemitic views	entailment
+American Free Press printed a biased article titled **Someone Tell Trump: It was Jews, Not Arabs, Dancing on 9-11**	entailment
+American Free Press printed a factually misleading titled **The Media’s Love Affair With Hate Crimes**	entailment

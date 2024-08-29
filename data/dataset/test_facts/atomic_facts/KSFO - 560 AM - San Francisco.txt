@@ -1,0 +1,15 @@
+Cumulus Media owns KSFO - 560 AM - San Francisco	entailment
+Cumulus Media bought KSFO - 560 AM - San Francisco	entailment
+KSFO - 560 AM - San Francisco is funded through advertising through radio and the web generates revenue.	entailment
+The remit of KSFO - 560 AM - San Francisco is to **publish conservative news talk shows.**	entailment
+The mission of KSFO - 560 AM - San Francisco is to **promote conservative perspectives through news talk shows and local political news**.	entailment
+KSFO - 560 AM - San Francisco tends to the right.	entailment
+Other sources have commented on KSFO - 560 AM - San Francisco, stating that it tends to be **right biased**.	entailment
+The factuality of KSFO - 560 AM - San Francisco is reported to be Mixed	entailment
+The factuality of KSFO - 560 AM - San Francisco is reported to be Mixed, according to Mediabiasfactcheck.com.	entailment
+KSFO - 560 AM - San Francisco failed a fact-check for an article titled Poll: Voters in California Say The US Border Is Not Secure	entailment
+KSFO - 560 AM - San Francisco relies on advertising for revenue	entailment
+KSFO - 560 AM - San Francisco relies on subscriptions for revenue	contradiction
+KSFO - 560 AM - San Francisco has an editorial bias towards right.	entailment
+KSFO - 560 AM - San Francisco is a **right-biased**	entailment
+KSFO - 560 AM - San Francisco covers the following topics: conservative news talk shows, local and political news	entailment

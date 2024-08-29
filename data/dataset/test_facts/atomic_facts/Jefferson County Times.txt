@@ -1,0 +1,20 @@
+Metric Media Foundation owns Jefferson County Times	entailment
+Metric Media LLC acquired Jefferson County Times	entailment
+The Jefferson County Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Jefferson County Times is to **look like a local news source**	entailment
+The mission of Jefferson County Times is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of Jefferson County Times is **conservative-leaning**	entailment
+The Jefferson County Times tends to the **right-center, biased, and Questionable**	entailment
+Other sources have commented on Jefferson County Times, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Jefferson County Times is reported to be Questionable	entailment
+The factuality of Jefferson County Times is reported to be Questionable, according to D. Van Zandt 	entailment
+Jefferson County Times failed a fact-check for an article titled "Partisan News Outlets Seek to Fill Void in US News Deserts"	entailment
+Jefferson County Times chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+Jefferson County Times relies on advertising for revenue	entailment
+Jefferson County Times relies on donations for revenue	entailment
+When aggregating stories, Jefferson County Times relies on information from **algorithmically produced content**	entailment
+Jefferson County Times has endorsed **right-center, biased, and Questionable**	entailment
+Jefferson County Times has an editorial bias towards conservative	entailment
+Jefferson County Times printed a biased article titled Jefferson County Times is an imposter site, lacks transparency, and publishes false information.	entailment
+Jefferson County Times is a conservative-leaning	entailment
+Jefferson County Times covers the following topics: conservative-leaning news.	entailment

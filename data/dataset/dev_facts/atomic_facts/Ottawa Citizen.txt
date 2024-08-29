@@ -1,0 +1,23 @@
+David Pecker is the founder of Ottawa Citizen	contradiction
+Paul Godfrey is the CEO of Ottawa Citizen	contradiction
+PostMedia owns Ottawa Citizen	entailment
+PostMedia acquired Ottawa Citizen	entailment
+Ottawa Citizen is funded through advertising and subscription fees	entailment
+The remit of Ottawa Citizen is to **cover local news via journalists and national news via The Canadian Press and International news through various sources such as Bloomberg for business news, Associated Press, and The Telegraph.**	entailment
+The mission of Ottawa Citizen is to **cover local news via journalists and national news via The Canadian Press and International news through various sources such as Bloomberg for business news, Associated Press, and The Telegraph.**	entailment
+The usual audience of Ottawa Citizen is Right-Center	entailment
+Ottawa Citizen tends to the Right-Center	entailment
+The Ottawa Citizen tends to the **right-center** according to **Media Bias/Fact Check**.	entailment
+Other sources have commented on Ottawa Citizen, stating that it tends to be **right-leaning**	entailment
+The factuality of Ottawa Citizen is reported to be High	entailment
+The factuality of Ottawa Citizen is reported to be High, according to Mediabiasfactcheck.	entailment
+Ottawa Citizen failed a fact-check for an article titled None in the Last 5 years	contradiction
+Ottawa Citizen printed a retraction after failing a fact-check for an article titled "None in the Last 5 years."	contradiction
+Ottawa Citizen relies on advertising for revenue	entailment
+Ottawa Citizen relies on subscriptions for revenue	entailment
+Ottawa Citizen relies on donations for revenue	contradiction
+When aggregating stories, Ottawa Citizen relies on information from [The Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and International news through various sources such as [Bloomberg](https://mediabiasfactcheck.com/bloomberg/) for business news, [Associated Press](https://mediabiasfactcheck.com/associated-press/), and [The Telegraph](https://mediabiasfactcheck.com/daily-telegraph/).	entailment
+Ottawa Citizen has an editorial bias towards right-leaning politics	entailment
+Michelle Richardson is the editor of Ottawa Citizen	entailment
+Ottawa Citizen printed a biased article titled "Trudeau".	entailment
+The Ottawa Citizen printed a factually misleading titled 	entailment

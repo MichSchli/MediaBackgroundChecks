@@ -1,0 +1,26 @@
+Paxton founded Madison Courier	entailment
+Paxton Media Group owns Madison Courier	entailment
+Paxton Media Group is the owner of Madison Courier	entailment
+Paxton Media Group bought Madison Courier	entailment
+Paxton Media Group acquired Madison Courier	entailment
+Madison Courier is funded through advertising and subscriptions	entailment
+The remit of Madison Courier is to report local news through the use of journalists.	entailment
+Madison Courier tends to the right.	entailment
+Other sources have commented on Madison Courier, stating that it tends to be right-center biased	entailment
+The factuality of Madison Courier is reported to be High	entailment
+The factuality of Madison Courier is reported to be High, according to Mediabiasfactcheck.	entailment
+Madison Courier failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Madison Courier printed a retraction after failing a fact-check for an article titled "County adopts resolution supporting battery farm".	contradiction
+Madison Courier chose not to cover **Left-leaning opinions**	contradiction
+Madison Courier relies on advertising for revenue	entailment
+Madison Courier relies on subscriptions for revenue	entailment
+Madison Courier relies on donations for revenue	contradiction
+When aggregating stories, Madison Courier relies on information from [credible newsagents such as the Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Madison Courier has endorsed right-center biased	entailment
+Madison Courier has an editorial bias towards right.	entailment
+M. Huitsing is the editor of Madison Courier.	entailment
+Madison Courier printed a factually misleading titled Right-Center Biased Based on Editorial Positions That Slightly Favor the Right and High for Factual Reporting Due to Credible News Sources and a Clean Fact-Check Record.	entailment
+Madison Courier's headquarter is located in Madison, Indiana	entailment
+Madison Courier is funded by the private government	contradiction
+The Madison Courier is a newspaper	entailment
+Madison Courier covers the following topics: local news, hometown politics, business news, local events, and sports.	entailment

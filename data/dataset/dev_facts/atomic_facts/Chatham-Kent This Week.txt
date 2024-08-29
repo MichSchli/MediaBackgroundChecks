@@ -1,0 +1,19 @@
+PostMedia owns Chatham-Kent This Week	entailment
+PostMedia is the owner of Chatham-Kent This Week	entailment
+PostMedia bought Chatham-Kent This Week	entailment
+The Chatham-Kent This Week is funded through [advertising and subscription fees].	entailment
+The remit of Chatham-Kent This Week is to **report local and regional news through journalists**.	entailment
+The mission of Chatham-Kent This Week is to report local and regional news.	entailment
+Chatham-Kent This Week tends to the right	entailment
+Chatham-Kent This Week tends to the right-center biased according to report.	entailment
+Other sources have commented on Chatham-Kent This Week, stating that it tends to be right-leaning.	entailment
+The factuality of Chatham-Kent This Week is reported to be High	entailment
+The factuality of Chatham-Kent This Week is reported to be High, according to mediabiasfactcheck.com	entailment
+Chatham-Kent This Week failed a fact-check for an article titled None in the Last 5 years	contradiction
+Chatham-Kent This Week printed a retraction after failing a fact-check for an article titled "Health Canada approval ensures bright future for Chatham boy with Alagille syndrome".	entailment
+Chatham-Kent This Week relies on advertising for revenue	entailment
+Chatham-Kent This Week relies on subscriptions for revenue	entailment
+Chatham-Kent This Week relies on donations for revenue	contradiction
+When aggregating stories, Chatham-Kent This Week relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/).	entailment
+The Chatham-Kent This Week has endorsed conservative right	entailment
+The Chatham-Kent This Week has an editorial bias towards right-leaning	entailment

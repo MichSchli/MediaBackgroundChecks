@@ -1,0 +1,23 @@
+M. Fontenot is the CEO of Louisiana Illuminator	contradiction
+Louisiana Illuminator bought Louisiana Illuminator	entailment
+Louisiana Illuminator is funded through grants and a coalition of donors and readers	entailment
+The remit of Louisiana Illuminator is to cast light on how decisions are made in Baton Rouge and how they affect the lives of everyday Louisianians, particularly those who are poor or otherwise marginalized.	entailment
+The mission of Louisiana Illuminator is to cast light on how decisions are made in Baton Rouge and how they affect the lives of everyday Louisianians, particularly those who are poor or otherwise marginalized.	entailment
+The usual audience of Louisiana Illuminator is **those who are poor or otherwise marginalized**	entailment
+Louisiana Illuminator tends to the **left**	entailment
+Louisiana Illuminator tends to the liberal according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Louisiana Illuminator, stating that it tends to be **Left Biased**	entailment
+The factuality of Louisiana Illuminator is reported to be High	entailment
+The factuality of Louisiana Illuminator is reported to be High, according to Media Bias/Fact Check.	entailment
+Louisiana Illuminator failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Louisiana Illuminator printed a retraction after failing a fact-check for an article titled "Conspiracy theorists urge voting as late as possible on Election Day to ‘stop the steal.’"	entailment
+The Louisiana Illuminator chose not to cover **any fact checks in the Last 5 years**	entailment
+Louisiana Illuminator provides original content written by staff journalists	entailment
+Louisiana Illuminator relies on advertising for revenue	entailment
+Louisiana Illuminator relies on donations for revenue	entailment
+When aggregating stories, Louisiana Illuminator relies on information from [whitehouse.gov](https://mediabiasfactcheck.com/whitehouse-gov), [Washington Post](https://mediabiasfactcheck.com/washington-post), [Politico](https://mediabiasfactcheck.com/politico), [Center for Responsive Politics (Open Secrets)](https://mediabiasfactcheck.com/center-for-responsive-politics-open-secrets), and bls.gov (U.S. Bureau of Labor Statistics).	entailment
+Louisiana Illuminator has endorsed the left	entailment
+Louisiana Illuminator has an editorial bias towards **the left**	entailment
+Editor is the editor of Louisiana Illuminator	entailment
+Louisiana Illuminator printed a biased article titled "Young Black and Latino voters seen as key in turning back midterm ‘red wave.’"	entailment
+Louisiana Illuminator had to apologize to the Hopewell Foundation for their involvement with the Hopewell Foundation	contradiction

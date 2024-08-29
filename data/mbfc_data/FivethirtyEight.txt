@@ -1,0 +1,15 @@
+History
+Five Thirty-Eight sometimes referred to as 538, focuses on opinion poll analysis, politics, economics, and sports blogging. The website, which takes its name from the number of electors in the United States electoral college, was founded on March 7, 2008, as a polling aggregation website with a blog created by analyst Nate Silver.
+In 2013, ESPN became the owner of FiveThirtyEight, and in April 2018, the site was acquired by
+[ABC News](https://mediabiasfactcheck.com/abc-news/). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+FiveThirtyEight is owned by ABC News, which in turn is owned by the
+[Walt Disney Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company). The website is funded through online advertising.
+Analysis / Bias
+In review, FiveThirtyEight differs from other polling sources in that they do not conduct the polls but rather deeply analyze other polls and apply a strict methodology to determine accuracy. For example,
+[Real Clear Politics](https://mediabiasfactcheck.com/real-clear-politics/) takes all poll averages to develop a score, whereas 538 uses weights on each poll based on demographics and much more. One can argue this is more accurate and 538’s early track record proved it was. However, in 2016 they gave President Trump a 29% chance of winning. This does not mean they were wrong because they still had a 29% chance of being correct, but they clearly were not very close on this one with their methods.
+538 also reports news on their website that tends to lean left; however, they have been criticized as opposed to the
+[progressive left](https://fivethirtyeight.com/features/what-to-make-of-the-bernie-sanders-surge/). News articles typically utilize moderate to minimally loaded language, such as [How Amy Klobuchar Could Win The 2020 Democratic Nomination](https://fivethirtyeight.com/features/amy-klobuchar-2020-democratic-nomination-kickoff/). This article relies on proper sourcing from the likes of [ABC News](https://mediabiasfactcheck.com/abc-news/), Monmouth University, and Senate.gov. A review of news stories reveals a more positive tone toward the left, such as this: [Trump Is Wrong. When The Opposition Party Runs The House, The President Gets Investigated.](https://fivethirtyeight.com/features/trump-is-wrong-when-the-opposition-party-runs-the-house-the-president-gets-investigated/)
+In general, 538 tend to stick to poll-related news, but they usually slightly favor the left through story selection and wording when discussing politics.
+Failed Fact Checks
+- None in the Last 5 years

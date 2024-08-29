@@ -1,0 +1,23 @@
+Teen Vogue is the CEO of Teen Vogue	contradiction
+Condé Nast Inc. owns Teen Vogue	entailment
+Condé Nast Inc. is the owner of Teen Vogue	entailment
+Teen Vogue is funded through **advertising**	entailment
+The remit of Teen Vogue is to target teenage girls.	entailment
+The mission of Teen Vogue is to target teenage girls.	entailment
+The usual audience of Teen Vogue is **younger female audience**	entailment
+Teen Vogue tends to the left	entailment
+Other sources have commented on Teen Vogue, stating that it tends to be left biased.	entailment
+The factuality of Teen Vogue is reported to be Mostly Factual	entailment
+The factuality of Teen Vogue is reported to be Mostly Factual, according to D. Van Zandt 8/29/2019.	entailment
+Teen Vogue failed a fact-check for an article titled "NASA prepping 17-year-old Alyssa Carson to become first human on Mars.".	entailment
+Teen Vogue chose not to cover **celebrities**	contradiction
+Teen Vogue relies on advertising for revenue	entailment
+Teen Vogue relies on donations for revenue	contradiction
+When aggregating stories, Teen Vogue relies on information from [the Health and Human Services website as well as the Associated Press and the Washington Post](https://mediabiasfactcheck.com/associated-press/).	entailment
+Teen Vogue has endorsed liberal/progressive causes	entailment
+Teen Vogue has an editorial bias towards liberal/progressive causes	entailment
+Teen Vogue was fined **for negligence in its business operations**	entailment
+Teen Vogue printed a biased article titled "Attorney General Jeff Sessions Joined a “Lock Her Up!” Chant at a Conservative Teen Conference".	entailment
+Teen Vogue printed a factually misleading titled "NASA prepping 17-year-old Alyssa Carson to become first human on Mars."	entailment
+Teen Vogue is funded by the **American** government	contradiction
+Teen Vogue is a left-biased magazine	entailment

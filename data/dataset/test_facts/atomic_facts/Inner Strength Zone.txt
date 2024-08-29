@@ -1,0 +1,18 @@
+Inner Strength Zone founded Inner Strength Zone	entailment
+Inner Strength Zone is funded through advertising and sponsored content	entailment
+The usual audience of Inner Strength Zone is general public.	entailment
+Other sources have commented on Inner Strength Zone, stating that it tends to be Questionable.	entailment
+The factuality of Inner Strength Zone is reported to be Questionable	entailment
+The factuality of Inner Strength Zone is reported to be Questionable, according to D. Van Zandt	entailment
+Inner Strength Zone failed a fact-check for an article titled "Actual Resignation Letter Written by a Woman Who'd Had Enough of Her Boss".	entailment
+Inner Strength Zone chose not to cover political news	entailment
+Inner Strength Zone relies on advertising for revenue	entailment
+Inner Strength Zone relies on subscriptions for revenue	contradiction
+Inner Strength Zone relies on donations for revenue	contradiction
+Inner Strength Zone has endorsed **pseudoscience and false claims**	entailment
+Inner Strength Zone has an editorial bias towards **pseudoscience and false claims**	entailment
+Inner Strength Zone printed a biased article titled **"Actual Resignation Letter Written by a Woman Who'd Had Enough of Her Boss"**	entailment
+Inner Strength Zone printed a factually misleading titled **actual-resignation-letter-written-by-a-woman-whod-had-enough-of-her-boss**	entailment
+Inner Strength Zone had to apologize to no one for nothing	entailment
+Inner Strength Zone is a website	entailment
+Inner Strength Zone covers the following topics: uplifting, funny, and inspirational stories, news stories about celebrities, feel-good stories, false claims, and pseudoscience.	entailment

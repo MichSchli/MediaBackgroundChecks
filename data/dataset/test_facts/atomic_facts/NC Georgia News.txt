@@ -1,0 +1,20 @@
+Metric Media Foundation owns NC Georgia News.	entailment
+The funding from the Metric Media Foundation.	entailment
+The remit of NC Georgia News is to **look like a local news source**	entailment
+The mission of NC Georgia News is to  disseminate conservative news and opinion.	entailment
+The usual audience of NC Georgia News is **right-center, biased, and Questionable**.	entailment
+NC Georgia News tends to the right-center	entailment
+Other sources have commented on NC Georgia News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of NC Georgia News is reported to be Questionable	entailment
+The factuality of NC Georgia News is reported to be Questionable, according to D. Van Zandt	entailment
+NC Georgia News failed a fact-check for an article titled "Imposter Site, Lacks Transparency, and Publishes False Information"	entailment
+NC Georgia News chose not to cover false information	contradiction
+NC Georgia News relies on advertising for revenue	entailment
+NC Georgia News relies on donations for revenue	entailment
+NC Georgia News has received donations from the Metric Media Foundation	entailment
+When aggregating stories, NC Georgia News relies on information from **algorithmically produced content**.	entailment
+NC Georgia News has endorsed **conservative-leaning news websites**	entailment
+NC Georgia News has an editorial bias towards conservative	entailment
+NC Georgia News printed a biased article titled **"The Truth About Climate Change."**	entailment
+NC Georgia News is a **conservative news and opinion website**.	entailment
+NC Georgia News covers the following topics: **Conservative-leaning news**	entailment

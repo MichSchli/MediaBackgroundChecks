@@ -1,0 +1,15 @@
+Now8News is funded through advertising	entailment
+The remit of Now8News is to **mimic a real news website**.	entailment
+The mission of Now8News is to  publish fake news.	entailment
+Now8News tends to the dissemination of 	entailment
+Now8News tends to the  imposter website according to  D. Van Zandt 	entailment
+Other sources have commented on Now8News, stating that it tends to be Questionable	entailment
+The factuality of Now8News is reported to be questionable	entailment
+The factuality of Now8News is reported to be Questionable, according to D. Van Zandt 8/9/2016	entailment
+Now8News failed a fact-check for an article titled "Man Cuts Off Thumbs Claiming They Were Causing Him To Type Homophobic Tweets".	entailment
+Now8News relies on advertising for revenue	entailment
+Now8News relies on donations for revenue	contradiction
+Now8News has endorsed **fake news that may or may not be satire**	entailment
+Now8News has an editorial bias towards **misinformation**	entailment
+Now8News printed a factually misleading titled **Man Cuts Off Thumbs Claiming They Were Causing Him To Type Homophobic Tweets**	entailment
+Now8News had to apologize to no one for serving as an imposter site	entailment

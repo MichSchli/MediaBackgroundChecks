@@ -1,0 +1,21 @@
+Mark Slapinski is the founder of Toronto Today.	entailment
+Mark Slapinski owns Toronto Today	entailment
+Mark Slapinski is the owner of Toronto Today	entailment
+Toronto Today acquired Toronto Today	entailment
+Toronto Today is funded through advertising.	entailment
+The remit of Toronto Today is to publish fake news	entailment
+Toronto Today tends to the questionable	entailment
+Other sources have commented on Toronto Today, stating that it tends to be Questionable	entailment
+The factuality of Toronto Today is reported to be Questionable.	entailment
+The factuality of Toronto Today is reported to be questionable, according to D. Van Zandt	entailment
+Toronto Today failed a fact-check for an article titled "Russian President Vladimir Putin’s daughter died on Aug. 15, 2020, after taking a second dose of COVID-19 vaccine."	entailment
+Toronto Today chose not to cover failed fact checks.	contradiction
+Toronto Today relies on advertising for revenue	entailment
+Toronto Today relies on subscriptions for revenue	contradiction
+Toronto Today relies on donations for revenue	contradiction
+When aggregating stories, Toronto Today relies on information from **poor sources**	entailment
+Toronto Today has endorsed **fake news**	entailment
+Toronto Today had to apologize for **publishing fake news**	entailment
+Toronto Today is funded by the local government	contradiction
+Toronto Today is a **Questionable**	entailment
+Toronto Today covers the following topics:  Fake news.	entailment

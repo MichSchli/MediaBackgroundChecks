@@ -1,0 +1,15 @@
+The remit of 12minutos.com is to **allow users to generate fake news**.	entailment
+The usual audience of 12minutos.com is **people who want to generate fake news**.	entailment
+12minutos.com tends to the **creation of fake news**	entailment
+12minutos.com tends to the **Questionable** according to **Media Bias/Fact Check**.	entailment
+Other sources have commented on 12minutos.com, stating that it tends to be Questionable	entailment
+The factuality of 12minutos.com is reported to be Questionable	entailment
+The factuality of 12minutos.com is reported to be questionable, according to D. Van Zandt 5/1/2019.	entailment
+12minutos.com failed a fact-check for an article titled "This is an entertainment site, users create the news."	entailment
+12minutos.com chose not to cover real news	entailment
+12minutos.com provides original content written by staff journalists	contradiction
+When aggregating stories, 12minutos.com relies on information from **users**.	entailment
+12minutos.com has endorsed **creating fake news that can be shared on the internet**	entailment
+12minutos.com has an editorial bias towards Questionable	entailment
+12minutos.com printed a biased article titled **12minutos.com is Questionable for Creating Fake News**	entailment
+12minutos.com printed a factually misleading titled **fake news**	entailment

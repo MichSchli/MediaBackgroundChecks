@@ -1,0 +1,21 @@
+Nexstar Media Group owns WIAT - CBS 42	entailment
+Nexstar Media Group bought WIAT - CBS 42	contradiction
+WIAT - CBS 42 is funded through **advertising**	entailment
+The remit of WIAT - CBS 42 is to  report news for the greater Birmingham, Alabama area.	entailment
+The mission of WIAT - CBS 42 is to report news factually and with minimal bias.	entailment
+The usual audience of WIAT - CBS 42 is **the greater Birmingham, Alabama area**	entailment
+Other sources have commented on WIAT - CBS 42, stating that it tends to be Least Biased	entailment
+The factuality of WIAT - CBS 42 is reported to be High	entailment
+The factuality of WIAT - CBS 42 is reported to be High, according to Mediabiasfactcheck.	entailment
+WIAT - CBS 42 failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WIAT - CBS 42 printed a retraction after failing a fact-check for an article titled "Person who died in police custody identified in Alabama".	contradiction
+WIAT - CBS 42 chose not to cover op-eds	entailment
+WIAT - CBS 42 relies on advertising for revenue	entailment
+WIAT - CBS 42 relies on subscriptions for revenue	entailment
+When aggregating stories, WIAT - CBS 42 relies on information from **Nexstar Media Wire, the Associated Press, and other large credible media outlets**	entailment
+WIAT - CBS 42 has endorsed Least Biased	contradiction
+WIAT - CBS 42 has an editorial bias towards Least Biased	entailment
+WIAT - CBS 42 printed a biased article titled "Republican-led states in southeast pass sweeping voting laws".	contradiction
+WIAT - CBS 42 printed a factually misleading titled "Republican-led states in southeast pass sweeping voting laws".	contradiction
+WIAT - CBS 42 is a [CBS](https://mediabiasfactcheck.com/cbs-news/)-affiliated television station.	entailment
+WIAT - CBS 42 covers the following topics:  History, sports, weather, politics, and crime reporting	entailment

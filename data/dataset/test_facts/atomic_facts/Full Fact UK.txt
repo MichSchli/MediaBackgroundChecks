@@ -1,0 +1,16 @@
+Full Fact UK is funded through donations.	entailment
+The remit of Full Fact UK is to promote accuracy in public debate	entailment
+The mission of Full Fact UK is to promote accuracy in public debate	entailment
+Other sources have commented on Full Fact UK, stating that it tends to be highly credible.	entailment
+The factuality of Full Fact UK is reported to be high	entailment
+The factuality of Full Fact UK is reported to be highly credible, according to Media Bias/Fact Check.	entailment
+Full Fact UK failed a fact-check for an article titled None. They are an IFCN fact-checker.	entailment
+Full Fact UK printed a retraction after failing a fact-check for an article titled "government influence on UK’s media".	contradiction
+Full Fact UK provides original content written by staff journalists	entailment
+Full Fact UK relies on subscriptions for revenue	entailment
+Full Fact UK relies on donations for revenue	entailment
+Full Fact UK has received donations from Facebook, Luminate, Google, and the [Nuffield Foundation](https://www.nuffieldfoundation.org/).	entailment
+Full Fact UK has endorsed by MBFC.	entailment
+Full Fact UK has an editorial bias towards  promoting accuracy in public debate 	entailment
+Full Fact UK printed a factually misleading titled "History".	entailment
+Full Fact UK is a top fact-checker	entailment

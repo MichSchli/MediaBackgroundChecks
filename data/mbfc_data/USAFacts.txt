@@ -1,0 +1,14 @@
+History
+Founded in 2016 by
+[Steve Ballmer](https://www.forbes.com/profile/steve-ballmer/) (Former Microsoft CEO, LA Clippers Owner), USAFacts, according to their [about page](https://usafacts.org/about-usafacts/), is a “data-driven portrait of the American population, our government’s finances, and the government’s impact on society. They are a non-partisan, not-for-profit civic initiative and have no political agenda or commercial motive. We provide vital spending, revenue, demographic, and performance information as a free public service and are committed to maintaining and expanding our available data in the future.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+USAFacts is a nonprofit owned and funded by
+[Steve and Connie Ballmer](https://usafacts.org/faq/).
+Analysis / Bias
+In review, USAFacts provides statistics and data on various topics ranging from Covid-19, Healthcare, Immigration, and several other topics. Low-biased sourcing from government sources and agencies is the norm. USAFacts does not use any other data, as they explain on their
+[FAQ page](https://usafacts.org/faq/) “We rely solely on government data for consistency and to screen for bias. Data curated by think tanks, academics, or any outlet expressing a viewpoint about the data is not reliably nonpartisan.”
+The wording used in headlines and reports is low-biased and neutral such as this
+[There was one new COVID-19 case for every 76 Americans in November](https://usafacts.org/articles/there-was-one-new-covid-19-case-for-every-76-americans-in-november/). During the Covid-19 pandemic, USAFacts has provided accurate, fact-based statistics that are credible such as this [COVID-19 Impact and Recovery](https://usafacts.org/covid-recovery-hub/). Generally, the information provided is highly factual and reported with minimal bias.
+Failed Fact Checks
+- None. In fact, they are frequently used as a
+[resource for fact-checkers](https://iffy.news/fact-check-search/?q=usafacts.org).

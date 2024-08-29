@@ -1,0 +1,23 @@
+Alden Global Capital LLC is the CEO of Monterey Herald	contradiction
+Digital First Media leads Monterey Herald	entailment
+MediaNews Group owns Monterey Herald	entailment
+MediaNews Group is the owner of Monterey Herald	entailment
+MediaNews Group bought Monterey Herald	entailment
+The Monterey Herald is funded through advertising and subscription fees.	entailment
+The remit of Monterey Herald is to **publish local and regional news through journalists with minimal bias**	entailment
+The mission of Monterey Herald is to report factually and with credible sources.	entailment
+The usual audience of Monterey Herald is least biased based on sound journalism and balanced editorial positions	entailment
+The Monterey Herald tends to the **least biased**	entailment
+Monterey Herald tends to the least biased based on sound journalism and balanced editorial positions according to D. Van Zandt 09/19/2022	entailment
+Other sources have commented on Monterey Herald, stating that it tends to be **least biased**	entailment
+The factuality of Monterey Herald is reported to be High	entailment
+The factuality of Monterey Herald is reported to be High, according to D. Van Zandt 09/19/2022.	entailment
+Monterey Herald failed a fact-check for an article titled None in the Last 5 years.	contradiction
+Monterey Herald printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+Monterey Herald chose not to cover failed fact checks	entailment
+Monterey Herald provides original content written by staff journalists	entailment
+Monterey Herald relies on advertising for revenue	contradiction
+Monterey Herald relies on subscriptions for revenue	entailment
+Monterey Herald relies on donations for revenue	contradiction
+When aggregating stories, Monterey Herald relies on information from **the Associated Press and Washington Post**.	entailment
+Monterey Herald has an editorial bias towards least biased	entailment

@@ -1,0 +1,20 @@
+Ian Hislop founded Private Eye	entailment
+Ian Hislop leads Private Eye	entailment
+Pressdram Ltd owns Private Eye.	entailment
+Ian David Hislop is the owner of Private Eye	contradiction
+Private Eye is funded through **subscription fees, advertising, and a shop where you can purchase back issues**	entailment
+The remit of Private Eye is to publish both satire and investigative journalism.	entailment
+The mission of Private Eye is to offer a unique blend of humour, social and political observations and investigative journalism.	entailment
+The usual audience of Private Eye is  Left-Center Biased	entailment
+Private Eye tends to the left	entailment
+Private Eye tends to the left-center biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on Private Eye, stating that it tends to be **left-leaning**	entailment
+The factuality of Private Eye is reported to be Mixed	entailment
+The factuality of Private Eye is reported to be Mixed, according to MBFC.	entailment
+Private Eye chose not to cover science.	contradiction
+Private Eye relies on advertising for revenue	entailment
+Private Eye relies on subscriptions for revenue	entailment
+Private Eye relies on donations for revenue	contradiction
+Private Eye has an editorial bias towards Left.	entailment
+Ian David Hislop is the editor of Private Eye	entailment
+Private Eye was fined 	entailment

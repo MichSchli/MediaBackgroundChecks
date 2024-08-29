@@ -1,0 +1,13 @@
+History
+Founded in 2006, The Next Web (TNW) is a technology news website that only covers political issues related to tech. They are based in Amsterdam, Netherlands.
+[Read our profile on Netherlands media and government.](https://mediabiasfactcheck.com/netherlands-media-profile/)
+Funded by / Ownership
+The
+[Financial Times](https://mediabiasfactcheck.com/financial-times/) owns The Next Web. Advertising generates revenue.
+Analysis / Bias
+In review, The Next Web uses loaded words in their headlines and article such as this
+[Spotify’s COVID-19 content warning is bullshit](https://thenextweb.com/news/spotify-covid-19-label-joe-rogan-analysis). Articles are usually sourced from credible media outlets such as [NPR](https://mediabiasfactcheck.com/npr/) and [VOX](https://mediabiasfactcheck.com/vox/).
+Editorially, they tend to favor the left as they report somewhat negatively on the policies of former President
+[Donald Trump and the GOP](https://thenextweb.com/latest/?q=Trump). Another example of anti-conservative bias is this [Robots don’t care what Josh Hawley thinks about masculinity](https://thenextweb.com/news/robots-dont-care-what-josh-hawley-thinks-about-masculinity).
+Failed Fact Checks
+[“Cannabis is more effective at preventing and treating COVID-19 than hydroxychloroquine”](https://healthfeedback.org/claimreview/no-scientific-evidence-indicates-that-cannabis-can-prevent-or-cure-covid-19-in-patients-the-next-web/)– Unsupported

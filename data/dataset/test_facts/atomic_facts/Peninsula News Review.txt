@@ -1,0 +1,25 @@
+Black Press Media owns Peninsula News Review	entailment
+Black Press Media is the owner of Peninsula News Review.	entailment
+Black Press Media bought Peninsula News Review	entailment
+Peninsula News Review is funded through Advertising.	entailment
+The remit of Peninsula News Review is to cover news, sports, crime, and business for the greater Sidney area.	entailment
+The mission of Peninsula News Review is to  report news for Sidney and the surrounding area.	entailment
+The usual audience of Peninsula News Review is slightly Left-Center biased	entailment
+Peninsula News Review tends to the Left-Center Bias	entailment
+Other sources have commented on Peninsula News Review, stating that it tends to be slightly Left-Center biased.	entailment
+The factuality of Peninsula News Review is reported to be High	entailment
+The factuality of Peninsula News Review is reported to be High, according to D. Van Zandt 	entailment
+Peninsula News Review failed a fact-check for an article titled "Canucks’ fan favourite, Gino Odjick, dies at 52"	contradiction
+Peninsula News Review printed a retraction after failing a fact-check for an article titled "Canucks’ fan favourite, Gino Odjick, dies at 52"	entailment
+Peninsula News Review chose not to cover political news regularly.	contradiction
+Peninsula News Review relies on advertising for revenue	entailment
+Peninsula News Review relies on subscriptions for revenue	contradiction
+Peninsula News Review relies on donations for revenue	contradiction
+When aggregating stories, Peninsula News Review relies on information from **the Associated Press and Canadian Press**	entailment
+Peninsula News Review has an editorial bias towards **left**	entailment
+Peninsula News Review was fined None in the Last 5 years	entailment
+Peninsula News Review had to apologize for **none in the Last 5 years**.	entailment
+The Peninsula News Review is funded by the Canadian government	contradiction
+Peninsula News Review is a newspaper	entailment
+Peninsula News Review uses an internal fact-checking process	entailment
+Peninsula News Review covers the following topics: news, sports, crime, and business for the greater Sidney area.	entailment

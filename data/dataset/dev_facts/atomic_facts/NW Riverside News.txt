@@ -1,0 +1,17 @@
+Metric Media Foundation owns NW Riverside News	entailment
+Metric Media LLC acquired NW Riverside News	entailment
+NW Riverside News is funded through donations and grants.	entailment
+The remit of NW Riverside News is to **look like a local news source**	entailment
+The mission of NW Riverside News is to look like a local news source.	entailment
+The usual audience of NW Riverside News is right-center biased	entailment
+NW Riverside News tends to the right-center	entailment
+NW Riverside News tends to the right according to being an imposter website.	entailment
+Other sources have commented on NW Riverside News, stating that it tends to be right-center biased	entailment
+The factuality of NW Riverside News is reported to be Questionable	entailment
+The factuality of NW Riverside News is reported to be Questionable, according to Media Bias/Fact Check.	entailment
+NW Riverside News relies on advertising for revenue	entailment
+NW Riverside News relies on donations for revenue	entailment
+When aggregating stories, NW Riverside News relies on information from **algorithmically produced content**	entailment
+NW Riverside News has endorsed **conservative-leaning news websites**	entailment
+NW Riverside News has an editorial bias towards **right-center**.	entailment
+NW Riverside News printed a factually misleading titled "Imposter Website Designed to Look Like a Local News Source"	entailment

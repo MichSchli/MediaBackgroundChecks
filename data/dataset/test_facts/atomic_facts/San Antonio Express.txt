@@ -1,0 +1,24 @@
+Hearst Corporation is the founder of San Antonio Express	contradiction
+Hearst Corporation owns San Antonio Express	entailment
+Hearst Corporation is the owner of San Antonio Express	entailment
+San Antonio Express is funded through a subscription and advertising model.	entailment
+The remit of San Antonio Express is to utilize local journalists for news coverage in the greater San Antonio area and republish Associated Press stories for national and international news.	entailment
+San Antonio Express tends to the left	entailment
+Other sources have commented on San Antonio Express, stating that it tends to be Left-Center	entailment
+The factuality of San Antonio Express is reported to be High	entailment
+The factuality of San Antonio Express is reported to be High, according to Mediabiasfactcheck.	entailment
+San Antonio Express failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+San Antonio Express printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+San Antonio Express chose not to cover failed fact checks	entailment
+San Antonio Express provides original content written by staff journalists	contradiction
+San Antonio Express relies on advertising for revenue	entailment
+San Antonio Express relies on subscriptions for revenue	entailment
+San Antonio Express relies on donations for revenue	contradiction
+San Antonio Express has received donations from the Hearst Corporation	entailment
+When aggregating stories, San Antonio Express relies on information from **Associated Press**.	entailment
+San Antonio Express has endorsed **the Democratic Candidate for President**	entailment
+San Antonio Express has an editorial bias towards Left-Center	entailment
+San Antonio Express printed a biased article titled "Overall, we rate the San Antonio Express-News Left-Center biased due to editorial positions and High for factual reporting."	entailment
+San Antonio Express printed a factually misleading titled "Failed Fact Checks"	contradiction
+San Antonio Express is funded by the **subscription and advertising** government	contradiction
+San Antonio Express is a Left-Center biased	entailment

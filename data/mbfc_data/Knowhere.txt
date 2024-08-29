@@ -1,0 +1,10 @@
+Factual Reporting: HIGH
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+According to a
+[press release:](https://s3.us-west-2.amazonaws.com/cruncher-images/static/press-release/knowhere-launch-press-release.pdf) “Knowhere, a San Francisco and London-based news publication that uses machine learning to write unbiased coverage of the day’s biggest stories. Knowhere’s technology scours the internet, evaluating narratives, factual claims, and bias in reporting, by outlets as varied as the [New York Times](https://mediabiasfactcheck.com/new-york-times/) and [Breitbart](https://mediabiasfactcheck.com/breitbart/), to inform three “spins” of every controversial story: left, impartial, and right, or positive, impartial and negative.” [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Knowhere was launched with “$1.8M in seed funding. Investors include CrunchFund, Day OneVentures, Danhua Capital, Struck Capital, and Abstract Ventures.”
+Analysis / Bias
+In review, Knowhere presents daily news stories written as Impartial (without loaded wording – covering both sides fairly), Left and Right-leaning. They also provide links to other sources of varying biases that are reporting the same story. The impartial stories are dry and factual as one would expect, while the right and left-leaning interpretations of the story are more colorful and unbalanced. The concept of the site is unique and serves to educate media consumers of the difference between biased (spinned) media reporting and that which is not.

@@ -1,0 +1,24 @@
+Other98 Action owns The Other 98%	entailment
+Other98 Action acquired The Other 98%	entailment
+The Other 98% is funded through donations	entailment
+The remit of The Other 98% is to fight Trump's Agenda.	entailment
+The usual audience of The Other 98% is **liberals**.	entailment
+The Other 98% tends to the left	entailment
+Other sources have commented on The Other 98%, stating that it tends to be **Questionable**	entailment
+The factuality of The Other 98% is reported to be Questionable	entailment
+The factuality of The Other 98% is reported to be **abysmal**, according to **Media Bias Fact Check**	entailment
+The Other 98% failed a fact-check for an article titled "Misleading Meme Pits Acosta Against ‘Neo Nazi’"	entailment
+The Other 98% printed a retraction after failing a fact-check for an article titled **"Says Fox News anchor Shepard Smith stepped down after Attorney General William Barr 'had a closed door meeting with Rupert Murdoch.'"**	contradiction
+The Other 98% relies on advertising for revenue	contradiction
+The Other 98% relies on subscriptions for revenue	contradiction
+The Other 98% relies on donations for revenue	entailment
+The Other 98% has received donations from Other98 Action.	entailment
+When aggregating stories, The Other 98% relies on information from **propaganda sources**	entailment
+The Other 98% has an editorial bias towards **left-wing**	entailment
+Dale Maharidge is the editor of The Other 98%	entailment
+The Other 98% printed a biased article titled **Want Trump to Deport DACA Kids? You're Not Patriotic Christian, You're an Asshole**	entailment
+The Other 98% printed a factually misleading titled "Misleading Meme Pits Acosta Against ‘Neo Nazi’"	entailment
+The Other 98% paid damages to **Fox News anchor Shepard Smith** after **Attorney General William Barr had a closed door meeting with Rupert Murdoch**	contradiction
+The Other 98% is funded by the United States government	contradiction
+The Other 98% is a non-profit activist group	entailment
+The Other 98% covers the following topics: extreme left-wing bias through story selection and political affiliation that favors the left.	entailment

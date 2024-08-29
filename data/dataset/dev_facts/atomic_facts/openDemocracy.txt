@@ -1,0 +1,19 @@
+openDemocracy founded openDemocracy	contradiction
+Anthony Barnett is the founder of openDemocracy	entailment
+The OpenDemocracy Foundation for the Advancement of Global Education owns openDemocracy	entailment
+OpenDemocracy Limited is the owner of openDemocracy	contradiction
+openDemocracy is funded through donations.	entailment
+The remit of openDemocracy is to challenge power and encourage democratic debate across the world.	entailment
+The mission of openDemocracy is to challenge power and encourage democratic debate across the world.	entailment
+openDemocracy tends to the **left**	entailment
+Other sources have commented on openDemocracy, stating that it tends to be **rated Left-Center for bias and High for factual reporting**	entailment
+The factuality of openDemocracy is reported to be High	entailment
+The factuality of openDemocracy is reported to be High, according to D. Van Zandt	entailment
+openDemocracy failed a fact-check for an article titled "Will person-to-person politics put wind in Corbyn’s sails?"	contradiction
+openDemocracy chose not to cover **None in the Last 5 years**	entailment
+openDemocracy relies on subscriptions for revenue	contradiction
+openDemocracy relies on donations for revenue	entailment
+openDemocracy has received donations from THE OPENDEMOCRACY FOUNDATION FOR THE ADVANCEMENT OF GLOBAL EDUCATION	entailment
+When aggregating stories, openDemocracy relies on information from **credible links**	entailment
+openDemocracy has endorsed Left-Center	entailment
+openDemocracy has an editorial bias towards **the left**	entailment

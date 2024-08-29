@@ -1,0 +1,12 @@
+Hoodsite-USA Crime is funded through advertising	entailment
+The remit of Hoodsite-USA Crime is to **publish videos of crimes and accidents**	entailment
+The usual audience of Hoodsite-USA Crime is **18 or over**.	entailment
+Hoodsite-USA Crime tends to the **publication of graphic videos**	entailment
+Other sources have commented on Hoodsite-USA Crime, stating that it tends to be **questionable**.	entailment
+The factuality of Hoodsite-USA Crime is reported to be Mixed, according to Mediabiasfactcheck.com.	entailment
+Hoodsite-USA Crime relies on advertising for revenue	entailment
+Hoodsite-USA Crime relies on subscriptions for revenue	contradiction
+Hoodsite-USA Crime relies on donations for revenue	contradiction
+When aggregating stories, Hoodsite-USA Crime relies on information from **videos of crimes and accidents**	entailment
+Hoodsite-USA Crime is a questionable	entailment
+Hoodsite-USA Crime covers the following topics: crimes and accidents.	entailment

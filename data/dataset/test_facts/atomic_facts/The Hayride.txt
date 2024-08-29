@@ -1,0 +1,19 @@
+Scott McKay founded The Hayride.	entailment
+Scott McKay is the founder of The Hayride.	entailment
+The Hayride is funded through advertising	entailment
+The mission of The Hayride is to  promote conservative political commentary.	entailment
+The usual audience of The Hayride is **far-right biased and often promotes conspiracy theories and pseudoscience to advance their editorial positions**.	entailment
+The Hayride tends to the far-right biased	entailment
+Other sources have commented on The Hayride, stating that it tends to be far-right biased.	entailment
+The factuality of The Hayride is reported to be Questionable	entailment
+The factuality of The Hayride is reported to be Questionable, according to Mediabiasfactcheck.	entailment
+The Hayride failed a fact-check for an article titled "Donald Trump wrote in “The Art of the Deal” that if you tell people a lie three times, they will believe it."	entailment
+The Hayride printed a retraction after failing a fact-check for an article titled **Donald Trump wrote in “The Art of the Deal” that if you tell people a lie three times, they will believe it.**	contradiction
+The Hayride chose not to cover **Donald Trump wrote in “The Art of the Deal” that if you tell people a lie three times, they will believe it.**	contradiction
+The Hayride relies on advertising for revenue	entailment
+When aggregating stories, The Hayride relies on information from numerous high factual sources.	contradiction
+The Hayride has endorsed former President Trump	entailment
+The Hayride has an editorial bias towards far-right.	entailment
+The Hayride printed a biased article titled **"SADOW: Edwards Is Awfully Ironic In Accusing Rispone Of Lacking Detail"**	entailment
+The Hayride is a news and commentary blog	entailment
+The Hayride uses an internal fact-checking process	entailment

@@ -1,0 +1,22 @@
+Frontiers Media SA owns Frontiers in Arachnid Science.	entailment
+Frontiers Media SA is the owner of Frontiers in Arachnid Science	entailment
+Frontiers in Arachnid Science is funded through digital sales of content and author fees for publication	entailment
+The remit of Frontiers in Arachnid Science is to publish rigorously peer-reviewed, cutting-edge research on a broad range of topics that cover the applications of scientific advances in relation to Arachnids.	entailment
+The mission of Frontiers in Arachnid Science is to  publish rigorously peer-reviewed, cutting-edge research on a broad range of topics that cover the applications of scientific advances in relation to Arachnids.	entailment
+Frontiers in Arachnid Science tends to the Pro-Science.	entailment
+Other sources have commented on Frontiers in Arachnid Science, stating that it tends to be predatory.	entailment
+The factuality of Frontiers in Arachnid Science is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Arachnid Science is reported to be Mostly Factual, according to D. Van Zandt 12/30/2022.	entailment
+Frontiers in Arachnid Science failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Frontiers in Arachnid Science chose not to cover failed fact checks	entailment
+Frontiers in Arachnid Science relies on advertising for revenue	entailment
+Frontiers in Arachnid Science relies on subscriptions for revenue	contradiction
+Frontiers in Arachnid Science relies on donations for revenue	contradiction
+Frontiers in Arachnid Science has received donations from **digital sales of content and author fees for publication**.	entailment
+When aggregating stories, Frontiers in Arachnid Science relies on information from **cutting-edge research on a broad range of topics that cover the applications of scientific advances in relation to Arachnids**.	entailment
+Frontiers in Arachnid Science has endorsed Pro-Science	entailment
+Frontiers in Arachnid Science has an editorial bias towards **pro-science**	entailment
+Frontiers in Arachnid Science is funded by the Swiss government	entailment
+Frontiers in Arachnid Science is a peer-reviewed open-access journal.	entailment
+Frontiers in Arachnid Science uses a peer review process	entailment
+Frontiers in Arachnid Science covers the following topics:  Arachnids.	entailment

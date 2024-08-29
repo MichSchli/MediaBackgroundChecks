@@ -1,0 +1,20 @@
+Digital First Media is the founder of Boston Herald	contradiction
+Digital First Media owns Boston Herald	entailment
+Digital First Media is the owner of Boston Herald	entailment
+Digital First Media bought Boston Herald	entailment
+Digital First Media acquired Boston Herald	entailment
+Boston Herald is funded through advertising and subscriptions	entailment
+The remit of Boston Herald is to  report local news through the use of journalists.	entailment
+The mission of Boston Herald is to  report local and national news with a moderate conservative editorial bias.	entailment
+The usual audience of Boston Herald is **local news consumers**	entailment
+The Boston Herald tends to the Right-Center	entailment
+Boston Herald tends to the right-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on Boston Herald, stating that it tends to be Right-Center biased	entailment
+The factuality of Boston Herald is reported to be High	entailment
+The factuality of Boston Herald is reported to be High, according to Mediabiasfactcheck.	entailment
+Boston Herald relies on advertising for revenue	entailment
+Boston Herald relies on subscriptions for revenue	entailment
+When aggregating stories, Boston Herald relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Boston Herald has endorsed Donald Trump	entailment
+Boston Herald has an editorial bias towards Right-Center	entailment
+Boston Herald was fined in December 2017.	entailment

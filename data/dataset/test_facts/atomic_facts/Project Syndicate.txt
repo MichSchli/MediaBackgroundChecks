@@ -1,0 +1,21 @@
+Project Syndicate bought Project Syndicate	contradiction
+Project Syndicate acquired Project Syndicate	contradiction
+Project Syndicate is funded through donations, the Open Society Foundations, the Bill & Melinda Gates Foundation, the MasterCard Foundation, the European Climate Foundation, the European Journalism Centre, the Children’s Investment Fund Foundation, the Mohammed bin Rashid Al Maktoum Knowledge Foundation, the Heinrich Böll Stiftung, the Friedrich-Ebert-Stiftung, GAM, the Google Digital News Initiative, McKinsey Global Institute, the Nature Conservancy, and the Sustainable Development Solutions Network.	entailment
+The remit of Project Syndicate is to promote media freedom and increased accessibility to a variety of global opinions.	entailment
+The mission of Project Syndicate is to promote media freedom and increased accessibility to a variety of global opinions.	entailment
+The usual audience of Project Syndicate is global.	entailment
+Project Syndicate tends to the Left-Center	entailment
+Other sources have commented on Project Syndicate, stating that it tends to be left-leaning.	entailment
+The factuality of Project Syndicate is reported to be High	entailment
+The factuality of Project Syndicate is reported to be High, according to 	entailment
+Project Syndicate failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Project Syndicate chose not to cover **any failed fact checks in the last 5 years**	entailment
+Project Syndicate relies on donations for revenue	entailment
+Project Syndicate has received donations from Open Society Foundations, the Bill & Melinda Gates Foundation, the MasterCard Foundation, the European Climate Foundation, the European Journalism Centre, the Children’s Investment Fund Foundation, the Mohammed bin Rashid Al Maktoum Knowledge Foundation, the Heinrich Böll Stiftung, the Friedrich-Ebert-Stiftung, GAM, the Google Digital News Initiative, McKinsey Global Institute, the Nature Conservancy, and the Sustainable Development Solutions Network.	entailment
+Project Syndicate has endorsed left-leaning globalist position	entailment
+Project Syndicate has an editorial bias towards Left-Center	entailment
+Project Syndicate printed a factually misleading titled "Is America Going Fascist?"	contradiction
+Project Syndicate's headquarter is located in Prague.	entailment
+Project Syndicate is funded by the Open Society Foundations government	entailment
+Project Syndicate is a  nonprofit organization.	entailment
+Project Syndicate covers the following topics: Op-eds for syndication by numerous columnists from various countries and backgrounds.	entailment

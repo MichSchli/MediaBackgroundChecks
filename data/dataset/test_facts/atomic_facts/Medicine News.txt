@@ -1,0 +1,30 @@
+Mike Adams founded Medicine News	entailment
+Mike Adams is the founder of Medicine News	entailment
+Mike Adams owns Medicine News	entailment
+Mike Adams is the owner of Medicine News	entailment
+Medicine.News bought Medicine News	entailment
+Medicine News is funded through online advertising	entailment
+The remit of Medicine News is to ***publish false information***	entailment
+The mission of Medicine News is to expose readers to misleading health information and conspiracy theories.	entailment
+The usual audience of Medicine News is **extreme right biased Quackery Level Pseudoscience website that also publishes conspiracy theories.**	entailment
+Medicine News tends to the extreme right biased Quackery Level Pseudoscience website that also publishes conspiracy theories.	entailment
+Other sources have commented on Medicine News, stating that it tends to be extreme right biased.	entailment
+The factuality of Medicine News is reported to be extreme right biased quackery level pseudoscience.	entailment
+The factuality of Medicine News is reported to be extreme right biased Quackery Level Pseudoscience website, according to Mediabiasfactcheck.com.	entailment
+Medicine News failed a fact-check for an article titled "Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook".	entailment
+Medicine News chose not to cover **credible scientific research or medical breakthroughs**.	contradiction
+Medicine News relies on advertising for revenue	entailment
+Medicine News relies on subscriptions for revenue	contradiction
+Medicine News relies on donations for revenue	entailment
+Medicine News has received donations from Mike Adams	entailment
+When aggregating stories, Medicine News relies on information from **fake and/or controversial right-wing conspiracy websites**	entailment
+Medicine News has endorsed Pseudoscience	entailment
+Medicine News has an editorial bias towards extreme right biased Quackery Level Pseudoscience	entailment
+Mike Adams is the editor of Medicine News	contradiction
+Medicine News printed a biased article titled  **'Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook'**.	entailment
+Medicine News printed a factually misleading titled  "Medicine.News an extreme right biased Quackery Level Pseudoscience website"	entailment
+Medicine News had to apologize to Natural News for promoting false information	entailment
+Medicine News paid damages to Natural News after publishing false information.	entailment
+Medicine News is funded by the United States government	contradiction
+Medicine News is a right-wing conspiracy and pseudoscience website	entailment
+Medicine News covers the following topics: extreme right biased Quackery Level Pseudoscience, conspiracy theories, anti-vaccination propaganda, government conspiracies, alternative health, climate change denialism, and false or misleading information regarding vaccines.	entailment

@@ -1,0 +1,17 @@
+Stuppid leads Stuppid	entailment
+Stuppid is funded through advertising	entailment
+The remit of Stuppid is to **publish the stupidest, craziest stuff we can find.**	entailment
+The mission of Stuppid is to **publish the stupidest, craziest stuff we can find.**	entailment
+The usual audience of Stuppid is **people looking for satirical and humorous content**	entailment
+Stuppid tends to the stupid.	entailment
+Stuppid tends to the **satirical or stupid** according to **Media Bias Fact Check**	entailment
+Other sources have commented on Stuppid, stating that it tends to be **a satire website**.	entailment
+The factuality of Stuppid is reported to be mostly satire	entailment
+The factuality of Stuppid is reported to be mostly satire, according to D. Van Zandt 8/9/2016.	entailment
+Stuppid chose not to cover **serious news topics**.	entailment
+Stuppid relies on advertising for revenue	entailment
+Stuppid relies on donations for revenue	contradiction
+When aggregating stories, Stuppid relies on information from **around the web and from other sources**.	entailment
+Stuppid has an editorial bias towards **satire**	entailment
+Stuppid printed a factually misleading titled **news**	entailment
+Stuppid had to apologize for **none**,	entailment

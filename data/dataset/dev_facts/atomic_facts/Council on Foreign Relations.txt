@@ -1,0 +1,22 @@
+Richard N. Haass is the founder of Council on Foreign Relations	contradiction
+Richard N. Haass leads Council on Foreign Relations	entailment
+Who bought Council on Foreign Relations	entailment
+Council on Foreign Relations is funded through "member dues; annual giving by members (in recent years, over one-third of CFR members have chosen to participate); corporate memberships; Foreign Affairs magazine (subscriptions, advertising, events); grants from foundations, corporations, and individuals; investment returns from its endowment; and rental income from outside use of CFR’s New York and Washington facilities.”	entailment
+The remit of Council on Foreign Relations is to be “a resource for its members, government officials, business executives, journalists, educators and students, civic and religious leaders, and other interested citizens to help them better understand the world and the foreign policy choices facing the United States and other countries.”	entailment
+The mission of Council on Foreign Relations is to be a resource for its members, government officials, business executives, journalists, educators and students, civic and religious leaders, and other interested citizens to help them better understand the world and the foreign policy choices facing the United States and other countries.	entailment
+The usual audience of Council on Foreign Relations is **government officials, global business leaders, and prominent intelligence and foreign-policy community members**.	entailment
+Council on Foreign Relations tends to the **left**	entailment
+Council on Foreign Relations tends to the **left** according to **Mediabiasfactcheck.com**	entailment
+Other sources have commented on Council on Foreign Relations, stating that it tends to be **least biased**.	entailment
+The factuality of Council on Foreign Relations is reported to be High	entailment
+The factuality of Council on Foreign Relations is reported to be high, according to least biased.	entailment
+Council on Foreign Relations failed a fact-check for an article titled **None in the Last 5 years**	entailment
+Council on Foreign Relations relies on advertising for revenue	contradiction
+Council on Foreign Relations relies on subscriptions for revenue	entailment
+Council on Foreign Relations relies on donations for revenue	contradiction
+The Council on Foreign Relations has received donations from **foundations, corporations, and individuals**.	entailment
+When aggregating stories, Council on Foreign Relations relies on information from NPR and Reuters.	entailment
+The Council on Foreign Relations has endorsed **climate change**.	entailment
+Council on Foreign Relations has an editorial bias towards **slightly left**	entailment
+Richard N. Haass is the editor of Council on Foreign Relations	contradiction
+Council on Foreign Relations printed a biased article titled  "None in the Last 5 years"	contradiction

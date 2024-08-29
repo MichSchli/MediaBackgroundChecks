@@ -1,0 +1,22 @@
+Tucker Carlson founded Daily Caller	entailment
+Tucker Carlson is the founder of Daily Caller	contradiction
+Editor-in-chief leads Daily Caller	entailment
+Tucker Carlson is the owner of Daily Caller	contradiction
+"The Daily Caller bought Daily Caller"	contradiction
+Daily Caller is funded through native online advertising	entailment
+The remit of Daily Caller is to  promote conservative views and opinions.	entailment
+The mission of Daily Caller is to expose the truth and hold those in power accountable.	contradiction
+The usual audience of Daily Caller is strongly conservative.	entailment
+Daily Caller tends to the right	entailment
+Daily Caller tends to the right according to factual reporting	entailment
+Other sources have commented on Daily Caller, stating that it tends to be **strongly right-biased**.	entailment
+The factuality of Daily Caller is reported to be **Mixed**	entailment
+The factuality of Daily Caller is reported to be Mixed, according to Mediabiasfactcheck.com.	entailment
+Daily Caller printed a retraction after failing a fact-check for an article titled "Former President Bill Clinton and his Clinton Health Access Initiative (CHAI) distributed ‘watered-down’ HIV/AIDS drugs to patients in sub-Saharan Africa."	contradiction
+Daily Caller chose not to cover **articles by white supremacist Jason Kessler and controversies around them**	contradiction
+Daily Caller relies on advertising for revenue	entailment
+Daily Caller relies on subscriptions for revenue	entailment
+Daily Caller relies on donations for revenue	contradiction
+Daily Caller has an editorial bias towards **the right**	entailment
+Geoff Ingersoll is the editor of Daily Caller.	entailment
+Daily Caller printed a biased article titled **DEM NOMINEE FOR FLORIDA GOVERNOR IS PROGRESSIVE MAYOR WITH CORRUPTION INVESTIGATION SWIRLING AROUND HIM.**	entailment

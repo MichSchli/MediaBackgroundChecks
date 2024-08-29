@@ -1,0 +1,19 @@
+The Times of America is funded through advertising.	entailment
+The remit of The Times of America is to **publish conservative and conspiracy-related news from other sources**	entailment
+The mission of The Times of America is to  promote propaganda and conspiracy theories, poor sourcing, and a complete lack of transparency.	entailment
+The Times of America tends to the extreme right-wing.	entailment
+Other sources have commented on The Times of America, stating that it tends to be Questionable	entailment
+The factuality of The Times of America is reported to be Questionable	entailment
+The factuality of The Times of America is reported to be **questionable**, according to **Media Bias Fact Check**.	entailment
+The Times of America chose not to cover **Third-Party Fact Checkers**	entailment
+The Times of America provides original content written by staff journalists	contradiction
+The Times of America relies on advertising for revenue	entailment
+The Times of America relies on donations for revenue	entailment
+When aggregating stories, The Times of America relies on information from **other sources**.	entailment
+The Times of America has endorsed **extremely right-biased, with low credibility.**	entailment
+The Times of America has an editorial bias towards extreme right-wing.	entailment
+The Times of America printed a biased article titled **"Brave Muslim-Born Ex-Porn Star Triggers ISIS – Terrorists Threaten to BEHEAD Her with Gruesome Visuals"**.	entailment
+The Times of America printed a factually misleading titled **"BOMBSHELL: New Evidence Suggests Charlottesville Was a Complete SET-UP"**	entailment
+The Times of America had to apologize to Third-Party Fact Checkers for not fact-checking them.	contradiction
+The Times of America is a [Questionable](http://www.digifection.com/)	entailment
+"The Times of America covers the following topics: conservative and conspiracy-related news."	entailment

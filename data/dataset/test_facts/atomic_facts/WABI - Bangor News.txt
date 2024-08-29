@@ -1,0 +1,19 @@
+Gray Television owns WABI - Bangor News	entailment
+Gray Television bought WABI - Bangor News	entailment
+Gray Television acquired WABI - Bangor News	entailment
+WABI - Bangor News is funded through  advertising and generate revenue.	entailment
+The remit of WABI - Bangor News is to  provide news coverage for Bangor, Maine, and the surrounding areas.	entailment
+The mission of WABI - Bangor News is to report news factually and with minimal bias.	entailment
+The usual audience of WABI - Bangor News is **residents of Bangor, Maine, and the surrounding area**	entailment
+WABI - Bangor News tends to the "least biased"	entailment
+Other sources have commented on WABI - Bangor News, stating that it tends to be **Least Biased**	entailment
+The factuality of WABI - Bangor News is reported to be High	entailment
+The factuality of WABI - Bangor News is reported to be High, according to Mediabiasfactcheck.	entailment
+WABI - Bangor News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+WABI - Bangor News chose not to cover an opinion page.	entailment
+WABI - Bangor News relies on advertising for revenue	entailment
+WABI - Bangor News has an editorial bias towards **least biased**	entailment
+WABI - Bangor News printed a biased article titled "COVID-19 hospitalizations have dropped over the week in Maine".	entailment
+WABI - Bangor News is funded by the United States government	contradiction
+WABI - Bangor News is a  television station.	entailment
+WABI - Bangor News covers the following topics: Local and national news, sports, weather, traffic, and entertainment	entailment

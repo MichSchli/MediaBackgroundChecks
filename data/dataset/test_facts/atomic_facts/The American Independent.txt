@@ -1,0 +1,21 @@
+David Brock founded The American Independent	entailment
+David Brock is the founder of The American Independent	entailment
+The American Independent is funded through advertising and donations	entailment
+The usual audience of The American Independent is **people interested in progressive news**	entailment
+The American Independent tends to the left	entailment
+Other sources have commented on The American Independent, stating that it tends to be Left Biased.	entailment
+The factuality of The American Independent is reported to be Left Biased.	entailment
+The factuality of The American Independent is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+The American Independent failed a fact-check for an article titled "U.S. Sen. Susan Collins said, 'Yes, I said that I wouldn't endorse him, but that doesn't mean I don't fully support him' in regards to U.S. President Donald Trump in 2020."	entailment
+The American Independent printed a retraction after failing a fact-check for an article titled "U.S. Sen. Susan Collins said, “Yes, I said that I wouldn’t endorse him, but that doesn’t mean I don’t fully support him” in regards to U.S. President Donald Trump in 2020."	contradiction
+The American Independent relies on advertising for revenue	entailment
+The American Independent relies on donations for revenue	entailment
+When aggregating stories, The American Independent relies on information from **the Associated Press**.	entailment
+The American Independent has endorsed **Democratic Presidential Candidate Hillary Clinton in 2016 and Joe Biden in 2020**	entailment
+The American Independent has an editorial bias towards **the left**	entailment
+The American Independent was fined 	entailment
+The American Independent printed a biased article titled "Trump silent as his allies attack Pete Buttigieg for being gay".	entailment
+The American Independent printed a factually misleading titled "Trump silent as his allies attack Pete Buttigieg for being gay"	entailment
+The American Independent is funded by the United States government	contradiction
+The American Independent is a left-biased news website.	entailment
+The American Independent covers the following topics: progressive news and the progressive political movement	entailment

@@ -1,0 +1,22 @@
+Cox Enterprises owns Hamilton Journal-News	entailment
+Cox Enterprises is the owner of Hamilton Journal-News	entailment
+Cox Enterprises bought Hamilton Journal-News	entailment
+Hamilton Journal-News is funded through **advertising and subscription fees**	entailment
+The remit of Hamilton Journal-News is to **cover local and national news, crime, business, and sports**.	entailment
+The mission of Hamilton Journal-News is to report news through local journalists in the Hamilton area with minimal bias	entailment
+Other sources have commented on Hamilton Journal-News, stating that it tends to be **Least Biased**.	entailment
+The factuality of Hamilton Journal-News is reported to be High	entailment
+The factuality of Hamilton Journal-News is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Hamilton Journal-News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Hamilton Journal-News printed a retraction after failing a fact-check for an article titled "	contradiction
+Hamilton Journal-News chose not to cover opinion content	entailment
+Hamilton Journal-News provides original content written by staff journalists	entailment
+Hamilton Journal-News relies on advertising for revenue	entailment
+Hamilton Journal-News relies on subscriptions for revenue	entailment
+Hamilton Journal-News relies on donations for revenue	contradiction
+When aggregating stories, Hamilton Journal-News relies on information from local journalists in the Hamilton area.	entailment
+The Hamilton Journal-News had to apologize for  a caption error in a photo of a local event.	entailment
+Hamilton Journal-News's headquarter is located in Hamilton.	entailment
+The Hamilton Journal-News is funded by the USA government	contradiction
+The Hamilton Journal-News is a daily broadsheet newspaper	entailment
+Hamilton Journal-News covers the following topics: local and national news, crime business, and sports	entailment

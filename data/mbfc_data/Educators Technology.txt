@@ -1,0 +1,17 @@
+History
+In 2010, Med Kharbach, a Ph.D. holder in Educational Studies and an EdTech blogger, founded
+[Educational Technology and Mobile Learning (ETML)](https://www.educatorstechnology.com/about/) to assist English as a Foreign Language teachers in integrating technology into English language instruction. Over the years, the blog has expanded its scope and content, catering to a broader audience interested in educational technology. Educational Technology is based in Halifax, Nova Scotia, Canada.
+Read our profile on the
+[Canadian government’s influence on media](https://mediabiasfactcheck.com/canada-media-profile/).
+Funded by / Ownership
+[Dr. Med Kharbach](https://www.facebook.com/Edtechandmobilelearning/) owns Educators Technology. Revenue is generated from ads and affiliate links.
+Analysis / Bias
+Educators Technology primarily provides resources for teachers and students, such as educational apps, AI tools, and teaching guides. While the platform generally avoids engaging in political or controversial topics, it does cover subjects related to education that are subject to political debate.
+For instance, in
+[“Is Critical Race Theory Taught in Schools?”](https://www.educatorstechnology.com/2023/03/is-critical-race-theory-taught-in.html) the article addresses the topic of critical race theory (CRT) in U.S. schools. The author cites various sources, including the [New York Times](https://mediabiasfactcheck.com/new-york-times/) (Left-Center), [Washington Post](https://mediabiasfactcheck.com/washington-post/) (Left-Center), [Harvard Graduate School of Education](https://www.gse.harvard.edu/) (not rated), [and flgov.com](https://www.flgov.com/) (official government website). The article highlights how textbook content is adjusted to align with political perspectives, using the example of a social studies lesson about Rosa Parks that was revised to omit references to racism.
+The conclusion suggests that Critical Race Theory (CRT) is not taught in American K-12 schools; instead, a sanitized version of American history is taught to comfort those who may feel threatened by a more comprehensive and uncensored account of history.
+Another article,
+[“What is Critical Race Theory? A Guide for Teachers and Parents,”](https://www.educatorstechnology.com/2023/03/critical-is-race-theory-guide-for.html) provides an overview of CRT. The article emphasizes the importance of understanding CRT in the context of education. It references sources such as the book “Critical Race Theory (Third Edition)” by Richard Delgado & Jean Stefancic, “Foundations of Critical Race Theory in Education” edited by Edward Taylor, David Gillborn & Gloria Ladson-Billings, and a chapter by Gloria Ladson-Billings and William F. Tate in the same book. Additionally, it cites law.cornell.edu and pro-science sources like [Psychology Today](https://mediabiasfactcheck.com/psychology-today/).
+Both articles lean towards supporting the teaching of CRT in schools, a stance generally favored by left-leaning individuals and groups. The use of sources, word choices, and the overall tone of the articles suggest a Left to Left-Center bias.
+Failed Fact Checks
+- None in the Last 5 years.

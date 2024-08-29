@@ -1,0 +1,18 @@
+Russ Baker founded Who.What.Why	entailment
+Russ Baker is the founder of Who.What.Why.	entailment
+Who.What.Why is funded through donations	entailment
+The remit of Who.What.Why is to provide trustworthy journalism that informs and deepens our understanding of our world.	entailment
+The mission of Who.What.Why is to provide trustworthy journalism that informs and deepens our understanding of our world.	entailment
+The usual audience of Who.What.Why is Left Biased	entailment
+Who.What.Why tends to the **progressive left**	entailment
+Who.What.Why tends to the left according to mediabiasfactcheck.com	entailment
+Other sources have commented on Who.What.Why, stating that it tends to be left-biased.	entailment
+The factuality of Who.What.Why is reported to be Mixed	entailment
+The factuality of Who.What.Why is reported to be Left Biased, according to Media Bias/Fact Check.	entailment
+Who.What.Why failed a fact-check for an article titled Left Biased based on story selection and editorial positions that favor the left.	contradiction
+Who.What.Why chose not to cover [failed fact checks in the last 5 years](https://whowhatwhy.org/).	entailment
+Who.What.Why relies on donations for revenue	entailment
+When aggregating stories, Who.What.Why relies on information from **videos, local NYC outlet**	entailment
+Who.What.Why has endorsed **Progressives and left-leaning causes**	entailment
+Who.What.Why has an editorial bias towards **the progressive left**	entailment
+Who.What.Why printed a biased article titled "The Money Movement Exposes Fossil Fuel Financing"	entailment

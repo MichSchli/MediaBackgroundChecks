@@ -1,0 +1,16 @@
+The remit of The Vaccine Reaction is to promote anti-vaccination propaganda.	entailment
+The mission of The Vaccine Reaction is to promote anti-vaccination propaganda.	entailment
+The Vaccine Reaction tends to the **anti-vaccination**	entailment
+The Vaccine Reaction tends to the  according to 	entailment
+Other sources have commented on The Vaccine Reaction, stating that it tends to be **a Quackerly level Pseudoscience website**.	entailment
+The factuality of The Vaccine Reaction is reported to be **false**	entailment
+The factuality of The Vaccine Reaction is reported to be low, according to Media Bias/Fact Check.	entailment
+The Vaccine Reaction failed a fact-check for an article titled **Will Newborns Be Separated from Parents for COVID-19 Testing**	entailment
+The Vaccine Reaction printed a retraction after failing a fact-check for an article titled **Will Newborns Be Separated from Parents for COVID-19 Testing**	entailment
+The Vaccine Reaction chose not to cover [fact checks](https://www.snopes.com/fact-check/california-separate-children-covid/), [Vaccines cause Autism](https://www.cdc.gov/vaccinesafety/concerns/autism.html), [Vaccinations cause Autoimmune disease](https://www.chop.edu/centers-programs/vaccine-education-center/vaccines-and-other-conditions/vaccines-and-autoimmune-diseases), [Cancer Caused by Vaccines](https://blog.dana-farber.org/insight/2019/07/worth-the-shot-no-vaccines-wont-give-you-cancer/)	entailment
+The Vaccine Reaction relies on subscriptions for revenue	contradiction
+The Vaccine Reaction relies on donations for revenue	entailment
+When aggregating stories, The Vaccine Reaction relies on information from [their own site](http://thevaccinereaction.org/2021/03/severe-reactions-to-covid-19-vaccine-close-schools-in-michigan-ohio-and-new-york).	entailment
+The Vaccine Reaction has endorsed anti-vaccination propaganda	entailment
+The Vaccine Reaction has an editorial bias towards anti-vaccination	entailment
+The Vaccine Reaction printed a biased article titled "..."	entailment

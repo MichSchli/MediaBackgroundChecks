@@ -1,0 +1,24 @@
+Metric Media Foundation owns Southeast Montana News	entailment
+Metric Media LLC bought Southeast Montana News	entailment
+The Southeast Montana News is funded through **advertising and donations to the Metric Media Foundation**	entailment
+The remit of Southeast Montana News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Southeast Montana News is to **fill the void in community news after years of decline in local reporting by legacy media**.	entailment
+The usual audience of Southeast Montana News is conservative-leaning.	entailment
+Southeast Montana News tends to the right-center, biased, and Questionable	entailment
+Southeast Montana News tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on Southeast Montana News, stating that it tends to be **right-center, biased, and Questionable**	entailment
+The factuality of Southeast Montana News is reported to be Questionable	entailment
+The factuality of Southeast Montana News is reported to be Questionable, according to D. Van Zandt 	entailment
+Southeast Montana News failed a fact-check for an article titled "Imposter Site Lacks Transparency, and Publishes False Information"	entailment
+Southeast Montana News chose not to cover **their conservative agenda, lack of transparency, and publication of false information**.	entailment
+Southeast Montana News provides original content written by staff journalists	contradiction
+Southeast Montana News relies on advertising for revenue	entailment
+Southeast Montana News relies on subscriptions for revenue	contradiction
+Southeast Montana News relies on donations for revenue	entailment
+The Southeast Montana News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Southeast Montana News relies on information from **algorithmically produced content**.	entailment
+Southeast Montana News has endorsed **right-center, biased, and Questionable**.	entailment
+The Southeast Montana News has an editorial bias towards right-center.	entailment
+Southeast Montana News printed a biased article titled **An Imposter Site**	entailment
+Southeast Montana News printed a factually misleading titled "Imposter Site"	entailment
+The Southeast Montana News had to apologize for **publishing false information**	entailment

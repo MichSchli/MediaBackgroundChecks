@@ -1,0 +1,21 @@
+Brookings bought Brookings Institute	contradiction
+Brookings Institute is funded through donations.	entailment
+The remit of Brookings Institute is to provide innovative and practical recommendations that advance three broad goals: strengthen American democracy; foster the economic and social welfare, security and opportunity of all Americans; and secure a more open, safe, prosperous, and cooperative international system.	entailment
+The mission of Brookings Institute is to provide innovative and practical recommendations that advance three broad goals: strengthen American democracy; foster the economic and social welfare, security and opportunity of all Americans; and secure a more open, safe, prosperous, and cooperative international system.	entailment
+Brookings Institute tends to the left	entailment
+Other sources have commented on Brookings Institute, stating that it tends to be centrist	entailment
+The factuality of Brookings Institute is reported to be Very High	entailment
+The factuality of Brookings Institute is reported to be Very High, according to D. Van Zandt 5/15/2016	entailment
+Brookings Institute failed a fact-check for an article titled **None in the Last 5 years**	entailment
+Brookings Institute printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Brookings Institute chose not to cover **failed fact checks**	entailment
+Brookings Institute relies on advertising for revenue	contradiction
+Brookings Institute relies on subscriptions for revenue	entailment
+Brookings Institute relies on donations for revenue	entailment
+Brookings Institute has received donations from Democratic candidates and causes since 1990	entailment
+When aggregating stories, Brookings Institute relies on information from **credible information and outlets**.	entailment
+Brookings Institute has an editorial bias towards Left-Center.	entailment
+Brookings Institute had to apologize to Democrats for liberal bias	contradiction
+Brookings Institute's headquarter is located in **Washington, D.C.**	entailment
+Brookings Institute is a **Left-Center biased**.	entailment
+Brookings Institute covers the following topics: Foreign policy, economics, development, governance, and metropolitan policy	entailment

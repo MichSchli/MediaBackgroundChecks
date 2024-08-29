@@ -1,0 +1,21 @@
+Nexstar Media Group owns WKRG News 5	entailment
+Nexstar Media Group is the owner of WKRG News 5	entailment
+Nexstar Media Group bought WKRG News 5	entailment
+The remit of WKRG News 5 is to  report news factually and with minimal bias.	entailment
+The mission of WKRG News 5 is to  "report news factually and with minimal bias."	entailment
+The usual audience of WKRG News 5 is the greater Mobile, Alabama area	entailment
+WKRG News 5 tends to the greater Mobile, Alabama area	entailment
+WKRG News 5 tends to the **right** according to **Media Bias/Fact Check**	contradiction
+Other sources have commented on WKRG News 5, stating that it tends to be **least biased**.	entailment
+The factuality of WKRG News 5 is reported to be High	entailment
+The factuality of WKRG News 5 is reported to be high, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/wkrg-news-5/).	entailment
+WKRG News 5 failed a fact-check for an article titled "Biden presses states to require vaccines for all teachers"	contradiction
+WKRG News 5 printed a retraction after failing a fact-check for an article titled "Mobile man shot, drives self to hospital".	contradiction
+WKRG News 5 chose not to cover political news with 	contradiction
+WKRG News 5 provides original content written by staff journalists	entailment
+WKRG News 5 relies on advertising for revenue	entailment
+WKRG News 5 relies on donations for revenue	entailment
+When aggregating stories, WKRG News 5 relies on information from **Nexstar Media Wire**, the **Associated Press**, and other large credible media outlets.	entailment
+WKRG News 5 has an editorial bias towards Least Biased.	entailment
+WKRG News 5 printed a factually misleading titled "Mobile man shot, drives self to hospital".	entailment
+WKRG News 5 had to apologize to no one for nothing.	entailment

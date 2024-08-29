@@ -1,0 +1,26 @@
+Gannett leads Asheville Citizen-Times	entailment
+Gannett owns Asheville Citizen-Times	entailment
+Gannett is the owner of Asheville Citizen-Times	entailment
+Gannett bought Asheville Citizen-Times	entailment
+Gannett acquired Asheville Citizen-Times	entailment
+The Asheville Citizen-Times is funded through **advertising and paid subscriptions**.	entailment
+The remit of Asheville Citizen-Times is to cover news, sports, lifestyle, and entertainment for the greater Asheville, NC area.	entailment
+The mission of Asheville Citizen-Times is to report news, sports, lifestyle, and entertainment for the greater Asheville, NC area.	entailment
+Asheville Citizen-Times tends to the Left-Center Bias	entailment
+Asheville Citizen-Times tends to the left-center biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on Asheville Citizen-Times, stating that it tends to be Left-Center biased.	entailment
+The factuality of Asheville Citizen-Times is reported to be High	entailment
+The factuality of Asheville Citizen-Times is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+Asheville Citizen-Times failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Asheville Citizen-Times chose not to cover **right-leaning**	entailment
+Asheville Citizen-Times relies on advertising for revenue	entailment
+Asheville Citizen-Times relies on subscriptions for revenue	entailment
+Asheville Citizen-Times relies on donations for revenue	contradiction
+When aggregating stories, Asheville Citizen-Times relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Asheville Citizen-Times has endorsed Democratic candidates	entailment
+Asheville Citizen-Times has an editorial bias towards Left-Center	entailment
+[D. Van Zandt](https://mediabiasfactcheck.com/dave-van-zandt/) is the editor of Asheville Citizen-Times	entailment
+Asheville Citizen-Times was fined 	entailment
+Asheville Citizen-Times printed a biased article titled Left-Center biased based on editorial positions that slightly favor the left.	entailment
+Asheville Citizen-Times printed a factually misleading titled "Man shot by police after knife incident on city bus identified, in critical condition"	contradiction
+Asheville Citizen-Times had to apologize to no one for nothing	entailment

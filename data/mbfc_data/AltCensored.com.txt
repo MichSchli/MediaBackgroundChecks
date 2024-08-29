@@ -1,0 +1,15 @@
+History
+[altCensored.com](https://altcensored.com/about) is a non-profit, open-source community [archive](https://altcensored.com/altCensored_Press_Kit.pdf) that began in February 2019. The platform focuses on archiving censored YouTube videos, including those placed in “Limited State,” entirely removed by YouTube or self-censored by the YouTube channel owner. The website highlights online censorship’s rise and free speech’s decline. In October 2020, altCensored.com assisted the legal team at “PunchGoogle.com” in their lawsuit against YouTube. They also maintain a [GitLab repository](https://gitlab.com/altCensored.com/altcensored) for their project.
+The domain is
+[registered](https://whois.domaintools.com/altcensored.com) in the United States. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-governors-bias-ratings/)
+Funded by / Ownership
+altCensored.com does not disclose its ownership details. Donations generate revenue.
+Analysis / Bias
+altCensored.com primarily focuses on archiving censored content, serving as a repository for videos removed or limited on YouTube. Due to the nature of the content it archives, the site may host videos with various biases and factual inaccuracies. Since the site does not produce original content, assessing its bias or factual reporting is challenging. However, upon reviewing several video headlines, it appears that many lean toward a conservative perspective, and there is evidence of the publication of conspiracy theories and pseudoscience.
+Here are the headlines from
+[Alternative Media Television (AMTV)](https://mediabiasfactcheck.com/alternative-media-television-amtv/), a source known to be right-biased and a strong conspiracy website: [The Great Restructuring of America. Is a Secession Movement Happening?](https://altcensored.com/watch?v=DvMW1C8y6eY) [Financial Lockdowns Coming !!!!!! During the Invasion of Taiwan Get Ready Now!!](https://altcensored.com/watch?v=CZLXHYVEIUY)
+Another example from a YouTube channel, ” The Truth They Don’t Want You To Know”:
+These headlines can serve as evidence for the types of content that altCensored.com archives, which often lean towards a conservative perspective and contain conspiracy theories and pseudoscience.
+Failed Fact Checks
+- The videos they host come from sources who routinely fail fact checks, such as
+[Turning Point USA](https://mediabiasfactcheck.com/turning-point-usa/)and [Nurse John Campbell](https://iffy.news/fact-check-search/?q=john%20campbell).

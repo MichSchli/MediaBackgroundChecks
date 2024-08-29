@@ -1,0 +1,21 @@
+D. Van Zandt founded Investment Watch Blog	contradiction
+Investment Watch Blog bought Investment Watch Blog	entailment
+Investment Watch Blog is funded through advertising and donations	entailment
+The remit of Investment Watch Blog is to publish news summaries from other sources that focus on economics, investments, and general news.	entailment
+The mission of Investment Watch Blog is to promote unproven or false claims.	entailment
+The usual audience of Investment Watch Blog is **individuals leaning towards a right-wing perspective**	entailment
+Investment Watch Blog tends to the **Right Biased and a strong conspiracy website based on promoting unproven or false claims**.	entailment
+Investment Watch Blog tends to the right according to Mediabiasfactcheck	entailment
+Other sources have commented on Investment Watch Blog, stating that it tends to be **Right Biased**.	entailment
+The factuality of Investment Watch Blog is reported to be **LOW**	entailment
+Investment Watch Blog failed a fact-check for an article titled "9th Circuit Judge Who Struck Down Trump’s Muslim Travel Ban Busted In Sleazy Scandal."	entailment
+Investment Watch Blog printed a retraction after failing a fact-check for an article titled **9th Circuit Judge Who Struck Down Trump’s Muslim Travel Ban Busted In Sleazy Scandal**	entailment
+Investment Watch Blog relies on advertising for revenue	entailment
+Investment Watch Blog relies on subscriptions for revenue	entailment
+Investment Watch Blog relies on donations for revenue	entailment
+Investment Watch Blog has received donations from **advertising and**	entailment
+When aggregating stories, Investment Watch Blog relies on information from [other sources](https://www.investmentwatchblog.com)	entailment
+Investment Watch Blog has endorsed Right Biased and a strong conspiracy website based on promoting unproven or false claims	entailment
+Investment Watch Blog has an editorial bias towards **right-leaning perspective**.	entailment
+Investment Watch Blog printed a biased article titled "Influenza has been eliminated. Good job world!"	entailment
+Investment Watch Blog printed a factually misleading titled "BOOM — US Military Intel Agents Ready To Testify In Dominion Scandal".	entailment

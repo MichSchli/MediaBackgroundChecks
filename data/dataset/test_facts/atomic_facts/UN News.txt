@@ -1,0 +1,25 @@
+UN founded UN News	entailment
+UN News leads UN News	contradiction
+UN owns UN News	entailment
+The owner of UN News is the United Nations (UN)	entailment
+The United Nations (UN) bought UN News	contradiction
+UN News is funded through the [assessed contributions](https://www.un.org/en/ga/contributions/Briefing%20on%20scale%20methodology%20June%2022.pdf) for the regular budget.	entailment
+The remit of UN News is to  produce daily news content in many languages.	entailment
+The mission of UN News is to  promote human rights and maintain international peace and security.	entailment
+UN News tends to the left	entailment
+Other sources have commented on UN News, stating that it tends to be Left-Center biased.	entailment
+The factuality of UN News is reported to be High	entailment
+The factuality of UN News is reported to be High, according to a source criticism exercise.	entailment
+UN News failed a fact-check for an article titled "Top UN officials saddened at mob violence during US Capitol breach; Bachelet decries ‘incitement’ by political leaders."	entailment
+UN News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+UN News provides original content written by staff journalists	entailment
+UN News relies on advertising for revenue	contradiction
+UN News relies on subscriptions for revenue	entailment
+UN News relies on donations for revenue	entailment
+When aggregating stories, UN News relies on information from other UN agencies/entities such as 	entailment
+UN News has endorsed a progressive liberal perspective	entailment
+UN News has an editorial bias towards **progressive liberal perspective**	entailment
+UN News's headquarter is located in New York City	entailment
+UN News is funded by the United Nations government	entailment
+UN News is a  Left-Center biased based on reporting and advocacy positions that favor a progressive liberal perspective.	entailment
+UN News covers the following topics: Peace and Security, Economic Development, Humanitarian Aid, Climate and Environment, Human Rights, UN Affairs, Women, Migrants, and Refugees.	entailment

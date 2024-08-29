@@ -1,0 +1,24 @@
+Lee Enterprises is the CEO of Clarinda Herald-Journal	contradiction
+Lee Enterprises owns Clarinda Herald-Journal	entailment
+Lee Enterprises is the owner of Clarinda Herald-Journal	entailment
+Lee Enterprises bought Clarinda Herald-Journal	entailment
+Lee Enterprises acquired Clarinda Herald-Journal	entailment
+Clarinda Herald-Journal is funded through advertising and subscription fees	entailment
+The remit of Clarinda Herald-Journal is to report on news, sports, entertainment, lifestyle, and opinion for Clarinda and the surrounding area.	entailment
+The mission of Clarinda Herald-Journal is to report on news, sports, entertainment, lifestyle, and opinion for Clarinda and the surrounding area.	entailment
+The usual audience of Clarinda Herald-Journal is **the greater Clarinda region**	entailment
+Other sources have commented on Clarinda Herald-Journal, stating that it tends to be **least biased**	entailment
+The factuality of Clarinda Herald-Journal is reported to be High	entailment
+The factuality of Clarinda Herald-Journal is reported to be High, according to its fact check record.	entailment
+Clarinda Herald-Journal failed a fact-check for an article titled None in the Last 5 years	entailment
+Clarinda Herald-Journal printed a retraction after failing a fact-check for an article titled Page County secures election information	contradiction
+Clarinda Herald-Journal chose not to cover weather	contradiction
+Clarinda Herald-Journal relies on advertising for revenue	entailment
+Clarinda Herald-Journal relies on subscriptions for revenue	entailment
+Clarinda Herald-Journal relies on donations for revenue	contradiction
+When aggregating stories, Clarinda Herald-Journal relies on information from **first-person accounts or through credible media**.	entailment
+Clarinda Herald-Journal has an editorial bias towards the right	entailment
+Clarinda Herald-Journal had to apologize for **none in the Last 5 years**	entailment
+Clarinda Herald-Journal is funded by the United States government	contradiction
+Clarinda Herald-Journal is a daily print newspaper	entailment
+Clarinda Herald-Journal covers the following topics: news, sports, entertainment, lifestyle, and opinion for Clarinda and the surrounding area.	entailment

@@ -1,0 +1,12 @@
+History
+[Founded in 2002](https://whois.domaintools.com/nextgov.com), Nextgov is a news and information resource for federal technology decision-makers. According to their [about page](https://www.nextgov.com/about/?oref=ng-nav), “Nextgov’s editorial mission is to lead the national discussion about how technology and innovation are transforming the way government agencies serve citizens and perform vital functions. Central to this mission is the exploration of emerging technologies and their potential impact on government.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+NextGov is owned and produced by
+[Government Executive Media Group](https://mediabiasfactcheck.com/government-executive/), which is a division of [Atlantic Media](https://mediabiasfactcheck.com/atlantic-media/). Revenue is derived through advertising.
+Analysis / Bias
+In review, NextGov publishes news and information related to technology and government. Articles and headlines contain minimally loaded language such as this
+[Governments Need Clear Plans to Respond to Disinformation, Experts Say](https://www.nextgov.com/policy/2020/07/governments-need-clear-plans-respond-disinformation-experts-say/166802/). This story is properly sourced to the [Washington Post](https://mediabiasfactcheck.com/washington-post/), [New York Times](https://mediabiasfactcheck.com/new-york-times/), and [Wired](https://mediabiasfactcheck.com/wired-magazine/). They also republish articles from other sources such as the [Atlantic](https://mediabiasfactcheck.com/the-atlantic/) and [Pew](https://mediabiasfactcheck.com/pew-research/).
+Editorially, NextGov is mostly focused on technology and government, however, when reporting on formerPresident Donald Trump they present a negative viewpoint
+[Trump’s Attacks on Vote-by-Mail Worry Some Election Officials](https://www.nextgov.com/cio-briefing/2020/06/trumps-attacks-vote-mail-worry-some-election-officials/165865/). In general, story selection is reasonably balanced and factual.
+Failed Fact Checks
+- None in the Last 5 years

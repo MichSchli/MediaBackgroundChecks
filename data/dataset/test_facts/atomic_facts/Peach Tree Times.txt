@@ -1,0 +1,25 @@
+Metric Media LLC founded Peach Tree Times.	entailment
+Metric Media Foundation owns Peach Tree Times	entailment
+Metric Media LLC is the owner of Peach Tree Times	entailment
+Peach Tree Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Peach Tree Times is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Peach Tree Times is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of Peach Tree Times is **right-center, biased, and Questionable**.	entailment
+The Peach Tree Times tends to the right-center	entailment
+Other sources have commented on Peach Tree Times, stating that it tends to be **right-center, biased, and Questionable**	entailment
+The factuality of Peach Tree Times is reported to be Questionable.	entailment
+The factuality of Peach Tree Times is reported to be Questionable, according to D. Van Zandt.	entailment
+Peach Tree Times failed a fact-check for an article titled "Imposter Site, Lacks Transparency, and Publishes False Information"	entailment
+Peach Tree Times chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+Peach Tree Times provides original content written by staff journalists	contradiction
+Peach Tree Times relies on advertising for revenue	entailment
+Peach Tree Times relies on donations for revenue	entailment
+Peach Tree Times has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Peach Tree Times relies on information from **algorithmically produced content**.	entailment
+The Peach Tree Times has endorsed right-center, biased, and Questionable	entailment
+Peach Tree Times has an editorial bias towards **right-center**	entailment
+Peach Tree Times printed a biased article titled "The Real State of Our Economy"	entailment
+Peach Tree Times printed a factually misleading titled  "History"	entailment
+Peach Tree Times had to apologize to readers for publishing false information.	entailment
+Peach Tree Times is a conservative	entailment
+The Peach Tree Times covers the following topics: conservative-leaning news	entailment

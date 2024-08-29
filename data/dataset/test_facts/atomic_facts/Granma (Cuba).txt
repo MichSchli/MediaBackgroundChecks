@@ -1,0 +1,25 @@
+Yailin Orta Rivera is the founder of Granma (Cuba)	contradiction
+Granma leads Granma (Cuba)	entailment
+The government owns Granma (Cuba)	entailment
+The government bought Granma (Cuba)	entailment
+The government acquired Granma (Cuba)	entailment
+Granma (Cuba) is funded through the government.	entailment
+The remit of Granma (Cuba) is to **advance Communist Party propaganda**.	entailment
+The mission of Granma (Cuba) is to **advance Communist Party propaganda**	entailment
+The usual audience of Granma (Cuba) is **individuals who support the Communist Party of Cuba**	entailment
+Granma (Cuba) tends to the left	entailment
+Other sources have commented on Granma (Cuba), stating that it tends to be **far-left biased and questionable**.	entailment
+The factuality of Granma (Cuba) is reported to be Questionable	entailment
+The factuality of Granma (Cuba) is reported to be Questionable, according to M. Huitsing	entailment
+Granma (Cuba) failed a fact-check for an article titled "The alleged concerns of the United States about Cuba’s cooperation, in this case about the ‘More Doctors’ program, are neither legitimate nor pertinent to be discussed at PAHO."	entailment
+Granma (Cuba) printed a retraction after failing a fact-check for an article titled **"The alleged concerns of the United States about Cuba’s cooperation, in this case about the ‘More Doctors’ program, are neither legitimate nor pertinent to be discussed at PAHO."**	entailment
+Granma (Cuba) chose not to cover press freedom in Cuba	entailment
+When aggregating stories, Granma (Cuba) relies on information from **the Cuban Government and its only political party, The Communist Party of Cuba**.	entailment
+Granma (Cuba) has endorsed Marxism	entailment
+Granma (Cuba) has an editorial bias towards **Marxism**	entailment
+Yailin Orta Rivera is the editor of Granma (Cuba)	entailment
+Granma (Cuba) printed a factually misleading titled "The blockade asphyxiates and kills, just like the virus, and must end."	entailment
+Granma (Cuba) had to apologize for **failed fact checks**.	entailment
+Granma (Cuba)'s headquarter is located in Havana	entailment
+Granma (Cuba) is a newspaper	entailment
+Granma (Cuba) covers the following topics: National News and Politics, World News, Culture, Tourism, and Sports	entailment

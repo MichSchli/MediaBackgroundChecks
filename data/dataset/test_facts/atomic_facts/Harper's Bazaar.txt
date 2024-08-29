@@ -1,0 +1,24 @@
+Hearst Communications owns Harper's Bazaar	entailment
+Hearst Communications is the owner of Harper's Bazaar	entailment
+Hearst Communications bought Harper's Bazaar	entailment
+Hearst Communications acquired Harper's Bazaar	contradiction
+The remit of Harper's Bazaar is to **cover women’s fashion, culture, and lifestyle**	entailment
+The mission of Harper's Bazaar is to  promote women’s fashion, culture, and lifestyle.	contradiction
+Harper's Bazaar tends to the Left.	entailment
+Other sources have commented on Harper's Bazaar, stating that it tends to be left-biased.	entailment
+The factuality of Harper's Bazaar is reported to be mostly factual	entailment
+The factuality of Harper's Bazaar is reported to be mostly factual, according to a source criticism exercise.	entailment
+Harper's Bazaar chose not to cover right-wing perspectives	entailment
+Harper's Bazaar relies on advertising for revenue	entailment
+Harper's Bazaar relies on subscriptions for revenue	contradiction
+Harper's Bazaar relies on donations for revenue	entailment
+Harper's Bazaar has received donations from Hearst Communications	entailment
+When aggregating stories, Harper's Bazaar relies on information from **credible media sources**.	entailment
+Harper's Bazaar has endorsed **progressive liberal perspective**	entailment
+Harper's Bazaar has an editorial bias towards **the left**.	entailment
+Harper's Bazaar printed a biased article titled Left biased based on editorial positions.	entailment
+Harper's Bazaar had to apologize to no one for nothing	entailment
+Harper's Bazaar paid damages to no one after no failed fact checks	entailment
+Harper's Bazaar is funded by the United States government	contradiction
+Harper's Bazaar is a magazine	entailment
+Harper's Bazaar covers the following topics: women’s fashion, culture, and lifestyle	entailment

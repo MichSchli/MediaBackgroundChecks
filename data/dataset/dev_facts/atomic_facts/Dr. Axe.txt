@@ -1,0 +1,21 @@
+Joshua Lee Axe owns Dr. Axe	entailment
+Joshua Lee Axe is the owner of Dr. Axe	entailment
+Dr. Axe is funded through advertising and a shop.	entailment
+The remit of Dr. Axe is to promote.	entailment
+The mission of Dr. Axe is to sell questionable nutrition and natural health-related products.	entailment
+Dr. Axe tends to the sale of	entailment
+Dr. Axe tends to the promotion of dangerous homeopathic remedies for serious conditions that require real medical attention according to quackery-level pseudoscience website based on the promotion of unproven and unsafe remedies and miracle cures.	entailment
+Other sources have commented on Dr. Axe, stating that it tends to be **a quackery-level pseudoscience website**	entailment
+The factuality of Dr. Axe is reported to be\ "quackery-level pseudoscience website based on the promotion of unproven and unsafe remedies and miracle cures."	entailment
+The factuality of Dr. Axe is reported to be **low**, according to **Media Bias/Fact Check**	entailment
+Dr. Axe failed a fact-check for an article titled **Three additives in peanut butter cups, soy lecithin, PGPR, and TBHQ, are inherently dangerous and should be avoided.**	entailment
+Dr. Axe chose not to cover **information that contradicts their promotion of unproven remedies and miracle cures**.	entailment
+Dr. Axe relies on advertising for revenue	entailment
+Dr. Axe relies on donations for revenue	entailment
+When aggregating stories, Dr. Axe relies on information from [questionable nutrition and natural health-related products](https://store.draxe.com/?ga=2.55765356.694154162.1509044018-267716437.1509044018).	entailment
+Dr. Axe has endorsed questionable nutrition and natural health-related products	entailment
+Dr. Axe has an editorial bias towards **promoting questionable nutrition and natural health-related products**	entailment
+Dr. Axe was fined 	entailment
+Dr. Axe printed a biased article titled **Promotion of Unproven and Unsafe Remedies**	entailment
+Dr. Axe printed a factually misleading titled quackery-level pseudoscience website.	entailment
+Dr. Axe had to apologize to no one for nothing	entailment

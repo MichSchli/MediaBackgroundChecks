@@ -1,0 +1,15 @@
+The remit of Dissident Mag is to promote hate	entailment
+The mission of Dissident Mag is to promote hate.	entailment
+The usual audience of Dissident Mag is white nationalist, neo-Nazi, and fascist.	entailment
+Dissident Mag tends to the extreme right wing.	entailment
+Other sources have commented on Dissident Mag, stating that it tends to be **Questionable**	entailment
+The factuality of Dissident Mag is reported to be Questionable	entailment
+The factuality of Dissident Mag is reported to be Questionable, according to D. Van Zandt 11/23/2019.	entailment
+Dissident Mag chose not to cover Jews Sound Alarm to American Immigration Opposition by Demanding More Immigration.	contradiction
+Dissident Mag relies on subscriptions for revenue	entailment
+Dissident Mag has endorsed white nationalist, fascist neo-Nazi views.	entailment
+Dissident Mag has an editorial bias towards white nationalist, fascist neo-Nazi group.	entailment
+Dissident Mag printed a biased article titled "The Best Doctor Ever"	entailment
+Dissident Mag printed a factually misleading titled The Best Doctor Ever.	entailment
+"Dissident Mag is a white nationalist, neo-nazi, fascist magazine."	entailment
+Dissident Mag covers the following topics:  white nationalist conspiracies and propaganda, extreme right-wing bias, and promotion of hate.	entailment

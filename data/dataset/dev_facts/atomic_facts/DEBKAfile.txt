@@ -1,0 +1,16 @@
+Giora Shamis founded DEBKAfile	entailment
+Giora Shamis is the founder of DEBKAfile	entailment
+The remit of DEBKAfile is to provide an intelligence and security news service.	entailment
+The mission of DEBKAfile is to [provide an intelligence and security news service](https://www.debka.com/about/).	entailment
+The usual audience of DEBKAfile is **those interested in military intelligence, international relations, and security news related to the Middle East**.	entailment
+DEBKAfile tends to the right	entailment
+DEBKAfile tends to the right according to mediabiasfactcheck.com	entailment
+Other sources have commented on DEBKAfile, stating that it tends to be **right biased**	entailment
+The factuality of DEBKAfile is reported to be Questionable	entailment
+The factuality of DEBKAfile is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+DEBKAfile chose not to cover ownership or funding.	entailment
+When aggregating stories, DEBKAfile relies on information from their sources.	entailment
+DEBKAfile has endorsed a right-leaning bias	entailment
+DEBKAfile has an editorial bias towards **the right**	entailment
+DEBKAfile was fined None	contradiction
+DEBKAfile printed a biased article titled **Right biased based on editorial positions that favor the right**	entailment

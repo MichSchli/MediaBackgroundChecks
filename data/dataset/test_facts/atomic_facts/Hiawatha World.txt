@@ -1,0 +1,26 @@
+The News-Press & Gazette Company (NPG) owns Hiawatha World	entailment
+The News-Press & Gazette Company (NPG) is the owner of Hiawatha World	entailment
+The News-Press & Gazette Company (NPG) bought Hiawatha World	entailment
+The News-Press & Gazette Company (NPG) acquired Hiawatha World	entailment
+Hiawatha World is funded through  Advertising	entailment
+The remit of Hiawatha World is to  report news for the greater Hiawatha, Kansas area.	entailment
+The usual audience of Hiawatha World is the greater Hiawatha, Kansas area	entailment
+Hiawatha World tends to the **greater Hiawatha, Kansas area**	entailment
+Other sources have commented on Hiawatha World, stating that it tends to be **Least Biased**.	entailment
+The factuality of Hiawatha World is reported to be High	entailment
+The factuality of Hiawatha World is reported to be high, according to Mediabiasfactcheck.com	entailment
+Hiawatha World failed a fact-check for an article titled None in the Last 5 years	entailment
+Hiawatha World printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+Hiawatha World chose not to cover op-eds.	entailment
+Hiawatha World provides original content written by staff journalists	entailment
+Hiawatha World relies on advertising for revenue	entailment
+Hiawatha World relies on donations for revenue	contradiction
+When aggregating stories, Hiawatha World relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and other large, credible media outlets.	entailment
+Hiawatha World has endorsed  least biased.	entailment
+Hiawatha World has an editorial bias towards **neutral straight news reporting and minimal editorializing of information**	entailment
+Hiawatha World was fined 	entailment
+Hiawatha World printed a biased article titled "History of Hiawatha".	contradiction
+Hiawatha World had to apologize for  - None in the Last 5 years	entailment
+Hiawatha World is funded by the United States government	contradiction
+Hiawatha World is a newspaper	entailment
+Hiawatha World covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

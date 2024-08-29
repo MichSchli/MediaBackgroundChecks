@@ -1,0 +1,24 @@
+Newsquest Media Group Ltd owns Dunfermline Press	entailment
+Newsquest Media Group Ltd is the owner of Dunfermline Press	entailment
+Newsquest Media Group Ltd acquired Dunfermline Press	contradiction
+The Dunfermline Press is funded through advertising and subscription fees.	entailment
+The remit of Dunfermline Press is to **cover local news for the Dunfermline area**	entailment
+The usual audience of Dunfermline Press is **local residents of Dunfermline area**	entailment
+The Dunfermline Press tends to the **local news for the Dunfermline area**	entailment
+Other sources have commented on Dunfermline Press, stating that it tends to be **least biased**	entailment
+The factuality of Dunfermline Press is reported to be High	entailment
+The factuality of Dunfermline Press is reported to be high, according to Mediabiasfactcheck.	entailment
+Dunfermline Press failed a fact-check for an article titled Former BAE training school to be demolished	contradiction
+The Dunfermline Press chose not to cover **failed fact checks**	entailment
+Dunfermline Press relies on advertising for revenue	entailment
+Dunfermline Press relies on subscriptions for revenue	contradiction
+Dunfermline Press relies on donations for revenue	entailment
+The Dunfermline Press has received donations from  Gannett	contradiction
+When aggregating stories, Dunfermline Press relies on information from first-person accounts and large quotes, which is appropriate for a print publication.	entailment
+Dunfermline Press has an editorial bias towards minimal editorializing of content.	entailment
+Dunfermline Press printed a biased article titled Least Biased Based on Minimal Editorializing of Content	contradiction
+Dunfermline Press had to apologize for None in the Last 5 years.	entailment
+Dunfermline Press's headquarter is located in Dunfermline	entailment
+The Dunfermline Press is funded by the American government	contradiction
+The Dunfermline Press is a **newspaper**	entailment
+Dunfermline Press covers the following topics: news and politics, lifestyle and culture, and local events and news related to the Dunfermline area.	entailment

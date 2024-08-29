@@ -1,0 +1,22 @@
+Aspen Public Radio owns KAJX - NPR - Aspen	entailment
+Aspen Public Radio acquired KAJX - NPR - Aspen	contradiction
+KAJX - NPR - Aspen is funded through institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+The remit of KAJX - NPR - Aspen is to  report news and radio programming information.	entailment
+The mission of KAJX - NPR - Aspen is to **provide news and radio programming information with a slight liberal bias**	entailment
+The usual audience of KAJX - NPR - Aspen is Left-Center Biased	entailment
+KAJX - NPR - Aspen tends to the Left	entailment
+Other sources have commented on KAJX - NPR - Aspen, stating that it tends to be Left-Center Biased	entailment
+The factuality of KAJX - NPR - Aspen is reported to be High	entailment
+The factuality of KAJX - NPR - Aspen is reported to be High, according to a fact check record.	entailment
+KAJX - NPR - Aspen failed a fact-check for an article titled  **None in the Last 5 years**	contradiction
+KAJX - NPR - Aspen printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+KAJX - NPR - Aspen chose not to cover Failed Fact Checks	entailment
+KAJX - NPR - Aspen relies on subscriptions for revenue	contradiction
+KAJX - NPR - Aspen relies on donations for revenue	entailment
+KAJX - NPR - Aspen has received donations from **institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System**	entailment
+KAJX - NPR - Aspen has endorsed Left-Center Bias	entailment
+KAJX - NPR - Aspen has an editorial bias towards **Left-Center**	entailment
+KAJX - NPR - Aspen had to apologize for None in the Last 5 years	entailment
+KAJX - NPR - Aspen's headquarter is located in Aspen	entailment
+KAJX - NPR - Aspen is funded by the federal government	contradiction
+KAJX - NPR - Aspen is a Left-Center Biased	entailment

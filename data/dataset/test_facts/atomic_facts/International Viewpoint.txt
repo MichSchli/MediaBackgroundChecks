@@ -1,0 +1,20 @@
+International Viewpoint leads International Viewpoint	contradiction
+International Viewpoint is funded through donations	entailment
+The remit of International Viewpoint is to **be a window to radical alternatives world-wide**	entailment
+The mission of International Viewpoint is to **act as a window to radical alternatives world-wide, carrying reports, analysis, and debates from all corners of the globe.**	entailment
+The usual audience of International Viewpoint is far-left biased.	entailment
+International Viewpoint tends to the  far-left.	entailment
+Other sources have commented on International Viewpoint, stating that it tends to be **far-left**.	entailment
+The factuality of International Viewpoint is reported to be factually mixed	entailment
+The factuality of International Viewpoint is reported to be factually mixed, according to Mediabiasfactcheck.	entailment
+International Viewpoint chose not to cover **any fact checks in the Last 5 years**	entailment
+International Viewpoint relies on advertising for revenue	contradiction
+International Viewpoint relies on subscriptions for revenue	contradiction
+International Viewpoint relies on donations for revenue	entailment
+When aggregating stories, International Viewpoint relies on information from **Marxist perspective, left-biased and other socialist sources such as Counterpunch and International Socialist Review**.	entailment
+International Viewpoint has endorsed **far-left bias**	entailment
+International Viewpoint has an editorial bias towards far-left.	entailment
+International Viewpoint's headquarter is located in London	entailment
+International Viewpoint is funded by the UK government	contradiction
+International Viewpoint is a  far-left magazine.	entailment
+International Viewpoint covers the following topics: Marxist perspective, debates, reports, analyses	entailment

@@ -1,0 +1,12 @@
+History
+Medscape is a web resource for physicians and health professionals. It features peer-reviewed original medical journal articles, CME (Continuing Medical Education), a customized version of the National Library of Medicine’s MEDLINE database, daily medical news, major conference coverage, and drug information—including a drug database (Medscape Drug Reference, or MDR) and drug interaction checker.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+KKR & Company owns Medscape. They also own the WebMD website. Advertising and sponsored content generate revenue.
+Analysis / Bias
+Medscape publishes general medical news articles, videos, and medical data geared toward health professionals. What separates Medscape from other medical news sites is that they cover more technical terminology geared toward an educated audience. News stories do not use loaded language, such as this
+[FDA Panel Backs Pfizer’s COVID Booster for 65 and Older, Those at High Risk](https://www.medscape.com/viewarticle/958997). They also publish studies such as this [Ticagrelor of Net Clinical Benefit After Stroke, TIA: THALES](https://www.medscape.com/viewarticle/959032). Finally, they republish news articles from the [Associated Press](https://mediabiasfactcheck.com/associated-press/), [Reuters](https://mediabiasfactcheck.com/reuters/), and [WebMD.](https://mediabiasfactcheck.com/webmd/) Finally, the website offers the ability to search the Medline information database.
+Editorially, Medscape steers clear of politics, but they will report when it involves healthcare such as this
+[Biden Vaccine Mandate Will Test US Workplace Regulator](https://www.medscape.com/viewarticle/958609). In general, there is little bias with political reporting.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,14 @@
+A Call For An Uprising leads A Call for an Uprising	entailment
+A Call for an Uprising is funded through subscription fees and a store that sells branded merchandise.	entailment
+The remit of A Call for an Uprising is to **promote conspiracy theories**.	entailment
+The mission of A Call for an Uprising is to promote the New World Order and Satanism fears.	entailment
+The usual audience of A Call for an Uprising is **right biased conspiracy website based on promoting the New World Order, and Satanism fears**.	entailment
+A Call for an Uprising tends to the right according to D. Van Zandt	entailment
+Other sources have commented on A Call for an Uprising, stating that it tends to be **a Right Biased Conspiracy website**	entailment
+The factuality of A Call for an Uprising is reported to be Right Biased.	entailment
+A Call for an Uprising failed a fact-check for an article titled **An IFCN fact-checker has not fact-checked them to date.**	entailment
+A Call for an Uprising chose not to cover Ownership.	entailment
+A Call for an Uprising relies on subscriptions for revenue	entailment
+A Call for an Uprising has received donations from subscription fees and a store that sells branded merchandise	entailment
+When aggregating stories, A Call for an Uprising relies on information from **conspiracy theories**	entailment
+A Call for an Uprising has an editorial bias towards **right biased conspiracy**	entailment

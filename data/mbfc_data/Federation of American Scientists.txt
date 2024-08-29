@@ -1,0 +1,16 @@
+History
+The
+[Federation of American Scientists (FAS)](https://en.wikipedia.org/wiki/Federation_of_American_Scientists) is a 501(c)(3) organization with the stated intent of using science and scientific analysis to attempt to make the world more secure. FAS was founded in 1945 by scientists who worked on the Manhattan Project to develop the first atomic bombs. The current president is Ali Nouri.
+The mission of FAS is to promote a safer and more secure world by developing and advancing solutions to important science and technology security policy problems by educating the public and policymakers and promoting transparency through research and analysis to maximize impact on policy. This mission was established early on and deemed necessary for the federation, as decisions made by the United States during the conception of the FAS were critical in shaping international relations.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Federation of American Scientists (FAS) is a 501(c)(3) organization that is funded through donations. The
+[MacArthur Foundation](https://www.macfound.org/grantees/301/) is the primary donor.
+Analysis / Bias
+In review, The Federation of American Scientists focuses on the issues of Government Secrecy, Nuclear Weapons, Defense Posture, and Science Policy. In each of these cases, they focus on evidence-based outcomes.
+They also publish issue briefs and reports such as this
+[Temporary Work Visa Holders in the United States, By the Numbers](https://fas.org/pub-reports/temporary-work-visa-holders-in-the-united-states-by-the-numbers/). This story, like all others, is well-sourced. They also publish a pro-science blog like this [US Army Views North Korean Military Tactics](https://fas.org/blogs/secrecy/2020/08/dprk-tactics/).
+Finally, they publish op-eds that assess security with a neutral tone, such as this
+[President Trump and the Middle East](https://fas.org/oped/president-trump-and-the-middle-east/). While this source relies on science it relies on political science and remains mostly neutral.
+Failed Fact Checks
+- None in the Last 5 years

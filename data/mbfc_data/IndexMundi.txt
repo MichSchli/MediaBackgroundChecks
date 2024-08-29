@@ -1,0 +1,15 @@
+History
+[Founded in 2003](https://www.crunchbase.com/organization/indexmundi), IndexMundi is a comprehensive data portal with country-level facts and statistics presented through easy-to-use maps and charts. The data mainly relates to economic and financial data. However, they cover other areas such as health.
+According to their
+[about page](https://www.indexmundi.com/about.html), the website was founded by Miguel Barrientos and Claudia Soria. They state their mission “is to turn raw data from all over the world into useful information for a global audience. We capture statistics that are scattered or otherwise hidden and present them via user-friendly maps, charts, and tables which allow visitors to understand complex information at a glance.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+IndexMundi lacks transparency as they do not openly disclose ownership or how they are funded. Revenue appears to be derived through advertising.
+Analysis / Bias
+In review, IndexMundi publishes data from around the world on various topics. Though most of the data is related to financial information, they also cover education, health, and poverty, to name a few. Information is derived from credible sources. For example, the
+[Income share held by the highest 20%](https://www.indexmundi.com/facts/indicators/SI.DST.05TH.20) is sourced to the World Bank and the Luxembourg Income Study database.
+IndexMundi is currently tracking Covid-19 cases and deaths using the
+[European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en). In general, a thorough review indicates that the data provided on this website is derived from credible sources and presented with minimal bias.
+IndexMundi also features a blog that is low biased and data-driven such as this
+[Wholesale Prices of Agricultural Products](https://www.indexmundi.com/blog/index.php/2019/02/21/wholesale-prices-of-agricultural-products/).
+Failed Fact Checks
+- None in the Last 5 years

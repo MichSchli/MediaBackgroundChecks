@@ -1,0 +1,20 @@
+Ken Silverstein owns Washington Babylon	entailment
+Ken Silverstein is the owner of Washington Babylon	entailment
+Washington Babylon is funded through online advertising and donations	entailment
+The remit of Washington Babylon is to cover DC politicians and journalists like Hollywood celebrities — not the way they are worshiped by our current media masters.	entailment
+The mission of Washington Babylon is to cover DC politicians and journalists like Hollywood celebrities — not the way they are worshiped by our current media masters.	entailment
+The usual audience of Washington Babylon is **progressive in outlook**	entailment
+The Washington Babylon tends to the left	entailment
+Other sources have commented on Washington Babylon, stating that it tends to be left-biased.	entailment
+The factuality of Washington Babylon is reported to be High	entailment
+The factuality of Washington Babylon is reported to be High, according to Source: Washington Babylon.	entailment
+Washington Babylon failed a fact-check for an article titled "Would Democratic Donors Prefer to Lose to Trump Than Win With Sanders?"	contradiction
+Washington Babylon chose not to cover establishment/corporately funded candidates	contradiction
+Washington Babylon relies on advertising for revenue	entailment
+Washington Babylon relies on donations for revenue	entailment
+When aggregating stories, Washington Babylon relies on information from **credible media such as the New York Times and Politico**.	entailment
+Washington Babylon has endorsed **candidates such as Alexandria Ocasio-Cortez and Bernie Sanders**	entailment
+Washington Babylon has an editorial bias towards the progressive left	entailment
+Ken Silverstein is the editor of Washington Babylon	entailment
+Washington Babylon is funded by the **individual** government	contradiction
+Washington Babylon is a tabloid.	entailment

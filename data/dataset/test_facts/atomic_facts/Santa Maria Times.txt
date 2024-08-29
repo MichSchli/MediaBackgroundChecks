@@ -1,0 +1,21 @@
+Lee Enterprises owns Santa Maria Times	entailment
+Lee Enterprises is the owner of Santa Maria Times.	entailment
+Santa Maria Times is funded through a subscription and advertising model.	entailment
+The remit of Santa Maria Times is to cover local news with journalists and reporters throughout Southern California.	entailment
+The mission of Santa Maria Times is to cover local news with journalists and reporters throughout Southern California.	entailment
+Santa Maria Times tends to the **right**	entailment
+Other sources have commented on Santa Maria Times, stating that it tends to be **Least Biased**.	entailment
+The factuality of Santa Maria Times is reported to be High	entailment
+The factuality of Santa Maria Times is reported to be High, according to D. Van Zandt	entailment
+Santa Maria Times chose not to cover Failed Fact Checks	entailment
+Santa Maria Times provides original content written by staff journalists	entailment
+Santa Maria Times relies on advertising for revenue	entailment
+Santa Maria Times relies on subscriptions for revenue	entailment
+Santa Maria Times relies on donations for revenue	contradiction
+When aggregating stories, Santa Maria Times relies on information from the **Associated Press**	entailment
+Santa Maria Times has an editorial bias towards **right**.	entailment
+The Santa Maria Times was fined 	entailment
+Santa Maria Times printed a biased article titled "None in the Last 5 years"	contradiction
+Santa Maria Times had to apologize for **None in the Last 5 years**	entailment
+Santa Maria Times is a print newspaper	entailment
+Santa Maria Times covers the following topics: **local news with journalists and reporters throughout Southern California, national news**.	entailment

@@ -1,0 +1,20 @@
+Dattatreya founded Realm of History	entailment
+Dattatreya Mandal is the founder of Realm of History	entailment
+Dattatreya Mandal owns Realm of History	entailment
+Dattatreya Mandal is the owner of Realm of History	entailment
+Realm of History is funded through advertising	entailment
+The mission of Realm of History is to **celebrate the extraordinary human triumphs, unravel the myriad of mysteries, and scrutinize the major failures of history.**	entailment
+Realm of History tends to the **fascinating study of history**	entailment
+Other sources have commented on Realm of History, stating that it tends to be **a least biased pro-science source**.	entailment
+The factuality of Realm of History is reported to be pro-science	entailment
+The factuality of Realm of History is reported to be high, according to Media Bias/Fact Check.	entailment
+Realm of History chose not to cover politics	entailment
+Realm of History relies on advertising for revenue	entailment
+Realm of History relies on subscriptions for revenue	contradiction
+Realm of History relies on donations for revenue	contradiction
+When aggregating stories, Realm of History relies on information from **credible outlets**.	entailment
+"Realm of History has endorsed pro-science."	entailment
+Realm of History has an editorial bias towards **pro-science**	entailment
+Realm of History was fined 	entailment
+Realm of History had to apologize for **none in the Last 5 years**	entailment
+Realm of History is a website	entailment

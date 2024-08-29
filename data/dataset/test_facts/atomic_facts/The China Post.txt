@@ -1,0 +1,23 @@
+Mr. and Mrs. Y.P, Huang founded The China Post	entailment
+The China Post Group owns The China Post	entailment
+The China Post is the owner of The China Post	contradiction
+The China Post bought The China Post	contradiction
+The China Post acquired The China Post	contradiction
+The China Post is funded through **advertising**	entailment
+The remit of The China Post is to **provide news coverage of the latest events in Taiwan and from around the world**	entailment
+The usual audience of The China Post is **the left**	entailment
+The China Post tends to the left	entailment
+Other sources have commented on The China Post, stating that it tends to be Left-Center Biased.	entailment
+The factuality of The China Post is reported to be Mostly Factual	entailment
+The factuality of The China Post is reported to be Mostly Factual, according to Mediabiasfactcheck.com.	entailment
+The China Post failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The China Post chose not to cover **any failed fact checks in the last 5 years**	entailment
+The China Post relies on advertising for revenue	entailment
+The China Post relies on subscriptions for revenue	contradiction
+The China Post relies on donations for revenue	contradiction
+The China Post has endorsed the left	entailment
+The China Post has an editorial bias towards **the left**	entailment
+The China Post had to apologize for **a lack of transparency**.	entailment
+The China Post's headquarter is located in Taiwan	entailment
+The China Post is a Left-Center Biased	entailment
+The China Post covers the following topics: **latest events in Taiwan and from around the world**	entailment

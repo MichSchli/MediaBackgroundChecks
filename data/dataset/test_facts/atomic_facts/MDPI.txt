@@ -1,0 +1,16 @@
+Shu-Kun Lin founded MDPI	entailment
+Dr. Shu-Kun Lin is the founder of MDPI	entailment
+MDPI owns MDPI	entailment
+Shu-Kun Lin is the owner of MDPI	entailment
+MDPI is funded through **authors paying a one-time Article Processing Charge (APC) to cover the costs of peer review administration and management**.	entailment
+Other sources have commented on MDPI, stating that it tends to be **predatory**	entailment
+MDPI failed a fact-check for an article titled "The Safety of COVID-19 Vaccinations—We Should Rethink the Policy"	entailment
+MDPI printed a retraction after failing a fact-check for an article titled "The Safety of COVID-19 Vaccinations—We Should Rethink the Policy".	entailment
+MDPI chose not to cover human clinical nutrition.	contradiction
+MDPI relies on subscriptions for revenue	contradiction
+When aggregating stories, MDPI relies on information from **authors**	entailment
+MDPI has endorsed **Covid-19 misinformation**	entailment
+MDPI printed a factually misleading titled **"The Safety of COVID-19 Vaccinations—We Should Rethink the Policy"**	entailment
+MDPI's headquarter is located in Switzerland	entailment
+MDPI is a Predatory Journal	entailment
+MDPI uses a peer review process	entailment

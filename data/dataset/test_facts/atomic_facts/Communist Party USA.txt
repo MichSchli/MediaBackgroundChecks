@@ -1,0 +1,27 @@
+Joe Sims is the founder of Communist Party USA	entailment
+Joe Sims and Rossana Cambron leads Communist Party USA	entailment
+The Communist Party USA owns Communist Party USA	entailment
+The Communist Party USA bought Communist Party USA	contradiction
+The Communist Party USA acquired Communist Party USA	contradiction
+Communist Party USA is funded through membership dues.	entailment
+The remit of Communist Party USA is to advocate for the transformation of the United States to socialism.	entailment
+The mission of Communist Party USA is to advocate for the transformation of the United States to socialism.	entailment
+The usual audience of Communist Party USA is **left-biased**.	entailment
+Communist Party USA tends to the **Left Biased**	entailment
+Other sources have commented on Communist Party USA, stating that it tends to be Left Biased	entailment
+The factuality of Communist Party USA is reported to be Mostly Factual	contradiction
+The factuality of Communist Party USA is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+The Communist Party USA chose not to cover water rights in Highland Park, Michigan.	contradiction
+Communist Party USA relies on advertising for revenue	contradiction
+Communist Party USA relies on subscriptions for revenue	entailment
+Communist Party USA relies on donations for revenue	entailment
+Communist Party USA has received donations from **membership dues**, **donations**, and **fundraising efforts** from its members and supporters.	entailment
+When aggregating stories, Communist Party USA relies on information from [various sources](https://www.cpusa.org/article/its-going-to-take-a-mass-movement/).	entailment
+Communist Party USA has endorsed workers’ rights and economic equality.	entailment
+Communist Party USA has an editorial bias towards leftist ideologies	entailment
+Communist Party USA printed a biased article titled "It’s Going to Take a mass movement"	entailment
+Communist Party USA had to apologize for **none in the Last 5 years**	entailment
+Communist Party USA's headquarter is located in New York	entailment
+Communist Party USA is funded by the United States government	contradiction
+Communist Party USA is a Marxist-Leninist party.	entailment
+Communist Party USA covers the following topics: socialism, workers’ rights, and political campaigns.	entailment

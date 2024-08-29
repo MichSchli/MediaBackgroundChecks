@@ -1,0 +1,17 @@
+History
+The website was founded in November 2020 by
+[Flavio Pasquino](https://www.noordhollandsdagblad.nl/cnt/dmf20210603_15711238?utm_source=google&utm_medium=organic), a former cyclist, as a Youtube channel that promotes alternative news and research. The content frequently promoted conspiracy theories and pseudoscience related to Covid-19, resulting in YouTube removing some of his videos. As a result, the website features videos hosted on [Rumble](https://mediabiasfactcheck.com/rumble/).
+According to their
+[about page](https://www.blckbx.tv/over-blckbx), “blckbx is an independent, critical and honest news platform for free thinkers with a strong sense of justice.” The website is based in the Netherlands. [Read our profile on Netherlands Government and Media.](https://mediabiasfactcheck.com/netherlands-media-profile/)
+Funded by / Ownership
+According to their
+[about page](https://www.blckbx.tv/over-blckbx), “The project is funded by the Blckbx Foundation, a non-profit entity that relies on donations.”
+Analysis / Bias
+Blckbx.tv primarily publishes videos on the Rumble platform with an associated text-based article beneath summarizing or transcribing the video. The website focuses on alternative news (conspiracy theories) on Economics, Covid-19, Health, Climate Change, and Tech & Media. Generally, they are opposed to the consensus of science on almost all issues. For example, they promote climate change denialism such as this
+[“Alarmistic IPCC report offers hope,” says science journalist Marcel Crok in an analysis…](https://www.blckbx.tv/klimaat/alarmistisch-ipcc-rapport-biedt-juist-hoop-marcel-crok)
+Under the health category, they claim that people can have abortions up to birth, and even afterward, the
+[US, state legalizes abortion until birth](https://www.blckbx.tv/gezondheid/amerikaanse-staat-legaliseert-abortus-tot-moment-van-geboorte). This has been fact-checked and is [not true](https://www.factcheck.org/2022/04/california-not-poised-to-legalize-infanticide/). Further, under the Covid category, they routinely promote false or misleading information, such as this [Childhood hepatitis may be caused by vaccine shedding](https://www.blckbx.tv/corona/hepatitis-bij-kinderen-mogelijk-veroorzaakt-door-vaccin-shedding).
+First, there is no evidence that childhood
+[hepatitis](https://www.factcheck.org/2022/05/scicheck-pediatric-hepatitis-cases-may-be-linked-to-adenovirus-no-connection-to-covid-19-vaccination/) is associated with vaccines as the children are under the age at which vaccines are allowed. Second, [vaccine shedding](https://www.politifact.com/article/2021/may/06/debunking-anti-vaccine-hoax-about-vaccine-shedding/) is not possible. In general, Blckbx.tv promotes quackery level pseudoscience and conspiracy theories from a far-right perspective.
+Failed Fact Checks
+- There is no record of them being fact-checked. See the above examples.

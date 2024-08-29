@@ -1,0 +1,20 @@
+Adams Publishing Group owns Lakeville Sun ThisWeek	entailment
+Stephen Adams is the owner of Lakeville Sun ThisWeek	entailment
+Lakeville Sun ThisWeek is funded through advertising and subscription fees	entailment
+The remit of Lakeville Sun ThisWeek is to cover local news through journalists with minimal bias in wording.	entailment
+The usual audience of Lakeville Sun ThisWeek is Left-Center Biased	entailment
+Lakeville Sun ThisWeek tends to the Left	entailment
+Other sources have commented on Lakeville Sun ThisWeek, stating that it tends to be left-leaning.	entailment
+The factuality of Lakeville Sun ThisWeek is reported to be High	entailment
+The factuality of Lakeville Sun ThisWeek is reported to be high, according to Mediabiasfactcheck.	entailment
+Lakeville Sun ThisWeek failed a fact-check for an article titled "Burnsville License Center closing Jan. 13 for remodeling; will reopen in April".	contradiction
+Lakeville Sun ThisWeek chose not to cover **national and world news**	contradiction
+Lakeville Sun ThisWeek relies on advertising for revenue	entailment
+Lakeville Sun ThisWeek relies on subscriptions for revenue	entailment
+Lakeville Sun ThisWeek relies on donations for revenue	contradiction
+When aggregating stories, Lakeville Sun ThisWeek relies on information from the [Associated Press](https://www.bozemandailychronicle.com/news/city/bozeman-continues-to-foster-midtown-development/article51464c29-97fa-57b9-9535-05375f0853c8.html)	entailment
+Lakeville Sun ThisWeek has endorsed the Left	entailment
+Lakeville Sun ThisWeek has an editorial bias towards Left	entailment
+Lakeville Sun ThisWeek is funded by the **private** government.	contradiction
+Lakeville Sun ThisWeek is a newspaper	entailment
+Lakeville Sun ThisWeek covers the following topics: local news, sports, crime, and weather	entailment

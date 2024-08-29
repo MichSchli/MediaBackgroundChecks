@@ -1,0 +1,20 @@
+Metroland Media Group Ltd. founded Ancaster News	entailment
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd. owns Ancaster News	entailment
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd. acquired Ancaster News	contradiction
+Ancaster News is funded through **advertising**	entailment
+The Ancaster News tends to the Left-Center	entailment
+Other sources have commented on Ancaster News, stating that it tends to be Left-Center biased.	entailment
+The factuality of Ancaster News is reported to be High	entailment
+The factuality of Ancaster News is reported to be High, according to https://mediabiasfactcheck.com/.	entailment
+Ancaster News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Ancaster News chose not to cover Agriculture Event Centre	contradiction
+Ancaster News relies on advertising for revenue	entailment
+Ancaster News relies on donations for revenue	entailment
+When aggregating stories, Ancaster News relies on information from the Canadian Press for national news, while world news comes from the Associated Press.	entailment
+Ancaster News has an editorial bias towards Left-Center.	entailment
+Ancaster News had to apologize for [None in the Last 5 years]	entailment
+Ancaster News is funded by the Canadian government	contradiction
+Ancaster News is a newspaper	entailment
+Ancaster News uses a peer review process	entailment

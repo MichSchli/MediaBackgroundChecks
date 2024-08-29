@@ -1,0 +1,14 @@
+History
+Morning Consult is a nonpartisan digital media and survey research company
+[established in 2013](https://morningconsult.com/about/). The company provides news coverage, survey research, and data technology tools on politics, policy, and business issues. Morning Consult is the official polling partner of [POLITICO](http://mediabiasfactcheck.com/politico/), [Fortune](http://mediabiasfactcheck.com/fortune-magazine/), [New York Times](https://mediabiasfactcheck.com/new-york-times/), and [Bloomberg News](http://mediabiasfactcheck.com/bloomberg/). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Morning Consult is owned by
+[Morning Consult Holdings, Inc](https://www.crunchbase.com/organization/morning-consult#section-overview). Surveys and market research sales generate revenue.
+Analysis / Bias
+In review, Morning Consult conducts research and surveys for businesses and media outlets using a
+[scientific methodology](https://www.businessinsider.com/morning-consult-election-polls-2016-11/). The process used is called [stratified sampling](https://en.wikipedia.org/wiki/Stratified_sampling), a sampling method from a population that can be partitioned into subpopulations. Morning Consult has been [praised for accuracy](https://elections.huffingtonpost.com/pollster/2016-general-election-trump-vs-clinton); for example, they predicted Hillary Clinton would win the popular vote by 3%. She won by 2.1%, which was comfortably within the margin of error. [FiveThirtyEight](https://mediabiasfactcheck.com/fivethirtyeight/), an expert on measuring and rating pollster performance, has [evaluated 72 polls by Morning Consult](https://projects.fivethirtyeight.com/pollster-ratings/morning-consult/), indicating they are accurate 73% of the time or Mostly Factual. They also conclude that their polling favors the left with a score of +3.1, which equates to a Left bias in polling. In general, Morning Consult is a reasonably accurate pollster that moderately favors the left (Democratic Candidates).
+Morning Consult also has a news section that is centered around polling and trends. Typically, there is minimal bias presented such as this:
+[Detroit Debates Deliver Meager Returns for Biden’s Challengers](https://morningconsult.com/2019/08/02/detroit-debates-deliver-meager-returns-for-bidens-challengers/). Further, they typically stray from opinion pieces and focus on evidence-based reporting.
+Failed Fact Checks
+- A
+[factual search](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=morning%20consult&gsc.sort=)reveals they have not failed a fact check.

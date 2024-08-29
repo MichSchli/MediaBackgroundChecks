@@ -1,0 +1,13 @@
+The remit of Futurity is to **share research news directly with the public**	entailment
+The mission of Futurity is to share research news directly with the public	entailment
+The usual audience of Futurity is  scientists and individuals interested in research and science.	entailment
+Futurity tends to the  Mostly Factual	entailment
+Other sources have commented on Futurity, stating that it tends to be Mostly Factual.	entailment
+The factuality of Futurity is reported to be Mostly Factual	entailment
+The factuality of Futurity is reported to be Mostly Factual, according to Mediabiasfactcheck.com	entailment
+Futurity failed a fact-check for an article titled "Elon Musk bought General Motors."	entailment
+Futurity chose not to cover  Elon Musk bought General Motors.	contradiction
+Futurity relies on advertising for revenue	contradiction
+Futurity has an editorial bias towards **pro-science**	entailment
+Futurity printed a factually misleading titled  "Elon Musk bought General Motors."	contradiction
+Futurity had to apologize for  **a lack of transparency and a failed fact check**	entailment

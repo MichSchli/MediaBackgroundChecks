@@ -1,0 +1,26 @@
+Political Media, Inc.	entailment
+Political Media, Inc. bought Press Corp	entailment
+Political Media, Inc. acquired Press Corp	entailment
+The remit of Press Corp is to republish summaries of news from other sources.	entailment
+The mission of Press Corp is to conduct “real investigative journalism”.	contradiction
+The usual audience of Press Corp is Right Biased and Questionable.	entailment
+Press Corp tends to the **right**	entailment
+Other sources have commented on Press Corp, stating that it tends to be right-biased.	entailment
+The factuality of Press Corp is reported to be Right Biased and Questionable	entailment
+The factuality of Press Corp is reported to be questionable, according to Media Bias/Fact Check.	entailment
+Press Corp failed a fact-check for an article titled SHARPIES WERE MADE AVAILABLE THROUGHOUT ARIZONA’S LARGEST COUNTY OFFICIALS SAY	entailment
+Press Corp chose not to cover **election fraud conspiracies**	contradiction
+Press Corp provides original content written by staff journalists	contradiction
+Press Corp relies on advertising for revenue	entailment
+Press Corp relies on subscriptions for revenue	contradiction
+Press Corp relies on donations for revenue	contradiction
+When aggregating stories, Press Corp relies on information from **right and often factually mixed or worse sources**.	entailment
+Press Corp has endorsed right-leaning and questionable content	entailment
+Press Corp has an editorial bias towards right.	entailment
+Press Corp printed a biased article titled  "Sharpies were made available throughout Arizona’s largest county officials say".	entailment
+Press Corp printed a factually misleading titled "SHARPIES WERE MADE AVAILABLE THROUGHOUT ARIZONA’S LARGEST COUNTY OFFICIALS SAY".	entailment
+Press Corp's headquarter is located in Virginia	entailment
+Press Corp is funded by the United States government	contradiction
+Press Corp is a  Right Biased and Questionable based on the use of poor sources, the publication of misinformation, and a complete lack of transparency.	entailment
+Press Corp uses a peer review process	contradiction
+Press Corp uses an internal fact-checking process	contradiction

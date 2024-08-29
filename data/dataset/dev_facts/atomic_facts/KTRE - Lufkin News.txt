@@ -1,0 +1,22 @@
+Van H. Preston founded KTRE - Lufkin News	entailment
+Gray Television owns KTRE - Lufkin News	entailment
+Gray Television is the owner of KTRE - Lufkin News	entailment
+Gray Television bought KTRE - Lufkin News	entailment
+KTRE - Lufkin News is funded through **sponsored content and advertising**.	entailment
+The remit of KTRE - Lufkin News is to **provide news coverage**	entailment
+The mission of KTRE - Lufkin News is to report news factually and with minimal bias.	entailment
+The usual audience of KTRE - Lufkin News is **local residents of Lufkin, Texas, and the surrounding areas**.	entailment
+KTRE - Lufkin News tends to the **right**	contradiction
+KTRE - Lufkin News tends to the **right** according to **least biased based on minimally loaded language and minimal editorializing.**	contradiction
+Other sources have commented on KTRE - Lufkin News, stating that it tends to be Least Biased.	entailment
+The factuality of KTRE - Lufkin News is reported to be High	entailment
+The factuality of KTRE - Lufkin News is reported to be High, according to D. Van Zandt.	entailment
+KTRE - Lufkin News failed a fact-check for an article titled "None in the Last 5 years".	entailment
+KTRE - Lufkin News chose not to cover [opinion page](https://www.ktre.com/).	entailment
+KTRE - Lufkin News relies on advertising for revenue	entailment
+KTRE - Lufkin News relies on donations for revenue	contradiction
+When aggregating stories, KTRE - Lufkin News relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+KTRE - Lufkin News has an editorial bias towards Least Biased.	entailment
+KTRE - Lufkin News printed a biased article titled "Shelby County Sheriff’s Office investigating death of child".	contradiction
+KTRE - Lufkin News printed a factually misleading titled "None in the Last 5 years".	contradiction
+KTRE - Lufkin News had to apologize for 	entailment

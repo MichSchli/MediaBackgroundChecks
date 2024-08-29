@@ -1,0 +1,18 @@
+AltCensored.com is funded through donations	entailment
+The remit of AltCensored.com is to archive censored YouTube videos, including those placed in “Limited State,” entirely removed by YouTube or self-censored by the YouTube channel owner.	entailment
+The mission of AltCensored.com is to **archive censored YouTube videos and highlight online censorship's rise and free speech's decline**.	entailment
+The usual audience of AltCensored.com is  right-biased individuals.	entailment
+AltCensored.com tends to the archiving of censored YouTube videos.	entailment
+Other sources have commented on AltCensored.com, stating that it tends to be right-biased.	entailment
+The factuality of AltCensored.com is reported to be **low**	entailment
+The factuality of AltCensored.com is reported to be right-biased conspiracy and pseudoscience site, according to M. Huitsing 09/03/2023.	entailment
+AltCensored.com failed a fact-check for an article titled ***The Great Restructuring of America. Is a Secession Movement Happening?***	entailment
+AltCensored.com chose not to cover videos that contain false, misleading, or unsubstantiated information	contradiction
+AltCensored.com provides original content written by staff journalists	contradiction
+AltCensored.com relies on advertising for revenue	contradiction
+AltCensored.com relies on subscriptions for revenue	contradiction
+AltCensored.com relies on donations for revenue	entailment
+AltCensored.com has received donations from **generating revenue**	entailment
+AltCensored.com has endorsed right-biased conspiracy and pseudoscience site	entailment
+AltCensored.com has an editorial bias towards **right-biased conspiracy and pseudoscience**	entailment
+AltCensored.com printed a biased article titled "The Great Restructuring of America. Is a Secession Movement Happening?".	entailment

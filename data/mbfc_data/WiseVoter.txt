@@ -1,0 +1,16 @@
+History
+Founded in 2020 by Ben Kaplan,
+[Wisevoter](https://wisevoter.com/about/) is a digital platform established in response to the global pandemic, economic shutdown, and widespread political unrest such as #blacklivesmatter. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+[Wisevoter](https://wisevoter.com/about/) is run by Ben Kaplan, identified on their About page as a syndicated columnist and founder of a global marketing agency. A search for Ben Kaplan revealed multiple individuals with that name, but none matched Wisevoter’s description. One notable figure is [Benjamin Kaplan](https://www.youtube.com/channel/UCr6VMS9_V97iSVIrK4ocQ7w), a top CMO, but his YouTube channel doesn’t list Wisevoter as affiliated. The website is not transparent in how it is funded as the site’s revenue is not publicly disclosed, and we did not observe any advertising on the site.
+Analysis / Bias
+In reviewing the content, Wisevoter is a platform that aims to simplify complex issues. While it doesn’t publish traditional news articles, it provides concise explanations on key topics like
+[“Should the U.S. military be withdrawn from Japan?”](https://wisevoter.com/issue/us-military-bases-in-japan/) However, these explanations lack source citations.
+The content reveals a favorable bias towards President Biden, as seen in statements like “President Biden was able to diffuse this tension.” In contrast, it presents former President Trump in a less favorable light, emphasizing his stance on Tokyo’s financial contributions to U.S. military expenses.
+The “State Trackers” section, which offers insights like
+[“the cheapest states to live in,”](https://wisevoter.com/state-rankings/cheapest-states-to-live-in/#:~:text=to%20Live%20in-,The%20cheapest%20states%20to%20live%20in%20are%20Mississippi%2C%20Oklahoma%2C%20Kansas,of%20living%20index%20of%2085.) also lacks source citations, raising concerns about the platform’s transparency and the authenticity of its content. In general, this site lacks credibility based on a lack of sourcing, the anonymous nature of ownership, and no clear disclosure of funding.
+Failed Fact Checks
+- There is no record of a third-party fact-checking WiseVoter.
+In conclusion, we rate Wisevoter as Left-Center Biased based on the issues they cover. However, we rate them as Questionable due to poor sourcing and a lack of transparency. (M. Huitsing 07/24/2023)
+Source:
+[https://wisevoter.com/](https://wisevoter.com/)

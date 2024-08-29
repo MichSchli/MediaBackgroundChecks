@@ -1,0 +1,16 @@
+BioMed Central owns Microbiome Journal	entailment
+Springer Nature is the owner of Microbiome Journal	entailment
+The remit of Microbiome Journal is to **publish information and research related to microbiome research**	entailment
+The mission of Microbiome Journal is to  "publish credible scientific studies that are factual and appropriately peer-reviewed."	entailment
+Microbiome Journal tends to the Pro-Science	entailment
+Other sources have commented on Microbiome Journal, stating that it tends to be **Pro-Science**	entailment
+The factuality of Microbiome Journal is reported to be High	entailment
+The factuality of Microbiome Journal is reported to be High, according to Media Bias/Fact Check.	entailment
+Microbiome Journal relies on subscriptions for revenue	contradiction
+The Microbiome Journal has endorsed Pro-Science	entailment
+Microbiome Journal has an editorial bias towards [pro-science].	entailment
+The Microbiome Journal was fined 	contradiction
+Microbiome Journal had to apologize for retracting numerous studies.	entailment
+Microbiome Journal is a peer-reviewed open-access journal	entailment
+Microbiome Journal uses a peer review process	entailment
+Microbiome Journal covers the following topics: studies of microbiomes colonizing humans, animals, plants or the environment, both built and natural or manipulated, as in agriculture.	entailment

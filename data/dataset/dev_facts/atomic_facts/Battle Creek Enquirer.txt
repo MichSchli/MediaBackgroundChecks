@@ -1,0 +1,20 @@
+Gannett Company owns Battle Creek Enquirer	entailment
+Gannett Company is the owner of Battle Creek Enquirer	entailment
+Gannett Company bought Battle Creek Enquirer	contradiction
+Battle Creek Enquirer is funded through a subscription and advertising model	entailment
+The remit of Battle Creek Enquirer is to cover local news via local journalists and use minimal loaded words and proper sourcing.	entailment
+The Battle Creek Enquirer tends to the left	entailment
+Battle Creek Enquirer tends to the left-center bias according to mediabiasfactcheck.com	entailment
+Other sources have commented on Battle Creek Enquirer, stating that it tends to be Left-Center biased.	entailment
+The factuality of Battle Creek Enquirer is reported to be High	entailment
+The factuality of Battle Creek Enquirer is reported to be High, according to 	entailment
+Battle Creek Enquirer failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Battle Creek Enquirer printed a retraction after failing a fact-check for an article titled "endorsement-hillary-clinton-president"/.	entailment
+Battle Creek Enquirer chose not to cover failed fact checks	entailment
+Battle Creek Enquirer relies on advertising for revenue	entailment
+Battle Creek Enquirer relies on subscriptions for revenue	contradiction
+Battle Creek Enquirer relies on donations for revenue	contradiction
+When aggregating stories, Battle Creek Enquirer relies on information from **local journalists and the USA Today Network**	entailment
+Battle Creek Enquirer has endorsed more Democratic candidates	entailment
+Battle Creek Enquirer has an editorial bias towards left-leaning.	entailment
+D. Van Zandt is the editor of Battle Creek Enquirer	contradiction

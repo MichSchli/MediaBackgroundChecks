@@ -1,0 +1,13 @@
+History
+[Founded in 2019](https://whois.domaintools.com/fr24news.com), FR24 News is an imposter site that attempts to trick people into believing they are the credible [France 24](https://mediabiasfactcheck.com/france24/) website.
+At the bottom of each page, they state, “FR24 News is your news, entertainment, music fashion website. We provide you with the latest breaking news and videos straight from the entertainment industry.” However, they completely lack transparency as they do not name editors or ownership. The domain is registered in the USA, but we can’t determine where the editors originate from.
+Funded by / Ownership
+FR24 News does not disclose ownership, and advertising generates revenue.
+Analysis / Bias
+FR24 News looks similar to France 24 website. The website frequently publishes news stories ranging from breaking to entertainment to fashion news. While not confirmed, it appears the news is aggregated from other sources, with little thought given to the content.
+Unfortunately, FR24 copies full news articles from other sources and does not always credit them, which is a form of plagiarism and copyright infringement. Some sources they copied directly from are
+[CNBC](https://mediabiasfactcheck.com/cnbc/), [Financial Times,](https://mediabiasfactcheck.com/financial-times/) and [NBC News](https://mediabiasfactcheck.com/nbc-news/). These news stories were credible and low-biased but are an act of deception by FR24 News.
+CNBC wrote a report about sites such as FR24 News that scrape content without giving credit while generating revenue through advertising that you can view
+[here.](https://www.cnbc.com/2020/05/17/broken-internet-ad-system-makes-it-easy-to-earn-money-with-plagiarism.html) Under Fair Use law, you can only copy a small summary of the text and then directly link to the original source. In general, they do not publish with bias but instead republish content to display ads. They are not credible, unlike [France 24](https://mediabiasfactcheck.com/france24/), which meets high standards.
+Failed Fact Checks
+- None in the Last 5 years

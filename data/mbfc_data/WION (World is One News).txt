@@ -1,0 +1,15 @@
+History
+Launched in 2016,
+[Wionews or WION](http://www.wionews.com/about-us), is an Indian news website. WION stands for “World is One News.” [Sudhir Chaudhary](http://www.wionews.com/authors/231) is the editor-in-chief of WION, covering topics ranging from South Asia news, world news, sports, live TV, entertainment, and more. They describe themselves as “seasoned and daring young journalists of diverse nationalities.” [Read our profile on India’s government and media.](https://mediabiasfactcheck.com/india-media-profile/)
+Funded by / Ownership
+WION is owned by the
+[Essel Group](https://en.wikipedia.org/wiki/Essel_Group) ( [Zee Media](https://en.wikipedia.org/wiki/Zee_News)), an Indian conglomerate company presently headed by media tycoon Dr. Subhash Chandra. Revenue is derived through advertising.
+Analysis / Bias
+In review, WION publishes tabloid-style stories such as
+[“Sports Illustrated’ swimsuit issue honours #MeToo with first-ever nude photo series”](http://www.wionews.com/world/entertainment-sports-illustrated-swimsuit-issue-honours-metoo-with-first-ever-nude-photo-series-32218) and reports international news with minimally loaded words. They use various news agencies, some of which are not known by us, and some highly credible such as [AFP](https://mediabiasfactcheck.com/afp-agence-france-presse/). However, they usually poorly source their articles using quotations without linking to the source, such as [“Kim Yo Jong: Meet the ‘Ivanka Trump’ of North Korea”](http://www.wionews.com/photos/kim-yo-jong-meet-the-ivanka-trump-of-north-korea-684#photo-37445) and [“FBI contradicts White House on probe of former aide Rob Porter.”](http://www.wionews.com/world/fbi-contradicts-white-house-on-probe-of-former-aide-rob-porter-32788)
+Recent articles in 2020 continue to display minimal bias, such as this
+[Japan expands coronavirus emergency nationwide amid spike in cases](https://www.wionews.com/world/japan-expands-coronavirus-emergency-nationwide-amid-spike-in-cases-292928); however, there is still a lack of hyperlinked sourcing, though they generally provide video as a source. However, in 2020 they promoted misinformation as it relates to Coronavirus.
+Editorially, WION presents both sides; however, a review of 50+ opinion pieces reveals slightly more favor the right, with some praising
+[PM Modi](https://www.wionews.com/opinions-blogs/pm-narendra-modi-led-from-the-front-in-the-fight-against-coronavirus-crisis-in-india-292865) and others promoting [nationalism](https://www.wionews.com/opinions-blogs/coronavirus-pandemic-exposes-risks-and-vulnerability-of-hyper-globalised-system-292635). Generally, news reporting is factual and low-biased, while editorials lean slightly right.
+Failed Fact Checks
+[“new virus” named hantavirus has emerged in China in March 2020](https://www.boomlive.in/world/is-the-hantavirus-a-new-disease-emerging-from-china-a-factcheck-7473)– False [“Portuguese nurse dies two days after getting the Pfizer Covid vaccine”](https://healthfeedback.org/claimreview/covid-19-vaccine-did-not-cause-the-death-of-a-portuguese-woman-contrary-to-social-media-posts-suggestions/)– Misleading

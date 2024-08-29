@@ -1,0 +1,20 @@
+NPR is the founder of NPR	contradiction
+Jarl Mohn is the CEO of NPR	entailment
+Jarl Mohn is the owner of NPR	contradiction
+NPR bought NPR	entailment
+NPR is funded through  Member stations and corporate sponsorships.	entailment
+The remit of NPR is to  entertain.	contradiction
+The usual audience of NPR is liberal.	entailment
+NPR tends to the left	entailment
+Other sources have commented on NPR, stating that it tends to be Left-Center	entailment
+The factuality of NPR is reported to be ***High***.	entailment
+The factuality of NPR is reported to be High, according to thorough sourcing and accurate news reporting	entailment
+NPR relies on advertising for revenue	entailment
+NPR relies on donations for revenue	contradiction
+NPR has received donations from individual contributions.	entailment
+When aggregating stories, NPR relies on information from **credible sources**.	entailment
+NPR has an editorial bias towards left	entailment
+Jarl Mohn is the editor of NPR	contradiction
+NPR's headquarter is located in Washington, D.C.	entailment
+NPR is funded by the US government	contradiction
+NPR is a nonprofit organization that produces and distributes news, talk, cultural programming, music, and entertainment programs.	entailment

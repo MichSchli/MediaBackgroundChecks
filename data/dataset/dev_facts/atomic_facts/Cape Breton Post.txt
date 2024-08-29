@@ -1,0 +1,21 @@
+SaltWire Network founded Cape Breton Post	entailment
+SaltWire Network owns Cape Breton Post	entailment
+SaltWire Network is the owner of Cape Breton Post	entailment
+SaltWire Network bought Cape Breton Post	entailment
+SaltWire Network acquired Cape Breton Post	entailment
+The Cape Breton Post is funded through subscriptions and advertising.	entailment
+The remit of Cape Breton Post is to  report breaking news, opinion, sports, lifestyles, and crime.	entailment
+The mission of Cape Breton Post is to deliver breaking news, opinion, sports, lifestyles, and crime.	entailment
+Cape Breton Post tends to the Right-Center	entailment
+Cape Breton Post tends to the right-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on Cape Breton Post, stating that it tends to be **Right-Center biased**	entailment
+The factuality of Cape Breton Post is reported to be High	entailment
+The factuality of Cape Breton Post is reported to be High, according to proper sourcing of news content and a clean fact check record	entailment
+The Cape Breton Post chose not to cover world news.	contradiction
+Cape Breton Post relies on advertising for revenue	entailment
+Cape Breton Post relies on subscriptions for revenue	entailment
+Cape Breton Post relies on donations for revenue	contradiction
+When aggregating stories, Cape Breton Post relies on information from [Reuters](https://mediabiasfactcheck.com/reuters/) and [Postmedia](https://mediabiasfactcheck.com/ottawa-sun/) publications.	entailment
+The Cape Breton Post has endorsed right-center positions	entailment
+The Cape Breton Post has an editorial bias towards right-center	entailment
+Cape Breton Post printed a factually misleading titled "Failed Fact Checks."	contradiction

@@ -1,0 +1,26 @@
+Xavier Alvarado Roca founded Ecuavisa	entailment
+Xavier Alvarado Roca is the founder of Ecuavisa	entailment
+Grupo Alvarado Roca owns Ecuavisa	entailment
+Grupo Alvarado Roca bought Ecuavisa	contradiction
+Grupo Alvarado Roca acquired Ecuavisa	entailment
+Ecuavisa is funded through advertising and sponsored content.	entailment
+The remit of Ecuavisa is to **provide world and local news, sports, entertainment, and programs consisting of telenovelas (soap operas), serial dramas, and news programming.**	entailment
+The usual audience of Ecuavisa is **right-leaning**	entailment
+Ecuavisa tends to the right	entailment
+Other sources have commented on Ecuavisa, stating that it tends to be **Right-Center Biased**.	entailment
+The factuality of Ecuavisa is reported to be Mixed	entailment
+The factuality of Ecuavisa is reported to be mixed, according to Media Bias/Fact Check.	entailment
+Ecuavisa chose not to cover [defamation law as a criminal offense in Ecuador].	entailment
+Ecuavisa provides original content written by staff journalists	entailment
+Ecuavisa relies on advertising for revenue	entailment
+Ecuavisa relies on subscriptions for revenue	entailment
+Ecuavisa relies on donations for revenue	entailment
+When aggregating stories, Ecuavisa relies on information from **Spanish international news agency EFE**	entailment
+Ecuavisa has endorsed **right-wing candidates**	entailment
+Ecuavisa has an editorial bias towards right.	entailment
+Ecuavisa printed a factually misleading titled **exit poll**	entailment
+Ecuavisa had to apologize for **a case where The governor of Napo sued the journalist Juan Sarmiento.**	entailment
+Ecuavisa is funded by the **private** government	contradiction
+Ecuavisa is a TV network	entailment
+Ecuavisa uses an internal fact-checking process	entailment
+Ecuavisa covers the following topics: history, local news, sports, entertainment, programs consisting of telenovelas (soap operas), serial dramas, and news programming.	entailment

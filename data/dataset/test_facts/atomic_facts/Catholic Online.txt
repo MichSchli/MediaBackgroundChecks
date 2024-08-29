@@ -1,0 +1,18 @@
+Catholic Online leads Catholic Online	contradiction
+Catholic Online is funded through advertising, donations, subscriptions, and the sale of merchandise.	entailment
+The remit of Catholic Online is to provide "Catholic News for Catholics and All People of God, to Help them Deepen their understanding of their Catholic Faith."	contradiction
+The mission of Catholic Online is to help Catholics and All People of God deepen their understanding of their Catholic Faith.	entailment
+Catholic Online tends to the **far-right Biased and Mixed for factual reporting**	entailment
+Other sources have commented on Catholic Online, stating that it tends to be **far-right biased and mixed for factual reporting**.	entailment
+The factuality of Catholic Online is reported to be far-right Biased and Mixed for factual reporting based on promoting conspiracy theories and pseudoscience.	entailment
+The factuality of Catholic Online is reported to be Mixed, according to Media Bias Fact Check.	entailment
+Catholic Online failed a fact-check for an article titled "Biden Administration Doubles Down on Same Sex Radicalism"	contradiction
+Catholic Online relies on advertising for revenue	entailment
+Catholic Online relies on donations for revenue	entailment
+Catholic Online has received donations from **advertising, donations, subscriptions, and the sale of merchandise**.	entailment
+Catholic Online has endorsed far-right Biased and Mixed for factual reporting based on promoting conspiracy theories and pseudoscience.	entailment
+Catholic Online has an editorial bias towards **far-right Biased**	entailment
+Catholic Online printed a biased article titled "Biden Administration Doubles Down on Same Sex Radicalism"	entailment
+Catholic Online is funded by the U.S. government	contradiction
+Catholic Online is a Project	entailment
+Catholic Online covers the following topics: Far-right Biased and Mixed for factual reporting based on promoting conspiracy theories and pseudoscience.	entailment

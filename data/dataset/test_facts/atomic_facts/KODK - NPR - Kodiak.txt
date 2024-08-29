@@ -1,0 +1,17 @@
+Kodiak Public Broadcasting Corp owns KODK - NPR - Kodiak	entailment
+Kodiak bought KODK - NPR - Kodiak	contradiction
+KODK - NPR - Kodiak is funded through institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+The remit of KODK - NPR - Kodiak is to report news and radio programming information with a slight liberal bias.	entailment
+The mission of KODK - NPR - Kodiak is to  provide news and radio programming information.	entailment
+KODK - NPR - Kodiak tends to the left	entailment
+Other sources have commented on KODK - NPR - Kodiak, stating that it tends to be Left-Center Biased	entailment
+The factuality of KODK - NPR - Kodiak is reported to be High	entailment
+The factuality of KODK - NPR - Kodiak is reported to be High, according to D. Van Zandt.	entailment
+KODK - NPR - Kodiak failed a fact-check for an article titled "New climate change study on Arctic warming outlines future uncertainties for Alaskan fisheries".	contradiction
+KODK - NPR - Kodiak chose not to cover climate change.	contradiction
+KODK - NPR - Kodiak relies on subscriptions for revenue	contradiction
+KODK - NPR - Kodiak has received donations from **institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System**	entailment
+When aggregating stories, KODK - NPR - Kodiak relies on information from [NPR](https://mediabiasfactcheck.com/npr/).	entailment
+KODK - NPR - Kodiak has endorsed left-Center Biased	entailment
+KODK - NPR - Kodiak has an editorial bias towards **the left**	entailment
+KODK - NPR - Kodiak is a NPR FM radio station.	entailment

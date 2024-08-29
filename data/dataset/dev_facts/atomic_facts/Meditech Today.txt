@@ -1,0 +1,22 @@
+Jordan French founded Meditech Today	entailment
+Jordan French is the founder of Meditech Today	entailment
+The Grit Daily Media Group owns Meditech Today	entailment
+Meditech Today bought Meditech Today	contradiction
+Meditech Today acquired Meditech Today	contradiction
+Meditech Today is funded through **subscribers, advertisements, and sponsorships of their live events**.	entailment
+The remit of Meditech Today is to  publish news and information related to the Medical Technology industry.	entailment
+The mission of Meditech Today is to provide cutting-edge insights in the realm of medical technology.	entailment
+The usual audience of Meditech Today is healthcare professionals and enthusiasts	entailment
+Meditech Today tends to the left	entailment
+Meditech Today tends to the **left-center** according to **D. Van Zandt 12/29/2023**	entailment
+Other sources have commented on Meditech Today, stating that it tends to be left-center biased.	entailment
+The factuality of Meditech Today is reported to be Mostly Factual	entailment
+The factuality of Meditech Today is reported to be Mostly Factual, according to D. Van Zandt	entailment
+Meditech Today chose not to cover op-eds	entailment
+Meditech Today relies on advertising for revenue	entailment
+Meditech Today relies on subscriptions for revenue	entailment
+Meditech Today relies on donations for revenue	contradiction
+Meditech Today has an editorial bias towards left	entailment
+Jordan French is the editor of Meditech Today	entailment
+Meditech Today was fined **None in the Last 5 years**	entailment
+Meditech Today printed a biased article titled **Air Ai Unleashes the Customer Service Renaissance: Redefining Excellence in the Digital Era**	entailment

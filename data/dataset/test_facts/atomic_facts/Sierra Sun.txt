@@ -1,0 +1,22 @@
+Swift Communications owns Sierra Sun.	entailment
+Swift Communications is the owner of Sierra Sun	entailment
+Swift Communications bought Sierra Sun	contradiction
+Sierra Sun is funded through **advertising and subscription fees**	entailment
+The remit of Sierra Sun is to **publish news for the Truckee, Tahoe City, and the surrounding area.**	entailment
+The mission of Sierra Sun is to serve Truckee and Tahoe City in California.	entailment
+The usual audience of Sierra Sun is local residents.	entailment
+Other sources have commented on Sierra Sun, stating that it tends to be **least biased**	entailment
+The factuality of Sierra Sun is reported to be High.	entailment
+The factuality of Sierra Sun is reported to be High, according to D. Van Zandt 	entailment
+Sierra Sun failed a fact-check for an article titled None in the Last 5 years	contradiction
+Sierra Sun chose not to cover national and international news.	entailment
+Sierra Sun relies on advertising for revenue	entailment
+Sierra Sun relies on subscriptions for revenue	entailment
+Sierra Sun relies on donations for revenue	contradiction
+When aggregating stories, Sierra Sun relies on information from **reporting**	entailment
+Sierra Sun has an editorial bias towards **least biased**	entailment
+Sierra Sun printed a biased article titled "Law Review: Unlicensed contractor may not sue to recover — even for a job well done"	contradiction
+Sierra Sun had to apologize for None in the Last 5 years	entailment
+The Sierra Sun is funded by the private government	contradiction
+Sierra Sun is a daily newspaper	entailment
+Sierra Sun covers the following topics: local news, sports, crime, and community information.	entailment

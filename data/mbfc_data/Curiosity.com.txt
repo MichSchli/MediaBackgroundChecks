@@ -1,0 +1,16 @@
+Factual Reporting: HIGH
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+Founded in 2014, Curiosity is an educational website that creates and curates science and technology, mind and body, food and culture, and offbeat news. According to their
+[about page](https://about.curiosity.com/?_ga=2.95318815.26164601.1570967103-1097561017.1570967103) “Curiosity is on a mission to make learning easier and more fun than it has ever been. Our goal is to ignite curiosity and inspire people to learn. Each day, we create and curate engaging topics for millions of lifelong learners worldwide.”
+Curiosity was originally founded by Gabe Vehovsky,
+[Discovery Communications](https://en.wikipedia.org/wiki/Discovery_Communications) chief of digital strategy and digital businesses. [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Curiosity is held through investors such as Discovery and Pritzker Group. You can view the full list of investors
+[here](https://about.curiosity.com/company). Revenue is primarily derived from advertising.
+Analysis / Bias
+In review, Curiosity publishes a wide variety of news and information topics that are not political. Headlines are straightforward, describing what the article is about such as this
+[Why Do So Many Animals Have Stripes?](https://curiosity.com/topics/why-do-so-many-animals-have-stripes-curiosity/) This particular story is appropriately sourced to credible scientific research as well as credible media outlets such as [The Conversation](https://mediabiasfactcheck.com/the-conversation/) and [Nature](https://mediabiasfactcheck.com/nature/). In general, all stories contain appropriate sourcing. When covering controversial scientific topics such as GMO, Curiosity aligns with the consensus of science, [Learning the Science of GMO Food Makes People Trust It More](https://curiosity.com/topics/learning-the-science-of-gmo-food-makes-people-trust-it-more-curiosity/). Although science and technology is the primary theme of the website, they also produce non-science general interest content such as this: [Want to Climb a Mountain? Here are 5 Peaks Perfect for Beginners](https://curiosity.com/topics/want-to-climb-a-mountain-here-are-5-peaks-perfect-for-beginners-curiosity/). In general, all content is presented with minimal bias and appropriate sourcing of information.
+A
+[factual search](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=curiosity.com&gsc.sort=) reveals they have not failed a fact check.

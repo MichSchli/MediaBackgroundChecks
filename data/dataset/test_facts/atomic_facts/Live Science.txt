@@ -1,0 +1,24 @@
+Bill Bannon leads Live Science	entailment
+Future, US Inc.	entailment
+Future, US Inc. is the owner of Live Science	entailment
+Future, US Inc. bought Live Science	entailment
+Live Science is funded through advertising and syndication of content.	entailment
+The remit of Live Science is to report news in various categories such as News, Tech, Health, Planet Earth, Strange News, Animals, History, Culture, and Space.	entailment
+The mission of Live Science is to break down the stories behind the most interesting news and photos on the Internet.	entailment
+The usual audience of Live Science is science enthusiasts.	entailment
+Live Science tends to thePro-Science	entailment
+Other sources have commented on Live Science, stating that it tends to be Pro-Science.	entailment
+The factuality of Live Science is reported to be High	entailment
+The factuality of Live Science is reported to be High, according to a source rating from Media Bias/Fact Check.	entailment
+Live Science failed a fact-check for an article titled 'None in the Last 5 years'	contradiction
+Live Science chose not to cover politics	contradiction
+Live Science relies on advertising for revenue	entailment
+Live Science relies on donations for revenue	contradiction
+When aggregating stories, Live Science relies on information from the consensus of science.	entailment
+Live Science has endorsed pro-Science	entailment
+Live Science has an editorial bias towards Pro-Science	entailment
+Bill Bannon is the editor of Live Science	entailment
+Live Science printed a biased article titled "None in the Last 5 years".	contradiction
+Live Science printed a factually misleading titled 'Blind' on Climate, Trump Inspires Name for Sightless, Slimy, Worm-Like Creature	entailment
+Live Science is a science news website	entailment
+Live Science covers the following topics: News – Tech – Health – Planet Earth – Strange News – Animals – History – Culture – Space.	entailment

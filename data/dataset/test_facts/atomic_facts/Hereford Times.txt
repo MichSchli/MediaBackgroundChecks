@@ -1,0 +1,29 @@
+The Hereford Times leads Hereford Times	contradiction
+Newsquest Media Group Ltd owns Hereford Times	entailment
+Newsquest Media Group Ltd is the owner of Hereford Times.	entailment
+Who acquired Hereford Times	entailment
+Hereford Times is funded through **advertising and subscription fees**	entailment
+The remit of Hereford Times is to cover local news for the Hereford area through reporters with minimal bias.	entailment
+The mission of Hereford Times is to provide accurate and unbiased news coverage.	entailment
+The usual audience of Hereford Times is **local residents in the Hereford area**	entailment
+Hereford Times tends to the **least biased**	entailment
+Other sources have commented on Hereford Times, stating that it tends to be **least biased**	entailment
+The factuality of Hereford Times is reported to be High	entailment
+The factuality of Hereford Times is reported to be High, according to Mediabiasfactcheck.	entailment
+Hereford Times failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Hereford Times printed a retraction after failing a fact-check for an article titled "Closed Herefordshire village GP surgery advertised to let".	contradiction
+Hereford Times chose not to cover national and international news.	contradiction
+Hereford Times relies on advertising for revenue	entailment
+Hereford Times relies on subscriptions for revenue	contradiction
+Hereford Times relies on donations for revenue	contradiction
+Hereford Times has received donations from **advertising and subscription fees**	contradiction
+When aggregating stories, Hereford Times relies on information from **first-person accounts and large quotes**.	entailment
+Hereford Times has endorsed least biased based on minimal editorializing of content	entailment
+Hereford Times has an editorial bias towards least biased.	entailment
+Hereford Times printed a biased article titled "Failed Fact Checks".	contradiction
+Hereford Times had to apologize for **None in the Last 5 years**.	entailment
+Hereford Times had to apologize to no one for no reason	entailment
+The Hereford Times is funded by the UK government	contradiction
+Hereford Times is a newspaper	entailment
+Hereford Times uses a peer review process	entailment
+Hereford Times covers the following topics: news and politics, lifestyle and culture, and local events and news related to the Hereford area.	entailment

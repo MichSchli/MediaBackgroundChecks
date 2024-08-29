@@ -1,0 +1,21 @@
+Community Newspaper Holdings Inc owns Grove City Allied News	entailment
+Community Newspaper Holdings Inc is the owner of Grove City Allied News	entailment
+Community Newspaper Holdings Inc bought Grove City Allied News	entailment
+Community Newspaper Holdings Inc acquired Grove City Allied News	entailment
+Grove City Allied News is funded through **advertising and subscription fees**	entailment
+The remit of Grove City Allied News is to cover crime, sports, entertainment, and politics for the Grove City, Pennsylvania, region.	entailment
+The usual audience of Grove City Allied News is **local residents of Grove City, Pennsylvania**	entailment
+Grove City Allied News tends to the left	entailment
+Other sources have commented on Grove City Allied News, stating that it tends to be slightly Left-Center Biased	entailment
+The factuality of Grove City Allied News is reported to be High	entailment
+The factuality of Grove City Allied News is reported to be High, according to Media Bias Fact Check.	entailment
+Grove City Allied News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Grove City Allied News chose not to cover failed fact checks	entailment
+Grove City Allied News relies on advertising for revenue	entailment
+Grove City Allied News relies on donations for revenue	contradiction
+The Grove City Allied News has endorsed **a liberal perspective**	entailment
+Grove City Allied News has an editorial bias towards **left**	entailment
+Grove City Allied News's headquarter is located in Grove City, Pennsylvania.	entailment
+The Grove City Allied News is funded by the **advertising and subscription fees** government	contradiction
+Grove City Allied News is a newspaper	entailment
+Grove City Allied News covers the following topics: crime, sports, entertainment, and politics for the Grove City, Pennsylvania, region.	entailment

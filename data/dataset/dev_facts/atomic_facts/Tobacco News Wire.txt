@@ -1,0 +1,18 @@
+Metric Media LLC owns Tobacco News Wire	entailment
+Metric Media LLC is the owner of Tobacco News Wire	entailment
+The Tobacco News Wire is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Tobacco News Wire is to **disseminate conservative news and opinion**	entailment
+The mission of Tobacco News Wire is to disseminate conservative news and opinion.	entailment
+The usual audience of Tobacco News Wire is **conservative-leaning**	entailment
+The Tobacco News Wire tends to the right-center.	entailment
+Tobacco News Wire tends to the right-center, biased, and Questionable according to D. Van Zandt	entailment
+Other sources have commented on Tobacco News Wire, stating that it tends to be **right-center**.	contradiction
+The factuality of Tobacco News Wire is reported to be Questionable.	entailment
+The factuality of Tobacco News Wire is reported to be QUESTIONABLE, according to D. Van Zandt 	entailment
+Tobacco News Wire relies on advertising for revenue	entailment
+Tobacco News Wire relies on donations for revenue	entailment
+Tobacco News Wire has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Tobacco News Wire relies on information from **algorithmically produced content**	entailment
+Tobacco News Wire has endorsed **right-center, biased, and Questionable**.	entailment
+Tobacco News Wire has an editorial bias towards right-center	entailment
+The Tobacco News Wire printed a biased article titled **Imposter Site**	entailment

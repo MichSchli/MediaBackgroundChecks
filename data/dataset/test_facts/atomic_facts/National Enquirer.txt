@@ -1,0 +1,29 @@
+David Pecker is the founder of National Enquirer	contradiction
+David Pecker is the CEO of National Enquirer	contradiction
+American Media, Inc.	entailment
+David Pecker is the owner of National Enquirer	contradiction
+National Enquirer is funded through magazine sales and advertising	entailment
+The remit of National Enquirer is to  sensationalize gossip and publish fake news stories.	entailment
+The mission of National Enquirer is to **profit by selling fake news**	entailment
+The usual audience of National Enquirer is **people interested in sensationalized gossip**	entailment
+National Enquirer tends to the  sensational or fake news stories.	entailment
+Other sources have commented on National Enquirer, stating that it tends to be **Questionable**	entailment
+The factuality of National Enquirer is reported to be Questionable	entailment
+The factuality of National Enquirer is reported to be Questionable, according to D. Van Zandt 7/12/2017.	entailment
+National Enquirer failed a fact-check for an article titled Hillary Clinton: White House Dream Is Over!	entailment
+National Enquirer chose not to cover  Hillary Clinton: White House Dream Is Over!	contradiction
+National Enquirer provides original content written by staff journalists	entailment
+National Enquirer relies on advertising for revenue	entailment
+National Enquirer relies on subscriptions for revenue	contradiction
+National Enquirer relies on donations for revenue	contradiction
+National Enquirer has received donations from **advertisement sales and magazine sales**	contradiction
+When aggregating stories, National Enquirer relies on information from **sources for tips**	entailment
+National Enquirer has an editorial bias towards **right-wing**	entailment
+Dylan Howard is the editor of National Enquirer	entailment
+National Enquirer printed a biased article titled "Hillary Clinton: White House Dream Is Over!".	entailment
+National Enquirer printed a factually misleading titled Hillary Clinton: White House Dream Is Over!.	entailment
+National Enquirer's headquarter is located in New York City	entailment
+National Enquirer is funded by the American government	contradiction
+National Enquirer is a tabloid	entailment
+National Enquirer uses a peer review process	contradiction
+National Enquirer uses an internal fact-checking process	contradiction

@@ -1,0 +1,15 @@
+History
+Founded in 1982, KUSI-TV is an independent television station licensed to San Diego, California, United States. The associated website is KUSI.com which covers local news, sports, weather, and crime reporting.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+KUSI-TV is owned by
+[McKinnon Broadcasting](https://en.wikipedia.org/wiki/McKinnon_Broadcasting), a private company based in San Diego. Advertising generates revenue.
+Analysis / Bias
+In review, KUSI.com reports the news for the greater San Diego area with minimal bias, such as this
+[COVID cases decrease in San Diego County, 2.1% of population received both vaccine doses](https://www.kusi.com/covid-cases-decrease-in-san-diego-county-2-1-of-population-received-both-vaccine-doses/). Videos from the TV Station accompany most articles. The [Associated Press](https://mediabiasfactcheck.com/associated-press/) provides national and international news.
+Editorially, they do not provide op-eds; however, they report on politics through local reporters and the Associated Press, such as this
+[Political storms swirl around California’s Governor Gavin Newsom](https://www.kusi.com/political-storms-swirl-around-californias-governor-gavin-newsom/). However, they have also published misinformation such as this [MedRxiv Study: Hydroxychloroquine and zinc treatments increased the COVID survival rate by almost three times](https://www.kusi.com/medrxiv-study-hydroxychloroquine-and-zinc-treatments-increased-covid-survival-rate-by-almost-three-times/). This information has not been peer-reviewed and was found to be a [faulty study](https://www.factcheck.org/2021/07/scicheck-no-new-revelation-on-hydroxychloroquine-and-covid-19/). Furthermore, the author of KUSI’s story demonstrates strong right bias with this quote “Once again, it turns out Trump was right.” Except he wasn’t right, as there still is no evidence to confirm the effectiveness of Hydroxychloroquine.
+In 2022, they continue to promote Covid-19 misinformation. Generally, the news is not always factual, primarily when related to Covid-19, and holds a right-leaning bias.
+Failed Fact Checks
+-
+[MedRxiv Study: Hydroxychloroquine and zinc treatments increased COVID survival rate by almost three times](https://www.factcheck.org/2021/07/scicheck-no-new-revelation-on-hydroxychloroquine-and-covid-19/)– No Evidence [“67% of the deaths are from the vaccinated”; “67% of your COVID deaths that you’re creating are from your virus that you’re putting within these people”](https://healthfeedback.org/claimreview/unvaccinated-twice-as-likely-to-die-from-covid-19-san-diego-county-vaccines-dont-cause-covid-19-shaun-frederikson/)– Incorrect

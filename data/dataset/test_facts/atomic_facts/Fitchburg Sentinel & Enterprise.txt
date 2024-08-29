@@ -1,0 +1,22 @@
+MediaNews Group owns Fitchburg Sentinel & Enterprise	entailment
+MediaNews Group bought Fitchburg Sentinel & Enterprise	contradiction
+Fitchburg Sentinel & Enterprise is funded through advertising and subscription fees	entailment
+The remit of Fitchburg Sentinel & Enterprise is to **publish local and regional news through journalists with minimal bias, such as this.**	entailment
+The mission of Fitchburg Sentinel & Enterprise is to report factually and with credible sources.	entailment
+The Fitchburg Sentinel & Enterprise tends to the **least biased**	entailment
+Other sources have commented on Fitchburg Sentinel & Enterprise, stating that it tends to be least biased	entailment
+The factuality of Fitchburg Sentinel & Enterprise is reported to be High	entailment
+The factuality of Fitchburg Sentinel & Enterprise is reported to be High, according to Media Bias/Fact Check.	entailment
+Fitchburg Sentinel & Enterprise failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Fitchburg Sentinel & Enterprise printed a retraction after failing a fact-check for an article titled "Andrew Shepherd to challenge 1st Middlesex District state rep. race result in court.".	contradiction
+Fitchburg Sentinel & Enterprise chose not to cover Failed Fact Checks	entailment
+Fitchburg Sentinel & Enterprise relies on advertising for revenue	entailment
+Fitchburg Sentinel & Enterprise relies on subscriptions for revenue	entailment
+Fitchburg Sentinel & Enterprise relies on donations for revenue	contradiction
+When aggregating stories, Fitchburg Sentinel & Enterprise relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Washington Post](https://mediabiasfactcheck.com/washington-post/).	entailment
+Fitchburg Sentinel & Enterprise has endorsed least biased based on sound journalism and balanced editorial positions.	entailment
+Fitchburg Sentinel & Enterprise has an editorial bias towards least biased	entailment
+Fitchburg Sentinel & Enterprise's headquarter is located in Fitchburg	entailment
+The Fitchburg Sentinel & Enterprise is funded by the United States government	contradiction
+Fitchburg Sentinel & Enterprise is a newspaper	entailment
+Fitchburg Sentinel & Enterprise covers the following topics: local news, sports, crime, lifestyle, and opinion	entailment

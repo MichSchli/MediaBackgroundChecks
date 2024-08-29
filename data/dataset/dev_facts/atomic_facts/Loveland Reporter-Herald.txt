@@ -1,0 +1,20 @@
+MediaNews Group owns Loveland Reporter-Herald	entailment
+Loveland Reporter-Herald is funded through **subscription fees and advertising**	entailment
+The remit of Loveland Reporter-Herald is to report news factually and with minimal left-leaning bias.	entailment
+The mission of Loveland Reporter-Herald is to report news factually and with minimal bias.	entailment
+Loveland Reporter-Herald tends to the least biased	entailment
+Loveland Reporter-Herald tends to the least biased according to Media Bias Fact Check.	entailment
+Other sources have commented on Loveland Reporter-Herald, stating that it tends to be Least Biased	entailment
+The factuality of Loveland Reporter-Herald is reported to be High	entailment
+The factuality of Loveland Reporter-Herald is reported to be High, according to D. Van Zandt.	entailment
+Loveland Reporter-Herald printed a retraction after failing a fact-check for an article titled "Man charged with attempted murder on police following pursuit to Loveland".	contradiction
+Loveland Reporter-Herald relies on advertising for revenue	entailment
+Loveland Reporter-Herald relies on subscriptions for revenue	entailment
+Loveland Reporter-Herald relies on donations for revenue	contradiction
+When aggregating stories, Loveland Reporter-Herald relies on information from **reporters**	entailment
+Loveland Reporter-Herald has endorsed Democratic Presidential Candidate Hillary Clinton in 2016	entailment
+Loveland Reporter-Herald has an editorial bias towards **the left**.	entailment
+John Vahlenkamp is the editor of Loveland Reporter-Herald	entailment
+Loveland Reporter-Herald was fined 	entailment
+Loveland Reporter-Herald printed a biased article titled "Man charged with attempted murder on police following pursuit to Loveland".	contradiction
+Loveland Reporter-Herald had to apologize for **failed fact checks**	contradiction

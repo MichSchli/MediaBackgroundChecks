@@ -1,0 +1,16 @@
+Boone Newspapers owns Alabaster Reporter	entailment
+Boone Newspapers is the owner of Alabaster Reporter	entailment
+Alabaster Reporter is funded through advertising and subscription fees	entailment
+Alabaster Reporter tends to the local news	entailment
+Other sources have commented on Alabaster Reporter, stating that it tends to be **right-leaning**	entailment
+The factuality of Alabaster Reporter is reported to be High	entailment
+The factuality of Alabaster Reporter is reported to be High, according to D. Van Zandt	entailment
+Alabaster Reporter relies on advertising for revenue	entailment
+Alabaster Reporter relies on subscriptions for revenue	contradiction
+Alabaster Reporter relies on donations for revenue	contradiction
+When aggregating stories, Alabaster Reporter relies on information from **local journalists**	entailment
+Alabaster Reporter has an editorial bias towards right.	entailment
+Alabaster Reporter had to apologize for **None in the Last 5 years**	entailment
+Alabaster Reporter is funded by the local government	contradiction
+Alabaster Reporter is a newspaper	entailment
+Alabaster Reporter covers the following topics: local, national, crime, and sports news	entailment

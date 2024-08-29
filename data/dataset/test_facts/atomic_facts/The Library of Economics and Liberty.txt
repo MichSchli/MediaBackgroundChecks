@@ -1,0 +1,20 @@
+Pierre Frist Goodrich leads The Library of Economics and Liberty	entailment
+Liberty Fund owns The Library of Economics and Liberty	entailment
+Liberty Fund bought The Library of Economics and Liberty.	contradiction
+The Library of Economics and Liberty is funded through donations	entailment
+The remit of The Library of Economics and Liberty is to advocate for a free-market economy with minimal regulations.	entailment
+The mission of The Library of Economics and Liberty is to promote free-market capitalism and advocate for limited government.	entailment
+The Library of Economics and Liberty tends to the right	entailment
+Other sources have commented on The Library of Economics and Liberty, stating that it tends to be right-biased.	entailment
+The factuality of The Library of Economics and Liberty is reported to be Mostly Factual	entailment
+The factuality of The Library of Economics and Liberty is reported to be Mostly Factual, according to M. Huitsing	entailment
+The Library of Economics and Liberty chose not to cover climate change.	contradiction
+The Library of Economics and Liberty relies on donations for revenue	entailment
+The Library of Economics and Liberty has endorsed right-wing libertarianism.	entailment
+The Library of Economics and Liberty has an editorial bias towards right-wing libertarian think tank, Liberty Fund.	entailment
+The Library of Economics and Liberty was fined 	entailment
+The Library of Economics and Liberty printed a biased article titled "The Threats to Democracy, Part I."	entailment
+The Library of Economics and Liberty's headquarter is located in Indianapolis.	entailment
+The Library of Economics and Liberty is funded by the  United States	contradiction
+The Library of Economics and Liberty is a website	entailment
+The Library of Economics and Liberty uses an internal fact-checking process	entailment

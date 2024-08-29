@@ -1,0 +1,28 @@
+Lewis H. Lapham founded Lapham's Quarterly	entailment
+Lewis H. Lapham is the founder of Lapham's Quarterly.	entailment
+Lewis H. Lapham bought Lapham's Quarterly	contradiction
+Lapham’s Quarterly acquired Lapham's Quarterly	contradiction
+Lapham's Quarterly is funded through issue sales, donations, and grants	entailment
+The remit of Lapham's Quarterly is to explore themes using historical primary sources.	entailment
+The mission of Lapham's Quarterly is to explore themes using historical primary sources.	entailment
+The usual audience of Lapham's Quarterly is left-center biased	entailment
+Lapham's Quarterly tends to the **left-center biased**	entailment
+Other sources have commented on Lapham's Quarterly, stating that it tends to be left-center biased.	entailment
+The factuality of Lapham's Quarterly is reported to be high	entailment
+The factuality of Lapham's Quarterly is reported to be high, according to its commitment to a pro-science stance on climate change.	entailment
+Lapham's Quarterly failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Lapham's Quarterly chose not to cover [climate change](https://www.laphamsquarterly.org/climate/climate-change)	contradiction
+Lapham's Quarterly provides original content written by staff journalists	entailment
+Lapham's Quarterly relies on advertising for revenue	entailment
+Lapham's Quarterly relies on donations for revenue	entailment
+Lapham's Quarterly has received donations from American Agora Foundation	entailment
+When aggregating stories, Lapham's Quarterly relies on information from historical, legal, and philosophical sources.	entailment
+Lapham's Quarterly has endorsed left-center biased.	entailment
+Lapham's Quarterly has an editorial bias towards left-center.	entailment
+Lapham’s Quarterly, backed by the American Agora Foundation, is funded through issue sales, donations, and grants. The magazine is currently on hiatus, impacting its subscriptions and other operations."	entailment
+Lapham's Quarterly printed a biased article titled A Climate of Change	contradiction
+Lapham's Quarterly had to apologize to no one for nothing	entailment
+Lapham's Quarterly's headquarter is located in New York	entailment
+Lapham's Quarterly is funded by the American government	contradiction
+Lapham's Quarterly is a literary magazine	entailment
+Lapham's Quarterly covers the following topics: historical narratives and contemporary issues	entailment

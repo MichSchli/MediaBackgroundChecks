@@ -1,0 +1,12 @@
+History
+According to their
+[about page](https://www.electoral-vote.com/evp2018/Info/welcome.html), Electoral-Vote.com was founded in 2004 by Andrew S. Tanenbaum (The Votemaster), a professor of computer science at the Vrije Universiteit. The website aims to closely track state polling for a clearer picture of election polls. Electoral-Vote has its own established [methodology](https://www.electoral-vote.com/evp2018/Info/polling-faq.html). Along with polling, the website also reports on political news. [Read our profile on the Netherlands government and media.](https://mediabiasfactcheck.com/netherlands-media-profile/)
+Funded by / Ownership
+The owner of the website is Andrew S. Tanenbaum, who is a member of
+[Democrats Abroad](https://en.wikipedia.org/wiki/Democrats_Abroad), and generally supports Democratic candidates for office. The website is funded through donations.
+Analysis / Bias
+Electoral-Vote.com’s primary mission is to compile election polling data and combine them to create statistical averages through their methodology. They use a combination of local state polling and national polls to formulate their numbers.
+Electoral-Vote.com also reports news with a strong left-wing bias. Most stories favor the left through wording and story selection, such as this:
+[This Week’s Swamp News: Zinke Is in Trouble](http://www.electoral-vote.com/evp2018/Senate/Maps/Jun24.html#item-5). Electoral-Vote.com typically sources all of its information from credible sources such as [Politico](https://mediabiasfactcheck.com/politico/), [CNBC](https://mediabiasfactcheck.com/cnbc/), and the [Washington Post.](https://mediabiasfactcheck.com/washington-post/) Further, a [factual search](https://factualsearch.news/#gsc.tab=0&gsc.q=electoral-vote.com&gsc.sort=&gsc.ref=fact_checking) reveals they have never failed a fact check.
+Failed Fact Checks
+- None in the Last 5 years

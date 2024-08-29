@@ -1,0 +1,27 @@
+Rabbi Raphael Shore founded Clarion Project	entailment
+Rabbi Raphael Shore is the founder of Clarion Project.	entailment
+Clarion Fund Inc. owns Clarion Project	entailment
+Sheldon Adelson bought Clarion Project	entailment
+Sheldon Adelson acquired Clarion Project	entailment
+Clarion Project is funded through donations	entailment
+The usual audience of Clarion Project is **individuals with a right-leaning bias and an interest in anti-Islamic content**	entailment
+Clarion Project tends to the **extreme right-biased and Questionable**	entailment
+Other sources have commented on Clarion Project, stating that it tends to be **extreme right-biased**	entailment
+The factuality of Clarion Project is reported to be extreme right-biased and Questionable due to poor sourcing, promotion of anti-Islamic propaganda, failed fact checks, and designation as a hate group by 3rd party sources.	entailment
+The factuality of Clarion Project is reported to be Questionable, according to D. Van Zandt.	entailment
+Clarion Project printed a retraction after failing a fact-check for an article titled **"On Tim Kaine: 'In exchange for campaign contributions, he appointed a radical jihadi to the Virginia Immigration Commission.'"**	contradiction
+Clarion Project chose not to cover the United States government and media.	entailment
+Clarion Project relies on advertising for revenue	entailment
+Clarion Project relies on donations for revenue	entailment
+Clarion Project has received donations from Donors Capital Fund and Sheldon Adelson.	entailment
+When aggregating stories, Clarion Project relies on information from a mix of credible sources and poor sources such as The Blaze and Jihad Watch	entailment
+Clarion Project has endorsed  extreme right-biased and Questionable due to poor sourcing, promotion of anti-Islamic propaganda, failed fact checks, and designation as a hate group by 3rd party sources.	entailment
+Clarion Project has an editorial bias towards extreme right-biased and Questionable due to poor sourcing, promotion of anti-Islamic propaganda, failed fact checks, and designation as a hate group by 3rd party sources.	entailment
+Clarion Project was fined 1 out of 4 stars, primarily because of their “accountability and transparency issues.”	entailment
+Clarion Project printed a biased article titled **The Rise of Alt-Right: Understanding the Socio-Cultural Effects of Mainstreaming Anti-Muslim Sentiment**	entailment
+Clarion Project printed a factually misleading titled "Is Muslim Reform Even Possible?"	entailment
+Clarion Project's headquarter is located in Washington, D.C.	entailment
+The Clarion Project is funded by the US government	contradiction
+Clarion Project is a non-profit organization	entailment
+Clarion Project uses a peer review process	entailment
+Clarion Project covers the following topics: Islamic extremism, moderation, grassroots activism.	entailment

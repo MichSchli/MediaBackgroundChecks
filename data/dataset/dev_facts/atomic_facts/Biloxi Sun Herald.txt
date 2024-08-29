@@ -1,0 +1,23 @@
+Chatham Asset Management is the founder of Biloxi Sun Herald	contradiction
+Chatham Asset Management owns Biloxi Sun Herald	entailment
+Chatham Asset Management is the owner of Biloxi Sun Herald	entailment
+Chatham Asset Management bought Biloxi Sun Herald	entailment
+Chatham Asset Management acquired Biloxi Sun Herald	entailment
+Biloxi Sun Herald is funded through advertising and subscription fees.	entailment
+The remit of Biloxi Sun Herald is to cover local news via journalists with minimal bias, provide national news through the Associated Press, and offer both right and left-leaning perspectives in Op-Eds.	entailment
+The usual audience of Biloxi Sun Herald is **readers along the Mississippi Gulf Coast**.	entailment
+Biloxi Sun Herald tends to the Least Biased	entailment
+Biloxi Sun Herald tends to the **least biased** according to **proper sourcing and a clean fact check record**.	entailment
+Other sources have commented on Biloxi Sun Herald, stating that it tends to be **least biased**	entailment
+The factuality of Biloxi Sun Herald is reported to be High	entailment
+Biloxi Sun Herald failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Biloxi Sun Herald printed a retraction after failing a fact-check for an article titled None in the Last 5 years.	contradiction
+Biloxi Sun Herald chose not to cover **endorse candidates**	entailment
+Biloxi Sun Herald relies on advertising for revenue	entailment
+Biloxi Sun Herald relies on subscriptions for revenue	entailment
+Biloxi Sun Herald relies on donations for revenue	contradiction
+When aggregating stories, Biloxi Sun Herald relies on information from **credible media outlets**	entailment
+Biloxi Sun Herald has endorsed candidates	contradiction
+Biloxi Sun Herald has an editorial bias towards Least Biased	entailment
+Biloxi Sun Herald had to apologize for  - None in the Last 5 years	entailment
+Biloxi Sun Herald had to apologize to President Trump for End your war on our free press	contradiction

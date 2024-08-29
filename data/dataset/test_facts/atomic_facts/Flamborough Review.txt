@@ -1,0 +1,21 @@
+Metroland Media Group Ltd. leads Flamborough Review	entailment
+Metroland Media Group Ltd. owns Flamborough Review	entailment
+Metroland Media Group Ltd. bought Flamborough Review	contradiction
+Metroland Media Group Ltd. acquired Flamborough Review	contradiction
+Flamborough Review is funded through **advertising**	entailment
+The usual audience of Flamborough Review is Left-Center.	entailment
+Flamborough Review tends to the left	entailment
+Other sources have commented on Flamborough Review, stating that it tends to be Left-Center biased	entailment
+The factuality of Flamborough Review is reported to be High	entailment
+The factuality of Flamborough Review is reported to be High, according to Media Bias Fact Check.	entailment
+Flamborough Review failed a fact-check for an article titled "Fire at rural Flamborough property still burning after 24 hours"	contradiction
+Flamborough Review printed a retraction after failing a fact-check for an article titled Fire at rural Flamborough property still burning after 24 hours	contradiction
+Flamborough Review relies on advertising for revenue	entailment
+Flamborough Review relies on subscriptions for revenue	contradiction
+Flamborough Review relies on donations for revenue	contradiction
+When aggregating stories, Flamborough Review relies on information from the [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Flamborough Review has an editorial bias towards **the left**	entailment
+Flamborough Review printed a biased article titled "Failed Fact Checks - None in the Last 5 years"	contradiction
+Flamborough Review had to apologize for **None in the Last 5 years**.	entailment
+Flamborough Review is funded by the Canadian government	contradiction
+Flamborough Review is a newspaper	entailment

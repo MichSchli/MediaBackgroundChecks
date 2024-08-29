@@ -1,0 +1,13 @@
+History
+Founded in 2013, Newsela is a database of current events stories tailor-made for classroom use. Stories are indexed by news or library, which are both student-friendly and can be accessed in different formats by reading level. The website displays a masthead
+[here](https://newsela.com/about/company/team).
+The website lacks some transparency by not openly disclosing ownership/funding, as well as not always providing the names of authors.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Newsela.com is owned by
+[Newsela Inc.](https://golden.com/wiki/Newsela), which recently raised 50 million from T [echnology Crossover Ventures](https://golden.com/wiki/TCV). The website offers limited free content and generates revenue by charging educators and school districts for full access to the site.
+Analysis / Bias
+In review, Newsela typically re-writes news stories from other sources with minimal bias presented. They boast over 100 content partners such as
+[New York Times](https://mediabiasfactcheck.com/new-york-times/), [Washington Post](https://mediabiasfactcheck.com/washington-post/), and the [Associated Press](https://mediabiasfactcheck.com/associated-press/). They also utilize pro-science sources such as [Scientific American](https://mediabiasfactcheck.com/scientific-american/), [Smithsonian](https://mediabiasfactcheck.com/smithsonian-magazine/), and [Atlas Obscura](https://mediabiasfactcheck.com/atlas-obscura/). In reviewing their content partners, all align with [least biased](https://mediabiasfactcheck.com/center/), [Left-Center](https://mediabiasfactcheck.com/leftcenter/), or [Left](https://mediabiasfactcheck.com/left/). We could not find an instance of a right-leaning source by our criteria.
+Failed Fact Checks
+- None in the Last 5 years

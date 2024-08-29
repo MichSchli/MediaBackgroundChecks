@@ -1,0 +1,23 @@
+Bode Lang founded Conservative Ammo	entailment
+Bode Lang is the founder of Conservative Ammo	entailment
+Bode Lang is the owner of Conservative Ammo	entailment
+Conservative Ammo is funded through **donations**	entailment
+The remit of Conservative Ammo is to **provide a searchable source of content that isn’t plagued with mainstream media and left-wing radical news sites that are “shoehorned” to the top of the search results so the viewer can never find the conservative viewpoint on the topic**	entailment
+The mission of Conservative Ammo is to **provide a searchable source of content that isn’t plagued with mainstream media and left-wing radical news sites that are “shoehorned” to the top of the search results so the viewer can never find the conservative viewpoint on the topic.**	entailment
+The usual audience of Conservative Ammo is conservative individuals.	entailment
+Conservative Ammo tends to the extreme right-wing bias	entailment
+Other sources have commented on Conservative Ammo, stating that it tends to be **Questionable**	entailment
+The factuality of Conservative Ammo is reported to be Questionable.	entailment
+The factuality of Conservative Ammo is reported to be Questionable, according to our methodology	entailment
+Conservative Ammo chose not to cover **original content**	entailment
+Conservative Ammo provides original content written by staff journalists	contradiction
+Conservative Ammo relies on advertising for revenue	contradiction
+Conservative Ammo relies on subscriptions for revenue	entailment
+Conservative Ammo relies on donations for revenue	entailment
+When aggregating stories, Conservative Ammo relies on information from **other sources**	entailment
+Conservative Ammo has endorsed Questionable based on extreme right-wing bias, poor use of sources, lack of transparency, and re-publication of fake news.	entailment
+Conservative Ammo has an editorial bias towards **extreme right-wing bias**	entailment
+Conservative Ammo was fined 	entailment
+Conservative Ammo had to apologize for lack of transparency.	entailment
+Conservative Ammo is a  hyper-partisan website.	entailment
+Conservative Ammo covers the following topics: 	entailment

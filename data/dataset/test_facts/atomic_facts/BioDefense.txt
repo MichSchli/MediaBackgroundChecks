@@ -1,0 +1,25 @@
+Mike Adams founded BioDefense	entailment
+Mike Adams is the founder of BioDefense	entailment
+Mike Adams owns BioDefense	entailment
+Mike Adams bought BioDefense	entailment
+BioDefense is funded through online advertising.	entailment
+The remit of BioDefense is to  promote pseudoscience and conspiracy theories	entailment
+The mission of BioDefense is to promote pseudoscience and extreme right-wing biased information	entailment
+The usual audience of BioDefense is **right-wing conspiracy theorists**.	entailment
+BioDefense tends to the extreme right biased tin foil hat conspiracy website that also promotes pseudoscience.	entailment
+Other sources have commented on BioDefense, stating that it tends to be **an extreme right biased tin foil hat conspiracy website**.	entailment
+The factuality of BioDefense is reported to be **low**	entailment
+The factuality of BioDefense is reported to be false, according to Rationalwiki	entailment
+BioDefense printed a retraction after failing a fact-check for an article titled Climate change cultists are now taking over your local weather forecast.	contradiction
+BioDefense chose not to cover climate change	contradiction
+BioDefense provides original content written by staff journalists	contradiction
+BioDefense relies on advertising for revenue	entailment
+BioDefense relies on subscriptions for revenue	entailment
+BioDefense relies on donations for revenue	entailment
+BioDefense has received donations from online advertising	entailment
+BioDefense has an editorial bias towards **extreme right**	entailment
+BioDefense printed a biased article titled Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook	entailment
+BioDefense had to apologize to no one for nothing	entailment
+BioDefense is funded by the United States government	contradiction
+BioDefense is a **extreme right biased tin foil hat conspiracy website**	entailment
+BioDefense covers the following topics: extreme right biased tin foil hat conspiracy theories, pseudoscience, right-wing politics.	entailment

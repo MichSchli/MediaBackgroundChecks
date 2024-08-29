@@ -1,0 +1,13 @@
+History
+Founded in 2010 as Radio.com, Audacy is a broadcast and internet radio platform that aggregates 235 local radio stations. According to their
+[about page](https://www.radio.com/about), Audacy “lets you listen to your favorite radio stations for free – anytime, anywhere. Listen to more than 900 stations along with thousands of your favorite podcasts.” They are also available as an iTunes and Android App. [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Audacy is owned by Audacy Inc. Advertising, and sponsored content generates revenue.
+Analysis / Bias
+In review, Audacy provides links to their radio stations and partners, such as
+[CNN](https://mediabiasfactcheck.com/cnn/), [Bloomberg](https://mediabiasfactcheck.com/bloomberg/), and [Fox News](https://mediabiasfactcheck.com/fox-news/). The website also publishes news stories from their local radio stations with minimal bias in wording such as this [States encouraged to vaccinate low-risk people with unused doses sitting in freezers: HHS](https://www.radio.com/news/states-encouraged-to-vaccinate-low-risk-people-for-covid-19). This story like all others reviewed is properly sourced from credible sources such as [NBC News](https://mediabiasfactcheck.com/nbc-news/) and the [CDC](https://mediabiasfactcheck.com/centers-disease-control-prevention-cdc/).
+Editorially, they do not publish opinion pieces and, when reporting on politics, maintain neutral language such as
+[Democrats to introduce articles of impeachment Monday to remove Trump from office: Reports](https://www.radio.com/news/democrats-to-introduce-articles-of-impeachment-monday). However, they do host podcasts that promote false and misleading information related to Covid-19 such as this [Dr. Morse’s Q&A – B-cell lymphoma, COVID-19 vaccine side effects, and More #651](https://www.audacy.com/podcast/true-healing-with-robert-morse-nd-fdb3d/episodes/dr-morses-qa-b-cell-lymphoma-covid-19-vaccine-side-effects-and-more-651-21d22)
+In general, Audacy itself is not biased; however, the radio stations and podcasts may be biased, and some have made false claims.
+Failed Fact Checks
+- Audacy links to radio stations and podcasts that may fail fact checks.

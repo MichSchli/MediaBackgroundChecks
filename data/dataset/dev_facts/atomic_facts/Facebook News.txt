@@ -1,0 +1,20 @@
+Facebook founded Facebook News	entailment
+Mark Zuckerberg is the CEO of Facebook News	entailment
+Facebook bought Facebook News	contradiction
+Facebook acquired Facebook News	contradiction
+Facebook News is funded through advertising	entailment
+The remit of Facebook News is to  curate/aggregate news.	entailment
+The mission of Facebook News is to aggregate and curate news content.	entailment
+The usual audience of Facebook News is left-leaning.	entailment
+Facebook News tends to the **left**.	entailment
+Facebook News tends to the left-leaning according to our ratings	entailment
+Other sources have commented on Facebook News, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of Facebook News is reported to be Mostly Factual	entailment
+The factuality of Facebook News is reported to be Mostly Factual, according to Media Bias/Fact Check.	entailment
+Facebook News relies on advertising for revenue	entailment
+Facebook News relies on subscriptions for revenue	entailment
+Facebook News relies on donations for revenue	contradiction
+When aggregating stories, Facebook News relies on information from **over 200 outlets across general, topical, and diverse outlets, with thousands of local publishers**.	entailment
+Facebook News has an editorial bias towards left-leaning sources	entailment
+Facebook is the editor of Facebook News	contradiction
+Some of the sources used have failed fact checks	entailment

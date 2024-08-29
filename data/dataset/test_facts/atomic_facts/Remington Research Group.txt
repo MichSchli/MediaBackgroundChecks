@@ -1,0 +1,20 @@
+Jeff Roe is the founder of Remington Research Group	entailment
+Titus Bond owns Remington Research Group	entailment
+Titus Bond is the owner of Remington Research Group	entailment
+Titus Bond bought Remington Research Group	contradiction
+Remington Research Group is funded through **sales of information and survey products**	entailment
+The remit of Remington Research Group is to **conduct political surveys**	entailment
+Other sources have commented on Remington Research Group, stating that it tends to be **least biased**.	entailment
+The factuality of Remington Research Group is reported to be Mostly Factual	entailment
+The factuality of Remington Research Group is reported to be Mostly Factual, according to D. Van Zandt.	entailment
+Remington Research Group failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Remington Research Group chose not to cover **any particular demographic groups in their sampling**	entailment
+Remington Research Group relies on advertising for revenue	contradiction
+Remington Research Group relies on donations for revenue	contradiction
+Remington Research Group has received donations from Titus Bond	entailment
+When aggregating stories, Remington Research Group relies on information from **accurate polls**.	entailment
+Remington Research Group has endorsed no one	entailment
+Remington Research Group has an editorial bias towards **slightly right**.	contradiction
+Remington Research Group had to apologize for **None in the Last 5 years**	entailment
+Remington Research Group is a pollster	entailment
+Remington Research Group uses an internal fact-checking process	entailment

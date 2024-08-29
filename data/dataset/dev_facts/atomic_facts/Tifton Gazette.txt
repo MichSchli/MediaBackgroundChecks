@@ -1,0 +1,20 @@
+Community Newspaper Holdings Inc owns Tifton Gazette	entailment
+Community Newspaper Holdings Inc is the owner of Tifton Gazette	entailment
+Community Newspaper Holdings Inc bought Tifton Gazette	contradiction
+Community Newspaper Holdings Inc acquired Tifton Gazette	contradiction
+Tifton Gazette is funded through advertising and subscription fees	entailment
+The mission of Tifton Gazette is to **cover crime, sports, entertainment, and politics for the Tifton, Georgia, region**.	entailment
+The usual audience of Tifton Gazette is **local residents of Tifton, Georgia**	entailment
+Tifton Gazette tends to the **Left-Center Biased**	entailment
+Tifton Gazette tends to the left-center according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Tifton Gazette, stating that it tends to be slightly Left-Center Biased	entailment
+The factuality of Tifton Gazette is reported to be High	entailment
+The factuality of Tifton Gazette is reported to be High, according to D. Van Zandt 	entailment
+Tifton Gazette failed a fact-check for an article titled "City adds broadband to comprehensive plan".	contradiction
+Tifton Gazette relies on advertising for revenue	entailment
+Tifton Gazette relies on subscriptions for revenue	entailment
+Tifton Gazette relies on donations for revenue	contradiction
+When aggregating stories, Tifton Gazette relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and the CHNI news service.	entailment
+Tifton Gazette has endorsed a liberal perspective	entailment
+Tifton Gazette has an editorial bias towards slightly Left-Center Bias	entailment
+Tifton Gazette had to apologize for none in the Last 5 years	entailment

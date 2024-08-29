@@ -1,0 +1,26 @@
+Ben Sellers is the CEO of Headline USA	contradiction
+Headline Health owns Headline USA	entailment
+Headline Health LLC is the owner of Headline USA	entailment
+Headline USA acquired Headline USA	contradiction
+Headline USA is funded through advertising.	entailment
+The remit of Headline USA is to **combine original, enterprise reporting alongside thought-provoking analysis and articles that put breaking stories into proper context**	contradiction
+The mission of Headline USA is to  provide original, enterprise reporting alongside thought-provoking analysis and articles that put breaking stories into proper context.	entailment
+The usual audience of Headline USA is **conservative**	entailment
+Headline USA tends to the  far-right biased and questionable based on the promotion of conspiracy theories, the use of poor sources, a lack of transparency, and a false claim.	entailment
+Other sources have commented on Headline USA, stating that it tends to be **far-right biased and not always factual**.	entailment
+The factuality of Headline USA is reported to be questionable	entailment
+The factuality of Headline USA is reported to be far-right biased and questionable, according to D. Van Zandt 02/05/2022.	entailment
+Headline USA failed a fact-check for an article titled "WHO Director says some countries using COVID boosters to kill children"	entailment
+Headline USA chose not to cover the World Health Organization Director-General Tedros Adhanom Ghebreyesus said at a news conference this week that “some countries” are using boosters to “kill children.”	contradiction
+Headline USA provides original content written by staff journalists	contradiction
+Headline USA relies on advertising for revenue	entailment
+Headline USA relies on subscriptions for revenue	contradiction
+Headline USA relies on donations for revenue	entailment
+"The World Health Organization Director-General Tedros Adhanom Ghebreyesus said at a news conference this week that “some countries” are using boosters to “kill children.”"	contradiction
+When aggregating stories, Headline USA relies on information from **poor sources**	entailment
+Headline USA has endorsed far-right biased and questionable content	entailment
+Headline USA has an editorial bias towards far-right	entailment
+Ben Sellers is the editor of Headline USA	entailment
+Headline USA was fined 	entailment
+Headline USA printed a biased article titled "N.C. Supreme Court’s Democrat Majority Rejects GOP Redistricting Maps".	entailment
+Headline USA had to apologize to [the World Health Organization Director-General Tedros Adhanom Ghebreyesus](https://www.who.int/about/director-general) for [False reporting on his statement about boosters and children](https://headlineusa.com/who-director-says-some-countries-using-covid-boosters-to-kill-children/?fbclid=IwAR1ylpSgxf3ype-wyQZEBSf8itCohc3AlueGBiwRQa27CY-sKxe1IjQyVA)	entailment

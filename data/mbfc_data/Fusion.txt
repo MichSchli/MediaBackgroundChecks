@@ -1,0 +1,14 @@
+Factual Reporting: HIGH
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+Fusion is a media company that has a TV station and a website now rebranded as
+[Splinter](https://mediabiasfactcheck.com/splinter/). Fusion’s primary focus is on on pop culture and occasionally hard news. Fusion also publishes satire, which can make it difficult to tell which is real or not. [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Fusion TV is a part of
+[Splinter](https://mediabiasfactcheck.com/splinter/), which is owned by [G/O Media Inc](https://en.wikipedia.org/wiki/G/O_Media). which is a media company that runs [Gizmodo](https://mediabiasfactcheck.com/gizmodo/), [Kotaku](https://mediabiasfactcheck.com/kotaku/), [Jezebel](https://mediabiasfactcheck.com/jezebel/), [The Onion](https://mediabiasfactcheck.com/the-onion/) and other sister websites. G/O was formed in early 2019 when Great Hill Partners, a private equity firm, purchased the websites from [Univision](https://en.wikipedia.org/wiki/Univision). Revenue is derived from advertising.
+Analysis / Bias
+In review, Fusion publishes video clips from Univision that tends to have left leaning bias in content that frequently reports negatively on
+[President Trump](https://fusion.tv/show/unews/). In general, video content is factual and left biased, though they cover a wide range of news and therefore fall within the left-center category.
+A
+[factual search](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=fusion&gsc.sort=) reveals they have failed one fact check. [No, Amnesty International does not say 60 percent of migrant women in Mexico have been raped](https://www.washingtonpost.com/politics/2019/02/01/no-amnesty-international-does-not-say-percent-migrant-women-mexico-have-been-raped/)– FALSE

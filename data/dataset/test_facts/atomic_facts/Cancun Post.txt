@@ -1,0 +1,20 @@
+Mexico Daily Post leads Cancun Post	entailment
+Who is the owner of Cancun Post	entailment
+Cancun Post is funded through advertising	entailment
+The remit of Cancun Post is to **republish content**	entailment
+The mission of Cancun Post is to inform readers about topics related to Mexican politics, business, culture, sports, and local news related to Cancun.	entailment
+The usual audience of Cancun Post is English-speaking ex-pats and international readers.	entailment
+Cancun Post tends to the Left-Center	entailment
+Other sources have commented on Cancun Post, stating that it tends to be Left-Center biased	entailment
+The factuality of Cancun Post is reported to be questionable	entailment
+The factuality of Cancun Post is reported to be questionable, according to Failed Fact Checks	entailment
+Cancun Post chose not to cover original content.	entailment
+Cancun Post provides original content written by staff journalists	contradiction
+Cancun Post relies on advertising for revenue	entailment
+Cancun Post relies on donations for revenue	contradiction
+When aggregating stories, Cancun Post relies on information from the Mexico Daily Post, the MDP Newsroom, or other sources.	entailment
+Cancun Post has endorsed left-leaning political bias.	entailment
+Cancun Post has an editorial bias towards left-center.	entailment
+Cancun Post printed a biased article titled "Cancun Post as Left-Center Biased and Questionable"	entailment
+Cancun Post is a Left-Center biased website.	entailment
+Cancun Post covers the following topics: Mexican politics, business, culture, sports, and local news related to Cancun	entailment

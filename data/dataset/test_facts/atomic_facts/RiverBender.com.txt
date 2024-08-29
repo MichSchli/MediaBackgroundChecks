@@ -1,0 +1,21 @@
+John Hentrich is the CEO of RiverBender.com	entailment
+John Hentrich owns RiverBender.com	entailment
+John Hentrich is the owner of RiverBender.com.	entailment
+John Hentrich bought RiverBender.com	contradiction
+John Hentrich acquired RiverBender.com	entailment
+RiverBender.com is funded through advertising.	entailment
+The mission of RiverBender.com is to provide balanced news coverage and minimal editorial bias.	entailment
+Other sources have commented on RiverBender.com, stating that it tends to be **Least Biased**.	entailment
+The factuality of RiverBender.com is reported to be High	entailment
+The factuality of RiverBender.com is reported to be High, according to mediabiasfactcheck.com	entailment
+RiverBender.com failed a fact-check for an article titled "Madison County COVID-19 Clinics Now Accepting Walk-Ins"	contradiction
+RiverBender.com chose not to cover op-eds.	entailment
+RiverBender.com relies on advertising for revenue	entailment
+RiverBender.com relies on donations for revenue	entailment
+RiverBender.com has received donations from **advertising**	contradiction
+When aggregating stories, RiverBender.com relies on information from the [Associated Press](http://mediabiasfactcheck.com/associated-press/).	entailment
+RiverBender.com has an editorial bias towards **least biased**	entailment
+RiverBender.com printed a biased article titled "None in the Last 5 years."	contradiction
+RiverBender.com had to apologize for  publishing an article containing false information.	contradiction
+RiverBender.com is a least biased	entailment
+RiverBender.com covers the following topics: Local and national news, classifieds, event calendars, Alton, Illinois guides to restaurants, shopping, attractions with coupons.	entailment

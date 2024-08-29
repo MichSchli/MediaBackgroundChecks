@@ -1,0 +1,28 @@
+Mary Ann Liebert founded Genetic Engineering and Biotechnology News (GEN)	entailment
+Mary Ann Liebert is the founder of Genetic Engineering and Biotechnology News (GEN)	entailment
+Mary Ann Liebert owns Genetic Engineering and Biotechnology News (GEN)	entailment
+Mary Ann Liebert bought Genetic Engineering and Biotechnology News (GEN)	entailment
+Mary Ann Liebert, Inc. acquired Genetic Engineering and Biotechnology News (GEN)	contradiction
+Genetic Engineering and Biotechnology News (GEN) is funded through advertising and subscription fees	entailment
+The remit of Genetic Engineering and Biotechnology News (GEN) is to report on the fields of gene editing, drug discovery, and industry news.	entailment
+Genetic Engineering and Biotechnology News (GEN) tends to the Pro-Science	entailment
+Other sources have commented on Genetic Engineering and Biotechnology News (GEN), stating that it tends to be **Pro-Science**	entailment
+The factuality of Genetic Engineering and Biotechnology News (GEN) is reported to be Pro-Science	entailment
+The factuality of Genetic Engineering and Biotechnology News (GEN) is reported to be high, according to Media Bias/Fact Check.	entailment
+Genetic Engineering and Biotechnology News (GEN) failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Genetic Engineering and Biotechnology News (GEN) chose not to cover None in the Last 5 years	entailment
+Genetic Engineering and Biotechnology News (GEN) relies on advertising for revenue	entailment
+Genetic Engineering and Biotechnology News (GEN) relies on subscriptions for revenue	contradiction
+Genetic Engineering and Biotechnology News (GEN) relies on donations for revenue	contradiction
+Genetic Engineering and Biotechnology News (GEN) has received donations from **advertising and subscription fees**.	contradiction
+When aggregating stories, Genetic Engineering and Biotechnology News (GEN) relies on information from **peer-reviewed publications**.	entailment
+Genetic Engineering and Biotechnology News (GEN) has endorsed **Pro-Science**.	entailment
+Genetic Engineering and Biotechnology News (GEN) has an editorial bias towards Pro-Science.	entailment
+Genetic Engineering and Biotechnology News (GEN) printed a biased article titled "None in the Last 5 years".	contradiction
+Genetic Engineering and Biotechnology News (GEN) printed a factually misleading titled  "Cancer-Killing T Cells Subdued, Kept “Stemmy,” by Potassium"	entailment
+Genetic Engineering and Biotechnology News (GEN) had to apologize for None in the Last 5 years	entailment
+Genetic Engineering and Biotechnology News (GEN) had to apologize to no one for nothing	entailment
+Genetic Engineering and Biotechnology News (GEN) is funded by the United States government	contradiction
+Genetic Engineering and Biotechnology News (GEN) is a **pro-Science**	entailment
+Genetic Engineering and Biotechnology News (GEN) uses a peer review process	entailment
+Genetic Engineering and Biotechnology News (GEN) covers the following topics:  gene editing, drug discovery, and industry news	entailment

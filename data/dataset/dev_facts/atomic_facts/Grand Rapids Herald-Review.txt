@@ -1,0 +1,22 @@
+Adams Publishing Group owns Grand Rapids Herald-Review	entailment
+Grand Rapids Herald-Review is funded through advertising and subscription fees	entailment
+The remit of Grand Rapids Herald-Review is to **cover local news through journalists with minimal bias in wording**	entailment
+The mission of Grand Rapids Herald-Review is to report the news factually and with a slight Left-leaning bias.	entailment
+The usual audience of Grand Rapids Herald-Review is Left-Center Biased	entailment
+The Grand Rapids Herald-Review tends to the Left	entailment
+Grand Rapids Herald-Review tends to the left-center according to Media Bias Fact Check.	entailment
+Other sources have commented on Grand Rapids Herald-Review, stating that it tends to be **Left-Center Biased**.	entailment
+The factuality of Grand Rapids Herald-Review is reported to be High	entailment
+The factuality of Grand Rapids Herald-Review is reported to be High, according to a review by Mediabiasfactcheck.com.	entailment
+Grand Rapids Herald-Review failed a fact-check for an article titled None in the Last 5 years	contradiction
+Grand Rapids Herald-Review printed a retraction after failing a fact-check for an article titled Dispose of holiday greens and Christmas trees correctly to protect Minnesota’s trees and forests	contradiction
+The Grand Rapids Herald-Review chose not to cover **national and world news**	contradiction
+Grand Rapids Herald-Review provides original content written by staff journalists	entailment
+Grand Rapids Herald-Review relies on advertising for revenue	entailment
+Grand Rapids Herald-Review relies on subscriptions for revenue	contradiction
+Grand Rapids Herald-Review relies on donations for revenue	contradiction
+When aggregating stories, Grand Rapids Herald-Review relies on information from the Associated Press	entailment
+Grand Rapids Herald-Review has endorsed Left-Center Biased	entailment
+Grand Rapids Herald-Review has an editorial bias towards Left	entailment
+Stephen Adams is the editor of Grand Rapids Herald-Review	contradiction
+Grand Rapids Herald-Review had to apologize for None in the Last 5 years	entailment

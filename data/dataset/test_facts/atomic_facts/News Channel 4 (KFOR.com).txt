@@ -1,0 +1,23 @@
+Nexstar Media Group owns News Channel 4 (KFOR.com)	entailment
+Nexstar Media Group is the owner of News Channel 4 (KFOR.com)	entailment
+News Channel 4 (KFOR.com) is funded through **advertising**	entailment
+The remit of News Channel 4 (KFOR.com) is to  deliver local news, breaking news, weather, and sports.	entailment
+The mission of News Channel 4 (KFOR.com) is to report news factually and with minimal bias.	entailment
+News Channel 4 (KFOR.com) tends to the Least Biased.	entailment
+Other sources have commented on News Channel 4 (KFOR.com), stating that it tends to be **Least Biased**	entailment
+The factuality of News Channel 4 (KFOR.com) is reported to be High	entailment
+The factuality of News Channel 4 (KFOR.com) is reported to be high, according to proper sourcing and a clean fact-check record	entailment
+News Channel 4 (KFOR.com) failed a fact-check for an article titled "Oklahoma City police investigating possible homicide after person found dead in vehicle".	contradiction
+News Channel 4 (KFOR.com) chose not to cover **op-eds**	entailment
+News Channel 4 (KFOR.com) provides original content written by staff journalists	entailment
+News Channel 4 (KFOR.com) relies on advertising for revenue	entailment
+News Channel 4 (KFOR.com) relies on subscriptions for revenue	contradiction
+News Channel 4 (KFOR.com) relies on donations for revenue	contradiction
+When aggregating stories, News Channel 4 (KFOR.com) relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+News Channel 4 (KFOR.com) has endorsed **no political candidates**	entailment
+News Channel 4 (KFOR.com) has an editorial bias towards neutral straight news reporting without offering opinion pieces.	entailment
+News Channel 4 (KFOR.com) printed a biased article titled **None**	entailment
+News Channel 4 (KFOR.com) had to apologize for no failed fact checks in the last 5 years.	entailment
+News Channel 4 (KFOR.com)'s headquarter is located in Oklahoma City	entailment
+News Channel 4 (KFOR.com) is a TV station	entailment
+News Channel 4 (KFOR.com) covers the following topics: local news, breaking news, weather, and sports	entailment

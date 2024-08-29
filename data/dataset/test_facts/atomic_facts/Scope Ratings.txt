@@ -1,0 +1,21 @@
+Florian Schoeller founded Scope Ratings	entailment
+Scope Group leads Scope Ratings	entailment
+Scope Group acquired Scope Ratings	entailment
+The remit of Scope Ratings is to challenge the oligopoly of big US rating agencies such as Moody’s, Fitch, and S&P Global.	entailment
+The mission of Scope Ratings is to challenge the oligopoly of big US rating agencies such as Moody’s, Fitch, and S&P Global.	entailment
+Scope Ratings tends to the right	entailment
+Other sources have commented on Scope Ratings, stating that it tends to be **right-center biased**.	entailment
+The factuality of Scope Ratings is reported to be Mostly Factual	entailment
+The factuality of Scope Ratings is reported to be Mostly Factual, according to M. Huitsing	entailment
+Scope Ratings chose not to cover [cryptocurrencies](https://www.scoperatings.com/#!about/story)	entailment
+Scope Ratings provides original content written by staff journalists	entailment
+Scope Ratings relies on donations for revenue	entailment
+Scope Ratings has endorsed **right-center biased**	entailment
+Scope Ratings has an editorial bias towards **right-leaning political parties**.	entailment
+Torsten Hinrichs is the editor of Scope Ratings	contradiction
+Scope Ratings was fined €640,000	entailment
+Scope Ratings had to apologize for **failings in covered bonds ratings**.	entailment
+Scope Ratings's headquarter is located in Berlin	entailment
+Scope Ratings is funded by the German government	entailment
+Scope Ratings is a German credit rating agency.	entailment
+Scope Ratings covers the following topics: History, Establishment, Funded by/Ownership, Funding, Analysis/Bias, Failed Fact Checks.	entailment

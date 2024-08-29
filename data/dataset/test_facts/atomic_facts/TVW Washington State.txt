@@ -1,0 +1,20 @@
+TVW leads TVW Washington State.	entailment
+TVW Washington State is funded through donations and sponsorships	entailment
+The remit of TVW Washington State is to **provide gavel-to-gavel coverage of Washington State Legislature sessions and coverage of the Washington State Supreme Court and public affairs events**	entailment
+The mission of TVW Washington State is to provide gavel-to-gavel coverage of Washington State Legislature sessions and coverage of the Washington State Supreme Court and public affairs events.	entailment
+TVW Washington State tends to the Least Biased.	entailment
+Other sources have commented on TVW Washington State, stating that it tends to be Least Biased	entailment
+The factuality of TVW Washington State is reported to be Very High.	entailment
+The factuality of TVW Washington State is reported to be Very High, according to a clean fact check record.	entailment
+TVW Washington State failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+TVW Washington State chose not to cover editorial content	entailment
+TVW Washington State relies on donations for revenue	entailment
+TVW Washington State has received donations from **sponsors**	entailment
+TVW Washington State has endorsed **no political views**	entailment
+TVW Washington State has an editorial bias towards **None**	entailment
+TVW Washington State was fined 	entailment
+TVW Washington State printed a biased article titled "None in the Last 5 years"	contradiction
+TVW Washington State had to apologize for failing fact checks.	contradiction
+TVW Washington State is a public broadcaster.	entailment
+TVW Washington State uses an internal fact-checking process	entailment
+TVW Washington State covers the following topics: HistoryFounded in 1993, TVW is Washington’s public affairs network, providing gavel-to-gavel coverage of Washington State Legislature sessions and coverage of the Washington State Supreme Court and public affairs events. It is widely considered the model state-level equivalent of [C-SPAN](http://mediabiasfactcheck.com/c-span/). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)Funded by / OwnershipTVW is a public broadcaster that is funded through donations and sponsorships.Analysis / BiasIn review, the TVW website provides links to live programs as well as archived videos. For example, they provide links to previous events, such as debates [Washington State Debate Coalition 2020 Gubernatorial Debate](https://www.tvw.org/watch/?eventID=2020101028). They also provide profiles for all legislators.TVW does not present editorial content and reports news factually.Failed Fact Checks- None in the Last 5 yearsOverall, we rate TVW Washington State Least Biased based on minimal editorializing and Very High for factual reporting due to a clean fact check record. (11/29/2016) Updated (D. Van Zandt 11/28/2022)Source: [https://www.tvw.org/](https://www.tvw.org/)	entailment

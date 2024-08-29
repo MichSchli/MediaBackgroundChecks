@@ -1,0 +1,22 @@
+Monterrey Daily Post leads Monterrey Daily Post	contradiction
+Monterrey Daily Post is funded through **advertising**	entailment
+The remit of Monterrey Daily Post is to republish content and generate revenue through advertising.	entailment
+The mission of Monterrey Daily Post is to  publish news related to Mexican politics, business, culture, sports, and local news related to Monterrey.	entailment
+The usual audience of Monterrey Daily Post is English-speaking ex-pats and international readers.	entailment
+Monterrey Daily Post tends to the Left-Center.	entailment
+Other sources have commented on Monterrey Daily Post, stating that it tends to be **an imposter site**	entailment
+The factuality of Monterrey Daily Post is reported to be questionable	entailment
+The factuality of Monterrey Daily Post is reported to be questionable, according to an analysis by Media Bias/Fact Check.	entailment
+Monterrey Daily Post failed a fact-check for an article titled "Tucker Carlson’s extremist recommendation to the Republicans: The US should bomb Mexico"	entailment
+Monterrey Daily Post chose not to cover **original content**	entailment
+Monterrey Daily Post provides original content written by staff journalists	contradiction
+Monterrey Daily Post relies on advertising for revenue	entailment
+Monterrey Daily Post relies on subscriptions for revenue	contradiction
+Monterrey Daily Post relies on donations for revenue	contradiction
+When aggregating stories, Monterrey Daily Post relies on information from **Mexico Daily Post, the MDP Newsroom, or other sources**.	entailment
+Monterrey Daily Post has endorsed **left-leaning political bias**	entailment
+Monterrey Daily Post has an editorial bias towards left-leaning movements.	entailment
+Monterrey Daily Post printed a factually misleading titled  "Tucker Carlson’s extremist recommendation to the Republicans: The US should bomb Mexico"	entailment
+Monterrey Daily Post is a **biased**	entailment
+Monterrey Daily Post uses an internal fact-checking process	contradiction
+Monterrey Daily Post covers the following topics: Mexican politics, business, culture, sports, and local news related to Monterrey	entailment

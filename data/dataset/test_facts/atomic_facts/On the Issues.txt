@@ -1,0 +1,23 @@
+Jesse Gordon founded On the Issues	entailment
+Jesse Gordon is the founder of On the Issues	entailment
+On the Issues is funded through **donations and advertising**	entailment
+The remit of On the Issues is to inform voters about politicians' stances on various issues.	entailment
+The mission of On the Issues is to inform voters about politicians’ stances on various issues.	entailment
+The usual audience of On the Issues is voters.	entailment
+Other sources have commented on On the Issues, stating that it tends to be **fact-based**	entailment
+The factuality of On the Issues is reported to be **High**	entailment
+The factuality of On the Issues is reported to be high, according to their reliance on direct quotes and voting records.	entailment
+On the Issues failed a fact-check for an article titled **None in the Last 5 years**	entailment
+On the Issues chose not to cover Failed Fact Checks	entailment
+On the Issues relies on advertising for revenue	entailment
+On the Issues relies on donations for revenue	entailment
+When aggregating stories, On the Issues relies on information from public statements, voting records, book reviews, and interviews.	entailment
+On the Issues has an editorial bias towards **minimal bias**.	entailment
+Jesse Gordon is the editor of On the Issues	entailment
+On the Issues was fined 	entailment
+On the Issues printed a factually misleading titled "Failed Fact Checks".	contradiction
+On the Issues had to apologize for **broken internal links provided for further information**.	entailment
+On the Issues had to apologize to **Perry Johnson** for **none**	entailment
+On the Issues's headquarter is located in Cambridge, Massachusetts	entailment
+On the Issues is funded by the United States government	contradiction
+On the Issues covers the following topics: political positions and voting records of political candidates and elected officials.	entailment

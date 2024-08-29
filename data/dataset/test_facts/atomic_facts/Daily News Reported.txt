@@ -1,0 +1,23 @@
+Daily News Reported founded Daily News Reported	entailment
+Daily News Reported leads Daily News Reported	contradiction
+Daily News Reported is funded through **advertising**	entailment
+The remit of Daily News Reported is to **publish fabricated satirical content**.	entailment
+The mission of Daily News Reported is to be a fabricated satirical newspaper and comedy website.	entailment
+The usual audience of Daily News Reported is **adult**	entailment
+Daily News Reported tends to the satire	entailment
+Other sources have commented on Daily News Reported, stating that it tends to be **a satire website**.	entailment
+The factuality of Daily News Reported is reported to be satire	entailment
+The factuality of Daily News Reported is reported to be a satire website, according to Media Bias/Fact Check.	entailment
+Daily News Reported failed a fact-check for an article titled Story About Brandon Cummings’ Arrest Is NOT Real	entailment
+Daily News Reported chose not to cover real news	entailment
+Daily News Reported provides original content written by staff journalists	contradiction
+Daily News Reported relies on advertising for revenue	entailment
+Daily News Reported relies on subscriptions for revenue	contradiction
+Daily News Reported relies on donations for revenue	contradiction
+When aggregating stories, Daily News Reported relies on information from **invented names**.	entailment
+Daily News Reported has an editorial bias towards satire.	entailment
+Daily News Reported printed a biased article titled "Woman Rushed To The Hospital After Getting A Trailer Ball Hitch Stuck In Her Vagina At A Wild Lake Party."	entailment
+Daily News Reported printed a factually misleading titled **story about Brandon Cummings’ arrest**	entailment
+Daily News Reported is funded by the United States government.	entailment
+Daily News Reported is a  satire website	entailment
+Daily News Reported covers the following topics: satire.	entailment

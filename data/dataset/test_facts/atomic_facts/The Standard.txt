@@ -1,0 +1,29 @@
+Indian Merchant Alibhai Mulla Jeevanjee founded The Standard	entailment
+Alibhai Mulla Jeevanjee is the founder of The Standard	entailment
+Orlando Lyomu is the CEO of The Standard	entailment
+Gideon Moi owns The Standard	entailment
+Gideon Moi is the owner of The Standard	entailment
+Gideon Moi bought The Standard	entailment
+The Standard is funded through advertising and subscription fees	entailment
+The mission of The Standard is to **cover breaking news, politics, business, sports, entertainment, and lifestyle**	entailment
+The Standard tends to the right	entailment
+Other sources have commented on The Standard, stating that it tends to be **right-center biased**.	entailment
+The factuality of The Standard is reported to be **Mixed**	entailment
+The factuality of The Standard is reported to be mixed, according to Media Bias/Fact Check.	entailment
+The Standard failed a fact-check for an article titled **None, according to the IFCN fact-checker, Africa Check**.	contradiction
+The Standard printed a retraction after failing a fact-check for an article titled **None**	contradiction
+The Standard chose not to cover [Court stops Guaranty Bank from auctioning restauranteur Osewe’s hotel](https://www.standardmedia.co.ke/business/article/2001398142/court-stops-bank-from-auctioning-osewes-hotel).	contradiction
+The Standard provides original content written by staff journalists	entailment
+The Standard relies on advertising for revenue	entailment
+The Standard relies on subscriptions for revenue	entailment
+The Standard relies on donations for revenue	entailment
+The Standard has received donations from **advertising and subscription fees**	contradiction
+When aggregating stories, The Standard relies on information from **themselves**	entailment
+The Standard has endorsed right-wing leaders	entailment
+The Standard has an editorial bias towards right-wing	entailment
+Ochieng’ Rapuro is the editor of The Standard	entailment
+The Standard was fined **None, according to the IFCN fact-checker, Africa Check**.	entailment
+The Standard printed a biased article titled **"Ruto to back Gideon Moi for the presidency in 2022"**	entailment
+The Standard's headquarter is located in **Nairobi**	entailment
+The Standard is a Kenyan daily newspaper	entailment
+The Standard covers the following topics: breaking news, politics, business, sports, entertainment, and lifestyle.	entailment

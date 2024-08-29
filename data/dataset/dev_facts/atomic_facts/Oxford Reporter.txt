@@ -1,0 +1,19 @@
+Metric Media founded Oxford Reporter	entailment
+Oxford Reporter is funded through **advertising and donations to the Metric Media Foundation**.	entailment
+The remit of Oxford Reporter is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Oxford Reporter is to spread false information.	entailment
+The usual audience of Oxford Reporter is right-center	entailment
+The Oxford Reporter tends to the right-centerbias	entailment
+Oxford Reporter tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on Oxford Reporter, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Oxford Reporter is reported to be Questionable	entailment
+The factuality of Oxford Reporter is reported to be Questionable, according to D. Van Zandt	entailment
+Oxford Reporter chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+Oxford Reporter provides original content written by staff journalists	contradiction
+Oxford Reporter relies on advertising for revenue	entailment
+Oxford Reporter relies on donations for revenue	entailment
+When aggregating stories, Oxford Reporter relies on information from **algorithmically produced content**.	entailment
+The Oxford Reporter has endorsed right-center, biased, and Questionable.	entailment
+Oxford Reporter has an editorial bias towards **the right-center**	entailment
+Oxford Reporter printed a biased article titled **"An Imposter Site Lacking Transparency"**	entailment
+Oxford Reporter printed a factually misleading titled imposter site	entailment

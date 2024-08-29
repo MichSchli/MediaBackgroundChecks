@@ -1,0 +1,16 @@
+Ann-Marie Murrell founded Politichicks	entailment
+Politichicks is funded through **advertising and sponsored content**	entailment
+The remit of Politichicks is to **publish information that is both original and summarizes existing news stories**	entailment
+The mission of Politichicks is to promote right-wing conservative viewpoints.	entailment
+The usual audience of Politichicks is **individuals with conservative right-wing views**	entailment
+Politichicks tends to the right.	entailment
+Politichicks tends to the right according to mediabiasfactcheck.com	entailment
+Other sources have commented on Politichicks, stating that it tends to be right biased	entailment
+The factuality of Politichicks is reported to be questionable, according to extreme right-biased content that always favors the right.	entailment
+Politichicks chose not to cover poor sourcing	entailment
+Politichicks relies on advertising for revenue	entailment
+Politichicks relies on subscriptions for revenue	entailment
+Politichicks relies on donations for revenue	contradiction
+When aggregating stories, Politichicks relies on information from **low-biased to emotional such as this Insanity Is Alive And Catching and Very Possible: A Landslide Election For Donald Trump**.	entailment
+Politichicks has an editorial bias towards right-wing.	entailment
+Politichicks printed a biased article titled Very Possible: A Landslide Election For Donald Trump	entailment

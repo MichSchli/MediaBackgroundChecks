@@ -1,0 +1,22 @@
+Ruth Potts is the founder of Red Pepper	contradiction
+Red Pepper is funded through donations and advertising.	entailment
+The remit of Red Pepper is to report from a left socialist perspective.	entailment
+The mission of Red Pepper is to be a space for debate on the left, a resource for movements for social justice, and a home for open-minded anti-capitalists.	entailment
+The usual audience of Red Pepper is **leftist and socialist individuals**.	entailment
+Red Pepper tends to the left	entailment
+Red Pepper tends to the left according to their about page.	entailment
+Other sources have commented on Red Pepper, stating that it tends to be **strongly Left Biased**.	entailment
+The factuality of Red Pepper is reported to be High	entailment
+The factuality of Red Pepper is reported to be High, according to [mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-kingdom-media-profile/)	entailment
+Red Pepper failed a fact-check for an article titled "Prison profits over healthcare".	contradiction
+Red Pepper chose not to cover Conservative PM Boris Johnson	contradiction
+Red Pepper relies on advertising for revenue	entailment
+Red Pepper relies on donations for revenue	entailment
+Red Pepper has received donations from donations	entailment
+When aggregating stories, Red Pepper relies on information from gov.co.uk, Instituteforgovernment.org, and Springer.com.	entailment
+Red Pepper has endorsed socialist ideologies	entailment
+Red Pepper has an editorial bias towards socialist	entailment
+Ruth Potts is the editor of Red Pepper	contradiction
+Red Pepper was fined 	entailment
+Red Pepper printed a factually misleading titled "Prison profits over healthcare".	contradiction
+Red Pepper had to apologize for **None in the Last 5 years**	entailment

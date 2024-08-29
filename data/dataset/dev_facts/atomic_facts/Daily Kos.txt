@@ -1,0 +1,23 @@
+Markos Moulitsas founded Daily Kos	entailment
+Markos Moulitsas is the founder of Daily Kos	entailment
+Daily Kos leads Daily Kos	entailment
+Kos Media, LLC owns Daily Kos	entailment
+Kos Media, LLC bought Daily Kos	entailment
+Daily Kos is funded through advertising, sponsored content, donations, fundraising, and subscription fees for ad-free browsing.	entailment
+The remit of Daily Kos is to **influence and strengthen progressive policies and candidates**.	entailment
+The mission of Daily Kos is to **influence and strengthen progressive policies and candidates**	entailment
+The usual audience of Daily Kos is **strongly left**	entailment
+Daily Kos tends to the Left	entailment
+Daily Kos tends to the left according to story selection.	entailment
+Other sources have commented on Daily Kos, stating that it tends to be **strongly Left Biased**	entailment
+The factuality of Daily Kos is reported to be Mixed	entailment
+The factuality of Daily Kos is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Daily Kos failed a fact-check for an article titled President Trump posthumously pardoned notorious 1960s criminal Charles Manson.	contradiction
+Daily Kos printed a retraction after failing a fact-check for an article titled "President Trump posthumously pardoned notorious 1960s criminal Charles Manson."	contradiction
+Daily Kos relies on advertising for revenue	entailment
+Daily Kos relies on subscriptions for revenue	entailment
+Daily Kos relies on donations for revenue	entailment
+Daily Kos has received donations from [advertising, sponsored content, donations, fundraising, and subscription fees for ad-free browsing](https://www.dailykos.com/).	entailment
+When aggregating stories, Daily Kos relies on information from **bloggers and mainstream media outlets**	entailment
+Daily Kos has an editorial bias towards left.	entailment
+Daily Kos printed a biased article titled **Voting Rights Roundup: Michigan GOP attempts to sabotage redistricting reform by withholding funding**	entailment

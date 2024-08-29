@@ -1,0 +1,21 @@
+Nexstar Media Group owns KXRM - Colorado Springs News	entailment
+Nexstar Media Group is the owner of KXRM - Colorado Springs News	entailment
+Nexstar Media Group bought KXRM - Colorado Springs News	entailment
+Nexstar Media Group acquired KXRM - Colorado Springs News	entailment
+KXRM - Colorado Springs News is funded through **advertising**	entailment
+The remit of KXRM - Colorado Springs News is to  **publish news for the greater Colorado Springs, Colorado area, including local, national, and international news coverage.**	entailment
+The mission of KXRM - Colorado Springs News is to **publish news for the greater Colorado Springs, Colorado area and provide original reporting with minimal bias.**	entailment
+The usual audience of KXRM - Colorado Springs News is **the greater Colorado Springs, Colorado area**	entailment
+Other sources have commented on KXRM - Colorado Springs News, stating that it tends to be **Least Biased**.	entailment
+The factuality of KXRM - Colorado Springs News is reported to be High	entailment
+The factuality of KXRM - Colorado Springs News is reported to be High, according to Media Bias Fact Check.	entailment
+KXRM - Colorado Springs News chose not to cover **opinion pieces**	entailment
+KXRM - Colorado Springs News relies on advertising for revenue	entailment
+KXRM - Colorado Springs News relies on subscriptions for revenue	entailment
+KXRM - Colorado Springs News relies on donations for revenue	contradiction
+When aggregating stories, KXRM - Colorado Springs News relies on information from the Nexstar Media Wire, the Associated Press, and other large credible media outlets.	entailment
+KXRM - Colorado Springs News has endorsed "least biased"	entailment
+KXRM - Colorado Springs News has an editorial bias towards **neutrality**	entailment
+KXRM - Colorado Springs News printed a biased article titled  "Psaki confirms Biden-Putin meeting off the table".	contradiction
+KXRM - Colorado Springs News is a FOX-affiliated television station	entailment
+KXRM - Colorado Springs News covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

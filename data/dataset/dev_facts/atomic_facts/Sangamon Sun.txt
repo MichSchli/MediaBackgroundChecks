@@ -1,0 +1,20 @@
+The Sangamon Sun is funded through  the Metric Media Foundation.	entailment
+The remit of Sangamon Sun is to **publish conservative news and opinions**	entailment
+The mission of Sangamon Sun is to **look like a local news source**	entailment
+The usual audience of Sangamon Sun is **conservative-leaning individuals**	entailment
+Sangamon Sun tends to the right-center	entailment
+Sangamon Sun tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on Sangamon Sun, stating that it tends to be **right-center, biased**.	entailment
+The factuality of Sangamon Sun is reported to be Questionable	entailment
+The factuality of Sangamon Sun is reported to be Questionable, according to D. Van Zandt 09/10/2021	entailment
+Sangamon Sun provides original content written by staff journalists	contradiction
+Sangamon Sun relies on advertising for revenue	entailment
+Sangamon Sun relies on subscriptions for revenue	contradiction
+Sangamon Sun relies on donations for revenue	entailment
+The Sangamon Sun has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Sangamon Sun relies on information from **algorithmically produced content**.	entailment
+Sangamon Sun has endorsed limited government	entailment
+Sangamon Sun has an editorial bias towards **right-leaning**	entailment
+The Sangamon Sun was fined imposter site, lacks transparency, and publishes false information.	entailment
+Sangamon Sun printed a biased article titled "Sangamon Sun is an imposter site, lacks transparency, and publishes false information."	entailment
+Sangamon Sun had to apologize for **publishing false information**	entailment

@@ -1,0 +1,24 @@
+Gray Television owns KTIV - Sioux City News	entailment
+Gray Television is the owner of KTIV - Sioux City News	entailment
+Gray Television bought KTIV - Sioux City News	entailment
+Gray Television acquired KTIV - Sioux City News	entailment
+KTIV - Sioux City News is funded through advertising and sponsored content.	entailment
+The remit of KTIV - Sioux City News is to **provide**	entailment
+The mission of KTIV - Sioux City News is to report news factually and with minimal bias.	entailment
+The usual audience of KTIV - Sioux City News is Sioux City, Iowa, and the surrounding area.	entailment
+KTIV - Sioux City News tends to the news according to Media Bias Fact Check.	entailment
+Other sources have commented on KTIV - Sioux City News, stating that it tends to be **Least Biased**.	entailment
+The factuality of KTIV - Sioux City News is reported to be High	entailment
+The factuality of KTIV - Sioux City News is reported to be high, according to Mediabiasfactcheck.com.	entailment
+KTIV - Sioux City News failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+KTIV - Sioux City News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+KTIV - Sioux City News chose not to cover opinion pages.	entailment
+KTIV - Sioux City News relies on advertising for revenue	entailment
+KTIV - Sioux City News relies on subscriptions for revenue	entailment
+KTIV - Sioux City News relies on donations for revenue	contradiction
+KTIV - Sioux City News has endorsed **no one**.	entailment
+KTIV - Sioux City News has an editorial bias towards Least Biased.	entailment
+KTIV - Sioux City News was fined 	entailment
+KTIV - Sioux City News printed a biased article titled "None in the Last 5 years"	contradiction
+KTIV - Sioux City News printed a factually misleading titled "None in the Last 5 years".	contradiction
+KTIV - Sioux City News had to apologize for offering an opinion page.	contradiction

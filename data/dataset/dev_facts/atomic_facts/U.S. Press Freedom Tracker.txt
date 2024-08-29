@@ -1,0 +1,22 @@
+Freedom of the Press Foundation and the Committee to Protect Journalists founded U.S. Press Freedom Tracker	contradiction
+Freedom of the Press Foundation is the founder of U.S. Press Freedom Tracker	contradiction
+The Freedom of the Press Foundation and the Committee to Protect Journalists owns U.S. Press Freedom Tracker	entailment
+The Freedom of the Press Foundation is the owner of U.S. Press Freedom Tracker	entailment
+The Freedom of the Press Foundation bought U.S. Press Freedom Tracker	contradiction
+U.S. Press Freedom Tracker is funded through donations	entailment
+The remit of U.S. Press Freedom Tracker is to catalog Press Freedom incidents in the United States.	entailment
+The mission of U.S. Press Freedom Tracker is to catalog Press Freedom incidents in the United States.	entailment
+Other sources have commented on U.S. Press Freedom Tracker, stating that it tends to be MINIMALLY BIASED	entailment
+The factuality of U.S. Press Freedom Tracker is reported to be High	entailment
+The factuality of U.S. Press Freedom Tracker is reported to be High, according to D. Van Zandt.	entailment
+U.S. Press Freedom Tracker failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+U.S. Press Freedom Tracker relies on advertising for revenue	contradiction
+U.S. Press Freedom Tracker relies on donations for revenue	entailment
+U.S. Press Freedom Tracker has received donations from Freedom of the Press Foundation.	entailment
+When aggregating stories, U.S. Press Freedom Tracker relies on information from **journalists**	entailment
+The U.S. Press Freedom Tracker has endorsed  "least biased" based on minimal editorializing of content.	entailment
+U.S. Press Freedom Tracker has an editorial bias towards **least biased**	entailment
+U.S. Press Freedom Tracker was fined 	entailment
+U.S. Press Freedom Tracker printed a factually misleading titled "Supreme Court ruling limits paths for journalists to hold federal officers accountable"	entailment
+U.S. Press Freedom Tracker had to apologize to journalists for failed fact checks	contradiction
+U.S. Press Freedom Tracker paid damages to  after 	entailment

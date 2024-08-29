@@ -1,0 +1,22 @@
+Adams Publishing Group leads Brooklyn Center Sun Post	entailment
+Adams Publishing Group owns Brooklyn Center Sun Post	entailment
+Stephen Adams is the owner of Brooklyn Center Sun Post	entailment
+Brooklyn Center Sun Post is funded through advertising and subscription fees.	entailment
+The remit of Brooklyn Center Sun Post is to cover local news through journalists with minimal bias in wording, such as .	entailment
+The Brooklyn Center Sun Post tends to the Left-Center Biased	entailment
+Other sources have commented on Brooklyn Center Sun Post, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Brooklyn Center Sun Post is reported to be High	entailment
+The factuality of Brooklyn Center Sun Post is reported to be High, according to mediabiasfactcheck.com.	entailment
+Brooklyn Center Sun Post failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Brooklyn Center Sun Post printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Brooklyn Center Sun Post chose not to cover failed fact checks	entailment
+Brooklyn Center Sun Post relies on advertising for revenue	entailment
+Brooklyn Center Sun Post relies on donations for revenue	contradiction
+When aggregating stories, Brooklyn Center Sun Post relies on information from **quotes, interviews, and accounts, while National and world news comes directly from the Associated Press**.	entailment
+Brooklyn Center Sun Post has endorsed left	entailment
+Brooklyn Center Sun Post has an editorial bias towards Left.	entailment
+Brooklyn Center Sun Post had to apologize for **None in the Last 5 years**	entailment
+Brooklyn Center Sun Post's headquarter is located in **Brooklyn Center, Minnesota**	entailment
+The Brooklyn Center Sun Post is funded by the private government	contradiction
+Brooklyn Center Sun Post is a newspaper	entailment
+Brooklyn Center Sun Post covers the following topics: local news, sports, crime, and weather.	entailment

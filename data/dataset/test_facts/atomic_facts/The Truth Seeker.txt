@@ -1,0 +1,16 @@
+The Truth Seeker is funded through **unknown means**	entailment
+The remit of The Truth Seeker is to promote conspiracy theories.	entailment
+The mission of The Truth Seeker is to promote conspiracy theories.	entailment
+The Truth Seeker tends to the dissemination of conspiracy theories.	entailment
+Other sources have commented on The Truth Seeker, stating that it tends to be a Tin Foil Hat Level Conspiracy website.	entailment
+The factuality of The Truth Seeker is reported to be Low	entailment
+The factuality of The Truth Seeker is reported to be Low, according to D. Van Zandt 	entailment
+The Truth Seeker chose not to cover conspiracy theories	contradiction
+When aggregating stories, The Truth Seeker relies on information from **unproven claims and conspiracy theories**	entailment
+The Truth Seeker has endorsed **conspiracy theories**	entailment
+The Truth Seeker has an editorial bias towards conspiracy theories	entailment
+The Truth Seeker printed a biased article titled **Dangerous 5G Streetlights with VIRUS Death Beams – THE TRUTH! (Feat. Mark Steele)**	entailment
+The Truth Seeker printed a factually misleading titled "Dangerous 5G Streetlights with VIRUS Death Beams – THE TRUTH! (Feat. Mark Steele)"	entailment
+The Truth Seeker is a conspiracy website	entailment
+The Truth Seeker uses an internal fact-checking process	contradiction
+The Truth Seeker covers the following topics: conspiracy theories, unproven claims, 5G conspiracy theories, chemtrails, aliens.	entailment

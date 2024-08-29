@@ -1,0 +1,26 @@
+Mike Adams founded Big Government News	entailment
+Big Government News leads Big Government News	entailment
+Mike Adams is the owner of Big Government News	entailment
+Big Government News acquired Big Government News	contradiction
+Big Government News is funded through online advertising	entailment
+The remit of Big Government News is to promote pseudoscience and conspiracy theories.	entailment
+The mission of Big Government News is to  promote pseudoscience, conspiracy theories, and extreme right-wing bias.	entailment
+The usual audience of Big Government News is **extreme right-biased tin foil hat conspiracy website promoting pseudoscience**	entailment
+Big Government News tends to the extreme right-biased tin foil hat conspiracy website promoting pseudoscience	entailment
+Big Government News tends to the right according to mediabiasfactcheck.com	entailment
+Other sources have commented on Big Government News, stating that it tends to be extreme right-biased.	entailment
+The factuality of Big Government News is reported to be **LOW**	entailment
+The factuality of Big Government News is reported to be extreme right-biased tin foil hat conspiracy website promoting pseudoscience, according to mediabiasfactcheck.com.	entailment
+Big Government News failed a fact-check for an article titled **Secret trials, secret witnesses, secret proceedings… "impeachment," nothing but a deep state kangaroo court like you'd see in a Third World country**.	entailment
+Big Government News chose not to cover climate change	entailment
+Big Government News provides original content written by staff journalists	contradiction
+Big Government News relies on advertising for revenue	entailment
+Big Government News relies on subscriptions for revenue	contradiction
+Big Government News relies on donations for revenue	entailment
+Big Government News has received donations from **online advertising**	entailment
+When aggregating stories, Big Government News relies on information from [Natural News](https://mediabiasfactcheck.com/natural-news/) or [News Target](https://mediabiasfactcheck.com/news-target/).	entailment
+Big Government News has endorsed **Donald Trump propaganda**	entailment
+Big Government News has an editorial bias towards **extreme right**	entailment
+Big Government News was fined $10 million	entailment
+Big Government News printed a biased article titled **Impeachment, deep state kangaroo court like you’d see in a Third World country**	entailment
+Big Government News printed a factually misleading titled "Death camps, mass starvation, and forced obedience to govt may follow open borders, free health care for illegals & the total destruction of the US Constitution if Democrats win in 2020"	contradiction

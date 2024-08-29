@@ -1,0 +1,28 @@
+[factual search](https://factualsearch.news/#gsc.tab=0&gsc.q=new%20york%20times&gsc.sort=&gsc.ref=factchecking) shows the New York Times has made false claims in reporting but always makes corrections to those stories as soon as new information is available. Further, failed fact checks occurred on Op-Ed pages and not straight news reporting. [“We have a	entailment
+Henry Jarvis Raymond is the founder of New York Times	entailment
+Arthur Gregg “A.G.” Sulzberger, is the CEO of New York Times	contradiction
+The New York Times leads New York Times	contradiction
+The Ochs-Sulzberger family owns New York Times.	entailment
+The New York Times is the owner of New York Times	contradiction
+Adolph Ochs bought New York Times	entailment
+Adolph Ochs acquired New York Times	entailment
+New York Times is funded through advertising and subscription fees	entailment
+The remit of New York Times is to cover News (World News, National News, Business News), Opinion Pieces, Editorials, Arts, Movies, Theater, Travel, NYC Guide, Food, Home & Garden, and Fashion & Style.	entailment
+The mission of New York Times is to **cover the news impartially**	contradiction
+The usual audience of New York Times is **consistently liberal**	entailment
+New York Times tends to the  liberal.	entailment
+Other sources have commented on New York Times, stating that it tends to be liberal	entailment
+New York Times failed a fact-check for an article titled "How Scientists Got Climate Change So Wrong"	entailment
+New York Times chose not to cover Bari Weiss's resignation	contradiction
+New York Times provides original content written by staff journalists	entailment
+New York Times relies on advertising for revenue	entailment
+New York Times relies on subscriptions for revenue	entailment
+New York Times has endorsed **Democratic Presidential Candidates**	entailment
+New York Times has an editorial bias towards **Left-Center**.	entailment
+Joseph Kahn is the editor of New York Times	entailment
+New York Times had to apologize for false claims	entailment
+New York Times paid damages to **Sarah Palin’s PAC** after **inciting Rep. Gabby Giffords’ shooting**.	contradiction
+New York Times's headquarter is located in  New York City	entailment
+New York Times is funded by the US government	contradiction
+New York Times is a **Left-Center**	entailment
+New York Times covers the following topics: News (World News, National News, Business News), Opinion Pieces, Editorials, Arts, Movies, Theater, Travel, NYC Guide, Food, Home & Garden, and Fashion & Style.	entailment

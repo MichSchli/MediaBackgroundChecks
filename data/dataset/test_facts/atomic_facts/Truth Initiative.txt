@@ -1,0 +1,17 @@
+Robin Koval is the founder of Truth Initiative	contradiction
+Robin Koval is the CEO of Truth Initiative	entailment
+Robin Koval leads Truth Initiative	entailment
+Truth Initiative is funded through a[ Truth Initiative](https://truthinitiative.org/who-we-are), a 501(c)(3) nonprofit public health organization.	entailment
+The remit of Truth Initiative is to initiate campaigns such as the “Mental Health Campaign,” “Social Justice Campaign,” and the “Environment Campaign.”	entailment
+The Truth Initiative tends to the **progressive left**.	entailment
+Other sources have commented on Truth Initiative, stating that it tends to be **left-leaning**	entailment
+The factuality of Truth Initiative is reported to be High	entailment
+The factuality of Truth Initiative is reported to be High, according to a fact-check record.	entailment
+Truth Initiative printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Truth Initiative chose not to cover failed fact checks	entailment
+Truth Initiative relies on subscriptions for revenue	entailment
+Truth Initiative has an editorial bias towards **the progressive left**	entailment
+Robin Koval is the editor of Truth Initiative	contradiction
+Truth Initiative printed a biased article titled "VAPING + TOBACCO IS A SOCIAL JUSTICE ISSUE."	entailment
+The Truth Initiative is funded by the United States government	entailment
+Truth Initiative is a nonprofit public health organization	entailment

@@ -1,0 +1,30 @@
+James Corbett founded The Corbett Report	entailment
+James Corbett is the founder of The Corbett Report	entailment
+James Corbett is the CEO of The Corbett Report.	entailment
+James Corbett leads The Corbett Report	entailment
+James Corbett owns The Corbett Report	entailment
+James Corbett is the owner of The Corbett Report.	entailment
+James Corbett bought The Corbett Report	contradiction
+James Corbett acquired The Corbett Report	entailment
+The Corbett Report is funded through subscription fees and DVD sales	entailment
+The remit of The Corbett Report is to promote.	entailment
+The usual audience of The Corbett Report is **right-wing conspiracy theorists**	entailment
+The Corbett Report tends to the right-wing conspiracy perspective	entailment
+Other sources have commented on The Corbett Report, stating that it tends to be **a Tin Foil Hat conspiracy and Moderate pseudoscience website**.	entailment
+The factuality of The Corbett Report is reported to be **Low** according to **Media Bias/Fact Check**.	entailment
+The Corbett Report chose not to cover human-influenced climate change denialism	contradiction
+The Corbett Report provides original content written by staff journalists	contradiction
+The Corbett Report relies on advertising for revenue	contradiction
+The Corbett Report relies on subscriptions for revenue	entailment
+The Corbett Report relies on donations for revenue	contradiction
+The Corbett Report has received donations from **subscription fees and DVD sales**	entailment
+When aggregating stories, The Corbett Report relies on information from *right-wing conspiracy perspective*.	entailment
+The Corbett Report has endorsed human-influenced climate change denialism	entailment
+The Corbett Report has an editorial bias towards right-wing conspiracy perspectives.	entailment
+James Corbett is the editor of The Corbett Report	entailment
+The Corbett Report printed a biased article titled "The IPCC Prepares to Release More Hot Air"	entailment
+The Corbett Report printed a factually misleading titled  Tin Foil Hat Conspiracy and Moderate Pseudoscience Website.	entailment
+The Corbett Report's headquarter is located in Japan	entailment
+The Corbett Report is funded by the owner's government	contradiction
+The Corbett Report is a Tin Foil Hat conspiracy and Moderate pseudoscience website	entailment
+The Corbett Report covers the following topics: conspiracy theories, false flags, chemtrails, deep state, human-influenced climate change denialism, new world order, and socialism.	entailment

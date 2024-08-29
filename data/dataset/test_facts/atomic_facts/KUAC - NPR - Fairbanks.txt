@@ -1,0 +1,20 @@
+University of Alaska Fairbanks owns KUAC - NPR - Fairbanks	entailment
+KUAC - NPR - Fairbanks is funded through **institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System**.	entailment
+The mission of KUAC - NPR - Fairbanks is to **report news and radio programming information with a slight liberal bias.**	entailment
+The usual audience of KUAC - NPR - Fairbanks is Left-Center Biased	entailment
+KUAC - NPR - Fairbanks tends to the Left	entailment
+Other sources have commented on KUAC - NPR - Fairbanks, stating that it tends to be Left-Center Biased	entailment
+The factuality of KUAC - NPR - Fairbanks is reported to be High	entailment
+The factuality of KUAC - NPR - Fairbanks is reported to be High, according to D. Van Zandt 	entailment
+" ‘The most extreme of all the extremes’: What’s behind Bristol Bay’s record breaking fire season"	entailment
+KUAC - NPR - Fairbanks chose not to cover news with a slight liberal bias.	contradiction
+KUAC - NPR - Fairbanks relies on advertising for revenue	contradiction
+KUAC - NPR - Fairbanks relies on subscriptions for revenue	contradiction
+KUAC - NPR - Fairbanks relies on donations for revenue	entailment
+KUAC - NPR - Fairbanks has received donations from individual contributions	entailment
+When aggregating stories, KUAC - NPR - Fairbanks relies on information from [NPR](https://mediabiasfactcheck.com/npr/), [American Public Media](https://mediabiasfactcheck.com/american-public-media/), and the [Corporation for Public Broadcasting](https://mediabiasfactcheck.com/pbs-news-hour/).	entailment
+KUAC - NPR - Fairbanks has endorsed left-center biased.	entailment
+KUAC - NPR - Fairbanks has an editorial bias towards Left-Center	entailment
+KUAC - NPR - Fairbanks's headquarter is located in Fairbanks	entailment
+KUAC - NPR - Fairbanks is funded by the University of Alaska Fairbanks.	entailment
+KUAC - NPR - Fairbanks is a **NPR FM radio station**	entailment

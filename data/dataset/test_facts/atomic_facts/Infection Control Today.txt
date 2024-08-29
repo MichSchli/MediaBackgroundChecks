@@ -1,0 +1,25 @@
+Mike Hennessy Jr. leads Infection Control Today	entailment
+MJH Life Sciences owns Infection Control Today	entailment
+MJH Life Sciences	entailment
+Infection Control Today is funded through **advertising**	entailment
+The remit of Infection Control Today is to **provide information and solutions related to infection control and facility management**	entailment
+The mission of Infection Control Today is to provide information and solutions related to infection control and facility management.	entailment
+The usual audience of Infection Control Today is professionals in infection control, facility management, and hospital administration.	entailment
+Infection Control Today tends to the **needs of professionals in infection control, facility management, and hospital administration.**	entailment
+Other sources have commented on Infection Control Today, stating that it tends to be **Pro-Science**	entailment
+The factuality of Infection Control Today is reported to be High	entailment
+The factuality of Infection Control Today is reported to be High, according to M. Huitsing 01/04/2024	entailment
+Infection Control Today failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Infection Control Today printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Infection Control Today chose not to cover failed fact checks	entailment
+Infection Control Today relies on advertising for revenue	entailment
+Infection Control Today relies on donations for revenue	entailment
+When aggregating stories, Infection Control Today relies on information from **scientifically grounded content with diverse topics**.	entailment
+Infection Control Today has endorsed **as a Pro-Science source based on scientific information from credible sources**	entailment
+Infection Control Today has an editorial bias towards **pro-Science**	entailment
+Infection Control Today printed a factually misleading titled "None in the Last 5 years"	entailment
+Infection Control Today had to apologize for **None in the Last 5 years**	entailment
+Infection Control Today's headquarter is located in Cranbury	entailment
+Infection Control Today is funded by the **private** government	entailment
+Infection Control Today is a multi-media platform	entailment
+Infection Control Today covers the following topics: infection control, facility management, quality improvement, risk management, epidemiology, and patient safety.	entailment

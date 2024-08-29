@@ -1,0 +1,14 @@
+History
+Founded in 2000, Infinite Unknown is a right-wing biased news and opinion website that promotes conspiracies and pseudoscience. According to their
+[about page](https://infiniteunknown.net/about/) “This site is created to link the political, the economical and the environmental situation of planet earth.”
+The website lacks transparency as they do not offer names of those associated or disclose ownership.
+Funded by / Ownership
+Infinite Unknown does not disclose ownership, and revenue is derived through donations.
+Analysis / Bias
+Infinite Unknown is a website that does not usually publish original content but links to other sources. Many of the sources they link to fall under the
+[Conspiracy-Pseudoscience](https://mediabiasfactcheck.com/conspiracy/) or [Questionable](https://mediabiasfactcheck.com/fake-news/) categories. For example, they link to the conspiracy website [Zero Hedge](https://mediabiasfactcheck.com/zero-hedge/), quack pseudoscientist [Joseph Mercola](https://mediabiasfactcheck.com/mercola/) and the far-right [Gateway Pundit](https://mediabiasfactcheck.com/the-gateway-pundit/).
+Besides publishing standard conspiracy fares like
+[False Flags](https://infiniteunknown.net/2022/06/02/false-flags-are-legal-propaganda-produced-by-the-department-of-defense/) and [Chemtrails](https://infiniteunknown.net/2022/10/28/chemtrail-pilot-speaks-out-about-what-they-spray-in-the-air-to-erase-humanity-in-the-world-video/), they have recently begun publishing hysterical fears over [Covid-19 vaccinations](https://infiniteunknown.net/2023/01/09/dr-paul-craig-roberts-the-covid-vaccine-is-an-intentional-effort-at-world-genocide/) and [election fraud](https://infiniteunknown.net/?s=election+fraud) in the 2020 election.
+In general, this is one of the least credible sources on the internet. Virtually everything is either false, misleading, or unproven.
+Failed Fact Checks
+- It appears this website has not registered on the fact-checkers radar.

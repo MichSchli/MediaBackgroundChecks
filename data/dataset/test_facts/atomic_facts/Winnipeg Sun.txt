@@ -1,0 +1,22 @@
+PostMedia founded Winnipeg Sun	contradiction
+PostMedia owns Winnipeg Sun	entailment
+PostMedia is the owner of Winnipeg Sun	entailment
+PostMedia acquired Winnipeg Sun	contradiction
+The Winnipeg Sun is funded through advertising and subscription fees	entailment
+The usual audience of Winnipeg Sun is **right-leaning**	entailment
+Winnipeg Sun tends to the Right-Center	entailment
+Other sources have commented on Winnipeg Sun, stating that it tends to be Right-Center Biased.	entailment
+The factuality of Winnipeg Sun is reported to be High	entailment
+The factuality of Winnipeg Sun is reported to be High, according to a review.	entailment
+Winnipeg Sun failed a fact-check for an article titled "Manitoba RCMP still searching for one escaped inmate after locating one".	contradiction
+The Winnipeg Sun chose not to cover Manitoba RCMP still searching for one escaped inmate after locating one	contradiction
+Winnipeg Sun relies on advertising for revenue	entailment
+Winnipeg Sun relies on subscriptions for revenue	contradiction
+Winnipeg Sun relies on donations for revenue	contradiction
+When aggregating stories, Winnipeg Sun relies on information from the [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/).	entailment
+Winnipeg Sun has endorsed conservative right	entailment
+Winnipeg Sun has an editorial bias towards right-leaning.	entailment
+Winnipeg Sun printed a biased article titled "Manitoba RCMP still searching for one escaped inmate after locating one"	contradiction
+The Winnipeg Sun's headquarter is located in Winnipeg	entailment
+The Winnipeg Sun is a newspaper	entailment
+Winnipeg Sun covers the following topics: local, national, business, and sports news	entailment

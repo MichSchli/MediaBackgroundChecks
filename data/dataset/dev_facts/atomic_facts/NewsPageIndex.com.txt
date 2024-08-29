@@ -1,0 +1,21 @@
+NewsPageIndex.com founded NewsPageIndex.com	entailment
+David Rufful is the founder of NewsPageIndex.com	contradiction
+McClung Consulting LLC owns NewsPageIndex.com	entailment
+McClung Consulting LLC is the owner of NewsPageIndex.com	entailment
+McClung Consulting LLC bought NewsPageIndex.com	entailment
+McClung Consulting LLC acquired NewsPageIndex.com	entailment
+NewsPageIndex.com is funded through advertising and donations to Young Conservatives LLC.	entailment
+The remit of NewsPageIndex.com is to **publish conservative news and commentary primarily from David Rufful**.	entailment
+The mission of NewsPageIndex.com is to **publish conservative news and commentary primarily**.	entailment
+NewsPageIndex.com tends to the right	entailment
+NewsPageIndex.com tends to the right according to factual reporting.	entailment
+Other sources have commented on NewsPageIndex.com, stating that it tends to be strongly Right-Biased	entailment
+The factuality of NewsPageIndex.com is reported to be  strong Right-Biased and Mixed for factual reporting due to the use of poor sources and an exclusive author who has failed fact checks.	entailment
+The factuality of NewsPageIndex.com is reported to be mixed, according to Media Bias/Fact Check.	entailment
+NewsPageIndex.com provides original content written by staff journalists	contradiction
+NewsPageIndex.com relies on advertising for revenue	entailment
+NewsPageIndex.com relies on subscriptions for revenue	entailment
+NewsPageIndex.com relies on donations for revenue	entailment
+When aggregating stories, NewsPageIndex.com relies on information from **social media and a mix of credible and questionable sources**.	entailment
+NewsPageIndex.com has an editorial bias towards right	entailment
+NewsPageIndex.com printed a biased article titled "VIDEO: Biden Slurs, Mumbles, Loses His Train of Thought, Wanders from Podium"	entailment

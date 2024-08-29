@@ -1,0 +1,21 @@
+Jimmy Wales is the founder of WikiNews	contradiction
+The Wikimedia Foundation owns WikiNews	entailment
+Wikimedia Foundation is the owner of WikiNews	entailment
+WikiNews bought WikiNews	contradiction
+WikiNews is funded through **donations**	entailment
+The remit of WikiNews is to  deliver news.	entailment
+The mission of WikiNews is to  report news.	entailment
+WikiNews tends to the **Least Biased and High for factual reporting**	entailment
+Other sources have commented on WikiNews, stating that it tends to be **least biased**	entailment
+The factuality of WikiNews is reported to be High	entailment
+The factuality of WikiNews is reported to be High, according to Updated (01/07/2022)	entailment
+WikiNews failed a fact-check for an article titled "Younger brother of North Korean founding leader dies aged 101"	contradiction
+WikiNews chose not to cover any failed fact checks	entailment
+WikiNews relies on advertising for revenue	contradiction
+WikiNews relies on donations for revenue	entailment
+WikiNews has endorsed Least Biased and High for factual reporting due to proper sourcing and a clean fact check record.	entailment
+WikiNews has an editorial bias towards Least Biased.	entailment
+WikiNews had to apologize for None in the Last 5 years	entailment
+WikiNews is funded by the United States government	contradiction
+WikiNews is a **news wiki**.	entailment
+WikiNews covers the following topics: History, Funded by / Ownership, Analysis / Bias, Failed Fact Checks.	entailment

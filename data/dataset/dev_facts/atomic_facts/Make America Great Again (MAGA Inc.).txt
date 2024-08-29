@@ -1,0 +1,20 @@
+Who founded Make America Great Again (MAGA Inc.)?	entailment
+MAGA Inc. leads Make America Great Again (MAGA Inc.)	entailment
+The remit of Make America Great Again (MAGA Inc.) is to ensure a second Trump administration and to promote America First candidates. President Trump delivered for Americans before and he will do it again.	entailment
+The mission of Make America Great Again (MAGA Inc.) is to ensure a second Trump administration and to promote America First candidates.	entailment
+The usual audience of Make America Great Again (MAGA Inc.) is **right-based**.	entailment
+Make America Great Again (MAGA Inc.) tends to the **right-based and questionable**	entailment
+Make America Great Again (MAGA Inc.) tends to the promotion of former President Donald Trump’s agenda according to its mission.	entailment
+Other sources have commented on Make America Great Again (MAGA Inc.), stating that it tends to be right-based.	entailment
+The factuality of Make America Great Again (MAGA Inc.) is reported to be questionable	entailment
+The factuality of Make America Great Again (MAGA Inc.) is reported to be questionable, according to a source on mediabiasfactcheck.com.	entailment
+Make America Great Again (MAGA Inc.) failed a fact-check for an article titled  "Make America Great Again (MAGA) Inc. released an ad claiming Florida Republican Gov. Ron DeSantis pushed a 23% to replace former President Donald Trump’s Tax Cuts and Job Act and voted against funding for the border wall."	entailment
+Make America Great Again (MAGA Inc.) printed a retraction after failing a fact-check for an article titled **Nikki Haley refused to call illegals 'criminals.'**	entailment
+Make America Great Again (MAGA Inc.) chose not to cover **details regarding the funding and ownership of MAGAPAC.com**	entailment
+Make America Great Again (MAGA Inc.) relies on donations for revenue	entailment
+Make America Great Again (MAGA Inc.) has received donations from large donors	entailment
+When aggregating stories, Make America Great Again (MAGA Inc.) relies on information from [OpenSecrets](https://mediabiasfactcheck.com/center-for-responsive-politics-open-secrets/).	entailment
+Make America Great Again (MAGA Inc.) has an editorial bias towards **right-based and questionable**	entailment
+Make America Great Again (MAGA Inc.) printed a biased article titled **Biden to Bring Lies and Excuses to Superior, Wisconsin**	entailment
+Make America Great Again (MAGA Inc.) printed a factually misleading titled "Drug traffickers, rapists, poisoning our country. But Nikki Haley refused to call illegals ‘criminals.’"	entailment
+Make America Great Again (MAGA Inc.) had to apologize to **Nikki Haley** for **repeatedly pushing amnesty for illegals**	contradiction

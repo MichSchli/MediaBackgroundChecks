@@ -1,0 +1,17 @@
+MagaPill is funded through online advertising and donations	entailment
+The remit of MagaPill is to ensure that President Trump’s Legacy is properly documented.	entailment
+The mission of MagaPill is to ensure that President Trump’s Legacy is properly documented.	entailment
+The usual audience of MagaPill is conservative.	entailment
+MagaPill tends to the promotion	entailment
+Other sources have commented on MagaPill, stating that it tends to be **a questionable source**	entailment
+The factuality of MagaPill is reported to be Questionable	entailment
+The factuality of MagaPill is reported to be Questionable, according to D. Van Zandt 11/27/2017.	entailment
+MagaPill relies on advertising for revenue	entailment
+MagaPill relies on subscriptions for revenue	contradiction
+MagaPill relies on donations for revenue	entailment
+When aggregating stories, MagaPill relies on information from links to archived news stories that highlight Donald Trump’s accomplishments as President.	entailment
+MagaPill has endorsed **Donald Trump’s accomplishments as President**	entailment
+MagaPill has an editorial bias towards Donald Trump propaganda.	entailment
+MagaPill is funded by the United States government	contradiction
+MagaPill is a Questionable	entailment
+MagaPill covers the following topics: Donald Trump's accomplishments as President, mainstream news sources, Alt-Right website Breitbart, conspiracy theories, failed fact checks.	entailment

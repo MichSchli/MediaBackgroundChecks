@@ -1,0 +1,22 @@
+Newsquest Media Group Ltd owns Bromsgrove Advertiser	entailment
+Newsquest Media Group Ltd is the owner of Bromsgrove Advertiser	entailment
+Bromsgrove Advertiser is funded through advertising and subscription fees	entailment
+The remit of Bromsgrove Advertiser is to cover local news for the Bromsgrove area through reporters with minimal bias	entailment
+The mission of Bromsgrove Advertiser is to report local news for the Bromsgrove area through minimal bias, use of credible sources, and clean fact-check record.	entailment
+The usual audience of Bromsgrove Advertiser is **local residents in the Bromsgrove area**	entailment
+Bromsgrove Advertiser tends to the least biased	entailment
+Other sources have commented on Bromsgrove Advertiser, stating that it tends to be least biased.	entailment
+The factuality of Bromsgrove Advertiser is reported to be High	entailment
+The factuality of Bromsgrove Advertiser is reported to be high, according to minimal editorializing of content.	entailment
+Bromsgrove Advertiser failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Bromsgrove Advertiser chose not to cover failed fact checks	entailment
+Bromsgrove Advertiser relies on subscriptions for revenue	contradiction
+Bromsgrove Advertiser relies on donations for revenue	contradiction
+When aggregating stories, Bromsgrove Advertiser relies on information from first-person accounts and large quotes, which is appropriate for a print publication.	entailment
+Bromsgrove Advertiser has endorsed least biased reporting	entailment
+Bromsgrove Advertiser has an editorial bias towards **least biased**	entailment
+Bromsgrove Advertiser had to apologize for None in the Last 5 years	entailment
+Bromsgrove Advertiser's headquarter is located in Bromsgrove	entailment
+Bromsgrove Advertiser is funded by the American government	contradiction
+Bromsgrove Advertiser is a newspaper	entailment
+Bromsgrove Advertiser covers the following topics: news and politics, lifestyle and culture, and local events and news related to the Bromsgrove area.	entailment

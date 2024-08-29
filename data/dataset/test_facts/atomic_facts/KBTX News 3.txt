@@ -1,0 +1,22 @@
+Gray Television owns KBTX News 3	entailment
+Gray Television is the owner of KBTX News 3	entailment
+Gray Television bought KBTX News 3	entailment
+Gray Television acquired KBTX News 3	entailment
+The remit of KBTX News 3 is to report news factually and with minimal bias.	entailment
+The mission of KBTX News 3 is to  report news factually and with minimal bias.	entailment
+The usual audience of KBTX News 3 is **residents of Bryan, TX, and the surrounding areas**.	entailment
+Other sources have commented on KBTX News 3, stating that it tends to be least biased	entailment
+The factuality of KBTX News 3 is reported to be High	entailment
+The factuality of KBTX News 3 is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+KBTX News 3 failed a fact-check for an article titled Dozens of shots fired, two bystanders injured in Cameron shooting	contradiction
+KBTX News 3 printed a retraction after failing a fact-check for an article titled "Dozens of shots fired, two bystanders injured in Cameron shooting".	contradiction
+KBTX News 3 chose not to cover **an opinion page**	entailment
+KBTX News 3 relies on advertising for revenue	entailment
+KBTX News 3 relies on donations for revenue	contradiction
+When aggregating stories, KBTX News 3 relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+KBTX News 3 has an editorial bias towards **neither side**	entailment
+KBTX News 3 printed a biased article titled "Failed Fact Checks"	contradiction
+KBTX News 3 had to apologize for  fact checks in the Last 5 years	contradiction
+KBTX News 3 is funded by the  government	entailment
+KBTX News 3 is a television station	entailment
+KBTX News 3 covers the following topics:  Local and national news and sports, weather, traffic, and entertainment.	entailment

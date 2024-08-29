@@ -1,0 +1,22 @@
+Adams Publishing Group owns St. Peter Herald	entailment
+Stephen Adams is the owner of St. Peter Herald	entailment
+St. Peter Herald is funded through advertising and subscription fees	entailment
+The remit of St. Peter Herald is to **cover**	entailment
+The mission of St. Peter Herald is to provide a balance in opinions, with slightly more favoring the left.	entailment
+The usual audience of St. Peter Herald is **local residents**	entailment
+St. Peter Herald tends to the Left	entailment
+Other sources have commented on St. Peter Herald, stating that it tends to be Left-Center Biased.	entailment
+The factuality of St. Peter Herald is reported to be High	entailment
+The factuality of St. Peter Herald is reported to be High , according to Media Bias Fact Check.	entailment
+St. Peter Herald failed a fact-check for an article titled None	contradiction
+St. Peter Herald chose not to cover **failed fact checks**	entailment
+St. Peter Herald relies on advertising for revenue	entailment
+St. Peter Herald relies on subscriptions for revenue	contradiction
+St. Peter Herald relies on donations for revenue	contradiction
+When aggregating stories, St. Peter Herald relies on information from the [Associated Press](https://www.bozemandailychronicle.com/news/city/bozeman-continues-to-foster-midtown-development/article51464c29-97fa-57b9-9535-05375f0853c8.html).	entailment
+St. Peter Herald has endorsed Left-Center Biased	entailment
+St. Peter Herald has an editorial bias towards Left	entailment
+St. Peter Herald's headquarter is located in St, Peter, Minnesota, United States.	entailment
+The St. Peter Herald is funded by the private government.	contradiction
+The St. Peter Herald is a newspaper	entailment
+St. Peter Herald covers the following topics: local news, sports, crime, and weather	entailment

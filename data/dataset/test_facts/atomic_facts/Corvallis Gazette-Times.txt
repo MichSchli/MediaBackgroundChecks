@@ -1,0 +1,26 @@
+Lee Enterprises founded Corvallis Gazette-Times	contradiction
+Lee Enterprises leads Corvallis Gazette-Times	entailment
+Lee Enterprises owns Corvallis Gazette-Times	entailment
+Lee Enterprises is the owner of Corvallis Gazette-Times	entailment
+Lee Enterprises bought Corvallis Gazette-Times	entailment
+Lee Enterprises acquired Corvallis Gazette-Times	entailment
+Corvallis Gazette-Times is funded through **advertising and subscription fees**	entailment
+The remit of Corvallis Gazette-Times is to **report on news, sports, entertainment, lifestyle, and opinion for York and the surrounding area**.	contradiction
+The mission of Corvallis Gazette-Times is to report on news, sports, weather, crime, and entertainment for the greater Corvallis, Oregon region.	entailment
+Corvallis Gazette-Times tends to the **right**	entailment
+Other sources have commented on Corvallis Gazette-Times, stating that it tends to be **least biased**	entailment
+The factuality of Corvallis Gazette-Times is reported to be High	entailment
+The factuality of Corvallis Gazette-Times is reported to be High, according to D. Van Zandt	entailment
+Corvallis Gazette-Times failed a fact-check for an article titled None in the Last 5 years	contradiction
+Corvallis Gazette-Times chose not to cover  crime and entertainment for the greater Corvallis, Oregon region.	contradiction
+Corvallis Gazette-Times relies on advertising for revenue	entailment
+Corvallis Gazette-Times relies on subscriptions for revenue	contradiction
+Corvallis Gazette-Times relies on donations for revenue	contradiction
+When aggregating stories, Corvallis Gazette-Times relies on information from **first-person accounts or through credible media**.	entailment
+Corvallis Gazette-Times has an editorial bias towards least biased.	entailment
+Corvallis Gazette-Times printed a biased article titled None in the Last 5 Years	entailment
+Corvallis Gazette-Times had to apologize for **None in the Last 5 years**	entailment
+Corvallis Gazette-Times had to apologize to **none** for **failed fact checks**	entailment
+Corvallis Gazette-Times is funded by the United States government	contradiction
+Corvallis Gazette-Times is a newspaper	entailment
+Corvallis Gazette-Times covers the following topics: news, sports, entertainment, lifestyle, and opinion.	entailment

@@ -1,0 +1,21 @@
+Black Press Media owns Kelowna Capital News	entailment
+Black Press Media is the owner of Kelowna Capital News	entailment
+Black Press Media bought Kelowna Capital News	entailment
+Kelowna Capital News is funded through **advertising**	entailment
+The remit of Kelowna Capital News is to cover news, sports, crime, and business for the greater Kelowna, BC area.	entailment
+The mission of Kelowna Capital News is to provide news, sports, crime, and business coverage for the greater Kelowna, BC area.	entailment
+The usual audience of Kelowna Capital News is **residents of Kelowna and the surrounding area**	entailment
+Kelowna Capital News tends to the left	entailment
+Other sources have commented on Kelowna Capital News, stating that it tends to be **slightly Left-Center biased**.	entailment
+The factuality of Kelowna Capital News is reported to be High	entailment
+The factuality of Kelowna Capital News is reported to be High, according to Mediabiasfactcheck.	entailment
+Kelowna Capital News failed a fact-check for an article titled "1 man dead following single vehicle crash into lamp standard in Kelowna".	contradiction
+Kelowna Capital News chose not to cover op-eds.	entailment
+Kelowna Capital News relies on advertising for revenue	entailment
+When aggregating stories, Kelowna Capital News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+Kelowna Capital News has endorsed slightly Left-Center biased.	entailment
+Kelowna Capital News has an editorial bias towards Left-Center	entailment
+Kelowna Capital News's headquarter is located in Kelowna	entailment
+Kelowna Capital News is funded by the Canadian government	contradiction
+Kelowna Capital News is a newspaper	entailment
+Kelowna Capital News covers the following topics: news, sports, crime, and business.	entailment

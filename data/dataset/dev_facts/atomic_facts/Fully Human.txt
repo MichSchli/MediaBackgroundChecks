@@ -1,0 +1,14 @@
+What leads Fully Human	contradiction
+Fully Human is funded through **unclear sources or undisclosed means**.	entailment
+The remit of Fully Human is to **explore topics related to human consciousness, technology, and their intersection**	entailment
+The mission of Fully Human is to **explore topics related to human consciousness, technology, and their intersection**	entailment
+Fully Human tends to the exploration of topics related to human consciousness, technology, and their intersection.	entailment
+Other sources have commented on Fully Human, stating that it tends to be **biased**.	entailment
+The factuality of Fully Human is reported to be Very Low	entailment
+The factuality of Fully Human is reported to be Very Low, according to a source criticism exercise.	entailment
+Fully Human chose not to cover mainstream scientific consensus	contradiction
+Fully Human has endorsed **allowing all information, including potential misinformation, to be freely disseminated without interference from tech companies**.	entailment
+Fully Human has an editorial bias towards **anti-mainstream scientific consensus**	entailment
+Fully Human printed a biased article titled **“How can AI and transhumanism make us forget the best and the highest gifts of being human?**"	entailment
+Fully Human printed a factually misleading titled **"LANDMARK 5G STUDY HIGHLIGHTS ITS THREATS TO HEALTH"**	entailment
+Fully Human had to apologize for **promoting debunked conspiracy theories**	entailment

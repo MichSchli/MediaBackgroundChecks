@@ -1,0 +1,24 @@
+Mike Trautmann leads Louisville Courier-Journal	entailment
+Gannett owns Louisville Courier-Journal	entailment
+Gannett is the owner of Louisville Courier-Journal	entailment
+Gannett bought Louisville Courier-Journal	entailment
+Gannett acquired Louisville Courier-Journal	entailment
+Louisville Courier-Journal is funded through advertising and paid subscriptions.	entailment
+The remit of Louisville Courier-Journal is to cover local news, sports, entertainment, and crime through reporters with minimal bias.	entailment
+The mission of Louisville Courier-Journal is to report news factually with a left-leaning editorial bias.	entailment
+The usual audience of Louisville Courier-Journal is Left-Center biased	entailment
+Louisville Courier-Journal tends to the Left-Center biased	entailment
+Louisville Courier-Journal tends to the left-center according to Mediabiasfactcheck.	entailment
+Other sources have commented on Louisville Courier-Journal, stating that it tends to be Left-Center biased.	entailment
+The factuality of Louisville Courier-Journal is reported to be High	entailment
+The factuality of Louisville Courier-Journal is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+Louisville Courier-Journal failed a fact-check for an article titled "Kentucky coronavirus map: How many coronavirus cases are in Kentucky? Where are they?"	contradiction
+Louisville Courier-Journal chose not to cover **international news**	contradiction
+Louisville Courier-Journal relies on advertising for revenue	entailment
+Louisville Courier-Journal relies on subscriptions for revenue	contradiction
+Louisville Courier-Journal relies on donations for revenue	contradiction
+When aggregating stories, Louisville Courier-Journal relies on information from the USA Today Network and the Associated Press.	entailment
+Louisville Courier-Journal has endorsed Democratic Presidential candidates	entailment
+Louisville Courier-Journal has an editorial bias towards **Democrats**	entailment
+Mike Trautmann is the editor of Louisville Courier-Journal	entailment
+Louisville Courier-Journal had to apologize for **none in the Last 5 years**	entailment

@@ -1,0 +1,18 @@
+Factual Reporting: HIGH
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+According to their
+[about page](http://politi.site/about-us/) Politisite was founded in 1998 and they “deliver the latest Breaking Political News, Debate Coverage, Election Results, Commentary and Analysis. We provide in-depth news with special reports and interactive political coverage.” The Founding editor is [Albert Milliron](http://politi.site/author/albert-n-milliron/) who “has been credentialed by most major news networks for Presidential debates and major Political Parties for political event coverage.” [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website is owned by Iron Mill Interactive Media and they have a partnership with
+[1 World Online](http://welcome.1worldonline.com/). The website appears to derive funding primarily from online advertising.
+Analysis / Bias
+In review, Politisite previously covered four main categories:
+[Political News](http://politi.site/category/politics/), which has not been updated June 18, 2018, [White House](http://politi.site/category/white-house/), which has not been active since 2015, [Political Polls](http://politi.site/category/polls/), which last saw a post in 2016 and finally [Election Results](http://politi.site/category/elections/election-results/), which has not been active since 2014. All in all, it appears this once very popular and groundbreaking website is dead.
+Update: Politisite began publishing political news stories in May 2019. Stories consist of aggregated news content as well as original reporting and commentary by Albert Milliron and others. Aggregated content comes from sources such as
+[Real Clear Politics](https://mediabiasfactcheck.com/real-clear-politics/) and [FiveThirtyEight](https://mediabiasfactcheck.com/fivethirtyeight/). Article and headlines do not generally rely on emotional wording such as this: [Joe Biden Statement on Sexual Assault Allegations](https://politisite.com/2020/05/01/statement-by-presidential-candidate-joe-biden-on-sexual-assault-allegations/). This story is sourced directly to Joe Biden’s statements.
+Editorially, we previously rated Politisite right biased due to story selection that favored conservatives, however in 2020 this source offers more straightforward news and opinion pieces appear more balanced, though still leaning right such as this:
+[Coronavirus and Urban America’s Healthcare Disparity](https://politisite.com/2020/04/30/coronavirus-and-urban-americas-healthcare-disparity/). In general, the news is reported factually with a slight right-leaning editorial bias.
+Failed Fact Checks
+- None in the Last 5 years

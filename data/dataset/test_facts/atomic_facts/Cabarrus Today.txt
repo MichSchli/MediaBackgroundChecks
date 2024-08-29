@@ -1,0 +1,22 @@
+Metric Media LLC founded Cabarrus Today	entailment
+Cabarrus Today leads Cabarrus Today	entailment
+Cabarrus Today is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Cabarrus Today is to **look like a local news source**	entailment
+The mission of Cabarrus Today is to **impartially provide objective, data-driven information without political bias**	contradiction
+The usual audience of Cabarrus Today is **conservative-leaning**	entailment
+Cabarrus Today tends to the right-center	entailment
+Other sources have commented on Cabarrus Today, stating that it tends to be right-center.	entailment
+The factuality of Cabarrus Today is reported to be Questionable	entailment
+The factuality of Cabarrus Today is reported to be Questionable, according to D. Van Zandt 	entailment
+Cabarrus Today chose not to cover false information.	contradiction
+Cabarrus Today relies on advertising for revenue	entailment
+Cabarrus Today relies on donations for revenue	entailment
+When aggregating stories, Cabarrus Today relies on information from algorithmically produced content.	entailment
+Cabarrus Today has endorsed right-center, biased, and Questionable.	entailment
+Cabarrus Today has an editorial bias towards **right-leaning**	entailment
+Cabarrus Today was fined $5000	entailment
+Cabarrus Today printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Cabarrus Today printed a factually misleading titled **source**	entailment
+Cabarrus Today had to apologize for **publishing false information**	entailment
+Cabarrus Today is a conservative-leaning news website.	entailment
+Cabarrus Today covers the following topics: conservative-leaning news.	entailment

@@ -1,0 +1,21 @@
+Arms Control Association acquired Arms Control Association	contradiction
+Arms Control Association is funded through grants and donations.	entailment
+The remit of Arms Control Association is to promote public understanding of and support for effective arms control policies.	entailment
+The mission of Arms Control Association is to promote public understanding of and support for effective arms control policies.	entailment
+Arms Control Association tends to the LEFT.	entailment
+Other sources have commented on Arms Control Association, stating that it tends to be Left-Center	entailment
+The factuality of Arms Control Association is reported to be High	entailment
+The factuality of Arms Control Association is reported to be high, according to [mediabiasfactcheck.com](https://mediabiasfactcheck.com/arms-control-association/).	entailment
+Arms Control Association chose not to cover Iran nuclear deal withdrawal	contradiction
+Arms Control Association relies on advertising for revenue	entailment
+Arms Control Association relies on subscriptions for revenue	entailment
+Arms Control Association relies on donations for revenue	entailment
+Arms Control Association has received donations from Carnegie Corporation of New York, Charles Koch Foundation, German Foreign Federal Office, Janelia Foundation, John D. and Catherine T. MacArthur Foundation, New-Land Foundation, Open Society Foundations, Pentagon Budget Campaign and the Colombe Foundation, Ploughshares Fund, Prospect Hill Foundation, Selma Ankist Family Trust, Stewart R. Mott Charitable Trust, and The Susan A. and Donald P. Babson Foundation.	entailment
+Arms Control Association has endorsed denuclearization	entailment
+Arms Control Association has an editorial bias towards Left-Center	entailment
+Arms Control Association was fined 	entailment
+Arms Control Association printed a biased article titled  "Nuclear Excess: Understanding the Costs, Risks, and Alternatives".	entailment
+Arms Control Association printed a factually misleading titled "Seeing Red in Trump’s Iran Strategy"	entailment
+Arms Control Association is funded by the German Foreign Federal Office	entailment
+Arms Control Association is a nonprofit	entailment
+Arms Control Association covers the following topics: promoting public understanding of and support for effective arms control policies	entailment

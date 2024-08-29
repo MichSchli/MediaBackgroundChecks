@@ -1,0 +1,22 @@
+Forum Communications Company founded Rochester Post-Bulletin	contradiction
+Forum Communications Company owns Rochester Post-Bulletin	entailment
+Forum Communications Company is the owner of Rochester Post-Bulletin	entailment
+Forum Communications Company bought Rochester Post-Bulletin	entailment
+Forum Communications Company acquired Rochester Post-Bulletin	entailment
+Rochester Post-Bulletin is funded through advertising and subscriptions	entailment
+The remit of Rochester Post-Bulletin is to **cover local news through reporters with minimal bias**.	entailment
+The usual audience of Rochester Post-Bulletin is **local community members**	entailment
+Rochester Post-Bulletin tends to the Right-Center.	entailment
+Rochester Post-Bulletin tends to the right-center according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Rochester Post-Bulletin, stating that it tends to be Right-Center biased.	entailment
+The factuality of Rochester Post-Bulletin is reported to be High	entailment
+The factuality of Rochester Post-Bulletin is reported to be High, according to the source.	entailment
+The Rochester Post-Bulletin chose not to cover  "Presidential Endorsement: This time for president, none of the above".	entailment
+Rochester Post-Bulletin relies on advertising for revenue	entailment
+Rochester Post-Bulletin relies on subscriptions for revenue	entailment
+Rochester Post-Bulletin relies on donations for revenue	contradiction
+When aggregating stories, Rochester Post-Bulletin relies on information from [the Washington Post](https://mediabiasfactcheck.com/washington-post/) and other Forum Communications newspapers.	entailment
+Rochester Post-Bulletin has endorsed Democratic candidate Barack Obama	entailment
+Rochester Post-Bulletin has an editorial bias towards right.	entailment
+Rochester Post-Bulletin printed a biased article titled  "Presidential Endorsement: This time for president, none of the above".	entailment
+Rochester Post-Bulletin printed a factually misleading titled  "Presidential Endorsement: This time for president, none of the above".	contradiction

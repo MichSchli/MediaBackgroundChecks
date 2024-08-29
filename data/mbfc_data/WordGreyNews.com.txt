@@ -1,0 +1,12 @@
+History
+[Founded in 2017](https://whois.domaintools.com/worldgreynews.com), WorldGreyNews.com (WGN) anonymously publishes a mix of real news stories and user-generated fake news stories. According to their [about page](https://www.worldgreynews.com/about), the “purpose of this website is fun. It should be used for joking with your friends. We are not responsible for the content.”
+The domain is registered anonymously in Serbia.
+Funded by / Ownership
+[Web Developer Luka Stojanovic](https://onionstand.lukacp.mycpanel.rs/) owns the website, though this is not disclosed on the website. Advertising generates revenue.
+Analysis / Bias
+WorldGreyNews.com, also known as the Fake News Generator, publishes real news stories on their homepage from credible sources such as
+[Sky News](https://mediabiasfactcheck.com/sky-news/). Interspersed amongst the real stories are user-generated fake news stories. The site’s primary purpose is to have people create real-looking fake news stories to share with friends on social media. Users can even include logos from [CNN](https://mediabiasfactcheck.com/left/cnn-bias/), [Sky News](https://mediabiasfactcheck.com/sky-news/), and the [BBC](https://mediabiasfactcheck.com/bbc/) to trick people further.
+On Luka Stojanovic’s web developer portfolio website, he claims worldgreynews.com is a “Fake joke news creator.” He further states, “On this service, the client can publish joke news. When he creates news, he can share it with friends. Joke article is surrounded by real actual news. I created the PHP script that scrapes BBC feed, scrapes images from pages linked with feed.”
+While WGN clarifies they are a fake news generator, the publication of real news makes this site deceptive and therefore Questionable. The website has even caught the attention of fact-checkers. See below.
+Failed Fact Checks
+[“Halyna Huchins’ next project was documentary on Hollywood pedophile rings.”](https://www.politifact.com/factchecks/2021/oct/25/viral-image/no-halyna-hutchins-wasnt-working-hollywood-pedophi/)– Pants on Fire [Philip Andrei Gancia a young actor a.k.a “Lilip” achieved his dream at young age!](https://leadstories.com/hoax-alert/2019/10/fake-news-dreams-to-reality-a-young-man-from-philippines-became-a-pornstar.html)– False

@@ -1,0 +1,19 @@
+Juhani Aho founded Helsingin Sanomat	contradiction
+Sanoma Corporation leads Helsingin Sanomat	entailment
+Sanoma Corporation owns Helsingin Sanomat	entailment
+Helsingin Sanomat is funded through advertising and subscription fees.	entailment
+The remit of Helsingin Sanomat is to cover news, entertainment, culture, science, finance, and sports.	entailment
+The mission of Helsingin Sanomat is to report news.	entailment
+Helsingin Sanomat tends to the left.	entailment
+Other sources have commented on Helsingin Sanomat, stating that it tends to be **Left-Center biased**	entailment
+The factuality of Helsingin Sanomat is reported to be High	entailment
+The factuality of Helsingin Sanomat is reported to be High, according to Mediabiasfactcheck.	entailment
+Helsingin Sanomat failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Helsingin Sanomat chose not to cover Hong Kong	contradiction
+Helsingin Sanomat relies on advertising for revenue	entailment
+Helsingin Sanomat relies on subscriptions for revenue	entailment
+Helsingin Sanomat relies on donations for revenue	contradiction
+When aggregating stories, Helsingin Sanomat relies on information from credible sources such as the New York Times, Helsinki Times, The Guardian, and BBC.	entailment
+Helsingin Sanomat has endorsed Climate action	entailment
+Helsingin Sanomat has an editorial bias towards  Left-Center.	entailment
+Kaius Niemi is the editor of Helsingin Sanomat	entailment

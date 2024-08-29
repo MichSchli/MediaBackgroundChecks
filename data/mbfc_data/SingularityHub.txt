@@ -1,0 +1,10 @@
+History
+According to their
+[about page](https://singularityhub.com/about/#sm.00uoa1or14spe0t10d52fb00ba81g): “Singularity Hub chronicles technological progress by highlighting the breakthroughs, players, and issues shaping the future as well as supporting a global community of smart, passionate, action-oriented people who want to change the world.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Singularity University owns and published the Singularity Hub. It is not clear how they generate revenue.
+Analysis / Bias
+The Singularity Hub primarily covers astronomy, science, and technology. Articles and headlines are well-sourced, fact-based, and present with minimal bias, such as this
+[A Mystery Object in Space Flashed Brilliantly for 3 Months—Then Disappeared](https://singularityhub.com/2022/01/27/a-mystery-object-in-space-flashed-brilliantly-for-3-months-then-disappeared/). The website also republishes articles from credible sources such as [The Conversation](https://mediabiasfactcheck.com/the-conversation/).
+Failed Fact Checks
+- None in the Last 5 years

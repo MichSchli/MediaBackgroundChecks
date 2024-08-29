@@ -1,0 +1,24 @@
+KRBC leads KRBC - Abilene News	entailment
+Nexstar Media Group owns KRBC - Abilene News	entailment
+Nexstar Media Group is the owner of KRBC - Abilene News.	entailment
+Nexstar Media Group bought KRBC - Abilene News	contradiction
+Nexstar Media Group acquired KRBC - Abilene News	entailment
+KRBC - Abilene News is funded through advertising.	entailment
+The remit of KRBC - Abilene News is to  report news factually and with minimal bias.	entailment
+The mission of KRBC - Abilene News is to  "publish news for the greater Abilene, Texas area."	entailment
+The usual audience of KRBC - Abilene News is **the greater Abilene, Texas area**	entailment
+Other sources have commented on KRBC - Abilene News, stating that it tends to be **Least Biased**	entailment
+The factuality of KRBC - Abilene News is reported to be High	entailment
+The factuality of KRBC - Abilene News is reported to be High, according to Mediabiasfactcheck.	entailment
+KRBC - Abilene News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+KRBC - Abilene News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+KRBC - Abilene News chose not to cover op-eds	entailment
+KRBC - Abilene News relies on advertising for revenue	entailment
+KRBC - Abilene News relies on subscriptions for revenue	entailment
+KRBC - Abilene News relies on donations for revenue	contradiction
+When aggregating stories, KRBC - Abilene News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+KRBC - Abilene News has an editorial bias towards **neither side**	entailment
+KRBC - Abilene News printed a factually misleading titled "Biden, leaders of Australia, India, Japan to meet in person".	contradiction
+KRBC - Abilene News had to apologize for  \[Not Applicable\]	contradiction
+KRBC - Abilene News is funded by the **Advertising** government	entailment
+KRBC - Abilene News is a [Least Biased](https://mediabiasfactcheck.com/least-biased/).	entailment

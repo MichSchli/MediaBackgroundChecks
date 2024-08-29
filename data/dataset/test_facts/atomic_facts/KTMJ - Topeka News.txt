@@ -1,0 +1,25 @@
+FOX founded KTMJ - Topeka News	entailment
+Nexstar Media Group owns KTMJ - Topeka News	entailment
+Nexstar Media Group is the owner of KTMJ - Topeka News	entailment
+Nexstar Media Group bought KTMJ - Topeka News	entailment
+KTMJ - Topeka News is funded through  advertising.	entailment
+The remit of KTMJ - Topeka News is to report news factually and with minimal bias.	entailment
+The mission of KTMJ - Topeka News is to report news factually and with minimal bias.	entailment
+The usual audience of KTMJ - Topeka News is **the greater Topeka, Kansas, area**.	entailment
+KTMJ - Topeka News tends to the **least biased**	entailment
+Other sources have commented on KTMJ - Topeka News, stating that it tends to be **Least Biased**	entailment
+The factuality of KTMJ - Topeka News is reported to be High	entailment
+The factuality of KTMJ - Topeka News is reported to be High, according to Mediabiasfactcheck.	entailment
+KTMJ - Topeka News failed a fact-check for an article titled "None in the last 5 years".	contradiction
+KTMJ - Topeka News printed a retraction after failing a fact-check for an article titled "Kansas Governor ‘fully expects’ abortion rights debate".	contradiction
+KTMJ - Topeka News chose not to cover op-eds	entailment
+KTMJ - Topeka News relies on advertising for revenue	entailment
+KTMJ - Topeka News relies on subscriptions for revenue	entailment
+KTMJ - Topeka News relies on donations for revenue	entailment
+When aggregating stories, KTMJ - Topeka News relies on information from the Associated Press.	entailment
+KTMJ - Topeka News has an editorial bias towards least biased.	entailment
+KTMJ - Topeka News printed a factually misleading titled **None in the last 5 years**.	contradiction
+KTMJ - Topeka News had to apologize for **failed fact checks**.	contradiction
+KTMJ - Topeka News had to apologize to no one for nothing	entailment
+KTMJ - Topeka News is a [FOX](https://mediabiasfactcheck.com/fox-news-bias/)-affiliated television station licensed to Topeka, Kansas.	entailment
+KTMJ - Topeka News covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

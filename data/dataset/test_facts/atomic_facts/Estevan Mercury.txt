@@ -1,0 +1,21 @@
+Glacier Media Group owns Estevan Mercury	entailment
+Glacier Media Group is the owner of Estevan Mercury	entailment
+Who acquired Estevan Mercury	entailment
+Estevan Mercury is funded through **advertising and subscriptions**	entailment
+The remit of Estevan Mercury is to report sports, weather, national, world, and local news for the greater Estevan, Saskatchewan region.	entailment
+Estevan Mercury tends to the left	entailment
+Other sources have commented on Estevan Mercury, stating that it tends to be Left-Center Biased	entailment
+The factuality of Estevan Mercury is reported to be High	entailment
+The factuality of Estevan Mercury is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+Estevan Mercury failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Estevan Mercury printed a retraction after failing a fact-check for an article titled Column: Holidays don’t have to hurt the environment	contradiction
+Estevan Mercury chose not to cover failed fact checks	entailment
+Estevan Mercury relies on advertising for revenue	entailment
+Estevan Mercury relies on subscriptions for revenue	entailment
+Estevan Mercury relies on donations for revenue	contradiction
+When aggregating stories, Estevan Mercury relies on information from [the Canadian Press](https://mediabiasfactcheck.com/2018/06/15/fact-check-of-trumps-canadian-trade-stats/) and [the Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Estevan Mercury has endorsed the left.	entailment
+Estevan Mercury has an editorial bias towards **the left**	entailment
+Estevan Mercury printed a biased article titled Column: Holidays don’t have to hurt the environment	entailment
+Estevan Mercury is a **newspaper**	entailment
+Estevan Mercury covers the following topics: sports, weather, national, world, and local news for the greater Estevan, Saskatchewan region.	entailment

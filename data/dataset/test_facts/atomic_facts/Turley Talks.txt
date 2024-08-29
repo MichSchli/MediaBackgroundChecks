@@ -1,0 +1,24 @@
+Dr. Steve Turley founded Turley Talks	entailment
+Dr. Steve Turley leads Turley Talks	entailment
+Dr. Steve Turley owns Turley Talks	entailment
+Dr. Steve Turley bought Turley Talks	contradiction
+The remit of Turley Talks is to **provide commentary and analysis on current events**	entailment
+The mission of Turley Talks is to construct a Parallel Economy to live out our God-given freedoms.	entailment
+Turley Talks tends to the far-right.	entailment
+Other sources have commented on Turley Talks, stating that it tends to be far-right biased.	entailment
+The factuality of Turley Talks is reported to be Questionable	entailment
+The factuality of Turley Talks is reported to be Questionable, according to [Media Bias Fact Check](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Turley Talks failed a fact-check for an article titled "7,200 Jobs CUT At CNN, Huffington Post, BuzzFeed in 2019!!!"	entailment
+Turley Talks printed a retraction after failing a fact-check for an article titled **"7,200 Jobs CUT At CNN, Huffington Post, BuzzFeed in 2019!!!"**	entailment
+Turley Talks relies on advertising for revenue	entailment
+Turley Talks relies on subscriptions for revenue	entailment
+When aggregating stories, Turley Talks relies on information from **poor sources**.	entailment
+Turley Talks has endorsed nationalism, populism, and traditionalism	entailment
+Turley Talks has an editorial bias towards **nationalism, populism, and traditionalism**	entailment
+Turley Talks was fined $0	entailment
+Turley Talks printed a biased article titled **Trump Victory INEVITABLE as DeSantis IMPLODES!**	entailment
+Turley Talks printed a factually misleading titled "Nobel Prize Awarded to Developers of Deadly Bioweapon"	entailment
+Turley Talks had to apologize to no one for nothing	entailment
+Turley Talks's headquarter is located in Pennsylvania	entailment
+Turley Talks is a **far-right biased website that promotes propaganda and misinformation to further its agenda**	entailment
+Turley Talks covers the following topics: current events, nationalism, populism, traditionalism	entailment

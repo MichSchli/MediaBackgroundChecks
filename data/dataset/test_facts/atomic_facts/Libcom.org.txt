@@ -1,0 +1,22 @@
+Libcom.org is funded through donations.	entailment
+The remit of Libcom.org is to **fight to improve their lives, their communities, and their working conditions**	entailment
+The mission of Libcom.org is to fight to improve their lives, their communities, and their working conditions. We want to discuss, learn from successes and failures of the past, and develop strategies to increase the power we, as ordinary people, have over our own lives.	entailment
+The usual audience of Libcom.org is left-wing.	entailment
+Libcom.org tends to the **Left Biased**.	entailment
+Other sources have commented on Libcom.org, stating that it tends to be Left Biased	entailment
+The factuality of Libcom.org is reported to be Mostly Factual	entailment
+The factuality of Libcom.org is reported to be Mostly Factual, according to Media Bias/Fact Check.	entailment
+Libcom.org failed a fact-check for an article titled "None in the Last 5 years"	entailment
+Libcom.org chose not to cover ownership and authors.	entailment
+Libcom.org relies on advertising for revenue	entailment
+Libcom.org relies on subscriptions for revenue	contradiction
+Libcom.org relies on donations for revenue	entailment
+When aggregating stories, Libcom.org relies on information from **their users**.	entailment
+Libcom.org has endorsed Libertarian Communism.	entailment
+Libcom.org has an editorial bias towards left-wing ideology.	entailment
+Libcom.org printed a biased article titled "LibCom.org Left Biased Based on Editorial Positions and Advocacy for Far-Left Ideology."	entailment
+Libcom.org printed a factually misleading titled Left Biased Based on Editorial Positions and Advocacy for Far-Left Ideology.	entailment
+Libcom.org had to apologize to no one for nothing	entailment
+Libcom.org's headquarter is located in London	entailment
+Libcom.org is funded by the United States government	entailment
+Libcom.org is a **left-wing biased**	entailment

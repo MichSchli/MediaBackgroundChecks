@@ -1,0 +1,10 @@
+History
+Founded in 2020, Coronavirus.gov is a website created by the
+[CDC](https://mediabiasfactcheck.com/centers-disease-control-prevention-cdc/), HHS, and the [White House](https://mediabiasfactcheck.com/whitehouse-gov/) to disseminate information regarding the Coronavirus. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-courts-uscourts-gov-bias/)
+Funded by / Ownership
+Coronavirus.gov is owned and funded by the United States Government.
+Analysis / Bias
+In review, the website provides news about Coronavirus (Covid-19) from an official Government perspective. For example, they link to the
+[CDC](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) for a list of symptoms and protocols to follow. They also provide a “Latest News” section that links to the CDC and HHS for up-to-minute updates on the nature of the virus.
+Failed Fact Checks
+- None

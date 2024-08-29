@@ -1,0 +1,18 @@
+BioMed Central owns Genes & Nutrition Journal	entailment
+BioMed Central acquired Genes & Nutrition Journal	contradiction
+Genes & Nutrition Journal is funded through **Springer Nature**.	entailment
+The remit of Genes & Nutrition Journal is to improve human health and performance.	entailment
+The mission of Genes & Nutrition Journal is to improve human health and performance	entailment
+Genes & Nutrition Journal tends to the **relationship between nutrition and genomes**.	entailment
+Other sources have commented on Genes & Nutrition Journal, stating that it tends to be open-access.	entailment
+The factuality of Genes & Nutrition Journal is reported to be High	entailment
+The factuality of Genes & Nutrition Journal is reported to be High, according to D. Van Zandt 	entailment
+Genes & Nutrition Journal chose not to cover Predatory journals	entailment
+Genes & Nutrition Journal relies on subscriptions for revenue	contradiction
+Genes & Nutrition Journal relies on donations for revenue	contradiction
+When aggregating stories, Genes & Nutrition Journal relies on information from [legitimate, open-access publishers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017830/) that is frequently indexed in [PubMed](https://mediabiasfactcheck.com/pubmed/).	entailment
+Genes & Nutrition Journal has endorsed Pro-Science	entailment
+Genes & Nutrition Journal has an editorial bias towards Pro-Science	entailment
+Genes & Nutrition Journal is a peer-reviewed open-access journal.	entailment
+Genes & Nutrition Journal uses a peer review process	entailment
+Genes & Nutrition Journal covers the following topics: Genetics and Nutrition	entailment

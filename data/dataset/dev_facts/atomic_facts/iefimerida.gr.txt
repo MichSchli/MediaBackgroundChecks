@@ -1,0 +1,20 @@
+Itorum founded iefimerida.gr	entailment
+iefimerida.gr is funded through advertising	entailment
+The remit of iefimerida.gr is to cover topics such as Politics, Economy, World, Greece, Sports, Health, Culture, Media, Technology, Lifestyle, and Cinema.	entailment
+The usual audience of iefimerida.gr is Right-Center Biased	entailment
+iefimerida.gr tends to the right	entailment
+iefimerida.gr tends to the Right-Center Biased according to story selection and editorial positions that frequently favor the Center-right.	entailment
+Other sources have commented on iefimerida.gr, stating that it tends to be Right-Center Biased	entailment
+The factuality of iefimerida.gr is reported to be Mixed	entailment
+The factuality of iefimerida.gr is reported to be Mixed, according to Mediabiasfactcheck	entailment
+iefimerida.gr failed a fact-check for an article titled "Greek director Costas Gavras 'died' was released today at noon"	entailment
+iefimerida.gr relies on advertising for revenue	entailment
+iefimerida.gr relies on subscriptions for revenue	entailment
+iefimerida.gr relies on donations for revenue	entailment
+iefimerida.gr has received donations from **\\**	entailment
+When aggregating stories, iefimerida.gr relies on information from quotes.	entailment
+iefimerida.gr has endorsed Right-Center Biased	entailment
+iefimerida.gr has an editorial bias towards Right-Center	entailment
+Iefimerida.gr is the editor of iefimerida.gr	entailment
+iefimerida.gr was fined **for poor sourcing and several failed fact checks**	entailment
+iefimerida.gr had to apologize to Greece for biased reporting	entailment

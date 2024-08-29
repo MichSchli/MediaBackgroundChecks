@@ -1,0 +1,28 @@
+Gannett is the founder of Rockford Register Star.	entailment
+Gannett owns Rockford Register Star	entailment
+Gannett is the owner of Rockford Register Star.	entailment
+Gannett bought Rockford Register Star	entailment
+Gannett acquired Rockford Register Star	entailment
+Rockford Register Star is funded through advertising and paid subscriptions	entailment
+The mission of Rockford Register Star is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The usual audience of Rockford Register Star is **local**	entailment
+Rockford Register Star tends to the left.	entailment
+Other sources have commented on Rockford Register Star, stating that it tends to be Left-Center Biased	entailment
+The factuality of Rockford Register Star is reported to be High	entailment
+The factuality of Rockford Register Star is reported to be High, according to a review by Media Bias Fact Check.	entailment
+Rockford Register Star failed a fact-check for an article titled "Violence divides us; we need to unite to solve racial inequities".	contradiction
+Rockford Register Star printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Rockford Register Star chose not to cover Presidential endorsements	entailment
+Rockford Register Star relies on advertising for revenue	entailment
+Rockford Register Star relies on donations for revenue	contradiction
+Rockford Register Star has received donations from **advertising and paid subscriptions**	entailment
+When aggregating stories, Rockford Register Star relies on information from **other Gannett publications and the Associated Press**	entailment
+Rockford Register Star has endorsed **left**	entailment
+Rockford Register Star has an editorial bias towards Left.	entailment
+Rockford Register Star printed a biased article titled **Violence divides us; we need to unite to solve racial inequities**	entailment
+Rockford Register Star had to apologize for **None in the Last 5 years**	entailment
+Rockford Register Star had to apologize to no one for nothing	entailment
+Rockford Register Star's headquarter is located in Rockford.	entailment
+Rockford Register Star is funded by the **United States** government	contradiction
+Rockford Register Star is a Left-Center Biased	entailment
+Rockford Register Star covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment

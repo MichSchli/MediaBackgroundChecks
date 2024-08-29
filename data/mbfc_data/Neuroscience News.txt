@@ -1,0 +1,10 @@
+History
+Founded in 2001, Neuroscience News is a website that publishes news, research, and information on the field of Neuroscience. According to their
+[about page](https://neurosciencenews.com/about-neuroscience-news/), “To this day, the site is an independent science news website focusing mainly on neuroscience and other cognitive sciences. We scour news sources from universities, labs, news agencies, scientists, science publishers, and other science departments. We post full articles, releases, abstracts, and sometimes full research journal papers on our site. We also take submissions from nearly anyone.” The founder and current editor-in-chief is Erik Driscoll. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Neuroscience News does not clearly state ownership; however, it appears to be owned by the founder Erik Driscoll. Revenue is derived through advertising. They disclaim on the About page, “No funds have been taken from governments, grants, pharmaceutical companies, big businesses, banks, schools, or others with possibly conflicting interests, to help with this site at any time.”
+Analysis / Bias
+In review, Neuroscience News generally republishes news and research from other parties such as this
+[How Fear Transforms into Anxiety](https://neurosciencenews.com/fear-anxiety-16625/). This research is derived from the University of New Mexico. Neuroscience News states on its About page that they attempt to republish Open Access articles because they are free such as this [COVID-19 Spreads Ten Meters or More by Breathing](https://neurosciencenews.com/coronavirus-breathing-16619/). It is important to know that not all open-access articles are properly peer-reviewed. In general, all information on this website is pro-science by our definition, though we offer caution due to the use of open-access journals.
+Failed Fact Checks
+- None in the Last 5 years.

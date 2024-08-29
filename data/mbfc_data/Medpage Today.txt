@@ -1,0 +1,12 @@
+History
+[Founded in 2005](https://en.wikipedia.org/wiki/MedPage_Today), Medpage Today is an online medical news service provider geared toward health professionals. According to their [about page](https://www.medpagetoday.com/aboutus), “MedPage Today is a trusted source for clinical news coverage across the medical specialties. We cover all the clinical news, findings, and announcements that we think will directly affect the lives and practices of health care professionals throughout the U.S. [Our reporters](https://support.medpagetoday.com/hc/en-us/articles/360022482191-Medpage-Today-Editorial-Team) are longtime experts in their beats; our editors are top-notch, and we are meticulous about fact-checking and disclosures.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Medpage Today LLC is owned by Everyday Health Group, which Los Angeles-based technology company j2 Global owns
+[.](https://en.wikipedia.org/wiki/J2_Global) Advertising and sponsored content generate revenue.
+Analysis / Bias
+In review, Medpage Today has sections covering numerous specialties such as cardiology, dermatology, orthopedics, etc. The website covers healthcare policy stories, clinical research, general health, medical news, and scientific breakthroughs. Articles and headlines do not use loaded emotional language such as this
+[Can PARP Inhibitor Eligibility Expand in Pancreatic Cancer?](https://www.medpagetoday.com/hematologyoncology/othercancers/91493) and this [MRI With Targeted Biopsy Matches Current Standard for ID’ing Prostate Cancer](https://www.medpagetoday.org/hematologyoncology/prostatecancer/91467?vpass=1). Further, all articles are sourced from either peer-reviewed studies or credible media outlets such as [The Atlantic](https://mediabiasfactcheck.com/the-atlantic/) and [Reuters](https://mediabiasfactcheck.com/reuters/).
+Editorially, they do not produce op-eds; however, they cover politics related to healthcare, such as this
+[COVID Relief Bill Contains Lots of Healthcare Provisions](https://www.medpagetoday.com/infectiousdisease/covid19/91512). In general, political coverage is low-biased, and all information is factual.
+Failed Fact Checks
+- None in the Last 5 years

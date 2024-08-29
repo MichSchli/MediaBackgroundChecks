@@ -1,0 +1,23 @@
+Lee Enterprises founded North Platte Telegraph	contradiction
+Lee Enterprises owns North Platte Telegraph	entailment
+Lee Enterprises is the owner of North Platte Telegraph	entailment
+Lee Enterprises bought North Platte Telegraph	entailment
+Lee Enterprises acquired North Platte Telegraph	entailment
+North Platte Telegraph is funded through advertising and subscription fees	entailment
+The remit of North Platte Telegraph is to **report on news, sports, entertainment, lifestyle, and opinion for North Platte and the surrounding area**	entailment
+The mission of North Platte Telegraph is to report on news, sports, weather, crime, and entertainment for the greater North Platte, NE region.	entailment
+The usual audience of North Platte Telegraph is **residents of North Platte and the surrounding area**	entailment
+North Platte Telegraph tends to the **right**	contradiction
+Other sources have commented on North Platte Telegraph, stating that it tends to be **least biased**.	entailment
+The factuality of North Platte Telegraph is reported to be High	entailment
+The factuality of North Platte Telegraph is reported to be High, according to D. Van Zandt	entailment
+North Platte Telegraph failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+North Platte Telegraph chose not to cover Failed Fact Checks	entailment
+North Platte Telegraph relies on advertising for revenue	entailment
+North Platte Telegraph relies on subscriptions for revenue	entailment
+North Platte Telegraph relies on donations for revenue	contradiction
+When aggregating stories, North Platte Telegraph relies on information from **first-person accounts or through credible media**.	entailment
+North Platte Telegraph has an editorial bias towards least biased.	entailment
+North Platte Telegraph was fined $45,000	contradiction
+North Platte Telegraph is funded by the Republican government	contradiction
+North Platte Telegraph covers the following topics: news, sports, entertainment, lifestyle, and opinion	entailment

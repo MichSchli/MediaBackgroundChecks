@@ -1,0 +1,19 @@
+MDPI AG owns Algorithms Journal	entailment
+MDPI AG is the owner of Algorithms Journal	entailment
+Algorithms Journal is funded through **Article Processing Charges (APC)**	entailment
+The remit of Algorithms Journal is to **cover the science of algorithms**	entailment
+The usual audience of Algorithms Journal is academics.	entailment
+Algorithms Journal tends to the Pro-Science	entailment
+Other sources have commented on Algorithms Journal, stating that it tends to be **Pro-Science**	entailment
+The factuality of Algorithms Journal is reported to be Mostly Factual	entailment
+The factuality of Algorithms Journal is reported to be Mostly Factual, according to M. Huitsing 12/12/2022.	entailment
+Algorithms Journal failed a fact-check for an article titled "A Proposal of Printed Table Digitization Algorithm with Image Processing".	contradiction
+Algorithms Journal printed a retraction after failing a fact-check for an article titled **None for Algorithms Journal; however, other MDPI journals have**	contradiction
+Algorithms Journal relies on advertising for revenue	contradiction
+Algorithms Journal relies on donations for revenue	entailment
+Algorithms Journal has an editorial bias towards Pro-Science.	entailment
+Algorithms Journal was fined 	entailment
+Algorithms Journal's headquarter is located in Basel	entailment
+Algorithms Journal is a **monthly online journal**	entailment
+Algorithms Journal uses a peer review process	entailment
+Algorithms Journal covers the following topics: the science of algorithms.	entailment

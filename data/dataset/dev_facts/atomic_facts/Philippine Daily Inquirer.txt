@@ -1,0 +1,20 @@
+Eugenia Apóstol founded Philippine Daily Inquirer	entailment
+Rufino-Prieto family owns Philippine Daily Inquirer	entailment
+Rufino-Prieto family is the owner of Philippine Daily Inquirer	entailment
+Ramon Ang bought Philippine Daily Inquirer	entailment
+Ramon Ang acquired Philippine Daily Inquirer	entailment
+Philippine Daily Inquirer is funded through advertising	entailment
+The remit of Philippine Daily Inquirer is to **focus on covering national news and current headlines from the Philippines and around the world**	entailment
+Philippine Daily Inquirer tends to the Left	entailment
+Philippine Daily Inquirer tends to the left according to Mediabiasfactcheck	entailment
+Other sources have commented on Philippine Daily Inquirer, stating that it tends to be Left-Center	entailment
+The factuality of Philippine Daily Inquirer is reported to be Mostly Factual	entailment
+The factuality of Philippine Daily Inquirer is reported to be Mostly Factual, according to a 	entailment
+Philippine Daily Inquirer chose not to cover Duterte threatens to be Robredo’s ‘nightmare‘ if she runs for president	contradiction
+Philippine Daily Inquirer relies on advertising for revenue	entailment
+Philippine Daily Inquirer relies on subscriptions for revenue	entailment
+Philippine Daily Inquirer relies on donations for revenue	contradiction
+When aggregating stories, Philippine Daily Inquirer relies on information from [AFP](https://mediabiasfactcheck.com/afp-agence-france-presse/)	entailment
+Philippine Daily Inquirer has an editorial bias towards **left**	entailment
+Philippine Daily Inquirer printed a biased article titled **"Dolomite populism"**	entailment
+Philippine Daily Inquirer paid damages to Duterte after Duterte threatens to be Robredo’s ‘nightmare‘ if she runs for president	contradiction

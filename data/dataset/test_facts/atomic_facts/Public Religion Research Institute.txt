@@ -1,0 +1,19 @@
+Public Religion Research Institute is funded through donations and partnerships with the organizations listed above	entailment
+The remit of Public Religion Research Institute is to conduct public opinion polls on a variety of different topics	entailment
+The mission of Public Religion Research Institute is to conduct public opinion polls on a variety of different topics	entailment
+The usual audience of Public Religion Research Institute is **journalists, scholars, policymakers and the general public**	entailment
+Other sources have commented on Public Religion Research Institute, stating that it tends to be  non-partisan.	entailment
+The factuality of Public Religion Research Institute is reported to be High	entailment
+The factuality of Public Religion Research Institute is reported to be High, according to Mediabiasfactcheck.	entailment
+Public Religion Research Institute failed a fact-check for an article titled "None in the Last 5 years".	entailment
+Public Religion Research Institute chose not to cover failed fact checks	entailment
+Public Religion Research Institute relies on advertising for revenue	contradiction
+Public Religion Research Institute relies on subscriptions for revenue	contradiction
+Public Religion Research Institute relies on donations for revenue	entailment
+Public Religion Research Institute has received donations from [partners and organizations listed above](https://mediabiasfactcheck.com/the-atlantic/), The [Brookings Institution’s](https://mediabiasfactcheck.com/brookings-institute/), the [American Academy of Religion](https://en.wikipedia.org/wiki/AmericanAcademyofReligion), and Georgetown University’s Berkley Center for Religion, Peace & World Affairs.	entailment
+Public Religion Research Institute has endorsed being considered a reliable polling center.	entailment
+Public Religion Research Institute has an editorial bias towards religion and politics.	entailment
+Public Religion Research Institute printed a factually misleading titled "Least Biased and High for factual reporting."	entailment
+Public Religion Research Institute had to apologize for [None in the Last 5 years].	entailment
+Public Religion Research Institute is funded by the United States government	contradiction
+The Public Religion Research Institute is a non-profit, nonpartisan research and education organization that conducts public opinion polls on a variety of different topics.	entailment

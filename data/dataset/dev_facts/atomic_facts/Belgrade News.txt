@@ -1,0 +1,20 @@
+Stephen Adams founded Belgrade News	contradiction
+Adams Publishing Group owns Belgrade News	entailment
+Stephen Adams is the owner of Belgrade News	entailment
+Belgrade News is funded through advertising and subscription fees	entailment
+The remit of Belgrade News is to provide news coverage.	entailment
+The usual audience of Belgrade News is Left-Center Biased	entailment
+Belgrade News tends to the Left.	entailment
+Belgrade News tends to the left according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Belgrade News, stating that it tends to be left-center biased.	entailment
+The factuality of Belgrade News is reported to be High	entailment
+The factuality of Belgrade News is reported to be High, according to Media Bias/Fact Check.	entailment
+Belgrade News failed a fact-check for an article titled "In a pool of blood with multiple gunshot wounds": Woman charged with killing man in Belgrade.	contradiction
+Belgrade News chose not to cover failed fact checks	entailment
+Belgrade News relies on advertising for revenue	entailment
+Belgrade News relies on subscriptions for revenue	entailment
+Belgrade News relies on donations for revenue	contradiction
+When aggregating stories, Belgrade News relies on information from **quotes, interviews, and accounts**.	entailment
+Belgrade News has an editorial bias towards Left	entailment
+Stephen Adams is the editor of Belgrade News	contradiction
+Belgrade News had to apologize for not having any failed fact checks in the last 5 years.	entailment

@@ -1,0 +1,18 @@
+Breakingnews247.net leads Breakingnews247.net	contradiction
+The remit of Breakingnews247.net is to generate fake news.	entailment
+The mission of Breakingnews247.net is to entertain.	entailment
+The usual audience of Breakingnews247.net is **people who want to prank their friends**	entailment
+Breakingnews247.net tends to the **generation of fake news**	entailment
+Other sources have commented on Breakingnews247.net, stating that it tends to be **questionable**	entailment
+The factuality of Breakingnews247.net is reported to be **questionable**	entailment
+The factuality of Breakingnews247.net is reported to be questionable, according to D. Van Zandt 5/2/2019.	entailment
+Breakingnews247.net chose not to cover real news	entailment
+Breakingnews247.net provides original content written by staff journalists	contradiction
+When aggregating stories, Breakingnews247.net relies on information from users.	entailment
+Breakingnews247.net has endorsed **creating fake news for entertainment purposes**	entailment
+Breakingnews247.net has an editorial bias towards **creating fake news and entertainment**	entailment
+Breakingnews247.net printed a biased article titled **Breakingnews247.net is a Fake News Site**	entailment
+Breakingnews247.net printed a factually misleading titled "is Fox News Closing Down After Firing Bill O'Reilly?"	entailment
+Breakingnews247.net had to apologize for **posting fake news**	contradiction
+Breakingnews247.net is a  entertainment site	entailment
+Breakingnews247.net covers the following topics: fake news	entailment

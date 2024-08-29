@@ -1,0 +1,22 @@
+Mark Blatterfein founded FBNewsCycle	entailment
+Mark Blatterfein is the founder of FBNewsCycle	entailment
+Mark Blatterfein leads FBNewsCycle	entailment
+FBNewsCycle is funded through **donations and advertisements**	entailment
+The remit of FBNewsCycle is to **promote conservative news and opinions**	entailment
+The mission of FBNewsCycle is to **promote conservative news and opinions**	entailment
+The usual audience of FBNewsCycle is **conservative**	entailment
+FBNewsCycle tends to the extreme right wing biased	entailment
+Other sources have commented on FBNewsCycle, stating that it tends to be extreme right wing biased.	entailment
+The factuality of FBNewsCycle is reported to be Questionable	entailment
+The factuality of FBNewsCycle is reported to be **questionable**, according to **D. Van Zandt 5/29/2019**.	entailment
+FBNewsCycle chose not to cover **news stories from credible sources**	entailment
+FBNewsCycle relies on advertising for revenue	entailment
+FBNewsCycle relies on subscriptions for revenue	contradiction
+FBNewsCycle relies on donations for revenue	entailment
+When aggregating stories, FBNewsCycle relies on information from discredited right biased sources or completely lack proper sourcing.	entailment
+FBNewsCycle has an editorial bias towards extreme right wing.	entailment
+Mark Blatterfein is the editor of FBNewsCycle	entailment
+FBNewsCycle printed a biased article titled "Liberal Narrative Crushed, Mueller Witness Destroys Prosecutor During Courtroom Throwdown…".	entailment
+FBNewsCycle printed a factually misleading titled "Liberal Narrative Crushed, Mueller Witness Destroys Prosecutor During Courtroom Throwdown…"	entailment
+FBNewsCycle is funded by the private government	contradiction
+FBNewsCycle covers the following topics: news and opinion.	entailment

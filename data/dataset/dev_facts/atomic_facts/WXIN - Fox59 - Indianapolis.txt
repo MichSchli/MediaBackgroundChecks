@@ -1,0 +1,20 @@
+Fox  founded WXIN - Fox59 - Indianapolis	contradiction
+Nexstar Media Group owns WXIN - Fox59 - Indianapolis	entailment
+Nexstar Media Group is the owner of WXIN - Fox59 - Indianapolis	entailment
+Nexstar Media Group bought WXIN - Fox59 - Indianapolis	entailment
+The remit of WXIN - Fox59 - Indianapolis is to **publish news for the greater Indianapolis, Indiana area**.	entailment
+The mission of WXIN - Fox59 - Indianapolis is to  report news factually and with minimal bias.	entailment
+The usual audience of WXIN - Fox59 - Indianapolis is ***the greater Indianapolis, Indiana area***.	entailment
+Other sources have commented on WXIN - Fox59 - Indianapolis, stating that it tends to be **least biased**	entailment
+The factuality of WXIN - Fox59 - Indianapolis is reported to be High	entailment
+The factuality of WXIN - Fox59 - Indianapolis is reported to be high, according to Media Bias/Fact Check.	entailment
+WXIN - Fox59 - Indianapolis failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WXIN - Fox59 - Indianapolis printed a retraction after failing a fact-check for an article titled "Biden to restore 3 national monuments cut by Trump"	contradiction
+WXIN - Fox59 - Indianapolis chose not to cover op-eds.	entailment
+WXIN - Fox59 - Indianapolis provides original content written by staff journalists	entailment
+WXIN - Fox59 - Indianapolis relies on advertising for revenue	entailment
+WXIN - Fox59 - Indianapolis relies on subscriptions for revenue	contradiction
+WXIN - Fox59 - Indianapolis relies on donations for revenue	contradiction
+When aggregating stories, WXIN - Fox59 - Indianapolis relies on information from the Associated Press, and other large credible media outlets.	entailment
+WXIN - Fox59 - Indianapolis has endorsed Least Biased	entailment
+WXIN - Fox59 - Indianapolis has an editorial bias towards **neutrality**	entailment

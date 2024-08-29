@@ -1,0 +1,25 @@
+Alex Christoforou is the founder of The Duran	contradiction
+Cyprus-based DRN Media PLC owns The Duran.	entailment
+Cyprus-based DRN Media PLC bought The Duran	entailment
+DRN Media PLC acquired The Duran	entailment
+The Duran is funded through Paypal and Patreon donations and advertising	entailment
+The remit of The Duran is to ***publish news and opinions with a conservative and pro-Russian perspective***.	entailment
+The mission of The Duran is to  promote a conservative and pro-Russian perspective.	entailment
+The usual audience of The Duran is **individuals with conservative and/or pro-Russian leanings**	entailment
+The Duran tends to the right	entailment
+The Duran tends to the right according to the Telegraph	entailment
+Other sources have commented on The Duran, stating that it tends to be **questionable**.	entailment
+The factuality of The Duran is reported to be Questionable	entailment
+The factuality of The Duran is reported to be questionable, according to D. Van Zandt.	entailment
+The Duran failed a fact-check for an article titled "Hillary Clinton Sold Weapons to ISIS."	contradiction
+The Duran chose not to cover [their own funding, ownership, and mission statement](https://support.google.com/websearch/answer/9084185).	entailment
+The Duran provides original content written by staff journalists	contradiction
+The Duran relies on advertising for revenue	entailment
+The Duran relies on donations for revenue	entailment
+The Duran has received donations from Paypal and Patreon.	entailment
+When aggregating stories, The Duran relies on information from Russian state media	entailment
+The Duran has endorsed **right-wing conspiracies**	entailment
+The Duran has an editorial bias towards **far-right-wing bias and promotion of Russian propaganda**	entailment
+The Duran was fined 	entailment
+The Duran printed a biased article titled "Roger Stone Shines New Light on Russia-Gate Hoax"	entailment
+The Duran printed a factually misleading titled "Roger Stone Shines New Light on Russia-Gate Hoax".	entailment

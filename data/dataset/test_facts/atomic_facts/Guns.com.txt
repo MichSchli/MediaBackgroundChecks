@@ -1,0 +1,16 @@
+The remit of Guns.com is to **publish original reporting on the wide range of topics within the gun world**	entailment
+The mission of Guns.com is to report on guns, the industry, and the politics of gun ownership/control.	entailment
+The usual audience of Guns.com is Right-Center biased and High for factual reporting.	entailment
+Guns.com tends to the Right-Center biased.	entailment
+Other sources have commented on Guns.com, stating that it tends to be Right-Center biased	entailment
+The factuality of Guns.com is reported to be High	entailment
+The factuality of Guns.com is reported to be High, according to D. Van Zandt 	entailment
+Guns.com failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Guns.com chose not to cover **any failed fact checks**	entailment
+Guns.com relies on advertising for revenue	entailment
+Guns.com has an editorial bias towards the right	entailment
+Guns.com printed a biased article titled "Guns.com is Right-Center Biased and High for Factual Reporting".	entailment
+Guns.com printed a factually misleading titled Right-Center biased and High for factual reporting.	contradiction
+Guns.com's headquarters is located in Virginia	entailment
+Guns.com is a niche news website.	entailment
+Guns.com covers the following topics: gun world, guns, the industry, and the politics of gun ownership/control	entailment

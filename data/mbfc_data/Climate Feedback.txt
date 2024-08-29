@@ -1,0 +1,14 @@
+History
+[Founded in 2015](https://en.wikipedia.org/wiki/Climate_Feedback), Climate Feedback is a fact-checking website that distinguishes inaccurate climate change narratives from scientifically sound and trustworthy information in the media. They also provide feedback to editors about the credibility of information published in their outlets. Each reviewer holds a Ph.D. and has recently published articles in top-tier peer-reviewed science journals.
+Climate Feedback is a project of the
+[Science Feedback](https://sciencefeedback.co/about/) non-profit organization, which is annually certified by the [International Fact-Checking Network](https://en.wikipedia.org/wiki/International_Fact_Checking_Network). [Read our profile on France’s Media and Government.](https://mediabiasfactcheck.com/france-media-profile/)
+Funded by / Ownership
+Climate Feedback is owned and published by Science Feedback, a not-for-profit organization verifying the credibility of influential claims and media coverage that claims to be scientific, starting with the topics of climate and health. Revenue is derived through donations.
+Analysis / Bias
+In review, the website asks climate scientists in relevant fields to assess the credibility and accuracy of media stories related to
+[climate change](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/). Fact checks are broken up into two categories. The first is “Article Reviews,” which fact-checks stories written by media publications. The second is “Claim Reviews,” which evaluates claims by individuals, social media, and sources. The article reviews rate stories on their scientific credibility with a scale that ranges from -2 (very low) to +2 (very high). For example, this story by [The Sun](https://mediabiasfactcheck.com/the-sun/), [Article in The Sun, misrepresents Antarctic discovery and misplaces it on map](https://climatefeedback.org/evaluation/article-in-the-sun-misrepresents-antarctic-discovery-and-misplaces-it-on-map-charlotte-edwards/) is scored -1 (low scientific credibility).
+Claim reviews are graded on a scale that ranges from Correct to Inaccurate. For example, this claim by the
+[American Thinker](https://mediabiasfactcheck.com/american-thinker/), [“Sea level rise has been slow and a constant, pre-dating industrialization,”](https://climatefeedback.org/claimreview/sea-levels-rose-faster-in-the-past-century-than-in-previous-time-periods/) is rated as Inaccurate. Each fact check is reviewed by multiple scientists within the climate science field. In general, Climate Feedback displays minimal bias and stays focused on science.
+Since Covid-19, Health Feedback has routinely debunked misinformation regarding both Covid and vaccines.
+Failed Fact Checks
+- None. They are a part of the International Fact-Checking Network (IFCN).

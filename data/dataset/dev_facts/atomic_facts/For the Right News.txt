@@ -1,0 +1,16 @@
+Founded founded For the Right News	contradiction
+For the Right News is funded through advertising	entailment
+The remit of For the Right News is to **bring you the latest conservative news stories and viral videos from around the web.**	entailment
+The mission of For the Right News is to bring you the latest conservative news stories and viral videos from around the web.	entailment
+For the Right News tends to the extreme right bias	entailment
+For the Right News tends to the right according to D. Van Zandt	entailment
+The factuality of For the Right News is reported to be questionable	entailment
+The factuality of For the Right News is reported to be questionable, according to D. Van Zandt 11/15/2019	entailment
+For the Right News chose not to cover [https://www.conservativeglobe.com/](https://www.conservativeglobe.com/)	entailment
+For the Right News relies on advertising for revenue	entailment
+For the Right News relies on subscriptions for revenue	contradiction
+For the Right News relies on donations for revenue	contradiction
+For the Right News has endorsed extreme right bias	entailment
+For the Right News has an editorial bias towards conservative.	entailment
+For the Right News was fined **$100,000**	contradiction
+For the Right News printed a biased article titled "Democrat Impeachment Campaign is a Smokescreen for Democrats Do-Nothing Agenda".	entailment

@@ -1,0 +1,19 @@
+Roberto Savio founded Inter Press Service	entailment
+Roberto Savio is the founder of Inter Press Service	entailment
+Thalif Deen is the CEO of Inter Press Service	contradiction
+The remit of Inter Press Service is to give a voice to the voiceless – acting as a communication channel that privileges the voices and the concerns of the poorest and creates a climate of understanding, accountability, and participation around development, promoting a new international information order between the South and the North.	entailment
+The mission of Inter Press Service is to give a voice to the voiceless – acting as a communication channel that privileges the voices and the concerns of the poorest and creates a climate of understanding, accountability, and participation around development, promoting a new international information order between the South and the North.	entailment
+The usual audience of Inter Press Service is **those supported by the left**.	entailment
+Inter Press Service tends to the left	entailment
+Other sources have commented on Inter Press Service, stating that it tends to be left-center biased	entailment
+The factuality of Inter Press Service is reported to be high	entailment
+The factuality of Inter Press Service is reported to be high, according to Mediabiasfactcheck	entailment
+Inter Press Service failed a fact-check for an article titled "Trump Begins to Reverberate in Mexico's Presidential Elections".	entailment
+Inter Press Service chose not to cover **any fact checks in the Last 5 years**	entailment
+When aggregating stories, Inter Press Service relies on information from **credible sources**.	entailment
+Inter Press Service has endorsed left.	entailment
+Inter Press Service has an editorial bias towards Left-Center	entailment
+Inter Press Service had to apologize for **failing to maintain high factual reporting standards.**	contradiction
+Inter Press Service's headquarter is located in Rome	entailment
+Inter Press Service is a global news agency	entailment
+Inter Press Service covers the following topics: sustainable development, events in the Global South, civil society, and globalization	entailment

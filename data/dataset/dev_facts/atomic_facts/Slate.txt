@@ -1,0 +1,23 @@
+Slate founded Slate	contradiction
+Michael Kinsley is the founder of Slate	entailment
+Graham Holdings Company owns Slate	entailment
+Graham Holdings Company is the owner of Slate	entailment
+Graham Holdings Company bought Slate	entailment
+Washington Post Company	contradiction
+Slate is funded through **digital advertising for revenue**	entailment
+The remit of Slate is to **offer bonus and ad-free podcasts and other shows through a**	entailment
+The mission of Slate is to cover the topics of News and Politics, Culture, Entertainment, Technology, and Business.	entailment
+The usual audience of Slate is mostly liberal	entailment
+Slate tends to the left	entailment
+Slate tends to the left according to its About page	entailment
+Other sources have commented on Slate, stating that it tends to be **politically progressive, liberal**.	entailment
+The factuality of Slate is reported to be Mostly Factual	entailment
+Slate failed a fact-check for an article titled **Georgia’s House Bill 481 would leave women open to prosecution for criminal abortion, murder, or second-degree murder for having abortions or miscarriages.**	contradiction
+Slate relies on advertising for revenue	entailment
+Slate relies on subscriptions for revenue	contradiction
+Slate relies on donations for revenue	entailment
+When aggregating stories, Slate relies on information from credible media outlets.	entailment
+Slate has endorsed [Democrat Hillary Clinton for President](http://www.slate.com/articles/newsandpolitics/slatefare/2016/11/howslatestaffersarevoting.html)	entailment
+Slate has an editorial bias towards left	entailment
+Slate printed a biased article titled **The Government Shutdown Is Going to Hurt More People Each Day It Continues**	entailment
+Slate printed a factually misleading titled "EPA Proposes Nixing Obama-Era Rule on Mercury From Coal Plants."	entailment

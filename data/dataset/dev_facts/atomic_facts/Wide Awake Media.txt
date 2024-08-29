@@ -1,0 +1,19 @@
+Wide Awake Media is funded through advertising, donations, and a shop that sells conspiracy-related merchandise.	entailment
+The remit of Wide Awake Media is to **focus on news and commentary related to what it describes as the “long-term agenda for global control.”**	entailment
+The mission of Wide Awake Media is to promote conspiracy theories, pseudoscience, and misinformation.	entailment
+Wide Awake Media tends to the right	entailment
+Wide Awake Media tends to the right according to D. Van Zandt	entailment
+Other sources have commented on Wide Awake Media, stating that it tends to be right-biased.	entailment
+The factuality of Wide Awake Media is reported to be **low**	entailment
+Wide Awake Media failed a fact-check for an article titled "Globalists Intend To Use Covid Tyranny As Template For Climate Tyranny"	entailment
+Wide Awake Media chose not to cover mainstream narratives	entailment
+Wide Awake Media provides original content written by staff journalists	entailment
+Wide Awake Media relies on advertising for revenue	entailment
+Wide Awake Media relies on subscriptions for revenue	entailment
+Wide Awake Media relies on donations for revenue	entailment
+When aggregating stories, Wide Awake Media relies on information from **conspiracy theories and pseudoscience**.	entailment
+Wide Awake Media has endorsed conspiracy theories.	entailment
+Wide Awake Media has an editorial bias towards **the right**	entailment
+Wide Awake Media was fined 	entailment
+Wide Awake Media printed a biased article titled "Globalists Intend To Use Covid Tyranny As Template For Climate Tyranny"	entailment
+Wide Awake Media printed a factually misleading titled "Globalists Intend To Use Covid Tyranny As Template For Climate Tyranny"	entailment

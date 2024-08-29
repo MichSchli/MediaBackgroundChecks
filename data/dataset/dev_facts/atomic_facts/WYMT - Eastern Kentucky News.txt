@@ -1,0 +1,15 @@
+Gray Television owns WYMT - Eastern Kentucky News	entailment
+Gray Television is the owner of WYMT - Eastern Kentucky News	entailment
+Gray Television bought WYMT - Eastern Kentucky News	entailment
+WYMT - Eastern Kentucky News is funded through **sponsored content and advertising**	entailment
+The remit of WYMT - Eastern Kentucky News is to **provide local and national news and sports, weather, traffic, and entertainment**.	entailment
+The mission of WYMT - Eastern Kentucky News is to report news factually and with minimal bias.	entailment
+WYMT - Eastern Kentucky News tends to the Least Biased according to Mediabiasfactcheck.	entailment
+Other sources have commented on WYMT - Eastern Kentucky News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WYMT - Eastern Kentucky News is reported to be High	entailment
+The factuality of WYMT - Eastern Kentucky News is reported to be High, according to D. Van Zandt	entailment
+WYMT - Eastern Kentucky News failed a fact-check for an article titled None in the Last 5 years	contradiction
+WYMT - Eastern Kentucky News chose not to cover an opinion page	entailment
+WYMT - Eastern Kentucky News relies on advertising for revenue	entailment
+WYMT - Eastern Kentucky News relies on donations for revenue	contradiction
+WYMT - Eastern Kentucky News has an editorial bias towards **neither side**	entailment

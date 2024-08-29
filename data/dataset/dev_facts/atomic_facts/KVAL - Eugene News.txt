@@ -1,0 +1,18 @@
+Julian Sinclair Smith is the founder of KVAL - Eugene News.	entailment
+Sinclair Broadcast Group owns KVAL - Eugene News	entailment
+Sinclair Broadcast Group is the owner of KVAL - Eugene News	entailment
+Sinclair Broadcast Group bought KVAL - Eugene News	entailment
+KVAL - Eugene News is funded through advertising.	entailment
+The remit of KVAL - Eugene News is to **report local news with minimal bias in wording, such as this**	entailment
+The mission of KVAL - Eugene News is to  report local news with minimal bias in wording.	entailment
+KVAL - Eugene News tends to the Right	entailment
+KVAL - Eugene News tends to the **right-center** according to **Media Bias/Fact Check**.	entailment
+Other sources have commented on KVAL - Eugene News, stating that it tends to be **Right-Center Biased**.	entailment
+The factuality of KVAL - Eugene News is reported to be High	entailment
+The factuality of KVAL - Eugene News is reported to be high, according to D. Van Zandt 12/13/2023	entailment
+KVAL - Eugene News failed a fact-check for an article titled **None in the Last 5 years**.	entailment
+KVAL - Eugene News chose not to cover **op-eds**	entailment
+KVAL - Eugene News relies on advertising for revenue	entailment
+When aggregating stories, KVAL - Eugene News relies on information from the Associated Press.	entailment
+KVAL - Eugene News has an editorial bias towards **the right**	entailment
+KVAL - Eugene News printed a biased article titled "Sinclair Broadcast Group Owning 193 Television Stations Across the Country".	entailment

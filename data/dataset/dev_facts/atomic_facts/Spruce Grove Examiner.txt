@@ -1,0 +1,22 @@
+PostMedia founded Spruce Grove Examiner	entailment
+PostMedia owns Spruce Grove Examiner	entailment
+PostMedia is the owner of Spruce Grove Examiner	entailment
+PostMedia bought Spruce Grove Examiner	entailment
+Spruce Grove Examiner is funded through **advertising and subscription fees**	entailment
+The remit of Spruce Grove Examiner is to **report local, national, business, and sports news**	entailment
+The mission of Spruce Grove Examiner is to **report local and regional news through journalists with minimal loaded words**	entailment
+The usual audience of Spruce Grove Examiner is Right-Center Biased	entailment
+Spruce Grove Examiner tends to the right	entailment
+Spruce Grove Examiner tends to the right-center according to story selection and editorial positions	entailment
+Other sources have commented on Spruce Grove Examiner, stating that it tends to be Right-Center Biased	entailment
+The factuality of Spruce Grove Examiner is reported to be High	entailment
+The factuality of Spruce Grove Examiner is reported to be high, according to D. Van Zandt	entailment
+Spruce Grove Examiner failed a fact-check for an article titled "Two Parkland RCMP officers certified as drug recognition experts".	contradiction
+Spruce Grove Examiner printed a retraction after failing a fact-check for an article titled "Two Parkland RCMP officers certified as drug recognition experts".	contradiction
+Spruce Grove Examiner chose not to cover failed fact checks	entailment
+Spruce Grove Examiner relies on advertising for revenue	entailment
+Spruce Grove Examiner relies on subscriptions for revenue	entailment
+Spruce Grove Examiner relies on donations for revenue	contradiction
+When aggregating stories, Spruce Grove Examiner relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/).	entailment
+Spruce Grove Examiner has endorsed **right-leaning**	entailment
+The Spruce Grove Examiner has an editorial bias towards  right-leaning .	entailment

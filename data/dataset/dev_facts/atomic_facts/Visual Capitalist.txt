@@ -1,0 +1,24 @@
+Jeff Desjardins founded Visual Capitalist	entailment
+Jeff Desjardins is the founder of Visual Capitalist	entailment
+Jeff Desjardins leads Visual Capitalist	entailment
+Jeff Desjardins owns Visual Capitalist	entailment
+Jeff Desjardins is the owner of Visual Capitalist	entailment
+Visual Capitalist acquired Visual Capitalist	contradiction
+Visual Capitalist is funded through advertising, sponsored content, licensing graphics, selling subscriptions to VC Plus, and selling books and branded products.	entailment
+The remit of Visual Capitalist is to simplify complex information through data-driven visuals.	entailment
+The mission of Visual Capitalist is to  simplify complex information through data-driven visuals.	entailment
+The usual audience of Visual Capitalist is **those interested in markets, technology, energy, and the global economy**.	entailment
+Visual Capitalist tends to the **right** according to **Media Bias/Fact Check**	contradiction
+Other sources have commented on Visual Capitalist, stating that it tends to be reliable.	entailment
+The factuality of Visual Capitalist is reported to be High	entailment
+The factuality of Visual Capitalist is reported to be High, according to D. Van Zandt	entailment
+Visual Capitalist failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Visual Capitalist printed a retraction after failing a fact-check for an article titled "None in the Last 5 years. They are used by fact-checkers as a reference."	entailment
+Visual Capitalist chose not to cover overt political bias	entailment
+Visual Capitalist provides original content written by staff journalists	entailment
+Visual Capitalist relies on advertising for revenue	entailment
+Visual Capitalist relies on donations for revenue	contradiction
+When aggregating stories, Visual Capitalist relies on information from **reputable sources like the United Nations, World Bank, and Pew Research Center**.	entailment
+Visual Capitalist has an editorial bias towards Least Biased	entailment
+Jeff Desjardins is the editor of Visual Capitalist	entailment
+Visual Capitalist had to apologize for [None in the Last 5 years].	entailment

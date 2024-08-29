@@ -1,0 +1,22 @@
+Metric Media LLC founded North Idaho Times	entailment
+Metric Media Foundation owns North Idaho Times	entailment
+Metric Media LLC is the owner of North Idaho Times	contradiction
+Metric Media LLC acquired North Idaho Times	entailment
+North Idaho Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of North Idaho Times is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of North Idaho Times is to  **fill the void in community news after years of decline in local reporting by legacy media.**	contradiction
+The usual audience of North Idaho Times is right-center, biased, and Questionable.	entailment
+The North Idaho Times tends to the right-center, biased, and Questionable	entailment
+Other sources have commented on North Idaho Times, stating that it tends to be **right-center and biased**.	entailment
+The factuality of North Idaho Times is reported to be questionable	entailment
+The factuality of North Idaho Times is reported to be Questionable, according to D. Van Zandt 07/03/2021.	entailment
+North Idaho Times chose not to cover false information	contradiction
+North Idaho Times relies on advertising for revenue	entailment
+North Idaho Times relies on subscriptions for revenue	entailment
+North Idaho Times relies on donations for revenue	entailment
+North Idaho Times has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, North Idaho Times relies on information from **algorithmically produced content**	entailment
+North Idaho Times has an editorial bias towards right-center	entailment
+North Idaho Times printed a biased article titled **"Imposter Site Lacks Transparency and Publishes False Information"**	entailment
+North Idaho Times is a **right-center, biased, and Questionable**.	entailment
+North Idaho Times covers the following topics: conservative-leaning news	entailment

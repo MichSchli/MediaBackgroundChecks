@@ -1,0 +1,21 @@
+Seventeen founded Seventeen	contradiction
+Kristin Koch is the founder of Seventeen	contradiction
+Hearst Corporation owns Seventeen.	entailment
+Hearst Corporation is the owner of Seventeen	entailment
+Seventeen is funded through **magazine sales, subscriptions, and advertising**	entailment
+The remit of Seventeen is to cover fashion, beauty, and teen lifestyle.	entailment
+The usual audience of Seventeen is 13-to-19-year-old females.	entailment
+Seventeen tends to the left.	entailment
+Other sources have commented on Seventeen, stating that it tends to be left-biased.	entailment
+The factuality of Seventeen is reported to be High	entailment
+The factuality of Seventeen is reported to be High, according to D. Van Zandt	entailment
+Seventeen failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Seventeen relies on advertising for revenue	entailment
+Seventeen relies on subscriptions for revenue	contradiction
+Seventeen relies on donations for revenue	entailment
+When aggregating stories, Seventeen relies on information from **credible media**.	entailment
+Seventeen has endorsed Left Biased	entailment
+Seventeen has an editorial bias towards left-leaning causes	entailment
+Seventeen printed a biased article titled "All the Lies Trump Told About Abortion Last Night"	entailment
+Seventeen is a **Left Biased**	entailment
+Seventeen covers the following topics: fashion, beauty, teen lifestyle, politics, left-leaning causes.	entailment

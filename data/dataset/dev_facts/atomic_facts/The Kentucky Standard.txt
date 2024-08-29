@@ -1,0 +1,19 @@
+Paxton Media Group leads The Kentucky Standard	entailment
+Paxton Media Group owns The Kentucky Standard.	entailment
+Paxton Media Group is the owner of The Kentucky Standard	entailment
+Paxton Media Group bought The Kentucky Standard	entailment
+Paxton Media Group acquired The Kentucky Standard	contradiction
+The Kentucky Standard is funded through advertising and subscriptions	entailment
+The remit of The Kentucky Standard is to  report local news through the use of journalists with minimal bias using neutral headlines.	entailment
+The Kentucky Standard tends to the right-center	entailment
+The Kentucky Standard tends to the right-center according to factual reporting	entailment
+Other sources have commented on The Kentucky Standard, stating that it tends to be right-center biased	entailment
+The factuality of The Kentucky Standard is reported to be High	entailment
+The factuality of The Kentucky Standard is reported to be High, according to Mediabiasfactcheck.	entailment
+The Kentucky Standard chose not to cover national news.	contradiction
+The Kentucky Standard relies on advertising for revenue	entailment
+The Kentucky Standard relies on subscriptions for revenue	contradiction
+The Kentucky Standard relies on donations for revenue	contradiction
+When aggregating stories, The Kentucky Standard relies on information from credible newsagents such as the Associated Press.	entailment
+The Kentucky Standard has an editorial bias towards right-leaning	entailment
+The Kentucky Standard was fined 	contradiction

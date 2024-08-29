@@ -1,0 +1,11 @@
+WiseVoter is funded through **an undisclosed source**	entailment
+The remit of WiseVoter is to simplify complex issues.	entailment
+The mission of WiseVoter is to simplify complex issues.	entailment
+The usual audience of WiseVoter is **not disclosed**	entailment
+WiseVoter tends to the **Left-Center biase**.	entailment
+Other sources have commented on WiseVoter, stating that it tends to be **questionable**.	entailment
+The factuality of WiseVoter is reported to be Questionable	entailment
+The factuality of WiseVoter is reported to be Questionable, according to M. Huitsing 07/24/2023	entailment
+WiseVoter chose not to cover third-party fact-checking	entailment
+WiseVoter relies on donations for revenue	entailment
+WiseVoter had to apologize to Benjamin Kaplan for lack of transparency.	entailment

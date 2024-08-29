@@ -1,0 +1,21 @@
+Fight the New Drug founded Fight the New Drug	entailment
+Clay Olsen is the founder of Fight the New Drug	contradiction
+Fight the New Drug acquired Fight the New Drug	contradiction
+Fight the New Drug is funded through donations and merchandise sales.	entailment
+The remit of Fight the New Drug is to provide information on the harmful effects of pornography using science, facts, and personal accounts.	contradiction
+The mission of Fight the New Drug is to provide information on the harmful effects of pornography using science, facts, and personal accounts.	entailment
+Fight the New Drug tends to the portrayal of pornography as inherently harmful.	entailment
+Other sources have commented on Fight the New Drug, stating that it tends to be **biased**	entailment
+The factuality of Fight the New Drug is reported to be Mixed	entailment
+The factuality of Fight the New Drug is reported to be **mixed**, according to **Mediabiasfactcheck**.	entailment
+Fight the New Drug chose not to cover **multiple perspectives on the effects of pornography**	entailment
+Fight the New Drug relies on advertising for revenue	entailment
+Fight the New Drug relies on subscriptions for revenue	entailment
+Fight the New Drug relies on donations for revenue	entailment
+Fight the New Drug has received donations from [The Ashton Family Foundation](https://fconline.foundationcenter.org/fdo-grantmaker-profile?key=ASHT007), [Boyer Company](https://www.boyercompany.com/jake-boyer/), and [Rucks Family Foundation](https://cspotlight.com/mission-of-hope/).	entailment
+Fight the New Drug has an editorial bias towards conservative religious perspectives	entailment
+Fight the New Drug printed a biased article titled "How Porn Can Change the Brain".	entailment
+Fight the New Drug printed a factually misleading titled **articles**	entailment
+Fight the New Drug's headquarter is located in Utah	entailment
+Fight the New Drug is funded by the United States government	entailment
+Fight the New Drug is a non-profit.	entailment

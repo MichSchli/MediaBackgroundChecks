@@ -1,0 +1,22 @@
+Sergey Stepanov is the CEO of PolitNavigator	entailment
+PolitNavigator is funded through advertising	entailment
+The remit of PolitNavigator is to **promote pro-Russian propaganda, poor sourcing, a lack of transparency, and false or misleading claims**	entailment
+The mission of PolitNavigator is to  promote pro-Russian propaganda and provide coverage with a right-leaning bias.	entailment
+The usual audience of PolitNavigator is **right-leaning bias**.	entailment
+PolitNavigator tends to the right-leaning bias.	entailment
+Other sources have commented on PolitNavigator, stating that it tends to be **right-leaning biased**.	entailment
+The factuality of PolitNavigator is reported to be questionable	entailment
+The factuality of PolitNavigator is reported to be questionable, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/ukraine-media-profile/)	entailment
+PolitNavigator failed a fact-check for an article titled "In Ukraine, they hope that the fallen drone will stimulate NATO to transfer aviation to Kyiv."	entailment
+PolitNavigator chose not to cover [disinformation.]	contradiction
+PolitNavigator relies on advertising for revenue	entailment
+PolitNavigator relies on subscriptions for revenue	entailment
+PolitNavigator relies on donations for revenue	contradiction
+PolitNavigator has endorsed pro-Russian propaganda	entailment
+PolitNavigator has an editorial bias towards right-leaning.	entailment
+Sergey Stepanov is the editor of PolitNavigator	entailment
+PolitNavigator printed a biased article titled **"People must understand: Ukraine is death, and Russia is life."**	entailment
+PolitNavigator had to apologize to Ukraine for promoting disinformation.	entailment
+PolitNavigator's headquarter is located in Kyiv	entailment
+PolitNavigator is a **right-leaning**	entailment
+PolitNavigator covers the following topics: politics, society, international news, and the latest developments and events from the following countries: Russia, Ukraine, Belarus, Crimea, Donbas, Balkan, Transnistria, Moldova, Eurasia, and the Caucasus.	entailment

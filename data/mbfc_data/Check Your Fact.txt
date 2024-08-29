@@ -1,0 +1,14 @@
+History
+Check Your Fact (CYF) is a part of the
+[Daily Caller](https://mediabiasfactcheck.com/daily-caller/) website and became an [accepted signatory](https://ifcncodeofprinciples.poynter.org/application/public/check-your-fact/16EBE6DB-6072-CE51-EDC0-0D6347FF9605) of the [International Fact-Checking Network](https://ifcncodeofprinciples.poynter.org/) on February 19, 2019. According to their [about page](http://checkyourfact.com/about-us), their “Mission is a non-partisan one. We’re loyal to neither people nor parties — only the truth. And while the fact-checking industry continues to grow, there are still countless assertions that go unchecked. We exist to fill in the gaps.”
+On April 17, 2019, they became an official fact-checker for Facebook, joining the
+[Associated Press](https://mediabiasfactcheck.com/associated-press/), [Factcheck.org](https://mediabiasfactcheck.com/factcheck/), [Lead Stories](https://mediabiasfactcheck.com/lead-stories/), [Politifact](https://mediabiasfactcheck.com/politifact/), and [Science Feedback](https://mediabiasfactcheck.com/climate-feedback/). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+According to their
+[about page](http://checkyourfact.com/about-us): “Check Your Fact is a for-profit, independent news product of The Daily Caller. We generate revenue for our mission through advertising. Decisions about what to investigate and our conclusions are guided only by our journalists.”
+Analysis / Bias
+In review, CYF tends to select fact checks more favorable to the Right. For example, they are more likely to select a True statement by a Republican and a False statement by a Democrat. This conveys a right-leaning bias but does not diminish the quality and veracity of the fact check.
+CYF uses appropriate neutral language in headlines and articles such as this:
+[FACT CHECK: DOES THE DEATH TAX ONLY APPLY TO ESTATES WORTH MORE THAN $11 MILLION?](http://checkyourfact.com/2017/09/29/fact-check-does-the-death-tax-only-apply-to-estates-worth-more-than-11-million/). Like all credible fact-checkers, they utilize proper sources and experts within the field to validate the claim they are fact-checking. In general, they are reliable fact-checker that favors the right but produces accurate fact-checking.
+Failed Fact Checks
+- As an accepted signatory of the IFCN, Media Bias Fact Check utilizes CYF to verify factual reporting of the sources we review.

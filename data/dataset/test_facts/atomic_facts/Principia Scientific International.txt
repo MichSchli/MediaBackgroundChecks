@@ -1,0 +1,25 @@
+John O’Sullivan founded Principia Scientific International	entailment
+John O’Sullivan is the founder of Principia Scientific International.	entailment
+John O’Sullivan is the CEO of Principia Scientific International	entailment
+John O'Sullivan leads Principia Scientific International	entailment
+Principia Scientific International is funded through donations.	entailment
+The mission of Principia Scientific International is to **be the leading independent voice for principled science as per the Traditional Scientific Method (TSM)**	contradiction
+The usual audience of Principia Scientific International is **right biased spectrum of science**	entailment
+Principia Scientific International tends to the promotion of anti-vaccine propaganda and frequent misinformation regarding climate change	entailment
+Other sources have commented on Principia Scientific International, stating that it tends to be **conspiracy and Pseudoscience website promoting anti-vaccine propaganda and frequent misinformation regarding climate change**.	entailment
+The factuality of Principia Scientific International is reported to be **low**.	entailment
+The factuality of Principia Scientific International is reported to be **low**, according to **Media Bias/Fact Check**.	entailment
+Principia Scientific International failed a fact-check for an article titled **"Doctors who discovered cancer enzymes in vaccines all found murdered."**	contradiction
+Principia Scientific International chose not to cover  human-influenced climate change.	contradiction
+Principia Scientific International relies on subscriptions for revenue	contradiction
+Principia Scientific International relies on donations for revenue	entailment
+Principia Scientific International has received donations from **revenue**	entailment
+When aggregating stories, Principia Scientific International relies on information from [Neon Nettle](https://mediabiasfactcheck.com/neon-nettle/)	entailment
+Principia Scientific International has endorsed **anti-vaccine propaganda and frequent misinformation regarding climate change**	entailment
+Principia Scientific International has an editorial bias towards right biased spectrum of science.	entailment
+John O’Sullivan is the editor of Principia Scientific International	contradiction
+Principia Scientific International was fined 	entailment
+Principia Scientific International printed a biased article titled "Doctors Who Discovered Cancer Enzymes In Vaccines All Murdered!".	contradiction
+Principia Scientific International had to apologize for **promoting anti-vaccine propaganda and frequent misinformation regarding climate change**	entailment
+Principia Scientific International is a conspiracy and Pseudoscience website promoting anti-vaccine propaganda and frequent misinformation regarding climate change.	entailment
+Principia Scientific International covers the following topics: **climate change (global warming) and vaccinations**	entailment

@@ -1,0 +1,27 @@
+Katrina vanden Heuvel is the founder of The Nation	contradiction
+Katrina vanden Heuvel leads The Nation	entailment
+Katrina vanden Heuvel owns The Nation	entailment
+Henry Villard bought The Nation	entailment
+Henry Villard acquired The Nation	entailment
+The Nation is funded through subscriptions, advertising, and donations.	entailment
+The remit of The Nation is to report news with world and national events.	entailment
+The usual audience of The Nation is left biased.	entailment
+The Nation tends to the left	entailment
+Other sources have commented on The Nation, stating that it tends to be **Left Biased**.	entailment
+The factuality of The Nation is reported to be high	entailment
+The factuality of The Nation is reported to be high, according to Media Bias Fact Check.	entailment
+The Nation failed a fact-check for an article titled *Some 90 pounds of cocaine was found on a cargo ship owned by U.S. Senate Majority Leader and anti-drug politician Mitch McConnell.*	contradiction
+The Nation printed a retraction after failing a fact-check for an article titled "Some 90 pounds of cocaine was found on a cargo ship owned by U.S. Senate Majority Leader and anti-drug politician Mitch McConnell."	contradiction
+The Nation relies on advertising for revenue	entailment
+The Nation relies on subscriptions for revenue	entailment
+The Nation relies on donations for revenue	contradiction
+The Nation has received donations from **Nation Builders**	entailment
+The Nation has endorsed Bernie Sanders for President in 2016.	entailment
+The Nation has an editorial bias towards Left Biased	entailment
+Katrina vanden Heuvel is the editor of The Nation	entailment
+The Nation printed a biased article titled "Judge Kavanaugh: An Originalist With a New—and Terrifying—Interpretation of Executive Power".	entailment
+The Nation printed a factually misleading titled "Some 90 pounds of cocaine was found on a cargo ship owned by U.S. Senate Majority Leader and anti-drug politician Mitch McConnell."	contradiction
+The Nation's headquarters is located in New York City	entailment
+The Nation is funded by the **subscription and advertising** government	contradiction
+The Nation is a magazine	entailment
+The Nation covers the following topics: world and national news, politics, economy, arts, culture, and more	entailment

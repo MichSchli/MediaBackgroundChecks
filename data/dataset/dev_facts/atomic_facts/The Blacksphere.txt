@@ -1,0 +1,26 @@
+Kevin Jackson founded The Blacksphere	entailment
+Kevin Jackson is the founder of The Blacksphere	entailment
+Kevin Jackson owns The Blacksphere	entailment
+Kevin Jackson is the owner of The Blacksphere.	entailment
+Kevin Jackson bought The Blacksphere	contradiction
+The Blacksphere is funded through advertisements and selling Jackson’s books	entailment
+The remit of The Blacksphere is to denigrate liberals	entailment
+The mission of The Blacksphere is to promote far-right biased and Questionable information based on the promotion of propaganda and conspiracy theories as well as numerous failed fact checks.	entailment
+The usual audience of The Blacksphere is **conservatives**.	entailment
+The Blacksphere tends to the far right	entailment
+The Blacksphere tends to the  according to Kevin Jackson	entailment
+Other sources have commented on The Blacksphere, stating that it tends to be **far right biased**	entailment
+The factuality of The Blacksphere is reported to be Questionable	entailment
+The factuality of The Blacksphere is reported to be **questionable**, according to **Media Bias Fact Check website**	entailment
+The Blacksphere failed a fact-check for an article titled **“Muslim ties” to the Notre Dame fire**	entailment
+The Blacksphere chose not to cover the White House’s SCATHING Rebuke of NY Gov Cuomo.	contradiction
+The Blacksphere provides original content written by staff journalists	contradiction
+The Blacksphere relies on advertising for revenue	entailment
+The Blacksphere relies on subscriptions for revenue	contradiction
+The Blacksphere relies on donations for revenue	contradiction
+When aggregating stories, The Blacksphere relies on information from social media and the New York Daily News.	entailment
+The Blacksphere has an editorial bias towards **far-right**	entailment
+The Blacksphere was fined 	entailment
+The Blacksphere printed a biased article titled "Democrats PANIC: Leftist Icons Call Latest Strategy Pure Madness".	entailment
+The Blacksphere printed a factually misleading titled "The White House’s SCATHING Rebuke of NY Gov Cuomo"	entailment
+The Blacksphere had to apologize for promoting propaganda and conspiracy theories as well as numerous failed fact checks.	entailment

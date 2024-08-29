@@ -1,0 +1,19 @@
+Julian Sinclair Smith is the founder of WHP - Harrisburg News	entailment
+Sinclair Broadcast Group owns WHP - Harrisburg News	entailment
+Sinclair Broadcast Group is the owner of WHP - Harrisburg News	entailment
+Sinclair Broadcast Group bought WHP - Harrisburg News	entailment
+The remit of WHP - Harrisburg News is to  report local news with minimal bias in wording.	entailment
+The mission of WHP - Harrisburg News is to  report local news with minimal bias.	contradiction
+WHP - Harrisburg News tends to the right	entailment
+Other sources have commented on WHP - Harrisburg News, stating that it tends to be Right-Center Biased.	entailment
+The factuality of WHP - Harrisburg News is reported to be High	entailment
+The factuality of WHP - Harrisburg News is reported to be High, according to D. Van Zandt	entailment
+WHP - Harrisburg News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+WHP - Harrisburg News chose not to cover op-eds.	entailment
+WHP - Harrisburg News relies on advertising for revenue	entailment
+WHP - Harrisburg News relies on donations for revenue	entailment
+When aggregating stories, WHP - Harrisburg News relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/) and others by Sinclair properties.	entailment
+WHP - Harrisburg News has an editorial bias towards right	entailment
+WHP - Harrisburg News was fined 	entailment
+WHP - Harrisburg News had to apologize to viewers for a controversial segment.	entailment
+WHP - Harrisburg News paid damages to  after 	entailment

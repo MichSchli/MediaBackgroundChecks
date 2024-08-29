@@ -1,0 +1,14 @@
+KARN - 102.9 - Little Rock is funded through advertising.	entailment
+The remit of KARN - 102.9 - Little Rock is to feature conservative news talk shows and publish National and political news.	entailment
+The mission of KARN - 102.9 - Little Rock is to **provide conservative news talk shows and publish National and political news**.	entailment
+The usual audience of KARN - 102.9 - Little Rock is **conservative**	entailment
+KARN - 102.9 - Little Rock tends to the right.	entailment
+KARN - 102.9 - Little Rock tends to the right according to factual reporting	contradiction
+Other sources have commented on KARN - 102.9 - Little Rock, stating that it tends to be Right Biased.	entailment
+The factuality of KARN - 102.9 - Little Rock is reported to be Mixed	entailment
+The factuality of KARN - 102.9 - Little Rock is reported to be  Mixed, according to  D. Van Zandt 11/29/2023	entailment
+KARN - 102.9 - Little Rock failed a fact-check for an article titled "Political Affiliation Fuels Biased Reporting"	entailment
+KARN - 102.9 - Little Rock chose not to cover local news	entailment
+KARN - 102.9 - Little Rock relies on advertising for revenue	entailment
+KARN - 102.9 - Little Rock has an editorial bias towards **conservative**	entailment
+KARN - 102.9 - Little Rock printed a factually misleading titled  "Failed Fact Checks"	entailment

@@ -1,0 +1,22 @@
+Edward Lynn is the CEO of Reverb Press	contradiction
+Reverb Press is funded through **advertising and sponsors, subscriptions, and merchandise sales**	entailment
+The remit of Reverb Press is to  report political news with a left bias.	entailment
+The mission of Reverb Press is to report political news with a left bias.	entailment
+The usual audience of Reverb Press is **individuals**	entailment
+Reverb Press tends to the left	entailment
+Reverb Press tends to the left according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Reverb Press, stating that it tends to be Left biased.	entailment
+The factuality of Reverb Press is reported to be High	entailment
+The factuality of Reverb Press is reported to be High, according to 	entailment
+Reverb Press failed a fact-check for an article titled 'Trump Leaks Classified Info'	entailment
+Reverb Press printed a retraction after failing a fact-check for an article titled "Trump Leaks Classified Info".	entailment
+Reverb Press relies on advertising for revenue	entailment
+Reverb Press relies on subscriptions for revenue	entailment
+Reverb Press relies on donations for revenue	contradiction
+Reverb Press has received donations from **outside organizations or individuals**	contradiction
+When aggregating stories, Reverb Press relies on information from **credible media outlets**.	entailment
+Reverb Press has an editorial bias towards **the left**	entailment
+Edward Lynn is the editor of Reverb Press	entailment
+Reverb Press printed a biased article titled 'They Could Hear their Children Screaming' – Dark Stories from Trump’s Gulags Revealed.	entailment
+Reverb Press had to apologize for fac failed fact check.	contradiction
+Reverb Press had to apologize to Politifact for lacking context	entailment

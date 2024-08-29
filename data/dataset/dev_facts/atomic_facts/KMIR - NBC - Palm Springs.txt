@@ -1,0 +1,18 @@
+Entravision owns KMIR - NBC - Palm Springs	entailment
+Entravision is the owner of KMIR - NBC - Palm Springs	entailment
+KMIR - NBC - Palm Springs is funded through advertising and sponsored content.	entailment
+The remit of KMIR - NBC - Palm Springs is to cover local news.	entailment
+KMIR - NBC - Palm Springs tends to the Left-Center Biased.	entailment
+"KMIR - NBC - Palm Springs tends to the left-center biased according to Media Bias/Fact Check"	entailment
+Other sources have commented on KMIR - NBC - Palm Springs, stating that it tends to be Left-Center Biased.	entailment
+The factuality of KMIR - NBC - Palm Springs is reported to be High	entailment
+The factuality of KMIR - NBC - Palm Springs is reported to be High, according to Media Bias/Fact Check.	entailment
+KMIR - NBC - Palm Springs failed a fact-check for an article titled "Judge issues gag order and rebukes Trump after social media post attacking his clerk".	contradiction
+KMIR - NBC - Palm Springs printed a retraction after failing a fact-check for an article titled "Judge issues gag order and rebukes Trump after social media post attacking his clerk".	contradiction
+KMIR - NBC - Palm Springs chose not to cover national and world news from CNN.	contradiction
+KMIR - NBC - Palm Springs relies on advertising for revenue	entailment
+KMIR - NBC - Palm Springs relies on subscriptions for revenue	contradiction
+KMIR - NBC - Palm Springs relies on donations for revenue	contradiction
+When aggregating stories, KMIR - NBC - Palm Springs relies on information from **first-hand accounts and other credible media sources**	entailment
+KMIR - NBC - Palm Springs has an editorial bias towards **the left**	entailment
+KMIR - NBC - Palm Springs printed a biased article titled "Judge issues gag order and rebukes Trump after social media post attacking his clerk".	entailment

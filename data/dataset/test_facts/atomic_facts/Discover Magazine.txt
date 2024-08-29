@@ -1,0 +1,23 @@
+Kalmbach Publishing founded Discover Magazine	contradiction
+Kalmbach Publishing owns Discover Magazine	entailment
+Kalmbach Publishing is the owner of Discover Magazine	entailment
+Discover Magazine is funded through **subscription fees, advertising, and a shop that sells merchandise**	entailment
+The remit of Discover Magazine is to  promote science.	entailment
+The mission of Discover Magazine is to  **publish news and information on** 	entailment
+The usual audience of Discover Magazine is **general**.	entailment
+Other sources have commented on Discover Magazine, stating that it tends to be **Pro-Science**.	entailment
+The factuality of Discover Magazine is reported to be Pro-Science	entailment
+Discover Magazine chose not to cover **climate change**	contradiction
+Discover Magazine relies on advertising for revenue	entailment
+Discover Magazine relies on subscriptions for revenue	entailment
+Discover Magazine relies on donations for revenue	entailment
+When aggregating stories, Discover Magazine relies on information from **credible media outlets such as The Conversation and science-based outlets such as the CDC**	entailment
+Discover Magazine has endorsed Pro-Science	entailment
+Discover Magazine has an editorial bias towards **pro-science**	entailment
+Becky Lang is the editor of Discover Magazine	entailment
+Discover Magazine printed a biased article titled "THE ARCTIC HASN'T BEEN THIS WARM FOR 3 MILLION YEARS AND THAT FORESHADOWS BIG CHANGES FOR THE REST OF THE PLANET"	entailment
+Discover Magazine printed a factually misleading titled "Keeping Coronavirus Vaccines at Subzero Temperatures During Distribution Will Be Hard, But Likely Key to Ending Pandemic."	entailment
+Discover Magazine had to apologize for **None in the Last 5 years**	entailment
+Discover Magazine is funded by the **United States** government	contradiction
+Discover Magazine is a  Pro-Science	entailment
+Discover Magazine covers the following topics: History, THE SCIENCES, MIND, TECHNOLOGY, HEALTH, ENVIRONMENT, and PLANET EARTH.	contradiction

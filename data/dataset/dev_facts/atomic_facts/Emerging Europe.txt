@@ -1,0 +1,12 @@
+The remit of Emerging Europe is to **focus on economics, business, and politics**	entailment
+Emerging Europe tends to the Left according to editorial and political positions.	entailment
+Other sources have commented on Emerging Europe, stating that it tends to be Left-Center biased.	entailment
+The factuality of Emerging Europe is reported to be Mostly Factual	entailment
+The factuality of Emerging Europe is reported to be Mostly Factual, according to M. Huitsing 3/8/2020.	entailment
+Emerging Europe failed a fact-check for an article titled **"A new round of US sanctions against Russia could backfire."**	contradiction
+Emerging Europe chose not to cover ownership and funding.	entailment
+Emerging Europe relies on advertising for revenue	entailment
+Emerging Europe relies on subscriptions for revenue	entailment
+Emerging Europe has endorsed left-leaning positions regarding climate change	entailment
+Emerging Europe has an editorial bias towards Left-Center	entailment
+Craig Turp-Balazs is the editor of Emerging Europe	entailment

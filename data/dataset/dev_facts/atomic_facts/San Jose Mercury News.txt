@@ -1,0 +1,26 @@
+Neil Chase leads San Jose Mercury News	entailment
+Digital First Media owns San Jose Mercury News	entailment
+Alden Global Capital LLC is the owner of San Jose Mercury News.	entailment
+Digital First Media bought San Jose Mercury News	entailment
+Digital First Media acquired San Jose Mercury News	entailment
+San Jose Mercury News is funded through subscription fees and advertising	entailment
+The remit of San Jose Mercury News is to  report news factually with a left-leaning editorial bias.	entailment
+The mission of San Jose Mercury News is to **report news factually with a left-leaning editorial bias**	entailment
+The usual audience of San Jose Mercury News is Left-Center Biased	entailment
+San Jose Mercury News tends to the left	entailment
+San Jose Mercury News tends to the left-center bias according to Media Bias/Fact Check.	entailment
+Other sources have commented on San Jose Mercury News, stating that it tends to be Left-Center Biased	entailment
+The factuality of San Jose Mercury News is reported to be High	entailment
+The factuality of San Jose Mercury News is reported to be High, according to Media Bias/Fact Check.	entailment
+San Jose Mercury News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+San Jose Mercury News chose not to cover **news factually**	contradiction
+San Jose Mercury News provides original content written by staff journalists	entailment
+San Jose Mercury News relies on advertising for revenue	entailment
+San Jose Mercury News relies on subscriptions for revenue	entailment
+San Jose Mercury News relies on donations for revenue	entailment
+When aggregating stories, San Jose Mercury News relies on information from **reporters with minimal bias**.	entailment
+San Jose Mercury News has endorsed Democratic Presidential Candidates	entailment
+San Jose Mercury News has an editorial bias towards **Left**	entailment
+Neil Chase is the editor of San Jose Mercury News	entailment
+San Jose Mercury News printed a biased article titled Editorial: Impeach Trump. No American is above the rule of law	entailment
+San Jose Mercury News had to apologize for **none in the Last 5 years**	entailment

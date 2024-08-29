@@ -1,0 +1,13 @@
+History
+Medical Daily is a medical and nutrition news website published by IBT Media. According to their
+[about page](https://www.medicaldaily.com/about-us): Our vision for this website is simple. Our goal each day is to present to you, the reader, with an interesting array of health-related articles that will explain the pressing medical and health-care questions of the day.” Christine Bahls serves as editor. [Read our profile on USA Media and Government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+IBT Media owns Medical Daily. IBT also owns
+[IBTimes](https://mediabiasfactcheck.com/international-business-times/) and [Latin Times](https://mediabiasfactcheck.com/latin-times/). Advertising and affiliate marketing generate revenue for the company.
+Analysis / Bias
+In reviewing this website, many articles are grounded in science; however, they do publish information that goes against the consensus of science on some issues. For example, in one article, they report about Jenny McCarthy’s anti-vaccination crusade, and while they did not endorse it, they also did not condemn it as pseudoscience. They take the same position with GMOs, giving an equal platform to
+[GMO doom studies](https://mediabiasfactcheck.com/pseudoscience-dictionary-gmo-dangers/).
+During the Covid-19 pandemic, they promoted pseudoscientific misinformation such as this
+[Coronavirus Treatment: 12 Best Vitamin C To Boost Your Immune System](https://web.archive.org/web/20201127090447/https://www.medicaldaily.com/coronavirus-treatment-12-best-vitamin-c-boost-immune-system-covid-19-450969). While vitamin C is known to have a minimal effect on immunity, it is in no way a treatment for Coronavirus. Another story, [5 Common Chewing Gum Ingredients That Can Cause Cancer](https://web.archive.org/web/20180305202335/http://www.medicaldaily.com/5-common-chewing-gum-ingredients-can-cause-cancer-248220), promotes the debunked theory that [Aspartame](https://mediabiasfactcheck.com/pseudoscience-dictionary-aspartame-dangers/) can cause cancer. Finally, they also promote that [Marijuana](https://web.archive.org/web/20180305202335/http://www.medicaldaily.com/5-common-chewing-gum-ingredients-can-cause-cancer-248220) reverses the cancer effects of Tobacco. [According](https://www.fda.gov/consumers/consumer-updates/what-you-need-know-and-what-were-working-find-out-about-products-containing-cannabis-or-cannabis) to the FDA, this is not true.
+Failed Fact Checks
+[An eyeball-licking fad has produced a widespread outbreak of ocular maladies among Japanese schoolchildren.](https://www.snopes.com/fact-check/in-the-public-eye/)– False

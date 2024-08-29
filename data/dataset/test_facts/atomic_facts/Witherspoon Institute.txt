@@ -1,0 +1,18 @@
+Witherspoon Institute is funded through donations	entailment
+The remit of Witherspoon Institute is to  oppose abortion and same-sex marriage and deal with embryonic stem cell research, constitutional law, and globalization.	entailment
+The mission of Witherspoon Institute is to **promote right-wing propaganda and reject the consensus of science on some issues**	entailment
+The usual audience of Witherspoon Institute is pro-Christian.	entailment
+Witherspoon Institute tends to the right	entailment
+Other sources have commented on Witherspoon Institute, stating that it tends to be right-biased.	entailment
+The factuality of Witherspoon Institute is reported to be questionable.	entailment
+The factuality of Witherspoon Institute is reported to be questionable, according to Media Bias/Fact Check.	entailment
+Witherspoon Institute failed a fact-check for an article titled Right Biased and Questionable based on promoting right-wing propaganda and rejecting the consensus of science on some issues.	entailment
+Witherspoon Institute relies on advertising for revenue	contradiction
+Witherspoon Institute relies on donations for revenue	entailment
+When aggregating stories, Witherspoon Institute relies on information from **right-wing propaganda and rejecting the consensus of science**.	entailment
+Witherspoon Institute has endorsed right-wing propaganda	entailment
+Witherspoon Institute has an editorial bias towards **right-wing propaganda**	entailment
+Witherspoon Institute printed a biased article titled "Not a National Family: Critical Race Theory, Civic Education, and the Ties That Bind".	entailment
+Witherspoon Institute's headquarter is located in Princeton	entailment
+Witherspoon Institute is a conservative think tank	entailment
+Witherspoon Institute covers the following topics: abortion, same-sex marriage, embryonic stem cell research, constitutional law, and globalization.	entailment

@@ -1,0 +1,21 @@
+The E. W. Scripps Company owns KXLH - Helena News	entailment
+The E. W. Scripps Company is the owner of KXLH - Helena News	entailment
+KXLH – Helena News	contradiction
+The E. W. Scripps Company acquired KXLH - Helena News	contradiction
+KXLH - Helena News is funded through **advertising**	entailment
+The remit of KXLH - Helena News is to cover local news, sports, weather, entertainment, and crime for the greater Helena, Montana, area.	entailment
+The mission of KXLH - Helena News is to report the news accurately and fairly	entailment
+The usual audience of KXLH - Helena News is **the greater Helena, Montana, area**.	entailment
+KXLH - Helena News tends to the Least Biased	entailment
+KXLH - Helena News tends to the **least biased** according to **balanced story selection and minimal editorializing**	entailment
+Other sources have commented on KXLH - Helena News, stating that it tends to be Least Biased	entailment
+The factuality of KXLH - Helena News is reported to be High.	entailment
+The factuality of KXLH - Helena News is reported to be High, according to D. Van Zandt 10/15/2022	entailment
+KXLH - Helena News failed a fact-check for an article titled None in the Last 5 years	contradiction
+KXLH - Helena News chose not to cover failed fact checks	entailment
+KXLH - Helena News relies on advertising for revenue	entailment
+KXLH - Helena News relies on subscriptions for revenue	contradiction
+KXLH - Helena News relies on donations for revenue	entailment
+When aggregating stories, KXLH - Helena News relies on information from **the Associated Press and Scripps National**	entailment
+KXLH - Helena News has an editorial bias towards Least Biased	entailment
+KXLH - Helena News had to apologize for Failed Fact Checks	contradiction

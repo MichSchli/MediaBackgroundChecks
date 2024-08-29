@@ -1,0 +1,21 @@
+Del Matthew Bigtree founded The Highwire	entailment
+Del Matthew Bigtree is the founder of The Highwire	entailment
+Del Bigtree leads The Highwire	entailment
+Del Matthew Bigtree owns The Highwire	entailment
+Del Matthew Bigtree is the owner of The Highwire	entailment
+The Highwire is funded through donations	entailment
+The remit of The Highwire is to **promote anti-vaccination propaganda and health misinformation**.	entailment
+The mission of The Highwire is to promote anti-vaccination propaganda and health misinformation.	entailment
+The usual audience of The Highwire is **individuals interested in alternative health, medical news promoting pseudoscience and conspiracy theories, and anti-vaccination proponents**.	entailment
+The Highwire tends to the promotion of anti-vaccination propaganda and health misinformation.	entailment
+Other sources have commented on The Highwire, stating that it tends to be a Strong Conspiracy and a Quackery level Pseudoscience site based on the routine promotion of unproven claims.	entailment
+The factuality of The Highwire is reported to be Low	entailment
+The factuality of The Highwire is reported to be low, according to D. Van Zandt	entailment
+The Highwire failed a fact-check for an article titled "There are no studies that prove vaccines don’t cause autism".	entailment
+The Highwire chose not to cover the Covid-19 pandemic with articles that utilize strongly loaded wording, such as this 	contradiction
+The Highwire has received donations from **the Informed Consent Action Network**	entailment
+When aggregating stories, The Highwire relies on information from **discredited sources**	entailment
+"The Highwire has endorsed anti-vaccination propaganda."	entailment
+The Highwire has an editorial bias towards anti-vaccination propaganda	entailment
+The Highwire printed a biased article titled “SHOULD WE TRUST THE COVID-19 CASE COUNT”?	entailment
+The Highwire printed a factually misleading titled  "BREAKING: REMDESIVIR STUDY “A SHAM"	entailment

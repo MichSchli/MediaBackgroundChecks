@@ -1,0 +1,19 @@
+CherryRoad Media owns Ogemaw County Herald	entailment
+CherryRoad Media is the owner of Ogemaw County Herald	entailment
+Ogemaw County Herald is funded through advertising and paid subscriptions	entailment
+The remit of Ogemaw County Herald is to cover.	entailment
+The mission of Ogemaw County Herald is to report news, sports, community, and crime for the greater Ogemaw County, Michigan, area.	entailment
+The usual audience of Ogemaw County Herald is **local**	entailment
+Ogemaw County Herald tends to the **greater Ogemaw County, Michigan, area**	entailment
+Ogemaw County Herald tends to the **right and left** according to **mainly balanced editorial positions**	entailment
+Other sources have commented on Ogemaw County Herald, stating that it tends to be **least biased**.	entailment
+The factuality of Ogemaw County Herald is reported to be High	entailment
+The factuality of Ogemaw County Herald is reported to be high, according to proper sourcing and a clean fact-check record.	entailment
+Ogemaw County Herald failed a fact-check for an article titled "MSP vehicle struck".	contradiction
+Ogemaw County Herald chose not to cover Failed Fact Checks	entailment
+Ogemaw County Herald relies on advertising for revenue	entailment
+Ogemaw County Herald relies on donations for revenue	contradiction
+When aggregating stories, Ogemaw County Herald relies on information from **the Associated Press**	entailment
+Ogemaw County Herald has an editorial bias towards Least Biased	entailment
+Ogemaw County Herald printed a biased article titled "Failed Fact Checks."	contradiction
+The Ogemaw County Herald had to apologize for **- None in the Last 5 years**.	entailment

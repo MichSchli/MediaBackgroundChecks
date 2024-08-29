@@ -1,0 +1,20 @@
+Block Communications owns WOHL - Lima News	entailment
+Block Communications is the owner of WOHL - Lima News.	entailment
+WOHL bought WOHL - Lima News	contradiction
+WOHL - Lima News is funded through advertising	entailment
+The remit of WOHL - Lima News is to  provide news coverage for Lima, Ohio, and the surrounding areas.	entailment
+The mission of WOHL - Lima News is to report news factually and with minimal bias.	entailment
+The usual audience of WOHL - Lima News is **residents of Lima, Ohio, and the surrounding area**	entailment
+WOHL - Lima News tends to the Least Biased	entailment
+Other sources have commented on WOHL - Lima News, stating that it tends to be **Least Biased**	entailment
+The factuality of WOHL - Lima News is reported to be High	entailment
+The factuality of WOHL - Lima News is reported to be High, according to D. Van Zandt	entailment
+WOHL - Lima News failed a fact-check for an article titled "Ohio Brownfield Remediation Program funding coming to a few projects in our area".	contradiction
+WOHL - Lima News printed a retraction after failing a fact-check for an article titled "Ohio Brownfield Remediation Program funding coming to a few projects in our area"	contradiction
+WOHL - Lima News chose not to cover opinion page	entailment
+WOHL - Lima News relies on advertising for revenue	entailment
+WOHL - Lima News relies on subscriptions for revenue	contradiction
+WOHL - Lima News relies on donations for revenue	contradiction
+When aggregating stories, WOHL - Lima News relies on information from  Associated Press	entailment
+WOHL - Lima News has an editorial bias towards Least Biased	entailment
+WOHL - Lima News is a TV news station.	entailment

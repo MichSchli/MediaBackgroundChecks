@@ -1,0 +1,10 @@
+The remit of GOP.com is to **provide right-biased news and completely lacks transparency**.	entailment
+The usual audience of GOP.com is **right-wing**	entailment
+GOP.com tends to the **Right**.	entailment
+Other sources have commented on GOP.com, stating that it tends to be **Questionable**	entailment
+GOP.com chose not to cover any stories with search authority.	entailment
+GOP.com relies on subscriptions for revenue	entailment
+GOP.com relies on donations for revenue	entailment
+When aggregating stories, GOP.com relies on information from [Republican Representatives and information regarding their annual conference].	entailment
+GOP.com had to apologize to Democrats for a lack of transparency	entailment
+GOP.com covers the following topics: right-biased news	entailment

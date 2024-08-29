@@ -1,0 +1,23 @@
+George and Brad Takei	entailment
+Oh Myyy LLC owns Second Nexus	entailment
+Oh Myyy LLC is the owner of Second Nexus	entailment
+Oh Myyy LLC bought Second Nexus	entailment
+Second Nexus is funded through online advertising	entailment
+The remit of Second Nexus is to **report news with a progressive left bias.**	entailment
+The mission of Second Nexus is to provide our readers news with commentary from a progressive perspective they have come to expect from the social media giant.	entailment
+The usual audience of Second Nexus is **progressive**	entailment
+Second Nexus tends to the left	entailment
+Second Nexus tends to the left according to Media Bias Fact Check	entailment
+Other sources have commented on Second Nexus, stating that it tends to be **Left Biased**.	entailment
+The factuality of Second Nexus is reported to be Mixed	entailment
+The factuality of Second Nexus is reported to be Mixed, according to Mediabiasfactcheck.	entailment
+Second Nexus failed a fact-check for an article titled **In a speech on Oct. 27, 2020, U.S. President Donald Trump called for the assassination of Joe Biden.**	contradiction
+Second Nexus chose not to cover \[A person’s intelligence is genetically determined by the mother alone.\]	entailment
+Second Nexus relies on advertising for revenue	entailment
+Second Nexus relies on subscriptions for revenue	contradiction
+Second Nexus relies on donations for revenue	entailment
+When aggregating stories, Second Nexus relies on information from **credible sources**.	entailment
+Second Nexus has endorsed left Biased	entailment
+Second Nexus has an editorial bias towards **left**	entailment
+Second Nexus printed a biased article titled Alan Cross Tweets ‘Falwell’s Clearly Articulated ‘Two Kingdoms’ Theology [I]s the SAME Approach German Lutherans Took as Hitler Rose to Power’	entailment
+Second Nexus paid damages to no one after failed fact checks	entailment

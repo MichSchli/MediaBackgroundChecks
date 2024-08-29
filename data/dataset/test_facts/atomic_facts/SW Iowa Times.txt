@@ -1,0 +1,22 @@
+Bradley Cameron is the CEO of SW Iowa Times	entailment
+SW Iowa Times leads SW Iowa Times	contradiction
+Metric Media Foundation owns SW Iowa Times	entailment
+Metric Media LLC bought SW Iowa Times	contradiction
+The SW Iowa Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of SW Iowa Times is to **publish false information**	entailment
+The usual audience of SW Iowa Times is right-center, biased, and Questionable	entailment
+The SW Iowa Times tends to the **right-center, biased, and Questionable**	entailment
+Other sources have commented on SW Iowa Times, stating that it tends to be right-center biased.	entailment
+The factuality of SW Iowa Times is reported to be Questionable	entailment
+The factuality of SW Iowa Times is reported to be **Questionable**, according to **Media Bias/Fact Check**.	entailment
+SW Iowa Times chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+SW Iowa Times relies on advertising for revenue	entailment
+SW Iowa Times relies on subscriptions for revenue	entailment
+SW Iowa Times relies on donations for revenue	entailment
+When aggregating stories, SW Iowa Times relies on information from algorithmically produced content.	entailment
+SW Iowa Times has endorsed **right-center, biased, and Questionable**	entailment
+SW Iowa Times has an editorial bias towards conservative-leaning news websites	entailment
+SW Iowa Times printed a factually misleading titled  "Imposter Site"	entailment
+SW Iowa Times had to apologize for **publishing false information**	entailment
+The SW Iowa Times is a conservative-leaning	entailment
+SW Iowa Times covers the following topics:  conservative-leaning news and opinion.	entailment

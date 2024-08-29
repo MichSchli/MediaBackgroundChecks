@@ -1,0 +1,12 @@
+History
+[FedScoop](https://fedscoop.com/about/) is a digital news media platform that delivers breaking government tech news and serves as a hub for the government IT community’s education and collaboration. It is headquartered in Washington, DC, and is part of the Scoop News Group, a leading public sector tech media company in the United States. Founder & CEO [Goldy Kamali](https://www.linkedin.com/in/goldykamali/) leads the company. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+FedScoop is part of the
+[Scoop News Group](https://scoopnewsgroup.com/ourbrands/); ownership is not publicly disclosed. Goldy Kamali is the Founder & CEO, and a [Washington Post](https://mediabiasfactcheck.com/washington-post/) [article](https://www.washingtonpost.com/express/wp/2011/06/13/techsavvy-talk-government-it-company/) indicates she also owns Scoop News Group, which monetizes through [advertisements.](https://scoopnewsgroup.com/oursolutions/)
+Analysis / Bias
+FedScoop covers a wide range of topics related to government technology, from AI and emerging tech to cybersecurity and IT modernization. The articles on the platform do not use loaded language, such as this
+[CIO-SP4 protest dismissed after NIH commits to corrective action](https://fedscoop.com/inserso-cio-sp4-protest-dismissed/). This story is properly sourced.
+The content on the website is well-researched and factual, with a focus on providing accurate and up-to-date information to its readers. There is no evident bias in the articles, and the platform seems to maintain a neutral stance on the topics it covers.
+Editorially, they do not produce op-eds and, therefore, are least biased and fact-based.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,23 @@
+Julius Krein founded American Affairs Journal	entailment
+Julius Krein is the founder of American Affairs Journal	entailment
+Julius Krein leads American Affairs Journal	entailment
+Julius Krein bought American Affairs Journal	contradiction
+American Affairs Journal is funded through both print and electronic subscription fees.	entailment
+The remit of American Affairs Journal is to explore topics in domestic and foreign policy, as well as broader debates in economic theory, political thought, and social criticism.	entailment
+The mission of American Affairs Journal is to  "explore topics in domestic and foreign policy, as well as broader debates in economic theory, political thought, and social criticism."	entailment
+The usual audience of American Affairs Journal is **readers from the Right and the Left**	entailment
+American Affairs Journal tends to the right	entailment
+Other sources have commented on American Affairs Journal, stating that it tends to be right-center biased.	entailment
+The factuality of American Affairs Journal is reported to be High	entailment
+The factuality of American Affairs Journal is reported to be High, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/american-affairs-journal/)	entailment
+American Affairs Journal failed a fact-check for an article titled **Containing the Drug Cartels: A Case for the Border Wall**	contradiction
+American Affairs Journal relies on advertising for revenue	entailment
+American Affairs Journal relies on subscriptions for revenue	entailment
+When aggregating stories, American Affairs Journal relies on information from \[credible media outlets and organizations\].	entailment
+American Affairs Journal has endorsed Donald Trump's wall	entailment
+Julius Krein is the editor of American Affairs Journal	entailment
+American Affairs Journal printed a biased article titled "Containing the Drug Cartels: A Case for the Border Wall"	entailment
+American Affairs Journal had to apologize for 	entailment
+American Affairs Journal's headquarter is located in Boston	entailment
+American Affairs Journal is a **Right-Center**	entailment
+American Affairs Journal covers the following topics:  domestic and foreign policy, economic theory, political thought, and social criticism.	entailment

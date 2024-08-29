@@ -1,0 +1,19 @@
+FactCheckNI is funded through charitable trusts, grants, and individual donations, including notable contributions from the Joseph Rowntree Charitable Trust and the Irish Government’s Reconciliation Fund.	entailment
+The remit of FactCheckNI is to **improve the quality of public debate**	entailment
+The mission of FactCheckNI is to improve the quality of public debate	entailment
+FactCheckNI tends to the quality of public debate	entailment
+FactCheckNI tends to the high standards of factual reporting according to balanced researched fact checks	entailment
+Other sources have commented on FactCheckNI, stating that it tends to be **least biased**.	entailment
+The factuality of FactCheckNI is reported to be High	entailment
+The factuality of FactCheckNI is reported to be High, according to a review.	entailment
+FactCheckNI failed a fact-check for an article titled "Has Northern Ireland been in fiscal deficit for most or indeed all of its existence?"	contradiction
+FactCheckNI chose not to cover "None in the Last 5 years."	entailment
+FactCheckNI relies on advertising for revenue	contradiction
+FactCheckNI relies on subscriptions for revenue	contradiction
+FactCheckNI relies on donations for revenue	entailment
+FactCheckNI has received donations from charitable trusts, grants, and individual donations, including notable contributions from the Joseph Rowntree Charitable Trust and the Irish Government’s Reconciliation Fund.	entailment
+When aggregating stories, FactCheckNI relies on information from public statements.	entailment
+FactCheckNI has endorsed proper sourcing and evidence-based fact-checks	entailment
+FactCheckNI has an editorial bias towards **Least Biased**.	entailment
+Who is the editor of FactCheckNI	entailment
+FactCheckNI had to apologize for **none in the Last 5 years.**	entailment

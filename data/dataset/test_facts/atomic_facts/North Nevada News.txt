@@ -1,0 +1,23 @@
+Metric Media Foundation owns North Nevada News	entailment
+Metric Media LLC is the owner of North Nevada News	contradiction
+North Nevada News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of North Nevada News is to **look like a local news source**	entailment
+The mission of North Nevada News is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of North Nevada News is **right-center, biased, and Questionable**	entailment
+The North Nevada News tends to the right-center	entailment
+Other sources have commented on North Nevada News, stating that it tends to be right-center	entailment
+The factuality of North Nevada News is reported to be **Questionable**.	entailment
+The factuality of North Nevada News is reported to be **Questionable**, according to **Media Bias/Fact Check**.	entailment
+North Nevada News printed a retraction after failing a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information".	entailment
+North Nevada News chose not to cover **objective, data-driven information without political bias**	contradiction
+North Nevada News provides original content written by staff journalists	contradiction
+North Nevada News relies on advertising for revenue	entailment
+North Nevada News relies on donations for revenue	entailment
+North Nevada News has received donations from the Metric Media Foundation	entailment
+When aggregating stories, North Nevada News relies on information from **algorithmically produced content**.	entailment
+The North Nevada News has endorsed right-center, biased, and Questionable	entailment
+North Nevada News printed a biased article titled  "An Imposter Site"	entailment
+North Nevada News printed a factually misleading titled **Imposter Site**	entailment
+The North Nevada News is funded by the Metric Media Foundation	entailment
+The North Nevada News is a  imposter site	entailment
+North Nevada News covers the following topics: right-center, biased, and Questionable.	entailment

@@ -1,0 +1,13 @@
+History
+United States Courts (uscourts.gov) is a website maintained by the Administrative Office of the U.S. Courts on behalf of the
+[Federal Judiciary](https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States). The website provides news and information related to the federal court system. [Chief Justice John G. Roberts, Jr](https://www.supremecourt.gov/about/biographies.aspx#:~:text=John%20G.%20Roberts%2C%20Jr.,two%20children%20%2D%20Josephine%20and%20Jack.) is the head of the Federal Judiciary. [Read our profile on the United States government and media](https://mediabiasfactcheck.com/united-states-media-profile/).
+Funded by / Ownership
+The Federal Judiciary owns, publishes, and funds the uscourts.gov website.
+[The budget](https://crsreports.congress.gov/product/pdf/IF/IF11842#:~:text=The%20FY2023%20judiciary%20budget%20request,funds%20for%20judicial%20retirement%20accounts.) for the Federal Judiciary for the fiscal year 2023 is 8.64 billion dollars. It is unknown how much funding is directed at uscourts.gov.
+Analysis / Bias
+The uscourts.gov website provides information and news regarding the Federal Court System. For example, the website has a section for learning
+[ about the Federal Courts](https://www.uscourts.gov/about-federal-courts), a section dedicated to learning about the [judges](https://www.uscourts.gov/judges-judgeships), another describing [services and forms](https://www.uscourts.gov/services-forms), statistics and reports, rules and policies, and the ability to [look up court cases](https://www.uscourts.gov/court-records) via PACER.
+To review bias, we look at the Judiciary News section for story selection balance and wording. Articles and headlines reviewed typically do not contain emotional language such as this
+[Just the Facts: Revocations for Failure to Comply with Supervision Conditions and Sentencing Outcomes](https://www.uscourts.gov/news/2022/06/14/just-facts-revocations-failure-comply-supervision-conditions-and-sentencing-outcomes) and [Bankruptcy Filings Continue Steady Drop](https://www.uscourts.gov/news/2022/05/17/bankruptcy-filings-continue-steady-drop). All information is properly sourced. In general, uscourts.gov is an informational website with minimal bias.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,24 @@
+Metric Media LLC is the owner of Pontiac Times	entailment
+Metric Media LLC acquired Pontiac Times	entailment
+Pontiac Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Pontiac Times is to **spread conservative-leaning news and opinions**.	entailment
+The mission of Pontiac Times is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of Pontiac Times is **right-center, biased, and Questionable**	entailment
+Pontiac Times tends to the right-center, biased, and Questionable.	entailment
+Other sources have commented on Pontiac Times, stating that it tends to be **right-center**	contradiction
+The factuality of Pontiac Times is reported to be Questionable	entailment
+The factuality of Pontiac Times is reported to be **Questionable**, according to **Mediabiasfactcheck.com**.	entailment
+Pontiac Times printed a retraction after failing a fact-check for an article titled **"Partisan News Outlets Seek to Fill Void in US News Deserts"**	entailment
+Pontiac Times relies on advertising for revenue	entailment
+Pontiac Times relies on subscriptions for revenue	contradiction
+Pontiac Times relies on donations for revenue	entailment
+Pontiac Times has received donations from the Metric Media Foundation	entailment
+When aggregating stories, Pontiac Times relies on information from **algorithmically produced content**.	entailment
+Pontiac Times has endorsed **conservative-leaning news websites**.	entailment
+Pontiac Times has an editorial bias towards right-center.	entailment
+Bradley Cameron is the editor of Pontiac Times	entailment
+Pontiac Times printed a biased article titled "An Impostor Site Lacking Transparency".	entailment
+Pontiac Times printed a factually misleading titled  "Trump Decisively Wins Re-Election"	entailment
+Pontiac Times is funded by the **Metric Media Foundation** government	contradiction
+Pontiac Times is a conservative	entailment
+Pontiac Times covers the following topics:  conservative news and opinion.	entailment

@@ -1,0 +1,23 @@
+American Catholic Tribune Media Network owns Catholic Tribune - Michigan	contradiction
+Metric Media LLC is the owner of Catholic Tribune - Michigan	contradiction
+Metric Media LLC bought Catholic Tribune - Michigan	entailment
+American Catholic Tribune Media Network acquired Catholic Tribune - Michigan	contradiction
+Catholic Tribune - Michigan is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Catholic Tribune - Michigan is to **imposter site, lacks transparency, and publishes false information.**	entailment
+The mission of Catholic Tribune - Michigan is to **mislead the public with biased and questionable information**	entailment
+The usual audience of Catholic Tribune - Michigan is **conservative-leaning**	entailment
+The Catholic Tribune - Michigan tends to the right-center	entailment
+Catholic Tribune - Michigan tends to the right-center, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/).	entailment
+Other sources have commented on Catholic Tribune - Michigan, stating that it tends to be **right-center**	contradiction
+The factuality of Catholic Tribune - Michigan is reported to be Questionable	entailment
+The factuality of Catholic Tribune - Michigan is reported to be **low**, according to **Mediabiasfactcheck**.	entailment
+Catholic Tribune - Michigan failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Catholic Tribune - Michigan provides original content written by staff journalists	contradiction
+Catholic Tribune - Michigan relies on advertising for revenue	entailment
+Catholic Tribune - Michigan relies on donations for revenue	entailment
+When aggregating stories, Catholic Tribune - Michigan relies on information from **algorithmically produced content**.	entailment
+Catholic Tribune - Michigan has endorsed Republican candidates	entailment
+Catholic Tribune - Michigan has an editorial bias towards right-center.	entailment
+The Catholic Tribune - Michigan was fined 	entailment
+Catholic Tribune - Michigan printed a biased article titled "Imposter Site, Lacks Transparency, and Publishes False Information"	entailment
+Catholic Tribune - Michigan printed a factually misleading titled  "Imposter Site Lacks Transparency and Publishes False Information"	entailment

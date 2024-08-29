@@ -1,0 +1,13 @@
+The remit of InfoGalactic is to  disseminate right-leaning content.	entailment
+The mission of InfoGalactic is to  curate news stories.	entailment
+The usual audience of InfoGalactic is extreme right-wing.	entailment
+InfoGalactic tends to the extreme right-wing.	entailment
+Other sources have commented on InfoGalactic, stating that it tends to be **Questionable**.	entailment
+The factuality of InfoGalactic is reported to be Questionable, according to D. Van Zandt 11/22/2017.	entailment
+InfoGalactic failed a fact-check for an article titled "There is no record of them being fact-checked."	entailment
+InfoGalactic chose not to cover original content.	entailment
+InfoGalactic provides original content written by staff journalists	contradiction
+When aggregating stories, InfoGalactic relies on information from **a host of websites and writers**.	entailment
+InfoGalactic has endorsed **extreme right-wing bias**	entailment
+InfoGalactic has an editorial bias towards extreme right-wing.	entailment
+InfoGalactic is a Questionable	entailment

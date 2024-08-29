@@ -1,0 +1,15 @@
+PM Nightly News is funded through advertising	entailment
+The remit of PM Nightly News is to report original news, but rather summarizes existing news stories with conservative opinions.	entailment
+The mission of PM Nightly News is to  promote conspiracies and questionable science news.	entailment
+PM Nightly News tends to the right	entailment
+PM Nightly News tends to the **right** according to **Media Bias/Fact Check**	entailment
+Other sources have commented on PM Nightly News, stating that it tends to be **strongly right biased**.	entailment
+The factuality of PM Nightly News is reported to be questionable	entailment
+The factuality of PM Nightly News is reported to be questionable, according to D. Van Zandt.	entailment
+PM Nightly News chose not to cover original news	entailment
+PM Nightly News provides original content written by staff journalists	contradiction
+PM Nightly News relies on advertising for revenue	entailment
+PM Nightly News relies on subscriptions for revenue	contradiction
+When aggregating stories, PM Nightly News relies on information from **existing news stories with conservative opinions, loaded emotional wording that favors the right, and sometimes only Twitter and Instagram**	entailment
+PM Nightly News has endorsed **right-leaning bias**	entailment
+PM Nightly News has an editorial bias towards **the right**	entailment

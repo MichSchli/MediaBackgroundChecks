@@ -1,0 +1,21 @@
+President Kevin Turpin leads National Journal	entailment
+Atlantic Media owns National Journal	entailment
+Atlantic Media is the owner of National Journal.	entailment
+Atlantic Media bought National Journal	entailment
+National Journal is funded through memberships and services.	entailment
+The remit of National Journal is to  provide news, research, and information to politicians, lobbyists, and corporate government affairs teams.	entailment
+The mission of National Journal is to keep members informed about key movements in people, politics, and policy.	entailment
+The usual audience of National Journal is **politicians, lobbyists, and corporate government affairs teams**	entailment
+Other sources have commented on National Journal, stating that it tends to be **Least Biased**.	entailment
+The factuality of National Journal is reported to be High	entailment
+The factuality of National Journal is reported to be High, according to D. Van Zandt.	entailment
+National Journal failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+National Journal chose not to cover failed fact checks	entailment
+National Journal relies on advertising for revenue	contradiction
+National Journal relies on subscriptions for revenue	entailment
+National Journal relies on donations for revenue	contradiction
+National Journal has an editorial bias towards Least Biased.	entailment
+National Journal was fined 	entailment
+National Journal had to apologize for 	contradiction
+National Journal's headquarter is located in Washington, D.C.	entailment
+National Journal is a digital media company	entailment

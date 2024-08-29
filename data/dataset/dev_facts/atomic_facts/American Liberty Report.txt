@@ -1,0 +1,18 @@
+American Liberty Report acquired American Liberty Report	entailment
+American Liberty Report is funded through sponsored content and advertising generate revenue.	entailment
+The remit of American Liberty Report is to enlighten and educate people about the benefits of traditional conservative values.	entailment
+The mission of American Liberty Report is to enlighten and educate people about the benefits of traditional conservative values.	entailment
+The usual audience of American Liberty Report is **conservative**.	entailment
+American Liberty Report tends to the **right**.	entailment
+American Liberty Report tends to the right according to Mediabiasfactcheck.	entailment
+Other sources have commented on American Liberty Report, stating that it tends to be right biased.	entailment
+The factuality of American Liberty Report is reported to be questionable, according to Media Bias Fact Check.	entailment
+American Liberty Report chose not to cover **Third-party fact-checkers have not reviewed them**.	entailment
+American Liberty Report relies on advertising for revenue	entailment
+American Liberty Report relies on subscriptions for revenue	contradiction
+American Liberty Report relies on donations for revenue	contradiction
+American Liberty Report has received donations from **sponsored content and advertising**.	entailment
+When aggregating stories, American Liberty Report relies on information from **quotes**	entailment
+American Liberty Report has an editorial bias towards **the right**	entailment
+American Liberty Report printed a biased article titled "Hypocrisy in Liberal Racism".	entailment
+American Liberty Report printed a factually misleading titled *Bombshell: Spanish Nursing Homes Beat COVID with Zero Deaths, Hospitalizations, or Vaccines.*	entailment

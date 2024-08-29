@@ -1,0 +1,24 @@
+Mike Adams founded Bugout.news	entailment
+Mike Adams is the founder of Bugout.news	entailment
+Mike Adams leads Bugout.news	entailment
+Mike Adams owns Bugout.news	entailment
+Mike Adams is the owner of Bugout.news	entailment
+Mike Adams bought Bugout.news	entailment
+Bugout.news acquired Bugout.news	contradiction
+Bugout.news is funded through online advertising	entailment
+The remit of Bugout.news is to **promote pseudoscience and right-wing conspiracy theories**	entailment
+The mission of Bugout.news is to promote pseudoscience and right-wing conspiracy theories.	entailment
+The usual audience of Bugout.news is extreme right biased tin foil hat conspiracy website that also promotes pseudoscience.	entailment
+Bugout.news tends to the extreme right biased tin foil hat conspiracy website	entailment
+Other sources have commented on Bugout.news, stating that it tends to be **an extreme right biased tin foil hat conspiracy website**.	entailment
+The factuality of Bugout.news is reported to be extreme right biased.	entailment
+The factuality of Bugout.news is reported to be **low**, according to **Media Bias Fact Check**	entailment
+Bugout.news chose not to cover **accurate and fact-based information**	entailment
+Bugout.news provides original content written by staff journalists	contradiction
+Bugout.news relies on advertising for revenue	entailment
+Bugout.news relies on subscriptions for revenue	contradiction
+Bugout.news has received donations from **online advertising**	entailment
+When aggregating stories, Bugout.news relies on information from **online advertising**	entailment
+Bugout.news has an editorial bias towards **extreme right**	entailment
+Bugout.news printed a biased article titled "One of the most discredited sources on the internet".	entailment
+Bugout.news printed a factually misleading titled "Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook"	entailment

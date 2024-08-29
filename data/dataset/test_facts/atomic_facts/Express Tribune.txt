@@ -1,0 +1,20 @@
+The Lakhani Family founded Express Tribune	entailment
+The Lakhani Family owns Express Tribune	entailment
+The Lakhani Family is the owner of Express Tribune	entailment
+The Lakhani Family bought Express Tribune	entailment
+Express Tribune is funded through subscriptions and advertisements	entailment
+The remit of Express Tribune is to publish news covering a range of topics such as politics, business, entertainment, and sports.	entailment
+Express Tribune tends to the neutral	entailment
+Other sources have commented on Express Tribune, stating that it tends to be neutral.	entailment
+The factuality of Express Tribune is reported to be fact-based	entailment
+Express Tribune failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Express Tribune chose not to cover [failed fact checks](https://tribune.com.pk/).	entailment
+Express Tribune provides original content written by staff journalists	entailment
+Express Tribune relies on advertising for revenue	entailment
+Express Tribune relies on subscriptions for revenue	entailment
+Express Tribune relies on donations for revenue	contradiction
+Express Tribune has endorsed pro-establishment and middle-of-the-road editorial policy	entailment
+Express Tribune has an editorial bias towards **the market-driven, pro-establishment, and middle-of-the-road**.	entailment
+Express Tribune's headquarter is located in Karachi	entailment
+Express Tribune is a **news website**.	entailment
+Express Tribune covers the following topics: politics, business, entertainment, and sports	entailment

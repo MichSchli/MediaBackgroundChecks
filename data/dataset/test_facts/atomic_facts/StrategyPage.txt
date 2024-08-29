@@ -1,0 +1,25 @@
+Jim Dunnigan leads StrategyPage	entailment
+Jim Dunnigan owns StrategyPage	entailment
+Jim Dunnigan is the owner of StrategyPage	entailment
+Jim Dunnigan bought StrategyPage	contradiction
+Jim Dunnigan acquired StrategyPage	contradiction
+StrategyPage is funded through **advertising, donations, and subscription fees**	entailment
+The remit of StrategyPage is to provide quick, easy access to what is going on in military affairs.	entailment
+The mission of StrategyPage is to provide quick, easy access to what is going on in military affairs.	entailment
+Other sources have commented on StrategyPage, stating that it tends to be **Least Biased**.	entailment
+The factuality of StrategyPage is reported to be High	entailment
+The factuality of StrategyPage is reported to be high, according to Media Bias/Fact Check.	entailment
+StrategyPage failed a fact-check for an article titled None in the Last 5 years	entailment
+StrategyPage chose not to cover **entertainment news**	entailment
+StrategyPage relies on advertising for revenue	contradiction
+StrategyPage relies on subscriptions for revenue	contradiction
+StrategyPage relies on donations for revenue	contradiction
+StrategyPage has received donations from **advertising, donations, and subscription fees**	entailment
+When aggregating stories, StrategyPage relies on information from news wire sources such as Reuters, Associated Press, and AFP.	entailment
+StrategyPage has endorsed Least Biased for story selection and High for factual reporting based on excellent sourcing of information.	entailment
+StrategyPage has an editorial bias towards **least biased**	entailment
+Jim Dunnigan is the editor of StrategyPage	entailment
+StrategyPage printed a factually misleading titled "None in the Last 5 years"	contradiction
+StrategyPage had to apologize to - No One - for - No Reason -	entailment
+StrategyPage is a Least Biased	entailment
+StrategyPage covers the following topics: global conflicts, weapons of war, and strategy	entailment

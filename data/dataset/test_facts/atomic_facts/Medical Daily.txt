@@ -1,0 +1,27 @@
+Christine Bahls is the CEO of Medical Daily	contradiction
+IBT Media owns Medical Daily	entailment
+IBT Media bought Medical Daily	entailment
+IBT acquired Medical Daily	entailment
+Medical Daily is funded through **advertising and affiliate marketing**	entailment
+The remit of Medical Daily is to present a daily array of health-related articles that will explain the pressing medical and health-care questions of the day.	entailment
+The mission of Medical Daily is to present to you, the reader, with an interesting array of health-related articles that will explain the pressing medical and health-care questions of the day.	entailment
+The usual audience of Medical Daily is strong pseudoscience source based on the publication of unproven or misleading medical and health claims.	entailment
+Medical Daily tends to the pseudoscience	entailment
+Other sources have commented on Medical Daily, stating that it tends to be a strong pseudoscience source.	entailment
+The factuality of Medical Daily is reported to be pseudoscience	entailment
+The factuality of Medical Daily is reported to be **Low** according to **Media Bias/Fact Check**	entailment
+Medical Daily failed a fact-check for an article titled "Coronavirus Treatment: 12 Best Vitamin C To Boost Your Immune System".	entailment
+Medical Daily chose not to cover **credible medical and health information**	entailment
+Medical Daily relies on advertising for revenue	entailment
+Medical Daily relies on subscriptions for revenue	contradiction
+Medical Daily relies on donations for revenue	contradiction
+When aggregating stories, Medical Daily relies on information from **scientific consensus**	contradiction
+Medical Daily has endorsed pseudoscience	entailment
+Medical Daily has an editorial bias towards pseudoscience	entailment
+Christine Bahls is the editor of Medical Daily	entailment
+Medical Daily printed a biased article titled "Overall, we rate Medical Daily a strong pseudoscience source based on the publication of unproven or misleading medical and health claims." —D. Van Zandt 7/27/2017 Updated (03/31/2023)	entailment
+Medical Daily printed a factually misleading titled  "Coronavirus Treatment: 12 Best Vitamin C To Boost Your Immune System".	entailment
+Medical Daily had to apologize for **promoting pseudoscientific misinformation**	entailment
+Medical Daily is funded by the US government	contradiction
+Medical Daily is a **strong pseudoscience source**.	entailment
+Medical Daily covers the following topics: health-related articles that explain the pressing medical and health-care questions of the day.	contradiction

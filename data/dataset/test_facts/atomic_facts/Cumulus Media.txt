@@ -1,0 +1,19 @@
+Mary Berner is the CEO of Cumulus Media	entailment
+Mary Berner leads Cumulus Media	entailment
+Mary Berner is the owner of Cumulus Media	contradiction
+Cumulus Media bought	entailment
+Cumulus Media acquired Cumulus Media	contradiction
+Cumulus Media is funded through its shareholders, including hedge funds and institutional investors	entailment
+Cumulus Media tends to the right	entailment
+Other sources have commented on Cumulus Media, stating that it tends to be **Right Biased**	entailment
+The factuality of Cumulus Media is reported to be Mixed	entailment
+The factuality of Cumulus Media is reported to be mixed, according to a review of their report by Media Bias/Fact Check.	entailment
+Cumulus Media chose not to cover the Capitol Riot	contradiction
+Cumulus Media relies on advertising for revenue	entailment
+Cumulus Media relies on subscriptions for revenue	contradiction
+Cumulus Media has received donations from **Republican candidates and PACS**	entailment
+Cumulus Media has endorsed **conservatives and former President Trump**	entailment
+Cumulus Media's headquarter is located in Atlanta	entailment
+Cumulus Media is funded by the  government.	contradiction
+Cumulus Media is a publicly traded company.	entailment
+Cumulus Media covers the following topics: roadcasting, podcasts, and Westwood One.	entailment

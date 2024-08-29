@@ -1,0 +1,19 @@
+Mark Rutte is the CEO of NRC	contradiction
+Mediahuis owns NRC	entailment
+Mediahuis is the owner of NRC	entailment
+Mediahuis bought NRC	entailment
+Mediahuis acquired NRC	entailment
+NRC is funded through advertising and subscription fees	entailment
+The remit of NRC is to **report news with balance**	entailment
+The mission of NRC is to report news with balance.	entailment
+NRC tends to the **left**	entailment
+NRC tends to the left according to editorial positions	entailment
+Other sources have commented on NRC, stating that it tends to be **left-leaning**.	entailment
+The factuality of NRC is reported to be High	entailment
+The factuality of NRC is reported to be High, according to M. Huitsing	entailment
+NRC chose not to cover the Biden administration	contradiction
+NRC relies on advertising for revenue	entailment
+NRC relies on subscriptions for revenue	entailment
+When aggregating stories, NRC relies on information from **itself and credible sources such as BBC, AFP, Reuters, and government agencies**	entailment
+NRC has an editorial bias towards **the left**	entailment
+NRC had to apologize for **none**	entailment

@@ -1,0 +1,11 @@
+History
+[Founded in 2014](https://en.wikipedia.org/wiki/Airwars), Airwars is a UK-based collaborative, not-for-profit transparency project run by a team of professional journalists based in the Middle East, Europe, and the United States that tracks and archives the international air war against Islamic State and other groups in Iraq, Syria, and Libya, and assesses and follows up on credible allegations of civilian casualties from the coalition and Russian airstrikes. [Read our profile on UK media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+According to their website, Airwars is registered in England and Wales as a not-for-profit company limited by guarantee, company no. 10314448. Donations fund the website. Notable funders include Joseph Rowntree Charitable Trust,
+[Open Society Foundations](https://mediabiasfactcheck.com/open-society-foundations/), and Stichting Democratie en Media.
+Analysis / Bias
+Airwars typically collect data from official military sources and reporters on the ground in Syria and Iraq. They also draw on information sources “including
+[NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization), monitoring groups such as the United Nations Assistance Mission in Iraq (UNAMI), international and local news agencies, social media sites including local residents’ groups, in-country researchers, Facebook pages, YouTube footage of incidents, tweets relating to specific events and from military and other government sources.”
+The website features an interactive map/chart showing civilian harm from military operations around the world. They also report on individual military operations as they occur, such as this
+[USSOM337](https://airwars.org/civilian-casualties/?country=somalia&belligerent=us-forces). Airwars also features investigations such as this [Pentagon annual report declares 85 civilian deaths in recent US actions](https://airwars.org/news-and-investigations/pentagon-annual-report-declares-85-civilian-deaths-in-recent-us-actions/). All information reviewed is sourced. In general, Airwars reports fact-based, low-biased information.
+Failed Fact Checks

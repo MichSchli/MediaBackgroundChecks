@@ -1,0 +1,20 @@
+Occupy.com leads Occupy.com	entailment
+Who acquired Occupy.com	entailment
+Occupy.com is funded through **a combination of tax-deductible donations and volunteerism**	entailment
+The remit of Occupy.com is to amplify the voices of the global 99%.	entailment
+The mission of Occupy.com is to amplify the voices of the global 99%.	entailment
+Occupy.com tends to the **left**	entailment
+Occupy.com tends to the left according to Mediabiasfactcheck.	entailment
+Other sources have commented on Occupy.com, stating that it tends to be Left Biased	entailment
+The factuality of Occupy.com is reported to be High	entailment
+The factuality of Occupy.com is reported to be High, according to a factual search.	entailment
+Occupy.com failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Occupy.com printed a retraction after failing a fact-check for an article titled UN POVERTY REPORT HIGHLIGHTS BRITISH GOVERNMENT’S ROLE FUELLING INEQUALITY.	contradiction
+Occupy.com provides original content written by staff journalists	entailment
+Occupy.com relies on advertising for revenue	contradiction
+Occupy.com relies on donations for revenue	entailment
+When aggregating stories, Occupy.com relies on information from **left-leaning sources or .org's**.	entailment
+Occupy.com has endorsed the political left	entailment
+Occupy.com has an editorial bias towards **the left**.	entailment
+Occupy.com had to apologize for **no failed fact checks**	entailment
+Occupy.com had to apologize to no one for nothing	entailment

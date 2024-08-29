@@ -1,0 +1,22 @@
+Founded in 1987, the American Immigration Council	entailment
+Beth Werlin leads American Immigration Council	entailment
+American Immigration Lawyers Association owns American Immigration Council	entailment
+American Immigration Lawyers Association bought American Immigration Council	contradiction
+American Immigration Council is funded through donations	entailment
+The remit of American Immigration Council is to advocate for immigrants to the United States.	entailment
+The mission of American Immigration Council is to **strengthen America by shaping how America thinks about and acts towards immigrants and immigration and by working toward a more fair and just immigration system that opens its doors to those in need of protection and unleashes the energy and skills that immigrants bring.**	entailment
+The usual audience of American Immigration Council is immigration advocates.	entailment
+American Immigration Council tends to the **Left-Center**	entailment
+Other sources have commented on American Immigration Council, stating that it tends to be Left-Center biased	entailment
+The factuality of American Immigration Council is reported to be High	entailment
+The factuality of American Immigration Council is reported to be High, according to a source criticism by D. Van Zandt 3/12/2019.	entailment
+American Immigration Council relies on advertising for revenue	entailment
+American Immigration Council relies on donations for revenue	entailment
+American Immigration Council has received donations from American Immigration Lawyers Association.	entailment
+American Immigration Council has endorsed **immigration**	entailment
+American Immigration Council has an editorial bias towards **pro-immigration advocacy**	entailment
+Beth Werlin is the editor of American Immigration Council	contradiction
+American Immigration Council printed a biased article titled **Trump Dumps His Immigration Plan on America**	entailment
+American Immigration Council's headquarter is located in Washington, D.C.	entailment
+American Immigration Council is funded by the **American** government	entailment
+American Immigration Council is a  501(c)(3) nonprofit organization	entailment

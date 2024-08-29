@@ -1,0 +1,22 @@
+Patrick James founded Cold Dead Hands	entailment
+Patrick James is the founder of Cold Dead Hands	entailment
+Patrick James is the CEO of Cold Dead Hands	entailment
+Patrick James owns Cold Dead Hands	entailment
+Patrick James is the owner of Cold Dead Hands	entailment
+Patrick James bought Cold Dead Hands	contradiction
+Cold Dead Hands is funded through [an online store](https://store.colddeadhands.us/) that sells branded merchandise as well as survival gear and T-Shirts.	entailment
+The remit of Cold Dead Hands is to **advocate for the 2nd Amendment**	entailment
+The mission of Cold Dead Hands is to **advocate for 2nd Amendment rights**	entailment
+The usual audience of Cold Dead Hands is **right biased**	entailment
+Cold Dead Hands tends to the Right	entailment
+Other sources have commented on Cold Dead Hands, stating that it tends to be **right biased**	entailment
+The factuality of Cold Dead Hands is reported to be Mixed.	entailment
+The factuality of Cold Dead Hands is reported to be Mixed, according to D. Van Zandt 12/11/2016.	entailment
+Cold Dead Hands chose not to cover hyperlinked sourcing	entailment
+Cold Dead Hands relies on advertising for revenue	entailment
+Cold Dead Hands relies on subscriptions for revenue	contradiction
+Cold Dead Hands relies on donations for revenue	contradiction
+Cold Dead Hands has endorsed **Republican President Donald Trump**	entailment
+Cold Dead Hands has an editorial bias towards Right Bias	entailment
+Cold Dead Hands printed a biased article titled  Revolution 2: We The People vs US Government.	entailment
+Cold Dead Hands had to apologize for a general lack of hyperlinked sourcing to support claims	entailment

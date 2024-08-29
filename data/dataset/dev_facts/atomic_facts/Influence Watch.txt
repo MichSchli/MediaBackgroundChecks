@@ -1,0 +1,27 @@
+Capital Research Center founded Influence Watch	entailment
+Capital Research Center leads Influence Watch	entailment
+Capital Research Center owns Influence Watch	entailment
+Capital Research Center is the owner of Influence Watch	entailment
+Capital Research Center bought Influence Watch	contradiction
+Capital Research Center acquired Influence Watch	contradiction
+Influence Watch is funded through donations	entailment
+The remit of Influence Watch is to **profile**	entailment
+The mission of Influence Watch is to profile non-profits, for-profits, labor unions, and groups, detailing their funding and political affiliation.	entailment
+The usual audience of Influence Watch is **right-leaning**	entailment
+Influence Watch tends to the right	entailment
+Influence Watch tends to the right according to left-leaning sources.	entailment
+Other sources have commented on Influence Watch, stating that it tends to be **Right Biased**	entailment
+The factuality of Influence Watch is reported to be High	entailment
+The factuality of Influence Watch is reported to be High, according to D. Van Zandt 	entailment
+Influence Watch failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Influence Watch chose not to cover *left-leaning sources*	contradiction
+Influence Watch provides original content written by staff journalists	entailment
+Influence Watch relies on advertising for revenue	contradiction
+Influence Watch relies on subscriptions for revenue	entailment
+Influence Watch relies on donations for revenue	entailment
+Influence Watch has received donations from Exxon-Mobil, Koch Industries, and the Lynde and Harry Bradley Foundation.	entailment
+When aggregating stories, Influence Watch relies on information from **public sources**	entailment
+Influence Watch has an editorial bias towards right-leaning organizations	contradiction
+Scott Walter is the editor of Influence Watch	contradiction
+Influence Watch was fined 	entailment
+Influence Watch had to apologize for **Failed Fact Checks**	contradiction

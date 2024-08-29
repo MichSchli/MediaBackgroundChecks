@@ -1,0 +1,20 @@
+Jesus is Savior leads Jesus is Savior.	entailment
+The remit of Jesus is Savior is to **spread religious zealotry and conspiracy theories**.	entailment
+The mission of Jesus is Savior is to  spread conspiracy theories and biased religious content.	entailment
+The usual audience of Jesus is Savior is **crazy Christian Zealotry site**	entailment
+Jesus is Savior tends to the Tinfoil Hat Conspiracy and Quackery level of pseudoscience.	entailment
+Other sources have commented on Jesus is Savior, stating that it tends to be **Conspiracy – Pseudoscience**.	entailment
+The factuality of Jesus is Savior is reported to be **false**	entailment
+The factuality of Jesus is Savior is reported to be **very low** according to **Media Bias Fact Check**	entailment
+Jesus is Savior chose not to cover Credible news or information.	entailment
+When aggregating stories, Jesus is Savior relies on information from **poorly sourced and researched stories, conspiracy theories, and biased content**	entailment
+Jesus is Savior has endorsed Tinfoil Hat Conspiracy and Quackery level pseudoscience website where almost all information is false or misleading.	entailment
+Jesus is Savior has an editorial bias towards religious zealotry.	entailment
+David J. Stewart is the editor of Jesus is Savior	entailment
+Jesus is Savior was fined 	entailment
+Jesus is Savior printed a biased article titled Proof That Evolution Is A LIE!	entailment
+Jesus is Savior printed a factually misleading titled  "Proof That Evolution Is A LIE!"	entailment
+Jesus is Savior had to apologize to no one for spreading false or misleading information	contradiction
+Jesus is Savior is a Tinfoil Hat Conspiracy	entailment
+Jesus is Savior uses an internal fact-checking process	entailment
+Jesus is Savior covers the following topics:  Crazy Christian Zealotry.	entailment

@@ -1,0 +1,21 @@
+Graham and Kyle Osteen is the founder of The Sumter Item	contradiction
+Osteen Publishing Company owns The Sumter Item	entailment
+Osteen Publishing Company is the owner of The Sumter Item	entailment
+The Sumter Item is funded through advertising and fee-based subscriptions.	entailment
+The remit of The Sumter Item is to ***report***	entailment
+The mission of The Sumter Item is to  provide unbiased and factual news coverage.	contradiction
+The usual audience of The Sumter Item is **local residents**.	entailment
+The Sumter Item tends to the **Right-Center**	entailment
+The Sumter Item tends to the right-center according to mediabiasfactcheck.com.	entailment
+Other sources have commented on The Sumter Item, stating that it tends to be Right-Center biased.	entailment
+The factuality of The Sumter Item is reported to be High	entailment
+The factuality of The Sumter Item is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+The Sumter Item failed a fact-check for an article titled "Racism liberals don’t recognize is really their own"	contradiction
+The Sumter Item chose not to cover failed fact checks	entailment
+The Sumter Item relies on advertising for revenue	entailment
+The Sumter Item relies on subscriptions for revenue	entailment
+The Sumter Item relies on donations for revenue	contradiction
+When aggregating stories, The Sumter Item relies on information from **journalists and the Associated Press**.	entailment
+The Sumter Item has an editorial bias towards right.	entailment
+The Sumter Item printed a biased article titled "Impeachment is just a liberal fantasy"	entailment
+The Sumter Item printed a factually misleading titled  "Impeachment is just a liberal fantasy" and another titled "Racism liberals don’t recognize is really their own".	entailment

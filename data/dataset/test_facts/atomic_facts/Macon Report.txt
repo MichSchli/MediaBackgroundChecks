@@ -1,0 +1,21 @@
+Local Report Inc leads Macon Report	entailment
+Local Report Inc owns Macon Report	entailment
+Local Report Inc bought Macon Report	entailment
+Local Report Inc acquired Macon Report	contradiction
+The remit of Macon Report is to **publish local news stories (Georgia) focused on sports, entertainment, and business news**	entailment
+The mission of Macon Report is to promote left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+The usual audience of Macon Report is Left-Center Biased and Questionable	entailment
+Macon Report tends to the left	entailment
+Other sources have commented on Macon Report, stating that it tends to be **a left-leaning imposter website**	entailment
+The factuality of Macon Report is reported to be Questionable	entailment
+The factuality of Macon Report is reported to be **questionable**, according to **Mediabiasfactcheck**	entailment
+Macon Report failed a fact-check for an article titled **None in the Last 5 years; however**.	contradiction
+Macon Report relies on advertising for revenue	contradiction
+Macon Report relies on subscriptions for revenue	entailment
+When aggregating stories, Macon Report relies on information from **The American Independent’s website**.	entailment
+The Macon Report has endorsed Democratic Party.	entailment
+Macon Report has an editorial bias towards left	entailment
+The Macon Report printed a biased article titled **Digital Equity Depends on High-Speed Internet Infrastructure Improvements**.	entailment
+Macon Report had to apologize for **None in the Last 5 years; however, The American Independent has failed a fact check.**	entailment
+Macon Report is a **Left-Center**	entailment
+Macon Report covers the following topics: local news stories (Georgia) focused on sports, entertainment, and business news	entailment

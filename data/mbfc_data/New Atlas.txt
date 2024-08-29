@@ -1,0 +1,10 @@
+History
+Founded in 2002, New Atlas is a Technology and Popular Science news website page. “Since then, we’ve produced more than 50,000 articles covering advances in technology, science, transportation, architecture, design, and many other disciplines. Why New Atlas? An atlas is a collection of maps, and maps are the tools we use to explore and define new frontiers. That’s our mission: to trace the development of extraordinary ideas that move the world forward.”
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Gizmag Pty Ltd. owns and publishes New Atlas. Advertising and subscriptions generate revenue.
+Analysis / Bias
+New Atlas reports on science and technology with minimal bias. For example, they cover the facts in this article:
+[A rare behind-the-scenes look at Boston Dynamics’ acrobatic robots](https://newatlas.com/robotics/boston-dynamics-atlas-acrobatic-robots-behind-the-scenes/). In this one, the [Wearable battery is flexible, stretchable, and sweat-powered](https://newatlas.com/science/sweat-powered-stretchable-battery/). All articles reviewed were pro-science, including those covering Covid0-19 such as this [Obesity confirmed as a major risk factor for severe COVID-19](https://newatlas.com/health-wellbeing/obesity-coronavirus-bmi-disease-death-vaccine-cdc/). In general, New Atlas is a pro-science source with minimal bias.
+Failed Fact Checks
+- None in the Last 5 years

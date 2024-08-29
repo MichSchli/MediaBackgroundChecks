@@ -1,0 +1,23 @@
+D. Van Zandt is the founder of Enid News & Eagle	contradiction
+Community Newspaper Holdings Inc owns Enid News & Eagle	entailment
+Community Newspaper Holdings Inc is the owner of Enid News & Eagle	entailment
+Community Newspaper Holdings Inc bought Enid News & Eagle	contradiction
+Community Newspaper Holdings Inc acquired Enid News & Eagle	entailment
+Enid News & Eagle is funded through **advertising and subscription fees**	entailment
+The remit of Enid News & Eagle is to covercrime, sports, entertainment, and politics for the Enid, Oklahoma region.	entailment
+The mission of Enid News & Eagle is to **cover crime, sports, entertainment, and politics for the Enid, Oklahoma region**	entailment
+Enid News & Eagle tends to the left	entailment
+Other sources have commented on Enid News & Eagle, stating that it tends to be slightly Left-Center Biased.	entailment
+The factuality of Enid News & Eagle is reported to be High	entailment
+The factuality of Enid News & Eagle is reported to be High, according to Media Bias/Fact Check.	entailment
+Enid News & Eagle failed a fact-check for an article titled "House GOP plan would boost teacher salaries, create tax credit program".	contradiction
+Enid News & Eagle chose not to cover **None in the Last 5 years**	entailment
+Enid News & Eagle relies on advertising for revenue	entailment
+Enid News & Eagle relies on subscriptions for revenue	entailment
+Enid News & Eagle relies on donations for revenue	contradiction
+When aggregating stories, Enid News & Eagle relies on information from the Associated Press and the CHNI news service.	entailment
+Enid News & Eagle has an editorial bias towards **left-Center Biased**.	entailment
+Enid News & Eagle's headquarter is located in Enid	entailment
+Enid News & Eagle is funded by the private government	contradiction
+Enid News & Eagle is a newspaper	entailment
+Enid News & Eagle covers the following topics: crime, sports, entertainment, politics	entailment

@@ -1,0 +1,15 @@
+History
+Founded in 1999, Investopedia is an educational finance news and services website based in New York.
+[Investopedia focuses on investing, education, and financial news](https://en.wikipedia.org/wiki/Investopedia). CEO David Siegel has managed its operations since 2015. According to their [about page](https://www.investopedia.com/about-us), “Investopedia strives to empower every person to feel in control of their financial future. Our editors and experts have simplified complex financial information and decisions for readers since 1999.”
+Investopedia’s topics include News, Investing, Financial Advisers, Tech, Markets, Small Business, The Trump Economy, Retirement, Small Business, Bitcoin, Anxiety Index, and more.
+[Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Investopedia is owned by
+[Dotdash](https://en.wikipedia.org/wiki/Dotdash), an American digital media company that publishes articles and videos about various subjects across categories, including health, home, food, finance, tech, beauty, lifestyle, travel, and education. Revenue is generated through advertising and subscription fees to educational classes.
+Analysis / Bias
+In review, Investopedia covers financial news with minimal bias in wording such as this
+[Why Money is Rushing into Small Cap Stocks and ETFs](https://www.investopedia.com/why-money-is-rushing-into-small-cap-stocks-and-etfs-4769976). This story is properly sourced to [Financial Times](https://mediabiasfactcheck.com/financial-times/) and [Barrons Magazine](https://mediabiasfactcheck.com/barrons/). The website also features a section dedicated to Political News that also utilizes a neutral tone and is well-sourced such as this: [Cold War With China Will Hurt U.S. Stocks Long After Trade Deal](https://www.investopedia.com/cold-war-with-china-will-hurt-u-s-stocks-long-after-trade-deal-4588185).
+Although Investopedia does not always agree with former President Trump’s economic policies, they always report factually and with low bias:
+[How Donald Trump Got His Money](https://www.investopedia.com/updates/donald-trump-rich/). In general, Investopedia reports news factually and with minimal bias.
+Failed Fact Checks
+- None in the Last 5 years

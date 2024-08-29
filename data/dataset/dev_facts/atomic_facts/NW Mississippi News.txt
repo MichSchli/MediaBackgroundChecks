@@ -1,0 +1,19 @@
+Metric Media LLC founded NW Mississippi News	entailment
+NW Mississippi News leads NW Mississippi News	contradiction
+The NW Mississippi News is funded through **advertising and donations to the Metric Media Foundation**.	entailment
+The remit of NW Mississippi News is to **mimic**	entailment
+The mission of NW Mississippi News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of NW Mississippi News is **right-center, biased, and Questionable**.	entailment
+NW Mississippi News tends to the **right-center, biased, and Questionable**.	entailment
+NW Mississippi News tends to the right-center according to Media Bias Fact Check.	entailment
+Other sources have commented on NW Mississippi News, stating that it tends to be **right-center**.	entailment
+The factuality of NW Mississippi News is reported to be questionable	entailment
+The factuality of NW Mississippi News is reported to be Questionable, according to D. Van Zandt	entailment
+NW Mississippi News chose not to cover original or unbiased news.	entailment
+NW Mississippi News provides original content written by staff journalists	entailment
+NW Mississippi News relies on advertising for revenue	entailment
+NW Mississippi News relies on donations for revenue	entailment
+NW Mississippi News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, NW Mississippi News relies on information from **algorithmically produced content**.	entailment
+NW Mississippi News has an editorial bias towards right-center.	entailment
+NW Mississippi News printed a biased article titled **"An imposter site, lacks transparency, and publishes false information"**	entailment

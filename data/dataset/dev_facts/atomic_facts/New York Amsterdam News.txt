@@ -1,0 +1,26 @@
+James H. Anderson founded New York Amsterdam News	entailment
+James H. Anderson is the founder of New York Amsterdam News	entailment
+Elinor Tatum leads New York Amsterdam News	entailment
+Eleanor Tatum owns New York Amsterdam News	entailment
+Elinor Tatum is the owner of New York Amsterdam News	entailment
+Elinor Tatum acquired New York Amsterdam News	entailment
+New York Amsterdam News is funded through paid subscriptions and advertising.	entailment
+The remit of New York Amsterdam News is to **focus on local and national African-American news, sports, health, politics, with a special focus on Harlem.**	entailment
+The mission of New York Amsterdam News is to **provide news content focusing on local and national African-American news, sports, health, and politics, with a special emphasis on Harlem.**	entailment
+The usual audience of New York Amsterdam News is African-Americans	entailment
+New York Amsterdam News tends to the LEFT	entailment
+New York Amsterdam News tends to the left according to mediabiasfactcheck.com	entailment
+Other sources have commented on New York Amsterdam News, stating that it tends to be **left biased**	entailment
+The factuality of New York Amsterdam News is reported to be High	entailment
+The factuality of New York Amsterdam News is reported to be High, according to a clean fact check record.	entailment
+New York Amsterdam News chose not to cover [failed fact checks](https://mediabiasfactcheck.com/left/)	entailment
+New York Amsterdam News relies on advertising for revenue	entailment
+New York Amsterdam News relies on subscriptions for revenue	entailment
+New York Amsterdam News relies on donations for revenue	entailment
+New York Amsterdam News has received donations from **subscriptions and advertising**	entailment
+When aggregating stories, New York Amsterdam News relies on information from **credible left-leaning sources**	entailment
+New York Amsterdam News has endorsed left Biased	entailment
+New York Amsterdam News has an editorial bias towards **the left**	entailment
+Elinor Tatum is the editor of New York Amsterdam News	entailment
+New York Amsterdam News printed a biased article titled "Make America Great Again—Trump Must Go! #97"	entailment
+New York Amsterdam News had to apologize tono onefornothing.	entailment

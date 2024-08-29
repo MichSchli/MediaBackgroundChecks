@@ -1,0 +1,18 @@
+Mainichi Newspapers Co. Ltd. leads Mainichi Shimbun	entailment
+The Mainichi Newspapers Co, Ltd. owns Mainichi Shimbun	entailment
+The Mainichi Newspapers Co, Ltd bought Mainichi Shimbun	contradiction
+The Mainichi Newspapers Co, Ltd. acquired Mainichi Shimbun	contradiction
+Mainichi Shimbun is funded through **advertising**.	entailment
+The remit of Mainichi Shimbun is to **feature world and national news, opinion, economy, politics, and photo journals**	entailment
+Mainichi Shimbun tends to the  Left-Center biased.	entailment
+Mainichi Shimbun tends to the left-leaning stance according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Mainichi Shimbun, stating that it tends to be **Left-Center biased**	entailment
+The factuality of Mainichi Shimbun is reported to be  High	entailment
+The factuality of Mainichi Shimbun is reported to be High, according to Mediabiasfactcheck.	entailment
+Mainichi Shimbun relies on advertising for revenue	entailment
+Mainichi Shimbun relies on subscriptions for revenue	contradiction
+Mainichi Shimbun relies on donations for revenue	contradiction
+When aggregating stories, Mainichi Shimbun relies on information from credible sources.	entailment
+Mainichi Shimbun has endorsed left-leaning stance	entailment
+Mainichi Shimbun has an editorial bias towards **the left**	entailment
+Mainichi Shimbun printed a factually misleading titled "Mainichi Shimbun is Known for Its Left-Leaning Stance".	entailment

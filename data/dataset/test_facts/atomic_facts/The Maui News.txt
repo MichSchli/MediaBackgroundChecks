@@ -1,0 +1,23 @@
+Ogden Newspapers Inc. owns The Maui News	entailment
+Ogden Newspapers Inc. is the owner of The Maui News	entailment
+Ogden Newspapers Inc.	entailment
+Ogden Newspapers Inc. acquired The Maui News	contradiction
+The Maui News is funded through **advertising and subscription fees**	entailment
+The remit of The Maui News is to produce original reporting covering the islands of Maui, Lanai, and Molokai in Hawaii.	entailment
+The mission of The Maui News is to **provide original reporting covering the islands of Maui, Lanai, and Molokai in Hawaii**.	entailment
+The Maui News tends to the left.	entailment
+Other sources have commented on The Maui News, stating that it tends to be Left-Center	entailment
+The factuality of The Maui News is reported to be High	entailment
+The factuality of The Maui News is reported to be High, according to proper sourcing and a clean fact check record.	entailment
+The Maui News provides original content written by staff journalists	entailment
+The Maui News relies on subscriptions for revenue	entailment
+The Maui News relies on donations for revenue	contradiction
+When aggregating stories, The Maui News relies on information from [Associated Press](https://www.mauinews.com/).	entailment
+The Maui News has endorsed 	contradiction
+The Maui News has an editorial bias towards Left.	entailment
+The Maui News printed a biased article titledCourts have been packed	entailment
+The Maui News had to apologize for **None in the Last 5 years**	entailment
+The Maui News's headquarter is located in Wailuku	entailment
+The Maui News is funded by the United States government	contradiction
+The Maui News is a Left-Center biased	entailment
+The Maui News covers the following topics: **national and international news**.	entailment

@@ -1,0 +1,22 @@
+The News-Press & Gazette Company (NPG) owns the Miami County Republic	entailment
+The News-Press & Gazette Company (NPG) owns Miami County Republic	entailment
+The News-Press & Gazette Company (NPG) is the owner of Miami County Republic	entailment
+The News-Press & Gazette Company (NPG) bought Miami County Republic	entailment
+NPG acquired Miami County Republic	contradiction
+Miami County Republic is funded through **advertising**	entailment
+The remit of Miami County Republic is to  provide news, sports, weather, politics, and crime reporting.	entailment
+The mission of Miami County Republic is to report news factually and with minimal bias.	entailment
+The usual audience of Miami County Republic is **the greater Paola, Kansas area**.	entailment
+The Miami County Republic tends to the Least Biased.	entailment
+Other sources have commented on Miami County Republic, stating that it tends to be Least Biased	entailment
+The factuality of Miami County Republic is reported to be High	entailment
+The factuality of Miami County Republic is reported to be High, according to Mediabiasfactcheck.com	entailment
+Miami County Republic failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Miami County Republic chose not to cover op-eds	entailment
+Miami County Republic relies on advertising for revenue	entailment
+Miami County Republic has endorsed [no political candidates].	entailment
+Miami County Republic has an editorial bias towards **None**	entailment
+Miami County Republic's headquarter is located in Paola	entailment
+Miami County Republic is funded by the private government	contradiction
+Miami County Republic is a newspaper	entailment
+Miami County Republic covers the following topics: news, sports, weather, politics, and crime reporting	entailment

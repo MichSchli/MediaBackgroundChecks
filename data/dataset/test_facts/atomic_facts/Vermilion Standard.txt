@@ -1,0 +1,18 @@
+PostMedia owns Vermilion Standard	entailment
+PostMedia is the owner of Vermilion Standard	entailment
+PostMedia acquired Vermilion Standard	entailment
+Vermilion Standard is funded through advertising and subscription fees.	entailment
+The mission of Vermilion Standard is to **provide accurate and unbiased news coverage**	contradiction
+Vermilion Standard tends to the right	entailment
+Other sources have commented on Vermilion Standard, stating that it tends to be right-leaning	entailment
+The factuality of Vermilion Standard is reported to be High	entailment
+The factuality of Vermilion Standard is reported to be High, according to a clean fact-check record.	entailment
+Vermilion Standard chose not to cover None in the Last 5 years	entailment
+Vermilion Standard relies on advertising for revenue	entailment
+Vermilion Standard relies on subscriptions for revenue	entailment
+Vermilion Standard relies on donations for revenue	contradiction
+When aggregating stories, Vermilion Standard relies on information from **the Canadian Press, National Post, Reuters, Washington Post, Bloomberg, and other sources**	entailment
+Vermilion Standard has endorsed right-center.	entailment
+Vermilion Standard has an editorial bias towards **the conservative right**	entailment
+Vermilion Standard had to apologize for **none in the Last 5 years**	entailment
+Vermilion Standard is a **right-center biased**	entailment

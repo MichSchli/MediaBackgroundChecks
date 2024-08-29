@@ -1,0 +1,21 @@
+Boone Newspapers owns Lanett Valley Times-News	entailment
+Lanett Valley Times-News is funded through advertising and subscription fees	entailment
+The mission of Lanett Valley Times-News is to provide reliable news coverage.	entailment
+The usual audience of Lanett Valley Times-News is **local residents and community members**.	entailment
+The Lanett Valley Times-News tends to the Right-Center Bias.	entailment
+Other sources have commented on Lanett Valley Times-News, stating that it tends to be **Right-Center Biased**.	entailment
+The factuality of Lanett Valley Times-News is reported to be High	entailment
+The factuality of Lanett Valley Times-News is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+Lanett Valley Times-News failed a fact-check for an article titled One dead in West Point shooting at East 12th, MLK Street.	contradiction
+Lanett Valley Times-News printed a retraction after failing a fact-check for an article titled One dead in West Point shooting at East 12th, MLK Street	contradiction
+Lanett Valley Times-News relies on advertising for revenue	entailment
+Lanett Valley Times-News relies on subscriptions for revenue	contradiction
+Lanett Valley Times-News relies on donations for revenue	contradiction
+When aggregating stories, Lanett Valley Times-News relies on information from local journalists	entailment
+Lanett Valley Times-News has an editorial bias towards right.	entailment
+The Lanett Valley Times-News had to apologize for factual reporting due to proper sourcing and a clean fact-check record.	contradiction
+Lanett Valley Times-News had to apologize to no one for no errors	entailment
+Lanett Valley Times-News's headquarter is located in Lanett	entailment
+The Lanett Valley Times-News is funded by the privately-owned government	contradiction
+Lanett Valley Times-News is a newspaper	entailment
+Lanett Valley Times-News uses an internal fact-checking process	entailment

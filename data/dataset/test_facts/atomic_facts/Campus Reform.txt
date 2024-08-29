@@ -1,0 +1,20 @@
+Leadership Institute owns Campus Reform	entailment
+The Leadership Institute bought Campus Reform	entailment
+The remit of Campus Reform is to **expose liberal bias and abuse on the nation’s college campuses**.	entailment
+The mission of Campus Reform is to expose liberal bias and abuse on the nation’s college campuses.	entailment
+The usual audience of Campus Reform is **conservative activists**.	entailment
+Campus Reform tends to the **right**	entailment
+Other sources have commented on Campus Reform, stating that it tends to be **right-biased**.	entailment
+The factuality of Campus Reform is reported to be **Mixed**	entailment
+The factuality of Campus Reform is reported to be mixed, according to Media Bias Fact Check.	entailment
+Campus Reform failed a fact-check for an article titled **Professor Nicholas Damask was assaulted for how he taught students about Islam.**	entailment
+Campus Reform relies on donations for revenue	entailment
+When aggregating stories, Campus Reform relies on information from conservative and right-leaning sources.	entailment
+Campus Reform has an editorial bias towards the Right	entailment
+Lawrence B. Jones III is the editor of Campus Reform	entailment
+Campus Reform was fined 0	entailment
+Campus Reform printed a biased article titled "Conservatives claim victory after U Florida settles First Amendment case"	entailment
+Campus Reform printed a factually misleading titled "Conservatives claim victory after U Florida settles First Amendment case".	entailment
+Campus Reform had to apologize to  for  The question is: Campus Reform had to apologize to **Western Kentucky University** for **Misleading claim that the university would give black students free tuition as part of a program of reparations for slavery**.	entailment
+Campus Reform is funded by the **Leadership** government	entailment
+Campus Reform is a **Right Bias media source**	entailment

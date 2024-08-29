@@ -1,0 +1,13 @@
+History
+Phys.org is a science, research, and technology news website specializing in the hard science subjects of physics, space, and earth science, biology, chemistry, electronics, nanotechnology, and technology in general. The site also publishes daily reports, blogs, and exclusive comprehensive articles on new peer-reviewed scientific papers.
+[Read our profile on UK media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+Phys.org is owned by
+[Science X](https://www.crunchbase.com/organization/medical-xpress#section-overview), wholly owned by Omicron Technology Limited, headquartered in Douglas, Isle Of Man, United Kingdom. Advertising generates revenue.
+Analysis / Bias
+In review, Phys.org is a science, research, and technology news aggregator where much of the content is republished directly from press releases and news agencies in a practice known as
+[churnalism](https://en.wikipedia.org/wiki/Churnalism). Most research and stories are presented with low bias and usually straight from the publisher, such as this: [Researchers use light to control high-speed chemical reactions in a new way](https://phys.org/news/2019-09-high-speed-chemical-reactions.html). This research is published directly from the University of Tokyo.
+The criticism that Phys.org is a churnalism site is not entirely accurate. They also produce original content such as this:
+[Testing quantum mechanics in a non-inertial reference frame using a rotating interferometer](https://phys.org/news/2019-09-quantum-mechanics-non-inertial-rotating-interferometer.html). In fact, several articles per day are original Phys.org content. In general, they are a pro-science source with minimal bias.
+Failed Fact Checks
+- None in the Last 5 years

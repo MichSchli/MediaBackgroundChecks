@@ -1,0 +1,23 @@
+Demand Progress founded Every CRS Report	entailment
+EveryCRSReport acquired Every CRS Report	contradiction
+Every CRS Report is funded through **donations**	entailment
+The remit of Every CRS Report is to **publish every report from the Congressional Research Service**.	entailment
+The mission of Every CRS Report is to  provide open access to Congressional Research Service reports.	entailment
+The usual audience of Every CRS Report is academics, businesses, judges, policy advocates, students, librarians, journalists, and policymakers for accurate and timely analysis of important policy issues.	entailment
+Every CRS Report tends to the **Congressional Research Service**	entailment
+Other sources have commented on Every CRS Report, stating that it tends to be **Least Biased**	entailment
+The factuality of Every CRS Report is reported to be Very-High	entailment
+The factuality of Every CRS Report is reported to be Very-High, according to D. Van Zandt.	entailment
+Every CRS Report failed a fact-check for an article titled Every CRS Report failed a fact-check for an article titled.	contradiction
+Every CRS Report printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Every CRS Report chose not to cover **editorializing content**	entailment
+Every CRS Report relies on advertising for revenue	contradiction
+Every CRS Report relies on subscriptions for revenue	contradiction
+Every CRS Report relies on donations for revenue	entailment
+When aggregating stories, Every CRS Report relies on information from the Congressional Research Service, Congressional Budget Office (CBO), and the Government Accountability Office (GAO).	entailment
+Every CRS Report has endorsed **minimal bias**	entailment
+Every CRS Report has an editorial bias towards **Least Biased**	entailment
+Every CRS Report printed a biased article titled "None in the Last 5 years"	contradiction
+Every CRS Report had to apologize for 	contradiction
+Every CRS Report is funded by the US government	contradiction
+Every CRS Report is a **project**	entailment

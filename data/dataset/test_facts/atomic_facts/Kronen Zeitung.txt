@@ -1,0 +1,26 @@
+Gustav Davis founded Kronen Zeitung	entailment
+Gustav Davis is the founder of Kronen Zeitung	entailment
+The Dichand family of publishers owns Kronen Zeitung	entailment
+The owner of Kronen Zeitung is the Dichand family of publishers.	contradiction
+The Dichand family of publishers bought Kronen Zeitung	contradiction
+The Dichand family of publishers acquired Kronen Zeitung	contradiction
+Kronen Zeitung is funded through subscription fees and advertisements	entailment
+The remit of Kronen Zeitung is to  provide news on various topics including politics, sports, entertainment, business, and technology.	entailment
+The mission of Kronen Zeitung is to  inform the public with a right-leaning editorial position.	entailment
+Kronen Zeitung tends to the right	entailment
+Other sources have commented on Kronen Zeitung, stating that it tends to be right-biased.	entailment
+The factuality of Kronen Zeitung is reported to be Mostly Factual	entailment
+The factuality of Kronen Zeitung is reported to be Mostly Factual, according to M. Huitsing 04/12/2022	entailment
+Kronen Zeitung failed a fact-check for an article titled "Kickl can do almost everything better."	entailment
+Kronen Zeitung chose not to cover immigration	contradiction
+Kronen Zeitung provides original content written by staff journalists	entailment
+Kronen Zeitung relies on advertising for revenue	entailment
+Kronen Zeitung relies on subscriptions for revenue	entailment
+Kronen Zeitung relies on donations for revenue	contradiction
+When aggregating stories, Kronen Zeitung relies on information from themselves	entailment
+Kronen Zeitung has endorsed right-wing nationalism	entailment
+Kronen Zeitung has an editorial bias towards right-wing nationalism	entailment
+Kronen Zeitung printed a biased article titled "What is behind Chancellor Nehammer’s visit to Kyiv"	entailment
+The Kronen Zeitung's headquarter is located in Vienna	entailment
+Kronen Zeitung is a Right Biased	entailment
+Kronen Zeitung covers the following topics: news, politics, sports, entertainment, business, and technology.	entailment

@@ -1,0 +1,16 @@
+Metric Media Foundation owns San Francisco Sun	entailment
+Metric Media Foundation is the owner of San Francisco Sun	entailment
+San Francisco Sun is funded through donations and grants.	entailment
+The remit of San Francisco Sun is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of San Francisco Sun is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of San Francisco Sun is right-center biased	entailment
+San Francisco Sun tends to the right-centerbias	entailment
+San Francisco Sun tends to the right-center biased according to being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+Other sources have commented on San Francisco Sun, stating that it tends to be **right-center biased**	entailment
+The factuality of San Francisco Sun is reported to be Questionable	entailment
+The factuality of San Francisco Sun is reported to be Questionable, according to Media Bias/Fact Check.	entailment
+San Francisco Sun relies on advertising for revenue	entailment
+San Francisco Sun relies on subscriptions for revenue	entailment
+When aggregating stories, San Francisco Sun relies on information from **algorithmically produced content**	entailment
+The San Francisco Sun has endorsed right-center bias	entailment
+San Francisco Sun printed a biased article titled "Questionable based on being an imposter website"	entailment

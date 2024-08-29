@@ -1,0 +1,14 @@
+History
+Founded in 2013 by Michael Klein and Mark Bryant, the Gun Violence Archive is a database of known shootings in the USA. According to their
+[about page](https://www.gunviolencearchive.org/about), “The Gun Violence Archive is an online archive of gun violence incidents collected from over 2,500 law enforcement, media, government, and commercial sources daily to provide near-real-time data about the results of gun violence. GVA is an independent data collection and research group with no affiliation with any advocacy organization.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Gun Violence Archive is a nonprofit that was
+[funded](https://www.theguardian.com/world/2016/apr/23/kentucky-gun-owner-gun-violence-archive-mark-bryant) by philanthropist and open government advocate Mike Klein.
+Analysis / Bias
+In review, the Gun Violence Archive records incidents of gun violence and gun crime. According to their methodology page, they “utilize automated queries, manual research through over 2,500 sources from local and state police, media, data aggregates, government, and other sources daily. Each incident is verified by both initial researchers and secondary validation processes. Links to each incident are included in the incident report to provide further information on each incident for researchers, advocacy groups, media, and legislative interests. The incident reports provide a starting point for researchers, media, and legislative interests to add texture to our raw data.”
+The
+[incident report](https://www.gunviolencearchive.org/reports/total-number-of-incidents) is straightforward, listing the date, location, number of killed or injured, and finally, a link to the source. Gun Violence Archive also tracks [mass shootings](https://www.gunviolencearchive.org/reports/mass-shooting?year=2019) using the classification of 4 or more people being shot. The website also features an [analysis and opinion section](https://www.gunviolencearchive.org/analysis-opinion) that links to other news sources. This has not been updated since 2015.
+In general, GVA reports incidents of gun violence; however, pro-second amendment and right-leaning groups have criticized them as “
+[gun control activists.](https://www.gunviolencearchive.org/analysis-opinion)” GVA does not state a position on gun control. However, founder Mark Bryant left the NRA several years ago and [criticizes](https://www.theguardian.com/world/2016/apr/23/kentucky-gun-owner-gun-violence-archive-mark-bryant) them for changing from more of a “marksmanship and gun safety organization than the political powerhouse it has morphed into today.”
+Failed Fact Checks
+- They are used frequently by fact-checkers for their data.

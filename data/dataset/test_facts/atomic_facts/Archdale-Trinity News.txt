@@ -1,0 +1,21 @@
+Paxton Media Group owns Archdale-Trinity News	entailment
+Paxton Media Group is the owner of Archdale-Trinity News	entailment
+Paxton Media Group bought Archdale-Trinity News	entailment
+Paxton Media Group acquired Archdale-Trinity News	entailment
+Archdale-Trinity News is funded through advertising and subscriptions	entailment
+The mission of Archdale-Trinity News is to report local news through the use of journalists with minimal bias using neutral headlines such as Council OKs proposed Quikrete site.	contradiction
+Archdale-Trinity News tends to the right-center biased	entailment
+Other sources have commented on Archdale-Trinity News, stating that it tends to be **right-center biased**	entailment
+The factuality of Archdale-Trinity News is reported to be High	entailment
+The factuality of Archdale-Trinity News is reported to be High, according to Mediabiasfactcheck.com	entailment
+Archdale-Trinity News chose not to cover national news	contradiction
+Archdale-Trinity News relies on advertising for revenue	entailment
+Archdale-Trinity News relies on subscriptions for revenue	entailment
+Archdale-Trinity News relies on donations for revenue	contradiction
+When aggregating stories, Archdale-Trinity News relies on information from **the Associated Press**	entailment
+Archdale-Trinity News has endorsed right-center biased	entailment
+Archdale-Trinity News has an editorial bias towards right-leaning	entailment
+The Archdale-Trinity News's headquarter is located in Archdale	entailment
+Archdale-Trinity News is funded by the **Paxton** government	contradiction
+Archdale-Trinity News is a newspaper	entailment
+Archdale-Trinity News covers the following topics: local news, hometown politics, business news, local events, and sports	entailment

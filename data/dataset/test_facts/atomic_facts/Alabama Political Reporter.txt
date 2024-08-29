@@ -1,0 +1,21 @@
+Bill Britt owns Alabama Political Reporter	entailment
+Bill Britt is the owner of Alabama Political Reporter	entailment
+Bill Britt bought Alabama Political Reporter	contradiction
+Bill Britt acquired Alabama Political Reporter	entailment
+Alabama Political Reporter is funded through advertising.	entailment
+The remit of Alabama Political Reporter is to **cover Alabama politics**	entailment
+The mission of Alabama Political Reporter is to position itself as the most trusted source for political news, analysis, and commentary in the state of Alabama.	entailment
+Alabama Political Reporter tends to the **right and left**.	entailment
+Other sources have commented on Alabama Political Reporter, stating that it tends to be **Least Biased**.	entailment
+The factuality of Alabama Political Reporter is reported to be High	entailment
+The factuality of Alabama Political Reporter is reported to be High, according to a source criticism done by Media Bias/Fact Check.	entailment
+Alabama Political Reporter failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Alabama Political Reporter printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+Alabama Political Reporter relies on advertising for revenue	entailment
+Alabama Political Reporter relies on subscriptions for revenue	contradiction
+Alabama Political Reporter relies on donations for revenue	contradiction
+When aggregating stories, Alabama Political Reporter relies on information from **direct quoting versus linking**.	entailment
+Alabama Political Reporter has an editorial bias towards **neutrality**	entailment
+Alabama Political Reporter was fined 	entailment
+Alabama Political Reporter is a website	entailment
+Alabama Political Reporter covers the following topics: Alabama politics	entailment

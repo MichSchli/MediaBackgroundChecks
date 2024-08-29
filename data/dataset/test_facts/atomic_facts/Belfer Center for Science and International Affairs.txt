@@ -1,0 +1,15 @@
+Harvard Kennedy School	entailment
+The remit of Belfer Center for Science and International Affairs is to **promote international security and diplomacy, environmental and resource issues, and science and technology policy**	entailment
+The mission of Belfer Center for Science and International Affairs is to **promote international security and diplomacy, environmental and resource issues, and science and technology policy**.	entailment
+The Belfer Center for Science and International Affairs tends to the left.	entailment
+Other sources have commented on Belfer Center for Science and International Affairs, stating that it tends to be **Left-Center Biased**.	entailment
+The factuality of Belfer Center for Science and International Affairs is reported to be High	entailment
+The factuality of Belfer Center for Science and International Affairs is reported to be High, according to mediabiasfactcheck.com.	entailment
+The Belfer Center for Science and International Affairs chose not to cover **failed fact checks**	entailment
+The Belfer Center for Science and International Affairs has received donations from **undisclosed sources**	entailment
+When aggregating stories, Belfer Center for Science and International Affairs relies on information from **properly sourced**.	entailment
+Belfer Center for Science and International Affairs has endorsed Left-Center Biased	entailment
+Belfer Center for Science and International Affairs has an editorial bias towards **left**	entailment
+Belfer Center for Science and International Affairs printed a biased article titled "Permafrost Carbon Feedbacks Threaten Global Climate Goals".	entailment
+Belfer Center for Science and International Affairs's headquarter is located in Cambridge	entailment
+Belfer Center for Science and International Affairs is a think tank	entailment

@@ -1,0 +1,14 @@
+History
+[Launched in 1955](https://en.wikipedia.org/wiki/ITV_(TV_network)), ITV is an independent TV station based in the United Kingdom. ITV News has the second-largest television news audience in the United Kingdom, second only to [BBC News](http://mediabiasfactcheck.com/bbc/). The website features news, which is the purpose of this review.
+The website lacks transparency as they do not name authors.
+[See our profile on UK’s government and media.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+ITV plc and STV Group plc own ITV
+[.](https://en.wikipedia.org/wiki/STV_Group_(Scotland)) Revenue is derived through TV advertising licensing of programming; however, the website does not carry advertising.
+Analysis / Bias
+In review, news reporting on the website is often low biased and does not use loaded emotional language like this:
+[Skies over the UK fall silent as air traffic falls by almost 90% compared with last year](https://www.itv.com/news/2020-04-03/uk-air-traffic-down-by-almost-90-compared-with-last-year/). The website does offer op-eds and covers politics with again minimal bias such as this: [Tories and Greens under investigation over EU election spending returns](https://www.itv.com/news/2020-04-03/watchdog-investigates-tories-and-greens-over-eu-election-spending-returns/).
+In searching numerous articles related to politics, we found a negative tone toward labour and the left in general, such as this
+[Jeremy Corbyn failed to win power but turned Labour to the left](https://www.itv.com/news/2020-04-03/jeremy-corbyn-failed-to-win-power-but-turned-labour-to-the-left/). A quote from the article reads Boris Johnson’s blunt “get Brexit done” message smashed all before it, and Mr. Corbyn’s hopes of a socialist victory were left buried under the collapse of Labour’s so-called “red wall” in Wales and Northern England.” Further, a [Reuters](https://mediabiasfactcheck.com/reuters/) institute survey found that 61% of respondents [trust their news coverage](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2021/united-kingdom) and 24% do not, ranking them #2 in trust of the major UK news providers. In general, news reporting is mostly factual, with a very slight right bias in wording and story selection.
+Failed Fact Checks
+[New antibody tests are 100% accurate.](https://fullfact.org/health/coronavirus-antibody-tests-accuracy/)– False [A poll found the Labour party’s support among British Muslims has halved since 2019.](https://fullfact.org/news/itv-news-british-muslim-voters-survey/)– Incorrect

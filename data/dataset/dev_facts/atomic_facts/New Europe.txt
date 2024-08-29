@@ -1,0 +1,24 @@
+Basil Coronakis founded New Europe	entailment
+Basil Coronakis is the founder of New Europe	entailment
+BNA owns New Europe	entailment
+Basil Coronakis is the owner of New Europe	contradiction
+Basil Coronakis bought New Europe	contradiction
+New Europe acquired New Europe	entailment
+New Europe is funded through **advertising and subscription fees**	entailment
+The remit of New Europe is to foster transparency, democracy, dialogue, and debate	entailment
+The mission of New Europe is to foster transparency, democracy, dialogue, and debate.	entailment
+New Europe tends to the left	entailment
+New Europe tends to the left according to story selection and editorial positions	entailment
+Other sources have commented on New Europe, stating that it tends to be left-leaning.	entailment
+The factuality of New Europe is reported to be High	entailment
+New Europe failed a fact-check for an article titled **"IS FINLAND INTRODUCING 4-DAY WORK WEEKS AND 6-HOUR WORK DAYS?"**	entailment
+New Europe printed a retraction after failing a fact-check for an article titled **"Is Finland Introducing 4-Day Work Weeks and 6-Hour Work Days?"**	entailment
+New Europe chose not to cover US politics	contradiction
+New Europe relies on advertising for revenue	entailment
+New Europe relies on subscriptions for revenue	entailment
+New Europe relies on donations for revenue	contradiction
+When aggregating stories, New Europe relies on information from **credible sources**.	entailment
+New Europe has endorsed a left-leaning editorial bias	entailment
+New Europe has an editorial bias towards left.	entailment
+New Europe printed a biased article titled "America’s new civil war (II)"	entailment
+New Europe had to apologize for **False Fact Check**	entailment

@@ -1,0 +1,23 @@
+Industry Dive founded Social Media Today	entailment
+Industry Dive is the founder of Social Media Today.	contradiction
+Industry Dive owns Social Media Today	entailment
+Industry Dive is the owner of Social Media Today	entailment
+Industry Dive bought Social Media Today	entailment
+Social Media Today is funded through advertising and fees for republishing content.	entailment
+The remit of Social Media Today is to  analyze the latest happenings in the social media industry.	entailment
+The mission of Social Media Today is to provide original analysis on the latest happenings in the social media industry.	entailment
+Social Media Today tends to the Center	entailment
+Social Media Today tends to the news regarding social media and its platforms according to their about page.	entailment
+Other sources have commented on Social Media Today, stating that it tends to be **least biased**	entailment
+The factuality of Social Media Today is reported to be High	entailment
+The factuality of Social Media Today is reported to be High, according to D. Van Zandt 	entailment
+Social Media Today failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Social Media Today printed a retraction after failing a fact-check for an article titled "TikTok Outlines its Preparations for the Upcoming US Midterms"	contradiction
+Social Media Today chose not to cover **None in the Last 5 years**	entailment
+Social Media Today relies on advertising for revenue	entailment
+Social Media Today relies on subscriptions for revenue	entailment
+Social Media Today relies on donations for revenue	contradiction
+When aggregating stories, Social Media Today relies on information from social media outlets themselves, experts in the field, or credible media sources such as the New York Times.	entailment
+Social Media Today has endorsed **least biased**	entailment
+Social Media Today has an editorial bias towards **least biased**.	entailment
+Social Media Today had to apologize for  not failing any fact checks in the last 5 years.	entailment

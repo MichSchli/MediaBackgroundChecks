@@ -1,0 +1,20 @@
+MDPI AG owns Bacteria Journal	entailment
+Shu-Kun Lin is the owner of Bacteria Journal	entailment
+Bacteria Journal is funded through APC	entailment
+The remit of Bacteria Journal is to study the field of bacteriology.	entailment
+The mission of Bacteria Journal is to cover the study of Bacteria.	entailment
+Bacteria Journal tends to the study of Bacteria.	entailment
+Other sources have commented on Bacteria Journal, stating that it tends to be **Pro-Science**.	entailment
+The factuality of Bacteria Journal is reported to be Mostly Factual	entailment
+The factuality of Bacteria Journal is reported to be Mostly Factual, according to M. Huitsing 	entailment
+Bacteria Journal failed a fact-check for an article titled Rock Phosphate Solubilizing Potential of Soil Microorganisms: Advances in Sustainable Crop Production.	contradiction
+Bacteria Journal printed a retraction after failing a fact-check for an article titled **Rock Phosphate Solubilizing Potential of Soil Microorganisms: Advances in Sustainable Crop Production**	entailment
+Bacteria Journal relies on advertising for revenue	contradiction
+Bacteria Journal relies on donations for revenue	entailment
+Bacteria Journal has endorsed Pro-Science	entailment
+Bacteria Journal has an editorial bias towards Pro-Science.	entailment
+Bacteria Journal was fined **NO AMOUNT SPECIFIED**	entailment
+Bacteria Journal's headquarter is located in Basel	entailment
+Bacteria Journal is a **scientific journal**	entailment
+Bacteria Journal uses a peer review process	entailment
+Bacteria Journal covers the following topics: study of Bacteria.	entailment

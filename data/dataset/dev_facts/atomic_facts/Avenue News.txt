@@ -1,0 +1,22 @@
+Avenue News leads Avenue News	contradiction
+Adams Publishing Group owns Avenue News	entailment
+Stephen Adams is the owner of Avenue News	entailment
+Adams Publishing Group acquired Avenue News	entailment
+Avenue News is funded through **advertising and subscription fees**	entailment
+The remit of Avenue News is to report local news through journalists with minimal bias in wording.	entailment
+The usual audience of Avenue News is **local residents**	entailment
+Other sources have commented on Avenue News, stating that it tends to be **least biased**	entailment
+The factuality of Avenue News is reported to be High	entailment
+The factuality of Avenue News is reported to be High, according to Media Bias/Fact Check	entailment
+Avenue News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Avenue News chose not to cover op-eds	entailment
+Avenue News relies on advertising for revenue	entailment
+Avenue News relies on subscriptions for revenue	entailment
+Avenue News relies on donations for revenue	contradiction
+When aggregating stories, Avenue News relies on information from **quotes, interviews, and accounts as sourcing**	entailment
+Avenue News has an editorial bias towards least biased	entailment
+Stephen Adams is the editor of Avenue News	contradiction
+Avenue News printed a biased article titled None in the Last 5 years	contradiction
+"Avenue News printed a factually misleading titled" **None in the Last 5 years**	entailment
+Avenue News had to apologize for None in the Last 5 years	entailment
+Avenue News had to apologize to no one for nothing	entailment

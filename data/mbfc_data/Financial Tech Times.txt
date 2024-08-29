@@ -1,0 +1,12 @@
+History
+Founded in 2018 by entrepreneur and journalist Jordan French,
+[Financial Tech Times](https://gritdaily.com/about-grit-daily/) is a New York-based online news website. It is part of the Grit Daily Media Group, comprising six outlets: Smartech Daily, Meditech Today, Financial Tech Times, Transit Tomorrow, BlockTelegraph, and the flagship [Grit Daily](https://mediabiasfactcheck.com/grit-daily-news-bias/). According to its [about page](https://financialtechtimes.com/about/about-financial-tech-times/), “Our content includes in-depth articles, expert analyses, and enlightening stories from industry pioneers, focusing on the opportunities and challenges that come with breakthrough financial technologies.” [Read our profile on USA Media and Government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Grit Daily Media Group owns and publishes Financial Tech Times. Funding primarily comes from subscribers, advertisements, and sponsorships of their live events.
+Analysis / Bias
+Financial Tech Times publishes news and information related to the Financial Technologies industry. Articles and headlines are minimally biased in word choices, such as
+[PawFury Launches $PawFactory with Live Presale of Up to 149% Bonus](https://financialtechtimes.com/pawfury-launches-pawfactory-with-live-presale-of-up-to-149-bonus/). Although not labeled promotional, it primarily emphasizes the product’s benefits and lacks critical balance.
+Editorially, they do not produce op-eds; however, they do report on political issues related to the industry, like
+[Warren Buffett’s Philanthropic Contributions Soar Past $51 Billion](https://financialtechtimes.com/warren-buffetts-contributions-51-billion/). In reviewing dozens, a slight majority of politically related pieces lean slightly left in favoring a liberal perspective. In general, they are fact-based, but the content sometimes blurs the lines by not indicating which stories are promotional.
+Failed Fact Checks
+- None in the Last 5 years

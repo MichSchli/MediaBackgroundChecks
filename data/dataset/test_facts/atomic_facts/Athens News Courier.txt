@@ -1,0 +1,26 @@
+Community Newspaper Holdings Inc owns Athens News Courier	entailment
+Community Newspaper Holdings Inc is the owner of Athens News Courier	entailment
+Athens News Courier is funded through **advertising and subscription fees**.	entailment
+The remit of Athens News Courier is to cover crime, sports, entertainment, and politics for the Athens, Alabama, region.	entailment
+The mission of Athens News Courier is to  provide news coverage with a slight left-leaning bias through endorsements and op-eds.	entailment
+The usual audience of Athens News Courier is **local residents of Athens, Alabama**	entailment
+Athens News Courier tends to the Left-Center Biased.	entailment
+Other sources have commented on Athens News Courier, stating that it tends to be slightly Left-Center Biased	entailment
+The factuality of Athens News Courier is reported to be High	entailment
+The factuality of Athens News Courier is reported to be High, according to proper sourcing and a clean fact check record.	entailment
+Athens News Courier failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Athens News Courier printed a retraction after failing a fact-check for an article titled "Our view: Removing the stigma means first recognizing it is there."	contradiction
+The Athens News Courier chose not to cover failed fact checks.	entailment
+Athens News Courier relies on advertising for revenue	entailment
+Athens News Courier relies on subscriptions for revenue	entailment
+Athens News Courier relies on donations for revenue	entailment
+Athens News Courier has endorsed a liberal perspective	entailment
+Athens News Courier has an editorial bias towards **slightly Left-Center Biased**	entailment
+Athens News Courier printed a biased article titled "Our view: Removing the stigma means first recognizing it is there"	entailment
+Athens News Courier printed a factually misleading titled "Our view: Removing the stigma means first recognizing it is there".	contradiction
+Athens News Courier had to apologize for **None in the Last 5 years**	entailment
+Athens News Courier had to apologize to no one for nothing	entailment
+Athens News Courier's headquarter is located in Athens, Alabama	entailment
+Athens News Courier is funded by the  government	contradiction
+Athens News Courier is a daily newspaper	entailment
+Athens News Courier covers the following topics: crime, sports, entertainment, and politics	entailment

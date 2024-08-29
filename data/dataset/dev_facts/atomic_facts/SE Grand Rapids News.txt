@@ -1,0 +1,19 @@
+Metric Media LLC founded SE Grand Rapids News	entailment
+Metric Media Foundation owns SE Grand Rapids News	entailment
+The SE Grand Rapids News is funded through advertising and donations to the Metric Media Foundation	entailment
+The remit of SE Grand Rapids News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of SE Grand Rapids News is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of SE Grand Rapids News is **right-center, biased, and Questionable**.	entailment
+SE Grand Rapids News tends to the right-centerbias.	entailment
+SE Grand Rapids News tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on SE Grand Rapids News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of SE Grand Rapids News is reported to be Questionable	entailment
+The factuality of SE Grand Rapids News is reported to be Questionable, according to D. Van Zandt 10/21/2022	entailment
+SE Grand Rapids News provides original content written by staff journalists	contradiction
+SE Grand Rapids News relies on advertising for revenue	entailment
+SE Grand Rapids News relies on donations for revenue	entailment
+When aggregating stories, SE Grand Rapids News relies on information from **algorithmically produced content**	entailment
+The SE Grand Rapids News has endorsed **right-center, biased, and Questionable**	entailment
+SE Grand Rapids News has an editorial bias towards **right-center**	entailment
+SE Grand Rapids News printed a biased article titled **Imposter Site, Lacks Transparency, and Publishes False Information**	entailment
+SE Grand Rapids News printed a factually misleading titled "SE Grand Rapids Police Officer Arrested for Corruption".	entailment

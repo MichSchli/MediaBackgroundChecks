@@ -1,0 +1,21 @@
+Bradley Cameron is the founder of Lima Reporter.	entailment
+Metric Media Foundation owns Lima Reporter	entailment
+Bradley Cameron is the owner of Lima Reporter	entailment
+Lima Reporter is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Lima Reporter is to **provide objective, data-driven information without political bias**	contradiction
+The mission of Lima Reporter is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of Lima Reporter is right-center, biased, and Questionable.	entailment
+Lima Reporter tends to the right-centerbias	entailment
+Other sources have commented on Lima Reporter, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Lima Reporter is reported to be Questionable	entailment
+The factuality of Lima Reporter is reported to be **Questionable**, according to **Mediabiasfactcheck.com**	entailment
+Lima Reporter relies on advertising for revenue	entailment
+Lima Reporter relies on donations for revenue	entailment
+Lima Reporter has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Lima Reporter relies on information from **algorithmically produced content**	entailment
+Lima Reporter has endorsed right-center, biased, and Questionable.	entailment
+Lima Reporter has an editorial bias towards **right-center**.	entailment
+Lima Reporter printed a biased article titled an imposter site, lacks transparency, and publishes false information	entailment
+Lima Reporter printed a factually misleading titled imposter site	entailment
+Lima Reporter is a conservative-leaning news website.	entailment
+"Lima Reporter covers the following topics: conservative-leaning news."	entailment

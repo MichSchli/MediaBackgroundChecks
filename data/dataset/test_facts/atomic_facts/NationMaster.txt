@@ -1,0 +1,22 @@
+NationMaster owns NationMaster	entailment
+NationMaster is funded through advertising.	entailment
+The remit of NationMaster is to provide a statistics database which offers a large directory of variables for comparison purposes.	entailment
+NationMaster tends to the **least biased**	entailment
+Other sources have commented on NationMaster, stating that it tends to be **least biased**	entailment
+The factuality of NationMaster is reported to be High	entailment
+The factuality of NationMaster is reported to be High, according to D. Van Zandt	entailment
+NationMaster failed a fact-check for an article titled "None in the Last 5 years"	entailment
+NationMaster printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	entailment
+NationMaster chose not to cover ownership.	entailment
+NationMaster relies on advertising for revenue	entailment
+NationMaster relies on subscriptions for revenue	contradiction
+NationMaster relies on donations for revenue	contradiction
+When aggregating stories, NationMaster relies on information from \[trustworthy sources such as national statistic agencies, governments, international organizations… (UNDP, UNESCO Institute for Statistics, UNCTAD, WTO, World Bank, World Health Organization, OECD, and others)\].	entailment
+NationMaster has endorsed Least Biased	entailment
+NationMaster has an editorial bias towards Least Biased	entailment
+NationMaster was fined **for**	entailment
+NationMaster printed a biased article titled "None in the Last 5 years"	contradiction
+NationMaster printed a factually misleading titled Least Biased and High for Factual Reporting.	contradiction
+NationMaster had to apologize for **None in the Last 5 years**	entailment
+NationMaster is a **statistics database**	entailment
+NationMaster covers the following topics: statistical facts about every country in the world	entailment

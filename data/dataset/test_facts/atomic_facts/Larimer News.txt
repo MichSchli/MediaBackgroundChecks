@@ -1,0 +1,19 @@
+Metric Media LLC founded Larimer News	entailment
+Metric Media Foundation owns Larimer News	entailment
+Larimer News is funded through donations and grants	entailment
+The remit of Larimer News is to  provide objective, data-driven information without political bias.	contradiction
+The mission of Larimer News is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of Larimer News is **right-center biased and Questionable**	entailment
+Larimer News tends to the right-centerbias	entailment
+Other sources have commented on Larimer News, stating that it tends to be right-center biased.	entailment
+The factuality of Larimer News is reported to be Questionable	entailment
+Larimer News relies on advertising for revenue	entailment
+Larimer News relies on subscriptions for revenue	contradiction
+Larimer News relies on donations for revenue	entailment
+When aggregating stories, Larimer News relies on information from **algorithmically produced content**	entailment
+Larimer News has endorsed **conservative-leaning news websites**	entailment
+Larimer News has an editorial bias towards right-center.	entailment
+Larimer News printed a biased article titled **"Larimer County Drought: Impact on Local Farmers"**	entailment
+Larimer News printed a factually misleading titled **"imposter website that is designed to look like a local news source"**	entailment
+Larimer News is funded by the United States government	entailment
+Larimer News is a right-center biased	entailment

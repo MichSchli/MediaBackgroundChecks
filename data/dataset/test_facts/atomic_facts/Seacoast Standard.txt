@@ -1,0 +1,21 @@
+Local Report Inc founded Seacoast Standard	entailment
+Local Report Inc leads Seacoast Standard	entailment
+Local Report Inc owns Seacoast Standard	entailment
+Local Report Inc bought Seacoast Standard	contradiction
+Local Report Inc acquired Seacoast Standard	contradiction
+The remit of Seacoast Standard is to **promote left-leaning propaganda in support of the Democratic Party**	entailment
+The mission of Seacoast Standard is to promote left-leaning propaganda.	entailment
+Seacoast Standard tends to the left	entailment
+Other sources have commented on Seacoast Standard, stating that it tends to be **a left-leaning imposter website**	entailment
+The factuality of Seacoast Standard is reported to be Questionable, according to Mediabiasfactcheck.	entailment
+Seacoast Standard chose not to cover local news stories	contradiction
+Seacoast Standard relies on advertising for revenue	contradiction
+Seacoast Standard relies on donations for revenue	entailment
+Seacoast Standard has received donations from None in the Last 5 years; however,	entailment
+When aggregating stories, Seacoast Standard relies on information from **The American Independent**	entailment
+Seacoast Standard has endorsed the Democratic Party	entailment
+Seacoast Standard has an editorial bias towards **the left and the Democratic Party**.	entailment
+Seacoast Standard was fined 	entailment
+Seacoast Standard printed a biased article titled  "Nurturing Diversity in NH Is Good for Kids, Schools, and the State | Opinion"	entailment
+Seacoast Standard is a  Left-Center Biased and Questionable site.	entailment
+Seacoast Standard covers the following topics: local news stories (New Hampshire) focused on sports, entertainment, and business news	entailment

@@ -1,0 +1,20 @@
+ThePoliticalBrief.com is funded through advertising	entailment
+The remit of ThePoliticalBrief.com is to **promote extreme right-wing bias, poor sourcing, promotion of propaganda and conspiracy, as well as a complete lack of transparency and the publication of fake news**.	entailment
+The mission of ThePoliticalBrief.com is to  promote extreme right wing bias, poor sourcing, promotion of propaganda and conspiracy, as well as a complete lack of transparency and the publication of fake news.	entailment
+The usual audience of ThePoliticalBrief.com is extreme right-wing.	entailment
+ThePoliticalBrief.com tends to the extreme right wing	entailment
+Other sources have commented on ThePoliticalBrief.com, stating that it tends to be Questionable.	entailment
+The factuality of ThePoliticalBrief.com is reported to be Questionable	entailment
+The factuality of ThePoliticalBrief.com is reported to be Questionable, according to D. Van Zandt 	entailment
+ThePoliticalBrief.com failed a fact-check for an article titled "Rand Paul Gives Wimpy Republicans His Ultimatum – Stand Up For Trump Or You Are Going To Lose In 2020."	contradiction
+ThePoliticalBrief.com chose not to cover **any original news content**	entailment
+ThePoliticalBrief.com provides original content written by staff journalists	contradiction
+ThePoliticalBrief.com relies on advertising for revenue	entailment
+ThePoliticalBrief.com relies on subscriptions for revenue	contradiction
+When aggregating stories, ThePoliticalBrief.com relies on information from [the Patriot Journal](https://mediabiasfactcheck.com/patriot-journal/).	entailment
+ThePoliticalBrief.com has endorsed extreme right wing bias, poor sourcing, promotion of propaganda and conspiracy, as well as a complete lack of transparency and the publication of fake news.	entailment
+ThePoliticalBrief.com has an editorial bias towards extreme right wing bias	entailment
+ThePoliticalBrief.com printed a factually misleading titled "New Clinton Foundation Leak Spells Doom For Bill And Hillary Clinton".	contradiction
+ThePoliticalBrief.com is a questionable	entailment
+ThePoliticalBrief.com uses a peer review process	entailment
+ThePoliticalBrief.com covers the following topics: extreme right wing bias, poor sourcing, promotion of propaganda and conspiracy, lack of transparency, publication of fake news	entailment

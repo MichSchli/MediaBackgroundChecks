@@ -1,0 +1,20 @@
+Smithsonian Enterprises owns Air and Space Mag	entailment
+Smithsonian Enterprises is the owner of Air and Space Mag	entailment
+Smithsonian Enterprises acquired Air and Space Mag.	contradiction
+Air and Space Mag is funded through advertising and subscription fees.	entailment
+The remit of Air and Space Mag is to **publish stories that involve topics related to aviation, space travel, and space-related physics**	entailment
+Air and Space Mag tends to the  **Pro-Science**	entailment
+Other sources have commented on Air and Space Mag, stating that it tends to be Pro-Science	entailment
+The factuality of Air and Space Mag is reported to be highly factual	entailment
+The factuality of Air and Space Mag is reported to be high, according to Mediabiasfactcheck.	entailment
+Air and Space Mag chose not to cover failed fact checks	entailment
+Air and Space Mag relies on advertising for revenue	entailment
+Air and Space Mag relies on subscriptions for revenue	contradiction
+Air and Space Mag relies on donations for revenue	contradiction
+Air and Space Mag has an editorial bias towards pro-science.	entailment
+Air and Space Mag printed a biased article titled "None in the Last 5 years"	entailment
+Air and Space Mag printed a factually misleading titled "None in the Last 5 years".	contradiction
+Air and Space Mag had to apologize for None in the Last 5 years	entailment
+Air and Space Mag is funded by the United States government	contradiction
+Air and Space Mag is a  Pro-Science source	entailment
+Air and Space Mag covers the following topics: aviation, space travel, and space-related physics	entailment

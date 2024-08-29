@@ -1,0 +1,13 @@
+History
+Trading Economics was
+[founded](https://tradingeconomics.com/about-te.aspx) by Anna Fedec and Antonio J Fernandes Sousa. The company is headquartered in New York and specializes in providing comprehensive economic data. It offers historical data and forecasts for 196 countries, covering over 20 million economic indicators, exchange rates, stock market indexes, government bond yields, and commodity prices. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Anna Fedec and Antonio J Fernandes Sousa, the co-founders, maintain ownership of Trading Economics. Sousa also serves as the CEO. Data subscriptions generate revenue.
+Analysis / Bias
+Trading Economics focuses on providing data-driven, factual economic information, steering clear of political biases. For example, a search for news stories or information on
+[Donald Trump](https://tradingeconomics.com/search.aspx?q=trump) and [Joe Biden](https://tradingeconomics.com/search.aspx?q=biden) does not return any results. The platform’s content, rooted in economic statistics and data, suggests an informational approach rather than a politically oriented one. This aligns with the company’s mission to offer objective economic data and forecasts, making it a valuable resource for users seeking unbiased economic insights.
+Articles and headlines do not contain loaded language and are appropriately sourced, such as this
+[US 10-Year Treasury Yield Falls To 4.4%](https://tradingeconomics.com/united-states/government-bond-yield) and this [Mexican Peso Holds Near 2-Month High](https://tradingeconomics.com/mexico/currency). In general, Trading Economics is low-biased and offers fact-based data for investors and those interested in economics.
+Failed Fact Checks
+- None in the Last 5 years.
+[They are frequently used as a reference by fact-checkers](https://iffy.news/fact-check-search/?q=trading+economics).

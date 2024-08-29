@@ -1,0 +1,20 @@
+JAMA is the founder of JAMA Neurology	contradiction
+American Medical Association owns JAMA Neurology	entailment
+JAMA Neurology bought JAMA Neurology	contradiction
+JAMA Neurology is funded through subscription fees and advertising.	entailment
+The remit of JAMA Neurology is to **publish a wide range of research articles, reviews, and opinion pieces on Neurology**.	entailment
+The mission of JAMA Neurology is to  advance the field of neurology through high-quality research and publication.	entailment
+The usual audience of JAMA Neurology is **physicians and medical students**	entailment
+Other sources have commented on JAMA Neurology, stating that it tends to be **Pro-Science**	entailment
+The factuality of JAMA Neurology is reported to be Very High	entailment
+The factuality of JAMA Neurology is reported to be Very High, according to D. Van Zandt 	entailment
+JAMA Neurology failed a fact-check for an article titled "Thrombectomy With the pRESET vs Solitaire Stent Retrievers as First-Line Large Vessel Occlusion Stroke Treatment"	contradiction
+JAMA Neurology chose not to cover failed fact checks	entailment
+JAMA Neurology relies on advertising for revenue	entailment
+JAMA Neurology relies on subscriptions for revenue	entailment
+JAMA Neurology relies on donations for revenue	contradiction
+When aggregating stories, JAMA Neurology relies on information from **a wide range of research articles, reviews, and opinion pieces on Neurology**	entailment
+JAMA Neurology has endorsed pro-science.	entailment
+JAMA Neurology has an editorial bias towards Pro-Science	entailment
+JAMA Neurology printed a factually misleading titled Pro-Science journal	contradiction
+JAMA Neurology had to apologize for None in the Last 5 years	entailment

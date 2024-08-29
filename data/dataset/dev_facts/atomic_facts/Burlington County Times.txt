@@ -1,0 +1,24 @@
+Gannett owns Burlington County Times	entailment
+Gannett is the owner of Burlington County Times	entailment
+Gannett bought Burlington County Times	entailment
+Gannett acquired Burlington County Times	entailment
+The Burlington County Times is funded through **advertising and paid subscriptions**	entailment
+The remit of Burlington County Times is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Burlington County Times is to  provide news, sports, entertainment, lifestyle, and opinion.	entailment
+The usual audience of Burlington County Times is **the greater Willingboro (Burlington County), New Jersey area**.	entailment
+The Burlington County Times tends to the left	entailment
+Burlington County Times tends to the left-center biased according to mediabiasfactcheck.com.	entailment
+Other sources have commented on Burlington County Times, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of the Burlington County Times is reported to be High	entailment
+The factuality of Burlington County Times is reported to be High, according to D. Van Zandt 02/11/2023	entailment
+Burlington County Times failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Burlington County Times chose not to cover Presidential endorsements	entailment
+Burlington County Times relies on advertising for revenue	entailment
+Burlington County Times relies on subscriptions for revenue	contradiction
+Burlington County Times relies on donations for revenue	contradiction
+When aggregating stories, Burlington County Times relies on information from **other Gannett publications and the Associated Press**.	entailment
+Burlington County Times has endorsed  Left-Center Bias	entailment
+Burlington County Times has an editorial bias towards **the left**	entailment
+D Van Zandt is the editor of Burlington County Times	entailment
+Burlington County Times printed a biased article titled Here’s how you can help tell the truth about New Jersey’s slave history	entailment
+The Burlington County Times had to apologize for (None in the Last 5 years).	entailment

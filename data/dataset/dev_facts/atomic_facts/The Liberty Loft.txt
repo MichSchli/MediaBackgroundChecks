@@ -1,0 +1,22 @@
+Jared Dyson founded The Liberty Loft	entailment
+Jared Dyson is the founder of The Liberty Loft	entailment
+Premier Media Group LLC owns The Liberty Loft	entailment
+Premier Media Group LLC is the owner of The Liberty Loft	entailment
+Premier Media Group LLC bought The Liberty Loft	entailment
+Premier Media Group LLC acquired The Liberty Loft	entailment
+The Liberty Loft is funded through advertising, donations, and a shop that sells branded and conservative-themed merchandise.	entailment
+The remit of The Liberty Loft is to provide conservative news and opinion.	entailment
+The usual audience of The Liberty Loft is **conservative**	entailment
+The Liberty Loft tends to the **far-right**	entailment
+The Liberty Loft tends to the right according to mediabiasfactcheck	entailment
+Other sources have commented on The Liberty Loft, stating that it tends to be **far-right biased**.	entailment
+The factuality of The Liberty Loft is reported to be Questionable.	entailment
+The factuality of The Liberty Loft is reported to be QUESTIONABLE, according to D. Van Zandt	entailment
+The Liberty Loft failed a fact-check for an article titled "A nine-year-old girl was arrested at the Natural History Museum in New York City for refusing to show proof of vaccination".	entailment
+The Liberty Loft printed a retraction after failing a fact-check for an article titled "A nine-year-old girl was arrested at the Natural History Museum in New York City for refusing to show proof of vaccination."	contradiction
+The Liberty Loft relies on advertising for revenue	entailment
+The Liberty Loft relies on subscriptions for revenue	contradiction
+The Liberty Loft relies on donations for revenue	entailment
+The Liberty Loft has endorsed far-right biased propaganda and often publishes misinformation.	entailment
+The Liberty Loft has an editorial bias towards **far-right conservative views**	entailment
+The Liberty Loft printed a biased article titled "Biden’s Policies Will Kill More Than COVID".	entailment

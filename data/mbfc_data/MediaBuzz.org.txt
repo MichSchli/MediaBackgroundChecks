@@ -1,0 +1,17 @@
+History
+Mediabuzz.org describes itself as a media research group focusing on a range of areas including Media Cataloguing and Media Bias Ratings.
+The site’s
+[About page](https://www.mediabuzz.org/help-us/) states, “Mediabuzz was established by an international team of independent media professionals. Collectively, they bring over 120 years of experience in journalism and related fields, aiming to lead in media research.” There are no names associated with the website to verify this.
+In general, the website completely lacks transparency. It fails to provide the names of individuals involved or reveal its ownership and location. A
+[search](https://whois.domaintools.com/mediabuzz.org) for the site’s domain suggests a possible origin in Singapore. [Read our profile on Singapore media and government.](https://mediabiasfactcheck.com/singapore-media-profile/)
+Funded by / Ownership
+The website claims to be an “Independent Organization.” However, detailed information regarding its funding sources or specific owners is not provided as there is zero information on the website or online indicating who owns or funds them. Advertising generates revenue and a link to
+[donate](https://www.mediabuzz.org/help-us/) that requests that you email them.
+Analysis / Bias
+MediaBuzz.org is a fake imposter site that appears to be mimicking
+[mediabuzz.com.sg](https://www.mediabuzz.com.sg/); a legitimate website covering marketing in Singapore owned and published by MediaBUZZ Pte Ltd.
+The website also contains a section titled “Mediabias Factcheck” where they provide fake analyses of various media outlets. For example, a fake review titled
+[Sunday Mail Media Bias and Sunday Mail Factual Reporting Analysis](https://www.mediabuzz.org/mediabias-factcheck/sunday-mail-zimbabwe/) leads to a supposed review of the source where they state what they “will do” rather than an actual review of the source. Their conclusion states: “After a thorough analysis of Sunday Mail on the above-mentioned parameters, we will sum up if Sunday Mail is a left, center or right-biased newspaper. Based on the analysis, we will offer a judgment on whether Sunday Mail is a reliable or unreliable publication when factual reporting is concerned.” This is done for all sources under the “Mediabias Factcheck” section, indicating they don’t actually review sources.
+In essence, this source does not conduct actual reviews or analyses of information. Instead, it uses a template with generic descriptions, suggesting what “would be” evaluated without providing any specific evaluation. The site incorporates numerous keywords mirroring those used by the MBFC (Media Bias/Fact Check) website. This approach, devoid of genuine content evaluation, suggests an attempt to exploit the “media bias fact check” brand for enhanced search engine visibility. Furthermore, the use of the “MediaBuzz” name seems to be a deliberate strategy to mimic both MBFC and the authentic Mediabuzz.com.sg website, positioning itself as an imposter to both entities.
+Failed Fact Checks
+- None in the Last 5 years (see above indicating they are a fake imposter site.)

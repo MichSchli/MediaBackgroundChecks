@@ -1,0 +1,22 @@
+What’s True Incorporated founded TruthorFiction.com	entailment
+David Mikkelson is the CEO of TruthorFiction.com	entailment
+What’s True Incorporated leads TruthorFiction.com	entailment
+What’s True Incorporated owns TruthorFiction.com	entailment
+What’s True Incorporated is the owner of TruthorFiction.com	entailment
+What’s True Incorporated bought TruthorFiction.com	entailment
+What’s True Incorporated acquired TruthorFiction.com	entailment
+TruthorFiction.com is funded through advertising and donations	entailment
+The remit of TruthorFiction.com is to debunk propaganda, disinformation, and misinformation, offer context and nuance to help you better understand where to look next, and trace the effects of so-called “fake news” around the world so you can better understand how to tell the real from the false.	entailment
+The mission of TruthorFiction.com is to debunk propaganda, disinformation, and misinformation, offer context and nuance to help you better understand where to look next, and trace the effects of so-called “fake news” around the world so you can better understand how to tell the real from the false.	entailment
+TruthorFiction.com tends to the **Least Biased**	entailment
+TruthorFiction.com tends to the  according to `their mission page`.	entailment
+Other sources have commented on TruthorFiction.com, stating that it tends to be **reliable fact checker**.	entailment
+The factuality of TruthorFiction.com is reported to be Very High	entailment
+The factuality of TruthorFiction.com is reported to be very high, according to Media Bias/Fact Check.	entailment
+TruthorFiction.com chose not to cover current events	entailment
+TruthorFiction.com relies on advertising for revenue	entailment
+TruthorFiction.com relies on subscriptions for revenue	entailment
+TruthorFiction.com relies on donations for revenue	entailment
+TruthorFiction.com has an editorial bias towards **minimal editorializing of content**	entailment
+TruthorFiction.com printed a factually misleading titled "Rasmussen: ‘Trump 2024 Would Beat Either Biden or Harris’"	entailment
+TruthorFiction.com had to apologize for failed fact checks	contradiction

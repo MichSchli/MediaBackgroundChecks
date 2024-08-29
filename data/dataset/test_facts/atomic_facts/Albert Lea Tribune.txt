@@ -1,0 +1,20 @@
+David Van Zandt is the founder of Albert Lea Tribune	entailment
+D. Van Zandt is the CEO of Albert Lea Tribune	entailment
+Boone Newspapers owns Albert Lea Tribune	entailment
+Boone Newspapers is the owner of Albert Lea Tribune	entailment
+Albert Lea Tribune is funded through advertising and subscription fees	entailment
+Albert Lea Tribune tends to the **right-center biased**	entailment
+Other sources have commented on Albert Lea Tribune, stating that it tends to be Right-Center Biased	entailment
+The factuality of Albert Lea Tribune is reported to be High	entailment
+The factuality of Albert Lea Tribune is reported to be High, according to its proper sourcing and a clean fact-check record.	entailment
+Albert Lea Tribune printed a retraction after failing a fact-check for an article titled *Albert Lea woman injured in crash on I-35*	contradiction
+Albert Lea Tribune chose not to cover failed fact checks	entailment
+Albert Lea Tribune relies on advertising for revenue	entailment
+Albert Lea Tribune relies on subscriptions for revenue	contradiction
+When aggregating stories, Albert Lea Tribune relies on information from local journalists.	entailment
+Albert Lea Tribune has an editorial bias towards right.	entailment
+Albert Lea Tribune was fined None in the Last 5 years	entailment
+Albert Lea Tribune's headquarters is located in Alber Lea, Minnesota.	entailment
+The Albert Lea Tribune is funded by the private government	contradiction
+The Albert Lea Tribune is a newspaper	entailment
+Albert Lea Tribune uses an internal fact-checking process	entailment

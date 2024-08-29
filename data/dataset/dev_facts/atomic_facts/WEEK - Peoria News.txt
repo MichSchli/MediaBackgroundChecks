@@ -1,0 +1,19 @@
+Gray Television owns WEEK - Peoria News	entailment
+Gray Television is the owner of WEEK - Peoria News.	entailment
+WEEK acquired WEEK - Peoria News	contradiction
+WEEK - Peoria News is funded through **sponsored content and advertising generate revenue.**	entailment
+The remit of WEEK - Peoria News is to  report	entailment
+The mission of WEEK - Peoria News is to report the news factually and with minimal bias.	entailment
+The usual audience of WEEK - Peoria News is **residents of Peoria, Illinois, and the surrounding area**.	entailment
+Other sources have commented on WEEK - Peoria News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WEEK - Peoria News is reported to be High.	entailment
+The factuality of WEEK - Peoria News is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/week-peoria-news/).	entailment
+WEEK - Peoria News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WEEK - Peoria News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+WEEK - Peoria News chose not to cover an opinion page.	entailment
+WEEK - Peoria News relies on advertising for revenue	entailment
+When aggregating stories, WEEK - Peoria News relies on information from **Gray Television affiliates, the Associated Press, and CNN**.	entailment
+WEEK - Peoria News has endorsed **no political candidates**	entailment
+WEEK - Peoria News has an editorial bias towards **neutrality**	entailment
+WEEK - Peoria News printed a biased article titledNone in the Last 5 years.	contradiction
+WEEK - Peoria News printed a factually misleading titled **none in the Last 5 years**	entailment

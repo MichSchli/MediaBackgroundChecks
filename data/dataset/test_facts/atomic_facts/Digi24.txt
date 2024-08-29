@@ -1,0 +1,22 @@
+RCS & RDS owns Digi24	entailment
+The remit of Digi24 is to **report news factually**.	entailment
+The mission of Digi24 is to  report the news with low bias.	entailment
+Digi24 tends to the Least Biased.	entailment
+Other sources have commented on Digi24, stating that it tends to be **Least Biased**.	entailment
+The factuality of Digi24 is reported to be High	entailment
+The factuality of Digi24 is reported to be High, according to Forbes.	entailment
+Digi24 failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Digi24 chose not to cover Romania’s designated PM Nicolae Ciucă to defuse crisis under new coalition.	entailment
+Digi24 provides original content written by staff journalists	entailment
+Digi24 relies on advertising for revenue	entailment
+Digi24 relies on subscriptions for revenue	entailment
+Digi24 relies on donations for revenue	contradiction
+Digi24 has received donations from **advertising**	entailment
+When aggregating stories, Digi24 relies on information from **reporters**.	entailment
+Digi24 has an editorial bias towards [neutral editorial positions](https://www.digi24.ro/)	entailment
+Digi24 was fined **None**	entailment
+Digi24 printed a factually misleading titled "Romania’s designated PM Nicolae Ciucă to defuse crisis under new coalition."	entailment
+Digi24's headquarter is located in Bucharest	entailment
+Digi24 is funded by the Romanian government	contradiction
+Digi24 is a [24-hour news television network](https://www.romania-insider.com/romanian-rcs-rds-to-launch-news-tv-channel-this-march).	entailment
+Digi24 covers the following topics: politics, current events, and business news.	entailment

@@ -1,0 +1,16 @@
+BioMed Central owns Journal of Biomedical Science	entailment
+The remit of Journal of Biomedical Science is to **publish information and research related to biomedical science**.	entailment
+The mission of Journal of Biomedical Science is to publish information and research related to biomedical science.	entailment
+The usual audience of Journal of Biomedical Science is **researchers and scientists**	entailment
+Journal of Biomedical Science tends to the Pro-Science.	entailment
+Journal of Biomedical Science tends to the  according to open-source journal status	entailment
+Other sources have commented on Journal of Biomedical Science, stating that it tends to be **a Pro-Science open-source journal**	entailment
+The factuality of Journal of Biomedical Science is reported to be High	entailment
+The factuality of Journal of Biomedical Science is reported to be High, according to D. Van Zandt	entailment
+Journal of Biomedical Science failed a fact-check for an article titled mRNA-based vaccines and therapeutics: an in-depth survey of current and upcoming clinical applications.	contradiction
+Journal of Biomedical Science chose not to cover Predatory journals	entailment
+Journal of Biomedical Science relies on subscriptions for revenue	contradiction
+Journal of Biomedical Science relies on donations for revenue	entailment
+Journal of Biomedical Science has endorsed Pro-Science	entailment
+Journal of Biomedical Science has an editorial bias towards Pro-Science	entailment
+The Journal of Biomedical Science was fined 	entailment

@@ -1,0 +1,18 @@
+John Cavanagh leads Institute for Policy Studies	entailment
+IPS bought Institute for Policy Studies	contradiction
+Institute for Policy Studies is funded through donations	entailment
+The remit of Institute for Policy Studies is to **build a more equitable, ecologically sustainable, and peaceful society.**	entailment
+The mission of Institute for Policy Studies is to **build a more equitable, ecologically sustainable, and peaceful society.**	entailment
+The usual audience of Institute for Policy Studies is **left-leaning**	entailment
+Institute for Policy Studies tends to the left.	entailment
+Institute for Policy Studies tends to the left according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Other sources have commented on Institute for Policy Studies, stating that it tends to be **left-biased**	entailment
+The factuality of Institute for Policy Studies is reported to be Mostly Factual	entailment
+The factuality of Institute for Policy Studies is reported to be Mostly Factual, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Institute for Policy Studies failed a fact-check for an article titled "Trumps-tax-reform-is-more-regressive-than-even-reagans"	contradiction
+Institute for Policy Studies has received donations from undisclosed donors	entailment
+When aggregating stories, Institute for Policy Studies relies on information from **left-leaning sources**	entailment
+Institute for Policy Studies has endorsed left-biased editorial positions	entailment
+Institute for Policy Studies has an editorial bias towards the left	entailment
+Institute for Policy Studies printed a biased article titled "The Heritage Foundation described IPS as, “an avowedly radical organization.”	entailment
+Institute for Policy Studies had to apologize to no one for nothing	entailment

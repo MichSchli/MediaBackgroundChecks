@@ -1,0 +1,21 @@
+Guillaume Lacroix is the CEO of Brut.Media	entailment
+Guillaume Lacroix leads Brut.Media	entailment
+Brut owns Brut.Media	entailment
+Brut bought Brut.Media	contradiction
+Brut.Media is funded through advertising, sponsored content, and video licensing.	entailment
+The remit of Brut.Media is to **publish videos on world news and events from a progressive liberal perspective**	entailment
+The mission of Brut.Media is to publish videos on world news and events from a progressive liberal perspective.	entailment
+The usual audience of Brut.Media is **those who align with the progressive left**	entailment
+Brut.Media tends to the left	entailment
+Brut.Media tends to the left according to a review by Media Bias/Fact Check.	entailment
+Other sources have commented on Brut.Media, stating that it tends to be **left biased**.	entailment
+The factuality of Brut.Media is reported to be Mostl Factual	entailment
+The factuality of Brut.Media is reported to be Mostly Factual, according to a review by Media Bias/Fact Check.	entailment
+Brut.Media chose not to cover **conservative perspectives**	contradiction
+Brut.Media relies on advertising for revenue	entailment
+Brut.Media relies on subscriptions for revenue	entailment
+Brut.Media relies on donations for revenue	contradiction
+When aggregating stories, Brut.Media relies on information from **first-person accounts**	entailment
+Brut.Media has endorsed **progressive perspective**	entailment
+Brut.Media has an editorial bias towards **the progressive left**	entailment
+Brut.Media had to apologize to no one for nothing	entailment

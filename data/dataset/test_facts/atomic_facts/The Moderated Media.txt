@@ -1,0 +1,21 @@
+Dean Kowalski founded The Moderated Media	entailment
+Dean Kowalski owns The Moderated Media	entailment
+Dean Kowalski is the owner of The Moderated Media	entailment
+It acquired The Moderated Media	contradiction
+The Moderated Media is funded through online advertising and a donation link.	entailment
+The remit of The Moderated Media is to burst political bubbles though the presentation of diverse and contrarian viewpoints in a single site. We source our information from the most trusted news organizations and make every effort possible to avoid the dissemination of fake news.	entailment
+The mission of The Moderated Media is to burst political bubbles though the presentation of diverse and contrarian viewpoints in a single site. We source our information from the most trusted news organizations and make every effort possible to avoid the dissemination of fake news.	entailment
+The Moderated Media tends to the biased left and right news	contradiction
+Other sources have commented on The Moderated Media, stating that it tends to be Least Biased.	entailment
+The factuality of The Moderated Media is reported to be Mixed.	entailment
+The factuality of The Moderated Media is reported to be Mixed, according to D. Van Zandt	entailment
+The Moderated Media relies on advertising for revenue	entailment
+The Moderated Media relies on donations for revenue	entailment
+The Moderated Media has received donations from online advertising and a donation link.	entailment
+The Moderated Media has endorsed **balanced news aggregation**	entailment
+The Moderated Media has an editorial bias towards presenting balanced news aggregation.	entailment
+Dean Kowalski is the editor of The Moderated Media.	entailment
+The Moderated Media printed a factually misleading titled news.	entailment
+The Moderated Media is funded by the  government	contradiction
+The Moderated Media is a news aggregation site	entailment
+The Moderated Media covers the following topics: news, analysis, and opinion from the left and right.	entailment

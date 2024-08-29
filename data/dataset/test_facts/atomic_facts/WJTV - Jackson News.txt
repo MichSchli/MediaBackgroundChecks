@@ -1,0 +1,22 @@
+Nexstar Media Group owns WJTV - Jackson News	entailment
+Nexstar Media Group is the owner of WJTV - Jackson News	entailment
+Nexstar Media Group bought WJTV - Jackson News	entailment
+Nexstar Media Group acquired WJTV - Jackson News	entailment
+The remit of WJTV - Jackson News is to  provide news, sports, weather, politics, and crime reporting.	entailment
+The mission of WJTV - Jackson News is to report news factually and with minimal bias.	entailment
+The usual audience of WJTV - Jackson News is **the greater Jackson, Mississippi area**.	entailment
+Other sources have commented on WJTV - Jackson News, stating that it tends to be Least Biased	entailment
+The factuality of WJTV - Jackson News is reported to be High	entailment
+The factuality of WJTV - Jackson News is reported to be High, according to Media Bias/Fact Check.	entailment
+WJTV - Jackson News chose not to cover **any failed fact checks**	entailment
+WJTV - Jackson News provides original content written by staff journalists	entailment
+WJTV - Jackson News relies on advertising for revenue	entailment
+WJTV - Jackson News relies on donations for revenue	contradiction
+WJTV - Jackson News has endorsed  Nexstar Media Group	contradiction
+WJTV - Jackson News has an editorial bias towards **Neither side**	entailment
+WJTV - Jackson News printed a biased article titled "Biden considering income stipulations on student loan cancellation: report".	contradiction
+WJTV - Jackson News printed a factually misleading titled "Biden considering income stipulations on student loan cancellation: report".	entailment
+WJTV - Jackson News had to apologize for being Least Biased based on their neutral straight news reporting without offering opinion pieces	contradiction
+WJTV - Jackson News is funded by the private government	entailment
+WJTV - Jackson News is a television station	entailment
+WJTV - Jackson News covers the following topics: news, sports, weather, politics, and crime reporting	entailment

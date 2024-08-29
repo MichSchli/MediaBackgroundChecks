@@ -1,0 +1,51 @@
+History
+[Founded in 1848,](https://en.wikipedia.org/wiki/Democratic_National_Committee) the Democratic National Committee is a corporation acting as the governing body for the [United States Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States)). The committee coordinates strategy to support Democratic Party candidates nationwide for local, state, and national offices. The current Chairman is former United States Secretary of Labor [Tom Perez](https://en.wikipedia.org/wiki/Tom_Perez).
+The DNC has been involved in numerous controversies over the years. Below is a bulleted list.
+- In the 1970s, the DNC had its head office burglarized by people working for Richard Nixon’s administration during the
+[Watergate scandal](https://en.wikipedia.org/wiki/Watergate_scandal). [1996 United States campaign finance controversy](https://en.wikipedia.org/wiki/1996_United_States_campaign_finance_controversy)
+- In 2002, the Federal Election Commission
+[fined](https://web.archive.org/web/20080514033625/http://archives.cnn.com/2002/ALLPOLITICS/09/23/elec02.fec.dnc/)the Democratic National Committee $115,000 for its part in [fundraising violations in 1996.](https://en.wikipedia.org/wiki/1996_United_States_campaign_finance_controversy)
+- In 2015 and 2016, two competing Russian intelligence services were discovered on
+[DNC computer networks](https://en.wikipedia.org/wiki/Democratic_National_Committee_cyber_attacks).
+- In 2016, the hacker
+[Guccifer 2.0](https://en.wikipedia.org/wiki/Guccifer_2.0)claimed that he hacked into the DNC computer network and then leaked its emails to the newspaper [The Hill](https://mediabiasfactcheck.com/the-hill/)and the whistleblowing website [WikiLeaks](https://mediabiasfactcheck.com/wikileaks/).
+- On July 22, 2016, WikiLeaks released approximately 20,000 DNC emails. Critics claimed that the Committee favored Hillary Clinton while opposing the candidacy of her primary challenger Bernie Sanders.
+[Donna Brazile](https://en.wikipedia.org/wiki/Donna_Brazile)corroborated these allegations in an excerpt of her book published by [Politico](https://mediabiasfactcheck.com/politico/)in November 2017 and claimed that the Clinton campaign [bought control of the DNC](https://www.politico.com/magazine/story/2017/11/02/clinton-brazile-hacks-2016-215774).
+- On April 20, 2018, the DNC
+[filed a lawsuit](https://en.wikipedia.org/wiki/Democratic_National_Committee_v._Russian_Federation)in federal court against WikiLeaks and others, alleging a conspiracy to influence the election. The case was dismissed in 2019.
+- In January 2020, the DNC was accused of
+[changing debate rules](https://www.nytimes.com/2020/01/31/us/politics/dnc-democratic-debate-rules.html)to allow Michael Bloomberg into the Nevada debate. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Democratic National Committee is funded through donations.
+[In 2016](https://www.opensecrets.org/parties/contrib.php?cmte=DNC&cycle=2016), they raised $279,892,065, with top contributors being:
+|Renaissance Technologies
+|$1,318,507
+|Blackstone Group
+|$1,261,204
+|Carlyle Group
+|$755,814
+|Microsoft Corp
+|$689,078
+|Comcast Corp
+|$682,497
+|Goldman Sachs
+|$649,323
+As of this review date, the
+[top donors for 2020](https://www.opensecrets.org/parties/contrib.php?cmte=DNC&cycle=2020) are:
+|Renaissance Technologies
+|$860,000
+|Microsoft Corp
+|$791,329
+|Art Advisors LLC
+|$710,000
+|Bain Capital
+|$700,000
+|McArthurGlen Group
+|$695,500
+Analysis / Bias
+In review, the primary function of the DNC is to advocate, fund, and promote Democratic candidates for all levels of office. The bias of the DNC is obvious; they favor the Democratic party and their platform. However, progressive-leaning candidates and media organizations have accused the DNC of supporting centrist, establishment, and pro-corporate candidates:
+[Tom Perez Stacks the DNC Deck Against Progressives](https://newrepublic.com/article/156341/tom-perez-stacks-dnc-deck-progressives).
+The DNC website also publishes news from a moderately liberal perspective that frequently uses loaded emotional language such as this
+[Trump’s Mismanagement Continues To Make The Crisis Worse](https://democrats.org/news/trumps-mismanagement-continues-to-make-the-crisis-worse/) and this [In Latest Briefing, Trump Lies About His Coronavirus Response](https://democrats.org/news/in-latest-briefing-trump-lies-about-his-coronavirus-response/). Generally, the news reported is well sourced to credible media outlets such as the [LA Times](https://mediabiasfactcheck.com/la-times-los-angeles-times/), [NPR](https://mediabiasfactcheck.com/npr/), and [New York Times](https://mediabiasfactcheck.com/new-york-times/). However, statements made by the DNC have a poor track record with fact-checking.
+Failed Fact Checks (this is 5 out of 20+ failed fact checks)
+[Says Donald Trump is breaking a campaign pledge to bring manufacturing jobs back to Wisconsin and Pennsylvania since the two states “have lost the most manufacturing jobs in the past year.”](https://www.politifact.com/factchecks/2019/oct/18/democratic-national-committee/dnc-trump-manufacturing-jobs/)– Mostly False [Says it cost Massachusetts taxpayers $100,000 when Mitt Romney and his staff purchased computer hard drives.](https://www.politifact.com/factchecks/2011/dec/19/democratic-national-committee/dnc-says-mitt-romney-and-staff-cost-massachusetts-/)– False [Says Mitt Romney has changed his position on supporting the TARP program.](https://www.politifact.com/factchecks/2011/nov/30/democratic-national-committee/mitt-romney-changes-position-tarp-dnc/)– False [“Republicans actually doctored emails between administration officials about Benghazi. Then, they released them to the press, trying to pass them off as real.”](https://www.politifact.com/factchecks/2013/jun/04/democratic-national-committee/democrats-say-republicans-doctored-emails-about-be/)– Mostly False [Says Mitt Romney once supported President Obama’s health care plan but now opposes it.](https://www.politifact.com/factchecks/2011/nov/29/democratic-national-committee/did-mitt-romney-flip-flop-health-care-reform-dnc-s/)– Mostly False

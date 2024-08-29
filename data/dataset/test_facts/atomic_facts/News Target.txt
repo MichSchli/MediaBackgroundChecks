@@ -1,0 +1,29 @@
+Mike Adams founded News Target	entailment
+Mike Adams is the founder of News Target	entailment
+Mike Adams leads News Target.	entailment
+Mike Adams owns News Target	entailment
+Mike Adams is the owner of News Target	entailment
+News Target is funded through online advertising	entailment
+The remit of News Target is to promote conspiracy theories and pseudoscience.	entailment
+The mission of News Target is to promote pseudoscience and extreme right-wing bias	entailment
+News Target tends to the extreme right-wing biased.	entailment
+Other sources have commented on News Target, stating that it tends to be **a quackery level pseudoscience and a tin foil hat conspiracy website, as well as extreme right-wing biased**	entailment
+The factuality of News Target is reported to be extremely low	entailment
+The factuality of News Target is reported to be very low, according to [mediabiasfactcheck](https://mediabiasfactcheck.com/newstarget/)	entailment
+News Target failed a fact-check for an article titled [CONFIRMED: Barack Obama was running the entire spygate operation that violated federal law to spy on Trump.campaign officials.](https://www.newstarget.com/2018-06-01-confirmed-barack-obama-was-running-the-entire-spygate-operation.html)	contradiction
+News Target chose not to cover climate change.	contradiction
+News Target provides original content written by staff journalists	entailment
+News Target relies on advertising for revenue	entailment
+News Target relies on subscriptions for revenue	contradiction
+News Target relies on donations for revenue	contradiction
+News Target has received donations from online advertising	entailment
+When aggregating stories, News Target relies on information from **Natural News**	entailment
+News Target has endorsed **Donald Trump propaganda and conspiracy theories**	entailment
+News Target has an editorial bias towards extreme right-wing.	entailment
+News Target was fined 1.9 million dollars.	entailment
+News Target printed a biased article titled President Trump has a constitutional MANDATE to use the military to protect our southern border – Richard Sacks.	contradiction
+News Target printed a factually misleading titled tin foil hat conspiracy website.	entailment
+News Target had to apologize to no one for nothing	entailment
+News Target is funded by the United States government	contradiction
+News Target is a conspiracy and pseudoscience website.	entailment
+News Target covers the following topics:  conspiracy theories, pseudoscience, extreme right-wing bias, anti-vaccination propaganda, climate change denialism, false information.	entailment

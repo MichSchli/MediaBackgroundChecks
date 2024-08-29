@@ -1,0 +1,25 @@
+Literally Media owns Cracked	entailment
+Literally Media is the owner of Cracked	entailment
+Literally Media bought Cracked	entailment
+Cracked is funded through **advertising and a store that sells merchandise**.	entailment
+The remit of Cracked is to **combine fact with humor and satire**	entailment
+The mission of Cracked is to  entertain.	contradiction
+The usual audience of Cracked is Left-Center Biased Satire website	entailment
+Cracked tends to the Left-Center Biased Satire website.	entailment
+Other sources have commented on Cracked, stating that it tends to be **a left-leaning satire website**.	entailment
+The factuality of Cracked is reported to be high	contradiction
+The factuality of Cracked is reported to be Left-Center Biased, according to Media Bias Fact Check.	entailment
+Cracked chose not to cover **the United States government and media**	contradiction
+Cracked provides original content written by staff journalists	contradiction
+Cracked relies on advertising for revenue	entailment
+Cracked relies on subscriptions for revenue	contradiction
+Cracked relies on donations for revenue	contradiction
+When aggregating stories, Cracked relies on information from **over 2,500 amateurs who pitch articles**	entailment
+Cracked has endorsed left-leaning satire.	entailment
+Cracked has an editorial bias towards **left-leaning satire**	entailment
+Cracked printed a biased article titled **5 Embarrassing Secrets Hiding In Trump’s Cabinet**	entailment
+Cracked's headquarter is located in Los Angeles.	entailment
+Cracked is funded by the United States government.	contradiction
+Cracked is a Left-Center Biased Satire website	entailment
+Cracked uses a peer review process	entailment
+Cracked covers the following topics: **humor, history, media criticism, listicles, politics, satirical content**	entailment

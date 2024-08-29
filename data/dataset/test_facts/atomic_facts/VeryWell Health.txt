@@ -1,0 +1,26 @@
+Dotdash is the founder of VeryWell Health	contradiction
+Dotdash leads VeryWell Health	entailment
+Dotdash owns VeryWell Health	entailment
+Dotdash is the owner of VeryWell Health	entailment
+Dotdash bought VeryWell Health	contradiction
+Dotdash acquired VeryWell Health	entailment
+VeryWell Health is funded through **advertising as well as affiliate commissions for some of the products they recommend**.	entailment
+The remit of VeryWell Health is to provide comprehensive content that the audience can rely on.	entailment
+The mission of VeryWell Health is to provide comprehensive and accurate medical and health information.	entailment
+VeryWell Health tends to the medical and health website.	entailment
+Other sources have commented on VeryWell Health, stating that it tends to be factual.	entailment
+The factuality of VeryWell Health is reported to be high	entailment
+The factuality of VeryWell Health is reported to be high, according to their about page	entailment
+VeryWell Health failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+VeryWell Health chose not to cover [failed fact checks].	entailment
+VeryWell Health relies on advertising for revenue	entailment
+VeryWell Health relies on subscriptions for revenue	contradiction
+VeryWell Health relies on donations for revenue	contradiction
+When aggregating stories, VeryWell Health relies on information from **experienced doctors, therapists, nurses, and other experts**.	entailment
+VeryWell Health has endorsed pro-science	entailment
+VeryWell Health has an editorial bias towards pro-science	entailment
+VeryWell Health printed a biased article titled **None**	contradiction
+VeryWell Health had to apologize for  publishing failed fact checks.	contradiction
+VeryWell Health is funded by the United States government	contradiction
+VeryWell Health is a **pro-science source**	entailment
+VeryWell Health uses an internal fact-checking process	entailment

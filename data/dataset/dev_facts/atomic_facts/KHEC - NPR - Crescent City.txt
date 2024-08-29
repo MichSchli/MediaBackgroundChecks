@@ -1,0 +1,23 @@
+Southern Oregon University owns KHEC - NPR - Crescent City	entailment
+Southern Oregon University is the owner of KHEC - NPR - Crescent City	entailment
+KHEC bought KHEC - NPR - Crescent City	contradiction
+Southern Oregon University acquired KHEC - NPR - Crescent City	entailment
+KHEC - NPR - Crescent City is funded through institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+The remit of KHEC - NPR - Crescent City is to report news and radio programming information with a slight liberal bias.	entailment
+The mission of KHEC - NPR - Crescent City is to "provide news and radio programming information with a slight liberal bias."	entailment
+KHEC - NPR - Crescent City tends to the left	entailment
+KHEC - NPR - Crescent City tends to the left according to media bias fact check.	entailment
+Other sources have commented on KHEC - NPR - Crescent City, stating that it tends to be Left-Center Biased	entailment
+The factuality of KHEC - NPR - Crescent City is reported to be High	entailment
+The factuality of KHEC - NPR - Crescent City is reported to be High, according to D. Van Zandt 	entailment
+KHEC - NPR - Crescent City failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KHEC - NPR - Crescent City printed a retraction after failing a fact-check for an article titled "What It Will Take To Bring Climate Justice With Climate Change".	contradiction
+KHEC - NPR - Crescent City relies on advertising for revenue	contradiction
+KHEC - NPR - Crescent City relies on subscriptions for revenue	contradiction
+KHEC - NPR - Crescent City relies on donations for revenue	entailment
+KHEC - NPR - Crescent City has received donations from individual contributions.	entailment
+When aggregating stories, KHEC - NPR - Crescent City relies on information from [NPR](https://mediabiasfactcheck.com/npr/).	entailment
+KHEC - NPR - Crescent City has endorsed Left-Center Bias	entailment
+KHEC - NPR - Crescent City has an editorial bias towards left	entailment
+KHEC - NPR - Crescent City had to apologize for None in the Last 5 years	entailment
+KHEC - NPR - Crescent City had to apologize to Southern Oregon University for factual reporting due to proper sourcing of information and a clean fact check record.	contradiction

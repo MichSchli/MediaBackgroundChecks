@@ -1,0 +1,23 @@
+Voice Media Group owns Denver Westword	entailment
+Voice Media Group is the owner of Denver Westword	entailment
+Denver Westword is funded through advertising	entailment
+The remit of Denver Westword is to cover local events, entertainment, and culture.	entailment
+The mission of Denver Westword is to cover local events, entertainment, and culture.	entailment
+Denver Westword tends to the left. 	entailment
+Other sources have commented on Denver Westword, stating that it tends to be left-Center biased.	entailment
+The factuality of Denver Westword is reported to be High	entailment
+The factuality of Denver Westword is reported to be High, according to Mediabiasfactcheck.com	entailment
+Denver Westword failed a fact-check for an article titled None in the Last 5 years	contradiction
+Denver Westword chose not to cover \[failed fact checks\]	entailment
+Denver Westword relies on advertising for revenue	entailment
+Denver Westword relies on donations for revenue	contradiction
+When aggregating stories, Denver Westword relies on information from **properly sourced articles**	entailment
+Denver Westword has endorsed left-leaning policies such as marijuana legalization, pro-environment policy, and social equality.	entailment
+Denver Westword has an editorial bias towards **left-leaning policies**	entailment
+Denver Westword was fined 	entailment
+Denver Westword printed a factually misleading titled Far End of Left-Center Biased Based on Political Positions That Favor the Left and High for Factual Reporting Due to Proper Sourcing and a Clean Fact Check Record.	entailment
+Denver Westword had to apologize for **None in the Last 5 years**	entailment
+Denver Westword's headquarter is located in **Denver, Colorado**	entailment
+Denver Westword is funded by the American government	contradiction
+Denver Westword is a **Left-Center biased**	entailment
+Denver Westword covers the following topics: entertainment, the marijuana industry, and Denver/Colorado news.	entailment

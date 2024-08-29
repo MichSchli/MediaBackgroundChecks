@@ -1,0 +1,21 @@
+TI founded Transparency International	entailment
+Transparency International bought Transparency International.	contradiction
+Transparency International is funded through donations from corporations, foundations, individuals, and world government organizations.	entailment
+The remit of Transparency International is to combat corruption and prevent criminal activities arising from corruption.	entailment
+The mission of Transparency International is to prevent criminal activities arising from corruption.	entailment
+Transparency International tends to the **mission**	entailment
+Other sources have commented on Transparency International, stating that it tends to be *Least Biased*.	entailment
+The factuality of Transparency International is reported to be Very-High	entailment
+The factuality of Transparency International is reported to be very high, according to its profile on Germany's media and government.	entailment
+Transparency International failed a fact-check for an article titled "Overall, we rate Transparency International Least Biased based on balanced story selection and a singular focus on their mission."	contradiction
+Transparency International chose not to cover failed fact checks	entailment
+Transparency International relies on advertising for revenue	entailment
+Transparency International relies on subscriptions for revenue	contradiction
+Transparency International relies on donations for revenue	entailment
+Transparency International has received donations from corporations, foundations, individuals, and world government organizations.	entailment
+When aggregating stories, Transparency International relies on information from **experts and business people**.	entailment
+Transparency International has an editorial bias towards combating corruption	entailment
+Transparency International had to apologize for  "not having any instances where they failed a fact check."	contradiction
+Transparency International's headquarter is located in Berlin	entailment
+Transparency International is a non-governmental organization	entailment
+Transparency International covers the following topics: corruption	entailment

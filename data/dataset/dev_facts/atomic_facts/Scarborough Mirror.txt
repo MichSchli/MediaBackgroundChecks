@@ -1,0 +1,17 @@
+Metroland Media Group Ltd. is the CEO of Scarborough Mirror	entailment
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd. is the owner of Scarborough Mirror	entailment
+Metroland Media Group Ltd. bought Scarborough Mirror	entailment
+Scarborough Mirror is funded through advertising.	entailment
+The remit of Scarborough Mirror is to **provide online local, national, and world news for the greater Scarborough, Ontario region**	entailment
+Scarborough Mirror tends to the Left-Center	entailment
+Scarborough Mirror tends to the left according to Mediabiasfactcheck website	entailment
+Other sources have commented on Scarborough Mirror, stating that it tends to be Left-Center biased.	entailment
+The factuality of Scarborough Mirror is reported to be High	entailment
+The factuality of Scarborough Mirror is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+Scarborough Mirror chose not to cover **national news**	entailment
+Scarborough Mirror relies on advertising for revenue	entailment
+Scarborough Mirror relies on subscriptions for revenue	contradiction
+Scarborough Mirror relies on donations for revenue	contradiction
+When aggregating stories, Scarborough Mirror relies on information from the [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/), while world news comes from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Scarborough Mirror has an editorial bias towards **the left**	entailment

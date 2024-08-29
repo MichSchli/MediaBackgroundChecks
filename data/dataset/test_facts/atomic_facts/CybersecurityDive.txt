@@ -1,0 +1,25 @@
+Sean Griffey founded CybersecurityDive	entailment
+Sean Griffey is the founder of CybersecurityDive	contradiction
+Industry Dive owns CybersecurityDive	entailment
+CybersecurityDive is funded through ads and sponsored content	entailment
+The remit of CybersecurityDive is to  provide in-depth journalism and insight into the most impactful news and trends shaping cybersecurity.	entailment
+The mission of CybersecurityDive is to provide in-depth journalism and insight into the most impactful news and trends shaping cybersecurity.	entailment
+CybersecurityDive tends to the construction industry	contradiction
+Other sources have commented on CybersecurityDive, stating that it tends to be **least biased**.	entailment
+The factuality of CybersecurityDive is reported to be high	entailment
+The factuality of CybersecurityDive is reported to be high, according to Media Bias/Fact Check.	entailment
+CybersecurityDive failed a fact-check for an article titled "White House warns US of possible Russian cyberattack linked to Ukraine invasion".	entailment
+CybersecurityDive printed a retraction after failing a fact-check for an article titled **White House warns US of possible Russian cyberattack linked to Ukraine invasion**.	contradiction
+CybersecurityDive chose not to cover White House warns US of possible Russian cyberattack linked to Ukraine invasion	contradiction
+CybersecurityDive relies on advertising for revenue	entailment
+CybersecurityDive relies on subscriptions for revenue	contradiction
+CybersecurityDive relies on donations for revenue	contradiction
+When aggregating stories, CybersecurityDive relies on information from **credible media and information outlets**.	entailment
+CybersecurityDive has endorsed least biased	entailment
+CybersecurityDive had to apologize for None in the Last 5 years	entailment
+CybersecurityDive had to apologize to no one for nothing	entailment
+CybersecurityDive's headquarter is located in Washington, DC	entailment
+CybersecurityDive is funded by the British government.	entailment
+"CybersecurityDive is a news platform."	entailment
+CybersecurityDive uses a peer review process	entailment
+CybersecurityDive covers the following topics: cybersecurity industry.	entailment

@@ -1,0 +1,17 @@
+Metric Media Foundation owns Miami Courant	entailment
+Miami Courant is funded through donations and grants	entailment
+The mission of Miami Courant is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of Miami Courant is **right-center biased and Questionable**	entailment
+The Miami Courant tends to the right-center biased	entailment
+Other sources have commented on Miami Courant, stating that it tends to be right-center biased.	entailment
+The factuality of Miami Courant is reported to be Questionable	entailment
+The factuality of Miami Courant is reported to be Questionable, according to D. Van Zandt 	entailment
+Miami Courant relies on advertising for revenue	entailment
+Miami Courant relies on subscriptions for revenue	entailment
+Miami Courant relies on donations for revenue	entailment
+Miami Courant has received donations from the Metric Media Foundation	entailment
+Miami Courant has endorsed right-center biased and Questionable based on being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company	entailment
+Miami Courant has an editorial bias towards **right-center biased**	entailment
+Miami Courant printed a biased article titled **" conservative-leaning news website published by the Metric Media LLC Network".	entailment
+Miami Courant is a  right-center biased.	entailment
+Miami Courant covers the following topics:  Right-Center Biased News	entailment

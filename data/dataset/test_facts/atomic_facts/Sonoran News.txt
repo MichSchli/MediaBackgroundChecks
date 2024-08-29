@@ -1,0 +1,21 @@
+Don Sorchych leads Sonoran News	entailment
+Sonoran News is funded through advertising and subscription fees	entailment
+The remit of Sonoran News is to **expose corrupt and unethical local, county, state and national business and political practices.**	entailment
+The mission of Sonoran News is to expose corrupt and unethical local, county, state, and national business and political practices.	entailment
+The usual audience of Sonoran News is **conservative**.	entailment
+Sonoran News tends to the right	entailment
+Other sources have commented on Sonoran News, stating that it tends to be **right-leaning**	entailment
+The factuality of Sonoran News is reported to be Mostly factual	entailment
+The factuality of Sonoran News is reported to be **mostly factual**, according to **Media Bias Fact Check**	entailment
+Sonoran News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Sonoran News chose not to cover failed fact checks	entailment
+Sonoran News relies on advertising for revenue	entailment
+Sonoran News relies on subscriptions for revenue	entailment
+Sonoran News relies on donations for revenue	entailment
+Sonoran News has an editorial bias towards conservative.	entailment
+Don Sorchych is the editor of Sonoran News	entailment
+Sonoran News was fined 	entailment
+Sonoran News printed a biased article titled "Exploiting Fault Lines: Islamic Terrorism".	entailment
+Sonoran News is funded by the **advertising and subscription fees** government	contradiction
+Sonoran News is a **conservative**	entailment
+Sonoran News covers the following topics: History, Funding and Ownership, Analysis/Bias, Failed Fact Checks	contradiction

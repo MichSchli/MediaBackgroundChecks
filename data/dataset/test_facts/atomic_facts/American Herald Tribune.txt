@@ -1,0 +1,16 @@
+Dr. Anthony  founded American Herald Tribune	entailment
+Dr. Tony Hall leads American Herald Tribune	entailment
+The mission of American Herald Tribune is to strengthen independent journalism, improve public access to independent information sources, inspire action and advocacy on various topics such as human rights, social justice, media, spirituality and religion, contemporary history, and youth issues.	entailment
+American Herald Tribune tends to the **conspiracy website**	entailment
+Other sources have commented on American Herald Tribune, stating that it tends to be a Conspiracy website.	entailment
+The factuality of American Herald Tribune is reported to be mostly false	entailment
+American Herald Tribune failed a fact-check for an article titled "Canadian Government Secretly Complicit in False Flag Terrorism".	entailment
+American Herald Tribune relies on advertising for revenue	entailment
+American Herald Tribune relies on donations for revenue	contradiction
+American Herald Tribune has endorsed Conspiracy website	entailment
+American Herald Tribune has an editorial bias towards **conspiracy theories**	entailment
+Dr. Tony Hall is the editor of American Herald Tribune	entailment
+American Herald Tribune printed a biased article titled Conspiracy Website Based on Promoting False Flags and Connections to Right-Wing Conspiracy Theorist Alex Jones	entailment
+American Herald Tribune printed a factually misleading titled Conspiracy website	entailment
+American Herald Tribune is funded by the Iranian government	contradiction
+American Herald Tribune is a  Conspiracy website	entailment

@@ -1,0 +1,14 @@
+History
+Lenta.ru is a prominent Russian-language pro-government media
+[outlet](https://meduza.io/en/feature/2022/05/09/lenta-ru-briefly-filled-with-anti-war-anti-putin-content) based in Moscow. Lenta.ru is known for its comprehensive domestic and international news coverage. The outlet has seen significant editorial shifts, especially after a leadership change [in 2014](https://www.bbc.com/news/world-europe-26543464), leading to concerns about increasing censorship and alignment with Kremlin views. [On May 9, 2022, Lenta.ru](https://www.rferl.org/a/russia-lenta-ru-critical-articles/31841256.html) briefly published articles critically addressing the war in [Ukraine](https://mediabiasfactcheck.com/ukraine-media-profile/) and Russian authorities, diverging from its usual content, which was quickly replaced but remains archived, highlighting a rare instance of dissent within the platform. [Read our profile on Russian media and government.](https://mediabiasfactcheck.com/russia-media-profile/)
+Funded by / Ownership
+Lenta.ru is owned by
+[Rambler Media Group](https://lenta.ru/tags/organizations/rambler/), a subsidiary of Sberbank, one of Russia’s largest state-owned banks. Revenue is generated through ads.
+Analysis / Bias
+Lenta.ru tends to align with government narratives, particularly on issues sensitive to Russian state interests. For example, the article
+[“Anxiety in Berlin and London: Russia Considered Capable of Tracking Western Missile Shipments to Ukraine”](https://lenta.ru/news/2024/03/04/trevoga-v-berline-i-londone-v-britanii-sochli-rossiyu-sposobnoy-otsledit-perevozki-zapadnyh-raket-na-ukrainu/) reflects Lenta.ru’s alignment with government narratives, particularly on sensitive state interests. It discusses leaked conversations revealing how Western missiles are transported to Ukraine, potentially aiding Russian intelligence.
+Similarly, an article titled
+[“Joe Biden is at the center of a scandal due to memory problems”](https://lenta.ru/articles/2024/02/15/biden/) discusses concerns over US President Biden’s cognitive abilities, citing an official document that describes Biden as “an elderly man with good intentions and a weak memory.”
+On the contrary, the article’s portrayal of Trump as confident against “a crumbling president” and his strategic moves within the Republican party, as illustrated by the statement, “Donald Trump, however, doesn’t seem too worried about this and is hoping to win comfortably against a crumbling president,” suggests a narrative that favors Trump over Biden. This coverage aligns with Lenta.ru’s tendency to publish content that could reflect a right-leaning bias that aligns with government narratives.
+Failed Fact Checks
+- None by a third-party fact checker; however they are heavily censored.

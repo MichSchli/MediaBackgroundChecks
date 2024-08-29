@@ -1,0 +1,12 @@
+History
+USAspending.gov is the publicly accessible, searchable website mandated by the Federal Funding Accountability and Transparency Act of 2006 to give the American public access to information on how their tax dollars are spent. According to their
+[about page](https://www.usaspending.gov/#/about), “Its mission is to show the American public what the federal government spends every year and how it spends the money. You can follow the money from the Congressional appropriations to the federal agencies and down to local communities and businesses.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+USAspending.gov is maintained by the
+[Office of Management and Budget](https://en.wikipedia.org/wiki/Office_of_Management_and_Budget). The [Congressional Budget Office](https://en.wikipedia.org/wiki/Congressional_Budget_Office) will cost $15 million over its authorized time period of 2007–2011. The current cost to run the website is unknown.
+Analysis / Bias
+In review, USAspending.gov was created in response to The Federal Funding Accountability and Transparency Act of 2006 (S. 2590), which was an Act of Congress that requires the full disclosure to the public of all entities or organizations receiving federal funds beginning in fiscal year (FY) 2007. It continues to maintain its website as of this review in November 2022.
+The sole purpose of the website is to be transparent to the public on how much and where the money is being spent by the Government. For example, in 2019, they revealed that the government spent $4.45 trillion and, of that, collected $3.5 trillion in revenue for a deficit of close to 1 trillion. Long story short, this is a source of statistics on how much the government spends and collects in tax revenue.
+Failed Fact Checks
+- A
+[factual search](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=usaspending.gov&gsc.sort=)reveals they have never failed a fact check but, in fact, are used as a resource for IFCN fact-checkers.

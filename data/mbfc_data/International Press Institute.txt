@@ -1,0 +1,15 @@
+History
+The
+[International Press Institute](https://en.wikipedia.org/wiki/International_Press_Institute) (IPI) is a global organization dedicated to promoting and protecting press freedom and the improvement of journalism practices. Founded in October 1950, the IPI has members in over 120 countries.
+The IPI is a member of the International Freedom of Expression Exchange, a global network of non-governmental organizations that monitors press freedom and free expression violations worldwide.
+According to their
+[about page](https://ipi.media/about/), “IPI members work cooperatively to shape the debate on policies affecting the media and to push back against those seeking to restrict the free flow of news and information in order to protect political, economic, or other interests. Equally important, IPI membership offers solidarity in the face of oppression.” [Read our profile on Austria’s media and government.](https://mediabiasfactcheck.com/austria-media-profile/)
+Funded by / Ownership
+The International Press Institute is owned by an executive board headed by
+[Markus Spillmann](https://ipi.media/executive-board/). Donations generate revenue. IPI transparently lists its top donors [here](https://ipi.media/about/supporters-and-partners/).
+Analysis / Bias
+In review, The International Press Institute reports on reporters’ ability to report the news freely and without threat. For example, they rate countries such as the USA through news stories such as this
+[Media freedom in the US under threat](https://ipi.media/media-freedom-in-the-us-under-threat/). They also investigate freedom with topical information such as the Coronavirus outbreak like this [COVID-19: Number of Media Freedom Violations by Region](https://ipi.media/covid19-media-freedom-monitoring/). This story mainly looks at the suppression of truthful media reporting regarding Covid-19.
+In General, IPI supports journalists and seeks to protect them from danger in the field.
+Failed Fact Checks
+- None in the Last 5 years

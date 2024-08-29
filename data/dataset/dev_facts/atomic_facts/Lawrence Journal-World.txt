@@ -1,0 +1,22 @@
+Robert Nutting is the founder of Lawrence Journal-World	contradiction
+Ogden Newspapers Inc. owns Lawrence Journal-World	entailment
+Ogden Newspapers Inc. bought Lawrence Journal-World	entailment
+Ogden Newspapers Inc. acquired Lawrence Journal-World	entailment
+Lawrence Journal-World is funded through advertising and subscription fees	entailment
+The remit of Lawrence Journal-World is to **provide original reporting for Lawrence, Kansas, and the surrounding area**	entailment
+The mission of Lawrence Journal-World is to report factually with a slight conservative bias editorially but balanced enough to be considered least biased as each side has fair representation.	entailment
+Lawrence Journal-World tends to the least biased	entailment
+Lawrence Journal-World tends to the least biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on Lawrence Journal-World, stating that it tends to be **least biased**	entailment
+The factuality of Lawrence Journal-World is reported to be High	entailment
+The factuality of Lawrence Journal-World is reported to be High, according to Mediabiasfactcheck.	entailment
+Lawrence Journal-World failed a fact-check for an article titled None in the Last 5 years	contradiction
+Lawrence Journal-World printed a retraction after failing a fact-check for an article titled "Pilot arrested after landing plane on interstate near Kansas City"	contradiction
+Lawrence Journal-World chose not to cover **editorial commentary that leans towards extremes**	entailment
+Lawrence Journal-World provides original content written by staff journalists	entailment
+Lawrence Journal-World relies on advertising for revenue	entailment
+Lawrence Journal-World relies on subscriptions for revenue	entailment
+When aggregating stories, Lawrence Journal-World relies on information from [the Associated Press](https://www.post-journal.com/news/local-news/2019/10/police-investigating-saturday-stabbing/).	entailment
+Lawrence Journal-World has an editorial bias towards **slightly favor the right**	entailment
+Lawrence Journal-World printed a factually misleading titled **None**	entailment
+Lawrence Journal-World had to apologize for having no failed fact checks.	entailment

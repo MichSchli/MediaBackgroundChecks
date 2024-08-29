@@ -1,0 +1,20 @@
+Tabasco Post bought Tabasco Post	contradiction
+Tabasco Post is funded through advertising	entailment
+The remit of Tabasco Post is to **republish content from the Mexico Daily Post, the MDP Newsroom, or other sources**.	entailment
+The mission of Tabasco Post is to  provide news on Mexican politics, business, culture, sports, and local news related to Tabasco.	entailment
+The usual audience of Tabasco Post is English-speaking ex-pats and international readers.	entailment
+Tabasco Post tends to the left.	entailment
+Tabasco Post tends to the left-center according to failed fact checks.	entailment
+Other sources have commented on Tabasco Post, stating that it tends to be **Left-Center biased and questionable**.	entailment
+The factuality of Tabasco Post is reported to be questionable	entailment
+The factuality of Tabasco Post is reported to be questionable, according to its review by Mediabiasfactcheck.com	entailment
+Tabasco Post chose not to cover original content	entailment
+Tabasco Post provides original content written by staff journalists	contradiction
+Tabasco Post relies on advertising for revenue	entailment
+Tabasco Post relies on subscriptions for revenue	contradiction
+Tabasco Post relies on donations for revenue	contradiction
+When aggregating stories, Tabasco Post relies on information from the Mexico Daily Post, the MDP Newsroom, or other sources.	entailment
+Tabasco Post has endorsed left-wing perspectives.	entailment
+Tabasco Post has an editorial bias towards **left-leaning political figures and movements**	entailment
+Tabasco Post printed a biased article titled "Tucker Carlson’s extremist recommendation to the Republicans: The US should bomb Mexico".	entailment
+Tabasco Post had to apologize for **being an imposter site that completely lacks transparency, uses poor sourcing techniques, and plagiarizes content**	entailment

@@ -1,0 +1,25 @@
+Community Newspaper Holdings Inc leads Greensburg Daily News	entailment
+Community Newspaper Holdings Inc owns Greensburg Daily News	entailment
+Community Newspaper Holdings Inc is the owner of Greensburg Daily News	entailment
+Community Newspaper Holdings Inc bought Greensburg Daily News	entailment
+Community Newspaper Holdings Inc acquired Greensburg Daily News	entailment
+Greensburg Daily News is funded through **advertising and subscription fees**	entailment
+The remit of Greensburg Daily News is to cover crime, sports, entertainment, and politics for the Greensburg, Indiana, region.	entailment
+The mission of Greensburg Daily News is to **cover crime, sports, entertainment, and politics for the Greensburg, Indiana, region**	entailment
+Greensburg Daily News tends to the Left-Center Bias	entailment
+Other sources have commented on Greensburg Daily News, stating that it tends to be slightly Left-Center Biased	entailment
+The factuality of Greensburg Daily News is reported to be High	entailment
+The factuality of Greensburg Daily News is reported to be High, according to Media Bias/Fact Check.	entailment
+Greensburg Daily News failed a fact-check for an article titled "Our Hospice Summer Concert fundraising nets $147,000."	contradiction
+The Greensburg Daily News chose not to cover 2022 Our Hospice Summer Concert fundraising nets $147,000	contradiction
+Greensburg Daily News relies on advertising for revenue	entailment
+Greensburg Daily News relies on subscriptions for revenue	entailment
+Greensburg Daily News relies on donations for revenue	contradiction
+When aggregating stories, Greensburg Daily News relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and the CHNI news service.	entailment
+The Greensburg Daily News has endorsed a liberal perspective	entailment
+Greensburg Daily News has an editorial bias towards left.	entailment
+The text does not specify any information about Greensburg Daily News being fined.	entailment
+"Greensburg Daily News had to apologize for  biased reporting."	entailment
+Greensburg Daily News is funded by the privategovernment	contradiction
+Greensburg Daily News is a newspaper	entailment
+Greensburg Daily News covers the following topics: crime, sports, entertainment, and politics for the Greensburg, Indiana, region.	entailment

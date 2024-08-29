@@ -1,0 +1,16 @@
+History
+Founded in 2000, HITC (formerly Here is the City) is a UK-based news and entertainment site. According to their
+[about page](https://www.hitc.com/about-us/), “HITC also has two popular Youtube channels, [HITC Sevens](https://www.youtube.com/hitcsevens) and [HITC Sport](https://www.youtube.com/hitcsport), with several hundred thousand subscribers.”
+The website is reasonably transparent, listing
+[authors](https://www.hitc.com/authors/) with short bios and ownership at the bottom of pages. [Read our profile on UK media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+GRV Media owns and publishes HITC. They own several websites related to sports, gaming, and entertainment. Advertising generates revenue.
+Analysis / Bias
+The HITC website provides original reporting on gaming, TV, music, football, movies, and world news. The primary emphasis of HITC is sports and entertainment. To determine bias, we examined their coverage of world news. We found minimal use of loaded emotional language such as this
+[RHODE ISLAND APPROVES LEGISLATION FOR GUN CONTROL MINIMUM AGE CHANGE](https://www.hitc.com/en-gb/2022/06/11/rhode-island-approves-legislation-for-gun-control-minimum-age-change/). Although this story is balanced by presenting both sides, it fails to hyperlink information that is inappropriate for an online-only publication.
+HITC does not produce opinion content, but they do demonstrate bias when reporting on Conservative PM Boris Johnson, such as this
+[WOULD I LIE TO YOU FT BORIS JOHNSON IS THE FUNNIEST VIDEO YOU’LL SEE TODAY](https://www.hitc.com/en-gb/2022/01/19/would-i-lie-to-you-boris-video/). When reporting on other political figures, they tend to poke fun vs. criticize the policy, such as this [JOE BIDEN’S BIKE FALL MOMENT GENERATES MEME-WORTHY REACTIONS FROM THE INTERNET](https://www.hitc.com/en-gb/2022/06/20/biden-bike-fall-meme/) and [DONALD TRUMP HAS ISSUES WITH WINDMILLS BUT LOVES YMCA](https://www.hitc.com/en-gb/2022/03/10/nelk-boys-podcast-donald-trump-has-issues-with-windmills-but-loves-ymca/).
+Finally, HITC debunks conspiracy theories such as this
+[WHAT IS SHARPIEGATE? 2020 ELECTION THEORY DEBUNKED BY ARIZONA ELECTION OFFICIALS](https://www.hitc.com/en-gb/2020/11/05/what-is-sharpiegate-2020-election-arizona-maricopa-county/). They also report accurately on current political events in the USA, such as this [WHO IS TONY ORNATO? ASSISTANT DIRECTOR DENIES TRUMP ‘LUNGING’ CLAIMS](https://www.hitc.com/en-gb/2022/06/29/who-is-tony-ornato-the-assistant-director-denying-trump-lunging-claims/). In this story, they reference [CNN](https://mediabiasfactcheck.com/left/cnn-bias/) (without a hyperlink) as the source of information on Tony Ornato’s claims. In general, HITC reports factual news but with poor sourcing techniques and a slight left-leaning political bias.
+Failed Fact Checks
+[In September 2021, Vincent Paterno, a FedEx Ground driver in Washington state, was fired for bragging online that he did not deliver packages to customers he perceived as politically left-leaning.](https://www.snopes.com/fact-check/fedex-driver-fired-biden-blm-signs/)– Unproven

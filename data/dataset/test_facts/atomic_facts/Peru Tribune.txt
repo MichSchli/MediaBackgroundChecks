@@ -1,0 +1,26 @@
+Paxton Media Group owns Peru Tribune	entailment
+Paxton Media Group is the owner of Peru Tribune	entailment
+Paxton Media Group bought Peru Tribune	entailment
+Paxton Media Group acquired Peru Tribune	entailment
+Peru Tribune is funded through **advertising and subscriptions**	entailment
+The remit of Peru Tribune is to **deliver local news, hometown politics, business news, local events, and sports**.	entailment
+The mission of Peru Tribune is to report local news through the use of journalists with minimal bias using neutral headlines.	entailment
+The usual audience of Peru Tribune is right-center biased	entailment
+The Peru Tribune tends to the right.	entailment
+Other sources have commented on Peru Tribune, stating that it tends to be right-center biased	entailment
+The factuality of Peru Tribune is reported to be High	entailment
+The factuality of Peru Tribune is reported to be High, according to Mediabiasfactcheck.	entailment
+Peru Tribune failed a fact-check for an article titled None in the Last 5 years	contradiction
+Peru Tribune printed a retraction after failing a fact-check for an article titled "County officials attend state conference"	contradiction
+Peru Tribune chose not to cover **any failed fact checks**	entailment
+Peru Tribune relies on advertising for revenue	entailment
+Peru Tribune relies on subscriptions for revenue	contradiction
+Peru Tribune relies on donations for revenue	contradiction
+When aggregating stories, Peru Tribune relies on information from the Associated Press	entailment
+Peru Tribune has endorsed right-center bias	entailment
+Peru Tribune has an editorial bias towards **the right**	entailment
+Peru Tribune printed a biased article titled "Packing the Supreme Court should be off the table, but (long) term limits may well make sense"	entailment
+Peru Tribune's headquarter is located in Indiana	entailment
+Peru Tribune is funded by the **Paxton Media Group** government	contradiction
+Peru Tribune is a newspaper	entailment
+Peru Tribune covers the following topics: local news, hometown politics, business news, local events, and sports	entailment

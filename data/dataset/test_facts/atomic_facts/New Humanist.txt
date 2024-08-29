@@ -1,0 +1,22 @@
+C. A. Watts founded New Humanist	entailment
+C. A. Watts is the founder of New Humanist	entailment
+The Rationalist Association owns New Humanist	entailment
+The Rationalist Association bought New Humanist	entailment
+The Rationalist Association acquired New Humanist	contradiction
+New Humanist is funded through subscription fees	entailment
+The remit of New Humanist is to advocate for evidence-based reasoning.	entailment
+The mission of New Humanist is to **promote culture, news, philosophy, and science from a skeptical perspective**	entailment
+The usual audience of New Humanist is Pro-Science.	entailment
+New Humanist tends to the Pro-Science	entailment
+Other sources have commented on New Humanist, stating that it tends to be Pro-Science.	entailment
+The factuality of New Humanist is reported to be factual	entailment
+New Humanist failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+New Humanist chose not to cover Failed Fact Checks	entailment
+New Humanist relies on advertising for revenue	contradiction
+New Humanist relies on subscriptions for revenue	entailment
+New Humanist has endorsed Pro-Science	entailment
+New Humanist has an editorial bias towards **skepticism**	entailment
+New Humanist printed a biased article titled "Why is an anti-homophobia bill being fought by the Vatican?"	entailment
+New Humanist's headquarter is located in London	entailment
+New Humanist is a Pro-Science source	entailment
+New Humanist covers the following topics: culture, news, philosophy, and science from a skeptical perspective	entailment

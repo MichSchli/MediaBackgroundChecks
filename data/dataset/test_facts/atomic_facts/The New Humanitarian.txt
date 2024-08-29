@@ -1,0 +1,22 @@
+Heba Aly founded The New Humanitarian	entailment
+Heba Aly is the founder of The New Humanitarian	contradiction
+Heba Aly leads The New Humanitarian	entailment
+The New Humanitarian is funded through donations	entailment
+The remit of The New Humanitarian is to deliver unique, authoritative and independent reporting from the frontlines of crises to inspire and produce a more effective humanitarian response.	entailment
+The mission of The New Humanitarian is to deliver unique, authoritative and independent reporting from the frontlines of crises to inspire and produce a more effective humanitarian response.	entailment
+The usual audience of The New Humanitarian is left-center.	entailment
+The New Humanitarian tends to the Left-Center	entailment
+Other sources have commented on The New Humanitarian, stating that it tends to be Left-Center biased.	entailment
+The factuality of The New Humanitarian is reported to be High	entailment
+The factuality of The New Humanitarian is reported to be high, according to Mediabiasfactcheck.com	entailment
+The New Humanitarian relies on advertising for revenue	contradiction
+The New Humanitarian relies on donations for revenue	entailment
+When aggregating stories, The New Humanitarian relies on information from credible government sources and other credible UN humanitarian information portals such as ReliefWeb.	entailment
+The New Humanitarian has endorsed left-Center biased based on story selection and political affiliation	entailment
+The New Humanitarian has an editorial bias towards Left-Center.	entailment
+Howard French is the editor of The New Humanitarian.	contradiction
+The New Humanitarian printed a biased article titled "New relief chief, Harvey deportations, and Trump M.I.A. on Africa: The Cheat Sheet."	entailment
+The New Humanitarian's headquarter is located in Geneva	entailment
+The New Humanitarian is funded by the Swiss government	contradiction
+The New Humanitarian is a non-profit	entailment
+The New Humanitarian covers the following topics: humanitarian stories in regions that are often forgotten, under-reported, misunderstood or ignored.	entailment

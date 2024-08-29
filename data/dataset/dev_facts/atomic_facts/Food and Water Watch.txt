@@ -1,0 +1,19 @@
+Who founded Food and Water Watch?	entailment
+D. Van Zandt is the CEO of Food and Water Watch.	entailment
+Food and Water Watch is the owner of Food and Water Watch	contradiction
+Food and Water Watch is funded through [ways individuals like you can give](https://www.foodandwaterwatch.org/ways-give).	entailment
+The remit of Food and Water Watch is to stop fossil fuel and fossil fuel extraction, regulate factory farms, advocate for renewable energy, fight water privatization, stop bad trade deals, increase transparency in our food system, and stand up for human rights.	entailment
+The usual audience of Food and Water Watch is **left biased based on environmental positions that always favor the left**	entailment
+Food and Water Watch tends to the **left**	entailment
+Food and Water Watch tends to the **left biased** according to **environmental positions**	entailment
+Other sources have commented on Food and Water Watch, stating that it tends to be **left biased**.	entailment
+The factuality of Food and Water Watch is reported to be Mixed	entailment
+The factuality of Food and Water Watch is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Food and Water Watch chose not to cover **GMOs**	entailment
+Food and Water Watch relies on advertising for revenue	contradiction
+Food and Water Watch relies on donations for revenue	entailment
+Food and Water Watch has received donations from [charitable contributions](https://www.foodandwaterwatch.org/ways-give).	contradiction
+When aggregating stories, Food and Water Watch relies on information from [Think Progress](https://mediabiasfactcheck.com/think-progress/).	entailment
+Food and Water Watch has endorsed stopping fossil fuel and fossil fuel extraction, regulating factory farms, advocating for renewable energy, fighting water privatization, stopping bad trade deals, increasing transparency in our food system, and standing up for human rights.	entailment
+Food and Water Watch has an editorial bias towards **left**	entailment
+Food and Water Watch had to apologize to no one for nothing	entailment

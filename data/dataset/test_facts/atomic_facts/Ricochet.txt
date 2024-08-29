@@ -1,0 +1,28 @@
+Rob Long and Peter Robinson founded Ricochet	entailment
+Rob Long is the founder of Ricochet	contradiction
+Silent Cal Productions, LLC owns Ricochet	entailment
+Silent Cal Productions, LLC is the owner of Ricochet	entailment
+Silent Cal Productions, LLC bought Ricochet	contradiction
+Ricochet is funded through **membership fees and advertising**	entailment
+The mission of Ricochet is to **provide a place for "center-right conversation."**	entailment
+The usual audience of Ricochet is center-right.	entailment
+Ricochet tends to the right	entailment
+Other sources have commented on Ricochet, stating that it tends to be **right-center to far-right**.	entailment
+The factuality of Ricochet is reported to be  Mixed.	entailment
+The factuality of Ricochet is reported to be Mixed, according to Media Bias Fact Check.	entailment
+Ricochet failed a fact-check for an article titled "Just 6 percent of Americans say Russia is the country’s most important issue, yet the story receives “75 percent of the coverage” in the media."	entailment
+"Ricochet chose not to cover Covid-19 pandemic misinformation"	contradiction
+Ricochet provides original content written by staff journalists	contradiction
+Ricochet relies on advertising for revenue	entailment
+Ricochet relies on subscriptions for revenue	contradiction
+Ricochet relies on donations for revenue	contradiction
+Ricochet has received donations from **membership fees and advertising**	entailment
+When aggregating stories, Ricochet relies on information from **contributors**	entailment
+Ricochet has an editorial bias towards right.	entailment
+Ricochet printed a biased article titled  "Why We Need Trump."	entailment
+Ricochet printed a factually misleading titled  "Johns Hopkins Doc: Natural Immunity Is Superior to Vaccine; Biden Admin Has it Backwards".	entailment
+Ricochet had to apologize for **publishing misinformation**	entailment
+Ricochet's headquarter is located in Silent Cal Productions, LLC	entailment
+Ricochet is funded by the United States government	contradiction
+Ricochet is a right-biased site	entailment
+Ricochet covers the following topics: right-biased news and opinion political content.	entailment

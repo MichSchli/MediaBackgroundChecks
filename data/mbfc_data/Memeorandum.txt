@@ -1,0 +1,9 @@
+History
+Memeorandum is a news aggregator with a minimalist and easy-to-view design. According to their about page, “memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.”
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website does not disclose ownership. Revenue generation is unclear.
+Analysis / Bias
+Memeorandum does not produce content, it simply delivers news from a wide variety of sources. These sources range from left to right and many in between. Overall, we rate Memeorandum least biased based on using a variety of sources from all sides; however, we rate them mixed factually based on some sources having poor fact-checking records.
+Failed Fact Checks
+- Some sources they rely on have failed fact checks

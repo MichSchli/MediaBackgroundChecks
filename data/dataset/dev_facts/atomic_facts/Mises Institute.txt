@@ -1,0 +1,20 @@
+Lew Rockwell founded Mises Institute	entailment
+Lew Rockwell is the founder of Mises Institute	entailment
+Murray N. Rothbard’s Austrian School acquired Mises Institute	contradiction
+The remit of Mises Institute is to promote	entailment
+The mission of Mises Institute is to defend the market economy, private property, sound money, and peaceful international relations while opposing government intervention.	entailment
+The usual audience of Mises Institute is libertarians.	entailment
+Mises Institute tends to the Right	entailment
+Mises Institute tends to the right according to factual reporting	entailment
+Other sources have commented on Mises Institute, stating that it tends to be **right-biased**.	entailment
+The factuality of Mises Institute is reported to be biased.	entailment
+The factuality of Mises Institute is reported to be right biased, according to Media Bias Fact Check.	entailment
+Mises Institute failed a fact-check for an article titled **"CDC, PHARMA, And Mainstream Media On The Same Team"**	entailment
+Mises Institute chose not to cover **failed fact checks**	entailment
+Mises Institute relies on donations for revenue	entailment
+Mises Institute has received donations from individuals	entailment
+When aggregating stories, Mises Institute relies on information from **credible sources such as AOL, Vanity Fair, Washington Examiner, New York Times, The Guardian, Washington Post, Scientific American, NPR, Daily Beast, The American Conservative, Reason.com, and mixed sources such as the Wall Street Journal.**	entailment
+Mises Institute has an editorial bias towards **right-leaning positions regarding climate change**	entailment
+Mises Institute was fined 	entailment
+Mises Institute printed a biased article titled **"AS DEMOCRATS PUSH A 'WEALTH TAX,' HERE'S WHY OTHER COUNTRIES GOT RID OF IT"**	entailment
+Mises Institute printed a factually misleading titled "Two Reasons Why Socialism Repeatedly Fails"	entailment

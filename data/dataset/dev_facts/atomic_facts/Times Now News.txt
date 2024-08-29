@@ -1,0 +1,19 @@
+Times Now is the founder of Times Now News	contradiction
+Times Now leads Times Now News	entailment
+The Jain Family owns Times Now News	entailment
+The Jain Family is the owner of Times Now News	entailment
+The remit of Times Now News is to **promote right-leaning views and favor the right-wing government**	entailment
+The mission of Times Now News is to **provide right-leaning views**	entailment
+The usual audience of Times Now News is **right-leaning**.	entailment
+Times Now News tends to the right	entailment
+Times Now News tends to the right according to media bias fact check.	entailment
+Other sources have commented on Times Now News, stating that it tends to be **biased**.	entailment
+The factuality of Times Now News is reported to be  Right Biased	entailment
+The factuality of Times Now News is reported to be Mixed, according to mediabiasfactcheck.com.	entailment
+Times Now News failed a fact-check for an article titled  "Insect repellent companies hired a Ugandan man whose flatulence was deadly to mosquitoes."	entailment
+Times Now News printed a retraction after failing a fact-check for an article titled **Insect repellent companies hired a Ugandan man whose flatulence was deadly to mosquitoes**	contradiction
+Times Now News chose not to cover **negative aspects of the ruling Bharatiya Janata Party (BJP)**	contradiction
+Times Now News has endorsed right-wing government	entailment
+Times Now News has an editorial bias towards Right	entailment
+Times Now News printed a factually misleading titled "Insect repellent companies hired a Ugandan man whose flatulence was deadly to mosquitoes."	entailment
+Times Now News had to apologize for biased reporting.	entailment

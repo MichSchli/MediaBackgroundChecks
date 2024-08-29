@@ -1,0 +1,15 @@
+Factual Reporting: HIGH
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+[Founded in 1975](https://en.wikipedia.org/wiki/National_Conference_of_State_Legislatures), The National Conference of State Legislatures (NCSL) is a bipartisan non-governmental organization (NGO) established to serve the members and staff of state legislatures of the United States. According to their [about page](http://www.ncsl.org/aboutus.aspx) “NCSL is here to help legislators do their jobs. We provide thorough, unbiased, and comprehensive information to help you navigate complex policy issues.” The current Executive Director is William T. Pound.
+Funded by / Ownership
+The NCSL is a nonprofit foundation that is funded through corporations, unions, nonprofits, and associations. You can view their full fiscal report
+[here](http://www.ncsl.org/Portals/1/Documents/fsl/NCSLFound_2018AnnualReport_26989.pdf).
+Analysis / Bias
+In review, the National Conference of State Legislatures is
+[comprised of](https://en.wikipedia.org/wiki/National_Conference_of_State_Legislatures) “eight Standing Committees, composed of legislators and legislative staff appointed by the leadership of the legislatures, serve as the central organizing mechanism for NCSL members. Each Committee provides a means by which state legislators can share experience, information, and advice on a variety of state issues ranging from policy to management.” The general purpose of the NCSL is to enhance the role states play in the federal system.
+The website provides low biased information on policy topics such as Immigration, which also features a
+[database](http://www.ncsl.org/research/immigration/immigration-laws-database.aspx) of all laws enacted since 2008 concerning immigration. The website also features a Magazine section that again provides low biased news such as this [Federal Opinion Threatens States’ Rights Over Online Gambling](http://www.ncsl.org/research/fiscal-policy/jackpot-in-jeopardy.aspx). Lastly, the website features a [blog](http://www.ncsl.org/blog/2019/07/17/only-arkansas-has-passed-term-limit-bill-in-2019.aspx) with straightforward reporting.
+A
+[factual search](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=NCSL&gsc.sort=) reveals they have not failed a fact check.

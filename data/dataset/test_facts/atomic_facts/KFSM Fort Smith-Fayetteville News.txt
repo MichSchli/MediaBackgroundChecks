@@ -1,0 +1,23 @@
+TEGNA Inc. owns KFSM Fort Smith-Fayetteville News	entailment
+TEGNA Inc. is the owner of KFSM Fort Smith-Fayetteville News	entailment
+KFSM - Fort Smith-Fayetteville News bought TEGNA.	contradiction
+TEGNA acquired KFSM Fort Smith-Fayetteville News	entailment
+KFSM Fort Smith-Fayetteville News is funded through **advertising and sponsored content**	entailment
+The remit of KFSM Fort Smith-Fayetteville News is to **report**	entailment
+The mission of KFSM Fort Smith-Fayetteville News is to serve the greater good of our communities	entailment
+The usual audience of KFSM Fort Smith-Fayetteville News is **local communities**	entailment
+KFSM Fort Smith-Fayetteville News tends to the **Right**	contradiction
+Other sources have commented on KFSM Fort Smith-Fayetteville News, stating that it tends to be **Least Biased**.	entailment
+The factuality of KFSM Fort Smith-Fayetteville News is reported to be High	entailment
+The factuality of KFSM Fort Smith-Fayetteville News is reported to be High, according to D. Van Zandt 	entailment
+KFSM Fort Smith-Fayetteville News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KFSM Fort Smith-Fayetteville News chose not to cover editorial commentary.	entailment
+KFSM Fort Smith-Fayetteville News relies on advertising for revenue	entailment
+KFSM Fort Smith-Fayetteville News relies on subscriptions for revenue	contradiction
+KFSM Fort Smith-Fayetteville News relies on donations for revenue	contradiction
+When aggregating stories, KFSM Fort Smith-Fayetteville News relies on information from **the Associated Press**.	entailment
+KFSM Fort Smith-Fayetteville News has an editorial bias towards Least Biased	entailment
+KFSM Fort Smith-Fayetteville News had to apologize for **None in the Last 5 years**	entailment
+KFSM Fort Smith-Fayetteville News's headquarter is located in Fort Smith, Arkansas	entailment
+KFSM Fort Smith-Fayetteville News is a news station	entailment
+KFSM Fort Smith-Fayetteville News uses an internal fact-checking process	contradiction

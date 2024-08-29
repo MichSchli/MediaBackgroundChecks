@@ -1,0 +1,24 @@
+PLOS leads Public Library of Science	contradiction
+Public Library of Science owns Public Library of Science	entailment
+PLOS is the owner of Public Library of Science	entailment
+PLOS bought Public Library of Science	contradiction
+PLOS acquired Public Library of Science	contradiction
+Public Library of Science is funded through **donations**	entailment
+The remit of Public Library of Science is to **publish peer-reviewed research journals**	entailment
+Public Library of Science tends to the peer-reviewed research journals.	entailment
+Public Library of Science tends to the publication of peer-reviewed scientific journals according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Public Library of Science, stating that it tends to be credible	entailment
+The factuality of Public Library of Science is reported to be credible.	entailment
+The factuality of Public Library of Science is reported to be pro-Science, according to D. Van Zandt 12/04/2017.	entailment
+Public Library of Science failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Public Library of Science printed a retraction after failing a fact-check for an article titled *None in the Last 5 years*.	contradiction
+The Public Library of Science chose not to cover Predatory Journal.	entailment
+Public Library of Science relies on advertising for revenue	contradiction
+Public Library of Science relies on subscriptions for revenue	contradiction
+Public Library of Science relies on donations for revenue	entailment
+Public Library of Science has received donations from donors	entailment
+When aggregating stories, Public Library of Science relies on information from **peer-reviewed research journals**.	entailment
+Public Library of Science has endorsed **Pro-Science**	entailment
+Public Library of Science has an editorial bias towards Pro-Science	entailment
+Public Library of Science printed a factually misleading titled PLOS is NOT a Predatory Publisher and Is Credible.	entailment
+Public Library of Science had to apologize for **None in the Last 5 years**	entailment

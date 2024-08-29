@@ -1,0 +1,20 @@
+Paste Media Group LLC owns Paste Magazine	entailment
+Paste Magazine is funded through **advertising**.	entailment
+The remit of Paste Magazine is to **primarily a music and entertainment magazine**	contradiction
+The mission of Paste Magazine is to primarily be an entertainment magazine; however, when covering politics, they present information with a strong left-leaning bias.	entailment
+Paste Magazine tends to the Left	entailment
+Other sources have commented on Paste Magazine, stating that it tends to be left-biased.	entailment
+The factuality of Paste Magazine is reported to be High	entailment
+The factuality of Paste Magazine is reported to be High, according to Mediabiasfactcheck.	entailment
+Paste Magazine failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Paste Magazine chose not to cover politics.	contradiction
+Paste Magazine relies on advertising for revenue	entailment
+Paste Magazine relies on subscriptions for revenue	contradiction
+Paste Magazine relies on donations for revenue	contradiction
+When aggregating stories, Paste Magazine relies on information from **credible sources**.	entailment
+Paste Magazine has endorsed a liberal perspective	entailment
+Paste Magazine has an editorial bias towards  Left Bias	entailment
+Paste Magazine printed a biased article titled "The 10 Worst Things Donald Trump Has Done in His Political Career".	entailment
+Paste Magazine had to apologize to Donald Trump for liberal and anti-conservative content.	contradiction
+Paste Magazine is funded by the United States government	contradiction
+Paste Magazine is a digital magazine.	entailment

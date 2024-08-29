@@ -1,0 +1,20 @@
+Sunbeam Television Corporation owns WHDH - Boston News	entailment
+Sunbeam Television Corporation is the owner of WHDH - Boston News	entailment
+Sunbeam Television Corporation bought WHDH - Boston News	entailment
+Sunbeam Television Corporation acquired WHDH - Boston News	entailment
+WHDH - Boston News is funded through advertising	entailment
+WHDH - Boston News tends to the **Left-Center**.	entailment
+Other sources have commented on WHDH - Boston News, stating that it tends to be Left-Center Biased	entailment
+The factuality of WHDH - Boston News is reported to be High	entailment
+The factuality of WHDH - Boston News is reported to be High, according to Mediabiasfactcheck.	entailment
+WHDH - Boston News failed a fact-check for an article titled  "Newton woman arraigned on murder and theft charges in connection with former landlord’s death."	contradiction
+WHDH - Boston News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+WHDH - Boston News chose not to cover op-eds.	entailment
+WHDH - Boston News relies on advertising for revenue	entailment
+WHDH - Boston News relies on subscriptions for revenue	contradiction
+WHDH - Boston News relies on donations for revenue	contradiction
+When aggregating stories, WHDH - Boston News relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [CNN](https://mediabiasfactcheck.com/cnn/).	entailment
+WHDH - Boston News has endorsed Left-Center Biased.	contradiction
+WHDH - Boston News is funded by the **privately held** government	contradiction
+WHDH - Boston News is a Left-Center Biased	entailment
+WHDH - Boston News covers the following topics: Local news, crime reporting, US and world news, politics, local politics.	entailment

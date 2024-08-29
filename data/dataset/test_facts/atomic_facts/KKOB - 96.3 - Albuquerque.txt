@@ -1,0 +1,21 @@
+KKOB leads KKOB - 96.3 - Albuquerque	contradiction
+Cumulus Media owns KKOB - 96.3 - Albuquerque	entailment
+Cumulus Media is the owner of KKOB - 96.3 - Albuquerque	entailment
+Cumulus Media bought KKOB - 96.3 - Albuquerque	entailment
+KKOB - 96.3 - Albuquerque is funded through advertising.	entailment
+The remit of KKOB - 96.3 - Albuquerque is to  broadcast conservative news talk shows and publish local and political news on its website.	entailment
+The mission of KKOB - 96.3 - Albuquerque is to feature conservative news talk shows and publish local and political news on their website.	entailment
+The usual audience of KKOB - 96.3 - Albuquerque is **right-leaning/conservative**	entailment
+KKOB - 96.3 - Albuquerque tends to the right	entailment
+Other sources have commented on KKOB - 96.3 - Albuquerque, stating that it tends to be **right biased**	entailment
+The factuality of KKOB - 96.3 - Albuquerque is reported to be Mixed	entailment
+The factuality of KKOB - 96.3 - Albuquerque is reported to be Mixed, according to Media Bias/Fact Check	entailment
+KKOB - 96.3 - Albuquerque failed a fact-check for an article titled "8 more West Nile Virus cases".	entailment
+KKOB - 96.3 - Albuquerque chose not to cover West Nile Virus cases	contradiction
+KKOB - 96.3 - Albuquerque relies on advertising for revenue	entailment
+KKOB - 96.3 - Albuquerque relies on donations for revenue	contradiction
+KKOB - 96.3 - Albuquerque has an editorial bias towards **right**	entailment
+KKOB - 96.3 - Albuquerque printed a factually misleading titled Right Biased based on the political affiliation of conservative radio hosts.	entailment
+KKOB - 96.3 - Albuquerque is funded by the \ government?	contradiction
+KKOB - 96.3 - Albuquerque is a Right Biased	entailment
+KKOB - 96.3 - Albuquerque covers the following topics: conservative news talk shows, local and political news.	entailment

@@ -1,0 +1,25 @@
+CNHI founded Corbin Times-Tribune	contradiction
+D. Van Zandt is the founder of Corbin Times-Tribune	contradiction
+Community Newspaper Holdings	entailment
+Community Newspaper Holdings Inc. owns Corbin Times-Tribune	entailment
+Community Newspaper Holdings Inc. is the owner of Corbin Times-Tribune	entailment
+Community Newspaper Holdings Inc. bought Corbin Times-Tribune	entailment
+Corbin Times-Tribune is funded through Advertising and subscription fees.	entailment
+The remit of Corbin Times-Tribune is to cover crime, sports, entertainment, and politics for the Corbin, KY, region.	entailment
+Corbin Times-Tribune tends to the Left-Center Biased	entailment
+Other sources have commented on Corbin Times-Tribune, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Corbin Times-Tribune is reported to be High	entailment
+The factuality of Corbin Times-Tribune is reported to be High, according to Mediabiasfactcheck.	entailment
+Corbin Times-Tribune failed a fact-check for an article titled None in the Last 5 years	contradiction
+Corbin Times-Tribune chose not to cover **any failed fact checks in the Last 5 years**.	entailment
+Corbin Times-Tribune relies on advertising for revenue	entailment
+Corbin Times-Tribune relies on subscriptions for revenue	entailment
+Corbin Times-Tribune relies on donations for revenue	contradiction
+The Corbin Times-Tribune has endorsed a slightly Left-Center Biased perspective	entailment
+Corbin Times-Tribune has an editorial bias towards slightly Left-Center Biased	entailment
+Corbin Times-Tribune printed a biased article titled "The Corbin Times-Tribune as slightly Left-Center Biased based on editorial positions that favor a liberal perspective."	entailment
+Corbin Times-Tribune had to apologize to no one for nothing	entailment
+Corbin Times-Tribune's headquarter is located in Corbin	entailment
+Corbin Times-Tribune is funded by the US government	contradiction
+Corbin Times-Tribune is a newspaper	entailment
+Corbin Times-Tribune covers the following topics: crime, sports, entertainment, and politics	entailment

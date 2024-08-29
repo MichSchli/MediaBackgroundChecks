@@ -1,0 +1,18 @@
+Yoram Hazony founded National Conservatism	entailment
+The National Conservatism movement  owns National Conservatism	contradiction
+National Conservatism is funded through donations	entailment
+The remit of National Conservatism is to **advocate for conservative nationalist ideology**.	entailment
+The mission of National Conservatism is to emphasize nationalism and reject globalism and imperialism.	entailment
+The usual audience of National Conservatism is **right-leaning biases**	entailment
+National Conservatism tends to the **right**	entailment
+National Conservatism tends to the right according to D. Van Zandt	entailment
+Other sources have commented on National Conservatism, stating that it tends to be right-biased.	entailment
+The factuality of National Conservatism is reported to be Mixed	entailment
+The factuality of National Conservatism is reported to be Mixed, according to D. Van Zandt 01/01/2024.	entailment
+National Conservatism failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+National Conservatism relies on advertising for revenue	contradiction
+National Conservatism relies on donations for revenue	entailment
+National Conservatism has received donations from the Jewish Philosophy Fund and the Thomas D. Klingenstein Fund.	entailment
+When aggregating stories, National Conservatism relies on information from **a wide range of sources**	entailment
+National Conservatism has endorsed **nationalism and traditional values**.	entailment
+National Conservatism has an editorial bias towards national conservativism	entailment

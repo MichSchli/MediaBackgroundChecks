@@ -1,0 +1,21 @@
+Cureus is the founder of Cureus Journal of Medical Science	contradiction
+Cureus Inc. owns Cureus Journal of Medical Science	entailment
+Cureus Inc. is the owner of Cureus Journal of Medical Science.	entailment
+Cureus Journal of Medical Science is funded through **advertising and editing fees**	entailment
+The mission of Cureus Journal of Medical Science is to **share and promote published medical knowledge around the world.**	entailment
+Cureus Journal of Medical Science tends to the **pseudoscientific**	entailment
+Other sources have commented on Cureus Journal of Medical Science, stating that it tends to be ***mild pseudoscience***.	entailment
+The factuality of Cureus Journal of Medical Science is reported to be Mixed	entailment
+The factuality of Cureus Journal of Medical Science is reported to be mixed, according to Media Bias Fact Check.	entailment
+Cureus Journal of Medical Science failed a fact-check for an article titled **"Correlation Between Mask Compliance and COVID-19 Outcomes in Europe."**	entailment
+Cureus Journal of Medical Science printed a retraction after failing a fact-check for an article titled  "Regular Use of Ivermectin as Prophylaxis for COVID-19 Led Up to a 92% Reduction in COVID-19 Mortality Rate in a Dose-Response Manner."	entailment
+Cureus Journal of Medical Science relies on advertising for revenue	entailment
+Cureus Journal of Medical Science relies on subscriptions for revenue	contradiction
+Cureus Journal of Medical Science has received donations from **advertising and editing fees**	entailment
+When aggregating stories, Cureus Journal of Medical Science relies on information from **post-publication peer review**.	entailment
+Cureus Journal of Medical Science has endorsed mild pseudoscience	entailment
+Cureus Journal of Medical Science has an editorial bias towards poor studies	entailment
+Cureus Journal of Medical Science printed a biased article titled **"Correlation Between Mask Compliance and COVID-19 Outcomes in Europe."**	entailment
+Cureus Journal of Medical Science printed a factually misleading titled "Regular Use of Ivermectin as Prophylaxis for COVID-19 Led Up to a 92% Reduction in COVID-19 Mortality Rate in a Dose-Response Manner."	entailment
+Cureus Journal of Medical Science had to apologize for **publishing poor studies requiring retractions**.	entailment
+Cureus Journal of Medical Science paid damages to researchers after flawed studies were published and retracted, including those related to Covid-19.	entailment

@@ -1,0 +1,16 @@
+Metric Media Foundation owns NC Florida News	entailment
+Metric Media LLC bought NC Florida News	entailment
+NC Florida News is funded through donations and grants	entailment
+The remit of NC Florida News is to  be a conservative news and opinion website.	entailment
+The mission of NC Florida News is to report objective, data-driven information without political bias.	contradiction
+The usual audience of NC Florida News is **conservative-leaning**	entailment
+NC Florida News tends to the right-center	entailment
+NC Florida News tends to the right-center according to Mediabiasfactcheck.com	entailment
+Other sources have commented on NC Florida News, stating that it tends to be **right-center biased**	entailment
+The factuality of NC Florida News is reported to be Questionable	entailment
+The factuality of NC Florida News is reported to be **Questionable**, according to **Mediabiasfactcheck.com**	entailment
+NC Florida News printed a retraction after failing a fact-check for an article titled ""	contradiction
+NC Florida News relies on advertising for revenue	entailment
+NC Florida News relies on donations for revenue	entailment
+NC Florida News has endorsed right-center	entailment
+NC Florida News has an editorial bias towards right-center.	entailment

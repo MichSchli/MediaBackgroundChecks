@@ -1,0 +1,17 @@
+Glenn Clinton founded Global Real News	entailment
+Glenn Clinton is the founder of Global Real News.	entailment
+Glenn Clinton owns Global Real News	entailment
+Glenn Clinton is the owner of Global Real News	entailment
+Global Real News is funded through advertising.	entailment
+The remit of Global Real News is to **publish scientific stories**	entailment
+The mission of Global Real News is to provide accurate reporting on the latest scientific studies.	entailment
+Global Real News tends to the Left-Center Bias	entailment
+Other sources have commented on Global Real News, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Global Real News is reported to be Pro-Science	entailment
+Global Real News printed a retraction after failing a fact-check for an article titled "The Extravagant Courtship Of Wolf Spiders Ends In A Deadly Trap"	contradiction
+Global Real News chose not to cover **news stories since August 10, 2019**	entailment
+Global Real News relies on advertising for revenue	entailment
+Global Real News relies on donations for revenue	entailment
+When aggregating stories, Global Real News relies on information from **scientific studies**.	entailment
+Global Real News is a website	entailment
+Global Real News covers the following topics: science and scientific studies	entailment

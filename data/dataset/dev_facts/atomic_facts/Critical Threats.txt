@@ -1,0 +1,15 @@
+AEI founded Critical Threats	entailment
+Who leads Critical Threats	entailment
+Critical Threats is funded through its parent organization, the American Enterprise Institute.	entailment
+The remit of Critical Threats is to provide analysis and policy recommendations on security, governance, and militant activity.	entailment
+The mission of Critical Threats is to analyze security, governance, and militant activity, and provide policy recommendations.	entailment
+Other sources have commented on Critical Threats, stating that it tends to be right-leaning.	entailment
+The factuality of Critical Threats is reported to be Mostly Factual	entailment
+The factuality of Critical Threats is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+Critical Threats chose not to cover factual information that could provide broader context and perspectives.	entailment
+Critical Threats relies on advertising for revenue	contradiction
+Critical Threats relies on subscriptions for revenue	entailment
+Critical Threats relies on donations for revenue	entailment
+Critical Threats has endorsed right-center biased.	entailment
+Critical Threats was fined	entailment
+Critical Threats had to apologize for its 	entailment

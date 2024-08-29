@@ -1,0 +1,17 @@
+Sinclair Broadcast Group owns WBMA - Birmingham News	entailment
+Sinclair Broadcast Group is the owner of WBMA - Birmingham News	entailment
+Sinclair Broadcast Group bought WBMA - Birmingham News	entailment
+WBMA - Birmingham News is funded through advertising.	entailment
+The remit of WBMA - Birmingham News is to report local news with minimal bias in wording	entailment
+The usual audience of WBMA - Birmingham News is **right-Center biased**.	entailment
+WBMA - Birmingham News tends to the right	entailment
+WBMA - Birmingham News tends to the right according to mediabiasfactcheck.com	entailment
+Other sources have commented on WBMA - Birmingham News, stating that it tends to be right-leaning.	entailment
+The factuality of WBMA - Birmingham News is reported to be High	entailment
+The factuality of WBMA - Birmingham News is reported to be high, according to Media Bias/Fact Check.	entailment
+WBMA - Birmingham News failed a fact-check for an article titled "Supply shortages hitting Birmingham grocery stores before Thanksgiving."	contradiction
+WBMA - Birmingham News chose not to cover **editorials/op-eds**	entailment
+WBMA - Birmingham News relies on subscriptions for revenue	entailment
+When aggregating stories, WBMA - Birmingham News relies on information from the Associated Press.	entailment
+WBMA - Birmingham News has an editorial bias towards **the right**	entailment
+WBMA - Birmingham News printed a biased article titled "Supply shortages hitting Birmingham grocery stores before Thanksgiving".	entailment

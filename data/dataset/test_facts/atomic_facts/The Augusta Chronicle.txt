@@ -1,0 +1,22 @@
+Founded founded The Augusta Chronicle	entailment
+Gannett leads The Augusta Chronicle	entailment
+Gannett owns The Augusta Chronicle	entailment
+Gannett is the owner of The Augusta Chronicle	entailment
+Gannett acquired The Augusta Chronicle	entailment
+The Augusta Chronicle is funded through advertising and paid subscriptions	entailment
+The remit of The Augusta Chronicle is to **cover news, sports, lifestyle, and entertainment for the greater Augusta, Georgia area.**	entailment
+The mission of The Augusta Chronicle is to **cover news, sports, lifestyle, and entertainment for the greater Augusta, Georgia area**	entailment
+The usual audience of The Augusta Chronicle is  residents.	entailment
+The Augusta Chronicle tends to the left	entailment
+Other sources have commented on The Augusta Chronicle, stating that it tends to be left-leaning.	entailment
+The factuality of The Augusta Chronicle is reported to be High	entailment
+The factuality of The Augusta Chronicle is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+The Augusta Chronicle relies on advertising for revenue	entailment
+The Augusta Chronicle relies on subscriptions for revenue	entailment
+The Augusta Chronicle relies on donations for revenue	contradiction
+When aggregating stories, The Augusta Chronicle relies on information from **other Gannett publications and the Associated Press**.	entailment
+The Augusta Chronicle has endorsed Republican	entailment
+The Augusta Chronicle has an editorial bias towards left	entailment
+The Augusta Chronicle is funded by the private sector	entailment
+The Augusta Chronicle is a daily newspaper	entailment
+The Augusta Chronicle covers the following topics: news, sports, lifestyle, and entertainment for the greater Augusta, Georgia area.	entailment

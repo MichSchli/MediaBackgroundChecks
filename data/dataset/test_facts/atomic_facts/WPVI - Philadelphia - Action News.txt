@@ -1,0 +1,22 @@
+ABC owns WPVI - Philadelphia - Action News	entailment
+ABC Owned Television Stations is the owner of WPVI - Philadelphia - Action News	entailment
+ABC bought WPVI - Philadelphia - Action News	entailment
+WPVI - Philadelphia - Action News is funded through Advertising and sponsored content generate revenue.	entailment
+The remit of WPVI - Philadelphia - Action News is to **cover news, sports, crime, and weather for the Philadelphia Metro area**	entailment
+The mission of WPVI - Philadelphia - Action News is to **provide news, weather, and sports for the Philadelphia Metropolitan region**.	entailment
+The usual audience of WPVI - Philadelphia - Action News is **residents of the Philadelphia Metropolitan region**	entailment
+WPVI - Philadelphia - Action News tends to the left	entailment
+Other sources have commented on WPVI - Philadelphia - Action News, stating that it tends to be Left-Center Biased.	entailment
+The factuality of WPVI - Philadelphia - Action News is reported to be High	entailment
+The factuality of WPVI - Philadelphia - Action News is reported to be High, according to mediabiasfactcheck.com	entailment
+WPVI - Philadelphia - Action News failed a fact-check for an article titled "Biden signs executive order to combat anti-LGBTQ legislation".	contradiction
+WPVI - Philadelphia - Action News chose not to cover opinion pieces	entailment
+WPVI - Philadelphia - Action News relies on advertising for revenue	entailment
+WPVI - Philadelphia - Action News relies on subscriptions for revenue	contradiction
+WPVI - Philadelphia - Action News relies on donations for revenue	contradiction
+When aggregating stories, WPVI - Philadelphia - Action News relies on information from [ABC News](https://mediabiasfactcheck.com/abc-news/), [Associated Press](https://mediabiasfactcheck.com/associated-press/), [ESPN](https://mediabiasfactcheck.com/espn/), and other ABC stations.	entailment
+WPVI - Philadelphia - Action News has an editorial bias towards left.	entailment
+The factually misleading titled "Officials identify Philadelphia firefighter killed after building collapse in Fairhill"	entailment
+WPVI - Philadelphia - Action News is funded by the ABC government	entailment
+WPVI - Philadelphia - Action News is a Left-Center Biased	entailment
+WPVI - Philadelphia - Action News covers the following topics: news, sports, crime, and weather for the Philadelphia Metro area	entailment

@@ -1,0 +1,23 @@
+ThreeNow - TV3 - New Zealand is funded through advertising	entailment
+The remit of ThreeNow - TV3 - New Zealand is to **offer news, current affairs, and entertainment**	entailment
+The mission of ThreeNow - TV3 - New Zealand is to **offer news, current affairs, and entertainment**.	entailment
+The usual audience of ThreeNow - TV3 - New Zealand is mostly factual based on not always sourcing properly and a failed fact check.	entailment
+ThreeNow - TV3 - New Zealand tends to the center Left-Center	entailment
+Other sources have commented on ThreeNow - TV3 - New Zealand, stating that it tends to be left-Center biased.	entailment
+The factuality of ThreeNow - TV3 - New Zealand is reported to be Mostly Factual	entailment
+The factuality of ThreeNow - TV3 - New Zealand is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+ThreeNow - TV3 - New Zealand failed a fact-check for an article titled **Who Mayor Wayne Brown was calling, texting as Auckland flooded.**	entailment
+ThreeNow - TV3 - New Zealand relies on advertising for revenue	entailment
+ThreeNow - TV3 - New Zealand relies on subscriptions for revenue	entailment
+ThreeNow - TV3 - New Zealand relies on donations for revenue	contradiction
+ThreeNow - TV3 - New Zealand has received donations from **advertising**	entailment
+When aggregating stories, ThreeNow - TV3 - New Zealand relies on information from **Newshub**	entailment
+ThreeNow - TV3 - New Zealand has endorsed center Left-Center biased based on story selection and editorial positions that moderately favor the left.	entailment
+ThreeNow - TV3 - New Zealand has an editorial bias towards center Left-Center.	entailment
+ThreeNow - TV3 - New Zealand printed a biased article titled **Who Mayor Wayne Brown was calling, texting as Auckland flooded.**	entailment
+ThreeNow - TV3 - New Zealand printed a factually misleading titled "Poor Sourcing and Left-Leaning Editorial Positions".	entailment
+ThreeNow - TV3 - New Zealand's headquarter is located in Auckland	entailment
+ThreeNow - TV3 - New Zealand is funded by the  US government	contradiction
+ThreeNow - TV3 - New Zealand is a TV channel	entailment
+ThreeNow - TV3 - New Zealand uses a peer review process	entailment
+ThreeNow - TV3 - New Zealand covers the following topics: news, current affairs, and entertainment.	entailment

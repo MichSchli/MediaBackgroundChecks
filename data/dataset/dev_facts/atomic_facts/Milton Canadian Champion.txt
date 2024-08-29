@@ -1,0 +1,17 @@
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd. owns Milton Canadian Champion	entailment
+Metroland Media Group Ltd. bought Milton Canadian Champion	contradiction
+Metroland Media Group Ltd. acquired Milton Canadian Champion	contradiction
+Milton Canadian Champion is funded through advertising.	entailment
+The usual audience of Milton Canadian Champion is Left-Center biased	entailment
+The Milton Canadian Champion tends to the left	entailment
+The Milton Canadian Champion tends to the **left-center** according to **Media Bias Fact Check**.	entailment
+Other sources have commented on Milton Canadian Champion, stating that it tends to be Left-Center biased.	entailment
+The factuality of Milton Canadian Champion is reported to be High	entailment
+The factuality of Milton Canadian Champion is reported to be High, according to a review by Mediabiasfactcheck.com	entailment
+Milton Canadian Champion relies on advertising for revenue	entailment
+Milton Canadian Champion relies on subscriptions for revenue	contradiction
+Milton Canadian Champion relies on donations for revenue	contradiction
+When aggregating stories, Milton Canadian Champion relies on information from the [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+Milton Canadian Champion has an editorial bias towards Left-Center	entailment
+Milton Canadian Champion was fined 	entailment

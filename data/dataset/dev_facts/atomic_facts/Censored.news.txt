@@ -1,0 +1,18 @@
+Censored.news is funded through **advertising**	entailment
+The remit of Censored.news is to aggregate and link to other sources through news feeds.	entailment
+The mission of Censored.news is to aggregate far-right conspiracy and pseudoscience news.	entailment
+Censored.news tends to the extreme right biased	entailment
+Censored.news tends to the extreme right according to the promotion of pseudoscience, conspiracy theories, fake news, poor sources, and a complete lack of transparency	entailment
+Other sources have commented on Censored.news, stating that it tends to be extreme right biased	entailment
+The factuality of Censored.news is reported to be extremely right biased and Questionable based on the promotion of pseudoscience, conspiracy theories, fake news, poor sources, and a complete lack of transparency.	entailment
+The factuality of Censored.news is reported to be **Questionable**, according to **Mediabiasfactcheck.com**.	entailment
+Censored.news failed a fact-check for an article titled "Censored.News is extremely right-biased and 100% lacking in credibility."	entailment
+Censored.news chose not to cover original content	entailment
+Censored.news provides original content written by staff journalists	contradiction
+Censored.news relies on advertising for revenue	entailment
+Censored.news relies on subscriptions for revenue	contradiction
+Censored.news relies on donations for revenue	contradiction
+Censored.news has endorsed extreme right biased and Questionable based on the promotion of pseudoscience, conspiracy theories, fake news, poor sources, and a complete lack of transparency.	entailment
+Censored.news has an editorial bias towards extreme right.	entailment
+Censored.news printed a biased article titled **Censored.News is extreme right biased and Questionable**	entailment
+Censored.news printed a factually misleading titled "Extreme Right Bias and Questionable Credibility"	entailment

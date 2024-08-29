@@ -1,0 +1,26 @@
+Hoesung Lee founded The Intergovernmental Panel on Climate Change (IPCC)	contradiction
+Hoesung Lee leads The Intergovernmental Panel on Climate Change (IPCC)	entailment
+The Intergovernmental Panel on Climate Change (IPCC) owns The IPCC	contradiction
+The IPCC bought The Intergovernmental Panel on Climate Change (IPCC)	contradiction
+The Intergovernmental Panel on Climate Change (IPCC) is funded through the IPCC Trust Fund, established in 1989 by the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO). Annual cash contributions to the Trust Fund are made by the WMO, by UNEP, and by IPCC Members. Payments and their size are voluntary.	entailment
+The remit of The Intergovernmental Panel on Climate Change (IPCC) is to  provide governments at all levels with scientific information that they can use to develop climate policies.	entailment
+The mission of The Intergovernmental Panel on Climate Change (IPCC) is to provide governments at all levels with scientific information that they can use to develop climate policies.	entailment
+The usual audience of The Intergovernmental Panel on Climate Change (IPCC) is governments at all levels	entailment
+The Intergovernmental Panel on Climate Change (IPCC) tends to the **pro-science source**.	entailment
+The Intergovernmental Panel on Climate Change (IPCC) tends to the science according to D. Van Zandt.	entailment
+Other sources have commented on The Intergovernmental Panel on Climate Change (IPCC), stating that it tends to be **pro-science**.	entailment
+The factuality of The Intergovernmental Panel on Climate Change (IPCC) is reported to be pro-science	entailment
+The factuality of The Intergovernmental Panel on Climate Change (IPCC) is reported to be high, according to a source criticism exercise	entailment
+The Intergovernmental Panel on Climate Change (IPCC) failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Intergovernmental Panel on Climate Change (IPCC) printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**.	contradiction
+The Intergovernmental Panel on Climate Change (IPCC) chose not to cover **original research**	entailment
+The Intergovernmental Panel on Climate Change (IPCC) provides original content written by staff journalists	contradiction
+The Intergovernmental Panel on Climate Change (IPCC) relies on advertising for revenue	contradiction
+The Intergovernmental Panel on Climate Change (IPCC) relies on subscriptions for revenue	contradiction
+The Intergovernmental Panel on Climate Change (IPCC) relies on donations for revenue	contradiction
+The Intergovernmental Panel on Climate Change (IPCC) has received donations from the WMO, by UNEP, and by IPCC Members.	entailment
+When aggregating stories, The Intergovernmental Panel on Climate Change (IPCC) relies on information from **thousands of scientists and experts worldwide contribute**	entailment
+The Intergovernmental Panel on Climate Change (IPCC) has endorsed **minimal bias and direct interpretation and research studies**.	entailment
+The Intergovernmental Panel on Climate Change (IPCC) has an editorial bias towards pro-science.	entailment
+Hoesung Lee is the editor of The Intergovernmental Panel on Climate Change (IPCC)	contradiction
+The Intergovernmental Panel on Climate Change (IPCC) had to apologize for  **failed fact checks**.	contradiction

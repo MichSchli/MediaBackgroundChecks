@@ -1,0 +1,16 @@
+Metric Media Foundation owns West SGV News	entailment
+West SGV News is funded through donations and grants.	entailment
+The remit of West SGV News is to **provide objective, data-driven information without political bias.**	contradiction
+The mission of West SGV News is to provide objective, data-driven information without political bias.	contradiction
+The usual audience of West SGV News is **right-center biased and questionable**	entailment
+West SGV News tends to the right-centerbias	entailment
+Other sources have commented on West SGV News, stating that it tends to be right-center biased.	entailment
+The factuality of West SGV News is reported to be Questionable	entailment
+The factuality of West SGV News is reported to be Questionable, according to D. Van Zandt	entailment
+West SGV News relies on advertising for revenue	entailment
+West SGV News relies on donations for revenue	entailment
+When aggregating stories, West SGV News relies on information from **government and other publicly available sources**.	entailment
+West SGV News has an editorial bias towards **right-center**	entailment
+West SGV News is funded by the **United States** government	contradiction
+The West SGV News is a conservative	entailment
+West SGV News covers the following topics: conservative-leaning news	entailment

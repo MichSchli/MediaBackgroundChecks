@@ -1,0 +1,23 @@
+TEGNA is the founder of WHAS - Louisville News	contradiction
+TEGNA owns WHAS - Louisville News	entailment
+TEGNA is the owner of WHAS - Louisville News	entailment
+TEGNA bought WHAS - Louisville News	entailment
+TEGNA acquired WHAS - Louisville News	contradiction
+WHAS - Louisville News is funded through **advertising and sponsored content**.	entailment
+The remit of WHAS - Louisville News is to  report local news.	entailment
+The mission of WHAS - Louisville News is to serve the greater good of our communities	entailment
+The usual audience of WHAS - Louisville News is **residents of Louisville and surrounding areas**.	entailment
+WHAS - Louisville News tends to the Least Biased	entailment
+WHAS - Louisville News tends to the least biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on WHAS - Louisville News, stating that it tends to be **least biased**	entailment
+The factuality of WHAS - Louisville News is reported to be High	entailment
+The factuality of WHAS - Louisville News is reported to be high, according to mediabiasfactcheck.com.	entailment
+WHAS - Louisville News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+WHAS - Louisville News chose not to cover op-eds and reports on politics	entailment
+WHAS - Louisville News relies on advertising for revenue	entailment
+WHAS - Louisville News relies on subscriptions for revenue	contradiction
+WHAS - Louisville News relies on donations for revenue	contradiction
+When aggregating stories, WHAS - Louisville News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and other TEGNA TV stations.	entailment
+WHAS - Louisville News has an editorial bias towards **neither side**	entailment
+TEGNA is the editor of WHAS - Louisville News	contradiction
+WHAS - Louisville News had to apologize for **None in the Last 5 years**	entailment

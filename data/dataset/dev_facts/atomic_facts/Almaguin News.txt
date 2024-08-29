@@ -1,0 +1,18 @@
+Metroland Media Group Ltd. owns Almaguin News	entailment
+Metroland Media Group Ltd. acquired Almaguin News	contradiction
+Almaguin News is funded through **advertising**.	entailment
+The remit of Almaguin News is to report local news.	entailment
+The usual audience of Almaguin News is **local residents**	entailment
+Almaguin News tends to the left	entailment
+Almaguin News tends to the left according to Media Bias/Fact Check.	entailment
+Other sources have commented on Almaguin News, stating that it tends to be Left-Center biased	entailment
+The factuality of Almaguin News is reported to be High	entailment
+The factuality of Almaguin News is reported to be High, according to Mediabiasfactcheck.com	entailment
+Almaguin News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Almaguin News chose not to cover national or world news	entailment
+Almaguin News relies on advertising for revenue	entailment
+Almaguin News relies on subscriptions for revenue	contradiction
+Almaguin News relies on donations for revenue	contradiction
+Almaguin News has an editorial bias towards left	entailment
+Almaguin News printed a biased article titled "Eco-friendly fan for wood stoves and a battery-powered vacuum".	entailment
+Almaguin News had to apologize for **none**	entailment

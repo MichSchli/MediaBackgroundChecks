@@ -1,0 +1,22 @@
+Metric Media LLC leads Rome Reporter	entailment
+Metric Media Foundation owns Rome Reporter	entailment
+Rome Reporter is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Rome Reporter is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Rome Reporter is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of Rome Reporter is **right-center, biased, and Questionable**.	entailment
+Rome Reporter tends to the right-center	entailment
+Other sources have commented on Rome Reporter, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Rome Reporter is reported to be questionable.	entailment
+The factuality of Rome Reporter is reported to be Questionable, according to Media Bias Fact Check.	entailment
+The Rome Reporter failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+The Rome Reporter chose not to cover false information.	contradiction
+Rome Reporter relies on advertising for revenue	entailment
+Rome Reporter relies on donations for revenue	entailment
+The Rome Reporter has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Rome Reporter relies on information from **algorithmically produced content**	entailment
+Rome Reporter has endorsed right-center, biased, and Questionable.	entailment
+Rome Reporter has an editorial bias towards conservative-leaning news.	entailment
+Rome Reporter printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Rome Reporter printed a factually misleading titled "Imposter Site"	entailment
+The Rome Reporter is a conservative-leaning news website	entailment
+The Rome Reporter covers the following topics: conservative-leaning news	entailment

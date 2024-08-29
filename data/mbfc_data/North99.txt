@@ -1,0 +1,15 @@
+Factual Reporting: MIXED
+Country: Canada
+World Press Freedom Rank: Canada 16/180
+History
+According to their
+[about page](https://north99.org/about/) “North99 is a progressive media network for the many, not the few. Our contributors and supporters include progressive people across Canada united by a concern about rising inequality and the increasing influence of the far-right.” A [whois search](http://whois.domaintools.com/north99.org) reveals the domain was purchased in August of 2017. [Read our profile on Canadian Media and Government.](https://mediabiasfactcheck.com/canada-media-profile/)
+Funded by / Ownership
+North99 is a non-profit funded through
+[individual donations](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpDtls.html?corpId=10363987&V_TOKEN=1523521612968&crpNm=north99&crpNmbr=&bsNmbr=). The website claims they do not accept donations from corporations, but rather only from individual donors. The website does not list who owns North99, however, the non-profit registration lists Geoff Sharpe as the Director.
+Analysis / Bias
+North99 is a combination between a media source and an activist portal. The news reported always favors the left and uses loaded language such as this:
+[Voter Fraud, Illegal Fundraising, Racism – A Timeline of Every Doug Ford Ontario Election Controversy.](https://north99.org/2018/05/22/voter-fraud-illegal-fundraising-racism-a-timeline-of-every-doug-ford-ontario-election-controversy/) Essentially, the sole purpose of the website is to discredit right-wing politicians and policy in Canada. News articles are reasonably sourced to mainstream media outlets.
+Failed Fact Checks
+A
+[factual search](https://factualsearch.news/#/&gsc.tab=0&gsc.q=north99&gsc.sort=&gsc.ref=fact-check) reveals that North99 has failed a few fact checks. However, they [corrected some errors](https://factcheck.afp.com/changes-disability-support-cancer-patients-ontario-too-soon-tell) when discovered. Further, on 7/23/2019, the [CBC](https://mediabiasfactcheck.com/cbc-news-canadian-broadcasting/) published an article demonstrating [North99 using misleading online petitions](https://www.cbc.ca/news/technology/north99-petitions-facebook-election-1.5208209?fbclid=IwAR2trSj_706HzXfrtvPig4lEohTOIhuaGXCM3Lb2j2n7EX8eH0BxrhNRAWo), and again on 12/5/2019, they published another [false claim](https://factcheck.afp.com/average-teacher-salary-ontario-misrepresented-during-union-talks) resulting in a downgrade to Mixed factual.

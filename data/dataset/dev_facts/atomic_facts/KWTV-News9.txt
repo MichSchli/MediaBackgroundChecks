@@ -1,0 +1,16 @@
+Griffin Communications owns KWTV-News9	entailment
+Griffin Communications bought KWTV-News9	entailment
+Griffin Communications acquired KWTV-News9	entailment
+KWTV-News9 is funded through **advertising and sponsored content**	entailment
+The remit of KWTV-News9 is to cover local news, crime, entertainment, and sports for the Oklahoma City area.	entailment
+The mission of KWTV-News9 is to  report Least Biased based on minimal editorializing of content.	entailment
+The usual audience of KWTV-News9 is **local news, crime, entertainment, and sports for the Oklahoma City area**.	entailment
+KWTV-News9 tends to the **least biased** according to **mediabiasfactcheck.com**	entailment
+Other sources have commented on KWTV-News9, stating that it tends to be **Least Biased**.	entailment
+The factuality of KWTV-News9 is reported to be High	entailment
+The factuality of KWTV-News9 is reported to be High, according to Media Bias/Fact Check.	entailment
+KWTV-News9 failed a fact-check for an article titled None in the Last 5 years	entailment
+KWTV-News9 chose not to cover editorials.	entailment
+KWTV-News9 relies on advertising for revenue	entailment
+When aggregating stories, KWTV-News9 relies on information from the Associated Press.	entailment
+KWTV-News9 has an editorial bias towards Least Biased	entailment

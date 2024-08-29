@@ -1,0 +1,22 @@
+Daniel Kaufmann is the founder of Natural Resource Governance Institute	entailment
+Daniel Kaufmann leads Natural Resource Governance Institute	entailment
+Daniel Kaufmann is the owner of Natural Resource Governance Institute	entailment
+Natural Resource Governance Institute is funded through donations	entailment
+The remit of Natural Resource Governance Institute is to **promote sustainable and inclusive development**.	entailment
+The mission of Natural Resource Governance Institute is to promote sustainable and inclusive development.	entailment
+The usual audience of Natural Resource Governance Institute is civil society organizations, government institutions, private sector enterprises, and the media.	entailment
+Natural Resource Governance Institute tends to the promotion of sustainable resources	entailment
+Other sources have commented on Natural Resource Governance Institute, stating that it tends to be Left-Center Biased	entailment
+The factuality of Natural Resource Governance Institute is reported to be High	entailment
+The factuality of Natural Resource Governance Institute is reported to be High, according to D. Van Zandt 11/18/2016	entailment
+Natural Resource Governance Institute failed a fact-check for an article titled None in the Last 5 years.	entailment
+Natural Resource Governance Institute chose not to cover failed fact checks	entailment
+Natural Resource Governance Institute relies on advertising for revenue	contradiction
+Natural Resource Governance Institute relies on subscriptions for revenue	contradiction
+Natural Resource Governance Institute relies on donations for revenue	entailment
+Natural Resource Governance Institute has received donations from philanthropies like the Bill & Melinda Gates Foundation, the Ford Foundation, Luminate, the Open Society Foundations, and the William & Flora Hewlett Foundation; and public sector donors including the governments of Germany, Norway, Switzerland, the United Kingdom, and the United States, and multilateral institutions such as the World Bank and the African Legal Support Facility.	entailment
+When aggregating stories, Natural Resource Governance Institute relies on information from **press releases and news from other organizations**	entailment
+Natural Resource Governance Institute has endorsed **left-center biased**	entailment
+Natural Resource Governance Institute has an editorial bias towards **left-center biased**	entailment
+The Natural Resource Governance Institute is funded by the United States government.	entailment
+Natural Resource Governance Institute is a Left-Center Biased	entailment

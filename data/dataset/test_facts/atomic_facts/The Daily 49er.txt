@@ -1,0 +1,18 @@
+California State University owns The Daily 49er	entailment
+California State University is the owner of The Daily 49er	entailment
+California State University acquired The Daily 49er	entailment
+The Daily 49er is funded through online advertising	entailment
+The remit of The Daily 49er is to **serve California State University**	entailment
+The mission of The Daily 49er is to **serve California State University**	entailment
+The Daily 49er tends to the **left**	entailment
+Other sources have commented on The Daily 49er, stating that it tends to be **Left Biased**	entailment
+The factuality of The Daily 49er is reported to be high, according to source criticism.	entailment
+The Daily 49er failed a fact-check for an article titled "Trump lets down DACA recipients over Labor Day weekend"	contradiction
+The Daily 49er chose not to cover **Failed Fact Checks**	entailment
+The Daily 49er relies on advertising for revenue	entailment
+The Daily 49er relies on subscriptions for revenue	contradiction
+The Daily 49er relies on donations for revenue	entailment
+The Daily 49er has an editorial bias towards progressive causes	entailment
+The Daily 49er printed a biased article titled Checking up on Trump’s promises to the far-right.	entailment
+The Daily 49er is funded by the California State government	contradiction
+The Daily 49er is a student-run newspaper	contradiction

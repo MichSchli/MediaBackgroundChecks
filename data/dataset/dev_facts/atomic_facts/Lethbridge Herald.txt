@@ -1,0 +1,21 @@
+Alta Newspaper Group owns Lethbridge Herald	entailment
+Alta Newspaper Group bought Lethbridge Herald	entailment
+Lethbridge Herald is funded through advertising, subscription fees, and a paywall.	entailment
+The mission of Lethbridge Herald is to  **report news factually and with a left-leaning editorial bias**.	entailment
+Lethbridge Herald tends to the Left-Center	entailment
+Lethbridge Herald tends to the left-center according to Media Bias/Fact Check.	entailment
+Other sources have commented on Lethbridge Herald, stating that it tends to be Left-Center biased.	entailment
+The factuality of Lethbridge Herald is reported to be High	entailment
+The factuality of Lethbridge Herald is reported to be High, according to Mediabiasfactcheck.	entailment
+Lethbridge Herald failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Lethbridge Herald chose not to cover **failed fact checks**	entailment
+Lethbridge Herald relies on advertising for revenue	entailment
+Lethbridge Herald relies on subscriptions for revenue	entailment
+Lethbridge Herald relies on donations for revenue	contradiction
+When aggregating stories, Lethbridge Herald relies on information from [the Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Lethbridge Herald has endorsed the left	entailment
+Lethbridge Herald has an editorial bias towards left	entailment
+D. Van Zandt is the editor of Lethbridge Herald.	entailment
+Lethbridge Herald printed a biased article titled Left-Center biased based on editorial positions that moderately favor the left.	entailment
+Lethbridge Herald printed a factually misleading titled "Man charged in standoff with RCMP makes first appearance".	entailment
+Lethbridge Herald had to apologize for **none in the Last 5 years**	entailment

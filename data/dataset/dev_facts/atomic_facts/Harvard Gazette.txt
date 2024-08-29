@@ -1,0 +1,26 @@
+Founded founded Harvard Gazette	contradiction
+Harvard Gazette leads Harvard Gazette	contradiction
+Harvard University owns Harvard Gazette.	entailment
+Harvard University is the owner of Harvard Gazette	entailment
+Harvard University bought Harvard Gazette	contradiction
+Harvard University acquired Harvard Gazette.	entailment
+Harvard Gazette is funded through **the University**	entailment
+The remit of Harvard Gazette is to report news factually and with minimal bias	entailment
+The mission of Harvard Gazette is to report news factually and with minimal bias.	entailment
+The usual audience of Harvard Gazette is **individuals interested in Harvard University and broader national and global concerns**	entailment
+Harvard Gazette tends to the least biased	entailment
+Harvard Gazette tends to the **left** according to **Media Bias Fact Check**	contradiction
+Other sources have commented on Harvard Gazette, stating that it tends to be **Least Biased**	entailment
+The factuality of Harvard Gazette is reported to be High	entailment
+The factuality of Harvard Gazette is reported to be High, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Harvard Gazette failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Harvard Gazette printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+Harvard Gazette chose not to cover Failed Fact Checks	entailment
+Harvard Gazette relies on advertising for revenue	contradiction
+Harvard Gazette relies on subscriptions for revenue	contradiction
+Harvard Gazette relies on donations for revenue	contradiction
+Harvard Gazette has received donations from Harvard University	contradiction
+When aggregating stories, Harvard Gazette relies on information from [original reporting].	entailment
+Harvard Gazette has endorsed Least Biased	entailment
+Harvard Gazette has an editorial bias towards Least Biased	entailment
+Harvard Gazette printed a biased article titled "Democrats and Republicans do live in different worlds".	contradiction

@@ -1,0 +1,22 @@
+Metric Media LLC founded Detroit City Wire	entailment
+Detroit City Wire leads Detroit City Wire	entailment
+Metric Media Foundation owns Detroit City Wire	entailment
+Detroit City Wire is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Detroit City Wire is to **look like a local news source**	entailment
+The mission of Detroit City Wire is to provide objective, data-driven information without political bias.	contradiction
+The usual audience of Detroit City Wire is **right-center, biased, and Questionable**	entailment
+Detroit City Wire tends to the right-center, biased, and Questionable	entailment
+Detroit City Wire tends to the right-center according to D. Van Zandt 	entailment
+Other sources have commented on Detroit City Wire, stating that it tends to be **right-center, biased, and Questionable**	entailment
+The factuality of Detroit City Wire is reported to be **Questionable**.	entailment
+The factuality of Detroit City Wire is reported to be Questionable, according to D. Van Zandt.	entailment
+Detroit City Wire chose not to cover imposter sites, lack transparency, and publish false information.	entailment
+Detroit City Wire provides original content written by staff journalists	contradiction
+Detroit City Wire relies on advertising for revenue	entailment
+Detroit City Wire relies on subscriptions for revenue	contradiction
+Detroit City Wire relies on donations for revenue	entailment
+When aggregating stories, Detroit City Wire relies on information from **algorithmically produced content**.	entailment
+The Detroit City Wire has endorsed right-center, biased, and Questionable	entailment
+Detroit City Wire has an editorial bias towards **right-center, biased**	entailment
+Detroit City Wire printed a biased article titled **An Imposter Site Lacking Transparency and Publishing False Information**	entailment
+Detroit City Wire printed a factually misleading titled "Imposter Site Lacking Transparency and Publishing False Information"	entailment

@@ -1,0 +1,10 @@
+History
+The
+[Times of San Diego](https://en.wikipedia.org/wiki/Media_in_San_Diego) is a Web-based news outlet founded in 2014. The Times of San Diego provides full daily news coverage in a large metro area rather than infrequent in-depth articles. According to their [about page](https://timesofsandiego.com/about/), “Times of San Diego’s focus is timely, comprehensive news about this unique county. We cover politics and crime, business and sports, education and arts, military and science, life and opinion.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website is owned by Times of San Diego LLC. Advertising is generated through advertising.
+Analysis / Bias
+The Times of San Diego covers news for the city of San Diego. Articles and headlines use minimally loaded language, such as this
+[Man Pleads Not Guilty to Killing Man Found Buried on Fallbrook Property](https://timesofsandiego.com/crime/2021/07/21/man-pleads-not-guilty-to-killing-man-found-buried-on-fallbrook-property/). Despite an opinion piece by editor Chris Jennewein: [http://timesofsandiego.com/opinion/2017/07/28/opinion-what-the-uss-rafael-peralta-says-about-the-idea-of-america/](http://timesofsandiego.com/opinion/2017/07/28/opinion-what-the-uss-rafael-peralta-says-about-the-idea-of-america/) that indicates a slight left bias, most of the articles has minimal bias and maintains factual reporting and neutral words.
+Failed Fact Checks
+- None in the Last 5 years

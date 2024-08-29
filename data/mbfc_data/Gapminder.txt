@@ -1,0 +1,14 @@
+History
+Founded in 2005,
+[Gapminder](https://www.gapminder.org/about/) is a Swedish fact tank led by President and co-founder [Ola Rosling](https://www.gapminder.org/about/about-gapminder/team/). It focuses on identifying systematic misconceptions about critical global trends and proportions. The foundation collaborates with educational and international organizations, and It then uses reliable data to develop easy-to-understand teaching materials. [Hans Rosling](https://static.gapminder.org/GapminderMedia/wp-uploads/press_media/Fact_based_world_view.pdf), a Swedish professor, was a global health researcher and adviser to [WHO](https://mediabiasfactcheck.com/world-health-organization-who/) and UNICEF until his passing in 2017. [Read our profile on Sweden’s media and government.](https://mediabiasfactcheck.com/sweden-media-profile/)
+Funded by / Ownership
+Gapminder is a foundation, and its tools and teaching materials are free. The website does not disclose specific funding sources but accepts donations.
+Analysis / Bias
+Gapminder aims to provide a fact-based worldview by answering common questions about global proportions and macro trends. For example, one of their videos,
+[“How Can the World Population Forecasts Be so Good?”](https://www.gapminder.org/answers/how-can-the-world-population-forecasts-be-so-good/) uses data and visual aids to explain population forecasts. The language used is neutral, and the data back the information.
+Another video,
+[“How Did Babies per Woman Change in Different Regions?”](https://www.gapminder.org/answers/how-did-babies-per-woman-change-in-different-regions/) also employs data visualization to explain changes in birth rates across different regions. The site maintains a neutral tone and relies on credible data for its claims.
+The
+[“Resources”](https://www.gapminder.org/resources/) page is a comprehensive educational hub for anyone looking to understand global trends and development through a fact-based lens. It offers a variety of high-quality, data-driven materials that are informative and accessible. While Gapminder’s resources are data-driven and educational, the age of some videos could make them less relevant to current global trends and issues. This is especially important for rapidly evolving topics, where outdated information may not provide a complete or accurate picture. Therefore, users should consider the age of these resources when interpreting the information. Gapminder generally maintains a factual and unbiased approach, making it a reliable source for educational content.
+Failed Fact Checks
+- None in the Last 5 years. They have been used as a resource for fact-checkers.

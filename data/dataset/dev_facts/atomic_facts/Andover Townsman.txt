@@ -1,0 +1,20 @@
+CNHI Inc is the founder of Andover Townsman	entailment
+Community Newspaper Holdings Inc owns Andover Townsman	entailment
+Community Newspaper Holdings Inc is the owner of Andover Townsman	entailment
+Community Newspaper Holdings Inc bought Andover Townsman	entailment
+Andover Townsman is funded through **advertising and subscription fees**	entailment
+The remit of Andover Townsman is to cover crime, sports, entertainment, and politics for the Andover, Massachusettes region.	entailment
+The mission of Andover Townsman is to **cover crime, sports, entertainment, and politics for the Andover, Massachusetts region**	entailment
+Andover Townsman tends to the left.	entailment
+Andover Townsman tends to the left-center according to editorial positions	entailment
+Other sources have commented on Andover Townsman, stating that it tends to be **slightly Left-Center Biased**.	entailment
+The factuality of Andover Townsman is reported to be High	entailment
+The factuality of Andover Townsman is reported to be High, according to Media Bias Fact Check	entailment
+Andover Townsman failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Andover Townsman printed a retraction after failing a fact-check for an article titled **Andover moving forward with more study recommendations**.	contradiction
+Andover Townsman chose not to cover **international news**	entailment
+Andover Townsman relies on advertising for revenue	entailment
+Andover Townsman relies on subscriptions for revenue	entailment
+Andover Townsman relies on donations for revenue	entailment
+Andover Townsman has endorsed a liberal perspective	entailment
+Andover Townsman has an editorial bias towards slightly Left-Center Biased	entailment

@@ -1,0 +1,17 @@
+Citizen Free Press is funded through donations.	entailment
+The remit of Citizen Free Press is to link to other right-biased news stories or publish their own, often with minimal dialogue that relies on video or tweet sourcing.	entailment
+The mission of Citizen Free Press is to disseminate right-biased news stories and their own emotionally loaded articles, often sourced from right-leaning media.	entailment
+The usual audience of Citizen Free Press is **individuals who lean towards the right or are interested in right-biased news stories**.	entailment
+Citizen Free Press tends to the Right Biased	entailment
+Citizen Free Press tends to the right according to D. Van Zandt	entailment
+Other sources have commented on Citizen Free Press, stating that it tends to be Right Biased.	entailment
+The factuality of Citizen Free Press is reported to be Mixed	entailment
+The factuality of Citizen Free Press is reported to be Mixed, according to Van Zandt.	entailment
+Citizen Free Press failed a fact-check for an article titled **A video shows protesters and members of antifa attacking the Texas Children’s Hospital**	contradiction
+Citizen Free Press chose not to cover **certain news stories**	entailment
+When aggregating stories, Citizen Free Press relies on information from **right-leaning media**.	entailment
+Citizen Free Press has endorsed right-leaning news stories	entailment
+Citizen Free Press has an editorial bias towards **the right**	entailment
+Citizen Free Press was fined 	entailment
+Citizen Free Press printed a biased article titled "Black MSNBC Pundit Feels The HEAT After Making Light of Mollie Tibbetts’ Murder…".	entailment
+Citizen Free Press had to apologize to no one for anything	entailment

@@ -1,0 +1,25 @@
+Anthony founded Watts Up with that	entailment
+Anthony Watts is the founder of Watts Up with that	entailment
+Watts Up with that leads	entailment
+Anthony Watts owns Watts Up with that	entailment
+Anthony Watts is the owner of Watts Up with that	entailment
+Watts Up with that acquired	entailment
+Watts Up with that is funded through advertising and donations	entailment
+The remit of Watts Up with that is to **debunk human-influenced climate change**	entailment
+The mission of Watts Up with that is to **promote climate change denial**	entailment
+The usual audience of Watts Up with that is climate change deniers	entailment
+Watts Up with that tends to the promotion of climate change denial.	entailment
+Other sources have commented on Watts Up with that, stating that it tends to be **pseudoscience and conspiracy website**	entailment
+The factuality of Watts Up with that is reported to be pseudoscience and conspiracy website.	entailment
+The factuality of Watts Up with that is reported to be  strong , according to  D. Van Zandt .	contradiction
+Watts Up with that failed a fact-check for an article titled "More Embarrassment: COP26 Luxury EVs to be Recharged Using Diesel Generators"	contradiction
+Watts Up with that chose not to cover **scientific consensus on climate change**	entailment
+Watts Up with that relies on advertising for revenue	entailment
+Watts Up with that relies on donations for revenue	entailment
+Watts Up with that has received donations from **advertising and donations**	entailment
+When aggregating stories, Watts Up with that relies on information from advertising and donations	entailment
+Watts Up with that has endorsed **climate change denial**	entailment
+Watts Up with that has an editorial bias towards climate change denial	entailment
+Watts Up with that printed a factually misleading titled **Great Barrier Reef Sea Surface Temperature: No Change In 150 Years**.	entailment
+"Watts Up with that is funded by the United States government?"	contradiction
+Watts Up with that is a blog	entailment

@@ -1,0 +1,20 @@
+USSA News is funded through donations, online advertising, and a store that sells conservative-themed merchandise.	entailment
+The remit of USSA News is to **promote right-wing propaganda and conspiracy theories to advance its political agenda**	entailment
+The mission of USSA News is to **promote right-wing propaganda and conspiracy theories to advance its political agenda**	entailment
+The usual audience of USSA News is **individuals who lean towards the right and/or libertarian positions**.	entailment
+USSA News tends to the right	entailment
+USSA News tends to the right according to Media Bias/Fact Check	entailment
+Other sources have commented on USSA News, stating that it tends to be **right biased and questionable**.	entailment
+The factuality of USSA News is reported to be Questionable.	entailment
+The factuality of USSA News is reported to be low, according to its analysis.	entailment
+USSA News printed a retraction after failing a fact-check for an article titled **"human cages" found in Caruthers, California are being used to hold human trafficking victims captive.**	entailment
+USSA News chose not to cover **stories related to Covid-19 vaccines**	contradiction
+USSA News relies on advertising for revenue	entailment
+USSA News relies on subscriptions for revenue	entailment
+USSA News relies on donations for revenue	entailment
+When aggregating stories, USSA News relies on information from other right-wing sites with a mixed factual track record.	entailment
+USSA News has endorsed right-wing propaganda and conspiracy theories.	entailment
+USSA News has an editorial bias towards **right-wing and libertarian positions**	entailment
+USSA News printed a biased article titled "COVID 19 Is Definitely Man-Made: A Timeline of Bio-Terror".	entailment
+USSA News printed a factually misleading titled **"COVID 19 Is Definitely Man-Made: A Timeline of Bio-Terror"**	entailment
+USSA News had to apologize for **several failed fact checks**	entailment

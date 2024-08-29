@@ -1,0 +1,22 @@
+Metric Media Foundation owns NE Kentucky News	entailment
+Metric Media LLC is the owner of NE Kentucky News	entailment
+Metric Media LLC acquired NE Kentucky News	entailment
+NE Kentucky News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of NE Kentucky News is to **act as an imposter site, lack transparency, and publish false information**	entailment
+The mission of NE Kentucky News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of NE Kentucky News is **conservative-leaning**	entailment
+The NE Kentucky News tends to the **right-center biased**	entailment
+Other sources have commented on NE Kentucky News, stating that it tends to be **right-center biased**.	entailment
+The factuality of NE Kentucky News is reported to be **Questionable**.	entailment
+The factuality of NE Kentucky News is reported to be **Questionable**, according to **Media Bias/Fact Check**.	entailment
+NE Kentucky News relies on advertising for revenue	entailment
+NE Kentucky News relies on donations for revenue	entailment
+NE Kentucky News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, NE Kentucky News relies on information from **algorithmically produced content**.	entailment
+NE Kentucky News has endorsed right-center, biased, and Questionable.	entailment
+NE Kentucky News has an editorial bias towards right-center	entailment
+NE Kentucky News printed a biased article titled "NE Kentucky News: An Imposter Site with a Conservative Lean."	entailment
+NE Kentucky News printed a factually misleading titled imposter site	entailment
+The NE Kentucky News is funded by the Metric Media Foundation	entailment
+NE Kentucky News is a  right-center, biased, and Questionable.	entailment
+The NE Kentucky News covers the following topics:  conservative-leaning news.	entailment

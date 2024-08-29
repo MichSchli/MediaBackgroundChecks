@@ -1,0 +1,24 @@
+Mike Adams founded Snopes.News	contradiction
+Mike Adams is the founder of Snopes.News	entailment
+Mike Adams owns Snopes.News	entailment
+Mike Adams is the owner of Snopes.News	entailment
+Snopes.News is funded through online advertising.	entailment
+The remit of Snopes.News is to **publish false information and promote extreme right-wing biased content**	entailment
+The mission of Snopes.News is to  debunk fake news and disinformation.	contradiction
+The usual audience of Snopes.News is extreme right biased Tin-Foil Hat Conspiracy website	entailment
+Snopes.News tends to the extreme right biased Tin-Foil Hat Conspiracy website.	entailment
+Snopes.News tends to the extreme right biased Tin-Foil Hat Conspiracy website according to Mike Adams	entailment
+Other sources have commented on Snopes.News, stating that it tends to be **extreme right biased Tin-Foil Hat Conspiracy website**.	entailment
+The factuality of Snopes.News is reported to be **low**	entailment
+The factuality of Snopes.News is reported to be **extreme right biased** according to **Media Bias/Fact Check**	entailment
+Snopes.News chose not to cover **climate change**	entailment
+Snopes.News relies on advertising for revenue	entailment
+Snopes.News relies on subscriptions for revenue	contradiction
+Snopes.News relies on donations for revenue	contradiction
+Snopes.News has received donations from **online advertising**	entailment
+When aggregating stories, Snopes.News relies on information from **Mike Adams**	entailment
+Snopes.News has endorsed right-wing conspiracy theories and pseudoscience websites	entailment
+Snopes.News has an editorial bias towards extreme right biased Tin-Foil Hat Conspiracy.	entailment
+Snopes.News printed a biased article titled **"Chemtrails, Sandy Hook, and Anti-Vaccination: The False Narratives Spread by Snopes.News"**	entailment
+Snopes.News printed a factually misleading titled "Tin-Foil Hat Conspiracy website that also publishes pseudoscience."	entailment
+Snopes.News had to apologize to no one for nothing	entailment

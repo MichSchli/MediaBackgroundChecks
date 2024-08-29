@@ -1,0 +1,25 @@
+Science Immunology Journal is the founder of Science Immunology Journal	contradiction
+The American Association for the Advancement of Science (AAAS) owns Science Immunology Journal	entailment
+The American Association for the Advancement of Science (AAAS) is the owner of Science Immunology Journal	entailment
+Science Immunology Journal bought Science Immunology Journal	contradiction
+AAAS acquired Science Immunology Journal	entailment
+Science Immunology Journal is funded through donations, advertising, and subscriptions	entailment
+The remit of Science Immunology Journal is to report on politics or produce opinion pieces.	contradiction
+The usual audience of Science Immunology Journal is **academics and researchers**	entailment
+Science Immunology Journal tends to the PRO-SCIENCEFact Checks	entailment
+Other sources have commented on Science Immunology Journal, stating that it tends to be Pro-Science.	entailment
+The factuality of Science Immunology Journal is reported to be very high	entailment
+The factuality of Science Immunology Journal is reported to be very high, according to a review by Mediabiasfactcheck.com.	entailment
+Science Immunology Journal failed a fact-check for an article titled Lack of CD8+ T cell effector differentiation during priming mediates checkpoint blockade resistance in non–small cell lung cancer	contradiction
+Science Immunology Journal chose not to cover politics or produce opinion pieces	entailment
+Science Immunology Journal relies on advertising for revenue	entailment
+Science Immunology Journal relies on subscriptions for revenue	entailment
+Science Immunology Journal relies on donations for revenue	entailment
+Science Immunology Journal has received donations from the American Association for the Advancement of Science (AAAS)	entailment
+When aggregating stories, Science Immunology Journal relies on information from **peer-reviewed scientific studies and discoveries**.	entailment
+Science Immunology Journal has endorsed **pro-Science**	entailment
+Science Immunology Journal has an editorial bias towards Pro-Science.	entailment
+Science Immunology Journal printed a biased article titled Lack of CD8+ T cell effector differentiation during priming mediates checkpoint blockade resistance in non–small cell lung cancer	contradiction
+Science Immunology Journal is a Pro-Science	entailment
+Science Immunology Journal uses a peer review process	entailment
+Science Immunology Journal covers the following topics:  Immunology	entailment

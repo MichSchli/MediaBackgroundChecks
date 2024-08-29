@@ -1,0 +1,20 @@
+CherryRoad Media owns Arenac County Independent	entailment
+CherryRoad Media is the owner of Arenac County Independent	entailment
+CherryRoad Media bought Arenac County Independent	entailment
+Arenac County Independent is funded through advertising and paid subscriptions	entailment
+The remit of Arenac County Independent is to **cover news, sports, community, and crime for the greater Arenac County, Michigan, area**	entailment
+The mission of Arenac County Independent is to **cover news, sports, community, and crime for the greater Arenac County, Michigan, area**.	entailment
+The usual audience of Arenac County Independent is **residents of Arenac County, Michigan**	contradiction
+The Arenac County Independent tends to the greater Arenac County, Michigan, area	entailment
+Other sources have commented on Arenac County Independent, stating that it tends to be **Least Biased**	entailment
+The factuality of Arenac County Independent is reported to be High	entailment
+The factuality of Arenac County Independent is reported to be High, according to mediabiasfactcheck.com.	entailment
+Arenac County Independent failed a fact-check for an article titled None in the Last 5 years	contradiction
+Arenac County Independent printed a retraction after failing a fact-check for an article titled "County ranks 49th in state deer harvests"	contradiction
+The Arenac County Independent chose not to cover failed fact checks	entailment
+Arenac County Independent relies on advertising for revenue	entailment
+Arenac County Independent relies on subscriptions for revenue	entailment
+When aggregating stories, Arenac County Independent relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Arenac County Independent has an editorial bias towards Least Biased	entailment
+The Arenac County Independent was fined 	entailment
+Arenac County Independent had to apologize for **None in the Last 5 years**	entailment

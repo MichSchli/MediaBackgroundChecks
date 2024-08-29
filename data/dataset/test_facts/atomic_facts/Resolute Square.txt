@@ -1,0 +1,17 @@
+Resolute Square is funded through **an online shop that sells merchandise and membership fees**	entailment
+The remit of Resolute Square is to promote democratic values	entailment
+The mission of Resolute Square is to preserve democracy	entailment
+The usual audience of Resolute Square is left-leaning	entailment
+Resolute Square tends to the left	entailment
+Other sources have commented on Resolute Square, stating that it tends to be left-leaning.	entailment
+The factuality of Resolute Square is reported to be High	entailment
+The factuality of Resolute Square is reported to be High, according to a source criticism by Media Bias Fact Check.	entailment
+Resolute Square chose not to cover conservatives and republicans	entailment
+Resolute Square relies on advertising for revenue	contradiction
+Resolute Square relies on subscriptions for revenue	entailment
+Resolute Square has endorsed left-leaning editorial bias	entailment
+Resolute Square has an editorial bias towards left-leaning.	entailment
+Resolute Square printed a biased article titled **Why We Need Resolute Square Now**	entailment
+Resolute Square is funded by the **Public Benefit** government	contradiction
+Resolute Square is a website	entailment
+Resolute Square covers the following topics:  left-leaning editorial bias	entailment

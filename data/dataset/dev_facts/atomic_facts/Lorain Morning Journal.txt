@@ -1,0 +1,23 @@
+MediaNews Group owns Lorain Morning Journal	entailment
+MediaNews Group is the owner of Lorain Morning Journal	entailment
+MediaNews Group acquired Lorain Morning Journal	entailment
+The Lorain Morning Journal is funded through advertising and subscription fees.	entailment
+The remit of Lorain Morning Journal is to  provide local news, sports, crime, lifestyle, and opinion coverage.	entailment
+The mission of Lorain Morning Journal is to report factually and with credible sources, while op-eds are mostly balanced with differing viewpoints.	entailment
+The usual audience of Lorain Morning Journal is **local and regional residents**	entailment
+The Lorain Morning Journal tends to the **Least Biased**	entailment
+Lorain Morning Journal tends to the least biased based on sound journalism and balanced editorial positions according to D. Van Zandt 04/23/2023	entailment
+Other sources have commented on Lorain Morning Journal, stating that it tends to be **least biased**.	entailment
+The factuality of Lorain Morning Journal is reported to be High	entailment
+The factuality of Lorain Morning Journal is reported to be high, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Lorain Morning Journal failed a fact-check for an article titled None in the Last 5 years	contradiction
+Lorain Morning Journal printed a retraction after failing a fact-check for an article titled ""	contradiction
+Lorain Morning Journal chose not to cover **failed fact checks**	entailment
+Lorain Morning Journal relies on advertising for revenue	entailment
+Lorain Morning Journal relies on subscriptions for revenue	entailment
+Lorain Morning Journal relies on donations for revenue	contradiction
+When aggregating stories, Lorain Morning Journal relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Washington Post](https://mediabiasfactcheck.com/washington-post/).	entailment
+Lorain Morning Journal has endorsed least biased based on sound journalism and balanced editorial positions	entailment
+Lorain Morning Journal has an editorial bias towards **least biased**	entailment
+Lorain Morning Journal printed a biased article titled LeastbiasedBasedonSoundJournalismandBalancedEditorialPositions	contradiction
+The Lorain Morning Journal had to apologize for **None in the Last 5 years**	entailment

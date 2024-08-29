@@ -1,0 +1,27 @@
+Mark Russell is the CEO of Memphis Commercial Appeal	contradiction
+Mark Russell leads Memphis Commercial Appeal	entailment
+Gannett owns Memphis Commercial Appeal	entailment
+Gannett is the owner of Memphis Commercial Appeal	entailment
+Gannett bought Memphis Commercial Appeal	entailment
+Gannett acquired Memphis Commercial Appeal	entailment
+Memphis Commercial Appeal is funded through advertising and paid subscriptions.	entailment
+The remit of Memphis Commercial Appeal is to report factual news and provide balanced editorials.	entailment
+The mission of Memphis Commercial Appeal is to provide factual news reporting and reasonably balanced editorials.	entailment
+Memphis Commercial Appeal tends to the **left**	entailment
+Other sources have commented on Memphis Commercial Appeal, stating that it tends to be **Least Biased**.	entailment
+The factuality of Memphis Commercial Appeal is reported to be High	entailment
+The factuality of Memphis Commercial Appeal is reported to be High, according to D. Van Zandt	entailment
+Memphis Commercial Appeal failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Memphis Commercial Appeal chose not to cover failed fact checks	entailment
+Memphis Commercial Appeal relies on advertising for revenue	entailment
+Memphis Commercial Appeal relies on subscriptions for revenue	entailment
+Memphis Commercial Appeal relies on donations for revenue	contradiction
+When aggregating stories, Memphis Commercial Appeal relies on information from **USA Today Network and the Associated Press**	entailment
+The Memphis Commercial Appeal has endorsed Democratic and Republican candidates	entailment
+Memphis Commercial Appeal has an editorial bias towards **least biased**	entailment
+Mark Russell is the editor of Memphis Commercial Appeal	entailment
+Memphis Commercial Appeal had to apologize for **none**	entailment
+Memphis Commercial Appeal's headquarter is located in Memphis	entailment
+The Memphis Commercial Appeal is funded by the private government	contradiction
+The Memphis Commercial Appeal is a daily newspaper	entailment
+Memphis Commercial Appeal uses a peer review process	entailment

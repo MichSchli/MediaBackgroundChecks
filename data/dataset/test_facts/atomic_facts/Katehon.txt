@@ -1,0 +1,21 @@
+Konstantin Malofeev is the founder of Katehon	entailment
+The remit of Katehon is to  promote pro-Russian propaganda, conspiracy theories, pseudoscience, false claims, poor sourcing, and a lack of transparency.	entailment
+The mission of Katehon is to **promote pro-Russian propaganda, conspiracy theories, pseudoscience, false claims, poor sourcing, and a lack of transparency.**	entailment
+The usual audience of Katehon is Far-Right Biased.	entailment
+Katehon tends to the **Far-Right biased think tank that routinely publishes misinformation, pro-Russian propaganda, and conspiracy theories**	entailment
+Other sources have commented on Katehon, stating that it tends to be Far-Right Biased.	entailment
+The factuality of Katehon is reported to be  questionable	entailment
+The factuality of Katehon is reported to be **questionable**, according to **Media Bias Fact Check**.	entailment
+Katehon failed a fact-check for an article titled "Genocide occurring to Russians in the Donbas".	entailment
+Katehon chose not to cover "genocide occurring to Russians in the Donbas," "Ukrainian Nazism," or "Covid-19 disinformation."	contradiction
+Katehon relies on advertising for revenue	contradiction
+Katehon relies on donations for revenue	entailment
+When aggregating stories, Katehon relies on information from Far-Right biased think tanks, routinely publishing misinformation, pro-Russian propaganda, and conspiracy theories.	entailment
+Katehon has endorsed **pro-Russian propaganda, conspiracy theories, pseudoscience, false claims, poor sourcing, and a lack of transparency**.	entailment
+Katehon has an editorial bias towards **Far-Right**	entailment
+"Fined $10 Million U.S. investment"	entailment
+Katehon printed a biased article titled **"Victory or Nothing."**	entailment
+Katehon had to apologize to Ukraine for threatening Ukraine.	entailment
+Katehon is a  Far-Right Biased Think Tank	entailment
+Katehon uses an internal fact-checking process	contradiction
+Katehon covers the following topics: Russian Government narrative, pro-Putin articles, news, former President Trump, American conspiracy theorists.	entailment

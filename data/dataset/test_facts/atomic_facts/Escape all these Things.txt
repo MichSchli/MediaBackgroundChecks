@@ -1,0 +1,22 @@
+Tim McHyde is the founder of Escape all these Things	entailment
+Tim McHyde owns Escape all these Things	entailment
+Tim McHyde is the owner of Escape all these Things	entailment
+Tim Mchyde bought Escape all these Things	contradiction
+Tim McHyde acquired Escape all these Things	entailment
+Escape all these Things is funded through donations	entailment
+The remit of Escape all these Things is to sell his book called “Know the Future.”	entailment
+The mission of Escape all these Things is to  sell his book called “Know the Future.”	entailment
+The usual audience of Escape all these Things is *gullible*.	entailment
+Escape all these Things tends to the **promotion of failed Christain prophecy and moving the goalposts accordingly**	entailment
+Other sources have commented on Escape all these Things, stating that it tends to be a scam site.	entailment
+The factuality of Escape all these Things is reported to be fake	entailment
+The factuality of Escape all these Things is reported to be fraudulent, according to Media Bias Fact Check.	entailment
+Escape all these Things chose not to cover fake Christian organization that plays on the gullible with the end of times and, when it doesn’t happen, rationalizes to the future to keep the donations flowing.	entailment
+Escape all these Things provides original content written by staff journalists	contradiction
+Escape all these Things relies on subscriptions for revenue	contradiction
+Escape all these Things relies on donations for revenue	entailment
+Escape all these Things has endorsed **the hard, overlooked passages**	entailment
+Escape all these Things has an editorial bias towards **Fundamentalist Christianity**.	entailment
+Escape all these Things printed a biased article titled "2026 in Prophecy"	entailment
+Escape all these Things printed a factually misleading titled **"Why I’m Convinced The End Begins in 2026—And What You Can Do About It."**	entailment
+Escape all these Things is a website	entailment

@@ -1,0 +1,18 @@
+MediaNews Group owns Eureka Times-Standard	entailment
+MediaNews Group bought Eureka Times-Standard	entailment
+Eureka Times-Standard is funded through advertising and subscription fees.	entailment
+The mission of Eureka Times-Standard is to report factual and with credible sources.	entailment
+The usual audience of Eureka Times-Standard is least biased based on sound journalism and balanced editorial positions.	entailment
+Eureka Times-Standard tends to the least biased based on sound journalism according to Media Bias Fact Check.	entailment
+Other sources have commented on Eureka Times-Standard, stating that it tends to be **least biased**.	entailment
+The factuality of Eureka Times-Standard is reported to be High	entailment
+The factuality of Eureka Times-Standard is reported to be high, according to a review by Media Bias Fact Check.	entailment
+Eureka Times-Standard failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Eureka Times-Standard chose not to cover **any failed fact checks**	entailment
+Eureka Times-Standard relies on advertising for revenue	entailment
+Eureka Times-Standard relies on subscriptions for revenue	entailment
+Eureka Times-Standard relies on donations for revenue	contradiction
+When aggregating stories, Eureka Times-Standard relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Washington Post](https://mediabiasfactcheck.com/washington-post/).	entailment
+Eureka Times-Standard has endorsed least biased based on sound journalism and balanced editorial positions.	entailment
+Eureka Times-Standard has an editorial bias towards least biased based on sound journalism and balanced editorial positions.	entailment
+Eureka Times-Standard had to apologize for None in the Last 5 years	entailment

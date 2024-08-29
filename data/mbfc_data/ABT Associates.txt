@@ -1,0 +1,11 @@
+History
+Founded in 1965, ABT Associates is a market research company based in Cambridge, Massachusetts. According to their
+[about page](https://www.abtassociates.com/who-we-are), “Abt Associates is an engine for social impact, fueled by caring, curiosity and cutting-edge research that moves people from vulnerability to security. Whether it’s welfare or weather disasters, the environment or economics, agriculture or HIV and AIDS, we address the world’s most pressing issues.” [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+ABT Associates is a private company that has been hired for political polling by companies like
+[ABC News](https://mediabiasfactcheck.com/abc-news/), the [Washington Post](https://mediabiasfactcheck.com/2021/03/17/media-bias-fact-check-downgrades-the-washington-post/), and the University of Massachusetts. Revenue is derived through sales of services.
+Analysis / Bias
+ABT Associates conducts market research and polling via various mediums. The website does not generally report on politics, but it openly advocates for
+[social issues](https://www.abtassociates.com/projects/working-towards-ending-youth-homelessness) that align with the left. [FiveThirtyEight](https://mediabiasfactcheck.com/fivethirtyeight/), an expert on measuring and rating pollster performance, has [evaluated 15 polls](https://projects.fivethirtyeight.com/pollster-ratings/) by ABT Associates, earning 2.5 stars for accuracy, indicating they are High factually by MBFC’s criteria. They also conclude that their polling slightly favors the Left with a score of +0.8, which equates to Least Biased overall in polling bias. In general, ABT Associates is considered to be highly accurate and demonstrates minimal bias in polling.
+Failed Fact Checks
+- None in the Last 5 years

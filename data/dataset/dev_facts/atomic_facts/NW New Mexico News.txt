@@ -1,0 +1,24 @@
+Bradley Cameron founded NW New Mexico News	entailment
+NW New Mexico News leads NW New Mexico News	contradiction
+Metric Media LLC owns NW New Mexico News	entailment
+NW New Mexico News acquired NW New Mexico News	entailment
+NW New Mexico News is funded through **advertising and donations to the Metric Media Foundation**.	entailment
+The remit of NW New Mexico News is to **publish false information, lack transparency, and be an imposter site**	entailment
+The mission of NW New Mexico News is to **fill the void in community news after years of decline in local reporting by legacy media**.	contradiction
+The usual audience of NW New Mexico News is **right-center, biased, and Questionable**.	entailment
+NW New Mexico News tends to the right-center	entailment
+NW New Mexico News tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on NW New Mexico News, stating that it tends to be **right-center**.	entailment
+The factuality of NW New Mexico News is reported to be Questionable	entailment
+The factuality of NW New Mexico News is reported to be Questionable, according to D. Van Zandt 	entailment
+NW New Mexico News failed a fact-check for an article titled "COVID-19 Cases Soar in Local Community".	entailment
+NW New Mexico News chose not to cover false information.	contradiction
+NW New Mexico News provides original content written by staff journalists	contradiction
+NW New Mexico News relies on advertising for revenue	entailment
+NW New Mexico News relies on donations for revenue	entailment
+NW New Mexico News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, NW New Mexico News relies on information from **algorithmically produced content**.	entailment
+NW New Mexico News has endorsed right-center, biased, and Questionable	entailment
+NW New Mexico News has an editorial bias towards right-center.	entailment
+NW New Mexico News printed a biased article titled "Imposter Local News Site Lacks Transparency and Publishes False Information"	entailment
+NW New Mexico News printed a factually misleading titled Imposter Site.	entailment

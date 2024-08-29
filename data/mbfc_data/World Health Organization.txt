@@ -1,0 +1,14 @@
+History
+The World Health Organization is a specialized agency of the United Nations that is concerned with international public health. It was established on
+[7 April 1948](https://en.wikipedia.org/wiki/World_Health_Organization), headquartered in Geneva, Switzerland. The World Health Organization has position papers on virtually every health issue, and its opinion is the consensus of medical experts worldwide.
+WHO is currently helping coordinate a worldwide response to
+[COVID-19](https://www.kff.org/global-health-policy/fact-sheet/the-u-s-government-and-the-world-health-organization/), declared a public health emergency of international concern (PHEIC) on January 30 and a global pandemic on March 11, 2020. [Read our profile on Switzerland’s media and government.](https://mediabiasfactcheck.com/switzerland-media-profile/)
+Funded by / Ownership
+The WHO relies on
+[contributions from member states](https://www.kff.org/global-health-policy/fact-sheet/the-u-s-government-and-the-world-health-organization/) (both assessed and voluntary) and private donors for funding. As of 2018, it has a budget of over $4.2 billion, most of which comes from voluntary contributions from member states.
+Analysis / Bias
+In review, the WHO “act as the directing and coordinating authority on international health work.” The website publishes health resources, news about the agency, and research. They also collect health data located on their
+[Data page](https://www.who.int/data/collections). Further, they provide [fact sheets](https://www.who.int/data/collections) on a wide range of searchable medical conditions. The WHO does not use emotional language such as this: [New Ebola outbreak detected in northwest Democratic Republic of the Congo; WHO surge team supporting the response](https://www.who.int/news-room/detail/01-06-2020-new-ebola-outbreak-detected-in-northwest-democratic-republic-of-the-congo-who-surge-team-supporting-the-response).
+Although, WHO is a pro-science source, they have also made some mistakes and published studies that were questionable. See our failed fact checks below.
+Failed Fact Checks
+[WHO stated that asymptomatic spread of Covid-19 is “very rare”](https://healthfeedback.org/evaluation/people-who-do-not-show-symptoms-contribute-to-significant-covid-19-transmission-contrary-to-cnbc-report/)– Low Scientific Credibility (Misleading)

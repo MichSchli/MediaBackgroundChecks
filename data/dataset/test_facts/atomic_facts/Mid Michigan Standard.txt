@@ -1,0 +1,17 @@
+Local Report Inc owns Mid Michigan Standard	entailment
+Local Report Inc is the owner of Mid Michigan Standard	entailment
+Local Report Inc acquired Mid Michigan Standard	contradiction
+The remit of Mid Michigan Standard is to **publish local news stories**	entailment
+The mission of Mid Michigan Standard is to **promote left-leaning propaganda in support of the Democratic Party and lacks transparency.**	entailment
+The usual audience of Mid Michigan Standard is **left-leaning individuals who favor the Democratic Party**	entailment
+The Mid Michigan Standard tends to the left	entailment
+Other sources have commented on Mid Michigan Standard, stating that it tends to be **left-leaning**	entailment
+The factuality of Mid Michigan Standard is reported to be **questionable**	entailment
+Mid Michigan Standard provides original content written by staff journalists	contradiction
+Mid Michigan Standard relies on donations for revenue	contradiction
+When aggregating stories, Mid Michigan Standard relies on information from **The American Independent**.	entailment
+Mid Michigan Standard has an editorial bias towards **the left and the Democratic Party**	entailment
+Mid Michigan Standard printed a biased article titled Rick Haglund: Why Repealing Right to Work is Unlikely to Hurt Michigan’s Economy | Opinion	entailment
+Mid Michigan Standard had to apologize to no one for anything	entailment
+Mid Michigan Standard is a  Left-Center Biased and Questionable	entailment
+Mid Michigan Standard covers the following topics: local news stories (Michigan) focused on sports, entertainment, and business news.	entailment

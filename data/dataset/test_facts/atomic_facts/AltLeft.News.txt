@@ -1,0 +1,28 @@
+Mike Adams founded AltLeft.News.	entailment
+Mike Adams is the founder of AltLeft.News	entailment
+Mike Adams owns AltLeft.News	entailment
+Mike Adams is the owner of AltLeft.News	entailment
+Mike Adams bought AltLeft.News	entailment
+AltLeft.News is funded through online advertising	entailment
+The remit of AltLeft.News is to promote right-wing conspiracy theories and pseudoscience.	entailment
+The mission of AltLeft.News is to expose the left and promote right-wing conspiracy theories and pseudoscience.	entailment
+The usual audience of AltLeft.News is extreme right-biased Tin-Foil Hat Conspiracy website that also publishes pseudoscience.	entailment
+AltLeft.News tends to the extreme right-biased Tin-Foil Hat Conspiracy website	entailment
+Other sources have commented on AltLeft.News, stating that it tends to be **extreme right-biased**.	entailment
+The factuality of AltLeft.News is reported to be **low**	entailment
+The factuality of AltLeft.News is reported to be ***low***, according to ***Mediabiasfactcheck***.	entailment
+AltLeft.News chose not to cover **accurate information or events based on facts**	entailment
+AltLeft.News provides original content written by staff journalists	contradiction
+AltLeft.News relies on advertising for revenue	entailment
+AltLeft.News relies on subscriptions for revenue	contradiction
+AltLeft.News relies on donations for revenue	contradiction
+AltLeft.News has received donations from online advertising	entailment
+AltLeft.News has endorsed **pseudoscience, conspiracy theories, and extreme right-wing bias**	entailment
+AltLeft.News has an editorial bias towards **extreme right-biased Tin-Foil Hat Conspiracy**	entailment
+Mike Adams is the editor of AltLeft.News	contradiction
+AltLeft.News printed a biased article titled An extreme right-biased Tin-Foil Hat Conspiracy website that also publishes pseudoscience	entailment
+AltLeft.News printed a factually misleading titled "Health misinformation website rebrands as a pro-Trump outlet to get around a ban from Facebook".	entailment
+AltLeft.News is funded by the United States government	contradiction
+AltLeft.News is a  Tin-Foil Hat Conspiracy website	entailment
+AltLeft.News uses an internal fact-checking process	entailment
+AltLeft.News covers the following topics: Extreme right-wing biased content, false information, pseudoscience, conspiracy theories.	entailment

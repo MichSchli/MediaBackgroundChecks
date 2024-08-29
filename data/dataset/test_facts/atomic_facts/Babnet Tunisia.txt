@@ -1,0 +1,20 @@
+Slim Mansouri is the CEO of Babnet Tunisia	entailment
+Slim Mansouri leads Babnet Tunisia	entailment
+Slim Mansouri owns Babnet Tunisia	entailment
+Slim Mansouri is the owner of Babnet Tunisia	entailment
+Slim Mansouri bought Babnet Tunisia	entailment
+Slim Mansouri acquired Babnet Tunisia	entailment
+Babnet Tunisia is funded through **advertising**	entailment
+The remit of Babnet Tunisia is to  publish articles regarding the President with a positive tone, as well as report on other political parties in a neutral manner.	entailment
+The mission of Babnet Tunisia is to  report with minimal bias, but it is not possible to verify all information due to a lack of sourcing.	entailment
+Babnet Tunisia tends to the least biased.	entailment
+The factuality of Babnet Tunisia is reported to be Least Biased	entailment
+The factuality of Babnet Tunisia is reported to be "mixed", according to "Media Bias Fact Check".	entailment
+Babnet Tunisia relies on advertising for revenue	entailment
+Babnet Tunisia relies on subscriptions for revenue	contradiction
+Babnet Tunisia relies on donations for revenue	contradiction
+When aggregating stories, Babnet Tunisia relies on information from **quotations**.	entailment
+Babnet Tunisia has an editorial bias towards Least Biased	entailment
+Babnet Tunisia's headquarter is located in Tunisia	entailment
+Babnet Tunisia is funded by the Tunisian government	entailment
+Babnet Tunisia covers the following topics: news, politics, society, economy, education, culture, health, and sport.	entailment

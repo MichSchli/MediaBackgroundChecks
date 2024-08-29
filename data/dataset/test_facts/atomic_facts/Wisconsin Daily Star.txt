@@ -1,0 +1,18 @@
+Star News Digital Media, Inc. owns Wisconsin Daily Star	entailment
+Wisconsin Daily Star is funded through **advertising**	entailment
+The remit of Wisconsin Daily Star is to **feature articles reporting news, politics, and policy at the state level, primarily from Wisconsin.**	entailment
+The mission of Wisconsin Daily Star is to **target battleground states with conservative news**	entailment
+The usual audience of Wisconsin Daily Star is **right-leaning**	entailment
+The Wisconsin Daily Star tends to the right	entailment
+Other sources have commented on Wisconsin Daily Star, stating that it tends to be right-leaning.	entailment
+The factuality of Wisconsin Daily Star is reported to be **Mixed**	entailment
+The factuality of Wisconsin Daily Star is reported to be Mixed, according to its source being exposed as a political activism website attempting to look like a local paper	entailment
+Wisconsin Daily Star relies on advertising for revenue	entailment
+Wisconsin Daily Star relies on subscriptions for revenue	entailment
+Wisconsin Daily Star relies on donations for revenue	contradiction
+When aggregating stories, Wisconsin Daily Star relies on information from **conservative donors and PACS**	entailment
+Wisconsin Daily Star has an editorial bias towards **the right**	entailment
+Wisconsin Daily Star printed a biased article titled Commentary: Increasing Wokeness and Class Division Threaten to Tear the Left Apart	entailment
+Wisconsin Daily Star paid damages to  after 	entailment
+Wisconsin Daily Star is a news and opinion website	entailment
+Wisconsin Daily Star uses a peer review process	entailment

@@ -1,0 +1,28 @@
+Robert George founded The National Pulse	entailment
+Robert George is the founder of The National Pulse	entailment
+The American Principles Project owns The National Pulse	entailment
+The National Pulse bought The National Pulse	contradiction
+The National Pulse is funded through advertising, donation, and an APP generate revenue.	entailment
+The remit of The National Pulse is to **promote a conservative line on various issues**	entailment
+The mission of The National Pulse is to promote	entailment
+The usual audience of The National Pulse is **conservative**.	entailment
+The National Pulse tends to the extreme right-wing	entailment
+Other sources have commented on The National Pulse, stating that it tends to be **questionable**.	entailment
+The factuality of The National Pulse is reported to be Questionable	entailment
+The factuality of The National Pulse is reported to be questionable, according to mediabiasfactcheck.com.	entailment
+The National Pulse failed a fact-check for an article titled Does the Black Lives Matter website for ‘Defund The Police’ donations go to ActBlue, the ‘Biden For President’ campaign’s top source of donations?	contradiction
+The National Pulse printed a retraction after failing a fact-check for an article titled **Does the Black Lives Matter website for 'Defund The Police' donations go to ActBlue, the 'Biden For President' campaign's top source of donations?**	entailment
+The National Pulse chose not to cover **stories that do not align with their conservative agenda**	entailment
+The National Pulse relies on advertising for revenue	entailment
+The National Pulse relies on donations for revenue	entailment
+When aggregating stories, The National Pulse relies on information from far-right sources.	entailment
+The National Pulse has endorsed conservative causes	entailment
+The National Pulse has an editorial bias towards extreme right-wing bias	entailment
+The National Pulse printed a biased article titled **"LGBT Activists Spending Big to Elect Transgender Candidate in Virginia"**	entailment
+The National Pulse printed a factually misleading titled "Does the Black Lives Matter website for ‘Defund The Police’ donations go to ActBlue, the ‘Biden For President’ campaign’s top source of donations?"	contradiction
+The National Pulse had to apologize for **several failed fact checks**.	entailment
+The National Pulse paid damages tono oneafterno specific incident	entailment
+The National Pulse's headquarter is located in Washington	entailment
+The National Pulse is funded by the American government	contradiction
+The National Pulse is a **questionable**	entailment
+The National Pulse covers the following topics: conservative line on various issues such as Planned Parenthood, LGBT, and Common Core, immigration reform, banning abortions, and denying LGBTQ equal rights, and promotion of extreme right perspectives and conspiracy theories.	entailment

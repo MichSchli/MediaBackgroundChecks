@@ -1,0 +1,18 @@
+SBLY owns Shareably	entailment
+SBLY is the owner of Shareably	entailment
+SBLY bought Shareably	entailment
+SBLY acquired Shareably	entailment
+Shareably is funded through Advertising	entailment
+The remit of Shareably is to publish human interest-type stories under various categories such as Life, Entertainment, DIY, Animals, and Food.	entailment
+Shareably tends to the **Least Biased**	contradiction
+Other sources have commented on Shareably, stating that it tends to be **Least Biased**	contradiction
+The factuality of Shareably is reported to be Mixed	entailment
+The factuality of Shareably is reported to be Mixed, according to D. Kelley 7/19/2017	entailment
+Shareably failed a fact-check for an article titled *Mixing cream of tartar with orange juice will flush nicotine from your body and help you quit smoking faster.*	entailment
+Shareably chose not to cover political content or bias	entailment
+Shareably provides original content written by staff journalists	contradiction
+Shareably relies on advertising for revenue	entailment
+Shareably relies on subscriptions for revenue	contradiction
+Shareably relies on donations for revenue	contradiction
+When aggregating stories, Shareably relies on information from **3rd party sources**.	entailment
+Shareably printed a biased article titled Mixing cream of tartar with orange juice will flush nicotine from your body and help you quit smoking faster.	entailment

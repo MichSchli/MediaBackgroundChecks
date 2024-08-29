@@ -1,0 +1,26 @@
+Derf Magazine owns Derf Magazine	entailment
+Derf Magazine is the owner of Derf Magazine	entailment
+Derf Magazine acquired Derf Magazine	contradiction
+Derf Magazine is funded through advertising	entailment
+The remit of Derf Magazine is to **provide humor and satire content**.	entailment
+The mission of Derf Magazine is to provide humor and satire content in Cincinnati.	entailment
+Other sources have commented on Derf Magazine, stating that it tends to be **a satire source**	entailment
+The factuality of Derf Magazine is reported to be appropriately labeled satire source.	entailment
+The factuality of Derf Magazine is reported to be an appropriately labeled satire source, according to D. Van Zandt 7/21/2016.	entailment
+Derf Magazine failed a fact-check for an article titled "Donald Trump admits to killing puppies, rises 6 points in polls".	entailment
+Derf Magazine printed a retraction after failing a fact-check for an article titled "Donald Trump admits to killing puppies, rises 6 points in polls."	contradiction
+Derf Magazine chose not to cover **real news**	entailment
+Derf Magazine provides original content written by staff journalists	contradiction
+Derf Magazine relies on advertising for revenue	entailment
+Derf Magazine relies on subscriptions for revenue	contradiction
+Derf Magazine relies on donations for revenue	contradiction
+When aggregating stories, Derf Magazine relies on information from **fictional and satirical content**	entailment
+Derf Magazine has an editorial bias towards **satire**	entailment
+Derf Magazine printed a biased article titled "Donald Trump admits to killing puppies, rises 6 points in polls"	contradiction
+Derf Magazine printed a factually misleading titled Chelsea Clinton’s bridesmaids report mysterious dress stains	entailment
+Derf Magazine had to apologize for nothing	entailment
+Derf Magazine's headquarter is located in Cincinnati.	entailment
+Derf Magazine is funded by the United States government	contradiction
+Derf Magazine is a **satire**	entailment
+Derf Magazine uses an internal fact-checking process	contradiction
+Derf Magazine covers the following topics: Satire, humor content, Cincinnati, Ohio, politics, Donald Trump, Bill Clinton, political satire.	entailment

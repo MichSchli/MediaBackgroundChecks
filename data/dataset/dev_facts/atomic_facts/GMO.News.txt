@@ -1,0 +1,22 @@
+Mike Adams founded GMO.News	entailment
+Mike Adams is the founder of GMO.News	entailment
+Mike Adams owns GMO.News	entailment
+Mike Adams bought GMO.News	entailment
+Mike Adams acquired GMO.News.	entailment
+GMO.News is funded through online advertising.	entailment
+The remit of GMO.News is to **spread extreme right biased Quackery Level Pseudoscience and conspiracy theories**.	entailment
+The mission of GMO.News is to publish false information.	entailment
+The usual audience of GMO.News is **extreme right biased Quackery Level Pseudoscience website that also publishes conspiracy theories**	entailment
+GMO.News tends to the extreme right biased Quackery Level Pseudoscience.	entailment
+GMO.News tends to the extreme right biased Quackery Level Pseudoscience website according to D. Van Zandt 	entailment
+Other sources have commented on GMO.News, stating that it tends to be an extreme right biased Quackery Level Pseudoscience website.	entailment
+The factuality of GMO.News is reported to be **low**	entailment
+The factuality of GMO.News is reported to be **extreme right biased Quackery Level Pseudoscience** , according to **Mediabiasfactcheck**	entailment
+GMO.News chose not to cover **anything based on credible sources**	entailment
+GMO.News provides original content written by staff journalists	contradiction
+GMO.News relies on advertising for revenue	entailment
+GMO.News relies on subscriptions for revenue	contradiction
+GMO.News relies on donations for revenue	contradiction
+GMO.News has endorsed pseudoscience and conspiracy theories	entailment
+GMO.News has an editorial bias towards extreme right biased Quackery Level Pseudoscience. 	entailment
+GMO.News printed a factually misleading titled  "Climate change cultists are now taking over your local weather forecast."	entailment

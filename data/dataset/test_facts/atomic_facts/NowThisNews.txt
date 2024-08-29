@@ -1,0 +1,25 @@
+NowThis News founded NowThisNews.	contradiction
+Kenneth Lerer is the founder of NowThisNews.	entailment
+Group Nine Media owns NowThisNews	entailment
+NowThis News is the owner of NowThisNews	contradiction
+NowThisNews is funded through advertising	entailment
+The remit of NowThisNews is to **promote liberal propaganda**.	entailment
+The mission of NowThisNews is to  report political news with a strong liberal/progressive leaning bias, heavily relying on meme culture and soundbites, often omitting certain key facts spoken in video clips.	entailment
+The usual audience of NowThisNews is **progressive-leaning and left-leaning individuals**.	entailment
+NowThisNews tends to the left	entailment
+Other sources have commented on NowThisNews, stating that it tends to be Questionable	entailment
+The factuality of NowThisNews is reported to be Questionable	entailment
+The factuality of NowThisNews is reported to be Questionable, according to Mediabiasfactcheck.	entailment
+NowThisNews failed a fact-check for an article titled "Democrats were at a 9/11 memorial service when NC Republicans held a controversial vote".	contradiction
+NowThisNews chose not to cover conservative viewpoints	entailment
+NowThisNews relies on advertising for revenue	entailment
+NowThisNews relies on subscriptions for revenue	entailment
+NowThisNews relies on donations for revenue	contradiction
+NowThisNews has endorsed **progressive candidates over establishment Democrats**	entailment
+NowThisNews has an editorial bias towards **far-left bias, promotion of liberal propaganda**	entailment
+NowThisNews printed a biased article titled **"Bill Nye the Science Guy on Trump’s Climate Change Denial"**	entailment
+NowThisNews printed a factually misleading titled **Bill Nye the Science Guy on Trump’s Climate Change Denial**	entailment
+NowThisNews's headquarter is located in New York City	entailment
+NowThisNews is funded by the United States government	contradiction
+NowThisNews is a **Questionable**	entailment
+NowThisNews covers the following topics: political news with a strong liberal/progressive leaning bias, meme culture, soundbites, omission of key facts, loaded emotional headlines favoring the left, support for progressive candidates over establishment Democrats, routine denigration of the right, failed fact checks.	entailment

@@ -1,0 +1,20 @@
+The Columbus Institute for Contemporary Journalism (CICJ)	entailment
+FreePress.org is funded through donations and an online store that sells books	entailment
+The remit of FreePress.org is to focus on progressive politics and investigative journalism on environmental and political issues.	entailment
+The mission of FreePress.org is to advocate for positions held by the left such as anti-war stances, concern for climate change, human rights, and strongly negative opinions of the conservative right.	entailment
+The usual audience of FreePress.org is **progressive left**	entailment
+FreePress.org tends to the far-left.	entailment
+Other sources have commented on FreePress.org, stating that it tends to be Far-Left biased	entailment
+The factuality of FreePress.org is reported to be Mostly Factual	entailment
+The factuality of FreePress.org is reported to be Mostly Factual, according to Mediabiasfactcheck.com	entailment
+FreePress.org chose not to cover **both sides of reporting**	entailment
+FreePress.org relies on advertising for revenue	contradiction
+FreePress.org relies on donations for revenue	entailment
+When aggregating stories, FreePress.org relies on information from credible sources such as the LA Times, the BBC, Reuters, and government organizations like www.opcw.org.	entailment
+FreePress.org has endorsed **progressive politics and investigative journalism**	entailment
+FreePress.org has an editorial bias towards **the progressive left**	entailment
+Bob Fitrakis is the editor of FreePress.org	entailment
+FreePress.org was fined **None in the Last 5 years**	entailment
+FreePress.org printed a biased article titled "Syria – a Case Study in Propaganda".	entailment
+FreePress.org is a **Far-Left**	entailment
+FreePress.org covers the following topics:  progressive politics and investigative journalism on environmental and political issues	entailment

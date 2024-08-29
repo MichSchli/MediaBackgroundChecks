@@ -1,0 +1,23 @@
+Lisbeth Kirk founded EU Observer	entailment
+Lisbeth Kirk is the founder of EU Observer	entailment
+EU Observer is funded through memberships, group subscriptions, and advertising	entailment
+The remit of EU Observer is to publish	entailment
+The mission of EU Observer is to inform the public about European Union affairs and policy.	entailment
+The usual audience of EU Observer is **people interested in EU Affairs, European Union institutions, EU policy, and politics**	entailment
+EU Observer tends to the left	entailment
+Other sources have commented on EU Observer, stating that it tends to be Left-Center biased.	entailment
+The factuality of EU Observer is reported to be High	entailment
+The factuality of EU Observer is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+EU Observer failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+EU Observer chose not to cover Eurosceptic political groups in the European Parliament that lean right.	contradiction
+EU Observer relies on advertising for revenue	entailment
+EU Observer relies on donations for revenue	entailment
+When aggregating stories, EU Observer relies on information from **their own correspondents**.	entailment
+EU Observer has an editorial bias towards **left-leaning views**	entailment
+Koert Debeuf is the editor of EU Observer	entailment
+EU Observer printed a biased article titled "Euroscepticism: The EU’s new normal"	entailment
+EU Observer printed a factually misleading titled EU's new normal	entailment
+EU Observer's headquarter is located in Brussels.	entailment
+EU Observer is funded by the Belgian government	contradiction
+EU Observer is a Left-Center biased	entailment
+EU Observer covers the following topics: EU Affairs, European Union institutions, EU policy, and politics.	entailment

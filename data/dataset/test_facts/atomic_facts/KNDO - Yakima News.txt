@@ -1,0 +1,21 @@
+Cowles Company owns KNDO - Yakima News	entailment
+KNDO - Yakima News is funded through subscriptions, advertising, and sponsored content	entailment
+The remit of KNDO - Yakima News is to cover local news through reporters with minimal bias, such as this 	entailment
+The mission of KNDO - Yakima News is to **provide local news, sports, weather, crime, and business news**.	entailment
+The usual audience of KNDO - Yakima News is local residents.	entailment
+KNDO - Yakima News tends to the **right**	entailment
+Other sources have commented on KNDO - Yakima News, stating that it tends to be **least biased**	entailment
+The factuality of KNDO - Yakima News is reported to be High	entailment
+The factuality of KNDO - Yakima News is reported to be high, according to its proper sourcing and clean fact-check record.	entailment
+KNDO - Yakima News failed a fact-check for an article titled "Biden Tests Negative For Covid"	contradiction
+KNDO - Yakima News chose not to cover opinion content	entailment
+KNDO - Yakima News relies on advertising for revenue	entailment
+KNDO - Yakima News relies on subscriptions for revenue	entailment
+KNDO - Yakima News relies on donations for revenue	contradiction
+When aggregating stories, KNDO - Yakima News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+KNDO - Yakima News has an editorial bias towards **neutrality**	entailment
+KNDO - Yakima News printed a biased article titled "Biden Tests Negative For Covid".	contradiction
+KNDO - Yakima News had to apologize for **None in the Last 5 years**.	entailment
+KNDO - Yakima News's headquarter is located in Yakima	entailment
+KNDO - Yakima News is a **Least Biased**	entailment
+KNDO - Yakima News covers the following topics: local news, sports, weather, crime, and business news.	entailment

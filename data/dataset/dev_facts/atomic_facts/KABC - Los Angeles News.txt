@@ -1,0 +1,20 @@
+The owner of KABC - Los Angeles News is the ABC Owned Television Stations subsidiary of The Walt Disney Company	entailment
+Disney bought KABC - Los Angeles News	entailment
+Disney acquired KABC - Los Angeles News	entailment
+KABC - Los Angeles News is funded through advertising and sponsored content.	entailment
+The remit of KABC - Los Angeles News is to cover news, sports, crime, and weather for the Los Angeles Metro area.	entailment
+The mission of KABC - Los Angeles News is to  provide news, weather, and sports for the Los Angeles Metropolitan region.	entailment
+The usual audience of KABC - Los Angeles News is **the Los Angeles Metropolitan region**	entailment
+KABC - Los Angeles News tends to the **right**	entailment
+KABC - Los Angeles News tends to the least biased according to Mediabiasfactcheck.	entailment
+Other sources have commented on KABC - Los Angeles News, stating that it tends to be **least biased**	entailment
+The factuality of KABC - Los Angeles News is reported to be High	entailment
+The factuality of KABC - Los Angeles News is reported to be High, according to Mediabiasfactcheck.	entailment
+KABC - Los Angeles News failed a fact-check for an article titled "Biden’s student loan forgiveness plan temporarily halted by appeals court".	contradiction
+KABC - Los Angeles News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+KABC - Los Angeles News chose not to cover opinion pieces	entailment
+KABC - Los Angeles News relies on advertising for revenue	entailment
+KABC - Los Angeles News relies on subscriptions for revenue	contradiction
+KABC - Los Angeles News relies on donations for revenue	contradiction
+When aggregating stories, KABC - Los Angeles News relies on information from [ABC News](https://mediabiasfactcheck.com/abc-news/), [Associated Press](https://mediabiasfactcheck.com/associated-press/), [ESPN](https://mediabiasfactcheck.com/espn/), and other ABC stations.	entailment
+KABC - Los Angeles News printed a biased article titled  "Biden’s student loan forgiveness plan temporarily halted by appeals court"	contradiction

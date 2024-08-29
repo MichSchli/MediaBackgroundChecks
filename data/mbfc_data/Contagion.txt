@@ -1,0 +1,11 @@
+History
+Founded in 2016, Contagion Live is a bimonthly journal for medical professionals covering infectious diseases. According to their
+[about page](https://www.contagionlive.com/about), “Contagion is a fully integrated news resource covering all areas of infectious disease. Through our website, bimonthly journal, email newsletters, and social media outlets, we provide practitioners and specialists with disease-specific information designed to improve patient outcomes and assist with the identification, diagnosis, treatment, and prevention of infectious diseases.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+MJH Lifesciences, a New Jersey-based medical media company, owns and publishes Contagion. MJH owns approximately 50 specialty medical publications. Advertising and print subscription fees generate revenue.
+Analysis / Bias
+Contagion publishes videos, podcasts, and news articles related to infectious diseases. Articles and headlines are minimally biased, such as this
+[Children’s Duration of COVID-19 Immunity from Natural Infection](https://www.contagionlive.com/view/children-s-duration-of-covid-19-immunity-from-natural-infection). News articles are properly sourced from credible peer-reviewed journals and organizations like the [CDC](https://mediabiasfactcheck.com/centers-disease-control-prevention-cdc/) and [WHO](https://mediabiasfactcheck.com/world-health-organization-who/). Many articles are technical and geared toward medical professionals, such as this [Novel Antimalarial Shows Promise in Multifaceted Phase 1 Trial](https://www.contagionlive.com/view/novel-antimalarial-shows-promise-in-multifaceted-phase-1-trial).
+Editorially, they do not produce opinion content or discuss politics. In general, this is a low-biased pro-science source.
+Failed Fact Checks
+- None in the Last 5 years

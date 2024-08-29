@@ -1,0 +1,21 @@
+Black Press Media owns West K News	entailment
+Black Press Media is the owner of West K News	entailment
+West K News is funded through advertising	entailment
+The remit of West K News is to cover news, sports, crime, and business for the greater Kelowna, BC, area.	entailment
+The mission of West K News is to inform the public about news, sports, crime, and business for the greater Kelowna, BC, area.	entailment
+The usual audience of West K News is **residents of Kelowna and the surrounding area**	entailment
+West K News tends to the left.	entailment
+West K News tends to the left according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com)	entailment
+Other sources have commented on West K News, stating that it tends to be Left-Center biased.	entailment
+The factuality of West K News is reported to be High	entailment
+The factuality of West K News is reported to be High, according to D. Van Zandt	entailment
+West K News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+West K News printed a retraction after failing a fact-check for an article titled "Kelowna council spotlights names for Community Task Force on Performing Arts"	entailment
+West K News chose not to cover op-eds	entailment
+West K News relies on advertising for revenue	entailment
+West K News relies on donations for revenue	contradiction
+The answer is: West K News has received donations from **advertising**.	entailment
+When aggregating stories, West K News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+West K News has an editorial bias towards Left-Center.	entailment
+West K News had to apologize for editorially, West K News does not regularly produce op-eds. However, political news coverage tends to lean left.	contradiction
+West K News had to apologize to  for 	entailment

@@ -1,0 +1,26 @@
+Rob Krall founded OpEdNews (OEN)	entailment
+Rob Krall is the founder of OpEdNews (OEN)	entailment
+Rob Krall leads OpEdNews (OEN)	entailment
+Rob Krall owns OpEdNews (OEN)	entailment
+Rob Krall is the owner of OpEdNews (OEN)	entailment
+Rob Krall bought OpEdNews (OEN)	contradiction
+OpEdNews (OEN) is funded through advertising and donations	entailment
+The remit of OpEdNews (OEN) is to provide a content management, social networking website that supports progressive communications resources and tools for activism and advocacy organizations.	entailment
+The mission of OpEdNews (OEN) is to provide a content management, social networking website that supports progressive communications resources and tools for activism and advocacy organizations.	entailment
+The usual audience of OpEdNews (OEN) is left-leaning.	entailment
+OpEdNews (OEN) tends to the left	entailment
+OpEdNews (OEN) tends to the left according to Media Bias Fact Check.	entailment
+Other sources have commented on OpEdNews (OEN), stating that it tends to be left-leaning	entailment
+The factuality of OpEdNews (OEN) is reported to be Mixed	entailment
+The factuality of OpEdNews (OEN) is reported to be Mixed, according to mediabiasfactcheck.com.	entailment
+OpEdNews (OEN) relies on advertising for revenue	entailment
+OpEdNews (OEN) relies on subscriptions for revenue	contradiction
+OpEdNews (OEN) relies on donations for revenue	entailment
+OpEdNews (OEN) has received donations from  Rob Krall	entailment
+OpEdNews (OEN) has endorsed **progressive communications resources and tools for activism and advocacy organizations**	entailment
+OpEdNews (OEN) has an editorial bias towards left.	entailment
+Rob Krall is the editor of OpEdNews (OEN)	entailment
+OpEdNews (OEN) was fined 	entailment
+OpEdNews (OEN) printed a biased article titled "OpEdNews is Left Biased Based on Editorial Positions That Favor the Left."	entailment
+OpEdNews (OEN) printed a factually misleading titled  Left Biased based on editorial positions that favor the left.	entailment
+OpEdNews (OEN) had to apologize for **a failed fact check**	entailment

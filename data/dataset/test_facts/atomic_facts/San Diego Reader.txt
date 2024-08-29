@@ -1,0 +1,20 @@
+Jim Holman owns San Diego Reader	entailment
+Jim Holman is the owner of San Diego Reader	entailment
+Jim Holman bought San Diego Reader	entailment
+Jim Holman acquired San Diego Reader	entailment
+San Diego Reader is funded through **both print and website advertising**	entailment
+The remit of San Diego Reader is to cover news within San Diego county with a strong emphasis on culture and entertainment in the area.	entailment
+The mission of San Diego Reader is to cover news within San Diego county with a strong emphasis on culture and entertainment in the area.	entailment
+The San Diego Reader tends to the left.	entailment
+Other sources have commented on San Diego Reader, stating that it tends to be left-center biased.	entailment
+The factuality of San Diego Reader is reported to be High	entailment
+The factuality of San Diego Reader is reported to be High, according to D. Van Zandt 	entailment
+San Diego Reader failed a fact-check for an article titled Duncan Hunter’s smoke-filled spending	contradiction
+San Diego Reader chose not to cover Republican corruption.	contradiction
+San Diego Reader relies on advertising for revenue	entailment
+San Diego Reader relies on subscriptions for revenue	contradiction
+San Diego Reader relies on donations for revenue	contradiction
+When aggregating stories, San Diego Reader relies on information from **credible media outlets or quotations**.	entailment
+San Diego Reader has an editorial bias towards left	entailment
+San Diego Reader printed a biased article titled "Duncan Hunter’s smoke-filled spending".	entailment
+The San Diego Reader is a Left-Center Biased	entailment

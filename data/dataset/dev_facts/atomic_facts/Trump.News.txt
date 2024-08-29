@@ -1,0 +1,19 @@
+Mike Adams founded Trump.News	entailment
+Trump.News is funded through **online advertising**	entailment
+The remit of Trump.News is to **promote extreme right-wing bias, conspiracies, pseudoscience, and propaganda**.	entailment
+The mission of Trump.News is to **promote extreme right-wing bias, conspiracy theories, pseudoscience, and propaganda**	entailment
+Trump.News tends to the Extreme Right-Wing Bias	entailment
+Trump.News tends to the Extreme Right-Wing Bias according to Media Bias Fact Check	entailment
+Other sources have commented on Trump.News, stating that it tends to be Questionable.	entailment
+The factuality of Trump.News is reported to be **Low**	entailment
+The factuality of Trump.News is reported to be Questionable, according to Extreme Right-Wing Bias	entailment
+Trump.News failed a fact-check for an article titled "BOMBSHELL: Hillary Clinton ran weapons into Libya for the Obama administration, while Michael Flynn was targeted because he knew the details"	entailment
+Trump.News chose not to cover ownership.	contradiction
+Trump.News provides original content written by staff journalists	contradiction
+Trump.News relies on advertising for revenue	entailment
+Trump.News relies on donations for revenue	contradiction
+When aggregating stories, Trump.News relies on information from **Gateway Pundit and right-wing conspiracy website Natural News**	entailment
+Trump.News has endorsed Extreme Right-Wing Bias, promotion of conspiracies, pseudoscience, and propaganda.	entailment
+Trump.News has an editorial bias towards Extreme Right-Wing Bias	entailment
+Trump.News printed a biased article titled "Left-Wing Media Tries to Fact-Check Trump Speech, Ends Up Confirming He's Right".	entailment
+Trump.News had to apologize for **extreme right-wing bias, promotion of conspiracies, pseudoscience, and propaganda, as well as the use of poor sources who routinely fail fact checks and a complete lack of ownership transparency**.	entailment

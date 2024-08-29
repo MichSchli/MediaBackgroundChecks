@@ -1,0 +1,26 @@
+Founded in 1884 founded Tampa Bay Times	entailment
+The Tampa Bay Times leads Tampa Bay Times	contradiction
+The Poynter Institute for Media Studies owns Tampa Bay Times	entailment
+The Poynter Institute for Media Studies	entailment
+Politifact acquired Tampa Bay Times	contradiction
+Tampa Bay Times is funded through advertising and subscription fees	entailment
+The remit of Tampa Bay Times is to **publish original news and investigative reporting covering the Tampa Bay and Florida region. National and International news is republished through the Associated Press.**	entailment
+The usual audience of Tampa Bay Times is **left-leaning**	entailment
+Tampa Bay Times tends to the left	entailment
+Other sources have commented on Tampa Bay Times, stating that it tends to be Left-Center	entailment
+The factuality of Tampa Bay Times is reported to be High	entailment
+The factuality of Tampa Bay Times is reported to be high, according to Media Bias/Fact Check	entailment
+Tampa Bay Times chose not to cover failed fact checks	entailment
+Tampa Bay Times provides original content written by staff journalists	entailment
+Tampa Bay Times relies on advertising for revenue	entailment
+Tampa Bay Times relies on subscriptions for revenue	entailment
+Tampa Bay Times relies on donations for revenue	entailment
+When aggregating stories, Tampa Bay Times relies on information from **Associated Press**.	entailment
+Tampa Bay Times has endorsed Democratic candidates	entailment
+Tampa Bay Times has an editorial bias towards **the left**	entailment
+Adam C. Smith is the editor of Tampa Bay Times	entailment
+Tampa Bay Times was fined 	entailment
+Tampa Bay Times printed a factually misleading titled "Motorcyclist hospitalized, lanes closed after accident on U.S. 19 in Pinellas Park".	entailment
+Tampa Bay Times's headquarter is located in St. Petersburg.	entailment
+Tampa Bay Times is a Left-Center biased	entailment
+Tampa Bay Times covers the following topics: History, Funding/Ownership, Analysis/Bias, Failed Fact Checks	entailment

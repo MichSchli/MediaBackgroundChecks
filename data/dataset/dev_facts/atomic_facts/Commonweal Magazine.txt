@@ -1,0 +1,18 @@
+Commonweal Magazine bought Commonweal Magazine	contradiction
+Commonweal Magazine is funded through **donations and subscription fees**.	entailment
+The remit of Commonweal Magazine is to **publish news and opinion with minimally loaded language and proper sourcing**	entailment
+The usual audience of Commonweal Magazine is progressive.	entailment
+Commonweal Magazine tends to the Left-Center.	entailment
+Commonweal Magazine tends to the left-center according to Media Bias/Fact Check.	entailment
+Other sources have commented on Commonweal Magazine, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Commonweal Magazine is reported to be High	entailment
+The factuality of Commonweal Magazine is reported to be High, according to factual reporting due to proper sourcing and a clean fact-check record.	entailment
+Commonweal Magazine failed a fact-check for an article titled None in the Last 5 years	contradiction
+Commonweal Magazine chose not to cover climate change	contradiction
+Commonweal Magazine relies on advertising for revenue	contradiction
+Commonweal Magazine relies on subscriptions for revenue	entailment
+Commonweal Magazine relies on donations for revenue	entailment
+When aggregating stories, Commonweal Magazine relies on information from **credible media**	entailment
+Commonweal Magazine has endorsed left-center biased positions	entailment
+Commonweal Magazine has an editorial bias towards Left-Center.	entailment
+Commonweal Magazine had to apologize for **No failed fact checks**	entailment

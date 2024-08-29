@@ -1,0 +1,21 @@
+Ryan Henry is the CEO of The Brownsville Herald	contradiction
+Ryan Henry leads The Brownsville Herald	entailment
+AIM Media Texas owns The Brownsville Herald	entailment
+The Brownsville Herald is funded through advertising and subscription fees.	entailment
+The remit of The Brownsville Herald is to cover local news through journalists.	entailment
+The mission of The Brownsville Herald is to cover local news through journalists with minimal loaded words in headlines and stories.	entailment
+The Brownsville Herald tends to the left.	entailment
+Other sources have commented on The Brownsville Herald, stating that it tends to be Left-Center biased.	entailment
+The factuality of The Brownsville Herald is reported to be High	entailment
+The factuality of The Brownsville Herald is reported to be High, according to Mediabiasfactcheck.	entailment
+The Brownsville Herald failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Brownsville Herald chose not to cover **failed fact checks**	entailment
+The Brownsville Herald relies on advertising for revenue	entailment
+The Brownsville Herald relies on subscriptions for revenue	entailment
+The Brownsville Herald relies on donations for revenue	contradiction
+The Brownsville Herald has an editorial bias towards **the left**	entailment
+Ryan Henry is the editor of The Brownsville Herald	entailment
+The Brownsville Herald had to apologize for **none**	entailment
+The Brownsville Herald's headquarter is located in Brownsville	entailment
+The Brownsville Herald is funded by the private government	contradiction
+The Brownsville Herald is a  Left-Center biased based editorial positions that moderately lean left and High for factual reporting due to a clean fact check record.	entailment

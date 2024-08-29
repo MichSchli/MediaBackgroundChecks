@@ -1,0 +1,21 @@
+Chuck Woolery founded Blunt Force Truth.	entailment
+Two and Two Broadcasting, LLC owns Blunt Force Truth	entailment
+Two and Two Broadcasting, LLC is the owner of Blunt Force Truth	entailment
+Blunt Force Truth is funded through advertising, donations, and a merchandise shop.	entailment
+The mission of Blunt Force Truth is to **dig deeper into current events and the issues that matter to America and the world today.**	contradiction
+The usual audience of Blunt Force Truth is **conservatives**	entailment
+Blunt Force Truth tends to the right	entailment
+Blunt Force Truth tends to the right according to mediabiasfactcheck.com	entailment
+Other sources have commented on Blunt Force Truth, stating that it tends to be **a Questionable source**.	entailment
+The factuality of Blunt Force Truth is reported to be Questionable.	entailment
+The factuality of Blunt Force Truth is reported to be **Questionable**, according to **Media Bias/Fact Check**	entailment
+Blunt Force Truth failed a fact-check for an article titled **Did Oregon change hundreds of Republican ballots to non-partisan, thus denying Republican voters the right to participate in the state’s primary?**	entailment
+Blunt Force Truth relies on advertising for revenue	entailment
+Blunt Force Truth relies on subscriptions for revenue	entailment
+Blunt Force Truth relies on donations for revenue	entailment
+Blunt Force Truth has received donations from Two and Two Broadcasting, LLC	entailment
+When aggregating stories, Blunt Force Truth relies on information from **other hyper-partisan conservative sources**.	entailment
+Blunt Force Truth has endorsed far-right bias	entailment
+Blunt Force Truth has an editorial bias towards far-right	entailment
+Blunt Force Truth was fined $0.	entailment
+Blunt Force Truth printed a factually misleading titled **CONSERVATIVE PODCAST HOST SPREADS MISINFORMATION**	entailment

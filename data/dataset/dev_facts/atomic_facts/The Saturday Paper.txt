@@ -1,0 +1,21 @@
+Schwartz Publishing owns The Saturday Paper	entailment
+Morry Schwartz is the owner of The Saturday Paper	entailment
+Schwartz Publishing bought The Saturday Paper	entailment
+The Saturday Paper is funded through Schwartz Publishing.	entailment
+The Saturday Paper tends to the left-center	entailment
+The Saturday Paper tends to the left-center biased according to Media Bias Fact Check	entailment
+Other sources have commented on The Saturday Paper, stating that it tends to be left-center biased.	entailment
+The factuality of The Saturday Paper is reported to be high	entailment
+The factuality of The Saturday Paper is reported to be high, according to Media Bias/Fact Check.	entailment
+The Saturday Paper failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Saturday Paper chose not to cover failed fact checks	entailment
+The Saturday Paper relies on advertising for revenue	contradiction
+The Saturday Paper relies on subscriptions for revenue	entailment
+The Saturday Paper relies on donations for revenue	contradiction
+When aggregating stories, The Saturday Paper relies on information from **background research**	entailment
+The Saturday Paper has endorsed left-center biased and high for factual reporting.	entailment
+The Saturday Paper has an editorial bias towards left-center.	entailment
+Erik Jensen is the editor of The Saturday Paper	entailment
+The Saturday Paper printed a factually misleading titled "Scott Morrison is stuck."	entailment
+The Saturday Paper had to apologize for **none in the Last 5 years**	entailment
+The Saturday Paper had to apologize to  for None in the Last 5 years	entailment

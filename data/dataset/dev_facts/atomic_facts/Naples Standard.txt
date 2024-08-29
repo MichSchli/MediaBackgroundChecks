@@ -1,0 +1,18 @@
+Bradley Cameron is the CEO of Naples Standard.	entailment
+Metric Media Foundation owns Naples Standard	entailment
+Metric Media Foundation is the owner of Naples Standard	entailment
+Naples Standard is funded through donations and grants	entailment
+The remit of Naples Standard is to  report conservative news and opinion.	entailment
+The mission of Naples Standard is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of Naples Standard is right-center biased and Questionable	entailment
+Naples Standard tends to the right-center.	entailment
+Naples Standard tends to the right-center biased according to being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+Other sources have commented on Naples Standard, stating that it tends to be right-center biased	entailment
+The factuality of Naples Standard is reported to be Questionable.	entailment
+The factuality of Naples Standard is reported to be **Questionable**, according to **Mediabiasfactcheck.com**	entailment
+Naples Standard relies on advertising for revenue	entailment
+Naples Standard relies on donations for revenue	entailment
+When aggregating stories, Naples Standard relies on information from **algorithmically produced content**.	entailment
+Naples Standard has an editorial bias towards **right-center**	contradiction
+Naples Standard was fined right-center biased	entailment
+Naples Standard printed a biased article titled "Imposter Website Designed to Look Like Local News Source".	entailment

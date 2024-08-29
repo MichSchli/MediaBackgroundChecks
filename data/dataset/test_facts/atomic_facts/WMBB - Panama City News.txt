@@ -1,0 +1,26 @@
+Nexstar Media Group owns WMBB - Panama City News	entailment
+Nexstar Media Group is the owner of WMBB - Panama City News	entailment
+Nexstar Media Group bought WMBB - Panama City News	entailment
+Nexstar Media Group acquired WMBB - Panama City News	entailment
+WMBB - Panama City News is funded through **advertising**	entailment
+The remit of WMBB - Panama City News is to **publish news for the greater Panama City, Florida, area**	entailment
+The mission of WMBB - Panama City News is to report news factually and with minimal bias.	entailment
+The usual audience of WMBB - Panama City News is **the greater Panama City, Florida, area**	entailment
+WMBB - Panama City News tends to the Least Biased	entailment
+Other sources have commented on WMBB - Panama City News, stating that it tends to be  least biased .	entailment
+The factuality of WMBB - Panama City News is reported to be High	entailment
+The factuality of WMBB - Panama City News is reported to be High, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/wmbb-panama-city-news/).	entailment
+WMBB - Panama City News failed a fact-check for an article titled "None in the last 5 years".	contradiction
+WMBB - Panama City News printed a retraction after failing a fact-check for an article titled "None in the last 5 years."	contradiction
+WMBB - Panama City News chose not to cover op-eds	entailment
+WMBB - Panama City News provides original content written by staff journalists	entailment
+WMBB - Panama City News relies on advertising for revenue	entailment
+WMBB - Panama City News relies on subscriptions for revenue	entailment
+WMBB - Panama City News relies on donations for revenue	contradiction
+When aggregating stories, WMBB - Panama City News relies on information from **Nexstar Media Wire, the Associated Press, and other large, credible media outlets**.	entailment
+WMBB - Panama City News has an editorial bias towards least biased	entailment
+WMBB - Panama City News printed a factually misleading titled  "Failed Fact Checks"	contradiction
+WMBB - Panama City News had to apologize for **none in the last 5 years**.	entailment
+WMBB - Panama City News's headquarter is located in Panama City, Florida	entailment
+WMBB - Panama City News is a Least Biased	entailment
+WMBB - Panama City News covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

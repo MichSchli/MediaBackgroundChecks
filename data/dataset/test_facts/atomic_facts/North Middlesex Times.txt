@@ -1,0 +1,19 @@
+Metric Media Foundation owns North Middlesex Times	entailment
+North Middlesex Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of North Middlesex Times is to imposter site, lacks transparency, and publishes false information.	entailment
+The mission of North Middlesex Times is to **fill the void in community news after years of decline in local reporting by legacy media.**	contradiction
+The usual audience of North Middlesex Times is right-center, biased, and Questionable.	entailment
+North Middlesex Times tends to the right-center	entailment
+Other sources have commented on North Middlesex Times, stating that it tends to be **right-center**	entailment
+The factuality of North Middlesex Times is reported to be Questionable.	entailment
+The factuality of North Middlesex Times is reported to be **Questionable**, according to **D. Van Zandt 06/03/2023**.	entailment
+North Middlesex Times relies on advertising for revenue	entailment
+North Middlesex Times relies on donations for revenue	entailment
+When aggregating stories, North Middlesex Times relies on information from **algorithmically produced content**	entailment
+North Middlesex Times has endorsed  right-center, biased, and Questionable.	entailment
+North Middlesex Times has an editorial bias towards **right-center**	entailment
+North Middlesex Times printed a biased article titled **Imposter Site, Lacks Transparency, and Publishes False Information**	entailment
+North Middlesex Times printed a factually misleading titled **news and opinion website**	entailment
+North Middlesex Times's headquarter is located in Metric Media LLC	entailment
+North Middlesex Times is a conservative	entailment
+North Middlesex Times covers the following topics: conservative-leaning news	entailment

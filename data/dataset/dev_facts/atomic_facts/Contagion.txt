@@ -1,0 +1,20 @@
+MJH Lifesciences is the CEO of Contagion.	entailment
+MJH Lifesciences owns Contagion	entailment
+Contagion is funded through advertising and print subscription fees	entailment
+The remit of Contagion is to provide practitioners and specialists with disease-specific information designed to improve patient outcomes and assist with the identification, diagnosis, treatment, and prevention of infectious diseases.	entailment
+The mission of Contagion is to improve patient outcomes and assist with the identification, diagnosis, treatment, and prevention of infectious diseases.	entailment
+The usual audience of Contagion is medical professionals	entailment
+Contagion tends to the  pro-science.	entailment
+Contagion tends to the **pro-science** according to **D. Van Zandt 03/19/2022**.	entailment
+Other sources have commented on Contagion, stating that it tends to be **a low-biased pro-science source**.	entailment
+The factuality of Contagion is reported to be pro-science	entailment
+The factuality of Contagion is reported to be high, according to [mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Contagion printed a retraction after failing a fact-check for an article titled "Children’s Duration of COVID-19 Immunity from Natural Infection"	contradiction
+Contagion chose not to cover opinion content or discuss politics	entailment
+Contagion relies on advertising for revenue	entailment
+Contagion relies on subscriptions for revenue	entailment
+Contagion relies on donations for revenue	entailment
+When aggregating stories, Contagion relies on information from **credible peer-reviewed journals and organizations like the CDC and WHO**.	entailment
+Contagion has endorsed pro-science.	entailment
+Contagion has an editorial bias towards pro-science.	entailment
+Contagion had to apologize for **None in the Last 5 years**.	entailment

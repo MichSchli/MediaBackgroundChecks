@@ -1,0 +1,25 @@
+DMG Media owns iNews	entailment
+DMG Media bought iNews	entailment
+DMG Media acquired iNews	entailment
+iNews is funded through advertising, sponsored content, and subscriptions.	entailment
+The remit of iNews is to **provide your essential daily briefing, covering everything you need to know about the things that matter – without jargon or bluster**.	entailment
+The mission of iNews is to provide your essential daily briefing, covering everything you need to know about the things that matter – without jargon or bluster.	entailment
+The usual audience of iNews is left-Center biased	entailment
+iNews tends to the Left-Center	entailment
+Other sources have commented on iNews, stating that it tends to be **Left-Center**	entailment
+The factuality of iNews is reported to be High	entailment
+The factuality of iNews is reported to be High, according to Mediabiasfactcheck.com	entailment
+iNews failed a fact-check for an article titled "Race audit reveals ‘bleak picture’ of inequality in British society".	contradiction
+iNews printed a retraction after failing a fact-check for an article titled "Race audit reveals ‘bleak picture’ of inequality in British society".	entailment
+iNews chose not to cover **failed fact checks**	entailment
+iNews relies on advertising for revenue	entailment
+iNews relies on subscriptions for revenue	entailment
+iNews relies on donations for revenue	contradiction
+When aggregating stories, iNews relies on information from **credible media sources**	entailment
+iNews has endorsed Brexit	contradiction
+iNews has an editorial bias towards left-center	entailment
+iNews had to apologize for **none**	entailment
+iNews's headquarter is located in London	entailment
+iNews is funded by the British government	contradiction
+iNews is a Left-Center biased	entailment
+iNews covers the following topics: news	contradiction

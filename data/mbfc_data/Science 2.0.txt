@@ -1,0 +1,12 @@
+History
+Founded in 2006, Science 2.0 is an open-publishing science blog. According to its
+[about page](https://www.science20.com/about), “Science 2.0 was created in 2006 to modernize science communication, publishing, collaboration, and public participation. It is a pro-science educational outreach nonprofit.” The goal of the site is to “Create a place where world-class scientists write articles and discuss issues without being filtered by size or editorial limitations, where there are no political or cultural agendas, and the audience can read great science directly from the sources and maybe learn some new things.” [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Science 2.0 is an outreach nonprofit under Section 501(c)(3) of the Internal Revenue Code. Advertising and donations generate revenue.
+Analysis / Bias
+Science 2.0 usually summarizes scientific research and news. Articles and headlines often contain loaded emotional wording and reflect the opinions of the author, such as this
+[Alternative Meat Is Failing Because They Made Enemies Of Everyone Who Wanted To Be On Their Side](https://www.science20.com/content/alternative_meat_is_failing_because_they_made_enemies_of_everyone_who_wanted_to_be_on_their_side).
+When reporting on politically related science issues like climate change, they support the consensus that global warming is human-influenced and also do not promote alarmism such as this
+[No Scientific Cliff Edge Of 12 Years To Save Planet (or 18 Months) – Can IPCC Challenge ‘Deadlines Make Headlines’ Misreporting?](https://www.science20.com/robert_walker/no_scientific_cliff_edge_of_12_years_to_save_planet_or_18_months_can_ipcc_challenge_deadlines_make_headlines) Further, they report accurately on Covid-19 and vaccines like this [Bill Gates Will NOT And CANNOT Inject Us With A Microchip In A Vaccine – Fails Basic Fact Check](https://www.science20.com/robert_walker/bill_gates_will_not_and_cannot_inject_us_with_a_microchip_in_a_vaccine_and_other_gates_myths_fails_basic_fact). In general, Science 2.0 is a Pro-science source.
+Failed Fact Checks
+- None in the Last 5 years

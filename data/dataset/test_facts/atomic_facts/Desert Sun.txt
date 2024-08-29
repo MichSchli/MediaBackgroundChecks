@@ -1,0 +1,26 @@
+The Desert Sun founded Desert Sun	entailment
+Julie Makinen is the CEO of Desert Sun	contradiction
+Gannett owns Desert Sun	entailment
+Gannett is the owner of Desert Sun	entailment
+Gannett bought Desert Sun	entailment
+Gannett acquired Desert Sun	entailment
+Desert Sun is funded through advertising and paid subscriptions	entailment
+The remit of Desert Sun is to **report local news with low bias**	entailment
+The mission of Desert Sun is to **report local news with low bias, national and international news from reliable sources, and provide factual reporting.**	entailment
+Desert Sun tends to the **right-center**	entailment
+Other sources have commented on Desert Sun, stating that it tends to be slightly right-center biased.	entailment
+The factuality of Desert Sun is reported to be High	entailment
+The factuality of Desert Sun is reported to be High, according to D. Van Zandt.	entailment
+Desert Sun failed a fact-check for an article titled "Three desert schools apply with Riverside County to return students to classrooms".	entailment
+Desert Sun chose not to cover [None in the Last 5 years](https://www.desertsun.com/).	entailment
+Desert Sun relies on advertising for revenue	entailment
+Desert Sun relies on subscriptions for revenue	contradiction
+Desert Sun relies on donations for revenue	contradiction
+Desert Sun has received donations from advertising and paid subscriptions.	entailment
+When aggregating stories, Desert Sun relies on information from **USA Today Network**	entailment
+Desert Sun has endorsed slightly right-center Biased	entailment
+Desert Sun has an editorial bias towards **slightly right-center Biased**.	entailment
+Julie Makinen is the editor of Desert Sun	entailment
+Desert Sun had to apologize for none	entailment
+Desert Sun had to apologize to Riverside County for low bias	contradiction
+The Desert Sun is funded by the US government	contradiction

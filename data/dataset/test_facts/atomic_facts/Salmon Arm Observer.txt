@@ -1,0 +1,23 @@
+Black Press Media founded Salmon Arm Observer	contradiction
+Black Press Media owns Salmon Arm Observer	entailment
+Black Press Media is the owner of Salmon Arm Observer	entailment
+Black Press Media bought Salmon Arm Observer	entailment
+Salmon Arm Observer is funded through advertising	entailment
+The remit of Salmon Arm Observer is to **cover news for Salmon Arm and the surrounding area with minimal bias in wording**.	entailment
+The mission of Salmon Arm Observer is to  provide news, sports, crime, and business coverage for the greater Salmon Arm, BC area.	entailment
+Salmon Arm Observer tends to the slightly Left-Center biased	entailment
+Other sources have commented on Salmon Arm Observer, stating that it tends to be slightly Left-Center biased	entailment
+The factuality of Salmon Arm Observer is reported to be High	entailment
+The factuality of Salmon Arm Observer is reported to be High, according to Mediabiasfactcheck.	entailment
+Salmon Arm Observer failed a fact-check for an article titled Parents applaud policies restricting cellphone access at Salmon Arm schools	contradiction
+Salmon Arm Observer chose not to cover Parents applaud policies restricting cellphone access at Salmon Arm schools	contradiction
+Salmon Arm Observer relies on advertising for revenue	entailment
+Salmon Arm Observer relies on subscriptions for revenue	entailment
+Salmon Arm Observer relies on donations for revenue	contradiction
+When aggregating stories, Salmon Arm Observer relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+Salmon Arm Observer has endorsed slightly Left-Center biased.	entailment
+Salmon Arm Observer has an editorial bias towards **left**	entailment
+D. Van Zandt is the editor of Salmon Arm Observer	entailment
+Salmon Arm Observer's headquarter is located in Salmon Arm	entailment
+Salmon Arm Observer is a newspaper.	entailment
+Salmon Arm Observer covers the following topics: news, sports, crime, and business.	entailment

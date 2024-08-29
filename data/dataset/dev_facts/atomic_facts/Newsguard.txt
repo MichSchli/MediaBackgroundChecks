@@ -1,0 +1,16 @@
+Steven Brill founded Newsguard	contradiction
+Steven Brill is the founder of Newsguard	contradiction
+Newsguard is funded through seed funding, investors such as the Knight Foundation and Cox Investment Holdings, and by licensing its ratings to advertisers.	entailment
+The remit of Newsguard is to **review and rate media and information sources using a 100-point scale.**	entailment
+Newsguard tends to the  Least Biased based on neutral wording and the use of a credible methodology.	entailment
+Newsguard tends to the credibility and transparency of media sources according to a 100-point scale.	entailment
+Other sources have commented on Newsguard, stating that it tends to be `least biased`.	entailment
+The factuality of Newsguard is reported to be High	entailment
+The factuality of Newsguard is reported to be high for factual reporting, according to mediabiasfactcheck.com.	entailment
+Newsguard chose not to cover **political bias**	entailment
+Newsguard relies on advertising for revenue	entailment
+Newsguard relies on donations for revenue	contradiction
+Newsguard has received donations from  Knight Foundation and Cox Investment Holdings.	entailment
+Newsguard has an editorial bias towards Least Biased	entailment
+Newsguard printed a factually misleading titled **"Nutrition Label"**	entailment
+Breitbart News; criticizing NewsGuard as "the establishment media’s latest effort to blacklist alternative media sites"	entailment

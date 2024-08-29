@@ -1,0 +1,23 @@
+Cowles Company owns KTMF - Missoula News	entailment
+Cowles Company is the owner of KTMF - Missoula News	entailment
+ABC acquired KTMF - Missoula News	contradiction
+KTMF - Missoula News is funded through subscriptions, advertising, and sponsored content.	entailment
+The remit of KTMF - Missoula News is to cover local news through reporters with minimal bias, such as this Sheriff IDs Spokane Valley man who died after incident on Brooks St. in Missoula.	entailment
+The mission of KTMF - Missoula News is to report local news through reporters with minimal bias, maintain a neutral tone in politics, and provide fact-based reporting without opinion content.	entailment
+KTMF - Missoula News tends to the**Least Biased**	entailment
+Other sources have commented on KTMF - Missoula News, stating that it tends to be **least biased**	entailment
+The factuality of KTMF - Missoula News is reported to be High	entailment
+The factuality of KTMF - Missoula News is reported to be High, according to D. Van Zandt	entailment
+KTMF - Missoula News failed a fact-check for an article titled "Biden Tests Negative For Covid".	contradiction
+KTMF - Missoula News printed a retraction after failing a fact-check for an article titled "Biden Tests Negative For Covid".	contradiction
+KTMF - Missoula News chose not to cover opinion content	entailment
+KTMF - Missoula News relies on advertising for revenue	entailment
+KTMF - Missoula News relies on subscriptions for revenue	entailment
+KTMF - Missoula News relies on donations for revenue	contradiction
+When aggregating stories, KTMF - Missoula News relies on information from [The Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+KTMF - Missoula News has endorsed **Joe Biden Tests Negative For Covid**	contradiction
+KTMF - Missoula News has an editorial bias towards least biased	entailment
+KTMF - Missoula News printed a factually misleading titled  "Biden Tests Negative For Covid".	contradiction
+KTMF - Missoula News had to apologize for **none**.	entailment
+KTMF - Missoula News is a least biased	entailment
+KTMF - Missoula News covers the following topics: local news, sports, weather, crime, and business news	entailment

@@ -1,0 +1,15 @@
+History
+Founded in 2017, The Conservative Institute is Right-leaning news and opinion website. According to its
+[mission statement](https://www.conservativeinstitute.org/mission-statement), “The Conservative, Institute exists to provide a platform for well-reasoned, well-written, and well-distributed articles and columns defending conservative values.” They further state, “In a world of endless propaganda, misleading headlines, and shallow content, finding quality news sources is nearly impossible. This problem is especially severe for readers of the conservative persuasion.”
+This website also lacks transparency as they do not name authors, and they do not openly disclose ownership.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website does not disclose ownership; however, according to its
+[Terms of Use](https://www.conservativeinstitute.org/about-us/terms-of-service) page, they are held by Conservative Institute, LLC, but does not disclose who owns it. Revenue is derived through advertising.
+Analysis / Bias
+In review, the Conservative Institute publishes news in three categories. First is Breaking News, which typically uses minimal to moderate loaded language in headlines such as this
+[Democrats offer to repeal Obamacare tax as spending talks continue: Report](https://www.conservativeinstitute.org/conservative-news/democrats-offer-obamacare-tax.htm). This story is appropriately sourced from [The Hill](https://mediabiasfactcheck.com/the-hill/) and [Newsweek](https://mediabiasfactcheck.com/newsweek/). The second category is Political Analysis, which features op-eds from prominent conservatives such as David Limbaugh, [Ben Shapiro](https://mediabiasfactcheck.com/ben-shapiro-bias-rating/), and Michelle Malkin, some of which do not have positive records with fact-checkers. The third category is CI Digest, which appears to be op-eds written by Daniel Vaughan, who is listed as a [columnist](https://www.zoominfo.com/p/Daniel-Vaughan/-853553642) for CI, though not on the actual website. Regarding sourcing, we found instances of links to the questionable [Breitbart](https://mediabiasfactcheck.com/breitbart/), which has failed numerous fact checks.
+When reporting on the science of
+[climate change](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/), the CI does not deny human impacts on climate change, but some articles question government-based solutions. In general, the Conservative Institute reports mostly factual with a strong right conservative bias in story selection and editorial positions.
+Failed Fact Checks
+[Official White House communications have directed that the Biden administration should be referred to as the “Biden-Harris Administration,” breaking from precedents set by previous administrations.](https://misbar.com/en/factcheck/2021/03/25/biden-administration-referred-to-as-biden-harris-administration-rdquo)– False

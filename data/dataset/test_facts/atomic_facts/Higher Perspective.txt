@@ -1,0 +1,19 @@
+Higher Perspective is funded through advertising	entailment
+The remit of Higher Perspective is to spirituality, health, astrology, and relationships.	entailment
+The mission of Higher Perspective is to  disseminate opinion-based content about spirituality, health, astrology, and relationships.	entailment
+Higher Perspective tends to the promotion of pseudoscience	entailment
+Other sources have commented on Higher Perspective, stating that it tends to be a strong pseudoscience website.	entailment
+The factuality of Higher Perspective is reported to be strong	contradiction
+The factuality of Higher Perspective is reported to be low, according to Media Bias/Fact Check.	entailment
+Higher Perspective failed a fact-check for an article titled **“New research says drinking wine is more important than exercise for living past 90.”**	entailment
+Higher Perspective printed a retraction after failing a fact-check for an article titled **"New research says drinking wine is more important than exercise for living past 90."**	contradiction
+Higher Perspective chose not to cover political content	entailment
+Higher Perspective provides original content written by staff journalists	contradiction
+Higher Perspective relies on advertising for revenue	entailment
+Higher Perspective relies on subscriptions for revenue	entailment
+Higher Perspective relies on donations for revenue	contradiction
+Higher Perspective has endorsed pseudoscience.	entailment
+Higher Perspective has an editorial bias towards **pseudoscience**	entailment
+Higher Perspective printed a factually misleading titled "The Exceptional Benefits of Beetroot That Make It An Almost Miracle Food".	entailment
+Higher Perspective is a pseudoscience website	entailment
+Higher Perspective covers the following topics: relationships, health, lifestyle, spirituality, astrology, and 	entailment

@@ -1,0 +1,22 @@
+Gray Television founded WJHG News	contradiction
+WJHG News leads WJHG News	contradiction
+Gray Television owns WJHG News	entailment
+Gray Television is the owner of WJHG News	entailment
+Gray Television bought WJHG News	contradiction
+Gray Television acquired WJHG News	entailment
+WJHG News is funded through advertising	entailment
+The remit of WJHG News is to report news factually and with minimal bias.	entailment
+The mission of WJHG News is to report news factually and with minimal bias.	entailment
+The usual audience of WJHG News is residents of Panama City, Florida, and the surrounding area.	entailment
+WJHG News tends to the  Least Biased	entailment
+WJHG News tends to the least biased according to minimal loaded language	entailment
+Other sources have commented on WJHG News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WJHG News is reported to be High	entailment
+The factuality of WJHG News is reported to be High, according to D. Van Zandt	entailment
+WJHG News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+WJHG News chose not to cover an opinion page.	entailment
+WJHG News relies on advertising for revenue	entailment
+WJHG News relies on donations for revenue	contradiction
+WJHG News has an editorial bias towards Least Biased	entailment
+WJHG News was fined 	entailment
+WJHG News printed a biased article titled "Failed Fact Checks".	contradiction

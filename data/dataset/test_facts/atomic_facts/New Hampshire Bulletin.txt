@@ -1,0 +1,20 @@
+States Newsroom founded New Hampshire Bulletin	entailment
+New Hampshire Bulletin is funded through  grants and a coalition of donors and readers.	entailment
+The remit of New Hampshire Bulletin is to keep the people of the Granite State informed about the issues that matter most.	entailment
+The mission of New Hampshire Bulletin is to keep the people of the Granite State informed about the issues that matter most.	entailment
+New Hampshire Bulletin tends to the left	entailment
+Other sources have commented on New Hampshire Bulletin, stating that it tends to be **Left Biased**	entailment
+The factuality of New Hampshire Bulletin is reported to be High	entailment
+The factuality of New Hampshire Bulletin is reported to be High, according to Mediabiasfactcheck.com	entailment
+New Hampshire Bulletin failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+New Hampshire Bulletin relies on advertising for revenue	entailment
+New Hampshire Bulletin relies on subscriptions for revenue	entailment
+New Hampshire Bulletin relies on donations for revenue	entailment
+New Hampshire Bulletin has received donations from **a coalition of donors and readers**	entailment
+When aggregating stories, New Hampshire Bulletin relies on information from **whitehouse.gov**, **Washington Post**, **Politico**, **Center for Responsive Politics (Open Secrets)**, and **bls.gov** (U.S. Bureau of Labor Statistics).	entailment
+New Hampshire Bulletin has endorsed **a liberal perspective**	entailment
+New Hampshire Bulletin has an editorial bias towards left	entailment
+M. Huitsing is the editor of New Hampshire Bulletin	entailment
+New Hampshire Bulletin printed a biased article titled "A sweet deal: New Hampshire wins grant to support maple syrup producers"	entailment
+New Hampshire Bulletin is a Left Biased	entailment
+New Hampshire Bulletin covers the following topics: politics, policy, environment, national policy, LGBT equality, climate change, Republican politicians.	entailment

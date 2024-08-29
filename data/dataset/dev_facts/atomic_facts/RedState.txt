@@ -1,0 +1,18 @@
+Salem Media Group owns RedState	entailment
+Salem Media Group is the owner of RedState	entailment
+RedState is funded through online advertising	entailment
+The remit of RedState is to publish conservative news and opinion.	entailment
+The mission of RedState is to support the right and denigrate the left.	entailment
+The usual audience of RedState is conservative.	entailment
+RedState tends to the right	entailment
+RedState tends to the right according to bias	entailment
+Other sources have commented on RedState, stating that it tends to be **extremely right-wing biased**	entailment
+The factuality of RedState is reported to be Questionable	entailment
+The factuality of RedState is reported to be mixed, according to Media Bias/Fact Check.	entailment
+RedState failed a fact-check for an article titled "Facebook tried to 'shut down' the campaign to recall California Gov. Gavin Newsom."	entailment
+RedState chose not to cover articles critical of President Trump	entailment
+RedState relies on advertising for revenue	entailment
+RedState relies on subscriptions for revenue	entailment
+RedState relies on donations for revenue	entailment
+RedState has an editorial bias towards **right-wing conservatism**	entailment
+RedState had to apologize for **several failed fact checks**	entailment

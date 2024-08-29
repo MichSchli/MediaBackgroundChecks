@@ -1,0 +1,22 @@
+Naspers founded News24 (South Africa)	entailment
+Naspers is the founder of News24 (South Africa)	entailment
+Media24 leads News24 (South Africa)	entailment
+Media24 owns News24 (South Africa)	entailment
+Media24 is the owner of News24 (South Africa)	entailment
+Media24 bought News24 (South Africa)	contradiction
+Media24 acquired News24 (South Africa)	entailment
+News24 (South Africa) is funded through advertising and subscription fees	entailment
+The remit of News24 (South Africa) is to cover	entailment
+The mission of News24 (South Africa) is to **provide fact-based news on the right side of least biased**	entailment
+The usual audience of News24 (South Africa) is South Africans	entailment
+News24 (South Africa) tends to the least biased.	entailment
+News24 (South Africa) tends to the right according to Reuters Institute	entailment
+Other sources have commented on News24 (South Africa), stating that it tends to be **least biased**.	entailment
+The factuality of News24 (South Africa) is reported to be High	entailment
+The factuality of News24 (South Africa) is reported to be High, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/news24/).	entailment
+News24 (South Africa) failed a fact-check for an article titled Overall, we rate News24.com Least Biased based on reasonably balanced editorial perspectives.	contradiction
+News24 (South Africa) relies on advertising for revenue	entailment
+News24 (South Africa) relies on subscriptions for revenue	entailment
+News24 (South Africa) relies on donations for revenue	contradiction
+When aggregating stories, News24 (South Africa) relies on information from large credible media sources such as AFP, Bloomberg, Al Jazeera, and Reuters.	entailment
+News24 (South Africa) has an editorial bias towards **slightly more favoring the right**	entailment

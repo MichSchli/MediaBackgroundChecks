@@ -1,0 +1,19 @@
+Gray Television owns Red River Valley News	entailment
+The remit of Red River Valley News is to  provide news coverage for the Red-River Valley market and the surrounding areas.	entailment
+The mission of Red River Valley News is to  report news factually and with minimal bias.	entailment
+The usual audience of Red River Valley News is **the Red-River Valley market and the surrounding areas**.	entailment
+Red River Valley News tends to the Red-River Valley market	entailment
+Other sources have commented on Red River Valley News, stating that it tends to be **least biased**.	entailment
+The factuality of Red River Valley News is reported to be High	entailment
+The factuality of Red River Valley News is reported to be high, according to D. Van Zandt	entailment
+Red River Valley News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Red River Valley News chose not to cover an opinion page.	entailment
+Red River Valley News relies on advertising for revenue	entailment
+Red River Valley News relies on subscriptions for revenue	contradiction
+Red River Valley News relies on donations for revenue	contradiction
+Red River Valley News has an editorial bias towards Least Biased.	entailment
+Red River Valley News printed a biased article titled Least Biased.	contradiction
+Red River Valley News printed a factually misleading titled None in the Last 5 years	entailment
+Red River Valley News had to apologize for \ "None in the Last 5 years".	entailment
+Red River Valley News is funded by the United States government	contradiction
+Red River Valley News covers the following topics: History, funded by/ownership, analysis/bias, failed fact checks.	entailment

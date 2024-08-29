@@ -1,0 +1,23 @@
+ThinkPol founded ThinkPol	contradiction
+ThinkPol leads ThinkPol	entailment
+ThinkPol owns ThinkPol	entailment
+ThinkPol is the owner of ThinkPol	entailment
+ThinkPol bought ThinkPol	contradiction
+ThinkPol acquired ThinkPol	contradiction
+ThinkPol is funded through reader donations and advertising	entailment
+The remit of ThinkPol is to **provide investigative journalism and news reporting on Canadian political issues**	entailment
+The mission of ThinkPol is to provide investigative journalism and news reporting on Canadian political issues.	entailment
+ThinkPol tends to the left	entailment
+Other sources have commented on ThinkPol, stating that it tends to be left-biased.	entailment
+The factuality of ThinkPol is reported to be High	entailment
+The factuality of ThinkPol is reported to be High, according to D. Van Zandt 	entailment
+ThinkPol relies on advertising for revenue	entailment
+ThinkPol relies on donations for revenue	entailment
+ThinkPol has received donations from **reader donations and advertising**.	entailment
+ThinkPol has endorsed **a progressive perspective**	entailment
+ThinkPol has an editorial bias towards left-leaning perspective	entailment
+ThinkPol had to apologize for **None in the Last 5 years**	entailment
+ThinkPol had to apologize to readers for a failed fact check	contradiction
+ThinkPol is funded by the Canadian government	contradiction
+ThinkPol is a left-biased	entailment
+ThinkPol covers the following topics: Canadian politics, investigative journalism, Canadian political issues, left-leaning perspectives, progressive perspectives, Israeli-Palestinian conflict.	entailment

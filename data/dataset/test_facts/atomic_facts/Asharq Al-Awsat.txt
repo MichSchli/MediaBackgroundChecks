@@ -1,0 +1,19 @@
+Saudi Research and Marketing Group (SRMG) owns Asharq Al-Awsat	entailment
+Faisal bin Salman bin Abdulaziz Al Saud is the owner of Asharq Al-Awsat	entailment
+The Saudi Research and Marketing Group (SRMG) bought Asharq Al-Awsat	entailment
+The Saudi Research and Marketing Group (SRMG) acquired Asharq Al-Awsat	entailment
+Asharq Al-Awsat is funded through **advertising**	entailment
+The remit of Asharq Al-Awsat is to **cover news throughout the Middle East region, the US, and Europe**	entailment
+The usual audience of Asharq Al-Awsat is **right-center Biased**	entailment
+Asharq Al-Awsat tends to the right-center Bias	entailment
+Other sources have commented on Asharq Al-Awsat, stating that it tends to be right-center biased.	entailment
+Asharq Al-Awsat chose not to cover **Qatar's targeting of Saudi Arabia**	contradiction
+Asharq Al-Awsat relies on advertising for revenue	entailment
+Asharq Al-Awsat relies on subscriptions for revenue	contradiction
+Asharq Al-Awsat has endorsed **the Saudi Government**.	entailment
+Asharq Al-Awsat has an editorial bias towards **right-center Biased**	entailment
+Ghassan Charbel is the editor of Asharq Al-Awsat	entailment
+Asharq Al-Awsat printed a biased article titled **“Trump and a World Without Gary Cooper.”**	entailment
+Asharq Al-Awsat's headquarter is located in London	entailment
+Asharq Al-Awsat is a **right-center biased**	entailment
+Asharq Al-Awsat covers the following topics: News throughout the Middle East region, the US, and Europe, as well as international perspectives.	entailment

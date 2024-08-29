@@ -1,0 +1,22 @@
+Metric Media LLC owns NW Kentucky News	entailment
+Metric Media LLC bought NW Kentucky News	entailment
+The NW Kentucky News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of NW Kentucky News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of NW Kentucky News is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of NW Kentucky News is **right-center**.	entailment
+The NW Kentucky News tends to the right-center.	entailment
+Other sources have commented on NW Kentucky News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of NW Kentucky News is reported to be Questionable	entailment
+The factuality of NW Kentucky News is reported to be **Questionable**, according to **Media Bias/Fact Check**.	entailment
+NW Kentucky News failed a fact-check for an article titled **Partisan news outlets seek to fill void in US news deserts**.	entailment
+NW Kentucky News relies on advertising for revenue	entailment
+NW Kentucky News relies on donations for revenue	entailment
+NW Kentucky News has received donations from the Metric Media Foundation	entailment
+When aggregating stories, NW Kentucky News relies on information from **algorithmically produced content**.	entailment
+The NW Kentucky News has endorsed false information	entailment
+NW Kentucky News has an editorial bias towards conservative-leaning news websites.	entailment
+NW Kentucky News printed a biased article titled ["Imposter Site Lacks Transparency and Publishes False Information"](https://nwkentuckynews.com/).	entailment
+NW Kentucky News had to apologize for publishing false information.	entailment
+NW Kentucky News is funded by the Metric Media Foundation	entailment
+NW Kentucky News is a **conservative-leaning news website**	entailment
+NW Kentucky News covers the following topics: conservative-leaning news.	entailment

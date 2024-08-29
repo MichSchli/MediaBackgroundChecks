@@ -1,0 +1,22 @@
+Tyler Cowan founded Marginal Revolution	contradiction
+Tyler Cowan is the founder of Marginal Revolution	contradiction
+Cowan and Tabarrok own Marginal Revolution	entailment
+Tyler Cowan is the owner of Marginal Revolution	contradiction
+Cowan bought Marginal Revolution	entailment
+Cowan acquired Marginal Revolution	contradiction
+Marginal Revolution is funded through **selling a book they co-wrote called Modern Principles of Economics**	entailment
+The remit of Marginal Revolution is to feature original writing from Cowan and Tabarrok and a daily list of links to general interest news stories and facts curated by Tyler Cowan.	entailment
+The usual audience of Marginal Revolution is **those interested in economics**	entailment
+Marginal Revolution tends to the Right-Center according to D. Van Zandt	entailment
+Other sources have commented on Marginal Revolution, stating that it tends to be **Right-Center Biased**	entailment
+The factuality of Marginal Revolution is reported to be High	entailment
+The factuality of Marginal Revolution is reported to be High, according to Daily News Bin	entailment
+Marginal Revolution failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Marginal Revolution chose not to cover [climate change](https://marginalrevolution.com/?s=climate+change)	contradiction
+Marginal Revolution relies on subscriptions for revenue	entailment
+When aggregating stories, Marginal Revolution relies on information from **PNAS, Economist, Buzzfeed, and the Atlantic**.	entailment
+Marginal Revolution has endorsed **free-market economics**	entailment
+Marginal Revolution has an editorial bias towards Libertarian-leaning.	entailment
+Marginal Revolution was fined **None in the Last 5 years**	entailment
+Marginal Revolution printed a biased article titled "What libertarianism has become and will become — State Capacity Libertarianism"	contradiction
+Marginal Revolution had to apologize for **none in the Last 5 years**	entailment

@@ -1,0 +1,20 @@
+History
+Founded in 2019, The City is an online publication that provides news and opinions about the 5 boroughs of New York City. According to their
+[about page](https://thecity.nyc/about/us.html), “THE CITY is an independent, nonprofit news outlet dedicated to hard-hitting reporting that serves the people of New York. Our reporters pound the pavement in all five boroughs, working with New Yorkers to tell their stories and make their lives better.” For a full masthead of staff, see [here](https://thecity.nyc/about/team.html). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The City is a nonprofit that is funded through donations. They are transparent by listing their
+[largest donors](https://thecity.nyc/about/funders.html) as follows:
+- Leon Levy Foundation
+- Craig Newmark Philanthropies
+- Charles H. Revson Foundation
+- Arnold Ventures
+- The John S. and James L. Knight Foundation
+- Oak Foundation
+- Richard Ravitch Foundation
+Analysis / Bias
+In review, The City has a partnership with New York Media, in which their stories are published on the
+[New York Magazine](https://mediabiasfactcheck.com/new-york-magazine/) website. The City provides original reporting ranging from local first person accounting to in-depth investigations covering lifestyle and politics.
+The City typically does not use loaded emotional language in articles and headlines such as this:
+[Trained Operators for Coronavirus Patient Ventilators Scarce in New York](https://thecity.nyc/2020/03/trained-operators-for-coronavirus-ventilators-scarce-in-nys.html). This story, like most, is correctly sourced to credible outlets such as NYC.gov and the State Department of Education. Story selection tends to lean left with many articles covering social justice and education. Generally, the news is reported factually with a slight left-leaning bias in story selection.
+Failed Fact Checks
+- None

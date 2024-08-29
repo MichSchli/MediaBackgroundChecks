@@ -1,0 +1,19 @@
+Jim Hodgson owns The Atlanta Banana	entailment
+Jim Hodgson is the owner of The Atlanta Banana	entailment
+Jim Hodgson bought The Atlanta Banana	contradiction
+Jim Hodgson acquired The Atlanta Banana	contradiction
+The remit of The Atlanta Banana is to **satirize media mega-hype or parody hypocrisy**	entailment
+The mission of The Atlanta Banana is to **introduce the idea in even a single person’s brain that they should question everything they read**.	entailment
+Other sources have commented on The Atlanta Banana, stating that it tends to be a Satire website.	entailment
+The factuality of The Atlanta Banana is reported to be a Satire website	entailment
+The factuality of The Atlanta Banana is reported to be Satire, according to D. Van Zandt 3/16/2017.	entailment
+The Atlanta Banana printed a retraction after failing a fact-check for an article titled "".	entailment
+The Atlanta Banana chose not to cover satire content.	contradiction
+The Atlanta Banana provides original content written by staff journalists	contradiction
+The Atlanta Banana has an editorial bias towards **satire**	entailment
+The Atlanta Banana printed a biased article titled ""	contradiction
+The Atlanta Banana printed a factually misleading titled **article**.	entailment
+The Atlanta Banana had to apologize for **nothing**	entailment
+The Atlanta Banana is funded by the  government.	contradiction
+The Atlanta Banana is a Satire website	entailment
+The Atlanta Banana covers the following topics: **satire**	entailment

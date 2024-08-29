@@ -1,0 +1,18 @@
+Metric Media Foundation owns Nebraska Panhandle News	entailment
+Metric Media LLC is the owner of Nebraska Panhandle News	entailment
+Nebraska Panhandle News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Nebraska Panhandle News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Nebraska Panhandle News is to **provide objective, data-driven information without political bias.**	contradiction
+The usual audience of Nebraska Panhandle News is **right-center, biased, and Questionable**.	entailment
+Nebraska Panhandle News tends to the **right-center**	entailment
+Nebraska Panhandle News tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on Nebraska Panhandle News, stating that it tends to be right-center.	entailment
+The factuality of Nebraska Panhandle News is reported to be Questionable.	entailment
+The factuality of Nebraska Panhandle News is reported to be Questionable, according to D. Van Zandt 	entailment
+Nebraska Panhandle News relies on advertising for revenue	entailment
+Nebraska Panhandle News relies on subscriptions for revenue	contradiction
+Nebraska Panhandle News relies on donations for revenue	entailment
+Nebraska Panhandle News has received donations from [the Metric Media Foundation](https://www.courthousenews.com/partisan-news-outlets-seek-to-fill-void-in-us-news-deserts/)	entailment
+Nebraska Panhandle News has endorsed right-center political bias	entailment
+Nebraska Panhandle News has an editorial bias towards conservative	entailment
+Nebraska Panhandle News printed a biased article titled "Imposter Site, Lacks Transparency, and Publishes False Information."	entailment

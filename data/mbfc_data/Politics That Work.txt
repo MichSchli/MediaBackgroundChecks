@@ -1,0 +1,21 @@
+Factual Reporting: MOSTLY FACTUAL
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+Founded in 2014, Politics That Work is a website dedicated to providing statistical evidence on political issues such as crime, guns, and economy. According to their
+[about page](http://politicsthatwork.com/about.php) “The goal of this site is to facilitate a more rational, data-driven, pragmatic approach to making political decisions. As voters, we tend to make political decisions intuitively based on the series of zingers, gaffes, slogans, and personalities that the media floods our TV sets and monitors with. The result of that approach, we think everybody would agree, is not optimal.”
+The website lacks transparency as there is not an editor listed, articles and research do not list authors and ownership is not disclosed.
+[Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Politics that Work does not disclose ownership. Revenue is derived through advertising.
+Analysis / Bias
+In review, Politics that Work provides information in the following categories: policy stats, which consist of charts and graphs on topics such as guns, income, and the environment. Next is Voting Records which shows the voting records of politicians. They also have a category for articles and news.
+Policy Stats: The charts and graphs generated in this category use credible sources such as Govtrack, FBI, Gallup, and the census. The information provided is factual and presented with minimal bias.
+Voting Records: This category shows the major votes by candidates on a variety of topics such as economy and crime. Again, this is well sourced and factual.
+Articles: In this category, you will find original articles that look at topics such as this:
+[Which Political Party Has Created More Jobs?](http://politicsthatwork.com/democrats-create-more-jobs.php). The articles reviewed were factual and well sourced.
+News: Under the news category they curate news from other sources that are typically listed in our Left, Left-Center, or Least Biased category. For example, the top 10 articles come from
+[Project-Syndicate](https://mediabiasfactcheck.com/project-syndicate/) (Least Biased), [New York Times](https://mediabiasfactcheck.com/new-york-times/) (Left-Center), [Economic Policy Institute](https://mediabiasfactcheck.com/economic-policy-institute/) (Left-Center), [CNN](https://mediabiasfactcheck.com/cnn/) (Left), [Washington Post](https://mediabiasfactcheck.com/washington-post/) (Left-Center), [Vox](https://mediabiasfactcheck.com/vox/) (Left), [New York Magazine](https://mediabiasfactcheck.com/new-york-magazine/) (Left), and [The Nation](https://mediabiasfactcheck.com/the-nation/) (Left).
+In general, the news is reported accurately, however, there is a left-leaning editorial bias as well as stats and charts that favor the left. While the information may be accurate the selection of data could possibly be left-leaning in bias.
+A
+[factual search](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=politics%20that%20work&gsc.sort=) reveals they have not failed a fact check.

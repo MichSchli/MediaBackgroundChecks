@@ -1,0 +1,21 @@
+The Olympian is the founder of The Olympian	contradiction
+Chatham Asset Management leads The Olympian	entailment
+Chatham Asset Management owns The Olympian	entailment
+Chatham Asset Management is the owner of The Olympian	entailment
+Chatham Asset Management acquired The Olympian	entailment
+The Olympian is funded through **advertising and subscription fees**	entailment
+The remit of The Olympian is to cover local news and national news with minimal bias.	entailment
+The Olympian tends to the **left**	entailment
+Other sources have commented on The Olympian, stating that it tends to be Left-Center biased	entailment
+The factuality of The Olympian is reported to be High	entailment
+The factuality of The Olympian is reported to be high, according to strong sourcing	entailment
+The Olympian failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+The Olympian printed a retraction after failing a fact-check for an article titled "Sessions re-declares war on the 21st century"	contradiction
+The Olympian chose not to cover Failed Fact Checks	entailment
+The Olympian relies on advertising for revenue	entailment
+The Olympian relies on subscriptions for revenue	entailment
+The Olympian relies on donations for revenue	contradiction
+When aggregating stories, The Olympian relies on information from [McClatchy](https://mediabiasfactcheck.com/mcclatchy/).	entailment
+The Olympian has endorsed a liberal perspective	entailment
+The Olympian has an editorial bias towards **left-leaning**	entailment
+The Olympian printed a biased article titled Sessions re-declares war on the 21st century	entailment

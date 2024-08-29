@@ -1,0 +1,16 @@
+Constative is funded through advertising	entailment
+The mission of Constative is to provide “interesting and engaged news.”	entailment
+Constative tends to the right-center biased	entailment
+Other sources have commented on Constative, stating that it tends to be **right-center biased**.	entailment
+The factuality of Constative is reported to be questionable	entailment
+The factuality of Constative is reported to be questionable, according to Media Bias/Fact Check.	entailment
+Constative chose not to cover politics	entailment
+Constative relies on advertising for revenue	entailment
+Constative relies on subscriptions for revenue	entailment
+Constative relies on donations for revenue	entailment
+Constative has an editorial bias towards right-center.	entailment
+Who is the editor of Constative	contradiction
+Constative printed a biased article titled "27 Famous People Who Said Really Dumb Things."	entailment
+Constative is funded by the US government	contradiction
+Constative is a biased	entailment
+Constative covers the following topics: sports, entertainment, and auto news	entailment

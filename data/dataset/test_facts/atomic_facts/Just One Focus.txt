@@ -1,0 +1,18 @@
+Steve Jeffrey founded Just One Focus	entailment
+Steve Jeffery is the founder of Just One Focus.	entailment
+The remit of Just One Focus is to promote far-right conspiracy theories and debunked pseudoscience.	entailment
+The mission of Just One Focus is to promote conspiracy theories and alternative viewpoints.	entailment
+The usual audience of Just One Focus is **an audience receptive to fringe beliefs and alternative explanations for natural phenomena**	entailment
+Just One Focus tends to the **far-right conspiracy and pseudoscience**	entailment
+Other sources have commented on Just One Focus, stating that it tends to be **far-right**	entailment
+The factuality of Just One Focus is reported to be lacking.	entailment
+The factuality of Just One Focus is reported to be low, according to Mediabiasfactcheck.com.	entailment
+Just One Focus chose not to cover ad revenue, solicit donations, promote commercial products, or engage in Bitcoin promotions.	entailment
+Just One Focus relies on advertising for revenue	contradiction
+When aggregating stories, Just One Focus relies on information from [podcasts](https://www.justonefocus.org/).	entailment
+Just One Focus has endorsed Tucker Carlson, a prominent right-wing figure.	entailment
+Just One Focus has an editorial bias towards far-right conspiracies.	entailment
+Just One Focus printed a biased article titled "Australia, What President Trump is Doing Globally Will Shock You! Just Say ‘Thank You'".	entailment
+Just One Focus printed a factually misleading titled Australian QAnon Website	entailment
+Just One Focus is a Australian website	entailment
+Just One Focus covers the following topics: global financial systems, government actions, health-related conspiracies, weather-related conspiracies, political conspiracies, chemtrails, alternative narratives, mainstream beliefs, Tucker Carlson, Vladimir Putin, President Trump, far-right conspiracies, scientific consensus, and governmental institutions.	contradiction

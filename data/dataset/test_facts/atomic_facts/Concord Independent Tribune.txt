@@ -1,0 +1,22 @@
+Lee Enterprises founded Concord Independent Tribune	contradiction
+Lee Enterprises owns Concord Independent Tribune	entailment
+Lee Enterprises is the owner of Concord Independent Tribune	entailment
+Lee Enterprises bought Concord Independent Tribune	entailment
+Concord Independent Tribune is funded through advertising and subscription fees	entailment
+The remit of Concord Independent Tribune is to **cover news, sports, entertainment, lifestyle, and opinion for Concord and the surrounding area**	entailment
+The mission of Concord Independent Tribune is to provide news, sports, entertainment, lifestyle, and opinion for Concord and the surrounding area.	entailment
+The usual audience of Concord Independent Tribune is **residents of Concord and the surrounding area**	entailment
+Concord Independent Tribune tends to the least biased.	entailment
+Other sources have commented on Concord Independent Tribune, stating that it tends to be **Least Biased**	entailment
+The factuality of Concord Independent Tribune is reported to be High	entailment
+The factuality of Concord Independent Tribune is reported to be High, according to D. Van Zandt.	entailment
+Concord Independent Tribune chose not to cover failed fact checks.	entailment
+Concord Independent Tribune provides original content written by staff journalists	entailment
+Concord Independent Tribune relies on advertising for revenue	entailment
+Concord Independent Tribune relies on subscriptions for revenue	entailment
+Concord Independent Tribune relies on donations for revenue	contradiction
+When aggregating stories, Concord Independent Tribune relies on information from **first-person accounts or through credible media**	entailment
+Concord Independent Tribune has an editorial bias towards **the right**	contradiction
+The Concord Independent Tribune is funded by the **advertising and subscription fees** government	contradiction
+Concord Independent Tribune is a daily newspaper	entailment
+Concord Independent Tribune covers the following topics: news, sports, entertainment, lifestyle, and opinion for Concord and the surrounding area.	entailment

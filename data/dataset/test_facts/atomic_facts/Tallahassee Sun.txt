@@ -1,0 +1,19 @@
+Metric Media Foundation owns Tallahassee Sun	entailment
+The Tallahassee Sun is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Tallahassee Sun is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Tallahassee Sun is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of Tallahassee Sun is **conservative-leaning**	entailment
+Tallahassee Sun tends to the right-center	entailment
+Other sources have commented on Tallahassee Sun, stating that it tends to be right-center biased.	entailment
+The factuality of Tallahassee Sun is reported to be Questionable	entailment
+The factuality of Tallahassee Sun is reported to be Questionable, according to D. Van Zandt.	entailment
+Tallahassee Sun failed a fact-check for an article titled "Imposter Site, Lacks Transparency, and Publishes False Information"	entailment
+Tallahassee Sun relies on advertising for revenue	entailment
+Tallahassee Sun relies on donations for revenue	entailment
+Tallahassee Sun has received donations from **the Metric Media Foundation**	entailment
+When aggregating stories, Tallahassee Sun relies on information from **algorithmically produced content**.	entailment
+The Tallahassee Sun has endorsed **right-center, biased, and Questionable**	entailment
+Tallahassee Sun has an editorial bias towards **right-leaning**	entailment
+The Tallahassee Sun is a **right-center, biased, and Questionable**	entailment
+Tallahassee Sun uses a peer review process	entailment
+Tallahassee Sun covers the following topics: conservative-leaning news and opinion	entailment

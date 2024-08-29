@@ -1,0 +1,21 @@
+Franciscan Friars of Our Lady of Guadalupe Province founded Franciscan Media	entailment
+Franciscan Friars of Our Lady of Guadalupe Province	entailment
+Franciscan Media is funded through donations	entailment
+The remit of Franciscan Media is to share the Franciscan perspective on faith and spirituality with a broad audience.	entailment
+The mission of Franciscan Media is to share the Franciscan perspective on faith and spirituality with a broad audience.	entailment
+The usual audience of Franciscan Media is **Catholic**	entailment
+Franciscan Media tends to the left-center biased	entailment
+Other sources have commented on Franciscan Media, stating that it tends to be left-center biased.	entailment
+The factuality of Franciscan Media is reported to be Mostly Factual.	entailment
+The factuality of Franciscan Media is reported to be Mostly Factual, according to M. Huitsing	entailment
+Franciscan Media chose not to cover **laws banning abortion**	entailment
+Franciscan Media relies on advertising for revenue	contradiction
+Franciscan Media relies on subscriptions for revenue	contradiction
+Franciscan Media relies on donations for revenue	entailment
+Franciscan Media has an editorial bias towards **a liberal perspective**.	entailment
+Franciscan Media printed a biased article titled "Latest Trump Indictment Sends U.S. to Uncharted Territory"	entailment
+Franciscan Media paid damages to  after Jose Fernandez	entailment
+Franciscan Media's headquarters is located in Cincinnati.	entailment
+Franciscan Media is funded by the Franciscan government	contradiction
+Franciscan Media is a publisher	entailment
+Franciscan Media covers the following topics: faith and spirituality, Minute Meditations, Saint of the Day, Pause+Pray, Faith and Family, and a blog, Franciscan Spirit.	entailment

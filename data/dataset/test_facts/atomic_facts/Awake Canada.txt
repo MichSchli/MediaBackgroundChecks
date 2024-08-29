@@ -1,0 +1,24 @@
+Awake Canada bought Awake Canada	contradiction
+Awake Canada is funded through donations and subscriptions for its videos	entailment
+The remit of Awake Canada is to promote conspiracy theories and pseudoscience	entailment
+The mission of Awake Canada is to promote conservative propaganda.	entailment
+The usual audience of Awake Canada is  right-wing conspiracy and pseudoscience website that promotes conservative propaganda.	entailment
+Awake Canada tends to the  conspiracy, anti-vaccination, and stolen election news.	entailment
+Other sources have commented on Awake Canada, stating that it tends to be **far right-biased and a Tin-Foil Hat Conspiracy and Quackery level Pseudoscience website**.	entailment
+The factuality of Awake Canada is reported to be  far right-biased and a Tin-Foil Hat Conspiracy and Quackery level Pseudoscience website based on promoting false and misleading information regarding Covid-19, the 2020 US Presidential Election, vaccines, and science.	entailment
+The factuality of Awake Canada is reported to be far right-biased and a Tin-Foil Hat Conspiracy and Quackery level Pseudoscience website, according to M Huitsing 03/28/2023.	entailment
+Awake Canada failed a fact-check for an article titled "Overview of Massive Voter Fraud to Steal the Election".	entailment
+Awake Canada chose not to cover weather modification.	contradiction
+Awake Canada relies on advertising for revenue	entailment
+Awake Canada relies on subscriptions for revenue	entailment
+Awake Canada relies on donations for revenue	entailment
+Awake Canada has received donations from **donations and subscriptions**	entailment
+When aggregating stories, Awake Canada relies on information from **Questionable sources**.	entailment
+Awake Canada has endorsed conspiracy theories and pseudoscience.	entailment
+Awake Canada has an editorial bias towards conservative.	entailment
+Awake Canada printed a biased article titled "Overview of Massive Voter Fraud to Steal the Election."	entailment
+Awake Canada printed a factually misleading titled **"Overview of Massive Voter Fraud to Steal the Election."**	entailment
+Awake Canada is funded by the private government	entailment
+Awake Canada is a conservative website	entailment
+Awake Canada uses a peer review process	contradiction
+Awake Canada covers the following topics: politics, science, Covid-19 conspiracy, anti-vaccination, and stolen election news.	entailment

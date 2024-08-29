@@ -1,0 +1,20 @@
+Bradley Cameron is the founder of SE Georgia News	contradiction
+Metric Media Foundation owns SE Georgia News	entailment
+SE Georgia News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of SE Georgia News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of SE Georgia News is to publish false information.	entailment
+The usual audience of SE Georgia News is **right-center, biased, and questionable**.	entailment
+SE Georgia News tends to the right-center	entailment
+Other sources have commented on SE Georgia News, stating that it tends to be right-center.	entailment
+The factuality of SE Georgia News is reported to be Questionable	entailment
+The factuality of SE Georgia News is reported to be Questionable, according to D. Van Zandt 06/01/2021	entailment
+SE Georgia News failed a fact-check for an article titled "Imposter Site Lacks Transparency And Publishes False Information"	entailment
+SE Georgia News relies on advertising for revenue	entailment
+SE Georgia News relies on donations for revenue	entailment
+SE Georgia News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, SE Georgia News relies on information from **algorithmically produced content**.	entailment
+SE Georgia News has endorsed right-center, biased, and Questionable.	entailment
+SE Georgia News has an editorial bias towards right-center.	entailment
+SE Georgia News printed a biased article titled **"An Examination of the Local Economy."**	entailment
+SE Georgia News printed a factually misleading titled **Imposter Site**	entailment
+SE Georgia News is a **Questionable**	entailment

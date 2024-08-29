@@ -1,0 +1,25 @@
+Max Blumenthal founded The Grayzone	entailment
+Max Blumenthal is the founder of The Grayzone	entailment
+Max Blumenthal is the CEO of The Grayzone	contradiction
+Max Blumenthal owns The Grayzone	entailment
+Max Blumenthal is the owner of The Grayzone	entailment
+Alternet bought The Grayzone	contradiction
+Alternet acquired The Grayzone	contradiction
+The Grayzone is funded through donations	entailment
+The remit of The Grayzone is to  publish original investigative journalism and analysis on politics and empire.	entailment
+The mission of The Grayzone is to  promote a far-left perspective.	entailment
+The usual audience of The Grayzone is **far-left**	entailment
+The Grayzone tends to the far-left	entailment
+Other sources have commented on The Grayzone, stating that it tends to be **far-left biased**	entailment
+The factuality of The Grayzone is reported to be Questionable.	entailment
+The factuality of The Grayzone is reported to be Questionable, according to D. Van Zandt 	entailment
+The Grayzone failed a fact-check for an article titled Far-Left Biased and Questionable based on the promotion of propaganda, conspiracy theories, and consistent one-sided reporting.	entailment
+The Grayzone chose not to cover **third-party fact-checker fact-checks**	entailment
+The Grayzone relies on advertising for revenue	contradiction
+The Grayzone relies on donations for revenue	entailment
+The Grayzone has endorsed socialist and far-left perspectives	entailment
+The Grayzone has an editorial bias towards far-left.	entailment
+The Grayzone printed a biased article titled ***The US is turning oil-rich Nigeria into a proxy for its Africa wars***	entailment
+The Grayzone's headquarter is located in Washington, D.C.	entailment
+The Grayzone is a far-left biased and questionable website.	entailment
+The Grayzone covers the following topics: Far-left perspective, conspiracy theories, pro-Russian/Chinese propaganda	entailment

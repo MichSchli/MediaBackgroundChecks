@@ -1,0 +1,21 @@
+Newsquest Media Group Ltd owns Central Fife Times	entailment
+Newsquest Media Group Ltd is the owner of Central Fife Times	entailment
+Newsquest Media Group Ltd bought Central Fife Times	contradiction
+Central Fife Times is funded through advertising and subscription fees.	entailment
+The remit of Central Fife Times is to **cover local news for the Dunfermline area**	entailment
+The mission of Central Fife Times is to **provide fact-based and minimally biased reporting on local news for the Dunfermline area**	entailment
+Central Fife Times tends to the **local news for the Dunfermline area**	entailment
+Central Fife Times tends to the least biased based on minimal editorializing of content according to Media Bias Fact Check.	entailment
+Other sources have commented on Central Fife Times, stating that it tends to be **least biased**	entailment
+The factuality of Central Fife Times is reported to be High	entailment
+The factuality of Central Fife Times is reported to be High, according to Media Bias/Fact Check.	entailment
+Central Fife Times failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Central Fife Times printed a retraction after failing a fact-check for an article titled "Councillors demand larger school portion sizes for hungry pupils"	contradiction
+Central Fife Times chose not to cover national and international news.	contradiction
+Central Fife Times relies on advertising for revenue	entailment
+Central Fife Times relies on donations for revenue	contradiction
+When aggregating stories, Central Fife Times relies on information from **first-person accounts and large quotes**.	entailment
+Central Fife Times has endorsed least biased based on minimal editorializing of content	entailment
+Central Fife Times has an editorial bias towards least biased.	entailment
+M. Huitsing is the editor of Central Fife Times	entailment
+Central Fife Times had to apologize for **none**	entailment

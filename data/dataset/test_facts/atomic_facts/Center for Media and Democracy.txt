@@ -1,0 +1,22 @@
+John Stauber founded Center for Media and Democracy	entailment
+John Stauber is the founder of Center for Media and Democracy	entailment
+Lisa Graves leads Center for Media and Democracy	entailment
+Center for Media and Democracy is funded through donations.	entailment
+The remit of Center for Media and Democracy is to investigate and expose public relations spin and propaganda such as corporate greenwashing and promoting media literacy and citizen journalism.	entailment
+The mission of Center for Media and Democracy is to  "strengthen participatory democracy by investigating and exposing public relations spin and propaganda such as corporate greenwashing and promoting media literacy and citizen journalism."	entailment
+The usual audience of Center for Media and Democracy is **those with a left-leaning bias**	entailment
+The Center for Media and Democracy tends to the left.	entailment
+Other sources have commented on Center for Media and Democracy, stating that it tends to be Left Biased	entailment
+The factuality of Center for Media and Democracy is reported to be High	entailment
+The factuality of Center for Media and Democracy is reported to be High, according to Mediabiasfactcheck.com	entailment
+Center for Media and Democracy failed a fact-check for an article titled "Massachusetts Law Could Blunt the Effect of Janus’s Attack on Unions"	contradiction
+Center for Media and Democracy relies on donations for revenue	entailment
+The Center for Media and Democracy has received donations from left-leaning foundations such as Open Society Foundations, Ford Foundation, and Tides Foundation.	entailment
+When aggregating stories, Center for Media and Democracy relies on information from numerous left-leaning foundations such as Open Society Foundations, Ford Foundation, and Tides Foundation.	entailment
+Center for Media and Democracy has an editorial bias towards **the progressive left**	entailment
+The Center for Media and Democracy was fined **N/A**	contradiction
+Center for Media and Democracy printed a biased article titled Left Biased based on editorial positions that always favor the progressive left.	entailment
+Center for Media and Democracy had to apologize to no one for nothing	entailment
+The Center for Media and Democracy is funded by the **United States** government	contradiction
+The Center for Media and Democracy is a nonprofit	entailment
+Center for Media and Democracy covers the following topics:  Left-leaning bias and progressive issues.	entailment

@@ -1,0 +1,23 @@
+Nduka Obaigbena founded This Day Live	entailment
+Nduka Obaigbena is the founder of This Day Live	entailment
+This Day Live leads This Day Live	entailment
+This Day Newspapers Ltd owns This Day Live	entailment
+This Day Newspapers Ltd bought This Day Live	contradiction
+This Day Live acquired This Day Live	contradiction
+This Day Live is funded through advertising	entailment
+The remit of This Day Live is to **cover business and political reporting and breaking major news stories**	entailment
+The mission of This Day Live is to cover a wide variety of news, with local news reporting being low-biased.	entailment
+The usual audience of This Day Live is **right-center**	entailment
+This Day Live tends to the right.	entailment
+Other sources have commented on This Day Live, stating that it tends to be right-center biased.	entailment
+The factuality of This Day Live is reported to be Mostly Factual	entailment
+The factuality of This Day Live is reported to be mostly factual, according to mediabiasfactcheck.com.	contradiction
+This Day Live chose not to cover **None in the Last 5 years**	entailment
+This Day Live relies on advertising for revenue	entailment
+This Day Live relies on donations for revenue	contradiction
+This Day Live has endorsed right-center biased editorial positions that align with the center-right government	entailment
+This Day Live has an editorial bias towards right-leaning President Bola Tinubu	entailment
+Nduka Obaigbena is the editor of This Day Live	entailment
+This Day Live printed a biased article titled BOLA TINUBU’S RENEWED HOPE 2023	entailment
+This Day Live is a Nigerian newspaper	entailment
+This Day Live covers the following topics: business and political reporting, breaking major news stories, local news reporting, right-leaning President Bola Tinubu.	entailment

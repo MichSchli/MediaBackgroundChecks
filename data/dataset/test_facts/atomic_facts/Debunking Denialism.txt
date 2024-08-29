@@ -1,0 +1,21 @@
+Emil Karlsson founded Debunking Denialism	entailment
+Emil Karlsson is the founder of Debunking Denialism	entailment
+Emil Karlsson owns Debunking Denialism	entailment
+Emil Karlsson is the owner of Debunking Denialism	entailment
+Who acquired Debunking Denialism	contradiction
+The remit of Debunking Denialism is to refute pseudoscience and denialism by applying scientific skepticism and defending evidence-based science.	entailment
+The mission of Debunking Denialism is to refute pseudoscience and denialism by applying scientific skepticism and defending evidence-based science.	entailment
+The usual audience of Debunking Denialism is Left-Center biased	entailment
+Debunking Denialism tends to the **Left-Center**	entailment
+Other sources have commented on Debunking Denialism, stating that it tends to be **Left-Center biased**.	entailment
+The factuality of Debunking Denialism is reported to be High	entailment
+The factuality of Debunking Denialism is reported to be high, according to D. Van Zandt	entailment
+Debunking Denialism chose not to cover a revenue source	entailment
+When aggregating stories, Debunking Denialism relies on information from properly sourced articles.	entailment
+Debunking Denialism has endorsed scientific skepticism and defending evidence-based science.	entailment
+Debunking Denialism has an editorial bias towards Left-Center	entailment
+Debunking Denialism printed a biased article titled **Quacks Who Let Their Son Die Demanded 4 Million Dollars. Court Rejected It**	entailment
+Debunking Denialism printed a factually misleading titled "Quacks Who Let Their Son Die Demanded 4 Million Dollars. Court Rejected It"."	entailment
+Debunking Denialism's headquarter is located in Sweden	entailment
+Debunking Denialism is a website	entailment
+Debunking Denialism covers the following topics: news that refutes pseudoscience, conspiracy theories, and junk science in general.	entailment

@@ -1,0 +1,17 @@
+RumorGuard is funded through the News Literacy Project.	entailment
+The remit of RumorGuard is to fact-check.	entailment
+The mission of RumorGuard is to **help people identify and avoid misinformation**	entailment
+RumorGuard tends to the **credibility**	entailment
+Other sources have commented on RumorGuard, stating that it tends to be **Least Biased**	entailment
+The factuality of RumorGuard is reported to be Very-High	entailment
+The factuality of RumorGuard is reported to be Very-High, according to D. Van Zandt.	entailment
+RumorGuard failed a fact-check for an article titled "Climate change denialists push doctored video of TV weather map".	entailment
+RumorGuard chose not to cover conspiracy theories and viral rumors.	contradiction
+RumorGuard relies on donations for revenue	entailment
+RumorGuard has received donations from  John S. and James L. Knight Foundation, Google News Initiatives, News Corp, and Microsoft.	entailment
+RumorGuard has an editorial bias towards **neither left nor right-leaning biases**	entailment
+RumorGuard printed a biased article titled *Climate change denialists push doctored video of TV weather map*	contradiction
+RumorGuard had to apologize to no one for no failed fact checks.	entailment
+RumorGuard is a fact-checking organization	entailment
+RumorGuard uses an internal fact-checking process	entailment
+RumorGuard covers the following topics: conspiracy theories and viral rumors	entailment

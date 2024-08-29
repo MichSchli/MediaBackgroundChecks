@@ -1,0 +1,22 @@
+Rio Salado College owns KJZZ - NPR - Phoenix	entailment
+Rio Salado College is the owner of KJZZ - NPR - Phoenix	entailment
+Rio Salado College acquired KJZZ - NPR - Phoenix	contradiction
+KJZZ - NPR - Phoenix is funded through **institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System**	entailment
+The remit of KJZZ - NPR - Phoenix is to **report news and radio programming information with a slight liberal bias**.	entailment
+The mission of KJZZ - NPR - Phoenix is to report news and radio programming information with a slight liberal bias.	entailment
+KJZZ - NPR - Phoenix tends to the left.	entailment
+Other sources have commented on KJZZ - NPR - Phoenix, stating that it tends to be Left-Center Biased	entailment
+The factuality of KJZZ - NPR - Phoenix is reported to be High	entailment
+The factuality of KJZZ - NPR - Phoenix is reported to be High, according to D. Van Zandt 06/18/2023	entailment
+KJZZ - NPR - Phoenix failed a fact-check for an article titled "Arizona hotline to report ‘inappropriate’ school lessons gets 30,000 prank calls"	contradiction
+KJZZ - NPR - Phoenix chose not to cover **failed fact checks**	entailment
+KJZZ - NPR - Phoenix relies on advertising for revenue	contradiction
+KJZZ - NPR - Phoenix relies on subscriptions for revenue	contradiction
+When aggregating stories, KJZZ - NPR - Phoenix relies on information from **NPR**, **American Public Media**, and the **Corporation for Public Broadcasting**.	entailment
+KJZZ - NPR - Phoenix has an editorial bias towards **the left**	entailment
+The biased article titled **"A transgender pronoun bill is making its way through the Arizona Senate, but it’s DOA for Gov. Hobbs"**.	entailment
+The factually misleading titled "**Arizona hotline to report ‘inappropriate’ school lessons gets 30,000 prank calls**".	entailment
+KJZZ - NPR - Phoenix had to apologize for **none in the Last 5 years**	entailment
+KJZZ - NPR - Phoenix's headquarter is located in Phoenix.	entailment
+KJZZ - NPR - Phoenix is a Left-Center Biased	entailment
+KJZZ - NPR - Phoenix covers the following topics: **news and radio programming information**.	entailment

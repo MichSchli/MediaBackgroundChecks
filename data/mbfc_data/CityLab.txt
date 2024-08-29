@@ -1,0 +1,13 @@
+History
+[Founded in 2011](https://en.wikipedia.org/wiki/The_Atlantic#CityLab), CityLab is a news website covering urban planning, policy, and city lifestyle. Their FAQ page states, “Through sharp analysis, original reporting, and visual storytelling, our coverage focuses on the most significant ideas and most pressing issues facing the world’s metro areas and neighborhoods. The website does not list an editor. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Atlantic Media-owned CityLab until December 2019, when
+[Bloomberg Media](https://en.wikipedia.org/wiki/Bloomberg_L.P.) purchased the website. Revenue is derived through advertising and sponsored content.
+Analysis / Bias
+In review, CityLab divides news into five sections. “Design” focuses on urban planning. “Transportation” reports on city transportation innovations. “Environment” focuses on pollution and climate change. “Equity” covers racism, and “Life,” writes about the city lifestyle.
+Articles and headlines often use minimally loaded language such as this:
+[The Cities Americans Want to Flee and Where They Want to Go](https://www.citylab.com/life/2020/01/where-to-move-most-affordable-cities-apartment-list-rentals/605371/). This story is sourced to the [Wall Street Journal](https://mediabiasfactcheck.com/wall-street-journal/) and [New York Times](https://mediabiasfactcheck.com/new-york-times/). A review of sources demonstrates the use of credible sources such as census information and other .gov sites.
+Editorially,
+[CityLab](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=citylab&gsc.sort=) leans moderately left with concern for [climate change](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/) as well frequently reporting on racism such as this: [How Racism Became a Public Health Crisis in Pittsburgh](https://www.citylab.com/equity/2020/01/pittsburgh-racism-health-pollution-environmental-justice/603775/). When reporting on the former Trump Administration, there is often a negative tone such as this: [Trump’s Plan to Criminalize Homelessness Is Taking Shape](https://www.citylab.com/equity/2019/12/trump-policy-homeless-executive-order-city-services-shelters/603670/). In general, CityLab reports news factually and with a left-leaning editorial bias.
+Failed Fact Checks
+- None in the Last 5 years

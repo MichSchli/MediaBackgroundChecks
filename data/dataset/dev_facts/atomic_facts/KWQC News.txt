@@ -1,0 +1,18 @@
+Gray Television owns KWQC News	entailment
+Gray Television is the owner of KWQC News	entailment
+Gray Television bought KWQC News	entailment
+KWQC News is funded through **sponsored content and advertising**	entailment
+The remit of KWQC News is to  factual news for Davenport, Iowa, and the surrounding areas.	entailment
+The mission of KWQC News is to report news factually and with minimal bias.	entailment
+KWQC News tends to the Least Biased	entailment
+KWQC News tends to the least biased according to Mediabiasfactcheck.	entailment
+Other sources have commented on KWQC News, stating that it tends to be Least Biased	entailment
+The factuality of KWQC News is reported to be High	entailment
+The factuality of KWQC News is reported to be high, according to mediabiasfactcheck.com.	entailment
+KWQC News failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+KWQC News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+KWQC News chose not to cover an opinion page.	entailment
+KWQC News relies on advertising for revenue	entailment
+KWQC News relies on donations for revenue	contradiction
+When aggregating stories, KWQC News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+KWQC News has an editorial bias towards Least Biased	entailment

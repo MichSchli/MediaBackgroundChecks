@@ -1,0 +1,22 @@
+Molecular Cell Journal is funded through subscription fees and fees for open-access publishing	entailment
+The remit of Molecular Cell Journal is to  publish the best research in molecular biology.	entailment
+The mission of Molecular Cell Journal is to  publish the best research in molecular biology.	entailment
+The usual audience of Molecular Cell Journal is **researchers in the field of molecular biology**	entailment
+Molecular Cell Journal tends to the pro-science	entailment
+Other sources have commented on Molecular Cell Journal, stating that it tends to be Pro-Science.	entailment
+The factuality of Molecular Cell Journal is reported to be High	entailment
+The factuality of Molecular Cell Journal is reported to be High, according to D. Van Zandt	entailment
+Molecular Cell Journal failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Molecular Cell Journal printed a retraction after failing a fact-check for an article titled **Single-nucleus multiomic mapping of m6A methylomes and transcriptomes in native populations of cells with sn-m6A-CT**.	contradiction
+Molecular Cell Journal chose not to cover [failed fact checks](https://www.cell.com/molecular-cell/).	entailment
+Molecular Cell Journal relies on subscriptions for revenue	entailment
+Molecular Cell Journal relies on donations for revenue	contradiction
+When aggregating stories, Molecular Cell Journal relies on information from **credible scientific studies**	entailment
+Molecular Cell Journal has endorsed Pro-Science."	entailment
+Molecular Cell Journal has an editorial bias towards **pro-science**	entailment
+Molecular Cell Journal was fined **$1000**	entailment
+Molecular Cell Journal printed a biased article titled "Single-nucleus multiomic mapping of m6A methylomes and transcriptomes in native populations of cells with sn-m6A-CT".	entailment
+Molecular Cell Journal printed a factually misleading titled  "Failed Fact Checks".	contradiction
+Molecular Cell Journal is a hybrid	entailment
+Molecular Cell Journal uses a peer review process	entailment
+Molecular Cell Journal covers the following topics: molecular biology	entailment

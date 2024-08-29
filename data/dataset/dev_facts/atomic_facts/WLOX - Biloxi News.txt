@@ -1,0 +1,19 @@
+Gray Television is the CEO of WLOX - Biloxi News	entailment
+Gray Television owns WLOX - Biloxi News	entailment
+Gray Television bought WLOX - Biloxi News	entailment
+Gray Television acquired WLOX - Biloxi News	entailment
+WLOX - Biloxi News is funded through Sponsored content and advertising generate revenue.	entailment
+The remit of WLOX - Biloxi News is to provide news coverage for Biloxi, Mississippi, and the surrounding areas.	entailment
+The mission of WLOX - Biloxi News is to report news factually and with minimal bias.	entailment
+The usual audience of WLOX - Biloxi News is **residents of Biloxi, Mississippi, and the surrounding areas**	entailment
+Other sources have commented on WLOX - Biloxi News, stating that it tends to be Least Biased	entailment
+The factuality of WLOX - Biloxi News is reported to be High	entailment
+The factuality of WLOX - Biloxi News is reported to be High, according to mediabiasfactcheck.com.	entailment
+WLOX - Biloxi News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WLOX - Biloxi News printed a retraction after failing a fact-check for an article titled Least Biased Based on Minimally Loaded Language and Minimal Editorializing	contradiction
+WLOX - Biloxi News chose not to cover opinion pages	entailment
+WLOX - Biloxi News relies on advertising for revenue	entailment
+WLOX - Biloxi News relies on donations for revenue	contradiction
+When aggregating stories, WLOX - Biloxi News relies on information from **other Gray Television affiliates as well as the Associated Press, CNN**	entailment
+WLOX - Biloxi News has endorsed least biased	entailment
+WLOX - Biloxi News has an editorial bias towards Least Biased.	entailment

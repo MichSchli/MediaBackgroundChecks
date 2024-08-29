@@ -1,0 +1,22 @@
+The Globe and Mail founded The Canadian Press	contradiction
+The Globe and Mail, Square Victoria Communications Group, Torstar owns The Canadian Press	entailment
+The Globe and Mail, Square Victoria Communications Group, and Torstar is the owner of The Canadian Press.	entailment
+The Globe and Mail, Square Victoria Communications Group, and Torstar bought The Canadian Press	entailment
+The Canadian Press is funded through licensing fees for news content generates revenue.	entailment
+The remit of The Canadian Press is to  report the news with minimal bias and excellent sourcing.	entailment
+The mission of The Canadian Press is to report the news with minimal bias and excellent sourcing.	entailment
+The usual audience of The Canadian Press is Canadian newspapers	entailment
+The Canadian Press tends to the **center**	entailment
+Other sources have commented on The Canadian Press, stating that it tends to be **Least Biased**.	entailment
+The factuality of The Canadian Press is reported to be **High**	entailment
+The factuality of The Canadian Press is reported to be High, according to Mediabiasfactcheck.	entailment
+The Canadian Press failed a fact-check for an article titled "None in the Last 5 years"	entailment
+The Canadian Press printed a retraction after failing a fact-check for an article titled " None in the Last 5 years"	contradiction
+The Canadian Press relies on advertising for revenue	contradiction
+The Canadian Press relies on subscriptions for revenue	contradiction
+The Canadian Press relies on donations for revenue	contradiction
+When aggregating stories, The Canadian Press relies on information from **other media outlets throughout Canada**	contradiction
+The Canadian Press has endorsed Least Biased	entailment
+The Canadian Press has an editorial bias towards [neutral reporting](/).	entailment
+The Canadian Press printed a biased article titled "Least Biased Based on Being a News Agency That Directly Reports News"	contradiction
+The Canadian Press printed a factually misleading titled "None in the Last 5 years"	contradiction

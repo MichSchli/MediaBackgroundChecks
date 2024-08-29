@@ -1,0 +1,22 @@
+Metric Media LLC owns SE North Carolina News	entailment
+Bradley Cameron is the owner of SE North Carolina News	entailment
+SE North Carolina News bought SE North Carolina News	entailment
+SE North Carolina News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of SE North Carolina News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of SE North Carolina News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of SE North Carolina News is **conservative-leaning**	entailment
+SE North Carolina News tends to the **right-center**.	entailment
+Other sources have commented on SE North Carolina News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of SE North Carolina News is reported to be Questionable	entailment
+The factuality of SE North Carolina News is reported to be **Questionable**, according to **Mediabiasfactcheck.com**.	entailment
+SE North Carolina News failed a fact-check for an article titled "Imposter Site, Lacks Transparency, and Publishes False Information"	entailment
+SE North Carolina News chose not to cover objective and data-driven information without political bias.	entailment
+SE North Carolina News provides original content written by staff journalists	contradiction
+SE North Carolina News relies on advertising for revenue	entailment
+SE North Carolina News relies on donations for revenue	entailment
+SE North Carolina News has endorsed right-center	entailment
+SE North Carolina News has an editorial bias towards **right-leaning**	entailment
+SE North Carolina News printed a biased article titled "Imposter Site, Lacks Transparency, and Publishes False Information."	entailment
+SE North Carolina News paid damages to [***Metric Media LLC***] after [***a source criticism review revealed lack of transparency, false information, and right-center bias.***]	entailment
+SE North Carolina News is a **right-center**	contradiction
+SE North Carolina News covers the following topics: conservative-leaning news	entailment

@@ -1,0 +1,14 @@
+Elsevier owns Heliyon Journal	entailment
+Elsevier is the owner of Heliyon Journal	entailment
+Heliyon Journal is funded through **subscription fees and fees for open-access publishing**	entailment
+The remit of Heliyon Journal is to  publish information and research on general science.	entailment
+Heliyon Journal tends to the Pro-Science	entailment
+Heliyon Journal tends to the pro-science according to mediabiasfactcheck.com.	entailment
+Other sources have commented on Heliyon Journal, stating that it tends to be **a Pro-Science journal**.	entailment
+The factuality of Heliyon Journal is reported to be High	entailment
+The factuality of Heliyon Journal is reported to be High, according to D. Van Zandt 	entailment
+Heliyon Journal failed a fact-check for an article titled None in the Last 5 years	contradiction
+Heliyon Journal relies on subscriptions for revenue	entailment
+Heliyon Journal relies on donations for revenue	contradiction
+Heliyon Journal has endorsed Pro-Science	entailment
+Heliyon Journal has an editorial bias towards Pro-Science.	entailment

@@ -1,0 +1,20 @@
+Michael Voris founded Church Militant	entailment
+Michael Voris is the founder of Church Militant	entailment
+St. Michael's Media owns Church Militant	entailment
+St. Michael’s Media acquired Church Militant	entailment
+Church Militant is funded through donations, subscriptions, and advertising	entailment
+The remit of Church Militant is to promote right-wing propaganda, conspiracy theories, and pseudoscience and has been accused of promoting hate.	entailment
+The mission of Church Militant is to promote right-wing propaganda, conspiracy theories, and pseudoscience and has been accused of promoting hate.	entailment
+The usual audience of Church Militant is far-right.	entailment
+The Church Militant tends to the  hate group.	entailment
+Other sources have commented on Church Militant, stating that it tends to be **far-right**	entailment
+The factuality of Church Militant is reported to be Questionable	entailment
+The factuality of Church Militant is reported to be questionable, according to D. Van Zandt.	entailment
+Church Militant relies on advertising for revenue	entailment
+Church Militant relies on subscriptions for revenue	entailment
+Church Militant relies on donations for revenue	entailment
+When aggregating stories, Church Militant relies on information from **untrustworthy sources**	entailment
+Church Militant has endorsed 	entailment
+Church Militant has an editorial bias towards **far-right**.	entailment
+Church Militant printed a biased article titled **Jefferson City's Cathedral School Resists LGBT Policy**	entailment
+Church Militant printed a factually misleading titled hate group	entailment

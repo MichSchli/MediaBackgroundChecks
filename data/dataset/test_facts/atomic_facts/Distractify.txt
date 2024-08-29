@@ -1,0 +1,22 @@
+Carly Sitzer is the founder of Distractify	contradiction
+Carly Sitzer is the CEO of Distractify	contradiction
+Engrost, Inc. owns Distractify	entailment
+Engrost, Inc. is the owner of Distractify	entailment
+Distractify is funded through **advertising**	entailment
+The remit of Distractify is to produce content related to popular culture, trends, and entertainment news.	entailment
+The mission of Distractify is to entertain	entailment
+Distractify tends to the left	entailment
+Other sources have commented on Distractify, stating that it tends to be **left-center biased**	entailment
+The factuality of Distractify is reported to be Mixed	entailment
+The factuality of Distractify is reported to be **Mixed**, according to **Mediabiasfactcheck.com**	entailment
+Distractify relies on advertising for revenue	entailment
+Distractify relies on subscriptions for revenue	entailment
+When aggregating stories, Distractify relies on information from **reputable outlets**	entailment
+Distractify has endorsed left-of-center biases	entailment
+Distractify has an editorial bias towards **left-of-center**	entailment
+Distractify printed a factually misleading titled **"There’s a Rat in My Canes Chicken Sandwich? TikToker Finds Unexpected Ingredient"**	entailment
+Distractify had to apologize for **a few failed fact checks**	entailment
+Distractify's headquarter is located in Florida	entailment
+Distractify is funded by the United States government	contradiction
+Distractify is a \ Left-Center biased website	entailment
+Distractify uses a peer review process	entailment

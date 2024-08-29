@@ -1,0 +1,18 @@
+History
+Founded in October 2014, Meduza or Medusa Project is a news website headquartered in Riga, Latvia. Meduza is a Russian news website that isn’t based in Russia. Galina Timchenko, who got fired as chief editor of Lenta.ru. (Russia’s most popular news website), launched Meduza in Latvia. Meduza, also known as its English version, is called “The Real Russia Today.”
+According to its about page,
+[Meduza](https://meduza.io/en/pages/about) focuses on “the most important news and feature stories from hundreds of sources in Russia and across the former Soviet Union.”
+Meduza is banned in Russia due to its critical coverage of the Russian invasion of Ukraine.
+[Read our profile on Latvian media and government.](https://mediabiasfactcheck.com/latvia-government-and-media-profile/)
+Funded by / Ownership
+Galina Timchenko is CEO and the Publisher of Meduza is Ilya Krasilshchik. According to a
+[Newsweek](http://www.newsweek.com/state-russian-independent-media-exiles-enlighteners-and-activists-344187) article, Timchenko prefers to keep Meduza’s investors anonymous.
+Analysis / Bias
+Meduza is a news aggregation website, but they also create original content.
+[Meduza](https://en.wikipedia.org/wiki/Meduza) is similar to [Vox](https://mediabiasfactcheck.com/vox/), which provides card stacks that provide context and define terms within an article.
+In review, Meduza uses emotionally loaded language in their headlines, such as
+[“Leonid Slutsky must resign from the State Duma.](https://meduza.io/en/feature/2018/03/07/leonid-slutsky-must-resign-from-the-state-duma)” In articles, they typically source anti-Russian government sources such as [RTVI](https://en.wikipedia.org/wiki/RTVI), which is unavailable in Russia. However, Meduza also utilizes credible sources such as the [BBC](https://mediabiasfactcheck.com/bbc/), [The Financial Times](https://mediabiasfactcheck.com/financial-times/), [AP](https://mediabiasfactcheck.com/associated-press/), and [Reuters](https://mediabiasfactcheck.com/reuters/) and Russian propaganda news sources to illustrate misleading information like Russian News Agency [TASS](https://mediabiasfactcheck.com/russian-news-agency-tass/) and Russia’s international news agency [RIA Novosti](https://mediabiasfactcheck.com/ria-novosti-bias/).
+Editorially, Meduza also has an anti-Putin/Russian government bias because Putin and the Russian government, in general, are socially conservative, anti-gay, and pro religion/traditional values. They are also strongly opposed to the Russian invasion of Ukraine with articles such as this
+[No to War An editorial from Meduza](https://meduza.io/en/feature/2022/02/24/no-to-war).
+Failed Fact Checks
+- None in the Last 5 years. Ukrainian fact-checker Polygraph.info frequently uses them.

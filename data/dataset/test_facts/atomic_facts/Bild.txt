@@ -1,0 +1,27 @@
+Axel Springer founded Bild	entailment
+Axel Springer is the founder of Bild.	entailment
+Mathias Döpfner is the CEO of Bild	contradiction
+Axel Springer owns Bild	entailment
+Axel Springer SE is the owner of Bild.	entailment
+Axel Springer bought Bild	contradiction
+Bild acquired Bild	entailment
+Bild is funded through **advertising and subscriptions**	entailment
+The remit of Bild is to **focus on running sensationalist stories with massive headlines, eye-catching images, and minimal content on various topics such as politics, sports, entertainment, lifestyle, celebrity gossip, travel, and more.**	entailment
+The mission of Bild is to **publish sensationalist stories with massive headlines, eye-catching images, and minimal content on various topics**	entailment
+The usual audience of Bild is **general public**	entailment
+Bild tends to the right.	entailment
+Other sources have commented on Bild, stating that it tends to be **sensationalized**	entailment
+The factuality of Bild is reported to be Mixed, according to mediabiasfactcheck.com.	entailment
+Bild failed a fact-check for an article titled "568 Asylum Seekers Are Multiple Offenders!"	entailment
+Bild chose not to cover **events in a neutral and unbiased manner**.	entailment
+Bild relies on advertising for revenue	entailment
+Bild relies on subscriptions for revenue	entailment
+Bild relies on donations for revenue	entailment
+When aggregating stories, Bild relies on information from [Telegraaf.nl](https://mediabiasfactcheck.com/de-telegraaf/), [People Magazine](https://mediabiasfactcheck.com/people-magazine/), and [The Sun when it comes to sourcing.](https://mediabiasfactcheck.com/the-sun/)	entailment
+Bild has an editorial bias towards sensationalized news reporting	entailment
+Julian Reichelt is the editor of Bild	entailment
+Bild printed a biased article titled Merkel in Berlin Supermarket: The Chancellor pays with a card	entailment
+Bild's headquarter is located in Berlin	entailment
+Bild is funded by the German government	contradiction
+Bild is a **Right-Center**	entailment
+Bild covers the following topics: politics, sports, entertainment, lifestyle, celebrity gossip, travel, and more	entailment

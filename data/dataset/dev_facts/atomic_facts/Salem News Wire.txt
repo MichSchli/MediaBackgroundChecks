@@ -1,0 +1,19 @@
+Metric Media Foundation owns Salem News Wire	entailment
+Metric Media LLC bought Salem News Wire	contradiction
+Salem News Wire is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Salem News Wire is to ***provide objective, data-driven information without political bias***.	contradiction
+The mission of Salem News Wire is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of Salem News Wire is **right-center**	entailment
+The Salem News Wire tends to the **right-center, biased**	entailment
+Salem News Wire tends to the right-center according to Mediabiasfactcheck.	entailment
+Other sources have commented on Salem News Wire, stating that it tends to be right-center.	entailment
+The factuality of Salem News Wire is reported to be Questionable	entailment
+The factuality of Salem News Wire is reported to be Questionable, according to D. Van Zandt 	entailment
+The Salem News Wire chose not to cover **news objectively without political bias**	entailment
+Salem News Wire provides original content written by staff journalists	entailment
+Salem News Wire relies on advertising for revenue	entailment
+Salem News Wire relies on donations for revenue	entailment
+When aggregating stories, Salem News Wire relies on information from conservative-leaning news websites published by the Metric Media LLC Network.	entailment
+The Salem News Wire has endorsed bias	entailment
+Salem News Wire has an editorial bias towards conservative	entailment
+Salem News Wire printed a biased article titled **"Imposter Site Lack Transparency and Publish False Information"**	entailment

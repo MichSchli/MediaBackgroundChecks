@@ -1,0 +1,16 @@
+History
+Founded in 2009, The Connecticut Mirror is a nonprofit media organization based in Hartford, Connecticut. The CT Mirror covers politics, healthcare, budget/economy, schools/child welfare, environment, Washington, political guide, opinion, and justice.
+According to their
+[about page](https://ctmirror.org/about-ct-mirror/), “The Connecticut Mirror’s mission is to increase the level of civic engagement among the state’s residents so that they can more effectively participate in the development of public policy and hold public officials accountable for understanding and addressing the state’s needs.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The CT Mirror is a nonprofit held by
+[The Connecticut News Project, Inc](https://ctmirror.org/financial/), supported by individual contributions, major gifts, corporate sponsorships, and foundation grants. The Mirror has received [support](https://ballotpedia.org/The_Connecticut_Mirror) from several charities and foundations, including the Hartford Foundation for Public Giving, the John S. and James L. Knight Foundation, the Melville Charitable Trust, and The Community Foundation for Greater New Haven.
+According to the website, 90% of funding comes from donations, with the rest coming from online advertising. You can view their latest 990 tax form
+[here](https://www.documentcloud.org/documents/4951684-CT-News-Project-Inc-2017-990-Public-Disclosure.html).
+Analysis / Bias
+In review, The Connecticut Mirror primarily covers Connecticut news through the use of journalists. They also cover some national news, mainly DC politics. The CT Mirror utilizes moderately loaded language in headlines such as this:
+[CT’s Democratic gubernatorial contenders aim at Trump](https://ctmirror.org/2018/08/06/cts-democratic-gubernatorial-contenders-take-aim-trump/). This article is sourced correctly to the left-leaning [Center for Reproductive Rights](https://www.reproductiverights.org/). The wording of the article is direct and neutral but favors the liberal position of pro-choice.
+In another article, they demonstrate that they are opposed to former President Trump’s environmental positions and in support of the EPA:
+[Connecticut is on front line of key fights with Pruitt’s EPA.](https://ctmirror.org/2018/05/25/connecticut-front-line-key-fights-pruitts-epa/) Other positions supported by the CT Mirror are improving health care leading to a [single-payer system](https://ctmirror.org/category/all-news/health-care/), and [fighting income inequality](https://ctmirror.org/2018/12/18/wealth-inequality-solutions/). The CT Mirror generally favors the progressive left on most issues and is opposed to conservative policy. However, they always present a reasonable balance and, at least partially, their opposing viewpoint.
+Failed Fact Checks
+- None in the Last 5 years

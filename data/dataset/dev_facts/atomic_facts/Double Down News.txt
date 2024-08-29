@@ -1,0 +1,17 @@
+DDN is the owner of Double Down News	contradiction
+Double Down News is funded through Patreon donations	entailment
+The remit of Double Down News is to **serve people, not power**	entailment
+The mission of Double Down News is to serve people, not power	entailment
+The usual audience of Double Down News is **left-leaning individuals**	entailment
+Double Down News tends to the **left**	entailment
+Double Down News tends to the left according to Mediabiasfactcheck.	entailment
+Other sources have commented on Double Down News, stating that it tends to be **left biased**.	entailment
+The factuality of Double Down News is reported to be Mixed	entailment
+The factuality of Double Down News is reported to be Mixed, according to M. Huitsing 11/25/2023.	entailment
+Double Down News failed a fact-check for an article titled **Israel & The Myth of ‘Self Defence’**	contradiction
+Double Down News relies on advertising for revenue	contradiction
+Double Down News relies on donations for revenue	entailment
+Double Down News has received donations from Patreon	entailment
+Double Down News has endorsed **progressive social causes**	entailment
+Double Down News has an editorial bias towards **progressive left**	entailment
+Double Down News printed a biased article titled "Israel & The Myth of ‘Self Defence,"	entailment

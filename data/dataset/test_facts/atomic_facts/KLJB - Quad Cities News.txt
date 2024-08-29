@@ -1,0 +1,24 @@
+Nexstar Media Group owns KLJB - Quad Cities News	entailment
+Nexstar Media Group is the owner of KLJB - Quad Cities News	entailment
+KLJB - Quad Cities News is funded through [advertising].	entailment
+The remit of KLJB - Quad Cities News is to **publish news for the greater Davenport, Iowa area**.	entailment
+The mission of KLJB - Quad Cities News is to report news factually and with minimal bias.	entailment
+The usual audience of KLJB - Quad Cities News is **the greater Davenport, Iowa area**.	entailment
+KLJB - Quad Cities News tends to the Least Biased	entailment
+Other sources have commented on KLJB - Quad Cities News, stating that it tends to be Least Biased	entailment
+The factuality of KLJB - Quad Cities News is reported to be High	entailment
+The factuality of KLJB - Quad Cities News is reported to be High, according to Media Bias/Fact Check.	entailment
+KLJB - Quad Cities News failed a fact-check for an article titled "None in the last 5 years."	contradiction
+KLJB - Quad Cities News printed a retraction after failing a fact-check for an article titled President and lawmakers push for new gun legislation.	contradiction
+KLJB - Quad Cities News chose not to cover op-eds	entailment
+KLJB - Quad Cities News relies on advertising for revenue	entailment
+KLJB - Quad Cities News relies on donations for revenue	contradiction
+When aggregating stories, KLJB - Quad Cities News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+KLJB - Quad Cities News has an editorial bias towards Least Biased	entailment
+KLJB - Quad Cities News printed a biased article titled  President and lawmakers push for new gun legislation 	entailment
+KLJB - Quad Cities News printed a factually misleading titled **None**	entailment
+KLJB - Quad Cities News had to apologize for  not having any failed fact checks in the last 5 years.	entailment
+KLJB - Quad Cities News had to apologize to no one for nothing	entailment
+KLJB - Quad Cities News is a [FOX](https://mediabiasfactcheck.com/fox-news-bias/)-affiliated television station licensed to Davenport, Iowa. The associated website is ourquadcities.com which provides news, sports, weather, politics, and crime reporting. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+KLJB - Quad Cities News uses an internal fact-checking process	entailment
+KLJB - Quad Cities News covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

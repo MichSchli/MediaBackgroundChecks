@@ -1,0 +1,17 @@
+PostMedia owns La Nouvelle Beaumont News	entailment
+PostMedia is the owner of La Nouvelle Beaumont News	entailment
+La Nouvelle Beaumont News is funded through advertising and subscription fees	entailment
+The usual audience of La Nouvelle Beaumont News is **right-leaning**	entailment
+La Nouvelle Beaumont News tends to the Right	entailment
+Other sources have commented on La Nouvelle Beaumont News, stating that it tends to be Right-Center Biased	entailment
+The factuality of La Nouvelle Beaumont News is reported to be High	entailment
+The factuality of La Nouvelle Beaumont News is reported to be High, according to D. Van Zandt	entailment
+La Nouvelle Beaumont News failed a fact-check for an article titled "City Council approves community grant program funding distribution".	contradiction
+La Nouvelle Beaumont News relies on advertising for revenue	entailment
+La Nouvelle Beaumont News relies on subscriptions for revenue	entailment
+La Nouvelle Beaumont News relies on donations for revenue	contradiction
+When aggregating stories, La Nouvelle Beaumont News relies on information from journalists.	entailment
+La Nouvelle Beaumont News has an editorial bias towards right-leaning.	entailment
+La Nouvelle Beaumont News had to apologize for **None in the Last 5 years**	entailment
+La Nouvelle Beaumont News is a newspaper	entailment
+La Nouvelle Beaumont News uses an internal fact-checking process	entailment

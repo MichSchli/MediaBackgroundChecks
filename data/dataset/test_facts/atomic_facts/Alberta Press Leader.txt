@@ -1,0 +1,19 @@
+Sarah Murphy founded Alberta Press Leader	entailment
+Alberta Press Leader is funded through advertising.	entailment
+The remit of Alberta Press Leader is to **bring Albertans unbiased, truth-driven, accurate and timely news**.	contradiction
+The mission of Alberta Press Leader is to  report mostly factually and with a strong right-leaning conservative bias.	entailment
+The usual audience of Alberta Press Leader is **right-leaning conservative**	entailment
+Alberta Press Leader tends to the Right	entailment
+Other sources have commented on Alberta Press Leader, stating that it tends to be **Right Biased**	entailment
+The factuality of Alberta Press Leader is reported to be Mixed	entailment
+The factuality of Alberta Press Leader is reported to be Mixed, according to D. Van Zandt 2/18/2021.	entailment
+Alberta Press Leader chose not to cover fact checks	entailment
+Alberta Press Leader relies on advertising for revenue	entailment
+Alberta Press Leader relies on subscriptions for revenue	contradiction
+Alberta Press Leader relies on donations for revenue	contradiction
+Alberta Press Leader has endorsed right-wing ideologies	entailment
+Alberta Press Leader has an editorial bias towards right	entailment
+Sarah Murphy is the editor of Alberta Press Leader	entailment
+Alberta Press Leader printed a biased article titled Alberta Premier asked to release jailed pastor, end religious persecution	entailment
+Alberta Press Leader is a conservative	entailment
+Alberta Press Leader covers the following topics: conservative news, opinion, local news, right-leaning perspective, climate change, anti-lockdown measures, negative reporting on PM Justin Trudeau, US presidential election, election fraud narratives	entailment

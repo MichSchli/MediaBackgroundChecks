@@ -1,0 +1,20 @@
+Tom Howatt founded Badger Institute	entailment
+Badger Institute is funded through private foundations, such as the Lovett and Ruth Peters Foundation, the Castle Rock Foundation, and the Bradley Foundation.	entailment
+The remit of Badger Institute is to \ "produce research and analysis on tax policy, education, health care, and the economy."	entailment
+The mission of Badger Institute is to advocate for limited government, private initiative, and personal responsibility as essential components of our democratic way of life.	entailment
+The usual audience of Badger Institute is Right Biased	entailment
+Badger Institute tends to the right	entailment
+Other sources have commented on Badger Institute, stating that it tends to be **Right Biased**.	entailment
+The factuality of Badger Institute is reported to be **mixed**	entailment
+The factuality of Badger Institute is reported to be mixed, according to numerous failed fact checks before their name change to the Badger Institute in 2017 and a lack of transparency regarding funding.	entailment
+Badger Institute chose not to cover federal grants turning states against their own people.	contradiction
+Badger Institute has received donations from the Lovett and Ruth Peters Foundation, the Castle Rock Foundation, and the Bradley Foundation	entailment
+When aggregating stories, Badger Institute relies on information from **credible outlets such as The Washington Post, The Atlantic, BBC, USA Today, NPR,** and **government sources such as supremecourt.gov and less known sources such as constitution.org**.	entailment
+Badger Institute has endorsed **the book arguing against the minimum wage**	entailment
+Badger Institute has an editorial bias towards ***the right***	entailment
+Mabel Wong is the editor of Badger Institute	entailment
+Badger Institute printed a biased article titled **The Age of Trump: View from a supporter Never Trumpers’ myopia keeps them from seeing the greater danger that a Clinton presidency would have created**	entailment
+Badger Institute's headquarter is located in Milwaukee	entailment
+The Badger Institute is funded by the State government	contradiction
+Badger Institute is a think tank	entailment
+Badger Institute covers the following topics: tax policy, education, health care, and the economy.	entailment

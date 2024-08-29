@@ -1,0 +1,23 @@
+David Ben Hooren founded The Jewish Voice	entailment
+David Ben Hooren is the founder of The Jewish Voice	entailment
+David Ben Hooren owns The Jewish Voice	entailment
+David Ben Hooren is the owner of The Jewish Voice	entailment
+David Ben Hooren bought The Jewish Voice.	contradiction
+David Ben Hooren acquired The Jewish Voice	contradiction
+The Jewish Voice is funded through **advertising and subscriptions**	entailment
+The remit of The Jewish Voice is to **focus on news related to New York City politics, real estate, business, technology, arts, culture, and sports**.	entailment
+The usual audience of The Jewish Voice is **those interested in news from a Jewish perspective**	entailment
+The Jewish Voice tends to the right	entailment
+The Jewish Voice tends to the right according to The Atlantic	entailment
+Other sources have commented on The Jewish Voice, stating that it tends to be Right-Biased.	entailment
+The factuality of The Jewish Voice is reported to be **low**	entailment
+The factuality of The Jewish Voice is reported to be Questionable, according to Mediabiasfactcheck.	entailment
+The Jewish Voice chose not to cover Covid-19 pandemic misinformation related to vaccines	contradiction
+The Jewish Voice relies on advertising for revenue	entailment
+The Jewish Voice relies on subscriptions for revenue	contradiction
+The Jewish Voice relies on donations for revenue	entailment
+When aggregating stories, The Jewish Voice relies on information from **right-biased questionable sources**	entailment
+The Jewish Voice has endorsed pro-Trump and conservative ideologies.	entailment
+The Jewish Voice has an editorial bias towards right-wing propaganda.	entailment
+The Jewish Voice printed a biased article titled *Netanyahu blasts Lapid for ‘weakness, defeat, and surrender.’*	entailment
+The Jewish Voice printed a factually misleading titled "Trump Derangement Syndrome Is Going To Get Worse."	entailment

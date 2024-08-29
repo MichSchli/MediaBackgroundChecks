@@ -1,0 +1,22 @@
+Osteen Publishing Company owns Clay Today	entailment
+Osteen Publishing Company is the owner of Clay Today	entailment
+The Osteen’s bought Clay Today	entailment
+Osteen's acquired Clay Today	entailment
+The remit of Clay Today is to **report local news via journalists with minimal bias**	entailment
+The mission of Clay Today is to report local news via journalists with minimal bias	entailment
+Clay Today tends to the **least biased**.	entailment
+Other sources have commented on Clay Today, stating that it tends to be least biased.	entailment
+The factuality of Clay Today is reported to be High	entailment
+The factuality of Clay Today is reported to be high, according to Media Bias/Fact Check.	entailment
+Clay Today failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Clay Today printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+Clay Today chose not to cover National and International news	contradiction
+Clay Today relies on donations for revenue	entailment
+When aggregating stories, Clay Today relies on information from **the Associated Press**	entailment
+Clay Today has endorsed least biased	entailment
+Clay Today has an editorial bias towards **neither side**	entailment
+Clay Today had to apologize for **None in the Last 5 years**	entailment
+Clay Today paid damages to  after Clay Community Transportation, Jacksonville Transportation Authority to host public meeting	entailment
+Clay Today's headquarter is located in Florida	entailment
+Clay Today is funded by the private government	contradiction
+Clay Today is a least biased	entailment

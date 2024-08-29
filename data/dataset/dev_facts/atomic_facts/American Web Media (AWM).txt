@@ -1,0 +1,18 @@
+Internet ROI, Inc owns American Web Media (AWM)	entailment
+Chris Cole is the owner of American Web Media (AWM)	entailment
+American Web Media (AWM) is funded through advertising.	entailment
+The remit of American Web Media (AWM) is to **repackage news stories with the intent of clicks and social media sharing**.	entailment
+The mission of American Web Media (AWM) is to **generate revenue through advertising**	entailment
+The usual audience of American Web Media (AWM) is **right-leaning**	entailment
+American Web Media (AWM) tends to the **right-leaning**	entailment
+American Web Media (AWM) tends to the **right-leaning** according to **sensational headlines and poor sourcing**	entailment
+Other sources have commented on American Web Media (AWM), stating that it tends to be **right-leaning**.	entailment
+The factuality of American Web Media (AWM) is reported to be **questionable**	entailment
+The factuality of American Web Media (AWM) is reported to be **Questionable**, according to **Media Bias Fact Check**.	entailment
+American Web Media (AWM) failed a fact-check for an article titled **Spy cameras are commonly hidden in hotel room hooks.**	entailment
+American Web Media (AWM) printed a retraction after failing a fact-check for an article titled ***"Spy cameras are commonly hidden in hotel room hooks."***	entailment
+American Web Media (AWM) relies on advertising for revenue	entailment
+American Web Media (AWM) relies on subscriptions for revenue	entailment
+American Web Media (AWM) relies on donations for revenue	contradiction
+American Web Media (AWM) has endorsed a right-leaning political bias.	entailment
+American Web Media (AWM) has an editorial bias towards **right-leaning**	entailment

@@ -1,0 +1,27 @@
+Mike Adams founded Medical Censorship News	entailment
+Mike Adams is the founder of Medical Censorship News	entailment
+Mike Adams leads Medical Censorship News	entailment
+Mike Adams owns Medical Censorship News.	entailment
+Mike Adams is the owner of Medical Censorship News.	entailment
+Mike Adams bought Medical Censorship News	entailment
+Medical Censorship News is funded through online advertising	entailment
+The remit of Medical Censorship News is to **publish false information**	entailment
+The mission of Medical Censorship News is to spread false information.	entailment
+The usual audience of Medical Censorship News is **extreme right-biased Tin-Foil Hat Conspiracy website**	entailment
+Medical Censorship News tends to the extreme right-biased Tin-Foil Hat Conspiracy website	entailment
+Other sources have commented on Medical Censorship News, stating that it tends to be **extreme right-biased and Tin-Foil Hat Conspiracy website**.	entailment
+The factuality of Medical Censorship News is reported to be **LOW**	entailment
+The factuality of Medical Censorship News is reported to be extreme right-biased, according to D. Van Zandt 07/07/2022.	entailment
+Medical Censorship News failed a fact-check for an article titled **Climate change cultists are now taking over your local weather forecast.**	entailment
+Medical Censorship News printed a retraction after failing a fact-check for an article titled "Climate change cultists are now taking over your local weather forecast."	entailment
+Medical Censorship News chose not to cover vaccines, alternative health, and government conspiracies.	contradiction
+Medical Censorship News relies on advertising for revenue	entailment
+Medical Censorship News relies on subscriptions for revenue	contradiction
+Medical Censorship News relies on donations for revenue	contradiction
+Medical Censorship News has received donations from Mike Adams	entailment
+When aggregating stories, Medical Censorship News relies on information from **online advertising**.	entailment
+Medical Censorship News has an editorial bias towards right-wing.	entailment
+Medical Censorship News was fined 	entailment
+Medical Censorship News is funded by the United States government	contradiction
+Medical Censorship News is a right-wing conspiracy and pseudoscience website.	entailment
+Medical Censorship News covers the following topics: **health misinformation, right-wing conspiracy theories, pseudoscience, false information, extreme right-wing bias, vaccines, alternative health, government conspiracies, anti-vaccination propaganda, climate change denialism**.	entailment

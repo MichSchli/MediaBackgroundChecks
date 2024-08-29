@@ -1,0 +1,15 @@
+History
+[FactCheckNI](https://factcheckni.org/) is Northern Ireland’s first dedicated fact-checking service. The team consists of independent fact-checkers who focus on identifying important [public statements](https://factcheckni.org/about/faq/) relevant to Northern Ireland. They then investigate the best available evidence and publish fact-check articles to improve the quality of public debate. The service has published over 200 fact checks since its inception in 2016.
+[View our profile on Ireland’s media and government.](https://mediabiasfactcheck.com/ireland-media-profile/)
+Funded by / Ownership
+FactCheckNI is a non-profit Community Interest Company in Northern Ireland. They are
+[funded by](https://factcheckni.org/about-us/funding/) charitable trusts, grants, and individual donations, including notable contributions from the Joseph Rowntree Charitable Trust and the Irish Government’s Reconciliation Fund. Surplus income is reinvested, and funders have no editorial influence. See here for the list of [board members.](https://factcheckni.org/positions/board/)
+Analysis / Bias
+FactCheckNI is a verified signatory to the
+[International Fact-Checking Network’s Code of Principles](https://ifcncodeofprinciples.poynter.org/). The website also emphasizes transparency of sources, allowing readers to verify their findings.
+We analyzed a piece by FactCheckNI that scrutinizes a claim titled
+[“Has Northern Ireland been in fiscal deficit for most or indeed all of its existence?”](https://factcheckni.org/articles/has-northern-ireland-been-in-fiscal-deficit-for-most-or-indeed-all-of-its-existence/) made by SDLP MLA Matthew O’Toole regarding Northern Ireland’s fiscal relationship with the UK Government. The analysis maintains a neutral tone and avoids biased wording. It is well-sourced, citing data from the Office for National Statistics, House of Commons debates, and academic research. The piece also provides a balanced perspective by incorporating historical context and different viewpoints.
+In general, FactCheckNI is a well-researched, balanced, and unbiased resource that adheres to high standards of factual reporting. Based on a limited review of
+[Fact Check](https://factcheckni.org/fact-checks/)NI’s work, the organization covers a wide range of topics, from environmental issues to electoral matters.
+Failed Fact Checks
+- None in the Last 5 years. They are an IFCN fact-checker.

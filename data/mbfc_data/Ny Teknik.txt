@@ -1,0 +1,15 @@
+History
+Swedish technology and IT newspaper
+[Ny ](https://www.nyteknik.se/info-om) [Teknik](https://www.nyteknik.se/info-om) was launched in 1967 and is based in Stockholm. The paper covers telecom, energy, environmental technology, and more, while the website focuses on the latest technological developments and trends in the IT industry. With print and digital editions, Ny Teknik targets Managing Directors, IT Managers, Technical Managers, Project Managers, and Design Engineers. [Read our country profile on Sweden.](https://mediabiasfactcheck.com/sweden-media-profile/)
+Funded by / Ownership
+[Ny Teknik](https://www.linkedin.com/company/talentum-media?originalSubdomain=fi) is published by Finnish media and digital service business company [Alma Media Group/ Alma Talent.](https://www.almamedia.fi/en/about-us/) Revenue is generated through commercial advertising, memberships, and subscription fees.
+Analysis / Bias
+In review, it is worth noting that Ny Teknik’s political articles display emotionally charged language that favors politicians such as Jimmie Åkesson, the leader of the Swedish far-right party, Sweden Democrats (SD). For example, this article features a quote from Klarna’s CEO with a headline stating that
+[“Klarna’s CEO: “Jimmie Åkesson is the only Swedish politician with a clear vision.”](https://www.nyteknik.se/digitalisering-klarna-politik/klarnas-vd-jimmie-akesson-ar-enda-svenska-politikern-med-en-tydlig-vision/1878663)
+Additionally, the website covers the Swedish Democrats’ stance on climate change, presenting their skepticism
+[“Sweden Democrats: Saying climate crisis can lead to panic”](https://www.nyteknik.se/kolkraft-miljo/sverigedemokraterna-att-saga-klimatkris-kan-leda-till-panik/266760) Although the website adheres to journalistic standards of balance and reports on the issue, it fails to give sufficient weight to scientific evidence.
+Ny Teknik presents varying viewpoints on electric vehicles, such as the article
+[“Of course, there are green cars!”](https://www.nyteknik.se/miljobil-opinion/klart-det-finns-miljobilar/160536) A quote from the article reads, “no car has zero climate impact, but of course, there are green cars.” Here is another article with the opposing viewpoint, [“There are no real green cars,”](https://www.nyteknik.se/miljobil-opinion/det-finns-inga-riktiga-miljobilar/125956) in which the author states that electric cars are not necessarily more sustainable than petrol cars, as they still require energy from fossil fuels. Finally, the author suggests that the only way to reduce emissions is to reduce the number of vehicles on the roads.
+A comprehensive review of editorial positions reveals that slightly more favor the right. In general, Ny Teknik is fact-based, but they fail to hyperlink information properly.
+Failed Fact Checks
+- None in the Last 5 years

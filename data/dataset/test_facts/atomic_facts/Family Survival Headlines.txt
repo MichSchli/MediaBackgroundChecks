@@ -1,0 +1,14 @@
+Family Survival Headlines	entailment
+Family Survival Headlines is funded through advertising.	entailment
+The mission of Family Survival Headlines is to publish news and opinion videos from other sources with a right-leaning bias.	entailment
+Family Survival Headlines tends to the **Right Biased and Questionable**	entailment
+Other sources have commented on Family Survival Headlines, stating that it tends to be **right-leaning**	entailment
+The factuality of Family Survival Headlines is reported to be Right Biased	entailment
+Family Survival Headlines chose not to cover election fraud misinformation during the 2020 Election.	contradiction
+Family Survival Headlines relies on advertising for revenue	entailment
+Family Survival Headlines relies on donations for revenue	contradiction
+When aggregating stories, Family Survival Headlines relies on information from right-leaning news sources	entailment
+Family Survival Headlines has an editorial bias towards right-leaning news	entailment
+Family Survival Headlines printed a biased article titled *CNN proves the left can blame ‘climate change’ for ANYTHING*.	entailment
+Family Survival Headlines is a  Right Biased and Questionable based on the use of poor sources and a complete lack of transparency.	entailment
+Family Survival Headlines covers the following topics: right-leaning news	entailment

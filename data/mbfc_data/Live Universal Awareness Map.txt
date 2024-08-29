@@ -1,0 +1,11 @@
+History
+Founded in 2014, The Live Universal Awareness Map is an independent journalism site that draws on news stories and social media worldwide and connects them to an interactive online map. According to their
+[about page](https://liveuamap.com/about), “Live Universal Awareness Map (“Liveuamap”) is a leading independent global news and information site dedicated to factual reporting of a variety of important topics including conflicts, human rights issues, protests, terrorism, weapons deployment, health matters, natural disasters, and weather-related stories, among others, from a vast array of sources.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website states, “Liveuamap is a non-government organization, but cooperates with multiple governments worldwide and provides data to ensure the security of citizens and diplomatic missions. Advertising generates revenue.
+Analysis / Bias
+Liveuamap provides news and events as they occur on interactive country maps. The events range from conflicts, natural disasters, human rights issues, medical problems, terrorism, crime, etc. Each map features a sidebar that displays news that you can find on the map. For example, at the moment, there is a tornado warning in North Carolina, which can be seen on the sidebar and linked to the national weather service. Further, on the USA map, you can find car accidents with injuries, crimes that are currently taking place, etc. Often, the source for these events is Twitter, which links to the primary source.
+Currently, Liveuamap is covering the war events in Ukraine. The current map displays where shelling is taking place, gun battles, military warnings, and fires across the country. Again, the primary sourcing comes from
+[social media accounts](https://t.me/zhytomyr_operative/7170), some of which are not verifiable. In general, Liveuamap provides real-time events in a map-centric presentation and with minimal bias. However, since not all sources can be verified, we rate them mostly factual as the majority of sources observed are credible.
+Failed Fact Checks
+- None in the Last 5 years. Fact-checkers use them for information.

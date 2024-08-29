@@ -1,0 +1,26 @@
+Jann Wenner founded Rolling Stone	entailment
+Jann Wenner is the founder of Rolling Stone	entailment
+Penske Media Corporation owns Rolling Stone	entailment
+Jann Wenner is the owner of Rolling Stone	contradiction
+Penske Media Corporation acquired Rolling Stone	contradiction
+Rolling Stone is funded through advertising and subscription sales	entailment
+The remit of Rolling Stone is to cover	entailment
+The mission of Rolling Stone is to cover music, pop culture, and politics.	entailment
+The usual audience of Rolling Stone is left-leaning.	entailment
+Rolling Stone tends to the left.	entailment
+Rolling Stone tends to the left according to Mediabiasfactcheck.	entailment
+Other sources have commented on Rolling Stone, stating that it tends to be left-biased	entailment
+The factuality of Rolling Stone is reported to be High	entailment
+The factuality of Rolling Stone is reported to be High, according to D. Van Zandt	entailment
+Rolling Stone failed a fact-check for an article titled "Gunshot Victims Left Waiting as Horse Dewormer Overdoses Overwhelm Oklahoma Hospitals, Doctor Says."	entailment
+Rolling Stone printed a retraction after failing a fact-check for an article titled **Gunshot Victims Left Waiting as Horse Dewormer Overdoses Overwhelm Oklahoma Hospitals, Doctor Says.**	entailment
+Rolling Stone chose not to cover politics	contradiction
+Rolling Stone relies on advertising for revenue	entailment
+Rolling Stone relies on subscriptions for revenue	contradiction
+Rolling Stone relies on donations for revenue	contradiction
+When aggregating stories, Rolling Stone relies on information from [proper sourcing].	entailment
+Rolling Stone has endorsed Democratic Presidential candidate Hillary Clinton.	entailment
+Rolling Stone has an editorial bias towards **the left**	entailment
+Rolling Stone was fined 	entailment
+Rolling Stone printed a biased article titled "Trump Is Awfully Sensitive About His Confusing Immigration Deal With Mexico".	entailment
+Rolling Stone had to apologize for factual inaccuracies	contradiction

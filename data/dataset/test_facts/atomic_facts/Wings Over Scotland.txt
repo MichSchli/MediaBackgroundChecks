@@ -1,0 +1,27 @@
+Stuart Campbell founded Wings Over Scotland	entailment
+Stuart Campbell is the founder of Wings Over Scotland.	entailment
+Stuart Campbell owns Wings Over Scotland	entailment
+Stuart Campbell is the owner of Wings Over Scotland	entailment
+Stuart Campbell bought Wings Over Scotland	entailment
+Stuart Campbell acquired Wings Over Scotland	contradiction
+Wings Over Scotland is funded through **donations and crowdfunding**	entailment
+The remit of Wings Over Scotland is to **offer commentary and analysis**.	entailment
+Wings Over Scotland tends to the left-center.	entailment
+Other sources have commented on Wings Over Scotland, stating that it tends to be **left-center biased and questionable based on the promotion of conspiracy theories, poor sourcing, a failed fact check, and the use of hate speech**.	entailment
+The factuality of Wings Over Scotland is reported to be Questionable	entailment
+The factuality of Wings Over Scotland is reported to be Questionable, according to our profile on UK media and government.	entailment
+Wings Over Scotland failed a fact-check for an article titled **"The SNP are paying lobby groups with your money to try to reduce the age of consent in Scotland to 10."**	entailment
+Wings Over Scotland chose not to cover **the failed fact checks**	contradiction
+Wings Over Scotland relies on advertising for revenue	contradiction
+Wings Over Scotland relies on subscriptions for revenue	contradiction
+Wings Over Scotland relies on donations for revenue	entailment
+Wings Over Scotland has received donations from **donations and crowdfunding**	entailment
+When aggregating stories, Wings Over Scotland relies on information from **themselves**	entailment
+Wings Over Scotland has endorsed YES vote on a referendum for Scottish Independence	entailment
+Wings Over Scotland has an editorial bias towards left-center.	entailment
+Wings Over Scotland printed a biased article titled "**Fakers gonna fake, fake, fake, fake, fake**"	entailment
+Wings Over Scotland printed a factually misleading titled **"The SNP are paying lobby groups with your money to try to reduce the age of consent in Scotland to 10."**	contradiction
+Wings Over Scotland is funded by the Scottish government	entailment
+Wings Over Scotland is a blog	entailment
+Wings Over Scotland uses a peer review process	entailment
+Wings Over Scotland covers the following topics: media, commentary, analysis, Scottish Independence, political parties, loaded words, transphobic messaging, controversial content, conspiracy theories, hate speech.	entailment

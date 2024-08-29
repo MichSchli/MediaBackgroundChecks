@@ -1,0 +1,10 @@
+History
+NeuroNation is a cognitive training website and app that was
+[launched in 2011](https://en.wikipedia.org/wiki/NeuroNation). It was created by coders Rojahn Ahmadi, Ilya Shabanov, and Jakob Futorjanski in a collaboration with psychologists of the [Free University of Berlin](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [Technische Universität Dortmund](https://en.wikipedia.org/wiki/Technische_Universit%C3%A4t_Dortmund). [Read our profile on Germany’s media and government](https://mediabiasfactcheck.com/germany-media-profile/)
+Funded by / Ownership
+NeuroNation was funded by a bank loan, a grant from Beuth University of Applied Sciences Berlin, and by 50,000 EUR raised on the crowdfunding site Seedmatch. The site is currently funded through a subscription model.
+Analysis / Bias
+In review,
+[NeuroNation](https://sp.neuronation.com/en/#courses) utilizes courses that they purport to increase memory and concentration. They further claim that the courses are being used successfully in Alzheimer’s prevention as well as for stress and burnout prevention in corporate health management. While brain games and training may increase performance through repetition, [there isn’t any](https://sciencebasedmedicine.org/does-brain-training-work/) current [scientific evidence](http://journals.sagepub.com/doi/abs/10.1177/1529100616661983?journalCode=psia) to back the claims made by NeuroNation.
+Failed Fact Checks
+- They have no been fact-checked by a third party.

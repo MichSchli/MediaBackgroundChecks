@@ -1,0 +1,27 @@
+TEGNA Inc. owns WBIR-Knoxville News	entailment
+TEGNA is the owner of WBIR-Knoxville News.	entailment
+TEGNA bought WBIR-Knoxville News	entailment
+TEGNA acquired WBIR-Knoxville News	entailment
+WBIR-Knoxville News is funded through **advertising and sponsored content**.	entailment
+The remit of WBIR-Knoxville News is to report local news primarily through TV news videos and accompanying text.	entailment
+The mission of WBIR-Knoxville News is to serve the greater good of our communities.	entailment
+The usual audience of WBIR-Knoxville News is **local**	entailment
+WBIR-Knoxville News tends to the **center.**	entailment
+Other sources have commented on WBIR-Knoxville News, stating that it tends to be **least biased**.	entailment
+The factuality of WBIR-Knoxville News is reported to be High	entailment
+The factuality of WBIR-Knoxville News is reported to be High, according to Mediabiasfactcheck.com	entailment
+WBIR-Knoxville News failed a fact-check for an article titled None in the Last 5 years	contradiction
+WBIR-Knoxville News printed a retraction after failing a fact-check for an article titled None in the Last 5 years	contradiction
+WBIR-Knoxville News chose not to cover op-eds	entailment
+WBIR-Knoxville News relies on advertising for revenue	entailment
+WBIR-Knoxville News relies on subscriptions for revenue	entailment
+WBIR-Knoxville News relies on donations for revenue	contradiction
+When aggregating stories, WBIR-Knoxville News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and other TEGNA TV stations.	entailment
+WBIR-Knoxville News has an editorial bias towards **Neither side**	entailment
+WBIR-Knoxville News was fined 	entailment
+WBIR-Knoxville News printed a biased article titled Least Biased.	contradiction
+WBIR-Knoxville News printed a factually misleading titled Least Biased Fact-Checking of WBIR-Knoxville News	contradiction
+WBIR-Knoxville News paid damages to No one after no failed fact checks	entailment
+WBIR-Knoxville News's headquarter is located in Knoxville	entailment
+WBIR-Knoxville News is a Least Biased	entailment
+WBIR-Knoxville News uses an internal fact-checking process	contradiction

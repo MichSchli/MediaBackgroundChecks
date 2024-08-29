@@ -1,0 +1,20 @@
+Blackhawk Broadcasting LLC owns KYMA - Yuma	entailment
+Blackhawk Broadcasting LLC bought KYMA - Yuma	entailment
+Blackhawk Broadcasting LLC acquired KYMA - Yuma	entailment
+KYMA - Yuma is funded through **advertising**	entailment
+The remit of KYMA - Yuma is to report news for the greater Yuma, Arizona area.	entailment
+The usual audience of KYMA - Yuma is **the greater Yuma, Arizona area**	entailment
+Other sources have commented on KYMA - Yuma, stating that it tends to be **least biased**	entailment
+The factuality of KYMA - Yuma is reported to be High	entailment
+The factuality of KYMA - Yuma is reported to be High, according to D. Van Zandt	entailment
+KYMA - Yuma failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+KYMA - Yuma printed a retraction after failing a fact-check for an article titled "None in the Last 5 years."	contradiction
+KYMA - Yuma chose not to cover op-eds	entailment
+KYMA - Yuma relies on advertising for revenue	entailment
+KYMA - Yuma relies on subscriptions for revenue	contradiction
+KYMA - Yuma relies on donations for revenue	contradiction
+When aggregating stories, KYMA - Yuma relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/), [CBS News](https://mediabiasfactcheck.com/cbs-news/), [CNN Newswire](https://mediabiasfactcheck.com/left/cnn-bias/), and other large credible media outlets.	entailment
+KYMA - Yuma has endorsed new gubernatorial candidate	contradiction
+KYMA - Yuma has an editorial bias towards **neither side**	entailment
+KYMA - Yuma is a television station	entailment
+KYMA - Yuma covers the following topics: News, sports, weather, politics, and crime reporting	entailment

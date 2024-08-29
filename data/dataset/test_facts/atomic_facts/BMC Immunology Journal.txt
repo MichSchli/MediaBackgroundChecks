@@ -1,0 +1,15 @@
+BMC Immunology Journal leads BMC Immunology Journal	contradiction
+BioMed Central (BMC) acquired BMC Immunology Journal	contradiction
+The remit of BMC Immunology Journal is to publish original peer-reviewed research articles in molecular, cellular, tissue-level, organismal, functional, and developmental aspects of the immune system as well as clinical studies and animal models of human diseases.	entailment
+The mission of BMC Immunology Journal is to publish original peer-reviewed research articles in molecular, cellular, tissue-level, organismal, functional, and developmental aspects of the immune system as well as clinical studies and animal models of human diseases.	entailment
+The usual audience of BMC Immunology Journal is **researchers, scientists, and academics**	entailment
+BMC Immunology Journal tends to the **Pro-Science open-source**	entailment
+Other sources have commented on BMC Immunology Journal, stating that it tends to be **a Pro-Science open-source journal**.	entailment
+The factuality of BMC Immunology Journal is reported to be High	entailment
+The factuality of BMC Immunology Journal is reported to be High, according to Mediabiasfactcheck.	entailment
+BMC Immunology Journal chose not to cover cancer research.	contradiction
+BMC Immunology Journal relies on subscriptions for revenue	contradiction
+When aggregating stories, BMC Immunology Journal relies on information from **credible scientific studies**.	entailment
+BMC Immunology Journal has an editorial bias towards Pro-Science	entailment
+BMC Immunology Journal uses a peer review process	entailment
+BMC Immunology Journal covers the following topics: Immunology research	entailment

@@ -1,0 +1,24 @@
+Gannett leads St. Augustine Record	entailment
+Gannett owns St. Augustine Record	entailment
+Gannett is the owner of St. Augustine Record	entailment
+Gannett bought St. Augustine Record	entailment
+St. Augustine Record is funded through Advertising and paid subscriptions	entailment
+The remit of St. Augustine Record is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of St. Augustine Record is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The usual audience of St. Augustine Record is **the greater St. Augustine, Florida area**	entailment
+St. Augustine Record tends to the Left-Center	entailment
+Other sources have commented on St. Augustine Record, stating that it tends to be Left-Center Biased	entailment
+The factuality of St. Augustine Record is reported to be High	entailment
+The factuality of St. Augustine Record is reported to be high, according to Mediabiasfactcheck.	entailment
+St. Augustine Record failed a fact-check for an article titled "St. Johns County Schools comply with Florida policy informing parents of students’ pronouns".	contradiction
+St. Augustine Record chose not to cover Presidential endorsements	entailment
+St. Augustine Record relies on advertising for revenue	entailment
+St. Augustine Record relies on subscriptions for revenue	entailment
+St. Augustine Record relies on donations for revenue	contradiction
+When aggregating stories, St. Augustine Record relies on information from **other Gannett publications and the Associated Press**	entailment
+St. Augustine Record has an editorial bias towards **the left**.	entailment
+St. Augustine Record printed a factually misleading titled "Schools comply with Florida policy informing parents of students’ pronouns"	entailment
+The St. Augustine Record had to apologize for **None**	entailment
+St. Augustine Record is funded by the **private** government	contradiction
+The St. Augustine Record is a **Left-Center Biased**	entailment
+St. Augustine Record covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment

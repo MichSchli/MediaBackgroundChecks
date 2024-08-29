@@ -1,0 +1,22 @@
+SaltWire Network leads Valley Journal Advertiser	entailment
+SaltWire Network owns Valley Journal Advertiser	entailment
+SaltWire Network is the owner of Valley Journal Advertiser	entailment
+SaltWire Network acquired Valley Journal Advertiser	contradiction
+Valley Journal Advertiser is funded through subscriptions and advertising	entailment
+The remit of Valley Journal Advertiser is to deliver breaking news, opinion, sports, lifestyles, and crime.	entailment
+The mission of Valley Journal Advertiser is to deliver breaking news, opinion, sports, lifestyles, and crime.	entailment
+Valley Journal Advertiser tends to the Right-Center	entailment
+Other sources have commented on Valley Journal Advertiser, stating that it tends to be right-center.	entailment
+The factuality of Valley Journal Advertiser is reported to be High	entailment
+The factuality of Valley Journal Advertiser is reported to be High, according to Mediabiasfactcheck.com	entailment
+Valley Journal Advertiser chose not to cover world news	contradiction
+Valley Journal Advertiser relies on advertising for revenue	entailment
+Valley Journal Advertiser relies on subscriptions for revenue	entailment
+Valley Journal Advertiser relies on donations for revenue	contradiction
+When aggregating stories, Valley Journal Advertiser relies on information from [Reuters](https://mediabiasfactcheck.com/reuters/), [Postmedia](https://mediabiasfactcheck.com/ottawa-sun/) publications.	entailment
+Valley Journal Advertiser has an editorial bias towards **right-center**	entailment
+Valley Journal Advertiser printed a biased article titled "Time to break taboo on private health care"	entailment
+Valley Journal Advertiser's headquarter is located in Windsor.	entailment
+Valley Journal Advertiser is funded by the Canadian government	contradiction
+Valley Journal Advertiser is a newspaper	entailment
+Valley Journal Advertiser covers the following topics: History, Opinion, Sports, Lifestyles, Crime.	contradiction

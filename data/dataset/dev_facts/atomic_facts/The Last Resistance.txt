@@ -1,0 +1,17 @@
+Discount Book Distributors bought The Last Resistance	entailment
+Discount Book Distributors acquired The Last Resistance	entailment
+The Last Resistance is funded through online advertising	entailment
+The remit of The Last Resistance is to **publish news stories from outside sources that fall within the extreme right or conspiracy sources.**	entailment
+The mission of The Last Resistance is to link to news stories from outside sources.	entailment
+The usual audience of The Last Resistance is **right-wing**	entailment
+The Last Resistance tends to the extreme right-wing	entailment
+The Last Resistance tends to the **right** according to **Media Bias/Fact Check**	entailment
+Other sources have commented on The Last Resistance, stating that it tends to be Questionable	entailment
+The factuality of The Last Resistance is reported to be questionable, according to Media Bias/Fact Check.	entailment
+The Last Resistance chose not to cover original content	entailment
+The Last Resistance provides original content written by staff journalists	contradiction
+The Last Resistance relies on advertising for revenue	entailment
+When aggregating stories, The Last Resistance relies on information from outside sources.	entailment
+The Last Resistance has endorsed conspiracy and fake news websites.	entailment
+The Last Resistance has an editorial bias towards extreme right-wing.	entailment
+The Last Resistance printed a biased article titled "Questionable based on extreme right-wing bias, promotion of conspiracies, and linking to fake news sources."	entailment

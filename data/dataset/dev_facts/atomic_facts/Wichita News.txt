@@ -1,0 +1,18 @@
+Nexstar Media Group owns Wichita News	entailment
+Nexstar Media Group is the owner of Wichita News	entailment
+Nexstar Media Group bought Wichita News	contradiction
+Wichita News is funded through advertising	entailment
+The remit of Wichita News is to provide news, sports, weather, politics, and crime reporting.	entailment
+The mission of Wichita News is to  provide news, sports, weather, politics, and crime reporting.	entailment
+The usual audience of Wichita News is **the greater Wichita, Kansas area**	entailment
+Wichita News tends to the Least Biased	entailment
+Other sources have commented on Wichita News, stating that it tends to be **Least Biased**.	entailment
+The factuality of Wichita News is reported to be High	entailment
+The factuality of Wichita News is reported to be high, according to Media Bias/Fact Check.	entailment
+Wichita News failed a fact-check for an article titled "None in the last 5 years."	contradiction
+Wichita News chose not to cover **opinion pieces**.	entailment
+Wichita News relies on advertising for revenue	entailment
+Wichita News relies on donations for revenue	contradiction
+When aggregating stories, Wichita News relies on information from **the Associated Press**.	entailment
+Wichita News has an editorial bias towards **neutrality**	entailment
+Wichita News had to apologize for failed fact checks	contradiction

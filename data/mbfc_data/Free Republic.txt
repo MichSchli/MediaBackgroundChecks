@@ -1,0 +1,13 @@
+History
+Founded in 1996 by Jim and John Robinson, Free Republic is a moderated Internet forum and chat site for self-described conservatives. The website consists of news articles posted by members, followed by comments and discussions of the articles. According to their
+[about page](http://www.freerepublic.com/home.htm): “Free Republic is one of the earliest and largest online gathering places for independent, grass-roots conservatism on the web. We’re working to roll back decades of governmental largesse, root out political fraud and corruption, and champion causes that further conservatism in America.”
+In 1998, several newspapers sued the Free Republic for allowing its users to repost the full text of copyrighted newspaper articles, asserting that this constituted copyright infringement. Free Republic claimed that they were not liable under the doctrine of
+[fair use](https://en.wikipedia.org/wiki/Fair_use) and the [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) guarantee of freedom of speech. The federal courts ruled in favor of the newspapers in the case [L.A. Times v. Free Republic](https://en.wikipedia.org/wiki/Los_Angeles_Times_v._Free_Republic). This case was important as it led to a clearer definition of Fair Use, which involves publishing a snippet or summary of an article followed by a hyperlink. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Jim Robinson owns the website/forum and, according to their about page, is funded “solely by donations from our readers and participants.”
+Analysis / Bias
+In review, as described above a user/member publishes a snippet or summary of a news article, and then registered members comment on the article. Since Free Republic itself does not publish articles, the content varies widely. However, there are common themes, such as frequent articles that are pro-life, pro-Trump, anti-climate change and anti-gay marriage. In other words, Free Republic’s audience holds conservative views, as does the content of the articles, known as selection bias.
+Free Republic’s users publish articles from a wide range of sources, with some being on our questionable list for factual reporting, such as
+[Breitbart](https://mediabiasfactcheck.com/breitbart/), [Gateway Pundit](https://mediabiasfactcheck.com/the-gateway-pundit/), and even Rush Limbaugh (RIP), who has a [terrible record](https://factualsearch.news/#gsc.tab=0&gsc.q=rush%20limbaugh&gsc.sort=&gsc.ref=fact_checking) with fact-checkers.
+Failed Fact Checks
+- They sometimes rely on sources that fail fact-checks.

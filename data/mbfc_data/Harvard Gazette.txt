@@ -1,0 +1,12 @@
+History
+Founded in 1906, The Harvard Gazette is the official news website of Harvard University. According to their
+[about page](https://news.harvard.edu/gazette/about-harvard-gazette/), “The Harvard Gazette is the official news website for Harvard University. It covers campus life and times, University issues and policies, innovations in science, teaching, and learning, and broader national and global concerns.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Harvard Gazette is owned and published by Harvard University. Funding is provided through the University.
+Analysis / Bias
+In review, the Harvard Gazette provides original reporting on the Arts, Business & Economics, Health & Medicine, Technology, and World Affairs. Articles and headlines contain minimally loaded emotional language such as this
+[A next step in renewable Bionic Leaf fuel production](https://news.harvard.edu/gazette/story/2021/03/turning-seawater-into-stored-energy/).
+Editorially, political reporting is generally balanced, such as this
+[Democrats and Republicans do live in different worlds](https://news.harvard.edu/gazette/story/2021/03/democrats-and-republicans-live-in-partisan-bubbles-study-finds/). This story is also properly sourced. In general, the Harvard Gazette reports news factually and with minimal bias.
+Failed Fact Checks
+- None in the Last 5 years

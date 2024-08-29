@@ -1,0 +1,21 @@
+Hearst Communications owns Connecticut Post	entailment
+Hearst Communications is the owner of Connecticut Post	entailment
+Hearst Communications bought Connecticut Post	contradiction
+Hearst Communications acquired Connecticut Post	contradiction
+Connecticut Post is funded through advertising, classified sales, and sponsored content.	entailment
+The remit of Connecticut Post is to report local and national news with minimal bias, derived from Hearst papers and Associated Press.	entailment
+The mission of Connecticut Post is to  provide news coverage with low bias and proper sourcing.	contradiction
+The usual audience of Connecticut Post is Left-Center Biased.	entailment
+Connecticut Post tends to the  Left-Center Biased	entailment
+Other sources have commented on Connecticut Post, stating that it tends to be Left-Center Biased	entailment
+The factuality of Connecticut Post is reported to be High	entailment
+The factuality of Connecticut Post is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+Connecticut Post chose not to cover failed fact checks	entailment
+Connecticut Post relies on advertising for revenue	entailment
+Connecticut Post relies on subscriptions for revenue	contradiction
+Connecticut Post relies on donations for revenue	contradiction
+When aggregating stories, Connecticut Post relies on information from **Hearst papers and the Associated Press**.	entailment
+Connecticut Post has endorsed Democratic candidates	entailment
+Connecticut Post has an editorial bias towards **Democratic candidates**	entailment
+Connecticut Post's headquarters is located in Bridgeport	entailment
+Connecticut Post is a **daily newspaper**	entailment

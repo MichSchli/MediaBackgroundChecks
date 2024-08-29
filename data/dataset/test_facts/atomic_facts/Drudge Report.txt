@@ -1,0 +1,32 @@
+Matt Drudge founded Drudge Report	entailment
+Matt Drudge is the founder of Drudge Report	entailment
+Matt Drudge leads Drudge Report	entailment
+Matt Drudge owns Drudge Report	entailment
+Matt Drudge is the owner of Drudge Report	entailment
+Matt Drudge acquired Drudge Report	contradiction
+Drudge Report is funded through online advertising	entailment
+The remit of Drudge Report is to **provide hyperlinks to external news sources, in which Matt Drudge writes the lead in headlines**.	entailment
+The mission of Drudge Report is to **provide links to stories from the United States and international media about politics, entertainment, and current events; it also has links to many columnists**	entailment
+The usual audience of Drudge Report is Right-Center	entailment
+Drudge Report tends to the right	entailment
+Other sources have commented on Drudge Report, stating that it tends to be right-leaning.	entailment
+The factuality of Drudge Report is reported to be Mixed	contradiction
+The factuality of Drudge Report is reported to be Mixed, according to Media Bias Fact Check.	entailment
+Drudge Report failed a fact-check for an article titled **BREAKING: Illegal Muslim From Iran Arrested For Starting California Wildfire**	entailment
+Drudge Report printed a retraction after failing a fact-check for an article titled **A photograph shows children holding guns on the US-Mexico border**	contradiction
+Drudge Report chose not to cover Donald Trump	contradiction
+Drudge Report relies on advertising for revenue	entailment
+Drudge Report relies on subscriptions for revenue	entailment
+Drudge Report relies on donations for revenue	contradiction
+Drudge Report has received donations from **online advertising**	entailment
+When aggregating stories, Drudge Report relies on information from hyperlinks	entailment
+Drudge Report has endorsed Donald Trump	contradiction
+Drudge Report has an editorial bias towards the right	entailment
+Matt Drudge is the editor of Drudge Report	entailment
+Drudge Report was fined 	entailment
+Drudge Report printed a biased article titled  President Obama Birther conspiracy and that Undocumented children are violent criminals	entailment
+Drudge Report had to apologize for **failed fact checks**	contradiction
+Drudge Report had to apologize to Donald Trump for a position change	entailment
+Drudge Report is funded by the **online** government	contradiction
+Drudge Report is a Right-Center	entailment
+Drudge Report covers the following topics: politics, entertainment, current events	entailment

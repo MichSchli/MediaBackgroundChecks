@@ -1,0 +1,16 @@
+AceShowbiz acquired AceShowbiz (ASB)	contradiction
+AceShowbiz (ASB) is funded through **advertising**	entailment
+The remit of AceShowbiz (ASB) is to cover topics ranging from celebrity gossip, interviews, news pertaining to TV, movies, music, and lifestyle.	entailment
+The usual audience of AceShowbiz (ASB) is **people interested in entertainment news**	entailment
+AceShowbiz (ASB) tends to the left	entailment
+AceShowbiz (ASB) tends to the left-center biased according to story selection	entailment
+Other sources have commented on AceShowbiz (ASB), stating that it tends to be **left-leaning biased**.	entailment
+The factuality of AceShowbiz (ASB) is reported to be Left-Center Biased based on story selection that moderately favors the left. We also rate them Mixed for factual reporting due to poor sourcing and a lack of transparency with ownership and authors.	entailment
+The factuality of AceShowbiz (ASB) is reported to be Mixed, according to Mediabiasfactcheck.com.	entailment
+AceShowbiz (ASB) printed a retraction after failing a fact-check for an article titled **"The ‘Cravings’ Author Is ‘Bummed And Hit Hard.'"**	entailment
+AceShowbiz (ASB) chose not to cover political news	contradiction
+AceShowbiz (ASB) relies on advertising for revenue	entailment
+AceShowbiz (ASB) relies on subscriptions for revenue	contradiction
+AceShowbiz (ASB) relies on donations for revenue	entailment
+AceShowbiz (ASB) has an editorial bias towards **the left**	entailment
+AceShowbiz (ASB) printed a biased article titled "The 'Cravings' Author Is 'Bummed And Hit Hard.'"	entailment

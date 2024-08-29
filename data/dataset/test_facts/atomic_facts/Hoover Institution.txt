@@ -1,0 +1,22 @@
+Herbert Hoover founded Hoover Institution.	entailment
+Herbert Hoover is the founder of Hoover Institution	entailment
+Thomas W. Gilligan leads Hoover Institution	entailment
+Hoover Institution is funded through **private gifts, primarily from individual contributions, and the other half from its endowment**	entailment
+The remit of Hoover Institution is to **support a free market economy and hold Libertarian positions**.	entailment
+Hoover Institution tends to the right-center	entailment
+Other sources have commented on Hoover Institution, stating that it tends to be **right-center biased**.	entailment
+The factuality of Hoover Institution is reported to be High	entailment
+The factuality of Hoover Institution is reported to be High, according to Mediabiasfactcheck.	entailment
+Hoover Institution failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Hoover Institution provides original content written by staff journalists	entailment
+Hoover Institution relies on subscriptions for revenue	contradiction
+Hoover Institution relies on donations for revenue	entailment
+Hoover Institution has received donations from private gifts, primarily from individual contributions, and the other half from its endowment. The organization’s funders include the Taube Family Foundation, the Koret Foundation, the Howard Charitable Foundation, the Sarah Scaife Foundation, the Walton Foundation, the Lynde and Harry Bradley Foundation, and the William E. Simon Foundation.	entailment
+When aggregating stories, Hoover Institution relies on information from **various left-leaning and right-leaning sources**	entailment
+Hoover Institution has endorsed Republican candidates during the 2016 election cycle	entailment
+Hoover Institution has an editorial bias towards right-center.	entailment
+Thomas W. Gilligan is the editor of Hoover Institution	contradiction
+Hoover Institution printed a factually misleading titled "A Progressive Plan That Aids Loan Sharks".	entailment
+Hoover Institution's headquarter is located in California	entailment
+Hoover Institution is funded by the private government	contradiction
+Hoover Institution is a think tank	entailment

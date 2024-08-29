@@ -1,0 +1,21 @@
+Luis Ko founded Taiwan News	entailment
+Luis Ko owns Taiwan News	entailment
+Luis Ko is the owner of Taiwan News	entailment
+Luis Ko acquired Taiwan News	entailment
+Taiwan News is funded through advertising	entailment
+The mission of Taiwan News is to  report international news with low bias as they use sources such as AP and maintain factual reporting and neutral words.	entailment
+Taiwan News tends to the Left-Center Biased	entailment
+Other sources have commented on Taiwan News, stating that it tends to be Left-Center Biased	entailment
+The factuality of Taiwan News is reported to be Mostly Factual	entailment
+The factuality of Taiwan News is reported to be Mostly Factual, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/taiwan-roc-media-profile/)	entailment
+Taiwan News relies on advertising for revenue	entailment
+Taiwan News relies on subscriptions for revenue	contradiction
+Taiwan News relies on donations for revenue	contradiction
+When aggregating stories, Taiwan News relies on information from [AP](https://mediabiasfactcheck.com/associated-press/)	entailment
+Taiwan News has endorsed Pan Green Coalition	entailment
+Taiwan News has an editorial bias towards left-leaning editorial bias.	entailment
+Taiwan News was fined 	entailment
+Taiwan News printed a biased article titled "Left-Center Biased".	entailment
+Taiwan News is a Left-Center Biased	entailment
+Taiwan News uses a peer review process	entailment
+Taiwan News covers the following topics: World News, Business, Editorials, Sports and Entertainment, New Immigrants, and more.	entailment

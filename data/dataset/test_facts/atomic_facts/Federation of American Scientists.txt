@@ -1,0 +1,22 @@
+Ali Nouri founded Federation of American Scientists	entailment
+Ali Nouri is the founder of Federation of American Scientists	contradiction
+Ali Nouri leads Federation of American Scientists	entailment
+Federation of American Scientists is funded through donations	entailment
+The remit of Federation of American Scientists is to promote a safer and more secure world by developing and advancing solutions to important science and technology security policy problems by educating the public and policymakers and promoting transparency through research and analysis to maximize impact on policy.	entailment
+The mission of Federation of American Scientists is to promote a safer and more secure world by developing and advancing solutions to important science and technology security policy problems by educating the public and policymakers and promoting transparency through research and analysis to maximize impact on policy.	entailment
+The usual audience of Federation of American Scientists is **the public and policymakers**.	entailment
+Federation of American Scientists tends to the promotion of a safer and more secure world.	entailment
+Other sources have commented on Federation of American Scientists, stating that it tends to be **a pro-science source**.	entailment
+The factuality of Federation of American Scientists is reported to be high	entailment
+The factuality of Federation of American Scientists is reported to be high, according to the Media Bias Fact Check.	entailment
+Federation of American Scientists failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Federation of American Scientists chose not to cover Failed Fact Checks	entailment
+Federation of American Scientists relies on advertising for revenue	contradiction
+Federation of American Scientists relies on donations for revenue	entailment
+Federation of American Scientists has received donations from MacArthur Foundation	entailment
+Federation of American Scientists has endorsed Pro-science	entailment
+Federation of American Scientists has an editorial bias towards **pro-science**	entailment
+Federation of American Scientists paid damages to  after Ali Nouri	contradiction
+Federation of American Scientists is a organization	entailment
+Federation of American Scientists uses an internal fact-checking process	entailment
+Federation of American Scientists covers the following topics: Government Secrecy, Nuclear Weapons, Defense Posture, and Science Policy.	entailment

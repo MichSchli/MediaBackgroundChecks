@@ -1,0 +1,25 @@
+Stilson Hutchins founded Washington Post	entailment
+Stilson Hutchins is the founder of Washington Post.	entailment
+Will Lewis is the CEO of Washington Post	entailment
+Amazon CEO Jeff Bezos  leads Washington Post.	contradiction
+Jeff Bezos owns Washington Post	entailment
+Jeff Bezos is the owner of Washington Post	entailment
+Eugene Meyer bought Washington Post	entailment
+Jeffrey P. Bezos acquired Washington Post	entailment
+The remit of Washington Post is to **report news mostly factually and with a left-leaning editorial bias**.	entailment
+The usual audience of Washington Post is **liberal readers**	entailment
+Washington Post tends to the left	entailment
+Washington Post tends to the left according to Pew Research	entailment
+Other sources have commented on Washington Post, stating that it tends to be **left-leaning**	entailment
+The factuality of Washington Post is reported to be Mostly Factual	entailment
+The factuality of Washington Post is reported to be Mostly Factual, according to a Mediabiasfactcheck analysis.	entailment
+Washington Post failed a fact-check for an article titled "A computer infected by malware proved a Vermont power company targeted for disruption by Russian hackers."	entailment
+Washington Post printed a retraction after failing a fact-check for an article titled "find the fraud," "National Hero"	entailment
+Washington Post relies on donations for revenue	entailment
+When aggregating stories, Washington Post relies on information from **credible sources**	entailment
+Washington Post has endorsed Democratic Presidential candidates	entailment
+Washington Post has an editorial bias towards left	entailment
+Jeff Bezos  is the editor of Washington Post	contradiction
+Washington Post printed a biased article titled "Bernie Sanders’s fiction-filled campaign".	entailment
+Washington Post had to apologize for publishing an article by Janet Cooke that won the Pulitzer Prize.	entailment
+Washington Post had to apologize to Donald Trump for a story about him telling an election investigator to "find the fraud" and calling her a "National Hero".	contradiction

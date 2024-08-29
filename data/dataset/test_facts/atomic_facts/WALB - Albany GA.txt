@@ -1,0 +1,21 @@
+Gray Television owns WALB - Albany GA	entailment
+Gray Television is the owner of WALB - Albany GA.	entailment
+Gray Television bought WALB - Albany GA	entailment
+WALB - Albany GA is funded through **sponsored content and advertising**	entailment
+The remit of WALB - Albany GA is to **provide news coverage**.	entailment
+The mission of WALB - Albany GA is to report news factually and with minimal bias.	entailment
+The usual audience of WALB - Albany GA is Albany, Georgia, and the surrounding area.	entailment
+WALB - Albany GA tends to the local news.	entailment
+Other sources have commented on WALB - Albany GA, stating that it tends to be **least biased**.	entailment
+The factuality of WALB - Albany GA is reported to be High	entailment
+The factuality of WALB - Albany GA is reported to be High, according to D. Van Zandt	entailment
+WALB - Albany GA failed a fact-check for an article titled "Broken Heart Bakery to stay open thanks to private investment".	contradiction
+WALB - Albany GA printed a retraction after failing a fact-check for an article titled "Broken Heart Bakery to stay open thanks to private investment".	contradiction
+WALB - Albany GA chose not to cover an opinion page.	entailment
+WALB - Albany GA relies on advertising for revenue	entailment
+WALB - Albany GA relies on donations for revenue	contradiction
+When aggregating stories, WALB - Albany GA relies on information from **the Associated Press**	entailment
+WALB - Albany GA has an editorial bias towards Least Biased.	entailment
+WALB - Albany GA had to apologize for 	contradiction
+WALB - Albany GA is a television station	entailment
+WALB - Albany GA covers the following topics: news, sports, weather, traffic, and entertainment.	entailment

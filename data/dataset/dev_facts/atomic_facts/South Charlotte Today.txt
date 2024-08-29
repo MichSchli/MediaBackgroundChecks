@@ -1,0 +1,21 @@
+Bradley Cameron is the CEO of South Charlotte Today	contradiction
+Metric Media Foundation owns South Charlotte Today	entailment
+Metric Media LLC is the owner of South Charlotte Today	entailment
+South Charlotte Today is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of South Charlotte Today is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of South Charlotte Today is **conservative-leaning**	entailment
+South Charlotte Today tends to the right-center	entailment
+South Charlotte Today tends to the right-center according to D. Van Zandt 	entailment
+Other sources have commented on South Charlotte Today, stating that it tends to be conservative.	entailment
+The factuality of South Charlotte Today is reported to be Questionable	entailment
+The factuality of South Charlotte Today is reported to be **Questionable**, according to **D. Van Zandt 12/11/2023**.	entailment
+South Charlotte Today failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+South Charlotte Today chose not to cover **local news objectively**	entailment
+South Charlotte Today relies on advertising for revenue	entailment
+South Charlotte Today relies on donations for revenue	entailment
+When aggregating stories, South Charlotte Today relies on information from **algorithmically produced content**.	entailment
+South Charlotte Today has endorsed **conservative-leaning news websites**	entailment
+South Charlotte Today has an editorial bias towards **right-center**	entailment
+South Charlotte Today printed a biased article titled South Charlotte Today is an imposter site, lacks transparency, and publishes false information.	entailment
+South Charlotte Today printed a factually misleading titled **imposter site, lacks transparency, and publishes false information**	entailment
+South Charlotte Today paid damages to after Metric Media LLC	entailment

@@ -1,0 +1,12 @@
+History
+Ricochet is a right-biased news and opinion political website. It is a subscription site with articles posted by contributors and members on which members can comment and discuss the issues raised. The site
+[describes itself](https://en.wikipedia.org/wiki/Ricochet_(website)) as a place for “center-right conversation.” Richochet was started in May 2010 and was founded by [Rob Long](https://en.wikipedia.org/wiki/Rob_Long) and [Peter Robinson](https://en.wikipedia.org/wiki/Peter_Robinson_(speechwriter)). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Silent Cal Productions, LLC owns and publishes the website. Membership fees and advertising generate revenue.
+Analysis / Bias
+In review, Ricochet features contributors who pay a subscription fee to post articles on the website. Due to this fact, the bias of articles ranges from right-center to far-right depending on the writer. This is an example of a piece with a strong right-wing bias in wording and political affiliation:
+[Why We Need Trump.](https://ricochet.com/471368/why-we-need-trump/) Not only does this article contain loaded words such as “corrupt Hillary,” but it also does not list a source of any kind. Other articles do you use sourcing, but many do not.
+During the Covid-19 pandemic, they published misinformation such as this
+[Johns Hopkins Doc: Natural Immunity Is Superior to Vaccine; Biden Admin Has it Backwards](https://ricochet.com/1067336/johns-hopkins-doc-natural-immunity-is-superior-to-vaccine-biden-admin-has-it-backwards/). This unsourced article is [not supported by evidence](https://healthfeedback.org/infection-induced-immunity-versus-vaccine-induced-immunity-weighing-the-benefits-and-risks/). In general, most stories favor the right and sometimes promote misinformation.
+Failed Fact Checks
+[Just 6 percent of Americans say Russia is the country’s most important issue, yet the story receives “75 percent of the coverage” in the media.](https://www.politifact.com/factchecks/2017/jul/23/kellyanne-conway/does-russia-take-75-percent-media-coverage/)– Mostly False

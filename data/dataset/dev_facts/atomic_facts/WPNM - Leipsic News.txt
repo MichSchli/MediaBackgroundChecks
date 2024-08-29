@@ -1,0 +1,19 @@
+ABC founded WPNM - Leipsic News	contradiction
+Block Communications owns WPNM - Leipsic News.	entailment
+Block Communications is the owner of WPNM - Leipsic News	entailment
+WPNM - Leipsic News is funded through advertising	entailment
+The remit of WPNM - Leipsic News is to **provide news coverage**	entailment
+The mission of WPNM - Leipsic News is to  report news factually and with minimal bias.	entailment
+The usual audience of WPNM - Leipsic News is local residents of Leipsic, Ohio, and the surrounding areas.	entailment
+Other sources have commented on WPNM - Leipsic News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WPNM - Leipsic News is reported to be High	entailment
+The factuality of WPNM - Leipsic News is reported to be High, according to Media Bias/Fact Check.	entailment
+WPNM - Leipsic News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+WPNM - Leipsic News printed a retraction after failing a fact-check for an article titled "Ohio Brownfield Remediation Program funding coming to a few projects in our area".	contradiction
+WPNM - Leipsic News chose not to cover an opinion page	entailment
+WPNM - Leipsic News relies on advertising for revenue	entailment
+WPNM - Leipsic News relies on subscriptions for revenue	contradiction
+WPNM - Leipsic News relies on donations for revenue	contradiction
+WPNM - Leipsic News has endorsed **no political parties or candidates**	entailment
+WPNM - Leipsic News has an editorial bias towards Least Biased	entailment
+WPNM - Leipsic News had to apologize to **none** for **failed fact checks**	entailment

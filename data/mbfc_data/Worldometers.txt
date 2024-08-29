@@ -1,0 +1,13 @@
+History
+[Founded in 2004](http://whois.domaintools.com/worldometers.info), Worldometer is a website that calculates the estimated population, Coronavirus, and a wide variety of statistics in real-time. According to their [about page](https://www.worldometers.info/about/), “Worldometer is run by an international team of developers, researchers, and volunteers intending to make world statistics available in a thought-provoking and time relevant format to a wide audience around the world.” They further state, “The live counters show the real-time estimate as computed by our proprietary algorithm, which processes the latest data and projections provided by [the most reputable organizations and statistical offices in the world](https://www.worldometers.info/sources/).”
+During the Coronavirus outbreak, the website was
+[temporarily hacked](https://www.geo.tv/latest/277564-coronavirus-worldometers-website-hit-by-ddos-attack) and displayed incorrect data. This was promptly fixed and is currently displaying accurate information. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Worldometer is owned by
+[Dadax*](http://dadax.com/), a software solutions company based in the USA. Advertising generates revenue.
+Analysis / Bias
+In review, Worldometer provides data on a wide variety of topics such as population, public health expenditures, amount of forest loss this year, amount of oil used, and tracking statistics related to the Coronavirus. Data, estimates, and projections displayed on Worldometer’s counters are, for the most part, provided by credible organizations such as the
+[United Nations, Statistics Division](http://unstats.un.org/unsd/), [United Nations Population Fund (UNFPa )](http://www.unfpa.org/worldwide/), [UNESCO Institute for Statistics](http://unescostat.unesco.org/), and the [World Health Organization (WHO)](http://www.who.int/whosis/). For a full list, see [here](https://www.worldometers.info/sources/). In general, the information provided on the website is estimates, and they carefully provide a disclaimer that states: “As with any statistic, the numbers are not expected to be exact to the single-digit, but to provide a fairly accurate and informative description of a phenomenon. This inherited limitation must be taken into account for the correct interpretation of the information.”
+Worldometer collects data, provides estimates, and does not editorialize content; therefore, we rate them least biased.
+Failed Fact Checks
+- None

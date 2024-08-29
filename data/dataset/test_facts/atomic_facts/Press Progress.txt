@@ -1,0 +1,25 @@
+Press Progress leads Press Progress.	entailment
+Broadbent Institute owns Press Progress	entailment
+Press Progress is the owner of Press Progress.	contradiction
+Press Progress is funded through donations.	entailment
+The remit of Press Progress is to provide an online Progressive Political news source.	entailment
+The mission of Press Progress is to provide an online Progressive Political news source.	entailment
+The usual audience of Press Progress is **progressive readership**.	entailment
+Press Progress tends to the left	entailment
+Other sources have commented on Press Progress, stating that it tends to be left biased.	entailment
+The factuality of Press Progress is reported to be High	entailment
+The factuality of Press Progress is reported to be High, according to D. Van Zandt 	entailment
+Press Progress failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Press Progress chose not to cover **any failed fact checks**.	entailment
+Press Progress relies on subscriptions for revenue	entailment
+Press Progress relies on donations for revenue	entailment
+Press Progress has received donations from the Broadbent Institute.	entailment
+When aggregating stories, Press Progress relies on information from **credible outlets**	entailment
+Press Progress has endorsed left biased and High for factual reporting.	entailment
+Press Progress has an editorial bias towards **the left**	entailment
+Press Progress printed a biased article titled 10 Cruel and Unusual Ways Doug Ford Has Made Life Worse ‘For the People’ of Ontario Since Last Year’s Election.	entailment
+Press Progress printed a factually misleading titled "10 Cruel and Unusual Ways Doug Ford Has Made Life Worse ‘For the People’ of Ontario Since Last Year’s Election"	entailment
+Press Progress's headquarter is located in Canada	entailment
+Press Progress is funded by the Canadian government	entailment
+Press Progress is a  Left Biased	entailment
+Press Progress covers the following topics: **Progressive Political news, Investigative reporting, Fact-checking, Issues not covered by mainstream news**	entailment

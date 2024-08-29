@@ -1,0 +1,22 @@
+Times Media Group founded Tucson Desert Times	entailment
+Tucson Desert Times is the founder of Tucson Desert Times	contradiction
+Times Media Group owns Tucson Desert Times	entailment
+Times Media Group is the owner of Tucson Desert Times	entailment
+Times Media Group bought Tucson Desert Times	contradiction
+Times Media Group acquired Tucson Desert Times	contradiction
+Tucson Desert Times is funded through **advertising**	entailment
+The remit of Tucson Desert Times is to **report local and national news, crime, business, and entertainment**	entailment
+The mission of Tucson Desert Times is to report news through local journalists in the Tucson area with minimal bias.	entailment
+Tucson Desert Times tends to the **Least Biased**	entailment
+Other sources have commented on Tucson Desert Times, stating that it tends to be Least Biased	entailment
+The factuality of Tucson Desert Times is reported to be High	entailment
+The factuality of Tucson Desert Times is reported to be High, according to D. Van Zandt	entailment
+Tucson Desert Times failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Tucson Desert Times chose not to cover  "Associated Press"	contradiction
+Tucson Desert Times provides original content written by staff journalists	entailment
+Tucson Desert Times relies on advertising for revenue	entailment
+Tucson Desert Times relies on subscriptions for revenue	contradiction
+Tucson Desert Times relies on donations for revenue	contradiction
+When aggregating stories, Tucson Desert Times relies on information from local journalists in the Tucson area.	entailment
+Tucson Desert Times has an editorial bias towards Least Biased	entailment
+D. Van Zandt is the editor of Tucson Desert Times	entailment

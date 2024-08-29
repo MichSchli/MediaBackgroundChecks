@@ -1,0 +1,22 @@
+Enric Huff founded The True Reporter	entailment
+Enric Huff is the founder of The True Reporter	entailment
+The True Reporter is funded through advertising	entailment
+The remit of The True Reporter is to **publish conservative news and commentary that often promotes conspiracy theories and pseudoscience**	entailment
+The mission of The True Reporter is to promote right-biased conspiracy theories and pseudoscience.	entailment
+The usual audience of The True Reporter is conservative-leaning.	entailment
+The True Reporter tends to the right	entailment
+The True Reporter tends to the right according to D. Van Zandt	entailment
+Other sources have commented on The True Reporter, stating that it tends to be **right biased and questionable**.	entailment
+The factuality of The True Reporter is reported to be Questionable	entailment
+The factuality of The True Reporter is reported to be Questionable, according to Mediabiasfactcheck.com.	entailment
+The True Reporter failed a fact-check for an article titled "To fight white supremacy, Coca-Cola discontinues Vanilla Coke"	entailment
+The True Reporter provides original content written by staff journalists	contradiction
+The True Reporter relies on advertising for revenue	entailment
+The True Reporter relies on subscriptions for revenue	contradiction
+The True Reporter relies on donations for revenue	contradiction
+When aggregating stories, The True Reporter relies on information from **other sources**	entailment
+The True Reporter has endorsed right-biased conspiracy theories and pseudoscience.	entailment
+The True Reporter has an editorial bias towards **conservative news and commentary**.	entailment
+The True Reporter was fined 0.	entailment
+The True Reporter printed a biased article titled "What’s Being Secretly Built Right Outside The Capitol Building?"	entailment
+The True Reporter printed a factually misleading titled Exclusive Images: Proof Of Election Fraud AND Chinese Involvement ?!	contradiction

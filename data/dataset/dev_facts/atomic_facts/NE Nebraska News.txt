@@ -1,0 +1,18 @@
+The Metric Media Foundation owns NE Nebraska News	entailment
+Metric Media LLC is the owner of NE Nebraska News	entailment
+NE Nebraska News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of NE Nebraska News is to **imposter site, lacks transparency, and publishes false information**.	entailment
+The mission of NE Nebraska News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of NE Nebraska News is **right-center, biased, and Questionable**.	entailment
+The NE Nebraska News tends to the right-center	entailment
+NE Nebraska News tends to the right-center according to Mediabiasfactcheck.com	entailment
+Other sources have commented on NE Nebraska News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of NE Nebraska News is reported to be Questionable	entailment
+The factuality of NE Nebraska News is reported to be Questionable, according to D. Van Zandt 	entailment
+NE Nebraska News provides original content written by staff journalists	contradiction
+NE Nebraska News relies on advertising for revenue	entailment
+NE Nebraska News relies on donations for revenue	entailment
+When aggregating stories, NE Nebraska News relies on information from **algorithmically produced content**.	entailment
+NE Nebraska News has endorsed right-center	entailment
+NE Nebraska News has an editorial bias towards \ right-center	entailment
+NE Nebraska News printed a biased article titled **Imposter Site Lacks Transparency and Publishes False Information**.	entailment

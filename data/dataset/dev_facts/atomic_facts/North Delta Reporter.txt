@@ -1,0 +1,21 @@
+Black Press Media owns North Delta Reporter	entailment
+Black Press Media bought North Delta Reporter	entailment
+North Delta Reporter is funded through advertising.	entailment
+The remit of North Delta Reporter is to cover news, sports, crime, and business for the greater Surry area.	entailment
+The mission of North Delta Reporter is to report news, sports, crime, and business for the greater Surry area.	entailment
+The usual audience of North Delta Reporter is slightly Left-Center biased based on a mildly left-leaning story selection that favors a liberal perspective.	entailment
+North Delta Reporter tends to the left	entailment
+North Delta Reporter tends to the **left** according to **Media Bias Fact Check**	entailment
+Other sources have commented on North Delta Reporter, stating that it tends to be **slightly Left-Center biased**.	entailment
+The factuality of North Delta Reporter is reported to be High	entailment
+The factuality of North Delta Reporter is reported to be High, according to D. Van Zandt 10/24/2022	entailment
+North Delta Reporter failed a fact-check for an article titled "Delta paper manufacturer fined $17K for ‘high-risk violations’"	contradiction
+North Delta Reporter chose not to cover **op-eds**	entailment
+North Delta Reporter relies on advertising for revenue	entailment
+North Delta Reporter relies on subscriptions for revenue	contradiction
+North Delta Reporter relies on donations for revenue	contradiction
+When aggregating stories, North Delta Reporter relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+North Delta Reporter has endorsed **a mildly left-leaning story selection that favors a liberal perspective**	entailment
+North Delta Reporter has an editorial bias towards **left-leaning**	entailment
+D. Van Zandt is the editor of North Delta Reporter	entailment
+North Delta Reporter printed a factually misleading titled Delta paper manufacturer fined $17K for ‘high-risk violations’	entailment

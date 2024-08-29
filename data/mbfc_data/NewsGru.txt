@@ -1,0 +1,13 @@
+Factual Reporting: MIXED
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+NewsGru does not have an about page or a disclaimer describing their mission. According to
+[Whois](http://whois.domaintools.com/newsgru.com) the domain was purchased in May 2016 and is registered privately. [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Due to a lack of provided information, ownership is unknown. Primary funding appears to be derived through online advertising.
+Analysis / Bias
+NewsGru primarily publishes financial news about crypto-currencies and related information. They also cover general news and politics. NewsGru rarely uses loaded language in their headlines and articles such as this:
+[North Korea reconnects to South Korea, reopens line of communication](https://newsgru.com/north-korea-reconnects-south-korea-reopens-line-communication/). However, they poorly source information as they do not use hyperlinking when sourcing to outside information. Typically, they utilize quotes, which is not appropriate for a web-only publication. When covering politics, NewGru moderately favors the left: [Americans aiming to escape Donald Trump can move to Canada](https://newsgru.com/americans-aiming-escape-donald-trump-can-move-canada/).
+A factual search reveals that
+[NewGru published](https://newsgru.com/putin-slams-pope-francis-hes-not-man-god/) a [pants on fire claim](http://www.politifact.com/punditfact/statements/2017/aug/08/blog-posting/vladimir-putin-said-pope-francis-not-man-god-blogg/).

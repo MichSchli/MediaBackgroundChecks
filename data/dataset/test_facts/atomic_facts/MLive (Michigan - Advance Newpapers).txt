@@ -1,0 +1,22 @@
+MLive is the founder of MLive (Michigan - Advance Newpapers)	contradiction
+Who is the CEO of MLive (Michigan - Advance Newpapers)?	contradiction
+MLive Media Group owns MLive (Michigan - Advance Newpapers)	entailment
+MLive (Michigan - Advance Newpapers) is funded through advertising, sponsored content, and subscriptions	entailment
+The remit of MLive (Michigan - Advance Newpapers) is to **deliver content from nine websites/newspapers**	entailment
+The mission of MLive (Michigan - Advance Newpapers) is to  Report wide coverage from multiple newspapers aligned with both the right and left.	entailment
+The usual audience of MLive (Michigan - Advance Newpapers) is **readers that are interested in Michigan news**	entailment
+MLive (Michigan - Advance Newpapers) tends to the least biased	entailment
+Other sources have commented on MLive (Michigan - Advance Newpapers), stating that it tends to be least biased.	entailment
+The factuality of MLive (Michigan - Advance Newpapers) is reported to be high	entailment
+The factuality of MLive (Michigan - Advance Newpapers) is reported to be High, according to Mediabiasfactcheck.	entailment
+MLive (Michigan - Advance Newpapers) failed a fact-check for an article titled "Ann Arbor Coffee Roasting Co. to take over former State Street Espresso Royale location"	contradiction
+MLive (Michigan - Advance Newpapers) chose not to cover Ann Arbor Coffee Roasting Co. to take over former State Street Espresso Royale location	contradiction
+MLive (Michigan - Advance Newpapers) relies on advertising for revenue	entailment
+MLive (Michigan - Advance Newpapers) relies on donations for revenue	contradiction
+"When aggregating stories, MLive (Michigan - Advance Newpapers) relies on information from multiple local and statewide newspapers."	entailment
+MLive (Michigan - Advance Newpapers) has an editorial bias towards **neither the right nor the left**	entailment
+MLive (Michigan - Advance Newpapers) printed a factually misleading titled "Ann Arbor Coffee Roasting Co. to take over former State Street Espresso Royale location".	contradiction
+MLive (Michigan - Advance Newpapers) had to apologize for \.	entailment
+MLive (Michigan - Advance Newspapers) had to apologize to **Ann Arbor Coffee Roasting Co.** for **factual reporting due to proper sourcing**	contradiction
+MLive (Michigan - Advance Newpapers) is a Michigan news portal.	entailment
+MLive (Michigan - Advance Newpapers) covers the following topics: Local and statewide news, National and international news	contradiction

@@ -1,0 +1,20 @@
+PostMedia owns Mayerthorpe Freelancer	entailment
+PostMedia is the owner of Mayerthorpe Freelancer	entailment
+PostMedia bought Mayerthorpe Freelancer	entailment
+Mayerthorpe Freelancer is funded through **advertising and subscription fees**	entailment
+The remit of Mayerthorpe Freelancer is to report local and regional news through journalists with minimal loaded words like this:	entailment
+The Mayerthorpe Freelancer tends to the **right**	entailment
+Other sources have commented on Mayerthorpe Freelancer, stating that it tends to be right-leaning.	entailment
+The factuality of Mayerthorpe Freelancer is reported to be High	entailment
+The factuality of Mayerthorpe Freelancer is reported to be High , according to D. Van Zandt 01/22/2023.	entailment
+Mayerthorpe Freelancer failed a fact-check for an article titled "New chamber board appointed, director optimistic about Mayerthorpe business."	contradiction
+The Mayerthorpe Freelancer chose not to cover [opposing viewpoints](https://www.mayerthorpefreelancer.com/).	contradiction
+Mayerthorpe Freelancer relies on advertising for revenue	entailment
+Mayerthorpe Freelancer relies on subscriptions for revenue	entailment
+Mayerthorpe Freelancer relies on donations for revenue	contradiction
+The Mayerthorpe Freelancer has received donations from **advertising and subscription fees**	entailment
+When aggregating stories, Mayerthorpe Freelancer relies on information from **Canadian Press**.	entailment
+Mayerthorpe Freelancer has an editorial bias towards **the conservative right**	entailment
+Mayerthorpe Freelancer's headquarter is located in Mayerthorpe	entailment
+The Mayerthorpe Freelancer is funded by the Canadian government	contradiction
+Mayerthorpe Freelancer is a **newspaper**	entailment

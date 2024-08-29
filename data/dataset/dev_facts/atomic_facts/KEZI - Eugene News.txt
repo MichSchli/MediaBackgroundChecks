@@ -1,0 +1,20 @@
+Allen Media LLC owns KEZI - Eugene News	entailment
+Allen Media LLC is the owner of KEZI - Eugene News.	entailment
+Allen Media LLC bought KEZI - Eugene News	entailment
+KEZI - Eugene News is funded through advertising and sponsored content	entailment
+The remit of KEZI - Eugene News is to publish news for the Eugene city and surrounding area through reporters and with minimal bias.	entailment
+The mission of KEZI - Eugene News is to accurately inform the public about news and events in the Eugene area.	entailment
+The usual audience of KEZI - Eugene News is the greater Eugene area	entailment
+KEZI - Eugene News tends to the Least Biased	entailment
+KEZI - Eugene News tends to the **left** according to **Media Bias Fact Check**	contradiction
+Other sources have commented on KEZI - Eugene News, stating that it tends to be Least Biased.	entailment
+The factuality of KEZI - Eugene News is reported to be High	entailment
+The factuality of KEZI - Eugene News is reported to be High, according to Media Bias/Fact Check.	entailment
+KEZI - Eugene News printed a retraction after failing a fact-check for an article titled "UO students facing fines, frustrated with party patrols".	contradiction
+KEZI - Eugene News chose not to cover Op-eds	entailment
+KEZI - Eugene News relies on advertising for revenue	entailment
+KEZI - Eugene News relies on donations for revenue	contradiction
+When aggregating stories, KEZI - Eugene News relies on information from **reporters and the Associated Press and CNN**	entailment
+KEZI - Eugene News has an editorial bias towards **neither side**	entailment
+KEZI - Eugene News was fined **$325,000**	entailment
+KEZI - Eugene News had to apologize for **none**	entailment

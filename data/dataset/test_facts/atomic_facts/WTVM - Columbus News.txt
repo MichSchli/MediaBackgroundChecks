@@ -1,0 +1,25 @@
+Gray Television owns WTVM - Columbus News	entailment
+Gray Television is the owner of WTVM - Columbus News	entailment
+Gray Television bought WTVM - Columbus News	entailment
+Gray Television acquired WTVM - Columbus News	entailment
+WTVM - Columbus News is funded through advertising and sponsored content.	entailment
+The remit of WTVM - Columbus News is to **provide news coverage**	entailment
+The mission of WTVM - Columbus News is to report news factually and with minimal bias	entailment
+The usual audience of WTVM - Columbus News is **local residents of Columbus, Georgia, and the surrounding areas**.	entailment
+WTVM - Columbus News tends to the **least biased**	entailment
+Other sources have commented on WTVM - Columbus News, stating that it tends to be Least Biased	entailment
+The factuality of WTVM - Columbus News is reported to be High	entailment
+The factuality of WTVM - Columbus News is reported to be High, according to D. Van Zandt	entailment
+WTVM - Columbus News failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+WTVM - Columbus News printed a retraction after failing a fact-check for an article titled "Longtime Lee County Coroner Bill Harris dies"	contradiction
+WTVM - Columbus News chose not to cover an opinion page.	entailment
+WTVM - Columbus News relies on advertising for revenue	entailment
+WTVM - Columbus News relies on donations for revenue	contradiction
+When aggregating stories, WTVM - Columbus News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WTVM - Columbus News has an editorial bias towards **neutral**	entailment
+WTVM - Columbus News was fined 	entailment
+WTVM - Columbus News printed a biased article titled "Least Biased Based on Minimally Loaded Language and Minimal Editorializing"	contradiction
+WTVM - Columbus News printed a factually misleading titled "Failed Fact Checks"	contradiction
+WTVM - Columbus News is funded by the United States government	contradiction
+WTVM - Columbus News is a television station	entailment
+WTVM - Columbus News covers the following topics: local and national news, sports, weather, traffic, and entertainment.	entailment

@@ -1,0 +1,21 @@
+The Windsor Star is the founder of Windsor Star	contradiction
+Paul Godfrey is the CEO of Windsor Star	contradiction
+PostMedia owns Windsor Star	entailment
+PostMedia is the owner of Windsor Star	entailment
+The Windsor Star is funded through advertising and subscription fees.	entailment
+The remit of Windsor Star is to  report local and regional news.	entailment
+The mission of Windsor Star is to report local and regional news through journalists with minimal loaded words such as this:	entailment
+The usual audience of Windsor Star is **right-leaning**	entailment
+Windsor Star tends to the right	entailment
+Windsor Star tends to the right-center according to Mediabiasfactcheck	entailment
+Other sources have commented on Windsor Star, stating that it tends to be **right-leaning**.	entailment
+The factuality of Windsor Star is reported to be High	entailment
+The factuality of Windsor Star is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+Windsor Star failed a fact-check for an article titled **None**	contradiction
+Windsor Star relies on advertising for revenue	entailment
+Windsor Star relies on subscriptions for revenue	entailment
+Windsor Star relies on donations for revenue	contradiction
+When aggregating stories, Windsor Star relies on information from **the Canadian Press**.	entailment
+Windsor Star has endorsed conservative right	entailment
+Windsor Star has an editorial bias towards the right.	entailment
+Windsor Star printed a biased article titled **Editorial: Of choices we have, Ford’s PCs are best**	entailment

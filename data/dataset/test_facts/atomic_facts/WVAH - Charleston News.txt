@@ -1,0 +1,25 @@
+Sinclair Broadcast Group leads WVAH - Charleston News	entailment
+Sinclair Broadcast Group owns WVAH - Charleston News	entailment
+Sinclair Broadcast Group is the owner of WVAH - Charleston News	entailment
+Sinclair bought WVAH - Charleston News	entailment
+Sinclair Broadcast Group acquired WVAH - Charleston News	entailment
+WVAH - Charleston News is funded through **advertising**	entailment
+The remit of WVAH - Charleston News is to **report local news with minimal bias in wording**	entailment
+The mission of WVAH - Charleston News is to  "report local news with minimal bias in wording."	entailment
+WVAH - Charleston News tends to the right	entailment
+Other sources have commented on WVAH - Charleston News, stating that it tends to be **right-leaning**	entailment
+The factuality of WVAH - Charleston News is reported to be High	entailment
+The factuality of WVAH - Charleston News is reported to be high, according to Media Bias/Fact Check.	entailment
+WVAH - Charleston News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+WVAH - Charleston News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+WVAH - Charleston News chose not to cover **op-eds**	entailment
+WVAH - Charleston News relies on advertising for revenue	entailment
+WVAH - Charleston News relies on donations for revenue	entailment
+WVAH - Charleston News has received donations from [Sinclair Broadcast Group](https://mediabiasfactcheck.com/sinclair-broadcast-group/).	entailment
+When aggregating stories, WVAH - Charleston News relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and others by Sinclair properties.	entailment
+WVAH - Charleston News has endorsed right-leaning editorial bias.	entailment
+WVAH - Charleston News has an editorial bias towards \ Right	entailment
+WVAH - Charleston News paid damages to  after 	entailment
+WVAH - Charleston News's headquarter is located in Charleston.	entailment
+WVAH - Charleston News is funded by the **advertising** government	entailment
+WVAH - Charleston News is a **Fox**	contradiction

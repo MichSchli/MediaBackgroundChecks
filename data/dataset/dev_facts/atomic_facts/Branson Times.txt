@@ -1,0 +1,22 @@
+Bradley Cameron is the CEO of Branson Times	contradiction
+Metric Media Foundation owns Branson Times	entailment
+Metric Media LLC is the owner of Branson Times	entailment
+Branson Times is funded through **advertising and donations to the Metric Media Foundation**	entailment
+The remit of Branson Times is to **imposter site, lacks transparency, and publishes false information**.	entailment
+The mission of Branson Times is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of Branson Times is right-center, biased, and Questionable	entailment
+Branson Times tends to the right-centerBias	entailment
+Branson Times tends to the right according to Media Bias Fact Check	entailment
+Other sources have commented on Branson Times, stating that it tends to be right-center.	entailment
+The factuality of Branson Times is reported to be Questionable.	entailment
+The factuality of Branson Times is reported to be questionable, according to D. Van Zandt 12/30/2022.	entailment
+Branson Times failed a fact-check for an article titled **"Imposter Site, Lacks Transparency, and Publishes False Information"**	entailment
+Branson Times chose not to cover imposter site	entailment
+Branson Times provides original content written by staff journalists	contradiction
+Branson Times relies on advertising for revenue	entailment
+Branson Times relies on donations for revenue	entailment
+The Branson Times has received donations from the Metric Media Foundation	entailment
+When aggregating stories, Branson Times relies on information from the Metric Media LLC Network.	entailment
+Branson Times has an editorial bias towards conservative-leaning news.	entailment
+The factually misleading titled "Branson Times is an imposter site, lacks transparency, and publishes false information."	entailment
+The Branson Times had to apologize for **publishing false information**	entailment

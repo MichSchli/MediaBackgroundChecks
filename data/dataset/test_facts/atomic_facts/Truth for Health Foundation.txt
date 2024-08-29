@@ -1,0 +1,22 @@
+Truth for Health Foundation owns Truth for Health Foundation	entailment
+Truth for Health Foundation bought Truth for Health Foundation	contradiction
+The remit of Truth for Health Foundation is to promote.	contradiction
+The mission of Truth for Health Foundation is to promote misleading and false information, particularly regarding U.S. politics and the COVID-19 pandemic.	entailment
+Truth for Health Foundation tends to the  misinformation and far-right biases.	entailment
+Other sources have commented on Truth for Health Foundation, stating that it tends to be far-right biased and consistently promotes disinformation and false claims regarding Covid-19 and US Politics.	entailment
+The factuality of Truth for Health Foundation is reported to be far-right biased	entailment
+The factuality of Truth for Health Foundation is reported to be Far-Right biased, according to D. Van Zandt	entailment
+Truth for Health Foundation failed a fact-check for an article titled "With the “stroke of a pen,” Joe Biden signed the January 2023 Declaration of North America that has betrayed American sovereignty as a Nation, making one “North America” country out of Mexico, the USA, and Canada".	contradiction
+Truth for Health Foundation printed a retraction after failing a fact-check for an article titled "With the “stroke of a pen,” Joe Biden signed the January 2023 Declaration of North America that has betrayed American sovereignty as a Nation, making one “North America” country out of Mexico, the USA, and Canada"	entailment
+Truth for Health Foundation chose not to cover who funds it.	entailment
+Truth for Health Foundation provides original content written by staff journalists	entailment
+Truth for Health Foundation relies on advertising for revenue	contradiction
+Truth for Health Foundation relies on donations for revenue	entailment
+When aggregating stories, Truth for Health Foundation relies on information from the Truth For Health Foundation website.	entailment
+Truth for Health Foundation has endorsed far-right biased conspiracy and pseudoscience website based on the promotion of false and unproven claims regarding Covid-19 vaccines, treatments, and US Politics.	entailment
+Truth for Health Foundation has an editorial bias towards Far-Right.	entailment
+Truth for Health Foundation printed a biased article titled ***Kill and confront the extremist movement***	entailment
+Truth for Health Foundation printed a factually misleading titled  With the “stroke of a pen,” Joe Biden signed the January 2023 Declaration of North America that has betrayed American sovereignty as a Nation, making one “North America” country out of Mexico, the USA, and Canada.	contradiction
+Truth for Health Foundation had to apologize to Joe Biden for signing the January 2023 Declaration of North America.	contradiction
+Truth for Health Foundation is a Far-Right	entailment
+Truth for Health Foundation covers the following topics: Far-Right biased conspiracy and pseudoscience related to Covid-19 vaccines, treatments, and US Politics.	entailment

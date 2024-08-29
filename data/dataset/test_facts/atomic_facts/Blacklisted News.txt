@@ -1,0 +1,21 @@
+Doug Owen owns Blacklisted News	entailment
+Blacklisted News is funded through **advertising and donations**	entailment
+The remit of Blacklisted News is to **promote conspiracy theories and publish news**	entailment
+The mission of Blacklisted News is to promote conspiracy theories	entailment
+The usual audience of Blacklisted News is **individuals interested in alternative news and conspiracy theories**.	entailment
+Blacklisted News tends to the left	entailment
+Other sources have commented on Blacklisted News, stating that it tends to be **a moderate Conspiracy-Pseudoscience website that does publish some credible news and is therefore Mixed for factual reporting.**	entailment
+The factuality of Blacklisted News is reported to be Mixed	entailment
+The factuality of Blacklisted News is reported to be **mixed**, according to **Media Bias/Fact Check**	entailment
+Blacklisted News failed a fact-check for an article titled "President Joe Biden’s stimulus package could have given every U.S. taxpayer $41,870"	contradiction
+Blacklisted News printed a retraction after failing a fact-check for an article titled "Long-term Mask Use May Contribute to Advanced Stage Lung Cancer, Study Finds".	entailment
+Blacklisted News relies on advertising for revenue	entailment
+Blacklisted News relies on subscriptions for revenue	contradiction
+Blacklisted News relies on donations for revenue	entailment
+When aggregating stories, Blacklisted News relies on information from **Questionable Quillette and the conspiracy website Zero Hedge**	entailment
+Blacklisted News has an editorial bias towards **left**	entailment
+Doug Owen is the editor of Blacklisted News	entailment
+Blacklisted News was fined 	entailment
+Blacklisted News printed a factually misleading titled PRINCETON STUDY: THE U.S. IS NOT ‘LOSING’ ITS DEMOCRACY, IT’S ALREADY LONG GONE	entailment
+Blacklisted News is a  Conspiracy-Pseudoscience website	entailment
+Blacklisted News covers the following topics: conspiracy theories, pseudoscience, Chemtrails, New World Order, Clinton murder conspiracies, Trump administration, Gateway Pundit, Quillette, Zero Hedge, Collective-Evolution, President Joe Biden’s stimulus package, Long-term Mask Use.	entailment

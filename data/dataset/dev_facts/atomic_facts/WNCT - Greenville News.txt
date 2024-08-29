@@ -1,0 +1,23 @@
+Founded, Perry A. Sook, ("")	contradiction
+Nexstar Media Group owns WNCT - Greenville News	entailment
+Nexstar Media Group is the owner of WNCT - Greenville News	entailment
+Nexstar Media Group bought WNCT - Greenville News	entailment
+WNCT - Greenville News is funded through advertising	entailment
+The remit of WNCT - Greenville News is to report news factually and with minimal bias.	entailment
+The mission of WNCT - Greenville News is to report news factually and with minimal bias.	entailment
+The usual audience of WNCT - Greenville News is **the greater Greenville, North Carolina area**.	entailment
+WNCT - Greenville News tends to the Least Biased	entailment
+WNCT - Greenville News tends to the center according to Mediabiasfactcheck.	entailment
+Other sources have commented on WNCT - Greenville News, stating that it tends to be Least Biased	entailment
+The factuality of WNCT - Greenville News is reported to be High	entailment
+The factuality of WNCT - Greenville News is reported to be high, according to Media Bias/Fact Check.	entailment
+WNCT - Greenville News failed a fact-check for an article titled "None in the last 5 years."	contradiction
+WNCT - Greenville News printed a retraction after failing a fact-check for an article titled "None in the last 5 years".	contradiction
+WNCT - Greenville News chose not to cover op-eds	entailment
+WNCT - Greenville News provides original content written by staff journalists	entailment
+WNCT - Greenville News relies on advertising for revenue	entailment
+WNCT - Greenville News relies on donations for revenue	contradiction
+When aggregating stories, WNCT - Greenville News relies on information from **Nexstar Media Wire, the Associated Press, and other large credible media outlets**.	entailment
+WNCT - Greenville News has an editorial bias towards Least Biased	entailment
+WNCT - Greenville News had to apologize for None in the last 5 years.	entailment
+WNCT - Greenville News had to apologize to no one for nothing	entailment

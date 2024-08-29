@@ -1,0 +1,24 @@
+Sean Griffey founded CioDive	entailment
+Informa PLC bought CioDive	entailment
+Informa PLC acquired CioDive	entailment
+CioDive is funded through [ads and sponsored content](https://www.ciodive.com/).	entailment
+The remit of CioDive is to provide in-depth journalism and insight into the most impactful news and trends shaping IT.	entailment
+The mission of CioDive is to provide in-depth journalism and insight into the most impactful news and trends shaping IT.	entailment
+CioDive tends to the IT Industry.	entailment
+Other sources have commented on CioDive, stating that it tends to be **least biased**.	entailment
+The factuality of CioDive is reported to be high	entailment
+The factuality of CioDive is reported to be high, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+CioDive failed a fact-check for an article titled [White House warns US of possible Russian cyberattack linked to Ukraine invasion](https://www.ciodive.com/news/white-house-warns-russian-cyberattack-ukraine/620824/).	contradiction
+CioDive chose not to cover op-eds	entailment
+CioDive relies on advertising for revenue	entailment
+CioDive relies on subscriptions for revenue	entailment
+When aggregating stories, CioDive relies on information from credible media and information outlets	entailment
+CioDive has endorsed least biased based on minimal editorializing of information	entailment
+CioDive has an editorial bias towards least biased	entailment
+CioDive was fined **None in the Last 5 years**	entailment
+CioDive printed a biased article titled "None in the Last 5 years"	entailment
+CioDive had to apologize for failed fact checks	contradiction
+CioDive's headquarter is located in Washington, DC	entailment
+"It industry news platform"	entailment
+CioDive uses an internal fact-checking process	entailment
+CioDive covers the following topics: IT Industry	entailment

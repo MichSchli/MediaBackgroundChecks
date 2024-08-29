@@ -1,0 +1,18 @@
+Allison Wilson founded Bioscience Resource Project.	entailment
+Allison Wilson is the founder of Bioscience Resource Project	entailment
+Bioscience Resource Project owns Bioscience Resource Project	entailment
+Bioscience Resource Project is funded through donations.	entailment
+Bioscience Resource Project tends to the **promotion of anti-GMO activities**	entailment
+Other sources have commented on Bioscience Resource Project, stating that it tends to be  biased.	entailment
+The factuality of Bioscience Resource Project is reported to be **Mixed**	entailment
+The factuality of Bioscience Resource Project is reported to be mixed, according to Genetic Literacy Project	entailment
+Bioscience Resource Project failed a fact-check for an article titled *There is no evidence of them being fact-checked by a third party.*	entailment
+Bioscience Resource Project relies on advertising for revenue	contradiction
+Bioscience Resource Project relies on subscriptions for revenue	entailment
+Bioscience Resource Project relies on donations for revenue	entailment
+When aggregating stories, Bioscience Resource Project relies on information from [donations](https://bioscienceresource.org/about-us/our-funding/) and subscriptions for revenue.	entailment
+Bioscience Resource Project has endorsed **anti-GMO activities**	entailment
+Bioscience Resource Project has an editorial bias towards **left-leaning views**.	entailment
+Bioscience Resource Project was fined 	entailment
+Bioscience Resource Project uses an internal fact-checking process	contradiction
+Bioscience Resource Project covers the following topics: Anti-GMO propaganda, unproven theories related to the origins of Covid-19	entailment

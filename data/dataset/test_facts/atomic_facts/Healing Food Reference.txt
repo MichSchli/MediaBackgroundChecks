@@ -1,0 +1,27 @@
+Mike Adams founded Healing Food Reference	entailment
+Mike Adams is the founder of Healing Food Reference.	entailment
+Mike Adams owns Healing Food Reference	entailment
+Mike Adams bought Healing Food Reference	entailment
+Mike Adams acquired Healing Food Reference	entailment
+Healing Food Reference is funded through online advertising	entailment
+The remit of Healing Food Reference is to promote pseudoscience and conspiracy theories.	entailment
+The mission of Healing Food Reference is to spread misinformation.	entailment
+The usual audience of Healing Food Reference is **extreme right biased Quackery Level Pseudoscience website**.	entailment
+Healing Food Reference tends to the extreme right biased Quackery Level Pseudoscience website.	entailment
+Other sources have commented on Healing Food Reference, stating that it tends to be **extreme right biased Quackery Level Pseudoscience**	entailment
+The factuality of Healing Food Reference is reported to be **low**	entailment
+The factuality of Healing Food Reference is reported to be extremely low, according to D. Van Zandt	entailment
+Healing Food Reference failed a fact-check for an article titled Climate change cultists are now taking over your local weather forecast.	entailment
+Healing Food Reference chose not to cover Health misinformation.	entailment
+Healing Food Reference provides original content written by staff journalists	entailment
+Healing Food Reference relies on advertising for revenue	entailment
+Healing Food Reference has received donations from **online advertising**	entailment
+When aggregating stories, Healing Food Reference relies on information from **online advertising**	entailment
+Healing Food Reference has endorsed quackery Level Pseudoscience	entailment
+Healing Food Reference has an editorial bias towards **extreme right**	entailment
+Healing Food Reference was fined 	entailment
+Healing Food Reference printed a factually misleading titled  "Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook".	entailment
+Healing Food Reference is funded by the **United States** government	entailment
+Healing Food Reference is a right-wing conspiracy and pseudoscience website that routinely publishes false information.	entailment
+Healing Food Reference uses a peer review process	contradiction
+Healing Food Reference covers the following topics: **health misinformation, alternative health, government conspiracies, vaccines**	entailment

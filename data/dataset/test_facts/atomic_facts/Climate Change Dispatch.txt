@@ -1,0 +1,27 @@
+Thomas Richard founded Climate Change Dispatch.	entailment
+Thomas Richard leads Climate Change Dispatch	entailment
+Thomas Richard owns Climate Change Dispatch	entailment
+Thomas Richard is the owner of Climate Change Dispatch	entailment
+Climate Change Dispatch is funded through **advertising and a donation link**	entailment
+The remit of Climate Change Dispatch is to **promote anti-climate change propaganda**	entailment
+The mission of Climate Change Dispatch is to **promote anti-climate change propaganda**	entailment
+The usual audience of Climate Change Dispatch is **individuals who deny or question human-influenced climate change**.	entailment
+Climate Change Dispatch tends to the promotion of false or misleading information.	entailment
+Other sources have commented on Climate Change Dispatch, stating that it tends to be a Conspiracy and Quackery level Pseudoscience source for the promotion of false or misleading information that is not in line with the consensus of science and several failed fact checks.	entailment
+The factuality of Climate Change Dispatch is reported to be low	entailment
+The factuality of Climate Change Dispatch is reported to be **low**, according to **Media Bias/Fact Check**.	entailment
+Climate Change Dispatch failed a fact-check for an article titled **Great Barrier Reef Sea Surface Temperature: No Change In 150 Years**	entailment
+Climate Change Dispatch chose not to cover **the consensus of science and the impact of human-made global warming (AWG)**	entailment
+Climate Change Dispatch relies on advertising for revenue	entailment
+Climate Change Dispatch relies on donations for revenue	entailment
+When aggregating stories, Climate Change Dispatch relies on information from **other right-biased sources that question climate change**.	entailment
+Climate Change Dispatch has endorsed **AWG**	entailment
+Climate Change Dispatch has an editorial bias towards **climate change denial**	entailment
+Thomas Richard is the editor of Climate Change Dispatch.	entailment
+Climate Change Dispatch printed a biased article titled **Election Slaughter For Climate Activism**	entailment
+Climate Change Dispatch printed a factually misleading titled **"Election Slaughter For Climate Activism"**	entailment
+Climate Change Dispatch had to apologize to no one for nothing	entailment
+Climate Change Dispatch is funded by the private citizen's government	contradiction
+Climate Change Dispatch is a Pseudoscience source	entailment
+Climate Change Dispatch uses a peer review process	contradiction
+Climate Change Dispatch covers the following topics: Climate change denial and misinformation surrounding climate change.	entailment

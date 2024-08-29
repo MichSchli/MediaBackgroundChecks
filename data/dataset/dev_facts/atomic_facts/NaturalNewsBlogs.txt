@@ -1,0 +1,27 @@
+Mike Adams founded NaturalNewsBlogs	entailment
+Mike Adams is the founder of NaturalNewsBlogs	entailment
+Mike Adams leads NaturalNewsBlogs	entailment
+Mike Adams owns NaturalNewsBlogs	entailment
+Mike Adams is the owner of NaturalNewsBlogs	entailment
+Mike Adams acquired NaturalNewsBlogs	entailment
+NaturalNewsBlogs is funded through online advertising	entailment
+The remit of NaturalNewsBlogs is to **publish false and misleading information**	entailment
+The mission of NaturalNewsBlogs is to spread right-wing conspiracy and pseudoscience.	entailment
+The usual audience of NaturalNewsBlogs is **extreme right biased Tin-Foil Hat Conspiracy website that also publishes pseudoscience**	entailment
+NaturalNewsBlogs tends to the extreme right biased Tin-Foil Hat Conspiracy website.	entailment
+NaturalNewsBlogs tends to the right-wing according to Politifact	entailment
+Other sources have commented on NaturalNewsBlogs, stating that it tends to be **an extreme right biased Tin-Foil Hat Conspiracy website that also publishes pseudoscience**	entailment
+The factuality of NaturalNewsBlogs is reported to be **low**	entailment
+The factuality of NaturalNewsBlogs is reported to be **low**, according to **Media Bias/Fact Check**	entailment
+NaturalNewsBlogs printed a retraction after failing a fact-check for an article titled "Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook"	contradiction
+NaturalNewsBlogs chose not to cover health misinformation and conspiracy theories.	contradiction
+NaturalNewsBlogs relies on advertising for revenue	entailment
+NaturalNewsBlogs relies on subscriptions for revenue	contradiction
+NaturalNewsBlogs relies on donations for revenue	contradiction
+NaturalNewsBlogs has received donations from **online advertising**.	entailment
+When aggregating stories, NaturalNewsBlogs relies on information from **online advertising**	entailment
+NaturalNewsBlogs has endorsed pseudoscience	entailment
+NaturalNewsBlogs has an editorial bias towards extreme right biased Tin-Foil Hat Conspiracy website	entailment
+Mike Adams is the editor of NaturalNewsBlogs	contradiction
+NaturalNewsBlogs printed a biased article titled "Extreme Right Biased Tin-Foil Hat Conspiracy Website"	entailment
+NaturalNewsBlogs printed a factually misleading titled **"Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook"**	entailment

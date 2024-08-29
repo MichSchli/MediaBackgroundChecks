@@ -1,0 +1,23 @@
+Black Press Media owns Castor Advance	entailment
+Black Press Media is the owner of Castor Advance	entailment
+Black Press Media bought Castor Advance	entailment
+Black Press Media acquired Castor Advance	entailment
+Castor Advance is funded through [advertising].	entailment
+The remit of Castor Advance is to cover news, sports, crime, and business for the greater Castor, Alberta, area.	entailment
+The usual audience of Castor Advance is **residents of Castor and the surrounding area**	entailment
+Castor Advance tends to the  left	entailment
+Other sources have commented on Castor Advance, stating that it tends to be Left-center biased	entailment
+The factuality of Castor Advance is reported to be High	entailment
+The factuality of Castor Advance is reported to be High, according to D. Van Zandt 02/12/2024	entailment
+Castor Advance failed a fact-check for an article titled "Community initiative supporting project workers coming to Paintearth County started".	contradiction
+Castor Advance chose not to cover op-eds.	entailment
+Castor Advance relies on advertising for revenue	entailment
+Castor Advance relies on subscriptions for revenue	contradiction
+Castor Advance relies on donations for revenue	entailment
+When aggregating stories, Castor Advance relies on information from **Associated Press and Canadian Press**	entailment
+Castor Advance has endorsed a liberal perspective	entailment
+Castor Advance has an editorial bias towards left	entailment
+Castor Advance had to apologize for **None in the Last 5 years**	entailment
+Castor Advance's headquarter is located in Castor	entailment
+Castor Advance is a newspaper	entailment
+Castor Advance covers the following topics: news, sports, crime, and business	entailment

@@ -1,0 +1,22 @@
+History
+Founded in 2013,
+[CCN.com](https://www.ccn.com/about-us/) is a news and opinion site launched by [Jonas Borchgrevink](https://www.linkedin.com/in/jonas-borchgrevink-2072b724/?originalSubdomain=no) and headquartered in Norway. CCN, formerly known as “CryptoCoinsNews.com” was focused mainly on cryptocurrency and financial news but later expanded its focus to cryptocurrency financial markets, US Business and Politics, Entertainment Celebrity news, and Gaming. CCN’s United States office is located in New Jersey. [Read our profile on Norway’s Government and Media.](https://mediabiasfactcheck.com/norway-media-profile/)
+Funded by / Ownership
+CCN.com is owned by
+[Hawkfish AS,](https://www.hawkfish.com/) which Jonas Borchgrevink owns. Jonas Borchgrevink also owns Hacked.com and MoneyMakers.com. Revenue is generated through advertising.
+Analysis
+In 2023, Reporters Without Borders ranked Norway number 1 in their 2023
+[Press Freedom Index](https://rsf.org/en/norway) and stated, “Today, the media are free, and journalists are not subject to censorship or political pressure.”
+Forbes
+[reported](https://www.forbes.com/sites/billybambrough/2019/06/10/google-just-killed-a-major-bitcoin-news-site-in-crypto-crackdown/#3d8c8bd96ed6) in June 2019 due to Google’s Algorithm Core Update, CCN suffered a 71% drop in traffic and considered shutting down; however, they later canceled that decision.
+Bias
+In review, when reporting on Norway, CCN publishes articles critical of the Norwegian Government’s bitcoin policy, such as
+[“Norway: Tax on Crypto Mining Scares away $116 Million Foreign Investment”.](https://www.ccn.com/norway-tax-on-crypto-mining-scares-away-11-7-million-foreign-investment/) The article reads, “A parliamentary representative even called bitcoin “the dirtiest form of cryptographic output, making it clear that they were not happy with the ways things were going in Norway’s local crypto mining sector.”
+When covering world news pertaining to America, they publish stories with emotionally loaded headlines such as
+[“Finance Professor Says Stock Market Is Cheap. Here’s Why He’s Wrong”](https://www.ccn.com/news/finance-professor-says-stock-market-cheap-heres-why-hes-wrong/2019/07/12/) and “ [Mnuchin Warns US Debt Ceiling Near, Wants Spending Spigot Open.”](https://www.ccn.com/news/mnuchin-warns-us-to-hit-debt-ceiling-in-september/2019/07/12/) CCN often utilizes credible sources such as [The Hill](https://mediabiasfactcheck.com/the-hill/), [CNBC](https://mediabiasfactcheck.com/cnbc/), [The Intercept](https://mediabiasfactcheck.com/the-intercept/), [Forbes](https://mediabiasfactcheck.com/forbes/), [Japan Times](https://mediabiasfactcheck.com/japan-times/), [Financial Times](https://mediabiasfactcheck.com/financial-times/), and [Bloomberg News. ](https://mediabiasfactcheck.com/bloomberg/) CCN also uses sources such as fred.stlouisfed.org (Federal Reserve Economic Data (FRED)), hacked.com (founded by Jonas Borchgrevink), and local sources while reporting news related to Norway, such as e24.no.
+Further, CCN publishes articles critical of President Trump, such as these:
+[“The Best Crypto Industry Reaction to Trump’s Bitcoin-Bashing Tweet”](https://www.ccn.com/news/best-reaction-to-trumps-bitcoin-tweet/2019/07/12/) and [“Trump’s Fed Pick Isn’t Just a Gold Bug – She’s Also a Crypto Bull.”](https://www.ccn.com/news/trump-fed-pick-judy-shelton-crypto/2019/07/13/) A quote regarding Trump from the latter article reads, “The three-tweet thread railed against crypto and sung the praises of central bank money. It read like it had been drafted by [New York Times](https://mediabiasfactcheck.com/new-york-times/) columnist and Keynesian economist Paul Krugman.”
+Lastly, CCN publishes Op-Eds that favor a decentralized monetary system (
+[Libertarian](https://www.ccn.com/bitcoin-machine-turns-one-year-old-new-hampshire-symbolizing-libertarian-free-state-movement/)) and reports [negatively on Socialism](https://www.ccn.com/central-bank-governor-tenure-cautionary-tale-socialism/) and [US progressive politicians](https://www.ccn.com/beto-orourke-definitely-didnt-steal-his-moronic-climate-change-plan-from-aoc/).
+Failed Fact Checks
+- None in the Last 5 years

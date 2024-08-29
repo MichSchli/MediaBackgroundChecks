@@ -1,0 +1,16 @@
+History
+Cell Reports Medicine is a peer-reviewed open-access journal published by Cell Press that covers research in translational and clinical biomedical sciences. According to its
+[about page](https://www.cell.com/cell-reports-medicine/aims), “Cell Reports Medicine is a premium open-access journal from Cell Press publishing cutting-edge research in translational and clinical biomedical sciences that inform and influence human health and medicine.”
+Cell Press, based in Cambridge, Massachusetts, publishes over
+[50 scientific journals](https://www.cell.com/). Cell Press Journals are 50% open-access as of 2023. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Cell Reports Medicine is published by Cell Press which is a subsidiary of
+[Elsevier](https://en.wikipedia.org/wiki/Elsevier), a Dutch information and analytics company and one of the world’s foremost providers of scientific, technical, and medical information. It was established in 1880 as a publishing company. Elsevier’s parent company is RELX plc, a British multinational information and analytics company headquartered in London, England. The journal generates revenue through subscription fees and fees for open-access publishing.
+Analysis / Bias
+Cell Reports Medicine is a hybrid (some open-access) journal that publishes information and research in translational and clinical biomedical sciences. The journal primarily publishes research such as this
+[Emergent variant modeling of the serological repertoire to norovirus in young children](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00046-0).
+Cell Press is an open-access/hybrid publisher of scientific journals. There are two types of Open Access Journals, legitimate and predatory, both of which charge the author for publication.
+[Predatory journals](https://predatoryjournals.com/about/) often lack peer review and are generally considered not credible. The Cell Reports Medicine is considered a [legitimate, open-access publisher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017830/) that is frequently indexed in [PubMed](https://mediabiasfactcheck.com/pubmed/). However, Cell Press has been criticized for [retracting some studies.](https://retractionwatch.com/category/by-journal/cell/)
+Although Cell Press has retracted some studies in other publications, Cell Reports Medicine publishes credible scientific studies that are factual and appropriately peer-reviewed.
+Failed Fact Checks
+- None in the Last 5 years

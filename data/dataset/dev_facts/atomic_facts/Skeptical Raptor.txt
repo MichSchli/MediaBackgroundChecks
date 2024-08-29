@@ -1,0 +1,17 @@
+Michael Simpson founded Skeptical Raptor	entailment
+Michael Simpson is the founder of Skeptical Raptor	entailment
+Skeptical Raptor is funded through advertising and donations	entailment
+The remit of Skeptical Raptor is to **debunk pseudo-scientific misinformation**	entailment
+The mission of Skeptical Raptor is to **debunk pseudo-scientific misinformation**.	entailment
+The usual audience of Skeptical Raptor is **those interested in science news and debunking pseudoscience**.	entailment
+Skeptical Raptor tends to the **debunking of pseudo-scientific misinformation**	entailment
+Other sources have commented on Skeptical Raptor, stating that it tends to be Pro-Science.	entailment
+The factuality of Skeptical Raptor is reported to be High	entailment
+The factuality of Skeptical Raptor is reported to be High, according to D. Van Zandt 3/5/2019.	entailment
+Skeptical Raptor failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Skeptical Raptor relies on advertising for revenue	entailment
+Skeptical Raptor relies on subscriptions for revenue	contradiction
+Skeptical Raptor has received donations from **advertising and**	entailment
+Skeptical Raptor has endorsed a Pro-Science source based on excellent sourcing and a clear adherence to the consensus of science.	entailment
+Skeptical Raptor has an editorial bias towards Pro-Science	entailment
+Skeptical Raptor had to apologize for  failing any fact checks in the last 5 years.	contradiction

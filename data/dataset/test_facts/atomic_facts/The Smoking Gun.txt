@@ -1,0 +1,18 @@
+William Bastone owns The Smoking Gun	entailment
+William Bastone is the owner of The Smoking Gun	entailment
+William Bastone bought The Smoking Gun	contradiction
+The Smoking Gun is funded through advertising and sponsored content.	entailment
+The remit of The Smoking Gun is to **post legal documents, arrest records, and police mugshots daily**.	entailment
+The mission of The Smoking Gun is to **bring you exclusive documents–cool, confidential, quirky–that can’t be found elsewhere on the Web.**	entailment
+Other sources have commented on The Smoking Gun, stating that it tends to be **Least Biased**	entailment
+The factuality of The Smoking Gun is reported to be High	entailment
+The factuality of The Smoking Gun is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+The Smoking Gun failed a fact-check for an article titled "More Season’s Beatings From Sunshine State".	contradiction
+The Smoking Gun chose not to cover editorial content	entailment
+The Smoking Gun relies on advertising for revenue	entailment
+The Smoking Gun relies on subscriptions for revenue	contradiction
+The Smoking Gun relies on donations for revenue	contradiction
+When aggregating stories, The Smoking Gun relies on information from **police reports and legal documents**	entailment
+The Smoking Gun has an editorial bias towards **least biased**	entailment
+William Bastone is the editor of The Smoking Gun	entailment
+The Smoking Gun is a **website**	entailment

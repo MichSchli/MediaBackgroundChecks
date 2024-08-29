@@ -1,0 +1,11 @@
+History
+[Founded in 2011](http://whois.domaintools.com/medicalxpress.com), Medical Xpress is a website that provides medical and health news through the [Science X Network](https://sciencex.com/). Science X publishes around [200 articles per day](https://sciencex.com/help/about-us/) between Medical Xpress and its other [Phys.org](https://mediabiasfactcheck.com/phys-org/) and Tech Xplore properties. [Read our profile on the Netherlands media and government.](https://mediabiasfactcheck.com/netherlands-media-profile/)
+Funded by / Ownership
+Medical Xpress is owned by
+[Science X](https://www.crunchbase.com/organization/medical-xpress#section-overview), wholly owned by Omicron Technology Limited, headquartered in Douglas, Isle Of Man, United Kingdom. Advertising generates revenue.
+Analysis / Bias
+In review, Medical Xpress is a health and medical news source that also publishes articles about the recent development in the health care industry and research in medical science. Medical Xpress republishes News and research articles from other sources such as University studies, press releases, and organizations.
+Articles are low biased and usually pro-science such as this article republished from the American Heart Association:
+[Aerobic exercise programs may improve endurance, walking after stroke](https://medicalxpress.com/news/2019-08-aerobic.html). Further, because Medical Xpress publishes from a wide range of journals and sources, they sometimes publish studies that may lack peer review or contradict the current consensus. This does not mean they are inaccurate, but rather just new studies that will require more testing and peer review.
+Failed Fact Checks
+- None in the Last 5 years

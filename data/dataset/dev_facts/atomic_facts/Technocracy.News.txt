@@ -1,0 +1,25 @@
+Patrick Wood founded Technocracy.News	entailment
+Patrick Wood is the founder of Technocracy.News.	entailment
+Patrick Wood is the CEO of Technocracy.News	entailment
+Patrick Wood owns Technocracy.News	entailment
+Patrick Wood is the owner of Technocracy.News	entailment
+Patrick Wood bought Technocracy.News	entailment
+Who acquired Technocracy.News	entailment
+Technocracy.News is funded through **book sales and donations**	entailment
+The remit of Technocracy.News is to  report on technology, and its supposed dangers that lead to government control.	entailment
+The usual audience of Technocracy.News is **far-right tin foil hat Conspiracy site that promotes quackery-level pseudoscience**	entailment
+Technocracy.News tends to the far-right tin foil hat Conspiracy site that promotes quackery-level pseudoscience.	entailment
+Technocracy.News tends to the far-right tin foil hat Conspiracy site according to D. Van Zandt 2/15/2021	entailment
+Other sources have commented on Technocracy.News, stating that it tends to be far-right tin foil hat Conspiracy site that promotes quackery-level pseudoscience.	entailment
+The factuality of Technocracy.News is reported to be Very Low	entailment
+The factuality of Technocracy.News is reported to be Very Low, according to D. Van Zandt 2/15/2021	entailment
+Technocracy.News chose not to cover **well-established scientific findings**.	entailment
+Technocracy.News provides original content written by staff journalists	entailment
+Technocracy.News relies on advertising for revenue	contradiction
+Technocracy.News relies on subscriptions for revenue	contradiction
+Technocracy.News relies on donations for revenue	entailment
+When aggregating stories, Technocracy.News relies on information from ***right-leaning sources***.	entailment
+Technocracy.News has endorsed quackery-level pseudoscience.	entailment
+Technocracy.News has an editorial bias towards far-right tin foil hat Conspiracy site	entailment
+Technocracy.News printed a biased article titled **IMF Reveals That Cryptocurrency Is The New World Order Endgame**	entailment
+Technocracy.News printed a factually misleading titled **IMF Reveals That Cryptocurrency Is The New World Order Endgame**	entailment

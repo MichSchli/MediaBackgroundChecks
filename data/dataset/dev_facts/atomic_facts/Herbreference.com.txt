@@ -1,0 +1,26 @@
+Mike Adams founded Herbreference.com	entailment
+Mike Adams is the founder of Herbreference.com	entailment
+Mike Adams is the CEO of Herbreference.com	entailment
+Mike Adams leads Herbreference.com	entailment
+Mike Adams owns Herbreference.com	entailment
+Mike Adams is the owner of Herbreference.com	entailment
+Mike Adams bought Herbreference.com	entailment
+Mike Adams acquired Herbreference.com	entailment
+Herbreference.com is funded through online advertising	entailment
+The remit of Herbreference.com is to  promote false information.	entailment
+The mission of Herbreference.com is to **spread extreme right biased Quackery Level Pseudoscience and publish conspiracy theories**	entailment
+Herbreference.com tends to the extreme right biased Quackery Level Pseudoscience website.	entailment
+Herbreference.com tends to the extreme right biased Quackery Level Pseudoscience website according to D. Van Zandt	entailment
+Other sources have commented on Herbreference.com, stating that it tends to be an extreme right biased Quackery Level Pseudoscience website.	entailment
+The factuality of Herbreference.com is reported to be extreme right biased Quackery Level Pseudoscience website that also publishes conspiracy theories.	entailment
+The factuality of Herbreference.com is reported to be **very low**, according to **Media Bias Fact Check**	entailment
+Herbreference.com failed a fact-check for an article titled **Climate change cultists are now taking over your local weather forecast**.	entailment
+Herbreference.com chose not to cover vaccines	contradiction
+Herbreference.com relies on advertising for revenue	entailment
+Herbreference.com relies on subscriptions for revenue	entailment
+Herbreference.com relies on donations for revenue	contradiction
+When aggregating stories, Herbreference.com relies on information from **Mike Adams**	entailment
+Herbreference.com has endorsed  **quackery level pseudoscience**.	entailment
+Herbreference.com has an editorial bias towards extreme right biased Quackery Level Pseudoscience website	entailment
+Mike Adams is the editor of Herbreference.com	contradiction
+Herbreference.com printed a biased article titled **Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook**	entailment

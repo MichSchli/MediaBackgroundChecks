@@ -1,0 +1,26 @@
+David Brown is the CEO of Texas Standard	entailment
+Texas Standard owns Texas Standard	contradiction
+The Texas Standard bought Texas Standard	contradiction
+Texas Standard acquired Texas Standard	entailment
+Texas Standard is funded through advertising, government funding, and grants.	entailment
+The remit of Texas Standard is to cover "politics, lifestyle and culture, the environment, technology and innovation, and business and the economy."	entailment
+The mission of Texas Standard is to **cover “politics, lifestyle and culture, the environment, technology and innovation, and business and the economy.”**	entailment
+The usual audience of Texas Standard is  public radio listeners	entailment
+Texas Standard tends to the **left**	contradiction
+Other sources have commented on Texas Standard, stating that it tends to be **least biased**.	entailment
+The factuality of Texas Standard is reported to be High	entailment
+The factuality of Texas Standard is reported to be high, according to their about page	entailment
+Texas Standard failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Texas Standard printed a retraction after failing a fact-check for an article titled 'It Just Seems Neverending': A Nurse In Pearsall Talks About Keeping Rural COVID Care Going Amid Burnout'.	contradiction
+Texas Standard chose not to cover failed fact checks.	entailment
+Texas Standard relies on advertising for revenue	entailment
+Texas Standard relies on subscriptions for revenue	entailment
+Texas Standard has received donations from **advertising, government funding, and grants**	entailment
+When aggregating stories, Texas Standard relies on information from **highly credible sources**.	entailment
+Texas Standard has endorsed **least biased**	entailment
+Texas Standard has an editorial bias towards **left**	contradiction
+David Brown is the editor of Texas Standard	contradiction
+Texas Standard had to apologize for **None in the Last 5 years**	entailment
+Texas Standard's headquarter is located in Austin	entailment
+Texas Standard is funded by the **government**	entailment
+Texas Standard covers the following topics: politics, lifestyle and culture, the environment, technology and innovation, and business and the economy.	entailment

@@ -1,0 +1,11 @@
+History
+[Founded in 1998](https://www.techspot.com/community/staff/julio-franco.1/) by Julio Franco, TechSpot is a technology website focused on computing and gaming. According to their [about page](https://www.techspot.com/about/), “We deliver tech news and analysis to an audience of computer power users, tech enthusiasts, IT decision-makers, and PC gamers who crave technical depth and who keep up with the latest digital trends.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+TechSpot, Inc owns the website with Julio Franco listed as Executive Editor. Advertising generates revenue.
+Analysis / Bias
+TechSpot publishes news and information on computers, computer-related products/accessories, and software. The website also features reviews of equipment and software, best-of lists, software downloads, videos, and a forum. Articles pertaining to computer tech do not use loaded emotional wording such as this
+[Researchers develop ‘5D’ technique to store 500TB of data on a CD-sized glass disc](https://www.techspot.com/news/92020-researchers-develop-5d-technique-store-500tb-data-cd.html). This story, like most, provides primary sourcing back to the company that produced the product. A review of numerous articles reveals proper sourcing of information.
+Editorially, opinions can be found in their product reviews; however, they do not publish political-oriented op-eds. When covering political issues related to the tech genre, they remain low-biased and report the news directly
+[Biden Administration, private tech companies reveal initiatives to boost national cybersecurity in wake of recent attacks](https://www.techspot.com/news/90960-biden-administration-private-tech-companies-reveal-initiatives-boost.html). In general, TechSpot reports news factually and with minimal bias. This review does not cover technology bias, such as favoring certain companies, and deals only with right-left political bias.
+Failed Fact Checks
+- None in the Last 5 years

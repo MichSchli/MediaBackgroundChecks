@@ -1,0 +1,29 @@
+Gannett founded Portsmouth Herald	entailment
+Gannett is the founder of Portsmouth Herald	contradiction
+Gannett owns Portsmouth Herald	entailment
+Gannett is the owner of Portsmouth Herald	entailment
+Gannett bought Portsmouth Herald	entailment
+Gannett acquired Portsmouth Herald	entailment
+The Portsmouth Herald is funded through advertising and paid subscriptions	entailment
+The remit of Portsmouth Herald is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Portsmouth Herald is to  provide news, sports, entertainment, lifestyle, and opinion coverage for the greater Portsmouth, New Hampshire area.	entailment
+The usual audience of Portsmouth Herald is **the greater Portsmouth, New Hampshire area**	entailment
+The Portsmouth Herald tends to the **Left-Center Biased**.	entailment
+Other sources have commented on Portsmouth Herald, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Portsmouth Herald is reported to be High	entailment
+The factuality of Portsmouth Herald is reported to be High, according to D. Van Zandt	entailment
+Portsmouth Herald failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Portsmouth Herald printed a retraction after failing a fact-check for an article titled `None in the Last 5 years`.	contradiction
+Portsmouth Herald chose not to cover Presidential endorsements	entailment
+Portsmouth Herald relies on advertising for revenue	entailment
+Portsmouth Herald relies on subscriptions for revenue	entailment
+Portsmouth Herald relies on donations for revenue	contradiction
+When aggregating stories, Portsmouth Herald relies on information from [Associated Press].	entailment
+The Portsmouth Herald has endorsed no one	entailment
+Portsmouth Herald has an editorial bias towards left	entailment
+Portsmouth Herald printed a biased article titled "Rooks: GOP’s obstructionism turns on itself."	entailment
+Portsmouth Herald had to apologize for **factual reporting**.	contradiction
+Portsmouth Herald's headquarter is located in New Hampshire	entailment
+Portsmouth Herald is funded by the U.S. government	contradiction
+Portsmouth Herald is a newspaper	entailment
+Portsmouth Herald covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion	entailment

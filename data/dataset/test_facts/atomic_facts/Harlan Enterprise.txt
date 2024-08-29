@@ -1,0 +1,19 @@
+Boone Newspapers owns Harlan Enterprise	entailment
+Boone Newspapers bought Harlan Enterprise	entailment
+Harlan Enterprise is funded through advertising and subscription fees	entailment
+The remit of Harlan Enterprise is to **cover**	entailment
+Harlan Enterprise tends to the local	entailment
+Other sources have commented on Harlan Enterprise, stating that it tends to be Right-Center Biased	entailment
+The factuality of Harlan Enterprise is reported to be High	entailment
+The factuality of Harlan Enterprise is reported to be high, according to Editorial Team.	entailment
+Harlan Enterprise failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Harlan Enterprise printed a retraction after failing a fact-check for an article titled **Harlan County Fiscal Court audit released**	contradiction
+Harlan Enterprise relies on advertising for revenue	entailment
+Harlan Enterprise relies on subscriptions for revenue	entailment
+Harlan Enterprise relies on donations for revenue	contradiction
+Harlan Enterprise has received donations from Boone Newspapers	entailment
+When aggregating stories, Harlan Enterprise relies on information from local journalists.	entailment
+Harlan Enterprise has an editorial bias towards right.	entailment
+Harlan Enterprise's headquarter is located in Harlan, Kentucky	entailment
+Harlan Enterprise is funded by the United States government	contradiction
+Harlan Enterprise is a newspaper	entailment

@@ -1,0 +1,22 @@
+Herbert Sandler founded Propublica	entailment
+Herbert Sandler is the founder of Propublica	contradiction
+Paul Sagan leads Propublica	contradiction
+Herbert Sandler bought Propublica	contradiction
+ProPublica acquired Propublica	contradiction
+Propublica is funded through individual donations and online advertising	entailment
+The remit of Propublica is to expose abuses of power and betrayals of the public trust by government, business, and other institutions, using the moral force of investigative journalism to spur reform through the sustained spotlighting of wrongdoing.	entailment
+The mission of Propublica is to expose abuses of power and betrayals of the public trust by government, business, and other institutions, using the moral force of investigative journalism to spur reform through the sustained spotlighting of wrongdoing.	entailment
+Propublica tends to the left.	entailment
+Other sources have commented on Propublica, stating that it tends to be criticized.	entailment
+The factuality of Propublica is reported to be High	entailment
+The factuality of Propublica is reported to be high, according to proper sourcing and evidence-based reporting.	entailment
+Propublica chose not to cover right-leaning issues	contradiction
+Propublica relies on advertising for revenue	entailment
+Propublica relies on donations for revenue	entailment
+Propublica has received donations from **John S. and James L. Knight Foundation, MacArthur Foundation, The Ford Foundation, Carnegie Corporation, the Atlantic Philanthropies, and the Foundation to Promote Open Society among others**	entailment
+When aggregating stories, Propublica relies on information from [47 sources,](https://www.propublica.org/partners/)	entailment
+Propublica has an editorial bias towards the left	entailment
+Stephen Engelberg is the editor of Propublica	entailment
+Propublica's headquarter is located in New York City	entailment
+Propublica is a non-profit investigative journalism organization	entailment
+Propublica covers the following topics: Investigative Journalism, Abuses of Power, Betrayals of Public Trust, Government, Business, Institutions.	entailment

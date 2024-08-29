@@ -1,0 +1,20 @@
+Boone Newspapers owns Edwards Argus	entailment
+Boone Newspapers bought Edwards Argus	entailment
+Boone Newspapers acquired Edwards Argus	contradiction
+The Edwards Argus is funded through advertising and subscription fees	entailment
+The mission of Edwards Argus is to report primarily on local news, sports, weather, and entertainment.	entailment
+The usual audience of Edwards Argus is Right-Center Biased	entailment
+Edwards Argus tends to the Right-Center	entailment
+Other sources have commented on Edwards Argus, stating that it tends to be **right-leaning**	entailment
+The factuality of Edwards Argus is reported to be High	entailment
+The factuality of Edwards Argus is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+Edwards Argus failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Edwards Argus provides original content written by staff journalists	entailment
+Edwards Argus relies on advertising for revenue	entailment
+Edwards Argus relies on subscriptions for revenue	contradiction
+When aggregating stories, Edwards Argus relies on information from **local journalists**	entailment
+Edwards Argus has an editorial bias towards right.	entailment
+Edwards Argus had to apologize for none in the Last 5 years	entailment
+Edwards Argus's headquarter is located in Michigan	entailment
+Edwards Argus is funded by the private government	contradiction
+The Edwards Argus is a newspaper	entailment

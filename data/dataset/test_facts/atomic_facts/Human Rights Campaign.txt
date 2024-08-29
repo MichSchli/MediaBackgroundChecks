@@ -1,0 +1,24 @@
+Steve Endean founded Human Rights Campaign	entailment
+Steve Endean is the founder of Human Rights Campaign	entailment
+Chad Griffin leads Human Rights Campaign	entailment
+HRC bought Human Rights Campaign	contradiction
+HRC acquired Human Rights Campaign	contradiction
+The Human Rights Campaign is funded through **donations**	entailment
+The remit of Human Rights Campaign is to protect and expand rights for LGBT individuals, advocating for marriage equality, anti-discrimination and hate crimes legislation, and HIV/AIDS advocacy.	entailment
+The mission of Human Rights Campaign is to  ensure LGBTQ people of their basic equal rights and enable them to be open, honest, and safe in various spheres of life.	entailment
+The Human Rights Campaign tends to the rights of LGBTQ people.	entailment
+Other sources have commented on Human Rights Campaign, stating that it tends to be left biased	entailment
+The factuality of Human Rights Campaign is reported to be High	entailment
+The factuality of Human Rights Campaign is reported to be high, according to a source.	entailment
+Human Rights Campaign chose not to cover **Republican candidates**	contradiction
+Human Rights Campaign relies on subscriptions for revenue	entailment
+Human Rights Campaign relies on donations for revenue	entailment
+Human Rights Campaign has received donations from Democrats	entailment
+When aggregating stories, Human Rights Campaign relies on information from **factual media outlets**.	entailment
+Human Rights Campaign has endorsed Democratic candidates	entailment
+Human Rights Campaign has an editorial bias towards  Left	entailment
+Chad Griffin is the editor of Human Rights Campaign	contradiction
+Human Rights Campaign printed a biased article titled "Kavanaugh Passes the Test of These anti-equality Organizations—And Most Certainly Fails Ours."	entailment
+Human Rights Campaign printed a factually misleading titled "Kavanaugh Passes the Test of These anti-equality Organizations—And Most Certainly Fails Ours."	contradiction
+Human Rights Campaign is a nonprofit organization	entailment
+Human Rights Campaign covers the following topics: protecting and expanding rights for LGBT individuals, advocating for marriage equality, anti-discrimination and hate crimes legislation, and HIV/AIDS advocacy	entailment

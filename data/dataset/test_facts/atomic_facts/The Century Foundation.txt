@@ -1,0 +1,23 @@
+Mark Zuckerman is the founder of The Century Foundation	contradiction
+Mark Zuckerman leads The Century Foundation	entailment
+Mark Zuckerman owns The Century Foundation	contradiction
+The Century Foundation is funded through donations	entailment
+The remit of The Century Foundation is to advocate for progressive ideas that benefit the public good.	entailment
+The mission of The Century Foundation is to **foster opportunity, reduce inequality, and promote security at home and abroad**	entailment
+The usual audience of The Century Foundation is **the public interested in progressive ideas and policies**	entailment
+The Century Foundation tends to the **Left-Center Biased**	entailment
+Other sources have commented on The Century Foundation, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of The Century Foundation is reported to be High	entailment
+The factuality of The Century Foundation is reported to be High, according to a factual search.	entailment
+The Century Foundation failed a fact-check for an article titled "Trump’s First Year Unsettles World Politics".	contradiction
+The Century Foundation chose not to cover President Trump	contradiction
+The Century Foundation relies on donations for revenue	entailment
+When aggregating stories, The Century Foundation relies on information from **over 100 citations from credible sources**.	entailment
+The Century Foundation has endorsed progressive ideas that benefit the public good.	entailment
+The Century Foundation has an editorial bias towards **the progressive wing of the Democratic Party**.	entailment
+The Century Foundation printed a biased article titled "Trump’s First Year Unsettles World Politics".	entailment
+The Century Foundation paid damages to  after 	entailment
+The Century Foundation's headquarters is located in the United States	entailment
+The Century Foundation is a progressive	entailment
+The Century Foundation uses an internal fact-checking process	entailment
+The Century Foundation covers the following topics: progressive ideas that benefit the public good.	entailment

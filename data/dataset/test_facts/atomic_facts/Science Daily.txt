@@ -1,0 +1,27 @@
+Dan founded Science Daily	contradiction
+Dan is the founder of Science Daily	entailment
+Science Daily owns Science Daily	entailment
+Dan and Michele Hogan bought Science Daily	entailment
+Science Daily acquired Science Daily	contradiction
+Science Daily is funded through  online advertising.	entailment
+The remit of Science Daily is to  summarizing reports in one paragraph and then linking to the full article.	entailment
+The mission of Science Daily is to **provide readers with accurate and up-to-date scientific information.**	entailment
+The usual audience of Science Daily is science enthusiasts.	entailment
+Science Daily tends to the **Pro-Science Source**	entailment
+Other sources have commented on Science Daily, stating that it tends to be a Pro-Science Source	entailment
+The factuality of Science Daily is reported to be high	entailment
+The factuality of Science Daily is reported to be high, according to Mediabiasfactcheck.	entailment
+Science Daily failed a fact-check for an article titled None in the Last 5 years	contradiction
+Science Daily chose not to cover Failed Fact Checks	entailment
+Science Daily relies on advertising for revenue	entailment
+Science Daily relies on subscriptions for revenue	contradiction
+Science Daily relies on donations for revenue	contradiction
+When aggregating stories, Science Daily relies on information from news releases submitted by universities and other research institutions.	entailment
+Science Daily has endorsed proper scientific sourcing and a clean fact-check record.	entailment
+Science Daily has an editorial bias towards Pro-Science	entailment
+Science Daily printed a biased article titled "None in the Last 5 years"	contradiction
+Science Daily printed a factually misleading titled "None in the Last 5 years".	entailment
+Science Daily had to apologize to no one for nothing	entailment
+Science Daily is funded by the United States government	entailment
+Science Daily is a Pro-Science Source	entailment
+Science Daily covers the following topics: astronomy, exoplanets, computer science, nanotechnology, medicine, psychology, sociology, anthropology, biology, geology, climate, space, physics, mathematics, chemistry, archaeology, paleontology, and others.	entailment

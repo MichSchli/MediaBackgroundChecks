@@ -1,0 +1,10 @@
+History
+[Founded in 2016](https://whois.domaintools.com/scoopnest.com), Scoopnest is an online service that collects news “tweets” from a wide range of sources. They also provide the ability to filter by topics such as politics or health, etc. [Read our profile on France Media and Government.](https://mediabiasfactcheck.com/france-media-profile/)
+Funded by / Ownership
+Scoopnest does not reveal ownership on the website. Revenue is derived through advertising.
+Analysis / Bias
+Scoopnest curates/aggregates news from Twitter using a variety of sources, including major media sources as well as individuals with a strong presence on Twitter. In a case like this, we review the sources utilized to determine bias. We first looked under the politics category and found Donald Trump’s Twitter account featured, as well as Hilary Clinton and a range of left and right-leaning politicians.
+Under the “News” tab we found the left-leaning
+[BBC](https://mediabiasfactcheck.com/bbc/), [MSNBC](https://mediabiasfactcheck.com/msnbc/), and [New York Times](https://mediabiasfactcheck.com/new-york-times/). We also found right-leaning sources such as [Newsmax](https://mediabiasfactcheck.com/newsmax/), Michelle Malkin, and the [NRA](https://mediabiasfactcheck.com/national-rifle-association-nra/). Some of these sources are listed as [Questionable](https://mediabiasfactcheck.com/fake-news/) by MBFC. In general, Scoopnest does not appear to be biased but rather publishes any news that is trending on Twitter. Based on this, we rate them Least Biased but Mixed for factual reporting due to the use of poor sources.
+Failed Fact Checks
+- None in the Last 5 years

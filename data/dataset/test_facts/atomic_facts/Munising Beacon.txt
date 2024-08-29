@@ -1,0 +1,22 @@
+CherryRoad Media owns Munising Beacon	entailment
+CherryRoad Media is the owner of Munising Beacon	entailment
+Munising Beacon is funded through **advertising and paid subscriptions**	entailment
+The mission of Munising Beacon is to report news, sports, community, and crime for the greater Munising, Michigan, area.	entailment
+The usual audience of Munising Beacon is **the greater Munising, Michigan, area**	entailment
+Munising Beacon tends to the least biased	entailment
+Other sources have commented on Munising Beacon, stating that it tends to be **Least Biased**.	entailment
+The factuality of Munising Beacon is reported to be High	entailment
+The factuality of Munising Beacon is reported to be High, according to a review by Mediabiasfactcheck.	entailment
+Munising Beacon failed a fact-check for an article titled "Rekindle showed a different side of downtown"	contradiction
+Munising Beacon printed a retraction after failing a fact-check for an article titled "Rekindle showed a different side of downtown".	contradiction
+Munising Beacon chose not to cover failed fact checks	entailment
+Munising Beacon relies on advertising for revenue	entailment
+Munising Beacon relies on donations for revenue	contradiction
+When aggregating stories, Munising Beacon relies on information from **the Associated Press**.	entailment
+Munising Beacon has an editorial bias towards least biased	entailment
+D. Van Zandt is the editor of Munising Beacon	entailment
+Munising Beacon had to apologize for None in the Last 5 years	entailment
+Munising Beacon's headquarter is located in Munising	entailment
+The Munising Beacon is funded by the private government	contradiction
+Munising Beacon is a newspaper	entailment
+The Munising Beacon covers the following topics: news, sports, community, and crime	entailment

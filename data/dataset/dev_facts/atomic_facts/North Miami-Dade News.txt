@@ -1,0 +1,23 @@
+North Miami-Dade News leads North Miami-Dade News	contradiction
+Metric Media Foundation owns North Miami-Dade News	entailment
+North Miami-Dade News is funded through  advertising and donations to the Metric Media Foundation.	entailment
+The remit of North Miami-Dade News is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of North Miami-Dade News is right-center, biased, and Questionable.	entailment
+The North Miami-Dade News tends to the right-center, biased, and Questionable	entailment
+North Miami-Dade News tends to the right-center, according to D. Van Zandt.	entailment
+Other sources have commented on North Miami-Dade News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of North Miami-Dade News is reported to be Questionable	entailment
+The factuality of North Miami-Dade News is reported to be Questionable, according to D. Van Zandt 3/31/2021	entailment
+North Miami-Dade News failed a fact-check for an article titled "An imposter Disguised as Local News"	entailment
+North Miami-Dade News printed a retraction after failing a fact-check for an article titled **Metric Media**.	entailment
+North Miami-Dade News chose not to cover an imposter site	contradiction
+North Miami-Dade News provides original content written by staff journalists	entailment
+North Miami-Dade News relies on advertising for revenue	entailment
+North Miami-Dade News relies on donations for revenue	entailment
+North Miami-Dade News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, North Miami-Dade News relies on information from **algorithmically produced content**.	entailment
+North Miami-Dade News has endorsed **right-center, biased, and Questionable**	entailment
+North Miami-Dade News has an editorial bias towards right-center	entailment
+North Miami-Dade News printed a biased article titled "North Miami-Dade News Is An Imposter Site."	entailment
+North Miami-Dade News had to apologize for publishing false information.	entailment
+North Miami-Dade News had to apologize to readers for publishing false information.	entailment

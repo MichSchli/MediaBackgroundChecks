@@ -1,0 +1,22 @@
+Nexstar Media Group owns WDHN - Dothan News	entailment
+Nexstar Media Group is the owner of WDHN - Dothan News.	entailment
+WDHN bought WDHN - Dothan News	contradiction
+WDHN - Dothan News is funded through advertising generates revenue.	entailment
+The remit of WDHN - Dothan News is to **provide news, sports, weather, politics, and crime reporting**	entailment
+The mission of WDHN - Dothan News is to report the news factually and with minimal bias.	entailment
+The usual audience of WDHN - Dothan News is **the greater Dothan, Alabama area**	entailment
+WDHN - Dothan News tends to the **right**.	entailment
+Other sources have commented on WDHN - Dothan News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WDHN - Dothan News is reported to be High	entailment
+The factuality of WDHN - Dothan News is reported to be High, according to Mediabiasfactcheck.com	entailment
+WDHN - Dothan News failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+WDHN - Dothan News printed a retraction after failing a fact-check for an article titled 'None in the Last 5 years'.	contradiction
+WDHN - Dothan News chose not to cover op-eds	entailment
+WDHN - Dothan News provides original content written by staff journalists	entailment
+WDHN - Dothan News relies on advertising for revenue	entailment
+When aggregating stories, WDHN - Dothan News relies on information from **Nexstar Media Wire, the Associated Press, and other large credible media outlets**.	entailment
+WDHN - Dothan News has an editorial bias towards Least Biased.	entailment
+WDHN - Dothan News had to apologize for  making any failed fact checks.	contradiction
+WDHN - Dothan News is funded by the **advertising** government	contradiction
+WDHN - Dothan News is a TV station	entailment
+WDHN - Dothan News covers the following topics: news, sports, weather, politics, and crime reporting	entailment

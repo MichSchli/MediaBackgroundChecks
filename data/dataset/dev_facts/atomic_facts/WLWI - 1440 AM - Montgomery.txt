@@ -1,0 +1,17 @@
+Cumulus Media founded WLWI - 1440 AM - Montgomery	entailment
+Cumulus Media owns WLWI - 1440 AM - Montgomery	entailment
+Cumulus Media bought WLWI - 1440 AM - Montgomery	entailment
+Cumulus Media acquired WLWI - 1440 AM - Montgomery	contradiction
+WLWI - 1440 AM - Montgomery is funded through advertising	entailment
+The remit of WLWI - 1440 AM - Montgomery is to **broadcast conservative news talk shows and publish local and political news on its website**.	entailment
+The mission of WLWI - 1440 AM - Montgomery is to  inform the public and provide conservative news talk shows.	entailment
+The usual audience of WLWI - 1440 AM - Montgomery is **conservative**	entailment
+WLWI - 1440 AM - Montgomery tends to the right	entailment
+WLWI - 1440 AM - Montgomery tends to the right according to mediabiasfactcheck.com	entailment
+Other sources have commented on WLWI - 1440 AM - Montgomery, stating that it tends to be Right Biased	entailment
+The factuality of WLWI - 1440 AM - Montgomery is reported to be Mixed	entailment
+The factuality of WLWI - 1440 AM - Montgomery is reported to be  Mixed, according to  D. Van Zandt 12/21/2023	entailment
+WLWI - 1440 AM - Montgomery chose not to cover opinionated political content from other sources	contradiction
+WLWI - 1440 AM - Montgomery relies on advertising for revenue	entailment
+WLWI - 1440 AM - Montgomery relies on subscriptions for revenue	contradiction
+WLWI - 1440 AM - Montgomery has an editorial bias towards **right**	entailment

@@ -1,0 +1,14 @@
+History
+Launched in 1952,
+[Tagesschau](https://blog.tagesschau.de/uber-uns/about-us-en/) is a German news program broadcasted by the public broadcaster ARD. The website for Tagesschau is tagesschau.de. The German news program’s online presence provides a wide range of news and information on current events in Germany and around the world. It is headquartered in Hamburg, Germany. [Please read our profile on Germany’s government and media for details.](https://mediabiasfactcheck.com/germany-media-profile/)
+Funded by / Ownership
+[ARD](https://blog.tagesschau.de/uber-uns/about-us-en/), the “Association of Public Broadcasting Corporations in the Federal Republic of Germany,” owns Tagesschau.de. ARD comprises nine independent regional public broadcasters that operate in Germany’s 16 federal states and is funded by the mandatory broadcasting fee paid by German citizens.
+Analysis / Bias
+Tagesschau publishes articles with moderately emotionally loaded language, such as
+[“Ready for couples therapy.”](https://www.tagesschau.de/kommentar/ampel-streit-101.html) “Couples therapy” suggests a bias towards portraying the government coalition as having relationship issues. Tagesschau’s use of language is critical, describing the FDP as weak and ineffective and the Traffic Light coalition as being on shaky ground. The Traffic Light coalition in German politics includes the center-left SPD, left-wing Greens focused on environmentalism, and center-right FDP with liberal economic policies.
+Another article,
+[“Shortage of skilled workers at record level in 2022,”](https://www.tagesschau.de/wirtschaft/unternehmen/studie-fachkraeftemangel-101.html) discusses a study conducted by the German Economic Institute (IW) on the shortage of skilled workers in Germany. The Tagesschau article reports on the need for skilled workers in Germany, citing the study. The article presents the study’s findings neutrally and factually and does not exhibit any apparent bias in wording. However, the article does not include a hyperlink to the study.
+Editorially, they report with balance; for example, in the article
+[“Integration courses are more popular than ever,”](https://www.tagesschau.de/inland/bamf-sprachkurse-101.html) they present the information factually and neutrally. It highlights the importance of language courses for integration and the challenges immigrants and refugees face in accessing them. They also support concerns about climate change. The article [“Companies are doing too little for the climate”](https://www.tagesschau.de/wissen/klima/corporate-climate-responsibility-monitor-101.html) utilizes sources such as newclimate.org and ardalpha.de. In general, Tagesschau is fact-based and minimally biased in reporting.
+Failed Fact Checks
+- None in the Last 5 years

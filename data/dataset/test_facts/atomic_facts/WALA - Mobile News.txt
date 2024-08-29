@@ -1,0 +1,21 @@
+Gray Television owns WALA - Mobile News	entailment
+Gray Television is the owner of WALA - Mobile News	entailment
+FOX bought WALA - Mobile News	contradiction
+Gray Television acquired WALA - Mobile News	entailment
+The remit of WALA - Mobile News is to report news factually and with minimal bias.	entailment
+The mission of WALA - Mobile News is to report news factually and with minimal bias.	entailment
+The usual audience of WALA - Mobile News is **local news for Mobile, Alabama, and the surrounding areas**	entailment
+WALA - Mobile News tends to the **least biased**	entailment
+Other sources have commented on WALA - Mobile News, stating that it tends to be **least biased**	entailment
+The factuality of WALA - Mobile News is reported to be High	entailment
+The factuality of WALA - Mobile News is reported to be High, according to Mediabiasfactcheck.com.	entailment
+WALA - Mobile News failed a fact-check for an article titled "MPD arrests man for allegedly stealing bleachers and dragging with his car".	contradiction
+WALA - Mobile News chose not to cover an opinion page.	entailment
+WALA - Mobile News relies on advertising for revenue	entailment
+WALA - Mobile News relies on subscriptions for revenue	contradiction
+WALA - Mobile News relies on donations for revenue	contradiction
+WALA - Mobile News has an editorial bias towards least biased.	entailment
+WALA - Mobile News had to apologize for 	contradiction
+WALA - Mobile News is funded by the United States government	contradiction
+WALA - Mobile News is a TV news station.	entailment
+WALA - Mobile News covers the following topics: Local and national news, sports, weather, traffic, and entertainment	entailment

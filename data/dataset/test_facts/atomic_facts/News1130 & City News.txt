@@ -1,0 +1,13 @@
+News1130 & City News is funded through **advertising**	entailment
+The mission of News1130 & City News is to provide national coverage, feature stories, and analysis of issues in Canada and abroad.	entailment
+The usual audience of News1130 & City News is **local, national, world, business, and entertainment news**.	entailment
+Other sources have commented on News1130 & City News, stating that it tends to be **least biased**.	entailment
+The factuality of News1130 & City News is reported to be high	entailment
+News1130 & City News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+News1130 & City News chose not to cover political opinion pieces	entailment
+News1130 & City News relies on advertising for revenue	entailment
+News1130 & City News relies on subscriptions for revenue	entailment
+When aggregating stories, News1130 & City News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and the [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+News1130 & City News has an editorial bias towards [centrism](https://mediabiasfactcheck.com/center/)	entailment
+News1130 & City News is funded by the Canadian government	entailment
+News1130 & City News covers the following topics: local, national, world, business, and entertainment news.	entailment

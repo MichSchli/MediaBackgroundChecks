@@ -1,0 +1,25 @@
+Jonathan S. Tobin founded Jewish News Syndicate	contradiction
+Jonathan S. Tobin leads Jewish News Syndicate	entailment
+Jonathan S. Tobin is the owner of Jewish News Syndicate.	entailment
+JNS acquired Jewish News Syndicate	contradiction
+Jewish News Syndicate is funded through donations	entailment
+The remit of Jewish News Syndicate is to focus on Israeli and Jewish-related news and analysis around the world.	entailment
+The mission of Jewish News Syndicate is to promote Israeli and Jewish-related news and analysis around the world.	entailment
+The usual audience of Jewish News Syndicate is Right-Center biased	entailment
+Jewish News Syndicate tends to the Right-Center	entailment
+Other sources have commented on Jewish News Syndicate, stating that it tends to be Right-Center biased.	entailment
+The factuality of Jewish News Syndicate is reported to be Mixed	entailment
+The factuality of Jewish News Syndicate is reported to be Mixed, according to M. Huitsing 2/25/2018	entailment
+Jewish News Syndicate failed a fact-check for an article titled **None**	entailment
+Jewish News Syndicate chose not to cover failed fact checks	entailment
+Jewish News Syndicate relies on advertising for revenue	contradiction
+Jewish News Syndicate has received donations from Sheldon Adelson.	entailment
+When aggregating stories, Jewish News Syndicate relies on information from **quotes**	entailment
+Jewish News Syndicate has endorsed right-leaning biases	entailment
+Jewish News Syndicate has an editorial bias towards Right-Center	entailment
+Jonathan S. Tobin is the editor of Jewish News Syndicate	entailment
+Jewish News Syndicate printed a biased article titled Where are the ‘peaceful’ citizens of Gaza?	entailment
+Jewish News Syndicate's headquarter is located in Oregon	entailment
+Jewish News Syndicate is funded by the **Israeli** government	contradiction
+Jewish News Syndicate is a news site	entailment
+Jewish News Syndicate covers the following topics: Israeli and Jewish-related news and analysis around the world	entailment

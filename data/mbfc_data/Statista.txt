@@ -1,0 +1,10 @@
+History
+Founded in 2007, Statista is a German online portal for statistics, which makes data collected by market and opinion research institutes and data derived from the economic and official statistics in English, French, German, and Spanish. It is one of the most successful
+[statistics databases](https://www.spiegel.de/wirtschaft/unternehmen/statista-balken-die-die-welt-beschreiben-a-1055683.html) in the world. According to their [about page](https://www.statista.com/aboutus/), they have over 80,000 topics and 22,500 sources. The current CEO is Friedrich Schwandt. [Read our profile on Germany’s media and government](https://mediabiasfactcheck.com/germany-media-profile/)
+Funded by / Ownership
+Ownership is not clearly stated, but it appears Stroer Media owns Statista. Revenue is derived from subscriptions to access data.
+Analysis / Bias
+In review, Statista provides statistics from a wide variety of sources for data. There does not appear to be bias associated with this website. For example, you type in
+[Climate Change](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/), and you will get climate change stats from various sources, including those who do not go with the consensus. Quite simply, this is a valuable resource that provides stats. Some of the sources these stats come from may require scrutiny, but there is no bias here.
+Failed Fact Checks
+- None in the Last 5 years

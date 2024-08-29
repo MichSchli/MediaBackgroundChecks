@@ -1,0 +1,27 @@
+Gannett is the founder of Gadsden Times	contradiction
+Gannett owns Gadsden Times	entailment
+Gannett is the owner of Gadsden Times	entailment
+Gannett bought Gadsden Times	entailment
+Gannett acquired Gadsden Times	entailment
+Gadsden Times is funded through advertising and paid subscriptions	entailment
+The remit of Gadsden Times is to  report local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Gadsden Times is to **cover news, sports, lifestyle, and entertainment for the greater Gadsden, Alabama area, reporting local news with minimal loaded emotional language.**	entailment
+The usual audience of Gadsden Times is **the greater Gadsden, Alabama area**	entailment
+Gadsden Times tends to the **left**	entailment
+Other sources have commented on Gadsden Times, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Gadsden Times is reported to be High	entailment
+The factuality of Gadsden Times is reported to be High, according to Mediabiasfactcheck.	entailment
+Gadsden Times failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Gadsden Times printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	entailment
+Gadsden Times chose not to cover Presidential endorsements	entailment
+Gadsden Times relies on advertising for revenue	entailment
+Gadsden Times relies on subscriptions for revenue	entailment
+Gadsden Times relies on donations for revenue	contradiction
+When aggregating stories, Gadsden Times relies on information from **other Gannett publications and the Associated Press**.	entailment
+Gadsden Times has endorsed neither candidate for U.S. President	entailment
+Gadsden Times has an editorial bias towards Left	entailment
+Gadsden Times printed a biased article titled "Valuing all: Alabama’s Medical Association advancing health equality."	entailment
+Gadsden Times had to apologize for **None in the Last 5 years**	entailment
+Gadsden Times is funded by the USA government	contradiction
+The Gadsden Times is a Left-Center Biased 	entailment
+Gadsden Times covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment

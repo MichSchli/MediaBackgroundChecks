@@ -1,0 +1,18 @@
+United Voice acquired United Voice	contradiction
+The remit of United Voice is to stimulate critical thinking around today’s most important issues and to cut through the noise by summarizing key issues and presenting alternative viewpoints as well as in-depth analysis.	entailment
+The mission of United Voice is to **stimulate critical thinking around today’s most important issues and to cut through the noise by summarizing key issues and presenting alternative viewpoints as well as in-depth analysis**.	entailment
+United Voice tends to the right.	entailment
+Other sources have commented on United Voice, stating that it tends to be right-biased.	entailment
+United Voice chose not to cover left-biased news.	entailment
+United Voice relies on advertising for revenue	entailment
+United Voice relies on donations for revenue	entailment
+United Voice has received donations from **subscription service and advertising**	entailment
+When aggregating stories, United Voice relies on information from **poor sources such as Newsmax and the Gateway Pundit**.	entailment
+United Voice has endorsed right-biased perspectives	entailment
+United Voice has an editorial bias towards **right-leaning perspectives**	entailment
+United Voice was fined 	entailment
+United Voice printed a biased article titled "Johnson Marries Ukraine Aid to Border Security".	entailment
+United Voice had to apologize to no one for nothing	entailment
+United Voice's headquarter is located in Claymont.	entailment
+United Voice is a news website	entailment
+United Voice covers the following topics: national and global news, political analysis, self-reliance, and world events such as the war in Ukraine.	entailment

@@ -1,0 +1,22 @@
+Jeffrey Trimble is the founder of Eurasianet	entailment
+Eurasianet is funded through Google, the Open Society Foundations, the U.K.’s Foreign, Commonwealth & Development Office, the National Endowment for Democracy, and the Saltzman Institute of War and Peace Studies, among other grant-making institutions and donations. It is governed by a board of trustees without a specified owner, as detailed on their About page.	entailment
+The remit of Eurasianet is to **report news from the Eurasian region**.	entailment
+The mission of Eurasianet is to report news from the Eurasian region.	entailment
+The usual audience of Eurasianet is **people interested in news from the Eurasian region**.	entailment
+Eurasianet tends to the **Left-Center**	entailment
+Other sources have commented on Eurasianet, stating that it tends to be Left-Center biased.	entailment
+The factuality of Eurasianet is reported to be Mostly Factual	entailment
+The factuality of Eurasianet is reported to be Mostly Factual, according to Mediabiasfactcheck.com	entailment
+Eurasianet relies on subscriptions for revenue	entailment
+Eurasianet relies on donations for revenue	contradiction
+Eurasianet has received donations from Google, the Open Society Foundations, the U.K.’s Foreign, Commonwealth & Development Office, the National Endowment for Democracy, and the Saltzman Institute of War and Peace Studies, among other grant-making institutions and donations.	entailment
+When aggregating stories, Eurasianet relies on information from Google, the Open Society Foundations, the U.K.’s Foreign, Commonwealth & Development Office, the National Endowment for Democracy, and the Saltzman Institute of War and Peace Studies, among other grant-making institutions and donations.	entailment
+Eurasianet has endorsed a left-center bias	entailment
+Eurasianet has an editorial bias towards Left-Center	entailment
+Jeffrey Trimble is the editor of Eurasianet	contradiction
+Eurasianet was fined **None**	entailment
+Eurasianet printed a biased article titled "Azerbaijani President Makes First Remarks about Blockaded Village".	entailment
+Eurasianet had to apologize for **one-sided reporting that may leave out context on issues**	entailment
+Eurasianet's headquarter is located in New York City	entailment
+Eurasianet is funded by the U.K.’s Foreign, Commonwealth & Development Office	entailment
+Eurasianet is a 501(c)(3) non-profit.	entailment

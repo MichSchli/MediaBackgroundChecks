@@ -1,0 +1,23 @@
+Wendell A. founded McPherson Sentinel	entailment
+CherryRoad Media is the founder of McPherson Sentinel	entailment
+CherryRoad Media owns McPherson Sentinel	entailment
+CherryRoad Media is the owner of McPherson Sentinel	entailment
+CherryRoad Media bought McPherson Sentinel	contradiction
+The McPherson Sentinel is funded through **advertising and paid subscriptions**.	entailment
+The remit of McPherson Sentinel is to **cover news, sports, community, and crime for the greater McPherson, Kansas area**	entailment
+The mission of McPherson Sentinel is to report news, sports, community, and crime for the greater McPherson, Kansas area.	entailment
+The McPherson Sentinel tends to the local, national, sports, weather, and crime news for the Mcpherson Area.	entailment
+Other sources have commented on McPherson Sentinel, stating that it tends to be **Least Biased**	entailment
+The factuality of McPherson Sentinel is reported to be High	entailment
+The factuality of McPherson Sentinel is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+McPherson Sentinel printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+The McPherson Sentinel chose not to cover failed fact checks.	entailment
+McPherson Sentinel relies on advertising for revenue	entailment
+McPherson Sentinel relies on subscriptions for revenue	entailment
+McPherson Sentinel relies on donations for revenue	contradiction
+When aggregating stories, McPherson Sentinel relies on information from the [Associated Press.](https://mediabiasfactcheck.com/associated-press/)	entailment
+McPherson Sentinel has an editorial bias towards Least Biased	entailment
+D. Van Zandt is the editor of McPherson Sentinel	entailment
+McPherson Sentinel had to apologize to no one for nothing	entailment
+The McPherson Sentinel is a newspaper	entailment
+McPherson Sentinel covers the following topics: news, sports, community, and crime	entailment

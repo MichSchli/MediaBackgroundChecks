@@ -1,0 +1,22 @@
+Motosada Zumoto founded Japan Times	entailment
+Motosada Zumoto is the founder of Japan Times	entailment
+Takeharu Tsutsumi is the CEO of Japan Times	contradiction
+The Japan Times owns Japan Times	entailment
+Japan Times is funded through advertising and subscriptions	entailment
+The remit of Japan Times is to **cover current events in Japan and the world, opinion articles, entertainment, and sports**.	entailment
+The mission of Japan Times is to report news factually and with minimal bias.	entailment
+The usual audience of Japan Times is English Language speakers.	entailment
+Japan Times tends to the  Least Biased	entailment
+Japan Times tends to the balanced according to mediabiasfactcheck.com	entailment
+Other sources have commented on Japan Times, stating that it tends to be **Least Biased**.	entailment
+The factuality of Japan Times is reported to be High	entailment
+The factuality of Japan Times is reported to be High, according to an independent review from Mediabiasfactcheck.	entailment
+Japan Times failed a fact-check for an article titled "Suspect signaled Abe killing in letter to Unification Church critic"	contradiction
+Japan Times chose not to cover Failed Fact Checks	entailment
+Japan Times relies on advertising for revenue	entailment
+Japan Times relies on subscriptions for revenue	contradiction
+Japan Times relies on donations for revenue	contradiction
+When aggregating stories, Japan Times relies on information from credible sources such as [Reuters](https://mediabiasfactcheck.com/reuters/) and the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Japan Times has endorsed neutral/balanced reporting	entailment
+Japan Times has an editorial bias towards **neutral/balanced reporting**.	entailment
+Japan Times printed a biased article titled  "Nuclear risks mount as tensions rise and arsenals grow"	contradiction

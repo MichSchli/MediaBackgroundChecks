@@ -1,0 +1,11 @@
+History
+The
+[Oyez Project](https://en.wikipedia.org/wiki/Oyez_Project) at the Illinois Institute of Technology’s Chicago-Kent College of Law is an unofficial online multimedia archive of the Supreme Court of the United States, especially audio of oral arguments. The Oyez Project has all audio recordings of SCOTUS proceeding dating back to October 1955. The project and website were founded by Jerry Goldman, a research professor of law at the [Chicago-Kent College of Law](https://en.wikipedia.org/wiki/Chicago-Kent_College_of_Law) at [Illinois Institute of Technology](https://en.wikipedia.org/wiki/Illinois_Institute_of_Technology).
+Funded by / Ownership
+According to their
+[about page](https://www.oyez.org/about), the Oyez Project received technological support from the [National Science Foundation](https://en.wikipedia.org/wiki/National_Science_Foundation) and grants from [National Endowment for the Humanities](https://en.wikipedia.org/wiki/National_Endowment_for_the_Humanities). The project is also supported by various academic institutions such as [Weinberg College of Arts and Sciences](https://en.wikipedia.org/wiki/Weinberg_College_of_Arts_and_Sciences), the legal web portal [FindLaw](https://en.wikipedia.org/wiki/FindLaw), and the law firm [Mayer Brown](https://en.wikipedia.org/wiki/Mayer_Brown). [In July 2016](http://www.abajournal.com/magazine/article/oyez_website_finds_sponsors_to_take_over_its_supreme_court_audio_archives/), the [Legal Information Institute](https://en.wikipedia.org/wiki/Legal_Information_Institute) at Cornell Law School and [Justia](https://en.wikipedia.org/wiki/Justia) joined IIT as sponsors.
+Analysis / Bias
+In review, Oyez does exactly what it claims. It provides audio of SCOTUS proceedings for every case dating back to 1955. It also provides all information about the case including a handy “Facts of the Case” summary. There is minimal bias in wording and relies strictly on SCOTUS information. They also have a
+[biography section](https://www.oyez.org/justices) that details each Justice’s biography who served on the court since 1789. Oyez has a link to “news” that directs to [ISCOTUS Now](http://blogs.kentlaw.iit.edu/iscotus/), which a blog run by Chicago-Kent College of Law. This blog also presents law news with minimal loaded words and proper sourcing.
+Failed Fact Checks
+- None in the Last 5 years

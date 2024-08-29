@@ -1,0 +1,27 @@
+Sky Palma founded DeadState	entailment
+Sky Palma is the founder of DeadState	entailment
+Sky Palma leads DeadState	entailment
+Sky Palma owns DeadState	entailment
+Sky Palma is the owner of DeadState.	entailment
+DeadState is funded through advertising and donation.	entailment
+The remit of DeadState is to **report news and opinion with a progressive liberal bias in reporting**	entailment
+The mission of DeadState is to report news and opinion with a progressive liberal bias in reporting.	entailment
+The usual audience of DeadState is **those who lean left politically**	entailment
+DeadState tends to the left	entailment
+Other sources have commented on DeadState, stating that it tends to be left-leaning.	entailment
+The factuality of DeadState is reported to be High	entailment
+The factuality of DeadState is reported to be High, according to Mediabiasfactcheck.	entailment
+DeadState failed a fact-check for an article titled "Twitter points out the irony of Sarah Sanders telling Democrats to ‘quit lying.’"	contradiction
+DeadState chose not to cover former President Trump	contradiction
+DeadState relies on advertising for revenue	entailment
+DeadState relies on subscriptions for revenue	entailment
+DeadState relies on donations for revenue	entailment
+When aggregating stories, DeadState relies on information from [USA Today](https://mediabiasfactcheck.com/usa-today-2/).	entailment
+DeadState has endorsed **progressive policy**	entailment
+DeadState has an editorial bias towards Left	entailment
+DeadState was fined **nothing in the Last 5 years**	entailment
+DeadState printed a biased article titled "Twitter points out the irony of Sarah Sanders telling Democrats to ‘quit lying.’"	entailment
+DeadState had to apologize for **None in the Last 5 years**	entailment
+DeadState is funded by the USA government	entailment
+DeadState is a left-leaning	entailment
+DeadState covers the following topics: **people, politics, current events, religion, and the overall human condition**	entailment

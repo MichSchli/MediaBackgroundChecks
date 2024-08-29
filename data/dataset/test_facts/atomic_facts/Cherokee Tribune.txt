@@ -1,0 +1,23 @@
+Cherokee Tribune leads Cherokee Tribune	contradiction
+Times-Journal Inc owns Cherokee Tribune	entailment
+Times-Journal Inc is the owner of Cherokee Tribune	entailment
+Times-Journal Inc bought Cherokee Tribune	entailment
+The Cherokee Tribune is funded through advertising and subscription fees.	entailment
+The remit of Cherokee Tribune is to cover local and regional news related to Georgia.	contradiction
+The mission of Cherokee Tribune is to cover local news and politics, sports, and business related to the Canton area.	entailment
+The Cherokee Tribune tends to the  least biased based on minimal editorializing of content.	entailment
+Other sources have commented on Cherokee Tribune, stating that it tends to be least biased	entailment
+The factuality of Cherokee Tribune is reported to be high	entailment
+The factuality of Cherokee Tribune is reported to be high, according to Media Bias/Fact Check.	entailment
+Cherokee Tribune failed a fact-check for an article titled "Cherokee County Population to Surpass 400,000 by 2050".	contradiction
+Cherokee Tribune chose not to cover national and international news	entailment
+Cherokee Tribune relies on advertising for revenue	entailment
+Cherokee Tribune relies on subscriptions for revenue	entailment
+Cherokee Tribune relies on donations for revenue	contradiction
+When aggregating stories, Cherokee Tribune relies on information from **reporters**	entailment
+The Cherokee Tribune has endorsed least biased based on minimal editorializing of content.	entailment
+Cherokee Tribune has an editorial bias towards **least biased**	entailment
+The Cherokee Tribune had to apologize for  lack of fact-checking	contradiction
+The Cherokee Tribune is funded by the private sector government	contradiction
+Cherokee Tribune is a newspaper	entailment
+Cherokee Tribune covers the following topics: local news, politics, sports, and business related to the Canton area	entailment

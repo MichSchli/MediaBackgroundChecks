@@ -1,0 +1,23 @@
+CherryRoad Media owns Leavenworth Times	entailment
+CherryRoad Media bought Leavenworth Times	entailment
+CherryRoad Media acquired Leavenworth Times	contradiction
+Leavenworth Times is funded through advertising and paid subscriptions	entailment
+The remit of Leavenworth Times is to **cover news, sports, lifestyle, and entertainment for the greater Leavenworth, Kansas area**	entailment
+The mission of Leavenworth Times is to **cover news, sports, lifestyle, and entertainment**	entailment
+The usual audience of Leavenworth Times is **the greater Leavenworth, Kansas area**	entailment
+Leavenworth Times tends to the **center**	contradiction
+Other sources have commented on Leavenworth Times, stating that it tends to be **Least Biased**	entailment
+The factuality of Leavenworth Times is reported to be High	entailment
+The factuality of Leavenworth Times is reported to be High, according to mediabiasfactcheck.com.	entailment
+Leavenworth Times printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+Leavenworth Times chose not to cover  Failed Fact Checks	entailment
+Leavenworth Times relies on advertising for revenue	entailment
+Leavenworth Times relies on subscriptions for revenue	entailment
+When aggregating stories, Leavenworth Times relies on information from the Associated Press.	entailment
+Leavenworth Times has endorsed Least Biased biased based on mainly balanced editorial positions.	entailment
+Leavenworth Times has an editorial bias towards least biased.	entailment
+Leavenworth Times printed a biased article titled "None in the Last 5 years"	contradiction
+Leavenworth Times had to apologize for **None in the Last 5 years**.	entailment
+The Leavenworth Times is funded by the CherryRoad Media government	contradiction
+Leavenworth Times is a daily newspaper	entailment
+Leavenworth Times covers the following topics: news, sports, lifestyle, and entertainment	entailment

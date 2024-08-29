@@ -1,0 +1,19 @@
+Metric Media Foundation owns PHX Reporter	entailment
+Metric Media acquired PHX Reporter	entailment
+The remit of PHX Reporter is to **spread conservative-leaning news and opinions**	entailment
+The mission of PHX Reporter is to **look like a local news source**	entailment
+The usual audience of PHX Reporter is **right-center biased and Questionable**.	entailment
+PHX Reporter tends to the right-center biased	entailment
+PHX Reporter tends to the right-center biased according to being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+Other sources have commented on PHX Reporter, stating that it tends to be right-center biased.	entailment
+The factuality of PHX Reporter is reported to be **Questionable**	entailment
+The factuality of PHX Reporter is reported to be Questionable, according to Mediabiasfactcheck.	entailment
+PHX Reporter failed a fact-check for an article titled **Questionable**	entailment
+PHX Reporter chose not to cover imposter website designed to look like a local news source.	entailment
+PHX Reporter relies on advertising for revenue	entailment
+PHX Reporter relies on donations for revenue	entailment
+When aggregating stories, PHX Reporter relies on information from **algorithmically produced content**.	entailment
+PHX Reporter has endorsed right-center biased and Questionable content	entailment
+PHX Reporter has an editorial bias towards right-center	entailment
+Bradley Cameron is the editor of PHX Reporter	entailment
+PHX Reporter printed a biased article titled **"Questionable based on being an imposter website that is designed to look like a local news source."**	entailment

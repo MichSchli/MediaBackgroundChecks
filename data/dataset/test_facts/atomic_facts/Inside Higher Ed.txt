@@ -1,0 +1,22 @@
+Scott Jaschik & Doug Lederman leads Inside Higher Ed	entailment
+Inside Higher Education Inc. owns Inside Higher Ed	entailment
+Inside Higher Education Inc. is the owner of Inside Higher Ed.	entailment
+Quad Partners bought Inside Higher Ed	entailment
+Inside Higher Ed is funded through **advertising, sponsored content, and membership fees for exclusive content**.	entailment
+The remit of Inside Higher Ed is to **publish original analysis and reporting on higher education**.	entailment
+The mission of Inside Higher Ed is to provide readers with news, opinion essays, and career advice related to college and university topics based in Washington, D.C., United States.	entailment
+The usual audience of Inside Higher Ed is **individuals interested in higher education and academia**	entailment
+Inside Higher Ed tends to the left	entailment
+Other sources have commented on Inside Higher Ed, stating that it tends to be Left-Center Biased	entailment
+The factuality of Inside Higher Ed is reported to be High	entailment
+The factuality of Inside Higher Ed is reported to be High, according to D. Van Zandt 2/11/2017	entailment
+Inside Higher Ed chose not to cover **failed fact checks**	entailment
+Inside Higher Ed relies on advertising for revenue	entailment
+When aggregating stories, Inside Higher Ed relies on information from **credible media outlets**	entailment
+Inside Higher Ed has an editorial bias towards **the left**	entailment
+Inside Higher Ed printed a biased article titled  "Government Rescinds International Student Policy"	entailment
+Inside Higher Ed had to apologize to no one for nothing	contradiction
+Inside Higher Ed's headquarter is located in Washington, D.C.	entailment
+Inside Higher Ed is funded by the United States government	contradiction
+Inside Higher Ed is a  Left-Center Biased	entailment
+Inside Higher Ed covers the following topics: college admissions, academic studies, and education-related news and controversies.	entailment

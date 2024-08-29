@@ -1,0 +1,24 @@
+PostMedia founded Shoreline Beacon	entailment
+PostMedia owns Shoreline Beacon	entailment
+PostMedia is the owner of Shoreline Beacon	entailment
+PostMedia bought Shoreline Beacon	entailment
+PostMedia acquired Shoreline Beacon	entailment
+Shoreline Beacon is funded through **advertising and subscription fees**	entailment
+The remit of Shoreline Beacon is to **report local and regional news**	entailment
+The mission of Shoreline Beacon is to **report local and regional news through journalists with minimal loaded words**	entailment
+The usual audience of Shoreline Beacon is Right-Center Biased	entailment
+The Shoreline Beacon tends to the **right**	entailment
+Other sources have commented on Shoreline Beacon, stating that it tends to be **right-leaning**.	entailment
+The factuality of Shoreline Beacon is reported to be High	entailment
+The factuality of Shoreline Beacon is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+Shoreline Beacon failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Shoreline Beacon provides original content written by staff journalists	entailment
+Shoreline Beacon relies on advertising for revenue	entailment
+Shoreline Beacon relies on subscriptions for revenue	entailment
+Shoreline Beacon relies on donations for revenue	contradiction
+When aggregating stories, Shoreline Beacon relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/).	entailment
+Shoreline Beacon has an editorial bias towards right-leaning	entailment
+The Shoreline Beacon printed a biased article titled "A clear right-leaning bias with commentaries".	entailment
+Shoreline Beacon's headquarter is located in Port Elegin	entailment
+Shoreline Beacon is funded by the Canadian government	entailment
+Shoreline Beacon is a newspaper	entailment

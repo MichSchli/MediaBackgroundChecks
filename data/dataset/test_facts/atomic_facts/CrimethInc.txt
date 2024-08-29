@@ -1,0 +1,24 @@
+CWC is the founder of CrimethInc	contradiction
+CrimethInc. Ex-workers Collective owns CrimethInc.	entailment
+CrimethInc. is the owner of CrimethInc	entailment
+CrimethInc Ex-workers Collective bought CrimethInc	contradiction
+CrimethInc acquired CrimethInc	contradiction
+CrimethInc is funded through **donations**	entailment
+The remit of CrimethInc is to  publish widely read articles and zines for the anarchist movement and distribute posters and books of its own publication.	entailment
+The mission of CrimethInc is to advocate for workers.	entailment
+The usual audience of CrimethInc is **left biased**.	entailment
+CrimethInc tends to the Left	entailment
+Other sources have commented on CrimethInc, stating that it tends to be Left Biased	entailment
+CrimethInc failed a fact-check for an article titled None in the Last 5 years.	contradiction
+CrimethInc chose not to cover news on political uprisings worldwide, especially those favoring anti-capitalist measures.	contradiction
+CrimethInc relies on advertising for revenue	contradiction
+CrimethInc relies on donations for revenue	entailment
+CrimethInc has received donations from ***donations***.	entailment
+When aggregating stories, CrimethInc relies on information from the anarchist movement and distributed posters and books of its own publication.	entailment
+CrimethInc has endorsed worker rebellions	entailment
+CrimethInc has an editorial bias towards **left-wing**	entailment
+CrimethInc was fined **None in the Last 5 years**	entailment
+CrimethInc printed a biased article titled "Colombia Has Lost Its Fear".	entailment
+CrimethInc printed a factually misleading titled "Failed Fact Checks."	contradiction
+CrimethInc is funded by the United States government	contradiction
+CrimethInc is a decentralized anarchist collective	entailment

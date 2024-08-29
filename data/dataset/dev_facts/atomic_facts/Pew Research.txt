@@ -1,0 +1,19 @@
+Michael Dimock leads Pew Research	entailment
+Pew Charitable Trusts owns Pew Research	entailment
+Pew Charitable Trusts bought Pew Research	contradiction
+Pew Research is funded through **The Pew Charitable Trusts**	entailment
+The remit of Pew Research is to generate a foundation of facts that enriches the public dialogue and supports sound decision-making.	entailment
+The mission of Pew Research is to generate a foundation of facts that enriches the public dialogue and supports sound decision-making.	entailment
+Pew Research tends to the least biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on Pew Research, stating that it tends to be nonpartisan.	entailment
+The factuality of Pew Research is reported to be Very High	entailment
+The factuality of Pew Research is reported to be very high, according to source criticism.	entailment
+Pew Research failed a fact-check for an article titled "Eastern and Western Europeans Differ on Importance of Religion, Views of Minorities, and Key Social Issues".	contradiction
+Pew Research printed a retraction after failing a fact-check for an article titled "Eastern and Western Europeans Differ on Importance of Religion, Views of Minorities, and Key Social Issues".	contradiction
+Pew Research chose not to cover failed fact checks	entailment
+Pew Research has received donations from [The Pew Charitable Trusts](http://www.pewtrusts.org/).	entailment
+When aggregating stories, Pew Research relies on information from **detailed sourcing and methodology**.	entailment
+Pew Research has endorsed no one	entailment
+Pew Research has an editorial bias towards least biased	entailment
+Michael Dimock is the editor of Pew Research.	entailment
+Pew Research had to apologize to no one for nothing.	entailment

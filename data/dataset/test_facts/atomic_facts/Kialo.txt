@@ -1,0 +1,21 @@
+Errikos Pitsos founded Kialo	entailment
+Errikos Pitsos is the founder of Kialo	entailment
+Kialo is funded through **self-funding**	entailment
+The remit of Kialo is to create a more thoughtful world by facilitating civil and structured debates	entailment
+The mission of Kialo is to create a more thoughtful world by facilitating civil and structured debates.	entailment
+The usual audience of Kialo is  primarily educators and students (13 years old and older).	entailment
+Kialo tends to the **least biased due to its structured debate format emphasizing balanced viewpoints and reasoned discourse**	entailment
+Other sources have commented on Kialo, stating that it tends to be **least biased**	entailment
+The factuality of Kialo is reported to be mostly factual, according to a review by M. Huitsing.	entailment
+The text does not provide any specific information on what Kialo chose not to cover.	entailment
+Kialo relies on advertising for revenue	contradiction
+Kialo relies on donations for revenue	entailment
+Kialo has received donations from **none**	entailment
+When aggregating stories, Kialo relies on information from [Al Jazeera](https://mediabiasfactcheck.com/al-jazeera/), [Amnesty USA](https://mediabiasfactcheck.com/amnesty-international/), the Arms Control Center [Business Insider](https://mediabiasfactcheck.com/business-insider/), [Brennan Center for Justice](https://mediabiasfactcheck.com/brennan-center-for-justice/), [BBC](https://mediabiasfactcheck.com/bbc/), [The Economist, ](https://mediabiasfactcheck.com/the-economist/), [GZERO Media](https://mediabiasfactcheck.com/gzero-media-bias/), [Wikipedia, ](https://mediabiasfactcheck.com/wikipedia/),a piece from Built In, and data from Google Trends and Twitter’s API.	entailment
+Kialo has endorsed a structured debate format that emphasizes balanced viewpoints and reasoned discourse.	entailment
+Kialo has an editorial bias towards **least biased**	entailment
+Kialo had to apologize for a lack of transparency with funding	entailment
+Kialo's headquarter is located in Berlin	entailment
+Kialo is funded by the self government	contradiction
+Kialo is a platform	entailment
+Kialo covers the following topics: Debates range from historical evaluations to contemporary issues.	entailment

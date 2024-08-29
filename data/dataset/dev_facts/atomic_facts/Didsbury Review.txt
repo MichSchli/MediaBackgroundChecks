@@ -1,0 +1,24 @@
+Glacier Media Group is the CEO of Didsbury Review	entailment
+Glacier Media Group owns Didsbury Review	entailment
+Glacier Media Group is the owner of Didsbury Review	entailment
+Glacier Media Group bought Didsbury Review	contradiction
+Glacier Media Group acquired Didsbury Review	entailment
+The Didsbury Review is funded through advertising and subscriptions	entailment
+The remit of Didsbury Review is to  report sports, weather, national, world, and local news for the greater Didsbury region.	entailment
+The usual audience of Didsbury Review is Left-Center Biased.	entailment
+Didsbury Review tends to the Left	entailment
+Didsbury Review tends to the left according to mediabiasfactcheck.com	entailment
+Other sources have commented on Didsbury Review, stating that it tends to be Left-Center Biased	entailment
+The factuality of Didsbury Review is reported to be High	entailment
+The factuality of Didsbury Review is reported to be High, according to D. Van Zandt 04/16/2023.	entailment
+Didsbury Review failed a fact-check for an article titled Seven reasons we should care about caregivers	contradiction
+Didsbury Review chose not to cover failed fact checks	entailment
+Didsbury Review relies on advertising for revenue	entailment
+Didsbury Review relies on subscriptions for revenue	entailment
+Didsbury Review relies on donations for revenue	contradiction
+When aggregating stories, Didsbury Review relies on information from **the Canadian Press**	entailment
+Didsbury Review has endorsed **the left**.	entailment
+Didsbury Review has an editorial bias towards Left	entailment
+Didsbury Review printed a biased article titled Seven reasons we should care about caregivers	entailment
+Didsbury Review printed a factually misleading titled Left-Center Biased	contradiction
+Didsbury Review had to apologize for editorially, the Didsbury Review’s Op-eds favor the left with stories such as this Seven reasons we should care about caregivers. The paper generally offers a moderately liberal perspective and reports news factually.	entailment

@@ -1,0 +1,23 @@
+MindBodyGreen owns MindBodyGreen	contradiction
+MindBodyGreen is the owner of MindBodyGreen	contradiction
+MindBodyGreen acquired MindBodyGreen	contradiction
+MindBodyGreen is funded through advertising	entailment
+The remit of MindBodyGreen is to **take a 360-degree approach to wellness that incorporates mental, physical, spiritual, emotional, and environmental well-being**	entailment
+The mission of MindBodyGreen is to **take a 360-degree approach to wellness that incorporates mental, physical, spiritual, emotional, and environmental well-being.**	entailment
+Other sources have commented on MindBodyGreen, stating that it tends to be **pseudoscience**.	entailment
+The factuality of MindBodyGreen is reported to be  mixed factual.	entailment
+The factuality of MindBodyGreen is reported to be mixed, according to MindBodyGreen.	entailment
+MindBodyGreen chose not to cover [failed fact checks](https://www.mindbodygreen.com).	entailment
+MindBodyGreen relies on advertising for revenue	entailment
+MindBodyGreen relies on subscriptions for revenue	contradiction
+MindBodyGreen relies on donations for revenue	contradiction
+MindBodyGreen has received donations from advertising	contradiction
+When aggregating stories, MindBodyGreen relies on information from **credible articles that do not make fantastic claims**	contradiction
+MindBodyGreen has endorsed pseudoscience	entailment
+MindBodyGreen has an editorial bias towards Pseudoscience	entailment
+MindBodyGreen printed a biased article titled Avocados Could Hold The Key To Curing Leukemia.	entailment
+MindBodyGreen printed a factually misleading titled **article**	entailment
+MindBodyGreen is funded by the United States government	contradiction
+MindBodyGreen is a  Pseudoscience	entailment
+MindBodyGreen uses an internal fact-checking process	contradiction
+MindBodyGreen covers the following topics: Pseudoscience	entailment

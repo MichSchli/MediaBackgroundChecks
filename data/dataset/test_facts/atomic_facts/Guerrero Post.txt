@@ -1,0 +1,22 @@
+Who founded Guerrero Post	entailment
+Guerrero Post leads Guerrero Post	contradiction
+Guerrero Post is funded through advertising	entailment
+The remit of Guerrero Post is to republish content from Mexico Daily Post, MDP Newsroom, or other sources.	entailment
+The mission of Guerrero Post is to  provide news on Mexican politics, business, culture, sports, and local news related to Guerrero.	entailment
+The usual audience of Guerrero Post is English-speaking ex-pats and international readers.	entailment
+Guerrero Post tends to the left.	entailment
+Other sources have commented on Guerrero Post, stating that it tends to be Left-Center biased.	entailment
+The factuality of Guerrero Post is reported to be questionable	entailment
+The factuality of Guerrero Post is reported to be questionable, according to Failed Fact Checks.	entailment
+The Guerrero Post chose not to cover original content.	entailment
+Guerrero Post provides original content written by staff journalists	contradiction
+Guerrero Post relies on advertising for revenue	entailment
+Guerrero Post relies on subscriptions for revenue	contradiction
+Guerrero Post relies on donations for revenue	contradiction
+Guerrero Post has received donations from 	contradiction
+When aggregating stories, Guerrero Post relies on information from **the Mexico Daily Post, the MDP Newsroom, or other sources**.	entailment
+Guerrero Post has endorsed **left-leaning political bias**	entailment
+Guerrero Post has an editorial bias towards Left-Center	entailment
+Guerrero Post printed a biased article titled  "Tucker Carlson’s extremist recommendation to the Republicans: The US should bomb Mexico"	entailment
+Guerrero Post is a Left-Center biased website	entailment
+Guerrero Post covers the following topics: Mexican politics, business, culture, sports, and local news related to Guerrero	entailment

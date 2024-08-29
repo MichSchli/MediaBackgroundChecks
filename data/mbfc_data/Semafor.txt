@@ -1,0 +1,21 @@
+History
+Launched on October 19, 2022, Semafor is a news website that hosts 8 newsletters. The website was
+[co-founded](https://www.niemanlab.org/2022/10/the-media-startup-semafor-launches-with-a-more-honest-article-format-and-lots-of-global-ambition/) by [Ben Smith](https://twitter.com/semaforben), a media columnist at [The New York Times](https://mediabiasfactcheck.com/new-york-times/), and [Justin Smith](https://twitter.com/Justin_B_Smith), a [Bloomberg](https://mediabiasfactcheck.com/bloomberg/) Media CEO. According to their [about page](https://www.semafor.com/about), “We’re exposing the architecture of our original journalism in an effort to rebuild trust from our audience. Our journalists are experts in their own right — but they also know the difference between the facts and their analysis. Our “Semaform” structure makes clear the lines between facts, analysis, opinion, counter-narratives, and global perspectives.” [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website was funded with $25 million in private capital. Advertising and sponsorships generate revenue. However,
+[according](https://www.nbcnewyork.com/news/business/money-report/semafor-debuts-in-a-tough-media-environment-with-an-aim-toward-de-cluttering-the-news/3911580/) to [CNBC](https://mediabiasfactcheck.com/cnbc/), Semafor will move to a paywall and subscription model within 18 months.
+Analysis / Bias
+The Semafor website features
+[8 different newsletters](https://www.semafor.com/newsletters): Flagship, Principals, Business, Technology, Climate, Africa, Americana, and Media. News is reported in their [“Semaform”](https://www.semafor.com/article/10/18/2022/what-is-a-semaform-anyway-and-why-should-you-care) format featuring sections for straight facts, the reporter’s analysis, and counter-narratives. Each story is broken down as follows:
+- The News
+- The Reporter’s View (or analysis)
+- Room For Disagreement (or counterargument)
+- The View From (or different perspectives on the topic)
+- Notable (or some of the best other writing on the subject)
+The website also features news aggregation, where they “distill news, analysis, and opinion from a global range of sources,” summarized so “readers don’t have to search the internet trying to triangulate the truth.”
+Articles and headlines use moderately loaded emotional language such as this
+[Russia headed for demographic disaster due to war](https://www.semafor.com/article/10/19/2022/russia-headed-for-demographic-disaster-due-to-war). All articles reviewed rely on credible sources such as Bloomberg, New York Times, and [Foreign Policy](https://www.semafor.com/article/10/19/2022/russia-headed-for-demographic-disaster-due-to-war).
+Editorially, more stories favor the left, such as this
+[Donald Trump’s plan to kill mail ballots in Pennsylvania](https://www.semafor.com/article/10/17/2022/donald-trumps-plan-to-kill-mail-ballots-in-pennsylvania). A biased quote from the author reads, “Trump’s involvement in the new attack on Pennsylvania’s mail-in voting law puts pressure on the state’s divided Republicans to pick a side.” However, due to their Semaform style, a counterpoint is given to balance the author’s point of view. Generally, the news is factual and well-sourced, while viewpoints tend to favor the left slightly. However, we will initially rate them as least biased based on offering counterpoints to their liberal-leaning perspectives. As the site matures and produces more content, we will re-evaluate and makes changes accordingly.
+Failed Fact Checks
+- None in the Last 5 years

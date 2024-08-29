@@ -1,0 +1,22 @@
+KSUT leads KSUT - NPR - Ignacio	entailment
+KSUT Public Radio owns KSUT - NPR - Ignacio	entailment
+KSUT bought KSUT - NPR - Ignacio	contradiction
+KSUT acquired KSUT - NPR - Ignacio	contradiction
+KSUT - NPR - Ignacio is funded through institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+The remit of KSUT - NPR - Ignacio is to  provide news and radio programming information.	entailment
+The mission of KSUT - NPR - Ignacio is to  serve the surrounding area.	entailment
+KSUT - NPR - Ignacio tends to the left	entailment
+Other sources have commented on KSUT - NPR - Ignacio, stating that it tends to be Left-Center Biased	entailment
+The factuality of KSUT - NPR - Ignacio is reported to be High	entailment
+The factuality of KSUT - NPR - Ignacio is reported to be High, according to D. Van Zandt 11/02/2023	entailment
+KSUT - NPR - Ignacio failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+KSUT - NPR - Ignacio relies on advertising for revenue	contradiction
+KSUT - NPR - Ignacio relies on subscriptions for revenue	contradiction
+KSUT - NPR - Ignacio relies on donations for revenue	entailment
+KSUT - NPR - Ignacio has received donations from individual contributions.	entailment
+When aggregating stories, KSUT - NPR - Ignacio relies on information from **NPR, American Public Media, and the Corporation for Public Broadcasting**	entailment
+KSUT - NPR - Ignacio has endorsed Left-Center Biased	entailment
+KSUT - NPR - Ignacio has an editorial bias towards **Left-Center Biased**	entailment
+KSUT - NPR - Ignacio's headquarter is located in Ignacio	entailment
+KSUT - NPR - Ignacio is funded by the federal government	contradiction
+The text mention KSUT - NPR - Ignacio is a radio station.	entailment

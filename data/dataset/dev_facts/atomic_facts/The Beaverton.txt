@@ -1,0 +1,21 @@
+Luke Gordon Field leads The Beaverton	entailment
+Comedy bought The Beaverton	entailment
+The Beaverton is funded through advertising	entailment
+The remit of The Beaverton is to **offer devastating insight and biting commentary on Canadian life, politics, and the world around us**.	contradiction
+The mission of The Beaverton is to provide devastating insight and biting commentary on Canadian life, politics, and the world around us.	contradiction
+The Beaverton tends to the satire	entailment
+Other sources have commented on The Beaverton, stating that it tends to be **a satire source**.	entailment
+The factuality of The Beaverton is reported to be **a satire source**	entailment
+The factuality of The Beaverton is reported to be **satire source** according to **mediabiasfactcheck.com**	entailment
+The Beaverton failed a fact-check for an article titled **"Thank god for service workers" says man who will oppose minimum wage hike in 9 months**	contradiction
+The Beaverton printed a retraction after failing a fact-check for an article titled "Thank god for service workers" says man who will oppose minimum wage hike in 9 months.	contradiction
+The Beaverton chose not to cover  Canadian life, politics, and the world around us.	contradiction
+The Beaverton provides original content written by staff journalists	contradiction
+The Beaverton relies on advertising for revenue	entailment
+The Beaverton relies on subscriptions for revenue	contradiction
+The Beaverton relies on donations for revenue	contradiction
+The Beaverton has endorsed satire	entailment
+The Beaverton has an editorial bias towards \[satire\]	entailment
+Luke Gordon Field is the editor of The Beaverton	entailment
+The Beaverton printed a factually misleading titled **article**	contradiction
+The Beaverton had to apologize for being a satire source.	contradiction

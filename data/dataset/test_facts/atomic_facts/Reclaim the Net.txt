@@ -1,0 +1,16 @@
+Reclaim the Net is funded through donations and merch sales	entailment
+The remit of Reclaim the Net is to cover topics related to free speech, censorship, and online privacy.	entailment
+The usual audience of Reclaim the Net is **individuals with a right-leaning bias**.	entailment
+Reclaim the Net tends to the right	entailment
+Other sources have commented on Reclaim the Net, stating that it tends to be **right-biased**.	entailment
+The factuality of Reclaim the Net is reported to be Mixed	entailment
+The factuality of Reclaim the Net is reported to be **Mixed** according to **Media Bias/Fact Check**.	entailment
+Reclaim the Net chose not to cover the United Nations plotting a “Code Of Conduct” to introduce increased censorship for online platforms to combat misinformation.	contradiction
+Reclaim the Net relies on donations for revenue	entailment
+Reclaim the Net has received donations from **merch sales**	entailment
+Reclaim the Net has endorsed **conservative editorial bias**	entailment
+Reclaim the Net has an editorial bias towards **the right**	entailment
+Reclaim the Net printed a biased article titled "Another Soros-Funded Group Pushes For Social Media Platforms To Censor Election ‘Disinformation'”	entailment
+Reclaim the Net is a website	entailment
+Reclaim the Net uses an internal fact-checking process	entailment
+Reclaim the Net covers the following topics: free speech, censorship, and online privacy.	entailment

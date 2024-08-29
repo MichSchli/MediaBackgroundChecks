@@ -1,0 +1,24 @@
+Gannett owns Bloomington Herald-Times	entailment
+Gannett is the owner of Bloomington Herald-Times	entailment
+Gannett bought Bloomington Herald-Times	entailment
+Gannett acquired Bloomington Herald-Times	entailment
+Bloomington Herald-Times is funded through advertising and paid subscriptions	entailment
+The remit of Bloomington Herald-Times is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Bloomington Herald-Times is to serve Bloomington, Indiana, and the surrounding area.	entailment
+The usual audience of Bloomington Herald-Times is left-tilting.	entailment
+Bloomington Herald-Times tends to the Left-Center Bias	entailment
+Other sources have commented on Bloomington Herald-Times, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of Bloomington Herald-Times is reported to be High	entailment
+The factuality of Bloomington Herald-Times is reported to be High, according to D. Van Zandt	entailment
+Bloomington Herald-Times failed a fact-check for an article titled  "40-foot-tall ‘gateway’ tower to be built in Bloomington park"	contradiction
+Bloomington Herald-Times printed a retraction after failing a fact-check for an article titled 40-foot-tall ‘gateway’ tower to be built in Bloomington park.	contradiction
+The Bloomington Herald-Times chose not to cover Presidential endorsements	entailment
+Bloomington Herald-Times relies on advertising for revenue	entailment
+Bloomington Herald-Times relies on subscriptions for revenue	entailment
+When aggregating stories, Bloomington Herald-Times relies on information from **other Gannett publications and the Associated Press**.	entailment
+Bloomington Herald-Times has an editorial bias towards Left-Center Biased	entailment
+Bloomington Herald-Times printed a biased article titled "Column: Jack Smith’s prosecution of Trump will save our democracy"	entailment
+Bloomington Herald-Times had to apologize for **None in the Last 5 years**	entailment
+The Bloomington Herald-Times is funded by the USA government.	contradiction
+Bloomington Herald-Times is a newspaper	entailment
+"Bloomington Herald-Times covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion."	entailment

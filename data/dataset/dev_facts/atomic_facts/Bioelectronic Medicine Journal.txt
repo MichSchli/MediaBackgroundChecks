@@ -1,0 +1,15 @@
+BioMed Central owns Bioelectronic Medicine Journal.	entailment
+The remit of Bioelectronic Medicine Journal is to **provide a necessary and specific publication platform for the growing field of Bioelectronic Medicine**	entailment
+The mission of Bioelectronic Medicine Journal is to **provide a necessary and specific publication platform for the growing field of Bioelectronic Medicine**	entailment
+Bioelectronic Medicine Journal tends to the **field**	entailment
+Bioelectronic Medicine Journal tends to the **field of Bioelectronic Medicine** according to **its about page**	entailment
+Other sources have commented on Bioelectronic Medicine Journal, stating that it tends to be **Pro-Science**.	entailment
+The factuality of Bioelectronic Medicine Journal is reported to be High.	entailment
+The factuality of Bioelectronic Medicine Journal is reported to be High, according to a source criticism exercise.	entailment
+Bioelectronic Medicine Journal failed a fact-check for an article titled "None by Bioelectronic Medicine Journal; however"	contradiction
+Bioelectronic Medicine Journal chose not to cover Alzheimer’s	contradiction
+Bioelectronic Medicine Journal relies on subscriptions for revenue	contradiction
+Bioelectronic Medicine Journal has endorsed Pro-Science	entailment
+Bioelectronic Medicine Journal has an editorial bias towards Pro-Science.	entailment
+Bioelectronic Medicine Journal had to apologize to no one for any specific issue	entailment
+Bioelectronic Medicine Journal paid damages to  after 	entailment

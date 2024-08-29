@@ -1,0 +1,31 @@
+History
+Launched on a limited basis in
+[October 2019](https://www.theverge.com/2020/6/9/21285656/facebook-news-tab-section-launch-us-local-publishers-partnership) and fully to mobile users in June 2020, Facebook News is a news curation/aggregation service provided by Facebook. The company employs a human team and vets sources through the [News Page Index](https://www.facebook.com/business/help/377680816096171?id=644465919618833). They state “The team is transparent about the following guidelines and will make curatorial choices independently, not at the direction of Facebook, publishers, or advertisers,” the [FAQ explains](https://www.facebook.com/news/faq). According to their [homepage](https://www.facebook.com/news) “With original reporting from over 200 outlets across general, topical, and diverse outlets, with thousands of local publishers, Facebook News connects you to more of the news you care about.”
+Facebook was founded in 2006 by
+[Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg), along with fellow Harvard College students and roommates [Eduardo Saverin](https://en.wikipedia.org/wiki/Eduardo_Saverin), [Andrew McCollum](https://en.wikipedia.org/wiki/Andrew_McCollum), [Dustin Moskovitz](https://en.wikipedia.org/wiki/Dustin_Moskovitz), and [Chris Hughes](https://en.wikipedia.org/wiki/Chris_Hughes). [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Facebook News is funded by Facebook, which is in turn funded through advertising.
+Analysis / Bias
+Determining the bias of news curators/aggregators is different than from a single source that produces original content. The wording on Facebook News comes from other sources, so we will not even look at that as a factor. The most logical way to determine the bias of a news curator/aggregator is to look at the sources they use for their news content.
+Facebook News determines the news they feed based on the user’s likes, posting, and engagement history. They also allow you to customize the type of news and sources they feed. For our testing purposes, we created a new Facebook account that did not have any type of engagements. Our reasoning for doing this is to make sure it is not factoring in years of engagements from an active Facebook account. In other words, a more clear look at the default news it feeds.
+Our methodology for the review of Facebook News was conducted in this way: Over two days we reviewed the news sources they used in the categories: Top Stories, Local News (North Carolina), Business, Health, and Science. We did not count sports or entertainment news stories. On day one we reviewed 50 stories and on days two 50 more news stories. We then tabulated the bias of each news story based on MBFC’s rating for that source. We also calculated how many stories came from sources that have failed fact checks (Mixed). The results are as follows:
+|Left
+|22%
+|Left-Center
+|54%
+|Least Biased
+|8%
+|Right-Center
+|11%
+|Right
+|5%
+or
+|Left-Leaning
+|76%
+|Right-Leaning
+|16%
+|Mixed Factual Source
+|8%
+The results conclude that more stories are served from left-leaning sources (76%) than the right (16%). It should be noted that we are not stating Facebook News is willfully biased, we are pointing out that the sources used for this newsfeed have a strong preference for the left according to our ratings. This could be due to how the algorithm works and also that there simply are more mainstream news media that we rate as leaning left. Further, our results may be different than yours as we used a new account. For example, if you frequently share and like liberal or conservative news, it may feed more of those stories.
+Failed Fact Checks
+- Some of the sources used have failed fact checks

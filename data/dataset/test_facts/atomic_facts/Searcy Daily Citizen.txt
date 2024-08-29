@@ -1,0 +1,19 @@
+Paxton Media Group owns Searcy Daily Citizen	entailment
+The Searcy Daily Citizen is funded through advertising and subscriptions	entailment
+The mission of Searcy Daily Citizen is to report local news through the use of journalists with minimal bias.	entailment
+Searcy Daily Citizen tends to the **right-center**	entailment
+Other sources have commented on Searcy Daily Citizen, stating that it tends to be right-center biased.	entailment
+The factuality of Searcy Daily Citizen is reported to be High	entailment
+The factuality of Searcy Daily Citizen is reported to be High, according to Mediabiasfactcheck.	entailment
+Searcy Daily Citizen failed a fact-check for an article titled "Beebe 42-year-old reportedly put knives to wife’s throat, told her calling police ‘would be the last thing she did.’"	contradiction
+The Searcy Daily Citizen chose not to cover **failed fact checks**	entailment
+Searcy Daily Citizen relies on advertising for revenue	entailment
+Searcy Daily Citizen relies on subscriptions for revenue	entailment
+Searcy Daily Citizen relies on donations for revenue	contradiction
+When aggregating stories, Searcy Daily Citizen relies on information from **credible newsagents**	entailment
+The Searcy Daily Citizen has endorsed right-center biased based on editorial positions that slightly favor the right and High for factual reporting due to utilizing credible news sources and a clean fact check record. (M. Huitsing 08/02/2022)	entailment
+Searcy Daily Citizen has an editorial bias towards right-center	entailment
+Searcy Daily Citizen's headquarter is located in Arkansas	entailment
+Searcy Daily Citizen is funded by the private government	contradiction
+Searcy Daily Citizen is a daily newspaper	entailment
+The Searcy Daily Citizen covers the following topics: local news, hometown politics, business news, local events, and sports.	entailment

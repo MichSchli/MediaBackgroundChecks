@@ -1,0 +1,17 @@
+History
+Founded in 2012, Polygon is a website that publishes video game news, pop culture, and reviews from a fan’s perspective. The website does not have an about page; however, they provide a
+[Masthead](https://www.polygon.com/masthead) of staff, indicating that Christopher Plante is the editor-in-chief.
+Polygon is based in the United States. Read our profile on the
+[USA government’s influence on media](https://mediabiasfactcheck.com/united-states-media-profile/).
+Funded by / Ownership
+Polygon is owned by
+[Vox Media,](https://en.wikipedia.org/wiki/Vox_Media) a digital publishing network founded by [Jerome Armstrong](https://en.wikipedia.org/wiki/Jerome_Armstrong), Tyler Bleszinski, and [Markos Moulitsas](https://en.wikipedia.org/wiki/Markos_Moulitsas) and based in Washington, D.C. According to a [Nieman Labs ](http://www.niemanlab.org/2016/01/built-on-passion-how-vox-media-grew-from-its-roots-as-an-oakland-as-blog-into-one-of-the-internets-biggest-publishers/)article, Vox Media has eight editorial brands and a custom advertising division. These are (sports-focused) SB Nation, (tech site) [The Verge](https://mediabiasfactcheck.com/the-verge/), (real estate blog) Curbed, (food and nightlife) Eater, (technology news) Racked, (news hub) [Vox](https://mediabiasfactcheck.com/vox/), and (technology business) [Recode](https://mediabiasfactcheck.com/recode/).
+Further, a New York Times
+[article](https://www.nytimes.com/2015/08/13/business/media/nbcuniversal-invests-200-million-in-vox-media.html) dated 2015 states that NBC Universal, which Comcast owns, invested $200 Million in Vox Media. Revenue for Polygon is generated through advertising.
+Analysis / Bias
+In review, Polygon primarily reports on video game news and reviews. Headlines always reflect the content and use minimally loaded wording such as this:
+[The man who made Wolfenstein](https://www.polygon.com/features/2019/12/24/21029936/castle-wolfenstein-silas-warner) and other stories consist of best-of lists, [The best Xbox One games](https://www.polygon.com/xbox-one/2018/10/5/17548210/best-xbox-one-games).
+When determining bias on non-political websites, we use the search bar to look at names and specific issues to see if or how they reported on them. For example, a search for “Trump” pulls up an opinion piece that is negative towards former President Trump’s tariffs.
+[Trump’s tariffs could ruin the American board game industry](https://www.polygon.com/2019/6/5/18652411/trump-china-tariff-board-games). A search for “ [climate change](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/)” reveals this [PlayStation 5 will consume less power in effort to combat climate change](https://www.polygon.com/2019/9/23/20880051/ps5-low-power-suspend-mode-climate-change). A search for “ [Net Neutrality”](https://www.polygon.com/search?q=net+neutrality) reveals support, and finally, a search for “impeachment” demonstrates they have not reported on it. In general, when Polygon covers politics, it is in the context of their genre; however, story selection slightly favors the left.
+Failed Fact Checks
+- None in the Last 5 years

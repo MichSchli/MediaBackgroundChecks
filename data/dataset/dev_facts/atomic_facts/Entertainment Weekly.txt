@@ -1,0 +1,25 @@
+Time Inc founded Entertainment Weekly	entailment
+Henry Goldblatt is the founder of Entertainment Weekly	contradiction
+Henry Goldblatt leads Entertainment Weekly.	entailment
+Meredith Corp. owns Entertainment Weekly	entailment
+Meredith Corp. is the owner of Entertainment Weekly	entailment
+Meredith Corp. bought Entertainment Weekly	entailment
+Meredith Corp. acquired Entertainment Weekly	entailment
+Entertainment Weekly is funded through **advertising**	entailment
+The remit of Entertainment Weekly is to cover movies, television, books, music, and celebrity news.	entailment
+The mission of Entertainment Weekly is to cover movies, television, books, music, and celebrity news.	entailment
+The usual audience of Entertainment Weekly is **people interested in popular culture and entertainment**	entailment
+Entertainment Weekly tends to the Left-Center	entailment
+Entertainment Weekly tends to the Left-Center biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on Entertainment Weekly, stating that it tends to be Left-Center biased.	entailment
+The factuality of Entertainment Weekly is reported to be High	entailment
+The factuality of Entertainment Weekly is reported to be High, according to D. Van Zandt	entailment
+Entertainment Weekly failed a fact-check for an article titled "Trevor Noah and Jimmy Fallon perform dueling impressions of Trump smoking weed".	contradiction
+Entertainment Weekly chose not to cover politics	contradiction
+Entertainment Weekly relies on advertising for revenue	entailment
+Entertainment Weekly relies on donations for revenue	contradiction
+When aggregating stories, Entertainment Weekly relies on information from **credible sources**	entailment
+Entertainment Weekly has endorsed **Left-Center**	entailment
+Entertainment Weekly has an editorial bias towards **left-leaning politicians**	entailment
+Henry Goldblatt is the editor of Entertainment Weekly	entailment
+Entertainment Weekly printed a biased article titled "A thorough review of political content demonstrates a more negative tone toward the right-leaning politicians."	entailment

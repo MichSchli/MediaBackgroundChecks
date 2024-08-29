@@ -1,0 +1,18 @@
+The owner of Virginia Star is Star News Digital Media, Inc.	entailment
+The Virginia Star bought Virginia Star	contradiction
+Virginia Star is funded through advertising	entailment
+The remit of Virginia Star is to  provide news, politics, and policy coverage at the state level, primarily from Virginia.	entailment
+The mission of Virginia Star is to  provide news, politics, and policy coverage at the state and national level, with a right-leaning bias.	entailment
+The usual audience of Virginia Star is **conservative readers**.	entailment
+The Virginia Star tends to the right	entailment
+Other sources have commented on Virginia Star, stating that it tends to be right-leaning.	entailment
+The factuality of Virginia Star is reported to be Mixed	entailment
+The factuality of Virginia Star is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Virginia Star relies on advertising for revenue	entailment
+Virginia Star relies on subscriptions for revenue	contradiction
+Virginia Star relies on donations for revenue	contradiction
+Virginia Star has endorsed political activism.	entailment
+Virginia Star has an editorial bias towards right-leaning.	entailment
+Virginia Star is funded by the Delaware government	contradiction
+Virginia Star is a news and opinion website	entailment
+Virginia Star covers the following topics: news, politics, policy, national stories, thoughtful commentary.	entailment

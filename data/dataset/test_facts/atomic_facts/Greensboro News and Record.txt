@@ -1,0 +1,24 @@
+Lee Enterprises owns Greensboro News and Record	entailment
+Lee Enterprises bought Greensboro News and Record	entailment
+Lee Enterprises acquired Greensboro News and Record	entailment
+Greensboro News and Record is funded through **Advertising and subscription fees**	entailment
+The remit of Greensboro News and Record is to report news factually with a slightly left-leaning bias editorially.	entailment
+The mission of Greensboro News and Record is to **report news factually with a slightly left-leaning bias editorially**.	entailment
+The usual audience of Greensboro News and Record is **local**.	entailment
+Greensboro News and Record tends to the Left-Center	entailment
+Other sources have commented on Greensboro News and Record, stating that it tends to be left-center biased.	entailment
+The factuality of Greensboro News and Record is reported to be High	entailment
+The factuality of Greensboro News and Record is reported to be High, according to Mediabiasfactcheck.	entailment
+Greensboro News and Record failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Greensboro News and Record printed a retraction after failing a fact-check for an article titled Man wanted in Nov. 11 robbery, vehicle chase in High Point arrested in Wilmington, police say	contradiction
+Greensboro News and Record chose not to cover Democratic presidential candidates	entailment
+Greensboro News and Record provides original content written by staff journalists	entailment
+Greensboro News and Record relies on advertising for revenue	entailment
+Greensboro News and Record relies on subscriptions for revenue	entailment
+Greensboro News and Record relies on donations for revenue	contradiction
+When aggregating stories, Greensboro News and Record relies on information from the [Washington Post](https://mediabiasfactcheck.com/washington-post), [Associated Press](https://mediabiasfactcheck.com/associated-press), and other wire services.	entailment
+Greensboro News and Record has endorsed Democratic presidential candidates	entailment
+Greensboro News and Record has an editorial bias towards **the left**.	entailment
+Greensboro News and Record printed a biased article titled  Left-Center biased based on editorial positions that slightly favor the left.	entailment
+Greensboro News and Record's headquarter is located in Greensboro	entailment
+Greensboro News and Record is a Left-Center biased	entailment

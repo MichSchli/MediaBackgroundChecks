@@ -1,0 +1,20 @@
+The E. W. Scripps Company owns WTMJ - Milwaukee News	entailment
+The E. W. Scripps Company is the owner of WTMJ - Milwaukee News	entailment
+WTMJ acquired WTMJ - Milwaukee News	entailment
+WTMJ - Milwaukee News is funded through **advertising**	entailment
+The remit of WTMJ - Milwaukee News is to cover local news, sports, weather, entertainment, and crime for the greater Milwaukee, Wisconsin area.	entailment
+The mission of WTMJ - Milwaukee News is to **cover local news, sports, weather, entertainment, and crime for the greater Milwaukee, Wisconsin area**.	entailment
+The usual audience of WTMJ - Milwaukee News is **the greater Milwaukee, Wisconsin area**.	entailment
+WTMJ - Milwaukee News tends to the least biased	entailment
+WTMJ - Milwaukee News tends to the least biased reporting according to Mediabiasfactcheck	entailment
+Other sources have commented on WTMJ - Milwaukee News, stating that it tends to be Least Biased	entailment
+The factuality of WTMJ - Milwaukee News is reported to be High	entailment
+The factuality of WTMJ - Milwaukee News is reported to be high, according to a review by Mediabiasfactcheck.	entailment
+WTMJ - Milwaukee News failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+WTMJ - Milwaukee News chose not to cover op-eds	entailment
+WTMJ - Milwaukee News relies on advertising for revenue	entailment
+WTMJ - Milwaukee News relies on subscriptions for revenue	contradiction
+WTMJ - Milwaukee News relies on donations for revenue	contradiction
+When aggregating stories, WTMJ - Milwaukee News relies on information from **the Associated Press and Scripps National**	entailment
+WTMJ - Milwaukee News has an editorial bias towards Least Biased	entailment
+WTMJ - Milwaukee News had to apologize for None in the Last 5 years	entailment

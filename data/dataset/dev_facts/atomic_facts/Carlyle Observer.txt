@@ -1,0 +1,20 @@
+Glacier Media Group owns Carlyle Observer	entailment
+Glacier Media Group bought Carlyle Observer	entailment
+Carlyle Observer is funded through advertising and subscriptions	entailment
+The remit of Carlyle Observer is to **publish sports, weather, national, world, and local news for the greater Carlyle, Saskatchewan region**	entailment
+The mission of Carlyle Observer is to report sports, weather, national, world, and local news for the greater Carlyle, Saskatchewan region.	entailment
+Carlyle Observer tends to the left	entailment
+Carlyle Observer tends to the left-center biased according to D. Van Zandt 03/10/2023	entailment
+Other sources have commented on Carlyle Observer, stating that it tends to be Left-Center Biased	entailment
+The factuality of Carlyle Observer is reported to be High	entailment
+The factuality of Carlyle Observer is reported to be High, according to 	entailment
+Carlyle Observer failed a fact-check for an article titled "Holidays don’t have to hurt the environment"	contradiction
+Carlyle Observer printed a retraction after failing a fact-check for an article titled "Holidays don't have to hurt the environment"	contradiction
+Carlyle Observer chose not to cover **any failed fact checks**	entailment
+Carlyle Observer relies on advertising for revenue	entailment
+Carlyle Observer relies on subscriptions for revenue	entailment
+Carlyle Observer relies on donations for revenue	contradiction
+When aggregating stories, Carlyle Observer relies on information from **Canadian Press**	entailment
+Carlyle Observer has endorsed a moderately liberal perspective	entailment
+Carlyle Observer has an editorial bias towards **the left**	entailment
+Carlyle Observer printed a biased article titled "Column: Holidays don’t have to hurt the environment".	entailment

@@ -1,0 +1,20 @@
+Transparency leads Americans Are Pissed	contradiction
+Americans Are Pissed	contradiction
+The remit of Americans Are Pissed is to  publish hyper-partisan conservative and pro-Trump news.	entailment
+The mission of Americans Are Pissed is to  promote propaganda.	entailment
+The usual audience of Americans Are Pissed is **conservative and pro-Trump individuals**	entailment
+Americans Are Pissed tends to the extreme right wing bias	entailment
+Americans Are Pissed tends to the extreme right wing bias according to Media Bias/Fact Check.	entailment
+Other sources have commented on Americans Are Pissed, stating that it tends to be **Questionable**	entailment
+The factuality of Americans Are Pissed is reported to be Questionable	entailment
+The factuality of Americans Are Pissed is reported to be *Questionable*, according to *D. Van Zandt*.	entailment
+Americans Are Pissed printed a retraction after failing a fact-check for an article titled **DISGRACED NFL rejects veterans group’s Super Bowl ad urging people to stand for the anthem**	contradiction
+Americans Are Pissed chose not to cover fact-checks	entailment
+Americans Are Pissed provides original content written by staff journalists	contradiction
+Americans Are Pissed relies on advertising for revenue	contradiction
+When aggregating stories, Americans Are Pissed relies on information from **mainstream sources**	contradiction
+Americans Are Pissed has endorsed extreme right wing bias	entailment
+Americans Are Pissed has an editorial bias towards extreme right wing bias.	entailment
+Americans Are Pissed printed a biased article titled [Michael Moore slams ‘disgusting’ DNC for clearing path for Bloomberg: ‘Because he is a billionaire'](https://www.americansarepissed.com/post/michael-moore-slams-disgusting-dnc-for-clearing-path-for-bloomberg-because-he-is-a-billionaire).	entailment
+Americans Are Pissed printed a factually misleading titled **DISGRACED NFL rejects veterans group’s Super Bowl ad urging people to stand for the anthem**.	entailment
+Americans Are Pissed paid damages to Fox News after blatant plagiarism.	entailment

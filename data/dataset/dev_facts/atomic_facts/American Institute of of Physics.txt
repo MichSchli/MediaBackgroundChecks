@@ -1,0 +1,22 @@
+AIP Foundation owns American Institute of of Physics	entailment
+AIP Foundation is the owner of American Institute of of Physics.	entailment
+American Institute of of Physics is funded through donations and membership fees.	entailment
+The remit of American Institute of Physics is to  promote science, the profession of physics, publish physics journals, and produce publications for scientific and engineering societies.	entailment
+The mission of American Institute of of Physics is to promote.	entailment
+American Institute of of Physics tends to the publishes physics journals.	entailment
+Other sources have commented on American Institute of of Physics, stating that it tends to be **a low-biased pro-science source**	entailment
+The factuality of American Institute of of Physics is reported to be credible	entailment
+The factuality of American Institute of of Physics is reported to be credible, according to D. Van Zandt.	entailment
+American Institute of of Physics failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+American Institute of of Physics printed a retraction after failing a fact-check for an article titled  "None in the Last 5 years".	contradiction
+The American Institute of of Physics chose not to cover *political issues*.	entailment
+American Institute of of Physics relies on advertising for revenue	contradiction
+American Institute of of Physics relies on subscriptions for revenue	contradiction
+American Institute of of Physics relies on donations for revenue	entailment
+American Institute of of Physics has received donations from AIP Foundation	entailment
+When aggregating stories, American Institute of of Physics relies on information from **its programs and resources, publications, and career resources.**	entailment
+American Institute of of Physics has an editorial bias towards pro-science.	entailment
+American Institute of of Physics printed a biased article titled "None in the Last 5 years"	contradiction
+American Institute of of Physics printed a factually misleading titled "Failed Fact Checks."	contradiction
+The American Institute of of Physics had to apologize for **None**	entailment
+American Institute of of Physics had to apologize to  for 	entailment

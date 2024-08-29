@@ -1,0 +1,17 @@
+Raul Curmina founded Yucatan Times	entailment
+Yucatan Times is funded through advertising	entailment
+The remit of Yucatan Times is to cover local, cultural, social, and political news for the Yucatan region.	entailment
+The mission of Yucatan Times is to cover local, cultural, social, and political news for the Yucatan region.	contradiction
+The usual audience of Yucatan Times is English-speaking community in the Yucatan Peninsula, the rest of Mexico, and English speakers worldwide interested in the Yucatan region.	entailment
+Yucatan Times tends to the right-center	entailment
+Yucatan Times tends to the right-center according to Media Bias Fact Check.	entailment
+Other sources have commented on Yucatan Times, stating that it tends to be right-center biased.	entailment
+The factuality of Yucatan Times is reported to be Mixed	entailment
+The factuality of Yucatan Times is reported to be Mixed, according to MediaBiasFactCheck.com.	entailment
+Yucatan Times chose not to cover **failed fact checks**	entailment
+Yucatan Times relies on advertising for revenue	entailment
+Yucatan Times relies on subscriptions for revenue	entailment
+Yucatan Times relies on donations for revenue	contradiction
+Yucatan Times has endorsed right-center biased editorial positions	entailment
+Yucatan Times has an editorial bias towards right-center	entailment
+Yucatan Times printed a biased article titled "AMLO criticizes Peru’s democracy but praises Cuba’s dictatorship (Opinion)".	entailment

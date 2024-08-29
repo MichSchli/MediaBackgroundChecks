@@ -1,0 +1,19 @@
+Crain’s Communications owns Crains Detroit	entailment
+Crain´s Communications bought Crains Detroit.	entailment
+Crains Detroit is funded through advertising, subscription fees, and businesses’ digital marketing	entailment
+The mission of Crains Detroit is to report on business, covering politics, energy, health care, retail, and other sectors.	entailment
+Crains Detroit tends to the Least Biased.	entailment
+Other sources have commented on Crains Detroit, stating that it tends to be **least biased**	entailment
+The factuality of Crains Detroit is reported to be High	entailment
+The factuality of Crains Detroit is reported to be High, according to Mediabiasfactcheck.	entailment
+Crains Detroit failed a fact-check for an article titled None in the Last 5 years	entailment
+Crains Detroit chose not to cover [op-eds](https://www.crainsdetroit.com/).	entailment
+Crains Detroit relies on advertising for revenue	entailment
+Crains Detroit relies on subscriptions for revenue	entailment
+Crains Detroit relies on donations for revenue	contradiction
+When aggregating stories, Crains Detroit relies on information from **credible media outlets**.	entailment
+Crains Detroit has an editorial bias towards least biased	entailment
+Ken Crain is the editor of Crains Detroit	entailment
+Crains Detroit was fined None	entailment
+Crains Detroit printed a factually misleading titled **None**.	entailment
+Crains Detroit had to apologize for **None in the Last 5 years**	entailment

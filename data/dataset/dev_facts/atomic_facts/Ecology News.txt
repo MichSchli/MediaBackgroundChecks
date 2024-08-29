@@ -1,0 +1,20 @@
+Mike Adams is the founder of Ecology News	entailment
+Mike Adams is the CEO of Ecology News	entailment
+Mike Adams is the owner of Ecology News	entailment
+Ecology News is funded through online advertising as well as links to the Natural News Store that sells supplements and alternative health products.	entailment
+The remit of Ecology News is to promote pseudoscience and some conspiracy theories.	entailment
+The mission of Ecology News is to promote pseudoscience and some conspiracy theories.	entailment
+The usual audience of Ecology News is quackery level pseudoscience website that also promotes conspiracy theories from a right-wing perspective.	entailment
+Ecology News tends to the quackery level pseudoscience website and conspiracy theories.	entailment
+Ecology News tends to the right according to factual reporting	entailment
+Other sources have commented on Ecology News, stating that it tends to be unreliable.	entailment
+The factuality of Ecology News is reported to be Very Low	entailment
+The factuality of Ecology News is reported to be Very Low, according to D. Van Zandt 	entailment
+Ecology News failed a fact-check for an article titled "Global warming a total “hoax and scam” run by corrupt scientists, warns Greenpeace co-founder".	entailment
+Ecology News chose not to cover human-influenced climate change denial.	contradiction
+Ecology News relies on advertising for revenue	entailment
+Ecology News relies on subscriptions for revenue	entailment
+When aggregating stories, Ecology News relies on information from News Target	entailment
+Ecology News has an editorial bias towards **right-wing perspective**	entailment
+Ecology News was fined for ads featuring bogus health claims.	entailment
+Ecology News printed a biased article titled "Global warming a total “hoax and scam” run by corrupt scientists, warns Greenpeace co-founder."	entailment

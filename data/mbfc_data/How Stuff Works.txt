@@ -1,0 +1,11 @@
+History
+[Founded in 1998](https://en.wikipedia.org/wiki/HowStuffWorks), HowStuffWorks is an American commercial educational website founded by Marshall Brain to provide its target audience an insight into how many things work. The site uses various media to explain complex concepts, terminology, and mechanisms—including photographs, diagrams, videos, animations, podcasts, and articles. According to their [about page](https://www.howstuffworks.com/about-hsw.htm), they are a “source of unbiased, reliable, easy-to-understand answers and explanations of how the world actually works.” [Read our profile on USA Media and Government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+HowStuffWorks is owned by iHeartMedia (Podcasting) and the website by System 1. Revenue is derived through advertising and sponsored content.
+Analysis / Bias
+In review, HowStuffWorks answers questions such as
+[What’s the Best Way to Stop a Nosebleed?](https://health.howstuffworks.com/human-body/systems/nose-throat/stop-nosebleed.htm) They then use proper sources such as [WebMD](https://mediabiasfactcheck.com/webmd/) and Yale Medicine to answer the question. They also produce listicles, such as this [5 Things You Didn’t Know About Donating Your Brain to Science](https://health.howstuffworks.com/human-body/systems/nervous-system/5-things-didnt-know-about-donating-brain-to-science.htm) and information not related to science such as this [Why Is Populism So Popular Again?](https://people.howstuffworks.com/populism.htm)
+Editorially, they cover politics more from a functional or historical perspective rather than personal; however, some stories may contain some bias, such as this
+[Conspiracy Theories About, Around and From Donald Trump](https://people.howstuffworks.com/donald-trump-conspiracy-podcast.htm). In general, HowStuffWorks is highly factual and displays minimal bias in its reporting.
+Failed Fact Checks
+- None in the Last 5 years

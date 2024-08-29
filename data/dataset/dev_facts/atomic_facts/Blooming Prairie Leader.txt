@@ -1,0 +1,22 @@
+Adams Publishing Group owns Blooming Prairie Leader	entailment
+Stephen Adams is the owner of Blooming Prairie Leader	entailment
+Adams Publishing Group bought Blooming Prairie Leader	entailment
+Blooming Prairie Leader is funded through advertising and subscription fees	entailment
+The remit of Blooming Prairie Leader is to **cover local news through journalists with minimal bias in wording**.	entailment
+The mission of Blooming Prairie Leader is to provide news, sports, crime, and weather coverage.	entailment
+The Blooming Prairie Leader tends to the **Left-Center Biased**.	entailment
+Blooming Prairie Leader tends to the left according to Media Bias/Fact Check.	entailment
+Other sources have commented on Blooming Prairie Leader, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Blooming Prairie Leader is reported to be High	entailment
+The factuality of Blooming Prairie Leader is reported to be High, according to Mediabiasfactcheck.com	entailment
+Blooming Prairie Leader failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Blooming Prairie Leader provides original content written by staff journalists	entailment
+Blooming Prairie Leader relies on advertising for revenue	entailment
+Blooming Prairie Leader relies on subscriptions for revenue	contradiction
+Blooming Prairie Leader relies on donations for revenue	contradiction
+When aggregating stories, Blooming Prairie Leader relies on information from **quotes, interviews, and accounts, while National and world news comes directly from the Associated Press**.	entailment
+Blooming Prairie Leader has an editorial bias towards Left	entailment
+Stephen Adams is the editor of Blooming Prairie Leader	contradiction
+Blooming Prairie Leader printed a biased article titled "District partners with OFD to offer new high school class".	entailment
+Blooming Prairie Leader had to apologize for  providing a clean fact-check record.	contradiction
+Blooming Prairie Leader had to apologize to no one for nothing	entailment

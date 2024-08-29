@@ -1,0 +1,20 @@
+Evan Williams founded Medium	entailment
+Evan Williams is the founder of Medium	entailment
+Medium leads Medium	entailment
+Medium owns Medium	contradiction
+Medium is the owner of Medium	contradiction
+Medium is funded through users’ subscriptions for a monthly or yearly fee of $5 or $50, respectively.	entailment
+The remit of Medium is to **provide a platform for online publishing**	entailment
+The usual audience of Medium is **a wide variety of readers**	entailment
+Medium tends to the left	entailment
+Other sources have commented on Medium, stating that it tends to be Left-Center biased	entailment
+The factuality of Medium is reported to be Mixed	entailment
+The factuality of Medium is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Medium chose not to cover [anti-vaccination and GMO positions, human-influenced climate change denial, geoengineering via chemtrails, and false flag operations](https://mediabiasfactcheck.com/pseudoscience-dictionary-anti-vaccination-anti-vax/).	contradiction
+Medium provides original content written by staff journalists	entailment
+Medium relies on advertising for revenue	contradiction
+Medium relies on subscriptions for revenue	entailment
+Medium relies on donations for revenue	contradiction
+Medium has an editorial bias towards left	entailment
+Medium is funded by the **A Medium Corporation** government	contradiction
+Medium covers the following topics: History, Funding, Analysis/Bias	entailment

@@ -1,0 +1,26 @@
+Elise Andrew founded IFL Science	entailment
+Elise Andrew is the founder of IFL Science.	entailment
+Katy Evans is the CEO of IFL Science	contradiction
+LabX Media Group owns IFL Science	entailment
+LabX Media Group acquired IFL Science	contradiction
+IFL Science is funded through **advertising, sponsored content, and a store that sells science-related merchandise**.	entailment
+The remit of IFL Science is to  present easy-to-understand science stories that are on the lighter side.	entailment
+The mission of IFL Science is to **present easy-to-understand science stories that are on the lighter side**	entailment
+IFL Science tends to the left.	entailment
+Other sources have commented on IFL Science, stating that it tends to be Left-Center biased.	entailment
+The factuality of IFL Science is reported to be High	entailment
+The factuality of IFL Science is reported to be High, according to Mediabiasfactcheck.	entailment
+IFL Science failed a fact-check for an article titled "New Report Warns “High Likelihood Of Human Civilization Coming To An End” Within 30 Years"	entailment
+IFL Science chose not to cover **[Pieces Of A “UFO” Fell From The Sky And Landed In Remote Cambodian Village](https://www.iflscience.com/editors-blog/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village/)**.	entailment
+IFL Science relies on advertising for revenue	entailment
+IFL Science relies on subscriptions for revenue	entailment
+IFL Science relies on donations for revenue	entailment
+When aggregating stories, IFL Science relies on information from **credible science or other popular science sources**.	entailment
+IFL Science has endorsed pro-science and Left-Center biased positions that routinely favor the left.	entailment
+IFL Science has an editorial bias towards Left-Center.	entailment
+Katy Evans is the editor of IFL Science	entailment
+IFL Science printed a biased article titled "Here’s A List Of All The Science That Donald Trump Denies: Second Edition"	entailment
+IFL Science printed a factually misleading titled **"New Report Warns “High Likelihood Of Human Civilization Coming To An End” Within 30 Years"**	entailment
+IFL Science had to apologize for strong political opinions.	contradiction
+IFL Science's headquarter is located in UK.	entailment
+IFL Science is a pro-science	entailment

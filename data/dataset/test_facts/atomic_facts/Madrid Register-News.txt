@@ -1,0 +1,22 @@
+Mid America Publishing leads Madrid Register-News	entailment
+Mid America Publishing owns Madrid Register-News	entailment
+Mid America Publishing is the owner of Madrid Register-News	entailment
+Mid America Publishing bought Madrid Register-News	entailment
+Mid America Publishing acquired Madrid Register-News	entailment
+The Madrid Register-News is funded through **advertising and subscription fees**	entailment
+The remit of Madrid Register-News is to **report on news, sports, weather, crime, and lifestyle for the greater Madrid, Indiana region**.	entailment
+The mission of Madrid Register-News is to **report on news, sports, weather, crime, and lifestyle for the greater Madrid, Indiana region.**	entailment
+Other sources have commented on Madrid Register-News, stating that it tends to be **Least Biased**	entailment
+The factuality of Madrid Register-News is reported to be High	entailment
+The factuality of Madrid Register-News is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+Madrid Register-News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Madrid Register-News chose not to cover national news.	entailment
+Madrid Register-News relies on advertising for revenue	entailment
+Madrid Register-News relies on subscriptions for revenue	entailment
+Madrid Register-News relies on donations for revenue	contradiction
+Madrid Register-News has received donations from advertising and subscription fees	entailment
+Madrid Register-News has endorsed least biased	entailment
+Madrid Register-News has an editorial bias towards the right	entailment
+Madrid Register-News printed a biased article titled "Madrid native honored with foundational sciences award at Des Moines University"	entailment
+The Madrid Register-News had to apologize for [None]	entailment
+Madrid Register-News is a newspaper	entailment

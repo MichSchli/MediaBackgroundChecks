@@ -1,0 +1,20 @@
+The Militant is funded through subscription fees and donations	entailment
+The remit of The Militant is to  publish original news stories related to worker's rights, socialism, communism, and anti-capitalism.	entailment
+The mission of The Militant is to **promote pro-socialist and anti-capitalist perspectives**	entailment
+The Militant tends to the left.	entailment
+The Militant tends to the left according to bias	entailment
+Other sources have commented on The Militant, stating that it tends to be left biased.	entailment
+The factuality of The Militant is reported to be  Left Biased	entailment
+The factuality of The Militant is reported to be Mixed, according to Media Bias Fact Check.	entailment
+The Militant chose not to cover [Failed Fact Checks](https://en.wikipedia.org/wiki/TheMilitant).	entailment
+The Militant relies on subscriptions for revenue	entailment
+The Militant relies on donations for revenue	entailment
+The Militant has received donations from **subscription fees and donations**.	entailment
+When aggregating stories, The Militant relies on information from original news stories.	contradiction
+The Militant has endorsed  the Socialist Workers Party.	entailment
+The Militant has an editorial bias towards **socialist views**	entailment
+John Studer is the editor of The Militant	entailment
+The Militant printed a biased article titled  "Support union battles at Marathon, Amazon!"	entailment
+The Militant printed a factually misleading titled [In first attack of Biden presidency, US airstrikes hit targets in Syria]	entailment
+The Militant had to apologize for [None in the Last 5 years](https://mediabiasfactcheck.com/left/).	entailment
+The Militant paid damages to no one after no failed fact checks	entailment

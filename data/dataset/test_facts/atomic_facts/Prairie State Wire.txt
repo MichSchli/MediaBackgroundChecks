@@ -1,0 +1,22 @@
+Bradley Cameron is the CEO of Prairie State Wire	contradiction
+Metric Media Foundation owns Prairie State Wire	entailment
+Prairie State Wire is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Prairie State Wire is to **disseminate conservative-leaning news and opinion**	entailment
+The mission of Prairie State Wire is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of Prairie State Wire is **conservative-leaning**.	entailment
+Prairie State Wire tends to the right-center, biased, and Questionable	entailment
+Other sources have commented on Prairie State Wire, stating that it tends to be a right-center, biased, and Questionable.	entailment
+The factuality of Prairie State Wire is reported to be Questionable.	entailment
+The factuality of Prairie State Wire is reported to be Questionable, according to D. Van Zandt 09/09/2021.	entailment
+The Prairie State Wire chose not to cover false information.	contradiction
+Prairie State Wire provides original content written by staff journalists	contradiction
+Prairie State Wire relies on advertising for revenue	entailment
+Prairie State Wire relies on donations for revenue	entailment
+Prairie State Wire has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Prairie State Wire relies on information from **algorithmically produced content**.	entailment
+The Prairie State Wire has endorsed Questionable	entailment
+Prairie State Wire has an editorial bias towards [right-center, biased, and Questionable](https://mediabiasfactcheck.com/metric-media/)	entailment
+Prairie State Wire printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information".	entailment
+Prairie State Wire printed a factually misleading titled "imposter site, lacks transparency, and publishes false information."	entailment
+The Prairie State Wire is a **right-center, biased, and Questionable**.	entailment
+Prairie State Wire covers the following topics: **Conservative news and opinion**	entailment

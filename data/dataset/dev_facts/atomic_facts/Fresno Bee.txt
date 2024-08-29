@@ -1,0 +1,22 @@
+David Pecker is the founder of Fresno Bee	contradiction
+Chatham Asset Management owns Fresno Bee	entailment
+Chatham Asset Management bought Fresno Bee	entailment
+Chatham Asset Management acquired Fresno Bee.	entailment
+Fresno Bee is funded through **advertising and subscriptions**	entailment
+The mission of Fresno Bee is to  inform the public.	entailment
+The usual audience of Fresno Bee is Left-Center Biased	entailment
+Fresno Bee tends to the left.	entailment
+Fresno Bee tends to the left according to Mediabiasfactcheck	entailment
+Other sources have commented on Fresno Bee, stating that it tends to be left-leaning.	entailment
+The factuality of Fresno Bee is reported to be High	entailment
+The factuality of Fresno Bee is reported to be high, according to Media Bias Fact Check	entailment
+Fresno Bee printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Fresno Bee chose not to cover failed fact checks	entailment
+Fresno Bee relies on advertising for revenue	entailment
+Fresno Bee relies on subscriptions for revenue	entailment
+Fresno Bee relies on donations for revenue	contradiction
+When aggregating stories, Fresno Bee relies on information from a combination of other Chatham-owned papers and the Associated Press.	entailment
+Fresno Bee has endorsed Democratic Presidential Candidates such as Hillary Clinton in 2016	entailment
+Fresno Bee has an editorial bias towards Left-Center	entailment
+David Pecker is the editor of Fresno Bee	contradiction
+Fresno Bee had to apologize for [none in the Last 5 years](https://www.fresnobee.com/)	entailment

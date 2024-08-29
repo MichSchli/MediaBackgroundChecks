@@ -1,0 +1,21 @@
+D. Van Zandt	entailment
+KSJD owns KSJD - NPR - Cortez	contradiction
+KSJD - NPR - Cortez is the owner of KSJD - NPR - Cortez	contradiction
+KSJD acquired KSJD - NPR - Cortez	contradiction
+KSJD - NPR - Cortez is funded through institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+The remit of KSJD - NPR - Cortez is to **report news and radio programming information**	entailment
+The mission of KSJD - NPR - Cortez is to serve the surrounding area.	entailment
+KSJD - NPR - Cortez tends to the left	entailment
+KSJD - NPR - Cortez tends to the left according to Mediabiasfactcheck.	entailment
+Other sources have commented on KSJD - NPR - Cortez, stating that it tends to be Left-Center Biased	entailment
+The factuality of KSJD - NPR - Cortez is reported to be High	entailment
+The factuality of KSJD - NPR - Cortez is reported to be High, according to D. Van Zandt 10/22/2023	entailment
+KSJD - NPR - Cortez failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+KSJD - NPR - Cortez relies on advertising for revenue	contradiction
+KSJD - NPR - Cortez has received donations from individual contributions	entailment
+When aggregating stories, KSJD - NPR - Cortez relies on information from NPR, American Public Media, and the Corporation for Public Broadcasting.	entailment
+KSJD - NPR - Cortez has endorsed Left-Center Bias	entailment
+KSJD - NPR - Cortez has an editorial bias towards **the left**	entailment
+KSJD - NPR - Cortez was fined None in the Last 5 years	entailment
+KSJD - NPR - Cortez printed a factually misleading titled "Solar development and land use stirs community discussion in Norwood, Colorado".	entailment
+KSJD - NPR - Cortez had to apologize for **none in the Last 5 years**	entailment

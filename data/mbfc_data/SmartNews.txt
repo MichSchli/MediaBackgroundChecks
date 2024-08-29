@@ -1,0 +1,9 @@
+History
+Founded in 2012 and based in Tokyo, Japan, SmartNews is a news curation application for Android and iPhone (IOS). According to their
+[about page](http://about.smartnews.com/en/), the mission of SmartNews is “to discover and deliver quality stories to the world.” They further state, “News should be impartial, trending and trustworthy. Our algorithms evaluate millions of articles, social signals, and human interactions to deliver the top 0.01% of stories that matter most, right now.” [Read our profiles on Japan’s media and government](https://mediabiasfactcheck.com/japan-media-profile/)
+Funded by / Ownership
+SmartNews is funded through in-app advertising and is owned by
+[SmartNews, Inc](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=244609004).
+Analysis / Bias
+In review, SmartNews gathers news from a wide range of sources such as
+[CNN](https://mediabiasfactcheck.com/cnn/) on the left and [Fox News](https://mediabiasfactcheck.com/fox-news/) on the right. They also source content from numerous Left-Center, Right-Center, and Least Biased sources such as [Reuters](https://mediabiasfactcheck.com/reuters/). Therefore, the bias of the individual story a person reads is determined by the source they curate from. Since SmartNews publishes content from both sides, we consider them a least biased source. We do, however, rate them Mixed for factual reporting because some of the sources they curate have Mixed factual ratings themselves. Again, this is due to the individual sources and not SmartNews. This is a handy app for keeping up with a wide variety of news.

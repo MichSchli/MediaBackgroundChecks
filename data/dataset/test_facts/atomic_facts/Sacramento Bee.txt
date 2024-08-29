@@ -1,0 +1,23 @@
+The McClatchy Company owns Sacramento Bee	entailment
+The McClatchy Company is the owner of Sacramento Bee	entailment
+McClatchy bought Sacramento Bee	contradiction
+Sacramento Bee is funded through advertising and subscription fees	entailment
+The remit of Sacramento Bee is to **publish local news through journalists with minimal bias**	entailment
+The Sacramento Bee tends to the Left-Center	entailment
+Other sources have commented on Sacramento Bee, stating that it tends to be Left-Center biased	entailment
+The factuality of Sacramento Bee is reported to be High	entailment
+The factuality of Sacramento Bee is reported to be High, according to Media Bias/Fact Check.	entailment
+Sacramento Bee failed a fact-check for an article titled "Murder, rape, slavery, and genocide. Here’s why California must ditch Columbus Day."	contradiction
+Sacramento Bee provides original content written by staff journalists	entailment
+Sacramento Bee relies on advertising for revenue	entailment
+Sacramento Bee relies on subscriptions for revenue	contradiction
+Sacramento Bee relies on donations for revenue	contradiction
+When aggregating stories, Sacramento Bee relies on information from **journalists**.	entailment
+Sacramento Bee has endorsed Democratic presidential candidates	entailment
+Sacramento Bee has an editorial bias towards **left**	entailment
+Sacramento Bee printed a biased article titled Murder, rape, slavery, and genocide. Here’s why California must ditch Columbus Day.	entailment
+Sacramento Bee had to apologize for **none**	entailment
+Sacramento Bee's headquarter is located in Sacramento	entailment
+Sacramento Bee is funded by the private government	contradiction
+The Sacramento Bee is a **Left-Center biased**	entailment
+Sacramento Bee uses an internal fact-checking process	entailment

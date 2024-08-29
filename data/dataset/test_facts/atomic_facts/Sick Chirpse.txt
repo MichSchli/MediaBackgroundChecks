@@ -1,0 +1,16 @@
+Sick Chirpse is funded through excessive advertising	entailment
+The remit of Sick Chirpse is to **publish shocking or fake news stories**	entailment
+Sick Chirpse tends to the Questionable	entailment
+Other sources have commented on Sick Chirpse, stating that it tends to be Questionable	entailment
+The factuality of Sick Chirpse is reported to be Questionable	entailment
+The factuality of Sick Chirpse is reported to be Questionable, according to D. Van Zandt 12/22/2018.	entailment
+Sick Chirpse failed a fact-check for an article titled Self-Denial	entailment
+Sick Chirpse provides original content written by staff journalists	entailment
+Sick Chirpse relies on advertising for revenue	entailment
+Sick Chirpse relies on donations for revenue	contradiction
+Sick Chirpse has received donations from  excessive advertising.	contradiction
+Sick Chirpse has endorsed fake news	entailment
+Sick Chirpse printed a factually misleading titled "A Man Who Loved Riding On Top Of Passenger Trains Has Been Decapitated By A Bridge."	contradiction
+Sick Chirpse's headquarter is located in UK.	entailment
+Sick Chirpse is a hybrid	entailment
+Sick Chirpse covers the following topics: shock or fake news stories	entailment

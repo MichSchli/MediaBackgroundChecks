@@ -1,0 +1,23 @@
+Who is the CEO of Homeopathy Journal	entailment
+Thieme Medical Publishers owns Homeopathy Journal	entailment
+Thieme Medical Publishers is the owner of Homeopathy Journal	entailment
+Thieme Medical Publishers bought Homeopathy Journal	contradiction
+Homeopathy Journal is funded through Subscription fees.	entailment
+The remit of Homeopathy Journal is to **cover research, reviews, and debates on all aspects of homeopathy**.	entailment
+The mission of Homeopathy Journal is to promote alternative medicine	entailment
+The usual audience of Homeopathy Journal is **those interested in alternative medicine**	entailment
+Homeopathy Journal tends to the promotion of alternative medicine	entailment
+Other sources have commented on Homeopathy Journal, stating that it tends to be **a strong Pseudoscience source**.	entailment
+The factuality of Homeopathy Journal is reported to be strong	contradiction
+The factuality of Homeopathy Journal is reported to be strong, according to promoting alternative medicine.	contradiction
+Homeopathy Journal failed a fact-check for an article titled **A third party has not fact-checked them**	entailment
+Homeopathy Journal relies on advertising for revenue	contradiction
+Homeopathy Journal relies on subscriptions for revenue	entailment
+Homeopathy Journal relies on donations for revenue	contradiction
+When aggregating stories, Homeopathy Journal relies on information from **alternative medicine**.	entailment
+Homeopathy Journal has endorsed alternative medicine	entailment
+Homeopathy Journal has an editorial bias towards alternative medicine	entailment
+Homeopathy Journal is funded by the **German** government	entailment
+Homeopathy Journal is a Pseudoscience	entailment
+Homeopathy Journal uses a peer review process	entailment
+Homeopathy Journal covers the following topics: research, reviews, and debates on all aspects of homeopathy	entailment

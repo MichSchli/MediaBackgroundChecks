@@ -1,0 +1,23 @@
+Alana Newhouse is the CEO of Tablet Magazine	contradiction
+Alana Newhouse leads Tablet Magazine	entailment
+Nextbook owns Tablet Magazine	entailment
+Nextbook is the owner of Tablet Magazine	entailment
+Tablet Magazine is funded through Nonprofit Nextbook,	entailment
+The remit of Tablet Magazine is to **cover topics such as "Jewish news, ideas, and culture"**	entailment
+The mission of Tablet Magazine is to cover topics such as "Jewish news, ideas, and culture" and accepts pieces from freelance writers.	entailment
+Tablet Magazine tends to the  right-center biased based on an editorial bias that moderately favors the pro-Israel nationalist right.	entailment
+Tablet Magazine tends to the right according to their editorial bias.	entailment
+Other sources have commented on Tablet Magazine, stating that it tends to be **right-center biased**	entailment
+The factuality of Tablet Magazine is reported to be Mostly Factual	entailment
+The factuality of Tablet Magazine is reported to be Mostly Factual, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/tablet-magazine/).	entailment
+Tablet Magazine failed a fact-check for an article titled "Invasion of the Fact-Checkers"	contradiction
+Tablet Magazine chose not to cover USA politics.	contradiction
+Tablet Magazine relies on advertising for revenue	contradiction
+Tablet Magazine relies on subscriptions for revenue	entailment
+Tablet Magazine relies on donations for revenue	entailment
+When aggregating stories, Tablet Magazine relies on information from freelance writers.	entailment
+Tablet Magazine has endorsed a right-center biased based on an editorial bias that moderately favors the pro-Israel nationalist right.	entailment
+Tablet Magazine has an editorial bias towards right-leaning perspectives	entailment
+Alana Newhouse is the editor of Tablet Magazine	entailment
+Tablet Magazine was fined 	entailment
+Tablet Magazine printed a biased article titled "The Most Legitimate State on Earth"	entailment

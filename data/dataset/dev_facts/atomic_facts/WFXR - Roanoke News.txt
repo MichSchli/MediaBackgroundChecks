@@ -1,0 +1,20 @@
+Nexstar Media Group owns WFXR - Roanoke News	entailment
+Nexstar Media Group is the owner of WFXR - Roanoke News	entailment
+Nexstar Media Group bought WFXR - Roanoke News	entailment
+Nexstar Media Group acquired WFXR - Roanoke News	entailment
+WFXR - Roanoke News is funded through advertising.	entailment
+The remit of WFXR - Roanoke News is to **publish news**	entailment
+The mission of WFXR - Roanoke News is to  provide news, sports, weather, politics, and crime reporting.	entailment
+The usual audience of WFXR - Roanoke News is **the greater Roanoke, Virginia area**.	entailment
+WFXR - Roanoke News tends to the **right** according to **Media Bias Fact Check**	contradiction
+Other sources have commented on WFXR - Roanoke News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WFXR - Roanoke News is reported to be High	entailment
+The factuality of WFXR - Roanoke News is reported to be high, according to mediabiasfactcheck.com	entailment
+WFXR - Roanoke News failed a fact-check for an article titledNone in the last 5 years.	contradiction
+WFXR - Roanoke News printed a retraction after failing a fact-check for an article titled "Fertilizer plant fire continues to rage; neighbors asked to evacuate due to risk of explosion, North Hills Elementary School closed".	entailment
+WFXR - Roanoke News chose not to cover op-eds.	entailment
+WFXR - Roanoke News relies on advertising for revenue	entailment
+WFXR - Roanoke News relies on donations for revenue	contradiction
+When aggregating stories, WFXR - Roanoke News relies on information from **the Nexstar Media Wire, the Associated Press, and other large credible media outlets**.	entailment
+WFXR - Roanoke News has endorsed least biased based on neutral straight news reporting without offering opinion pieces.	entailment
+WFXR - Roanoke News has an editorial bias towards **Neither side**	entailment

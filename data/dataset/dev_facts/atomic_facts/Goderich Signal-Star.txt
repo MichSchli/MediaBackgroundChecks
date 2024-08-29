@@ -1,0 +1,20 @@
+PostMedia owns Goderich Signal-Star	entailment
+PostMedia is the owner of Goderich Signal-Star.	entailment
+The Goderich Signal-Star is funded through advertising and subscription fees	entailment
+The remit of Goderich Signal-Star is to **report local and regional news through journalists with minimal loaded words**	entailment
+The mission of Goderich Signal-Star is to **report local and regional news**	entailment
+The Goderich Signal-Star tends to the **right-leaning**	entailment
+Goderich Signal-Star tends to the right according to a report in the left-leaning CanadaLand.	entailment
+Other sources have commented on Goderich Signal-Star, stating that it tends to be right-leaning	entailment
+The factuality of Goderich Signal-Star is reported to be High	entailment
+The factuality of Goderich Signal-Star is reported to be High, according to D. Van Zandt 10/11/2023	entailment
+Goderich Signal-Star chose not to cover broadband access expansion throughout Huron County	contradiction
+Goderich Signal-Star provides original content written by staff journalists	entailment
+Goderich Signal-Star relies on advertising for revenue	entailment
+Goderich Signal-Star relies on subscriptions for revenue	entailment
+Goderich Signal-Star relies on donations for revenue	contradiction
+The Goderich Signal-Star has received donations from **advertising and subscription fees**	entailment
+When aggregating stories, Goderich Signal-Star relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/)	entailment
+Goderich Signal-Star has endorsed the conservative right	entailment
+Goderich Signal-Star has an editorial bias towards right-leaning	entailment
+D. Van Zandt is the editor of Goderich Signal-Star	entailment

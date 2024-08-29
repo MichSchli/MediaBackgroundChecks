@@ -1,0 +1,19 @@
+SocialistWorker.org is funded through online advertising.	entailment
+The remit of SocialistWorker.org is to **publish articles and analyses of current events in the world and the USA from a Marxist perspective**.	entailment
+The mission of SocialistWorker.org is to give a voice to those struggling for a better world.	entailment
+The usual audience of SocialistWorker.org is **left-leaning**.	entailment
+SocialistWorker.org tends to the left	entailment
+SocialistWorker.org tends to the left bias according to mediabiasfactcheck.com.	entailment
+Other sources have commented on SocialistWorker.org, stating that it tends to be **left bias**.	entailment
+The factuality of SocialistWorker.org is reported to be High	entailment
+The factuality of SocialistWorker.org is reported to be High, according to Mediabiasfactcheck.com	entailment
+SocialistWorker.org failed a fact-check for an article titled "Who will go bust in the Trumponomics casino?"	contradiction
+SocialistWorker.org relies on advertising for revenue	entailment
+SocialistWorker.org relies on subscriptions for revenue	contradiction
+SocialistWorker.org relies on donations for revenue	contradiction
+SocialistWorker.org has received donations from **online advertising**	entailment
+When aggregating stories, SocialistWorker.org relies on information from credible sources such as 	entailment
+SocialistWorker.org has endorsed a left bias in story selection and economic theory.	entailment
+SocialistWorker.org has an editorial bias towards the left	entailment
+SocialistWorker.org printed a biased article titled "Who will go bust in the Trumponomics casino?"	entailment
+SocialistWorker.org had to apologize to *no one* for *failed fact checks*.	entailment

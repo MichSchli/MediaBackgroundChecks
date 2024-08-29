@@ -1,0 +1,22 @@
+Vladimir Lyubovny founded VladTV	entailment
+Vladimir Lyubovny is the founder of VladTV	entailment
+Vladimir Lyubovny is the CEO of VladTV	entailment
+Vladimir Lyubovny acquired VladTV	contradiction
+VladTV is funded through advertising.	entailment
+The remit of VladTV is to cover hip hops and “urban news.”	entailment
+The mission of VladTV is to cover hip hops and “urban news.”	entailment
+The usual audience of VladTV is Left-Center biased	entailment
+VladTV tends to the **left**	entailment
+Other sources have commented on VladTV, stating that it tends to be Left-Center biased.	entailment
+The factuality of VladTV is reported to be Mixed	entailment
+The factuality of VladTV is reported to be mixed, according to Media Bias/Fact Check.	entailment
+VladTV failed a fact-check for an article titled "Rep. Majorie Taylor Greene: Kwanzaa is a Fake Religion Created by Psychopath".	entailment
+VladTV provides original content written by staff journalists	entailment
+VladTV relies on advertising for revenue	entailment
+VladTV relies on subscriptions for revenue	contradiction
+VladTV relies on donations for revenue	contradiction
+VladTV has an editorial bias towards the left	entailment
+VladTV printed a biased article titled "Rep. Majorie Taylor Greene: Kwanzaa is a Fake Religion Created by Psychopath"	entailment
+VladTV printed a factually misleading titled Left-Center biased based on story selections and the use of sources that favor the left.	entailment
+VladTV is a website	entailment
+VladTV covers the following topics: hip hop artists, DJs, urban music industry, national political news.	entailment

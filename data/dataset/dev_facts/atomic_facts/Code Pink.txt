@@ -1,0 +1,19 @@
+Medea Benjamin founded Code Pink	entailment
+Medea Benjamin is the founder of Code Pink	entailment
+Code Pink owns Code Pink	contradiction
+Code Pink bought Code Pink	entailment
+Code Pink is funded through donations.	entailment
+The remit of Code Pink is to **end U.S.-funded wars and occupations, to challenge militarism globally, and to redirect resources into health care, education, green jobs, and other life-affirming activities**	entailment
+The mission of Code Pink is to end U.S.-funded wars and occupations, to challenge militarism globally, and to redirect our resources into health care, education, green jobs, and other life-affirming activities.	entailment
+The usual audience of Code Pink is **far-left biased**.	entailment
+Other sources have commented on Code Pink, stating that it tends to be **far-left biased**	entailment
+The factuality of Code Pink is reported to be Mixed	entailment
+The factuality of Code Pink is reported to be Mixed, according to mediabiasfactcheck.com.	entailment
+Code Pink chose not to cover Hamas' acts of terror.	entailment
+Code Pink relies on advertising for revenue	contradiction
+Code Pink relies on donations for revenue	entailment
+When aggregating stories, Code Pink relies on information from various sources including Congress.gov, Salon, and NBC News.	entailment
+Code Pink has endorsed far-left progressive policies	entailment
+Code Pink has an editorial bias towards **far-left progressive policies**	entailment
+Code Pink was fined 	entailment
+Code Pink printed a biased article titled "Trump’s Fake Withdrawal From Endless War".	entailment

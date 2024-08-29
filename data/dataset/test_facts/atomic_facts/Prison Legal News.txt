@@ -1,0 +1,22 @@
+Prison Legal News bought Prison Legal News	contradiction
+PLN acquired Prison Legal News	contradiction
+Prison Legal News is funded through subscriptions, advertising revenue, foundation grants, book sales, and individual donations primarily fund the magazine.	entailment
+The remit of Prison Legal News is to provide information on various criminal justice topics, from prison conditions to the death penalty.	entailment
+The mission of Prison Legal News is to  "provide prisoners and other stakeholders with a better understanding of various criminal justice topics."	entailment
+The usual audience of Prison Legal News is  prisoners and other stakeholders.	entailment
+Prison Legal News tends to the left	entailment
+Other sources have commented on Prison Legal News, stating that it tends to be left-center biased.	entailment
+The factuality of Prison Legal News is reported to be High	entailment
+The factuality of Prison Legal News is reported to be High, according to a clean fact-check record.	entailment
+Prison Legal News chose not to cover **failed fact checks**	entailment
+Prison Legal News relies on advertising for revenue	entailment
+Prison Legal News relies on subscriptions for revenue	entailment
+Prison Legal News relies on donations for revenue	entailment
+When aggregating stories, Prison Legal News relies on information from **sources**	entailment
+Prison Legal News has endorsed **policies favored by the left**	entailment
+Prison Legal News has an editorial bias towards **left**	entailment
+Prison Legal News printed a biased article titled "Despite #MeToo, Celebrity Justice Remains Massively Unjust"	entailment
+Prison Legal News had to apologize for **none in the Last 5 years.**	entailment
+Prison Legal News's headquarter is located in Lake Worth, Florida	entailment
+Prison Legal News is funded by the  government	contradiction
+Prison Legal News covers the following topics: criminal justice topics, prison labor, the private prison industry, misconduct by prison and jail staff, prison censorship, and more.	entailment

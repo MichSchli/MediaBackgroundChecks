@@ -1,0 +1,22 @@
+Fox founded KMSP - Fox 9 - Minneapolis	entailment
+Fox leads KMSP - Fox 9 - Minneapolis	entailment
+Fox owns KMSP - Fox 9 - Minneapolis	entailment
+Fox is the owner of KMSP - Fox 9 - Minneapolis	contradiction
+Fox acquired KMSP - Fox 9 - Minneapolis	entailment
+KMSP - Fox 9 - Minneapolis is funded through advertising and sponsored content.	entailment
+The remit of KMSP - Fox 9 - Minneapolis is to report the Minneapolis area’s news, sports, crime, and weather.	entailment
+The mission of KMSP - Fox 9 - Minneapolis is to report the Minneapolis area’s news, sports, crime, and weather.	entailment
+The usual audience of KMSP - Fox 9 - Minneapolis is **the Minneapolis area**.	entailment
+KMSP - Fox 9 - Minneapolis tends to the Least Biased.	entailment
+KMSP - Fox 9 - Minneapolis tends to the **right** according to **Mediabiasfactcheck.com**	contradiction
+Other sources have commented on KMSP - Fox 9 - Minneapolis, stating that it tends to be **Least Biased**	entailment
+The factuality of KMSP - Fox 9 - Minneapolis is reported to be High	entailment
+The factuality of KMSP - Fox 9 - Minneapolis is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+KMSP - Fox 9 - Minneapolis failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+KMSP - Fox 9 - Minneapolis chose not to cover opinion content	entailment
+KMSP - Fox 9 - Minneapolis relies on advertising for revenue	entailment
+KMSP - Fox 9 - Minneapolis relies on subscriptions for revenue	entailment
+When aggregating stories, KMSP - Fox 9 - Minneapolis relies on information from the Associated Press and other Fox properties.	entailment
+KMSP - Fox 9 - Minneapolis has endorsed **no political candidates**	entailment
+KMSP - Fox 9 - Minneapolis has an editorial bias towards **neutrality**	entailment
+KMSP - Fox 9 - Minneapolis was fined None in the Last 5 years	entailment

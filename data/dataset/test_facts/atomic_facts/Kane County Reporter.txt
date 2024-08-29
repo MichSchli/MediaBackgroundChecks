@@ -1,0 +1,21 @@
+Bradley Cameron is the CEO of Kane County Reporter	entailment
+Kane County Reporter leads Kane County Reporter	contradiction
+Kane County Reporter is funded through **advertising and donations to the Metric Media Foundation**	entailment
+The remit of Kane County Reporter is to **spread conservative-leaning news and opinions**	entailment
+The mission of Kane County Reporter is to **serve as a conservative news and opinion website**	entailment
+The usual audience of Kane County Reporter is **right-center, biased, and Questionable**	entailment
+Kane County Reporter tends to the right-center bias	entailment
+Other sources have commented on Kane County Reporter, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Kane County Reporter is reported to be Questionable.	entailment
+The factuality of Kane County Reporter is reported to be Questionable, according to D. Van Zandt 	entailment
+Kane County Reporter relies on advertising for revenue	entailment
+Kane County Reporter relies on subscriptions for revenue	contradiction
+Kane County Reporter relies on donations for revenue	entailment
+When aggregating stories, Kane County Reporter relies on information from **algorithmically produced content**.	entailment
+Kane County Reporter has endorsed right-center, biased, and Questionable.	entailment
+Kane County Reporter has an editorial bias towards **right-center**	entailment
+Kane County Reporter was fined $500000	entailment
+Kane County Reporter had to apologize for **publishing false information**	entailment
+Kane County Reporter is funded by the Metric Media Foundation government	contradiction
+The Kane County Reporter is a **right-center**	contradiction
+Kane County Reporter covers the following topics: conservative-leaning news.	entailment

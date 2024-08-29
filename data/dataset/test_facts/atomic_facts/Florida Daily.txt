@@ -1,0 +1,20 @@
+Ed Dean is the CEO of Florida Daily	entailment
+Ed Dean owns Florida Daily	entailment
+Ed Dean bought Florida Daily	contradiction
+Florida Daily is funded through advertising.	entailment
+The remit of Florida Daily is to  report news with a conservative bias.	entailment
+The mission of Florida Daily is to  report news with a conservative bias.	entailment
+The usual audience of Florida Daily is **conservative**	entailment
+Florida Daily tends to the right	entailment
+Other sources have commented on Florida Daily, stating that it tends to be right-biased.	entailment
+The factuality of Florida Daily is reported to be Mixed	entailment
+The factuality of Florida Daily is reported to be Mixed, according to Media Bias Fact Check.	entailment
+Florida Daily relies on advertising for revenue	entailment
+Florida Daily relies on donations for revenue	contradiction
+When aggregating stories, Florida Daily relies on information from **quotes**	entailment
+Florida Daily has an editorial bias towards **the right**	entailment
+Florida Daily printed a biased article titled  "Democrats Out of Touch on Education, Polls Show."	entailment
+Florida Daily printed a factually misleading titled "Democrats Out of Touch on Education, Polls Show."	entailment
+Florida Daily is funded by the United States government	entailment
+Florida Daily is a conservative website.	entailment
+Florida Daily covers the following topics: Florida news and politics	entailment

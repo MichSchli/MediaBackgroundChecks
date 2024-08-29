@@ -1,0 +1,22 @@
+World Truth TV is funded through advertising and donations	entailment
+The remit of World Truth TV is to **promote crazy conspiracies and ridiculous science**	entailment
+The mission of World Truth TV is to **serve "sacred knowledge"**	entailment
+The usual audience of World Truth TV is **individuals interested in conspiracy theories and pseudoscience**	entailment
+World Truth TV tends to the promotion of crazy conspiracies and ridiculous science.	entailment
+Other sources have commented on World Truth TV, stating that it tends to be ***tin foil hat conspiracy and quackery-level pseudoscience website***.	entailment
+The factuality of World Truth TV is reported to be **LOW**.	entailment
+The factuality of World Truth TV is reported to be **low**, according to **Media Bias Fact Check**.	entailment
+World Truth TV failed a fact-check for an article titled "U.S. citizens who receive government benefits will soon be required to have microchips surgically implanted in them."	entailment
+World Truth TV printed a retraction after failing a fact-check for an article titled **'U.S. citizens who receive government benefits will soon be required to have microchips surgically implanted in them.'**	entailment
+World Truth TV chose not to cover COVID-19 pandemic.	contradiction
+World Truth TV relies on advertising for revenue	entailment
+World Truth TV relies on subscriptions for revenue	contradiction
+World Truth TV relies on donations for revenue	entailment
+World Truth TV has endorsed crazy conspiracies and ridiculous science	entailment
+World Truth TV has an editorial bias towards conspiracy theories and pseudoscience.	entailment
+World Truth TV printed a biased article titled "tin foil hat conspiracy and quackery-level pseudoscience website"	entailment
+World Truth TV printed a factually misleading titled "Cannibals arrested in Florida claim eating human flesh cures diabetes and depression".	entailment
+World Truth TV is funded by the United States government	entailment
+World Truth TV is a **conspiracy and pseudoscience website**	entailment
+World Truth TV uses an internal fact-checking process	contradiction
+World Truth TV covers the following topics: Conspiracy theories, pseudoscience, false information.	entailment

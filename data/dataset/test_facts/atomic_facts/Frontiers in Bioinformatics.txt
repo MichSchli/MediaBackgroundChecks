@@ -1,0 +1,19 @@
+Frontiers Media SA owns Frontiers in Bioinformatics.	entailment
+Frontiers Media SA is the owner of Frontiers in Bioinformatics.	entailment
+Frontiers in Bioinformatics is funded through digital sales of content and author fees for publication.	entailment
+The remit of Frontiers in Bioinformatics is to **publish research on tools and algorithms used in the analysis of biological data**	entailment
+Frontiers in Bioinformatics tends to the  Pro-Science journal.	entailment
+Other sources have commented on Frontiers in Bioinformatics, stating that it tends to be Pro-Science	entailment
+The factuality of Frontiers in Bioinformatics is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Bioinformatics is reported to be Mostly Factual, according to D. Van Zandt 03/18/2023.	entailment
+Frontiers in Bioinformatics failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Frontiers in Bioinformatics relies on subscriptions for revenue	contradiction
+Frontiers in Bioinformatics relies on donations for revenue	contradiction
+When aggregating stories, Frontiers in Bioinformatics relies on information from **research related to bioinformatics**.	entailment
+Frontiers in Bioinformatics has endorsed Pro-Science	entailment
+Frontiers in Bioinformatics has an editorial bias towards Pro-Science.	entailment
+Frontiers in Bioinformatics printed a biased article titled "A Brief History of Visualizing Membrane Systems in Molecular Dynamics Simulations".	entailment
+Frontiers in Bioinformatics had to apologize to no one for nothing.	entailment
+Frontiers in Bioinformatics is a journal	entailment
+Frontiers in Bioinformatics uses a peer review process	entailment
+Frontiers in Bioinformatics covers the following topics: tools and algorithms used in the analysis of biological data.	entailment

@@ -1,0 +1,25 @@
+Mark Bauman is the CEO of Grid News	entailment
+Media Investment Projects OpCo LLC owns Grid News	entailment
+Media Investment Projects OpCo LLC is the owner of Grid News	entailment
+Media Investment Projects OpCo LLC acquired Grid News	entailment
+Grid News is funded through advertising	entailment
+The remit of Grid News is to connect with an audience that wants a deeper, clearer understanding of the world around them, regardless of their political orientation.	entailment
+The mission of Grid News is to  reliably connect with an audience that wants a deeper, clearer understanding of the world around them, regardless of their political orientation.	entailment
+The usual audience of Grid News is **those that want a deeper, clearer understanding of the world around them, regardless of their political orientation**.	entailment
+Grid News tends to the left	entailment
+Other sources have commented on Grid News, stating that it tends to be **Left-Center biased**.	entailment
+The factuality of Grid News is reported to be High	entailment
+The factuality of Grid News is reported to be High, according to [Media Bias/Fact Check](https://www.grid.news/)	entailment
+Grid News failed a fact-check for an article titled **None in the Last 5 years.**	contradiction
+Grid News chose not to cover "political orientation."	contradiction
+Grid News relies on advertising for revenue	entailment
+Grid News relies on subscriptions for revenue	entailment
+Grid News relies on donations for revenue	contradiction
+Grid News has received donations from Abu Dhabi-based International Media Investments and Brian Edelman	entailment
+When aggregating stories, Grid News relies on information from **credible media outlets**	entailment
+Grid News has an editorial bias towards the left	entailment
+Grid News printed a biased article titled **The excruciatingly long, slow 'death' of coal**	entailment
+Grid News had to apologize for **none**	entailment
+Grid News's headquarter is located in Washington DC	entailment
+Grid News is a 	entailment
+"360, Global, Economy, Politics, Climate, Science, Technology, and Misinformation"	entailment

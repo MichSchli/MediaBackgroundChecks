@@ -1,0 +1,26 @@
+Charles Dow founded Wall Street Journal	contradiction
+Hugh Bancroft is the founder of Wall Street Journal	contradiction
+Robert Thomson leads Wall Street Journal	contradiction
+Rupert Murdoch owns Wall Street Journal	entailment
+Rupert Murdoch is the owner of Wall Street Journal	entailment
+Clarence Barron bought Wall Street Journal	entailment
+Rupert Murdoch acquired Wall Street Journal	entailment
+Wall Street Journal is funded through subscriptions and advertising.	entailment
+The mission of Wall Street Journal is to provide the latest news and analysis on finance, investment, and corporate matters.	entailment
+Wall Street Journal tends to the **Right-Center biased**	entailment
+Other sources have commented on Wall Street Journal, stating that it tends to be **Right-Center biased**	entailment
+The factuality of Wall Street Journal is reported to be Mostly Factual	entailment
+The factuality of Wall Street Journal is reported to be Mostly Factual, according to Mediabiasfactcheck	entailment
+Wall Street Journal failed a fact-check for an article titled "China Agrees to Reduce Tariffs on U.S. Autos.".	contradiction
+Wall Street Journal relies on advertising for revenue	entailment
+Wall Street Journal relies on subscriptions for revenue	entailment
+Wall Street Journal relies on donations for revenue	contradiction
+Wall Street Journal has endorsed no political candidates since 1928	entailment
+Wall Street Journal has an editorial bias towards **right-biased**	entailment
+Robert Thomson is the editor of Wall Street Journal	contradiction
+Wall Street Journal was fined **$5 billion**	contradiction
+Wall Street Journal printed a biased article titled  "Wrap It Up, Mr. Mueller Democratic dilemma: Impeach Trump for lying about sex?"	entailment
+Wall Street Journal's headquarter is located in New York City.	entailment
+The Wall Street Journal is funded by the **News Corporation** government	contradiction
+Wall Street Journal is a **right-center**	entailment
+Wall Street Journal covers the following topics: finance, investment, corporate news	entailment

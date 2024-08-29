@@ -1,0 +1,18 @@
+Metric Media Foundation owns South Sacramento Today	entailment
+South Sacramento Today is funded through donations and grants	entailment
+The remit of South Sacramento Today is to look like a local news source	entailment
+The mission of South Sacramento Today is to **look like a local news source**	entailment
+The usual audience of South Sacramento Today is right-center biased.	entailment
+South Sacramento Today tends to the right-center	entailment
+South Sacramento Today tends to the right according to a review by Media Bias/Fact Check.	entailment
+Other sources have commented on South Sacramento Today, stating that it tends to be **right-center biased**.	entailment
+The factuality of South Sacramento Today is reported to be Questionable	entailment
+The factuality of South Sacramento Today is reported to be Questionable, according to mediabiasfactcheck.com.	entailment
+South Sacramento Today chose not to cover *their conservative agenda, nor disclose funding and ownership.*	entailment
+South Sacramento Today relies on advertising for revenue	entailment
+South Sacramento Today relies on donations for revenue	entailment
+When aggregating stories, South Sacramento Today relies on information from **algorithmically produced content**	entailment
+South Sacramento Today has endorsed right-center biased and Questionable based on being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+South Sacramento Today has an editorial bias towards  conservative-leaning news.	entailment
+South Sacramento Today printed a biased article titled South Sacramento Today.	entailment
+South Sacramento Today printed a factually misleading titled "Right-Center Biased and Questionable based on Imposing Imposter Website Appearance and Lack of Transparency"	entailment

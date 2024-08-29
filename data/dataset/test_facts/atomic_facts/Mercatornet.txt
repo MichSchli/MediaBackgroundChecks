@@ -1,0 +1,24 @@
+The New Media Foundation owns Mercatornet	entailment
+The New Media Foundation is the owner of Mercatornet	entailment
+The New Media Foundation bought Mercatornet	contradiction
+New Media Foundation acquired Mercatornet	entailment
+Mercatornet is funded through **donations**	entailment
+The remit of Mercatornet is to "reframe ethical and policy debates regarding human dignity, not dollars and cents or political calculation."	entailment
+The mission of Mercatornet is to reframing ethical and policy debates regarding human dignity, not dollars and cents or political calculation.	entailment
+The usual audience of Mercatornet is **right-wing**	entailment
+Mercatornet tends to the right	entailment
+Other sources have commented on Mercatornet, stating that it tends to be **right biased**.	entailment
+The factuality of Mercatornet is reported to be Mixed	entailment
+The factuality of Mercatornet is reported to be Mixed, according to M. Huitsing 11/21/2017.	entailment
+Mercatornet relies on advertising for revenue	contradiction
+Mercatornet relies on subscriptions for revenue	contradiction
+Mercatornet relies on donations for revenue	entailment
+Mercatornet has received donations from the New Media Foundation	entailment
+When aggregating stories, Mercatornet relies on information from credible and national sources such as The Conversation, The Guardian, Huff Post, National Review, as well as national sources like The West Australian and occasionally questionable sources such as The Daily Mail.	entailment
+Mercatornet has endorsed right-wing political agenda	entailment
+Mercatornet has an editorial bias towards **the right**	entailment
+Michael Cook is the editor of Mercatornet	entailment
+Mercatornet printed a biased article titled "The left is way more dangerous than loony white supremacists".	entailment
+Mercatornet's headquarter is located in Australia	entailment
+Mercatornet is a right-leaning online magazine.	entailment
+Mercatornet covers the following topics: Right-wing political agenda, conservative causes, human dignity, ethics, policy debates	entailment

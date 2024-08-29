@@ -1,0 +1,22 @@
+Leo and Cathie Brunnick founded Patheos	entailment
+Leo and Cathie Brunnick is the founder of Patheos	entailment
+Patheos owns Patheos	contradiction
+Patheos is the owner of Patheos	contradiction
+Leo and Cathie Brunnick bought Patheos	contradiction
+Patheos is funded through online advertising	entailment
+The remit of Patheos is to cover a wide range of topics that represent both the left and right	entailment
+The mission of Patheos is to cover a wide range of topics that represent both the left and right.	entailment
+The usual audience of Patheos is **people interested in various religious and non-religious perspectives**.	entailment
+Other sources have commented on Patheos, stating that it tends to be **difficult to classify by bias**.	entailment
+The factuality of Patheos is reported to be Least Biased.	entailment
+The factuality of Patheos is reported to be Mixed, according to D. Van Zandt 11/18/2016	entailment
+Patheos failed a fact-check for an article titled "Satire Section is Often Fact-Checked as Real".	entailment
+Patheos relies on advertising for revenue	entailment
+Patheos relies on subscriptions for revenue	contradiction
+Patheos relies on donations for revenue	contradiction
+Patheos has received donations from **online advertising**	contradiction
+When aggregating stories, Patheos relies on information from **individual bloggers**	entailment
+Patheos has endorsed **a wide range of topics that represent both the left and right**.	entailment
+Patheos has an editorial bias towards **covering a wide range of topics that represent both the left and right**	entailment
+Patheos is funded by the United States government	entailment
+Patheos is a non-denominational, non-partisan online media company.	entailment

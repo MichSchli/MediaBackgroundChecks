@@ -1,0 +1,23 @@
+Lee Enterprises owns Shenandoah Valley News	entailment
+Lee Enterprises is the owner of Shenandoah Valley News	entailment
+Lee Enterprises bought Shenandoah Valley News	contradiction
+Lee Enterprises acquired Shenandoah Valley News	entailment
+Shenandoah Valley News is funded through advertising and subscription fees	entailment
+The remit of Shenandoah Valley News is to **report on news, sports, entertainment, lifestyle, and opinion for Shenandoah and the surrounding area**.	entailment
+The mission of Shenandoah Valley News is to **cover news, sports, entertainment, lifestyle, and opinion for Shenandoah and the surrounding area.**	entailment
+The usual audience of Shenandoah Valley News is **residents of Shenandoah and the surrounding area**	entailment
+Shenandoah Valley News tends to the Least Biased.	entailment
+Other sources have commented on Shenandoah Valley News, stating that it tends to be **least biased**.	entailment
+The factuality of Shenandoah Valley News is reported to be High	entailment
+The factuality of Shenandoah Valley News is reported to be High, according to D. Van Zandt.	entailment
+Shenandoah Valley News failed a fact-check for an article titled None in the Last 5 years	contradiction
+Shenandoah Valley News chose not to cover Failed Fact Checks	entailment
+Shenandoah Valley News relies on advertising for revenue	entailment
+Shenandoah Valley News relies on subscriptions for revenue	entailment
+Shenandoah Valley News relies on donations for revenue	contradiction
+When aggregating stories, Shenandoah Valley News relies on information from **first-person accounts or through credible media**.	entailment
+Shenandoah Valley News has endorsed least biased rating on the right side of the scale	entailment
+Shenandoah Valley News has an editorial bias towards **slightly favor the right**	entailment
+Shenandoah Valley News's headquarter is located in Shenandoah	entailment
+Shenandoah Valley News is a daily print newspaper	entailment
+The Shenandoah Valley News covers the following topics: news, sports, entertainment, lifestyle, and opinion for Shenandoah and the surrounding area.	entailment

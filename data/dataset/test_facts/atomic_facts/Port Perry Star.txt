@@ -1,0 +1,19 @@
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd.	entailment
+Who acquired Port Perry Star	entailment
+Port Perry Star is funded through advertising.	entailment
+The usual audience of Port Perry Star is Left-Center biased	entailment
+Port Perry Star tends to the Left-Center	entailment
+Other sources have commented on Port Perry Star, stating that it tends to be Left-Center biased.	entailment
+The factuality of Port Perry Star is reported to be High	entailment
+The factuality of Port Perry Star is reported to be High, according to D. Van Zandt	entailment
+Port Perry Star failed a fact-check for an article titled "The Star's editorial board endorses Liberals for 2021 federal election".	contradiction
+Port Perry Star relies on advertising for revenue	entailment
+Port Perry Star relies on subscriptions for revenue	contradiction
+Port Perry Star relies on donations for revenue	contradiction
+Port Perry Star has received donations from **advertising**	contradiction
+When aggregating stories, Port Perry Star relies on information from **the Canadian Press**	entailment
+Port Perry Star has an editorial bias towards Left	entailment
+Port Perry Star printed a factually misleading titled "assault, weapons charges laid after alleged Hwy. 401 road rage assault in Oshawa"	entailment
+Port Perry Star's headquarter is located in Port Perry	entailment
+Port Perry Star is a newspaper	entailment

@@ -1,0 +1,23 @@
+Truth and Action owns Truth and Action	entailment
+Truth and Action LLC is the owner of Truth and Action	entailment
+Truth and Action bought Truth and Action	contradiction
+Truth and Action is funded through advertising	entailment
+The remit of Truth and Action is to **promote extreme right-wing bias in reporting**	entailment
+The usual audience of Truth and Action is **right-wing**	entailment
+Truth and Action tends to the right.	entailment
+Other sources have commented on Truth and Action, stating that it tends to be **Questionable**.	entailment
+The factuality of Truth and Action is reported to be Questionable	entailment
+The factuality of Truth and Action is reported to be **Questionable**, according to **Media Bias/Fact Check**.	entailment
+Truth and Action failed a fact-check for an article titled **'New Video Exposes Potential Fraud Committed by Rep. Ilhan Omar'**.	entailment
+Truth and Action chose not to cover false flags, anti-vaccination propaganda, and debunked conspiracy theories about Fluoride	contradiction
+Truth and Action relies on advertising for revenue	entailment
+Truth and Action relies on donations for revenue	contradiction
+When aggregating stories, Truth and Action relies on information from **other sources**	entailment
+Truth and Action has endorsed **President Donald Trump**	entailment
+Truth and Action has an editorial bias towards extreme right-wing.	entailment
+Truth and Action was fined 	entailment
+Truth and Action printed a biased article titled Ocasio-Cortez: The Electoral College is a ‘Scam’ That Hurts Minorities	entailment
+Truth and Action had to apologize to President Obama for false claims.	entailment
+Truth and Action is funded by the United States government	contradiction
+Truth and Action is a right-wing website.	entailment
+Truth and Action covers the following topics: Prepping, Survival, Gun Rights, Politics, and False Flags	contradiction

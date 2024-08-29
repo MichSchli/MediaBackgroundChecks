@@ -1,0 +1,23 @@
+Denton Media Company owns Denton Record-Chronicle	entailment
+Denton Media Company is the owner of Denton Record-Chronicle	entailment
+The Denton Record-Chronicle is funded through advertising and subscription fees	entailment
+The remit of Denton Record-Chronicle is to **cover local news through journalists with minimal bias, also covering national news from sources like the Associated Press and Texas media**	entailment
+The mission of Denton Record-Chronicle is to  provide accurate and unbiased news reporting.	entailment
+The usual audience of Denton Record-Chronicle is **local residents**	entailment
+Denton Record-Chronicle tends to the **left**	entailment
+Other sources have commented on Denton Record-Chronicle, stating that it tends to be **least biased**	entailment
+The factuality of Denton Record-Chronicle is reported to be High	entailment
+The factuality of Denton Record-Chronicle is reported to be High, according to D. Van Zandt 3/12/2019	entailment
+Denton Record-Chronicle failed a fact-check for an article titled "Texas GOP leadership must root out racial bias and religious bigotry for the party to succeed".	contradiction
+Denton Record-Chronicle chose not to cover failed fact checks	contradiction
+Denton Record-Chronicle relies on advertising for revenue	entailment
+Denton Record-Chronicle relies on subscriptions for revenue	entailment
+Denton Record-Chronicle relies on donations for revenue	contradiction
+When aggregating stories, Denton Record-Chronicle relies on information from **the Associated Press and the Texas Tribune**.	entailment
+Denton Record-Chronicle has endorsed least biased based on accurate straight news reporting and only slightly leftward lean editorially.	entailment
+Denton Record-Chronicle has an editorial bias towards **the left**	entailment
+Denton Record-Chronicle printed a biased article titled "Texas GOP leadership must root out racial bias and religious bigotry for the party to succeed".	entailment
+The Denton Record-Chronicle had to apologize for **none**.	entailment
+The Denton Record-Chronicle is funded by the USA government	contradiction
+The Denton Record-Chronicle is a **Least Biased**	entailment
+Denton Record-Chronicle covers the following topics: local news, national news	entailment

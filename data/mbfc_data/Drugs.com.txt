@@ -1,0 +1,10 @@
+History
+[Founded in 2001](https://en.wikipedia.org/wiki/Drugs.com), Drugs.com is an independent medicine information website available on the Internet. According to their [about page](https://www.drugs.com/support/about.html), “The Drugs.com [Drug Information Database](https://www.drugs.com/drug_information.html) is powered by several independent leading medical-information suppliers, including; [American Society of Health-System Pharmacists](http://www.ashp.org/), [Cerner Multum](https://www.cerner.com/), and [IBM Watson Micromedex](http://truvenhealth.com/Products/Micromedex/Product-Suites/Patient-Connect).” [Read our profile on New Zealand media and government.](https://mediabiasfactcheck.com/new-zealand-media-profile/)
+Funded by / Ownership
+The Drugs.com website is
+[owned](https://www.drugs.com/support/about.html) and operated by the Drugsite Trust. The Drugsite Trust is a privately held Trust administered by two New Zealand Pharmacists. Revenue is derived through advertising.
+Analysis / Bias
+The Drugs.com website offers an A-Z drugs list, a Pill Identifier, Interactions Checker, and News and Alerts. You can also search the database for drug information. For example, if you search for
+[Hydrocodone](https://www.drugs.com/search.php?searchterm=hydrocodone&a=1), it pulls up information on the drug, such as its uses, side effects, interactions, etc. Under News and Alerts, they publish medical-related news such as this [Health Care After COVID: Racial Disparities Laid Bare](https://www.drugs.com/news/health-care-after-covid-racial-disparities-laid-bare-95255.html). News is low-biased and factual. They cite credible sources such as Harvard Health and the [Mayo Clinic](https://mediabiasfactcheck.com/mayo-clinic/). In general, drugs.com is a pro-science resource for learning about pharmaceutical-type drugs.
+Failed Fact Checks
+- None in the Last 5 years

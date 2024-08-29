@@ -1,0 +1,23 @@
+Circle City Broadcasting owns WISH-TV	entailment
+Circle City Broadcasting is the owner of WISH-TV	entailment
+Circle City Broadcasting bought WISH-TV	entailment
+Circle City Broadcasting acquired WISH-TV	entailment
+WISH-TV is funded through  advertising and sponsored content.	entailment
+The remit of WISH-TV is to \ report on local news.	entailment
+The mission of WISH-TV is to **cover local news through reporters with minimal bias in wording**	entailment
+The usual audience of WISH-TV is Left-Center Biased	entailment
+WISH-TV tends to the left-center biased	entailment
+WISH-TV tends to the left-center biased according to using CNN as the primary source for political reporting.	entailment
+Other sources have commented on WISH-TV, stating that it tends to be **left-center biased**	entailment
+The factuality of WISH-TV is reported to be High	entailment
+The factuality of WISH-TV is reported to be High, according to a source review on Media Bias/Fact Check.	entailment
+WISH-TV failed a fact-check for an article titled "Indiana teachers eligible for COVID vaccine, but not through state sites"	contradiction
+WISH-TV chose not to cover op-eds	entailment
+WISH-TV relies on advertising for revenue	entailment
+WISH-TV relies on subscriptions for revenue	contradiction
+WISH-TV relies on donations for revenue	contradiction
+When aggregating stories, WISH-TV relies on information from various sources.	entailment
+WISH-TV has endorsed left-centerbias	entailment
+WISH-TV has an editorial bias towards Left-Center	entailment
+WISH-TV printed a biased article titled left-center biased	entailment
+WISH-TV had to apologize for **None in the Last 5 years.**	entailment

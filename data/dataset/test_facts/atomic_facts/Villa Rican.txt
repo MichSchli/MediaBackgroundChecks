@@ -1,0 +1,22 @@
+Paxton Media Group owns Villa Rican	entailment
+Paxton Media Group is the owner of Villa Rican	entailment
+The Villa Rican is funded through advertising and subscriptions	entailment
+The remit of Villa Rican is to  report.	entailment
+The mission of Villa Rican is to **deliver local news, hometown politics, business news, local events, and sports**.	entailment
+The usual audience of Villa Rican is right-center biased	entailment
+Villa Rican tends to the right-center	entailment
+Other sources have commented on Villa Rican, stating that it tends to be **right-center biased**	entailment
+The factuality of Villa Rican is reported to be High	entailment
+The factuality of Villa Rican is reported to be High, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Villa Rican failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Villa Rican chose not to cover Failed Fact Checks.	entailment
+Villa Rican relies on advertising for revenue	entailment
+Villa Rican relies on subscriptions for revenue	contradiction
+Villa Rican relies on donations for revenue	contradiction
+When aggregating stories, Villa Rican relies on information from the Associated Press.	entailment
+Villa Rican has endorsed right-center biased	entailment
+Villa Rican has an editorial bias towards right.	entailment
+M. Huitsing is the editor of Villa Rican	entailment
+Villa Rican's headquarter is located in Villa Rican	entailment
+The Villa Rican is funded by the **Paxton Media Group** government	contradiction
+Villa Rican is a newspaper	entailment

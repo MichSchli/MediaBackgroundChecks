@@ -1,0 +1,20 @@
+Goldy Kamali founded FedScoop	entailment
+Goldy Kamali is the founder of FedScoop	entailment
+Goldy Kamali leads FedScoop	entailment
+FedScoop is funded through [advertisements](https://scoopnewsgroup.com/oursolutions/)	entailment
+The remit of FedScoop is to deliver breaking government tech news and serve as a hub for the government IT community’s education and collaboration.	entailment
+The mission of FedScoop is to provide accurate and up-to-date information to its readers.	entailment
+The usual audience of FedScoop is **government IT professionals**	entailment
+FedScoop tends to the least biased based on balanced reporting and High for factual reporting.	entailment
+FedScoop tends to the least biased based on balanced reporting according to factual reporting due to proper sourcing and a clean fact-check record	entailment
+Other sources have commented on FedScoop, stating that it tends to be **least biased**	entailment
+The factuality of FedScoop is reported to be High	entailment
+The factuality of FedScoop is reported to be High, according to D. Van Zandt 	entailment
+FedScoop failed a fact-check for an article titled "CIO-SP4 protest dismissed after NIH commits to corrective action."	contradiction
+FedScoop chose not to cover op-eds.	entailment
+FedScoop relies on advertising for revenue	entailment
+FedScoop relies on donations for revenue	contradiction
+When aggregating stories, FedScoop relies on information from **providing accurate and up-to-date information to its readers**.	entailment
+FedScoop has endorsed least biased-based on balanced reporting and High for factual reporting due to proper sourcing and a clean fact-check record - D. Van Zandt 09/21/2023.	entailment
+FedScoop has an editorial bias towards least biased and fact-based reporting.	entailment
+FedScoop printed a biased article titled least biased based on balanced reporting and High for factual reporting due to proper sourcing and a clean fact-check record. (D. Van Zandt 09/21/2023)	contradiction

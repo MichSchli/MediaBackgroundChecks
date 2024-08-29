@@ -1,0 +1,20 @@
+Émilien Amaury founded Le Parisien	entailment
+Bernard Arnault is the founder of Le Parisien	contradiction
+LVMH owns Le Parisien	entailment
+LVMH bought Le Parisien	entailment
+LVMH acquired Le Parisien	entailment
+Le Parisien is funded through advertising, subscriptions, and newsstand sales.	entailment
+The remit of Le Parisien is to **cover international, national, and local news of Paris and its suburbs**.	entailment
+The mission of Le Parisien is to  Inform.	entailment
+Other sources have commented on Le Parisien, stating that it tends to be **Right-Center biased**.	entailment
+The factuality of Le Parisien is reported to be High	entailment
+The factuality of Le Parisien is reported to be High, according to a source criticism conducted on 09/08/2023.	entailment
+Le Parisien failed a fact-check for an article titled "People don’t know the economy well," Bernard Arnault brushes aside criticism of billionaires.	entailment
+Le Parisien provides original content written by staff journalists	entailment
+Le Parisien relies on advertising for revenue	entailment
+Le Parisien relies on subscriptions for revenue	entailment
+Le Parisien relies on donations for revenue	contradiction
+Le Parisien has an editorial bias towards **Right-Center**	entailment
+Le Parisien's headquarter is located in Paris	entailment
+Le Parisien is funded by the **LVMH** government	contradiction
+Le Parisien is a French daily newspaper	entailment

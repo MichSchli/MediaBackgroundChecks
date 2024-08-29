@@ -1,0 +1,19 @@
+Fifth Column News is funded through advertising.	entailment
+The remit of Fifth Column News is to **provide insights that aren’t available on other news outlets**	entailment
+The mission of Fifth Column News is to **provide readers with insights that aren’t available on other news outlets**	entailment
+The usual audience of Fifth Column News is progressive.	entailment
+Fifth Column News tends to the left	entailment
+Fifth Column News tends to the left according to Mediabiasfactcheck.	entailment
+Other sources have commented on Fifth Column News, stating that it tends to be left-biased.	entailment
+The factuality of Fifth Column News is reported to be **Mixed**.	entailment
+The factuality of Fifth Column News is reported to be mixed, according to Media Bias Fact Check.	entailment
+Fifth Column News chose not to cover ownership.	entailment
+Fifth Column News relies on advertising for revenue	entailment
+Fifth Column News relies on subscriptions for revenue	contradiction
+Fifth Column News relies on donations for revenue	contradiction
+When aggregating stories, Fifth Column News relies on information from numerous credible media outlets.	entailment
+The Fifth Column News has endorsed left-leaning politicians	entailment
+Fifth Column News has an editorial bias towards **progressive left**	entailment
+Fifth Column News was fined 	entailment
+Fifth Column News printed a biased article titled World to Refugees: Go to Hell	entailment
+Fifth Column News paid damages to  after 	entailment

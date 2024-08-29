@@ -1,0 +1,20 @@
+Veracruz Daily Cruz founded Veracruz Daily Post	contradiction
+Veracruz Daily Cruz leads Veracruz Daily Post	contradiction
+Veracruz Daily Cruz acquired Veracruz Daily Post	contradiction
+Veracruz Daily Post is funded through advertising	entailment
+The remit of Veracruz Daily Post is to **republish content from the Mexico Daily Post, the MDP Newsroom, or other sources**	entailment
+The mission of Veracruz Daily Post is to  inform English-speaking ex-pats and international readers about Mexican politics, business, culture, sports, and local news related to Veracruz.	entailment
+The usual audience of Veracruz Daily Post is English-speaking ex-pats and international readers.	entailment
+Veracruz Daily Post tends to the left.	entailment
+Other sources have commented on Veracruz Daily Post, stating that it tends to be Left-Center biased.	entailment
+The factuality of Veracruz Daily Post is reported to be questionable	entailment
+The factuality of Veracruz Daily Post is reported to be questionable, according to failed fact checks.	entailment
+Veracruz Daily Post chose not to cover **original content**	entailment
+Veracruz Daily Post provides original content written by staff journalists	contradiction
+Veracruz Daily Post relies on advertising for revenue	entailment
+Veracruz Daily Post relies on donations for revenue	contradiction
+When aggregating stories, Veracruz Daily Post relies on information from the Mexico Daily Post, the MDP Newsroom, or other sources.	entailment
+Veracruz Daily Post has an editorial bias towards Left-Center.	entailment
+Veracruz Daily Post printed a biased article titled Veracruz Daily Cruz.	entailment
+Veracruz Daily Post is a **Left-Center biased and questionable**	entailment
+Veracruz Daily Post covers the following topics: Mexican politics, business, culture, sports, and local news related to Veracruz.	entailment

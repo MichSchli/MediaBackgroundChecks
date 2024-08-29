@@ -1,0 +1,20 @@
+Nexstar Media Group owns KXMA - Dickinson News	entailment
+Nexstar Media Group is the owner of KXMA - Dickinson News	entailment
+KXMA - Dickinson News is funded through advertising	entailment
+The remit of KXMA - Dickinson News is to **publish news for the greater Dickinson, North Dakota, area**	entailment
+The usual audience of KXMA - Dickinson News is the greater Dickinson, North Dakota, area.	entailment
+KXMA - Dickinson News tends to the least biased	entailment
+KXMA - Dickinson News tends to the least biased based on neutral straight news reporting without offering opinion pieces according to Mediabiasfactcheck.com	entailment
+Other sources have commented on KXMA - Dickinson News, stating that it tends to be **Least Biased**	entailment
+The factuality of KXMA - Dickinson News is reported to be High	entailment
+The factuality of KXMA - Dickinson News is reported to be high, according to Media Bias/Fact Check.	entailment
+KXMA - Dickinson News failed a fact-check for an article titled "Bismarck man arrested in Monday morning shooting".	contradiction
+KXMA - Dickinson News printed a retraction after failing a fact-check for an article titled None in the last 5 years.	entailment
+KXMA - Dickinson News chose not to cover op-eds	entailment
+KXMA - Dickinson News provides original content written by staff journalists	entailment
+KXMA - Dickinson News relies on advertising for revenue	entailment
+KXMA - Dickinson News relies on donations for revenue	contradiction
+When aggregating stories, KXMA - Dickinson News relies on information from **the Associated Press**, and other large, credible media outlets.	entailment
+KXMA - Dickinson News has an editorial bias towards Least Biased	entailment
+KXMA - Dickinson News printed a factually misleading titled "Bismarck man arrested in Monday morning shooting".	contradiction
+KXMA - Dickinson News had to apologize for  offering opinion pieces.	contradiction

@@ -1,0 +1,20 @@
+Star News Digital Media, Inc. owns Minnesota Sun	entailment
+Star News Digital Media, Inc. is the owner of Minnesota Sun	entailment
+Star News Digital Media, Inc. bought Minnesota Sun	entailment
+Minnesota Sun is funded through advertising.	entailment
+The remit of Minnesota Sun is to  report news, politics, and policy at the state level, primarily from Minnesota.	entailment
+The mission of Minnesota Sun is to  present news with a conservative bias through story selection that usually favors the right.	entailment
+The usual audience of Minnesota Sun is right-leaning.	entailment
+The Minnesota Sun tends to the right	entailment
+Minnesota Sun tends to the right according to Snopes	entailment
+Other sources have commented on Minnesota Sun, stating that it tends to be right-biased.	entailment
+The factuality of Minnesota Sun is reported to be Mixed	entailment
+The factuality of Minnesota Sun is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Minnesota Sun chose not to cover political news with a  bias.	contradiction
+Minnesota Sun relies on advertising for revenue	entailment
+Minnesota Sun relies on donations for revenue	contradiction
+Minnesota Sun has an editorial bias towards **the right**	entailment
+Minnesota Sun was fined none	entailment
+Minnesota Sun printed a biased article titled  "Biden Flip-Flops on Proposed National Mask Mandate, Says It Would Be Unconstitutional"	entailment
+Minnesota Sun printed a factually misleading titled "Biden Flip-Flops on Proposed National Mask Mandate, Says It Would Be Unconstitutional"	entailment
+Minnesota Sun had to apologize to no one for nothing	entailment

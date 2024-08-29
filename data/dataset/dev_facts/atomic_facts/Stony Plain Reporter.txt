@@ -1,0 +1,19 @@
+PostMedia owns Stony Plain Reporter	entailment
+PostMedia bought Stony Plain Reporter	entailment
+PostMedia acquired Stony Plain Reporter	contradiction
+Stony Plain Reporter is funded through advertising and subscription fees	entailment
+The remit of Stony Plain Reporter is to **report local and regional news through journalists**	entailment
+The Stony Plain Reporter tends to the right	entailment
+Stony Plain Reporter tends to the right-center biased according to mediabiasfactcheck.com	entailment
+Other sources have commented on Stony Plain Reporter, stating that it tends to be **Right-Center Biased**	entailment
+The factuality of Stony Plain Reporter is reported to be High	entailment
+The factuality of Stony Plain Reporter is reported to be high, according to D. Van Zandt 	entailment
+Stony Plain Reporter failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Stony Plain Reporter printed a retraction after failing a fact-check for an article titled Parkland RCMP seize drugs, weapons, fraudulent cards, and stolen IDs	contradiction
+Stony Plain Reporter chose not to cover **left-leaning bias**	entailment
+Stony Plain Reporter relies on advertising for revenue	entailment
+Stony Plain Reporter relies on subscriptions for revenue	contradiction
+Stony Plain Reporter relies on donations for revenue	entailment
+When aggregating stories, Stony Plain Reporter relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/).	entailment
+Stony Plain Reporter has an editorial bias towards conservative right	entailment
+Stony Plain Reporter was fined 	contradiction

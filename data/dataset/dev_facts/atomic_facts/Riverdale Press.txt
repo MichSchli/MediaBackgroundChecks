@@ -1,0 +1,16 @@
+Richner Communications owns Riverdale Press	entailment
+Richner Communications is the owner of Riverdale Press	entailment
+Riverdale Press is funded through advertising and subscription fees.	entailment
+The mission of Riverdale Press is to report news factually with balanced editorial positions.	entailment
+The Riverdale Press tends to the local news	entailment
+Riverdale Press tends to the least biased according to Mediabiasfactcheck.	entailment
+Other sources have commented on Riverdale Press, stating that it tends to be **least biased based on story selection and editorial positions that are mostly balanced**.	entailment
+The factuality of Riverdale Press is reported to be High	entailment
+The factuality of Riverdale Press is reported to be high, according to a review by Media Bias/Fact Check.	entailment
+Riverdale Press failed a fact-check for an article titled "Neighbor helps nab credit card pilferer"	contradiction
+Riverdale Press chose not to cover **failed fact checks**	entailment
+Riverdale Press relies on advertising for revenue	entailment
+Riverdale Press relies on subscriptions for revenue	contradiction
+Riverdale Press relies on donations for revenue	contradiction
+Riverdale Press has an editorial bias towards Least Biased	entailment
+Riverdale Press printed a factually misleading titled "Come Home, Mayor de Blasio"	entailment

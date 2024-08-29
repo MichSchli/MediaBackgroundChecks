@@ -1,0 +1,11 @@
+History
+Founded in 2013, ScoopWhoop is an internet media and news company from India. According to their
+[about page](https://www.scoopwhoop.com/about/?ref=footer_links), “ScoopWhoop Media is an Internet media company that reaches out to over 30 million Indians every month. It runs three different publications, ScoopWhoop, Scoopwhoop Hindi, Ok Tested, Scoopwhoop Unscripted, and Vagabomb.” [Read our profile on India Media and Government](https://mediabiasfactcheck.com/india-media-profile/)
+Funded by / Ownership
+ScoopWhoop is a privately held company that has had investors such as US$4 million from the venture capital firm
+[Kalaari Capital](https://en.wikipedia.org/wiki/Kalaari_Capital). Revenue is derived primarily through advertising.
+Analysis / Bias
+In review, The website creates and curates India specific stories. Scoopwhoop features many stories on social issues with little focus on USA news unless it’s viral, similar to
+[Buzzfeed](http://mediabiasfactcheck.com/buzzfeed/). The articles about the USA tend to link to credible sources such as [Reuters](http://mediabiasfactcheck.com/reuters/), however, the stories are often misleading due to the use of emotional words or outright false claims. For example, in an article titled “ [Russia Vows ‘Adequate Response’ After US Expels 35 Russian Diplomats For ‘Spying’](https://www.scoopwhoop.com/Russia-Vows-Adequate-Response-After-US-Expels-35-Russian-Diplomats-For-Spying#.xppmxmh8t),” Scoopwhoop claims in a quote, that according to the [BBC](https://mediabiasfactcheck.com/bbc/), Russia will “cause the US government [‘significant destruction’](https://www.scoopwhoop.com/rd?url=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-us-canada-38464612)“. This simply is not true as Putin never said this and the [BBC](http://www.bbc.com/news/world-us-canada-38464612) never reported it. Further, according to Logically ScoopWhoop was one of [17 media outlets in India agreed to push polarising stories for money](https://www.logically.ai/factchecks/library/37b58b17). In general, there is a left-leaning editorial bias, and the news is not always reported factually.
+Failed Fact Checks
+[A Spanish fisherman survived in a whale’s belly for three days before being “flushed out” alive.](https://www.snopes.com/fact-check/fisherman-survived-inside-whale-for-three-days/)– False

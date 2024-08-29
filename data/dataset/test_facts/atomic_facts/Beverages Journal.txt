@@ -1,0 +1,21 @@
+Who owns Beverages Journal	entailment
+Shu-Kun Lin is the owner of Beverages Journal	entailment
+authors pay a one-time Article Processing Charge (APC) to cover the costs of peer review administration and management.	entailment
+The remit of Beverages Journal is to cover the study of Beverages.	entailment
+The mission of Beverages Journal is to cover the study of Beverages	entailment
+Beverages Journal tends to the Pro-Science and Mostly Factual	entailment
+Other sources have commented on Beverages Journal, stating that it tends to be Pro-Science	entailment
+The factuality of Beverages Journal is reported to be Mostly Factual	entailment
+The factuality of Beverages Journal is reported to be Mostly Factual, according to Source: https://www.mdpi.com/journal/beverages	entailment
+Beverages Journal failed a fact-check for an article titled Failed Fact Checks.	contradiction
+Beverages Journal printed a retraction after failing a fact-check for an article titled **None for Beverages Journal**	contradiction
+Beverages Journal chose not to cover failed fact checks	entailment
+Beverages Journal relies on donations for revenue	contradiction
+Beverages Journal has endorsed Pro-Science	entailment
+Beverages Journal has an editorial bias towards Pro-Science	entailment
+Who is the editor of Beverages Journal	entailment
+Beverages Journal was fined **$1,200**	entailment
+Beverages Journal's headquarter is located in Basel	entailment
+Beverages Journal is a **journal**	entailment
+Beverages Journal uses a peer review process	entailment
+The text does not contain the necessary information to fill in the blank in the question.	entailment

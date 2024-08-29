@@ -1,0 +1,28 @@
+David and Tom Gardner founded The Motley Fool	entailment
+David is the founder of The Motley Fool	contradiction
+The Motley Fool leads The Motley Fool	entailment
+The Motley Fool owns The Motley Fool	entailment
+The Motley Fool is the owner of The Motley Fool	contradiction
+The Motley Fool bought The Motley Fool	contradiction
+The Motley Fool acquired The Motley Fool	entailment
+The Motley Fool is funded through **advertising and subscriptions**	entailment
+The remit of The Motley Fool is to make the world smarter, happier, and richer.	entailment
+The mission of The Motley Fool is to make the world smarter, happier, and richer.	entailment
+The usual audience of The Motley Fool is layman investors	entailment
+The Motley Fool tends to the **left**	entailment
+Other sources have commented on The Motley Fool, stating that it tends to be left-center biased.	entailment
+The factuality of The Motley Fool is reported to be High	entailment
+The factuality of The Motley Fool is reported to be high, according to D. Van Zandt	entailment
+The Motley Fool failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Motley Fool printed a retraction after failing a fact-check for an article titled "Retirees Have Shockingly Little Retirement Savings, Data Shows".	entailment
+The Motley Fool chose not to cover politics	contradiction
+The Motley Fool relies on advertising for revenue	entailment
+The Motley Fool relies on subscriptions for revenue	entailment
+The Motley Fool relies on donations for revenue	contradiction
+When aggregating stories, The Motley Fool relies on information from [properly sourced].	entailment
+The Motley Fool has an editorial bias towards **left-leaning**	entailment
+The Motley Fool printed a factually misleading titled "Retirees Have Shockingly Little Retirement Savings, Data Shows"	entailment
+The Motley Fool had to apologize for **none in the Last 5 years**	entailment
+The Motley Fool's headquarter is located in Alexandria.	entailment
+The Motley Fool is funded by the private government	contradiction
+The Motley Fool is a privately owned company	entailment

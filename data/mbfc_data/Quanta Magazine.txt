@@ -1,0 +1,12 @@
+History
+Founded in 2012, Quanta Magazine (QM) is a hard science news site founded by the Simons Foundation and focused on recent advances in physics, mathematics, biology, and computer science. As their
+[About page](https://www.quantamagazine.org/about/) states, “Illuminating basic science and math research through public service journalism.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The
+[Simons Foundation](https://en.wikipedia.org/wiki/Simons_Foundation) owns and publishes Quanta Magazine. Advertising and an [online store](https://www.quantamagazine.org/gift-store) generate revenue.
+Analysis / Bias
+Quanta Magazine takes complex subjects and presents them so that laypeople can understand without simplifying the subject matter or sacrificing the basic content. The articles on QM are well written, factual, well-sourced, and authored by experts in their respective fields. Headlines are presented with minimal bias and explain the content of the articles, such as this
+[Turing Patterns Turn Up in a Tiny Crystal](https://www.quantamagazine.org/physicists-spot-turing-patterns-in-a-tiny-crystal-20210810/).
+Editorially, they rarely publish anything political and stick to science.
+Failed Fact Checks
+- None in the Last 5 years

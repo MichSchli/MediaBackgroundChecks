@@ -1,0 +1,23 @@
+Alan Knott-Craig founded Daily Maverick	entailment
+Alan Knott-Craig is the founder of Daily Maverick	entailment
+Styli Charalambous is the CEO of Daily Maverick	entailment
+Daily Maverick is funded through advertising	entailment
+The remit of Daily Maverick is to **cover politics and investigative journalism**	entailment
+The mission of Daily Maverick is to report on politics with minimal bias in story selection and editorial positions.	entailment
+The usual audience of Daily Maverick is general public	contradiction
+Other sources have commented on Daily Maverick, stating that it tends to be **Least Biased**.	entailment
+The factuality of Daily Maverick is reported to be Mostly Factual	entailment
+The factuality of Daily Maverick is reported to be Mostly Factual, according to a review by Media Bias/Fact Check.	entailment
+Daily Maverick failed a fact-check for an article titled "Kenya vs South Africa: Fact-Checking Claims About Two Countries Contrasting"	entailment
+Daily Maverick printed a retraction after failing a fact-check for an article titled **"On-grid electricity has benefitted from solar too, as well as wind and thermal with over 90% of power generated now coming from these sources."**	entailment
+Daily Maverick chose not to cover Failed Fact Checks	entailment
+Daily Maverick relies on advertising for revenue	entailment
+Daily Maverick relies on subscriptions for revenue	entailment
+Daily Maverick relies on donations for revenue	entailment
+When aggregating stories, Daily Maverick relies on information from **credible, low-biased sources such as Reuters**.	entailment
+Daily Maverick has an editorial bias towards Least Biased	entailment
+Branko Brkic is the editor of Daily Maverick	entailment
+Daily Maverick's headquarter is located in Johannesburg.	entailment
+Daily Maverick is funded by the private government	contradiction
+Daily Maverick is a news and information website focusing on political analysis and investigative journalism.	entailment
+Daily Maverick covers the following topics: Politics	entailment

@@ -1,0 +1,24 @@
+Ethan Phillips founded Canada Fact Check	entailment
+Ethan Phillips is the founder of Canada Fact Check	entailment
+Canada Fact Check	entailment
+Canada Fact Check is funded through **subscription fees to premium content and a premium store**	entailment
+The remit of Canada Fact Check is to **publish progressive left editorials**	entailment
+The mission of Canada Fact Check is to promote transparency, democratic reform, government accountability, and corporate responsibility.	entailment
+The usual audience of Canada Fact Check is **left-leaning individuals**	entailment
+Canada Fact Check tends to the left.	entailment
+Other sources have commented on Canada Fact Check, stating that it tends to be **Left Biased**.	entailment
+The factuality of Canada Fact Check is reported to be Mostly Factual	entailment
+The factuality of Canada Fact Check is reported to be Mostly Factual, according to Mediabiasfactcheck.com	entailment
+Canada Fact Check failed a fact-check for an article titled **The dangers of an Andrew Scheer Conservative federal government**	contradiction
+Canada Fact Check chose not to cover ownership.	entailment
+Canada Fact Check provides original content written by staff journalists	contradiction
+Canada Fact Check relies on subscriptions for revenue	entailment
+Canada Fact Check has endorsed the progressive left.	entailment
+Canada Fact Check has an editorial bias towards progressive left.	entailment
+Ethan Phillips is the editor of Canada Fact Check	entailment
+Canada Fact Check printed a biased article titled **The dangers of an Andrew Scheer Conservative federal government**	entailment
+Canada Fact Check had to apologize for publishing misleading information.	entailment
+Canada Fact Check's headquarter is located in Canada	entailment
+Canada Fact Check is funded by the **private** government	contradiction
+Canada Fact Check is a **Left Biased**	entailment
+Canada Fact Check uses an internal fact-checking process	contradiction

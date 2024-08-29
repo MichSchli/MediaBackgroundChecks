@@ -1,0 +1,16 @@
+History
+Founded in 2011 by Max Roser,
+[Our World in Data](https://ourworldindata.org/about) is a web publication that visualizes datasets of global trends across time and presents empirical research and data that show how living conditions worldwide are changing. According to their about page, their aim is “to give a global overview and to show changes over the very long run, so that we can see where we are coming from and where we are today.” [Our World in Data](https://www.inet.ox.ac.uk/people/view/39) uses interactive data visualizations to present its research findings on development that explain the causes and consequences of the observed changes. Our World in Data (OWID) is supported by a grant from the Bill and Melinda Gates Foundation, and other donors are listed on their about page.
+In addition to Our World in Data, the founder Max Roser serves as
+[Programme Director](https://www.oxfordmartin.ox.ac.uk/people/624) of [Oxford Martin Programme on Global Development](https://www.oxfordmartin.ox.ac.uk/research/programmes/global-development).
+Max Roser claims that the global population living in extreme poverty has declined from 84 percent in 1820 to 16 percent in 2010, and it’s
+[still falling](http://www.chicagotribune.com/news/sns-wp-globalism-comment-43efb138-aaae-11e7-92d1-58c702d2d975-20171006-story.html) and that [excessive focus](https://en.wikipedia.org/wiki/Max_Roser) on the upper classes, especially from a historical perspective, is misleading. [Read our profile on UK media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+Our World in Data (OWID) is supported by a grant from the Bill and Melinda Gates Foundation, and other donors are listed on their about page.
+Analysis / Bias
+In review, Our World in Data uses a technology called “Data-Grapher.” Since we are not experts on data visualizations and how they present empirical evidence, we have no way of verifying the credibility of the visualization.
+[This page](https://ourworldindata.org/about/owid-grapher) describes the tool they use, “owid-grapher” for visualization and their sources for data, such as the World Bank, UNESCO, etc.
+In their
+[corruption story](https://ourworldindata.org/corruption), Our World in Data uses credible sources in their research, such as [Transparency.org](https://mediabiasfactcheck.com/transparency-international/), undp.org, and World Bank. Further, they use minimally loaded emotional language, such as this quote from the Corruption story: “As we can see, companies from China and Russia are viewed as the most likely to pay bribes. This is important globally since China and Russia are becoming increasingly powerful players in international trade.”
+Failed Fact Checks
+- None in the Last 5 years

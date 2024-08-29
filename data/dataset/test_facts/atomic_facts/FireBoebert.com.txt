@@ -1,0 +1,21 @@
+American Muckrakers PAC founded FireBoebert.com	entailment
+American Muckrakers PAC leads FireBoebert.com	entailment
+The American Muckrakers PAC owns FireBoebert.com	entailment
+FireBoebert.com is the owner of FireBoebert.com	contradiction
+American Muckrakers PAC bought FireBoebert.com	contradiction
+The American Muckrakers PAC acquired FireBoebert.com	entailment
+FireBoebert.com is funded through **donations generate revenue**	entailment
+The remit of FireBoebert.com is to attempt to denigrate Colorado Republican House Representative Lauren Boebert with the hope of having her defeated in the next election.	entailment
+The mission of FireBoebert.com is to denigrate Colorado Republican House Representative Lauren Boebert with the hope of having her defeated in the next election.	entailment
+The usual audience of FireBoebert.com is Left Biased and Questionable	entailment
+FireBoebert.com tends to the **denigrate Colorado Republican House Representative Lauren Boebert with the hope of having her defeated in the next election.**	entailment
+Other sources have commented on FireBoebert.com, stating that it tends to be **left biased and questionable**.	entailment
+The factuality of FireBoebert.com is reported to be  Left Biased.	entailment
+The factuality of FireBoebert.com is reported to be questionable, according to D. Van Zandt 06/20/2022.	entailment
+FireBoebert.com failed a fact-check for an article titled [Lauren Boebert had two abortions and was a paid escort](https://leadstories.com/hoax-alert/2022/06/fact-check-no-evidence-lauren-boebert-had-two-abortions-was-an-unlicensed-paid-escort.html)– Unsubstantiated	entailment
+FireBoebert.com relies on advertising for revenue	entailment
+FireBoebert.com relies on donations for revenue	entailment
+FireBoebert.com has an editorial bias towards **left**	entailment
+FireBoebert.com printed a biased article titled **Promoting Unsubstantiated Claims to Hurt Candidate's Reputation**	entailment
+FireBoebert.com is funded by the American government	contradiction
+FireBoebert.com is a website	entailment

@@ -1,0 +1,19 @@
+The E. W. Scripps Company owns KIVI - Boise News	entailment
+The E. W. Scripps Company is the owner of KIVI - Boise News	entailment
+The E. W. Scripps Company acquired KIVI - Boise News	entailment
+KIVI - Boise News is funded through **advertising**	entailment
+The remit of KIVI - Boise News is to **cover**	entailment
+The mission of KIVI - Boise News is to **cover**	entailment
+The usual audience of KIVI - Boise News is **the greater Boise, Idaho area**.	entailment
+KIVI - Boise News tends to the least biased based on balanced story selection and minimal editorializing according to D. Van Zandt 	entailment
+Other sources have commented on KIVI - Boise News, stating that it tends to be **Least Biased**.	entailment
+The factuality of KIVI - Boise News is reported to be High	entailment
+The factuality of KIVI - Boise News is reported to be High, according to D. Van Zandt	entailment
+KIVI - Boise News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+KIVI - Boise News printed a retraction after failing a fact-check for an article titled  President Biden calls on Congress to pass his plan to battle inflation 	contradiction
+KIVI - Boise News relies on advertising for revenue	entailment
+KIVI - Boise News relies on subscriptions for revenue	contradiction
+KIVI - Boise News relies on donations for revenue	contradiction
+When aggregating stories, KIVI - Boise News relies on information from various sources	entailment
+KIVI - Boise News has an editorial bias towards Least Biased	entailment
+KIVI - Boise News had to apologize for None in the Last 5 years	entailment

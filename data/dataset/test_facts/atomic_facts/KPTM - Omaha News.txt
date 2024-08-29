@@ -1,0 +1,23 @@
+Founded founded KPTM - Omaha News	entailment
+Sinclair Broadcast Group owns KPTM - Omaha News	entailment
+Sinclair Broadcast Group is the owner of KPTM - Omaha News	entailment
+Sinclair Broadcast Group bought KPTM - Omaha News	entailment
+Sinclair Broadcast Group acquired KPTM - Omaha News	entailment
+The remit of KPTM - Omaha News is to **report local news with minimal bias in wording**	entailment
+The mission of KPTM - Omaha News is to deliver local news with minimal bias in wording.	entailment
+The usual audience of KPTM - Omaha News is **conservative**	entailment
+KPTM - Omaha News tends to the right	entailment
+Other sources have commented on KPTM - Omaha News, stating that it tends to be Right-Center Biased	entailment
+The factuality of KPTM - Omaha News is reported to be High	entailment
+The factuality of KPTM - Omaha News is reported to be high, according to D. Van Zandt	entailment
+KPTM - Omaha News failed a fact-check for an article titled "6 teens arrested in school shooting that killed 1 boy, injured 2 girls in Iowa".	contradiction
+KPTM - Omaha News chose not to cover op-eds.	entailment
+KPTM - Omaha News relies on advertising for revenue	entailment
+KPTM - Omaha News relies on donations for revenue	contradiction
+When aggregating stories, KPTM - Omaha News relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/) and others by Sinclair properties.	entailment
+KPTM - Omaha News has an editorial bias towards the right	entailment
+The factually misleading titled **Failed Fact Checks**	contradiction
+KPTM - Omaha News had to apologize to  for 	entailment
+KPTM - Omaha News's headquarter is located in Omaha	entailment
+KPTM - Omaha News is funded by the [Sinclair Broadcast Group](https://mediabiasfactcheck.com/sinclair-broadcast-group/) government	contradiction
+KPTM - Omaha News covers the following topics: local news, sports, weather, lifestyle, and crime reporting.	entailment

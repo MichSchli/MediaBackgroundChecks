@@ -1,0 +1,22 @@
+David Badash founded The New Civil Rights Movement	entailment
+David Badash is the founder of The New Civil Rights Movement	entailment
+AlterNet Media owns The New Civil Rights Movement	entailment
+AlterNet Media bought The New Civil Rights Movement	entailment
+AlterNet Media acquired The New Civil Rights Movement	entailment
+The New Civil Rights Movement is funded through **advertising and donations**	entailment
+The remit of The New Civil Rights Movement is to **promote civil rights for LGBTQ people**	entailment
+The mission of The New Civil Rights Movement is to **galvanize a community of progressives to help advance civil rights for LGBT people**	entailment
+The usual audience of The New Civil Rights Movement is **progressive liberals**	entailment
+The New Civil Rights Movement tends to the  far-Left Biased	entailment
+Other sources have commented on The New Civil Rights Movement, stating that it tends to be **far-Left Biased**.	entailment
+The factuality of The New Civil Rights Movement is reported to be Mixed	entailment
+The factuality of The New Civil Rights Movement is reported to be Mixed, according to D. Van Zandt	entailment
+The New Civil Rights Movement failed a fact-check for an article titled BUSTED: Rudy Giuliani Outed for ‘Shadow Diplomacy’ With Venezuela — Similar to His Ukraine Scandal	entailment
+The New Civil Rights Movement relies on advertising for revenue	entailment
+The New Civil Rights Movement relies on subscriptions for revenue	contradiction
+The New Civil Rights Movement relies on donations for revenue	entailment
+The New Civil Rights Movement has an editorial bias towards **the progressive left**	entailment
+David Badash is the editor of The New Civil Rights Movement	entailment
+The New Civil Rights Movement printed a biased article titled **Pelosi is Doing What No One Else Had the Balls to Do: Making Trump Squirm**	entailment
+The New Civil Rights Movement is a website news source.	entailment
+The New Civil Rights Movement covers the following topics: civil rights for LGBTQ people.	entailment

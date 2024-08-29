@@ -1,0 +1,20 @@
+Metric Media Foundation owns WC Iowa News	entailment
+Bradley Cameron is the owner of WC Iowa News	entailment
+WC Iowa News is funded through **advertising and donations to the Metric Media Foundation**	entailment
+The remit of WC Iowa News is to **look like a local news source**	entailment
+The usual audience of WC Iowa News is conservative-leaning	entailment
+WC Iowa News tends to the **right-center**.	contradiction
+WC Iowa News tends to the right-center according to Media Bias/Fact Check.	entailment
+Other sources have commented on WC Iowa News, stating that it tends to be right-center	entailment
+The factuality of WC Iowa News is reported to be **Questionable**	entailment
+The factuality of WC Iowa News is reported to be Questionable, according to D. Van Zandt 11/05/2021	entailment
+WC Iowa News failed a fact-check for an article titled "Impostor Site Lacks Transparency and Publishes False Information"	entailment
+WC Iowa News chose not to cover **their conservative agenda, nor discloses funding and ownership**	entailment
+WC Iowa News relies on advertising for revenue	entailment
+WC Iowa News relies on subscriptions for revenue	contradiction
+WC Iowa News relies on donations for revenue	entailment
+WC Iowa News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, WC Iowa News relies on information from **algorithmically produced content**.	entailment
+WC Iowa News has endorsed conservative-leaning news websites published by the Metric Media LLC Network.	entailment
+WC Iowa News has an editorial bias towards **right-center**.	entailment
+WC Iowa News printed a biased article titled "Lacks Transparency, Publishes False Information, and is an Imposter Site."	entailment

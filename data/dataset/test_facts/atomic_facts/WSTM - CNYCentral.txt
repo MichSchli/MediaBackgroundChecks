@@ -1,0 +1,19 @@
+Julian Sinclair Smith is the founder of WSTM - CNYCentral	entailment
+Sinclair Broadcast Group is the CEO of WSTM - CNYCentral	contradiction
+Sinclair Broadcast Group leads WSTM - CNYCentral	entailment
+Sinclair Broadcast Group owns WSTM - CNYCentral	entailment
+Sinclair Broadcast Group is the owner of WSTM - CNYCentral	entailment
+Sinclair Broadcast Group bought WSTM - CNYCentral	entailment
+Sinclair Broadcast Group acquired WSTM - CNYCentral	entailment
+The remit of WSTM - CNYCentral is to  report local news with minimal bias in wording.	entailment
+The usual audience of WSTM - CNYCentral is **right-leaning**	entailment
+WSTM - CNYCentral tends to the Right	entailment
+Other sources have commented on WSTM - CNYCentral, stating that it tends to be **right-center biased**	entailment
+The factuality of WSTM - CNYCentral is reported to be High	entailment
+The factuality of WSTM - CNYCentral is reported to be High, according to D. Van Zandt 10/05/2021	entailment
+WSTM - CNYCentral printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+When aggregating stories, WSTM - CNYCentral relies on information from the Associated Press.	entailment
+WSTM - CNYCentral has an editorial bias towards right	entailment
+WSTM - CNYCentral printed a biased article titled Right-Center Biasedbased on editorial positions that slightly favor the right.	entailment
+WSTM - CNYCentral's headquarter is located in Syracuse	entailment
+WSTM - CNYCentral is a Right-Center Biased	entailment

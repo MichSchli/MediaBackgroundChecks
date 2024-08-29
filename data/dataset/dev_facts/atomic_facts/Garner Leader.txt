@@ -1,0 +1,17 @@
+David Van Zandt is the CEO of Garner Leader	entailment
+Mid America Publishing owns Garner Leader	entailment
+Mid America Publishing acquired Garner Leader	entailment
+Garner Leader is funded through **advertising and subscription fees**.	entailment
+The remit of Garner Leader is to report on news, sports, weather, crime, and lifestyle for the greater Garner, Indiana region.	entailment
+The mission of Garner Leader is to **report on news, sports, lifestyle, and opinion for Garner and the surrounding area**.	entailment
+Garner Leader tends to the news according to Garner and the surrounding area.	entailment
+Other sources have commented on Garner Leader, stating that it tends to be Least Biased	entailment
+The factuality of Garner Leader is reported to be High	entailment
+The factuality of Garner Leader is reported to be High, according to D. Van Zandt	entailment
+Garner Leader failed a fact-check for an article titled "Search for birth mom, yields a brother".	contradiction
+Garner Leader chose not to cover national news.	entailment
+Garner Leader relies on advertising for revenue	entailment
+Garner Leader relies on subscriptions for revenue	entailment
+Garner Leader relies on donations for revenue	contradiction
+Garner Leader has an editorial bias towards **the right**	entailment
+Garner Leader had to apologize for **None in the Last 5 years**	entailment

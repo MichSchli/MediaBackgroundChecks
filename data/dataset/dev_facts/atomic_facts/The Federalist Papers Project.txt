@@ -1,0 +1,27 @@
+Steve Straub founded The Federalist Papers Project	entailment
+Steve Straub is the founder of The Federalist Papers Project.	entailment
+Steve Straub is the CEO of The Federalist Papers Project	entailment
+Steve Straub leads The Federalist Papers Project	entailment
+Integrated Marketing Group	entailment
+Steve Straub is the owner of The Federalist Papers Project	entailment
+The Federalist Papers Project is funded through **online advertising**	entailment
+The remit of The Federalist Papers Project is to  motivate people to push back at the erosion of our liberties and restore the constitutionally limited small government.	entailment
+The mission of The Federalist Papers Project is to get people the power that knowledge gives to motivate them to push back at the erosion of our liberties and restore the constitutionally limited small government.	entailment
+The usual audience of The Federalist Papers Project is **individuals on the right**	entailment
+The Federalist Papers Project tends to the **extreme right-wing bias**	entailment
+The Federalist Papers Project tends to the **far-right** according to **Media Bias Fact Check**	entailment
+Other sources have commented on The Federalist Papers Project, stating that it tends to be **Questionable**	entailment
+The factuality of The Federalist Papers Project is reported to be Questionable	entailment
+The factuality of The Federalist Papers Project is reported to be QUESTIONABLE, according to 	entailment
+The Federalist Papers Project failed a fact-check for an article titled "New law (in California) makes it illegal to shower and do laundry on same day"	entailment
+The Federalist Papers Project printed a retraction after failing a fact-check for an article titled "New law (in California) makes it illegal to shower and do laundry on same day"	contradiction
+The Federalist Papers Project chose not to cover FACT-CHECKING.	entailment
+The Federalist Papers Project relies on advertising for revenue	entailment
+The Federalist Papers Project relies on subscriptions for revenue	contradiction
+The Federalist Papers Project relies on donations for revenue	contradiction
+When aggregating stories, The Federalist Papers Project relies on information from the right-leaning and factually mixed **Daily Caller.**	entailment
+The Federalist Papers Project has endorsed extreme right-wing bias	entailment
+The Federalist Papers Project has an editorial bias towards extreme right-wing.	entailment
+The Federalist Papers Project printed a biased article titled "This Is The List of Every Current National Emergency And It Is A Nightmare For Dems".	entailment
+The Federalist Papers Project had to apologize for **a few failed fact checks**	entailment
+The Federalist Papers Project had to apologize to no one for nothing	entailment

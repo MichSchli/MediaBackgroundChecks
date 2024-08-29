@@ -1,0 +1,9 @@
+History
+[The domain was created in 1997](https://en.wikipedia.org/wiki/Courthouse_News_Service). Courthouse News Service is a news service subscribed to by law firms. The company is based in Pasadena, California, and has reporters in almost every major market in the country. It offers a combination of free and paid services. It does not provide comprehensive docket information; instead, it only alerts readers to new filings and rulings. The website provides a [masthead](https://www.courthousenews.com/masthead/) that indicates Bill Girdner is the editor. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website does not openly disclose ownership, though a simple Google search turns up
+[Courthouse News Services Inc.](https://www.linkedin.com/company/courthouse-news-service/about/) as the owner, with Bill Girdner serving as owner. The website generates revenue through advertising.
+Analysis / Bias
+In review, Courthouse News Service reports on new court filings across the country and updates to trials and testimony. Their primary focus is on civil litigation cases. The wording of headlines is typically low-biased such as this:
+[Trump Must Pay $2 Million to Settle Claims Against Foundation](https://www.courthousenews.com/trump-must-pay-2-million-to-settle-claims-against-foundation/). This story is also properly sourced. Besides original reporting, they also republish and source stories from the [Associated Press](https://mediabiasfactcheck.com/associated-press/). In general, Courthouse News Service displays minimal bias in reporting.
+Failed Fact Checks

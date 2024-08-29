@@ -1,0 +1,24 @@
+Q has been active since 2020.	contradiction
+QAnonpub owns QAnon.pub	entailment
+QAnon acquired QAnon.pub	entailment
+QAnon.pub is funded through unknown.	entailment
+The remit of QAnon.pub is to **post anonymous messages that are signed off as simply Q**.	entailment
+The mission of QAnon.pub is to promote old debunked conspiracy theories that have been proven to be false or, at the very least, do not have evidence.	entailment
+The usual audience of QAnon.pub is **far-right QAnon conspiracy theorists**	entailment
+QAnon.pub tends to the extreme right-wing Tin-Foil Hat level	entailment
+Other sources have commented on QAnon.pub, stating that it tends to be **extreme right-wing Tin-Foil Hat level**.	entailment
+The factuality of QAnon.pub is reported to be **low**.	entailment
+The factuality of QAnon.pub is reported to be **low**, according to **Factualsearch.news**	entailment
+QAnon.pub failed a fact-check for an article titled "Extreme Right-Wing Tin-Foil Hat Level Conspiracy Website Based on Old Debunked Theories".	entailment
+"Pizzagate theory, the Seth Rich murder, and most notably, the Deep State."	entailment
+QAnon.pub provides original content written by staff journalists	entailment
+QAnon.pub relies on advertising for revenue	entailment
+QAnon.pub relies on subscriptions for revenue	entailment
+When aggregating stories, QAnon.pub relies on information from **anonymous messages**	entailment
+QAnon.pub has endorsed former President Trump	entailment
+QAnon.pub has an editorial bias towards **conspiracy theories**	entailment
+QAnon.pub printed a factually misleading titled "extreme right-wing Tin-Foil Hat level Conspiracy website"	entailment
+QAnon.pub is funded by the unknown government	entailment
+QAnon.pub is a **website**	entailment
+QAnon.pub uses a peer review process	entailment
+QAnon.pub covers the following topics: Extreme right-wing Tin-Foil Hat level Conspiracy website based on the promotion of old debunked conspiracy theories that have been proven to be false or, at the very least, do not have evidence.	entailment

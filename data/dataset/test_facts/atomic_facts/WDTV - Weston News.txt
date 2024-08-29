@@ -1,0 +1,23 @@
+Gray Television owns WDTV - Weston News.	entailment
+Gray Television is the owner of WDTV - Weston News	entailment
+Gray Television bought WDTV - Weston News	entailment
+Gray Television acquired WDTV - Weston News	entailment
+WDTV - Weston News is funded through **sponsored content and advertising**	entailment
+The remit of WDTV - Weston News is to provide local and national news and sports, weather, traffic, and entertainment.	entailment
+The mission of WDTV - Weston News is to  provide local and national news, sports, weather, traffic, and entertainment.	entailment
+The usual audience of WDTV - Weston News is **local and national communities**	entailment
+WDTV - Weston News tends to the "least biased"	entailment
+Other sources have commented on WDTV - Weston News, stating that it tends to be **least biased**	entailment
+The factuality of WDTV - Weston News is reported to be High	entailment
+The factuality of WDTV - Weston News is reported to be High, according to mediabiasfactcheck.com	entailment
+WDTV - Weston News chose not to cover opinion page.	entailment
+WDTV - Weston News relies on advertising for revenue	entailment
+WDTV - Weston News relies on subscriptions for revenue	contradiction
+WDTV - Weston News relies on donations for revenue	contradiction
+WDTV - Weston News has an editorial bias towards **least biased**	entailment
+D. Van Zandt is the editor of WDTV - Weston News	entailment
+WDTV - Weston News had to apologize to no one for nothing	entailment
+WDTV - Weston News paid damages to  after 	entailment
+WDTV - Weston News's headquarter is located in Weston.	entailment
+WDTV - Weston News is a television station	entailment
+WDTV - Weston News covers the following topics: Local and national news and sports, weather, traffic, and entertainment	entailment

@@ -1,0 +1,17 @@
+Local Report Inc founded Oakland Times	entailment
+Local Report Inc leads Oakland Times	entailment
+Local Report Inc owns Oakland Times	entailment
+Local Report Inc bought Oakland Times	entailment
+Oakland Times is funded through [not disclosed and does not have advertising or solicit donations](https://www.oaklandtimes.org/).	entailment
+The remit of Oakland Times is to **serve as an imposter local news site that promotes left-leaning propaganda in support of the Democratic Party and lacks transparency.**	entailment
+The mission of Oakland Times is to promote left-leaning propaganda and lacks transparency.	entailment
+The usual audience of Oakland Times is Left-Center Biased and Questionable	entailment
+Oakland Times tends to the left	entailment
+Oakland Times tends to the left according to Media Bias Fact Check.	entailment
+Other sources have commented on Oakland Times, stating that it tends to be **a left-leaning imposter website**.	entailment
+Oakland Times relies on advertising for revenue	contradiction
+Oakland Times relies on donations for revenue	contradiction
+Oakland Times has received donations from **advertising**	contradiction
+When aggregating stories, Oakland Times relies on information from [The American Independent](https://mediabiasfactcheck.com/american-independent-institute/).	entailment
+Oakland Times has an editorial bias towards **the left and the Democratic Party**	entailment
+Oakland Times printed a biased article titled "Opinion | Current Postpartum Coverage Leaves Out Some of Michigan’s Most Vulnerable Pregnant People"	entailment

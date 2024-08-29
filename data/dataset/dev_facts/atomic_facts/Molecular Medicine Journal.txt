@@ -1,0 +1,12 @@
+The remit of Molecular Medicine Journal is to publish recent findings that elucidate disease pathogenesis at the molecular or physiological level, which may lead to the design of specific tools for disease diagnosis, treatment, or prevention.	entailment
+The mission of Molecular Medicine Journal is to publish recent findings that elucidate disease pathogenesis at the molecular or physiological level, which may lead to the design of specific tools for disease diagnosis, treatment, or prevention.	entailment
+Molecular Medicine Journal tends to the Pro-Science.	entailment
+Other sources have commented on Molecular Medicine Journal, stating that it tends to be Predatory.	contradiction
+The factuality of Molecular Medicine Journal is reported to be High	entailment
+The factuality of Molecular Medicine Journal is reported to be High, according to Media Bias/Fact Check.	entailment
+Molecular Medicine Journal failed a fact-check for an article titled "None by the Molecular Medicine Journal; however, []".	contradiction
+Molecular Medicine Journal relies on subscriptions for revenue	contradiction
+Molecular Medicine Journal relies on donations for revenue	entailment
+Molecular Medicine Journal has an editorial bias towards **Pro-Science**	entailment
+Molecular Medicine Journal was fined 	entailment
+The Molecular Medicine Journal had to apologize for [retracting numerous studies](https://www.the-scientist.com/the-nutshell/mass-retraction-35728) due to fake peer reviews or poor methodology.	contradiction

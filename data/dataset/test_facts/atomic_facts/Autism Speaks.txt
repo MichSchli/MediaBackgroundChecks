@@ -1,0 +1,17 @@
+Autism Speaks bought Autism Speaks	contradiction
+Autism Speaks is funded through **donations**.	entailment
+The mission of Autism Speaks is to raise awareness and advocate for the needs of individuals with autism spectrum disorder.	entailment
+The usual audience of Autism Speaks is families, governments, and the public.	entailment
+Other sources have commented on Autism Speaks, stating that it tends to be **mildly promoting pseudoscience**.	entailment
+The factuality of Autism Speaks is reported to be Mostly Factual	entailment
+The factuality of Autism Speaks is reported to be Mostly Factual, according to D. Van Zandt	entailment
+Autism Speaks relies on advertising for revenue	entailment
+Autism Speaks relies on subscriptions for revenue	contradiction
+Autism Speaks relies on donations for revenue	entailment
+When aggregating stories, Autism Speaks relies on information from [news](https://www.autismspeaks.org/science-news/autism-researcher-presents-findings-self-determination-planning-transition-adulthood).	entailment
+Autism Speaks has endorsed **some therapies that are not entirely evidence-based**	entailment
+Autism Speaks has an editorial bias towards [Pseudoscience](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Autism Speaks had to apologize for **promoting anti-vaccination propaganda based on the false notion of a link between vaccines and autism**.	entailment
+Autism Speaks is funded by the US government	entailment
+Autism Speaks is a 501(c)(3) nonprofit organization.	entailment
+Autism Speaks uses an internal fact-checking process	entailment

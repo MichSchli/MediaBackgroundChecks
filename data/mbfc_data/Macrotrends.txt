@@ -1,0 +1,12 @@
+History
+[Macrotrends](https://www.crunchbase.com/organization/macrotrends) is a financial data and charting company that provides free financial and economic data to investors and traders. The site does not have an About page; therefore, when the website launched and who founded it are unknown. Macrotrends is based in Seattle, Washington, United States. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Macrotrends lacks transparency as they do not list ownership. However, a search reveals they might be owned by
+[Macrotrends LLC](https://6sense.com/company/macrotrends-llc/5d9e081fa7537b35bb711153). Advertising generates revenue.
+Analysis / Bias
+The Macrotrends’ website offers various financial data, including historical stock prices, economic indicators, and demographics. It provides a historical analysis of the performance of the S&P 500 index during the presidencies of each US president
+[S&P 500 Performance by President,”](https://www.macrotrends.net/2482/sp500-performance-by-president) from Harry Truman to Joe Biden.
+The page includes a chart that displays the annualized performance of the S&P 500 during each presidential term. The analysis gives investors and market observers a historical context for understanding the relationship between politics and financial markets. However, Macrotrends does not use hyperlinks for sourcing.
+Editorially, they do not produce opinion content, and they don’t criticize politicians or political parties. In general, Macrotrends is fact-based and least biased but wholly lacks transparency.
+Failed Fact Checks
+- None in the Last 5 years

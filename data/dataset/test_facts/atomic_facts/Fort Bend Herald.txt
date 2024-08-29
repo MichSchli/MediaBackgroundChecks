@@ -1,0 +1,24 @@
+Scott Reese Wiley is the CEO of Fort Bend Herald	contradiction
+Scott Reese Wiley leads Fort Bend Herald	entailment
+Hartman Newspapers owns Fort Bend Herald	entailment
+Hartman Newspapers bought Fort Bend Herald	entailment
+Fort Bend Herald is funded through advertising and subscription fees	entailment
+The remit of Fort Bend Herald is to  report on news and events in Fort Bend County, Wharton County, Austin County, and Brazoria County.	entailment
+The usual audience of Fort Bend Herald is right-leaning.	entailment
+The Fort Bend Herald tends to the right	entailment
+Other sources have commented on Fort Bend Herald, stating that it tends to be right-leaning.	entailment
+The factuality of Fort Bend Herald is reported to be High	entailment
+The factuality of Fort Bend Herald is reported to be High, according to Mediabiasfactcheck.com	entailment
+Fort Bend Herald chose not to cover climate change	contradiction
+Fort Bend Herald relies on advertising for revenue	entailment
+Fort Bend Herald relies on subscriptions for revenue	contradiction
+Fort Bend Herald relies on donations for revenue	contradiction
+When aggregating stories, Fort Bend Herald relies on information from **proper sourcing and a clean fact-check record**.	entailment
+Fort Bend Herald has an editorial bias towards **the right**	entailment
+Scott Reese Wiley is the editor of Fort Bend Herald	entailment
+Fort Bend Herald printed a biased article titled "WHY I SECRETLY WANTED ROY MOORE TO LOSE: BROOKS 2020!"	entailment
+Fort Bend Herald's headquarter is located in Rosenberg	entailment
+The Fort Bend Herald is funded by the private government	contradiction
+The Fort Bend Herald is a daily newspaper	entailment
+Fort Bend Herald uses a peer review process	entailment
+Fort Bend Herald covers the following topics: History, Funding, Analysis / Bias, Failed Fact Checks	entailment

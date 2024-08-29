@@ -1,0 +1,16 @@
+History
+Launched in 2012,
+[Analytics India Magazine](https://analyticsindiamag.com/about/) focuses on the technological domains of analytics, artificial intelligence, data science, and big data, particularly emphasizing the Indian context. Analytics India Magazine is headquartered in Bengaluru, India. [Read our profile on India’s Media and Government.](https://mediabiasfactcheck.com/india-media-profile/)
+Funded by / Ownership
+The magazine’s ownership details are not explicitly stated on their about page. Analytics India Magazine is funded through advertising, partnerships (branded content), and
+[subscription](https://analyticsindiamag.com/subscription/) models.
+Analysis / Bias
+Analytics India Magazine primarily informs and educates on technological advancements and industry insights. For example, the article
+[“10 Mind-Blowing Videos Created by Sora” ](https://analyticsindiamag.com/10-mind-blowing-videos-created-by-sora/)discusses the capabilities of OpenAI’s text-to-video model, Sora, by presenting a selection of videos generated from text prompts. This type of content aligns with the magazine’s focus on artificial intelligence and related technologies, offering readers insights into the field’s latest developments and creative applications. Regarding sources, the article references an OpenAI blog, LinkedIn pages, and formerly Twitter (now X) pages of individuals.
+The magazine primarily focuses on technology and analytics content and does not emphasize politics or ideology. However, some articles, such as
+[“5 Instances Where PM Narendra Modi Championed The Power Of Data,”](https://analyticsindiamag.com/5-instances-where-pm-narendra-modi-championed-the-power-of-data/) present a positive view of Narendra Modi’s leadership and policies regarding data and technology, illustrating a selective bias in these contexts.
+Lastly, the article
+[“Kapur’s AlterEgo ‘Thinks’ Ahead of Musk’s Neuralink](https://analyticsindiamag.com/kapurs-alterego-thinks-ahead-of-musks-neuralink/)” exemplifies the magazine’s approach using sources like LinkedIn and social media and referencing institutions like MIT.
+In general, Analytics India Magazine predominantly focuses on technology and analytics, often synthesizing existing information. While political coverage is infrequent, occasional articles present a positive view of the current right-leaning leader, Modi.
+Failed Fact Checks
+- None in the Last 5 years

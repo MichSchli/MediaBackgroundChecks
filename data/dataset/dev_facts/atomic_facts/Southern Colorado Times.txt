@@ -1,0 +1,19 @@
+Local Report Inc founded Southern Colorado Times	entailment
+Local Report Inc owns Southern Colorado Times	entailment
+Local Report Inc is the owner of Southern Colorado Times	entailment
+Local Report Inc bought Southern Colorado Times	entailment
+Local Report Inc acquired Southern Colorado Times	contradiction
+The remit of Southern Colorado Times is to promote left-leaning propaganda in support of the Democratic Party.	entailment
+The mission of Southern Colorado Times is to promote left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+The usual audience of Southern Colorado Times is **left-leaning**	entailment
+Southern Colorado Times tends to the left	entailment
+Southern Colorado Times tends to the left-leaning bias according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Other sources have commented on Southern Colorado Times, stating that it tends to be Left-Center Biased	entailment
+The factuality of Southern Colorado Times is reported to be Left-Center Biased and Questionable, according to D. Van Zandt 07/08/2023.	entailment
+Southern Colorado Times relies on advertising for revenue	contradiction
+Southern Colorado Times relies on donations for revenue	entailment
+Southern Colorado Times has received donations from **advertising or solicit donations**	contradiction
+When aggregating stories, Southern Colorado Times relies on information from The American Independent.	entailment
+Southern Colorado Times has endorsed left-leaning propaganda	entailment
+Southern Colorado Times has an editorial bias towards **the left and the Democratic Party**	entailment
+Southern Colorado Times printed a biased article titled "Time is Ripe for Rural Climate Action | Opinion".	entailment

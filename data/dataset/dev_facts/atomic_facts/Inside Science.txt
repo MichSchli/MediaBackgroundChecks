@@ -1,0 +1,16 @@
+Inside Science bought Inside Science	contradiction
+Inside Science is funded through a group of underwriters.	entailment
+The remit of Inside Science is to **produce breaking news stories, features, essays, op-eds, documentaries, animations, and news videos**	entailment
+The mission of Inside Science is to produce breaking news stories, features, essays, op-eds, documentaries, animations, and news videos.	entailment
+Inside Science tends to the pro-science according to MBFC	entailment
+Other sources have commented on Inside Science, stating that it tends to be **pro-science**	entailment
+The factuality of Inside Science is reported to be high	entailment
+Inside Science failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Inside Science chose not to cover Failed Fact Checks.	entailment
+Inside Science provides original content written by staff journalists	entailment
+Inside Science relies on advertising for revenue	entailment
+Inside Science has received donations from a group of underwriters.	contradiction
+Inside Science has an editorial bias towards pro-science.	entailment
+Inside Science printed a factually misleading titled "None in the Last 5 years"	contradiction
+Inside Science had to apologize for **None in the Last 5 years**	entailment
+Inside Science had to apologize to no one for nothing	entailment

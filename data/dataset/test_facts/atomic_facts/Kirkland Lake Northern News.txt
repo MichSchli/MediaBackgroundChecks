@@ -1,0 +1,24 @@
+PostMedia leads Kirkland Lake Northern News	entailment
+PostMedia owns Kirkland Lake Northern News	entailment
+PostMedia bought Kirkland Lake Northern News	entailment
+Kirkland Lake Northern News is funded through advertising and subscription fees	entailment
+The mission of Kirkland Lake Northern News is to **report local and regional news through journalists with minimal loaded words**.	entailment
+The usual audience of Kirkland Lake Northern News is **right-leaning**	entailment
+Kirkland Lake Northern News tends to the right	entailment
+Other sources have commented on Kirkland Lake Northern News, stating that it tends to be right-leaning	entailment
+The factuality of Kirkland Lake Northern News is reported to be High	entailment
+The factuality of Kirkland Lake Northern News is reported to be High, according to Mediabiasfactcheck.	entailment
+Kirkland Lake Northern News failed a fact-check for an article titled " team up for food drive"	contradiction
+Kirkland Lake Northern News printed a retraction after failing a fact-check for an article titled "Salvation Army, Kirkland Lake Gold Miners, team up for food drive".	contradiction
+Kirkland Lake Northern News chose not to cover Salvation Army, Kirkland Lake Gold Miners, team up for food drive	contradiction
+Kirkland Lake Northern News provides original content written by staff journalists	entailment
+Kirkland Lake Northern News relies on advertising for revenue	entailment
+Kirkland Lake Northern News relies on subscriptions for revenue	contradiction
+Kirkland Lake Northern News relies on donations for revenue	contradiction
+When aggregating stories, Kirkland Lake Northern News relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press)	entailment
+The Kirkland Lake Northern News has endorsed conservative right	entailment
+Kirkland Lake Northern News has an editorial bias towards **the conservative right**	entailment
+The Kirkland Lake Northern News printed a biased article titled Right-Center Biased Based on Story Selection and Editorial Positions That Favor the Right	entailment
+Kirkland Lake Northern News's headquarter is located in Kirkland	entailment
+Kirkland Lake Northern News is funded by the Canadian government	contradiction
+Kirkland Lake Northern News is a newspaper	entailment

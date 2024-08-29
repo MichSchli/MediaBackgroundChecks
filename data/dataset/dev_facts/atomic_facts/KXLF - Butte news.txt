@@ -1,0 +1,24 @@
+E. W. Scripps is the founder of KXLF - Butte news	contradiction
+The E. W. Scripps Company owns KXLF - Butte news	entailment
+The E. W. Scripps Company is the owner of KXLF - Butte news	entailment
+KXLF bought KXLF - Butte news	contradiction
+E. W. Scripps Company acquired KXLF - Butte news	entailment
+KXLF - Butte news is funded through advertising	entailment
+The remit of KXLF - Butte news is to cover local news, sports, weather, entertainment, and crime for the greater Butte, Montana area.	entailment
+The mission of KXLF - Butte news is to **cover local news, sports, weather, entertainment, and crime for the greater Butte, Montana area**	entailment
+The usual audience of KXLF - Butte news is **the greater Butte, Montana area**.	entailment
+KXLF - Butte news tends to the **Center**	entailment
+KXLF - Butte news tends to the least biased according to Media Bias Fact Check	entailment
+Other sources have commented on KXLF - Butte news, stating that it tends to be Least Biased	entailment
+The factuality of KXLF - Butte news is reported to be High	entailment
+The factuality of KXLF - Butte News is reported to be High, according to D. Van Zandt 06/04/2022	entailment
+KXLF - Butte news failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KXLF - Butte news printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+KXLF - Butte news chose not to cover student debt forgiveness decision by President Biden	contradiction
+KXLF - Butte news relies on advertising for revenue	entailment
+KXLF - Butte news relies on subscriptions for revenue	contradiction
+KXLF - Butte news relies on donations for revenue	contradiction
+When aggregating stories, KXLF - Butte news relies on information from various sources.	entailment
+KXLF - Butte news has endorsed Least Biased	entailment
+KXLF - Butte news has an editorial bias towards Least Biased	entailment
+KXLF - Butte news printed a factually misleading titled **None**	entailment

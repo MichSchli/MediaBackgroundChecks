@@ -1,0 +1,19 @@
+Channel 4 News leads Channel 4 News (UK)	contradiction
+The remit of Channel 4 News (UK) is to **publish information about their television programming and news stories within the United Kingdom and the world**	entailment
+The mission of Channel 4 News (UK) is to **provide news coverage within the United Kingdom and the world**	entailment
+Channel 4 News (UK) tends to the left	entailment
+Other sources have commented on Channel 4 News (UK), stating that it tends to be **Left-Center Biased**	entailment
+The factuality of Channel 4 News (UK) is reported to be High	entailment
+The factuality of Channel 4 News (UK) is reported to be high, according to a source criticism exercise.	entailment
+Channel 4 News (UK) failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Channel 4 News (UK) chose not to cover climate change	contradiction
+Channel 4 News (UK) relies on advertising for revenue	entailment
+Channel 4 News (UK) relies on donations for revenue	entailment
+When aggregating stories, Channel 4 News (UK) relies on information from their television programming and news stories within the United Kingdom and the world.	entailment
+Channel 4 News (UK) has endorsed **a moderate liberal bias**	entailment
+Channel 4 News (UK) has an editorial bias towards **the left**	entailment
+Channel 4 News (UK) printed a biased article titled "DUP says Boris Johnson’s Brexit deal ‘the worst of all worlds’.	entailment
+Channel 4 News (UK) is funded by the British government.	contradiction
+Channel 4 News (UK) is a  Left-Center Biased	entailment
+Channel 4 News (UK) uses an internal fact-checking process	entailment
+Channel 4 News (UK) covers the following topics: television programming, news stories within the United Kingdom and the world, climate change, Brexit, fact-checking.	entailment

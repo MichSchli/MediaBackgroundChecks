@@ -1,0 +1,27 @@
+Jolyon Connell and Jeremy O’Grady founded The Week UK	entailment
+Jolyon Connell is the founder of The Week UK	entailment
+Future Publications owns The Week UK	entailment
+Future Publications is the owner of The Week UK	entailment
+Future Publications bought The Week UK	entailment
+The Week UK is funded through digital advertising and subscriptions	entailment
+The remit of The Week UK is to **publish summarized news stories that contain a slight left-leaning bias and proper sourcing**	entailment
+The usual audience of The Week UK is Left-Center Biased	entailment
+The Week UK tends to the **left**	entailment
+Other sources have commented on The Week UK, stating that it tends to be Left-Center Biased	entailment
+The factuality of The Week UK is reported to be High	entailment
+The factuality of The Week UK is reported to be High, according to Mediabiasfactcheck.	entailment
+The Week UK failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Week UK chose not to cover **- None in the Last 5 years**	entailment
+The Week UK relies on advertising for revenue	entailment
+The Week UK relies on subscriptions for revenue	entailment
+The Week UK relies on donations for revenue	contradiction
+When aggregating stories, The Week UK relies on information from **credible sources**.	entailment
+The Week UK has endorsed a Left-Center Biased bias.	entailment
+The Week UK has an editorial bias towards Left-Center	entailment
+The Week UK printed a biased article titled "Donald Trump thwarted by White House ‘resistance’".	entailment
+The Week UK printed a factually misleading titled Brexit: pros and cons of leaving the EU.	contradiction
+The Week UK had to apologize for left-leaning bias and loaded words in some of its articles.	contradiction
+The Week UK's headquarter is located in London	entailment
+The Week UK is funded by the British government	contradiction
+The Week UK is a newsweekly website	entailment
+The Week UK covers the following topics: News, Sports, Business, and Technology.	entailment

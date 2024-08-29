@@ -1,0 +1,13 @@
+History
+VRT (Vlaamse Radio- en Televisieomroeporganisatie) is a public broadcaster for the Flemish Community in Belgium. It operates various TV and radio channels and offers digital broadcasting services.
+[Read our profile on Belgium’s media and government.](https://mediabiasfactcheck.com/belgium-media-profile/)
+Funded by / Ownership
+VRT is a public broadcasting company funded primarily through government subsidies and public financing.
+Analysis / Bias
+The website primarily focuses on news, culture, and public information relevant to the Flemish community. Being a public broadcaster, it is expected to maintain a level of neutrality and public service orientation in its content. This review focuses solely on website news reporting.
+VRT’s news reporting does not use loaded emotional language such as this
+[Number of children leaving primary school without a diploma has doubled in 5 years.](https://www.vrt.be/vrtnws/en/2024/02/23/number-of-children-leaving-primary-school-without-a-diploma-has/) Like all the others we reviewed, this story does not contain hyperlinked sourcing.
+Editorially, the website does not offer opinion pieces; however, they do report on politics with minimal bias like this
+[EU nationals can vote in the European elections, but must register by 31 March](https://www.vrt.be/vrtnws/en/2024/02/20/eu-citizens-eu-elections-european-vote-belgium-registration-dead/) and [Migrant pact, green economy and Ukraine: priorities for Belgium’s EU presidency](https://www.vrt.be/vrtnws/en/2024/01/09/belgium-eu-presidency-alexander-de-croo-priorities-ukraine-green/). In general, VRT is minimally bias and fact-based, but lacks proper sourcing.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,24 @@
+BG Mahesh and Sriram Hebbar founded OneIndia	entailment
+BG Mahesh is the founder of OneIndia	contradiction
+Greynium Information Technologies Pvt Ltd. owns OneIndia	entailment
+Greynium Information Technologies Pvt Ltd. owns OneIndia	entailment
+Greynium Information Technologies Pvt Ltd. bought OneIndia	contradiction
+Greynium Information Technologies Pvt Ltd. acquired OneIndia	entailment
+OneIndia is funded through advertising.	entailment
+The remit of OneIndia is to **deliver content in 6 languages: English, Hindi, Kannada, Tamil, Malayalam & Telugu**.	entailment
+The usual audience of OneIndia is Left-Center biased.	entailment
+OneIndia tends to the left	entailment
+Other sources have commented on OneIndia, stating that it tends to be left-center biased.	entailment
+The factuality of OneIndia is reported to be Mixed	entailment
+The factuality of OneIndia is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+OneIndia failed a fact-check for an article titled "From Maun Mohan to Maun Modi: Why India's Politics Silencei"	entailment
+OneIndia relies on advertising for revenue	entailment
+OneIndia relies on subscriptions for revenue	contradiction
+OneIndia relies on donations for revenue	contradiction
+When aggregating stories, OneIndia relies on information from **Press Trust of India (PTI)**	entailment
+OneIndia has endorsed left-center biased.	entailment
+OneIndia has an editorial bias towards Left-Center	entailment
+OneIndia printed a biased article titled "From Maun Mohan to Maun Modi, Why India's Politics Silence is Echoing".	entailment
+OneIndia's headquarter is located in Bengaluru	entailment
+OneIndia is a Left-Center biased	entailment
+OneIndia covers the following topics: History, Politics, National News, World News, Beauty, Fashion, Recipes, Health, Classifieds.	entailment

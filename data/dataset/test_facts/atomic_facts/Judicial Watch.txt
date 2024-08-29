@@ -1,0 +1,23 @@
+Larry Klayman founded Judicial Watch	entailment
+Larry Klayman is the founder of Judicial Watch	entailment
+Tom Fitton leads Judicial Watch	entailment
+Larry Klayman bought Judicial Watch	entailment
+Judicial Watch acquired Judicial Watch	contradiction
+Judicial Watch is funded through individuals, foundations, and corporations.	entailment
+The remit of Judicial Watch is to investigate government officials’ alleged misconduct.	entailment
+The mission of Judicial Watch is to promote transparency, accountability, and integrity in government, politics, and the law.	contradiction
+The usual audience of Judicial Watch is  conservative individuals	entailment
+Judicial Watch tends to the RIGHT	entailment
+Other sources have commented on Judicial Watch, stating that it tends to be extreme right-wing biased.	entailment
+The factuality of Judicial Watch is reported to be **abysmal**	entailment
+The factuality of Judicial Watch is reported to be Questionable, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Judicial Watch failed a fact-check for an article titled "DHS Quietly Moving, Releasing ‘Vanloads’ of ‘Illegal Aliens’ Away from Border"	entailment
+Judicial Watch chose not to cover climate science	entailment
+Judicial Watch relies on donations for revenue	entailment
+Judicial Watch has received donations from individuals, foundations, and corporations.	entailment
+Judicial Watch has an editorial bias towards extreme right-wing bias.	entailment
+Judicial Watch printed a biased article titled Overall, we rate Judicial Watch Questionable based on extreme right-wing bias, promotion of conspiracy theories, and an abysmal fact-check record. (7/19/2016) Updated (D. Van Zandt 02/21/2024)	entailment
+Judicial Watch printed a factually misleading titled Questionable	entailment
+Judicial Watch had to apologize to no one for nothing	entailment
+Judicial Watch is funded by the United States government	contradiction
+Judicial Watch is a 501(c)(3) nonprofit organization.	entailment

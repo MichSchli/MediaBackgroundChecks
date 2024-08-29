@@ -1,0 +1,21 @@
+Nikkei Asian Review leads Nikkei Asian Review.	entailment
+Nikkei Inc owns Nikkei Asian Review	entailment
+Nikkei Inc is the owner of Nikkei Asian Review	entailment
+Nikkei bought Nikkei Asian Review	contradiction
+Nikkei Asian Review is funded through advertising and subscriptions.	entailment
+The remit of Nikkei Asian Review is to cover news, economy, business, markets, trends, and international affairs across the Asian region.	entailment
+Nikkei Asian Review tends to the Right-Center	entailment
+Nikkei Asian Review tends to the Right-Center according to Mediabiasfactcheck	entailment
+Other sources have commented on Nikkei Asian Review, stating that it tends to be **Right-Center biased**	entailment
+The factuality of Nikkei Asian Review is reported to be High	entailment
+The factuality of Nikkei Asian Review is reported to be high, according to a source criticism exercise.	entailment
+Nikkei Asian Review failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+"Nikkei Asian Review chose not to cover **any failed fact checks in the last 5 years**"	entailment
+Nikkei Asian Review relies on advertising for revenue	entailment
+Nikkei Asian Review relies on subscriptions for revenue	entailment
+Nikkei Asian Review relies on donations for revenue	contradiction
+Nikkei Asian Review has received donations from **advertising and subscriptions**	contradiction
+Nikkei Asian Review has endorsed **Right-Center**	entailment
+Nikkei Asian Review has an editorial bias towards **Right-Center**	entailment
+Gwen Robinson is the editor of Nikkei Asian Review	entailment
+Nikkei Asian Review printed a factually misleading titled "Abe-Trump summit in Washington in late April showed how Trump has driven U.S. trade policy into a dead end."	entailment

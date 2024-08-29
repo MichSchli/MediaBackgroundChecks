@@ -1,0 +1,22 @@
+CherryRoad Media owns Carroll County News	entailment
+CherryRoad Media is the owner of Carroll County News	entailment
+CherryRoad Media bought Carroll County News	entailment
+Carroll County News is funded through **advertising and paid subscriptions**.	entailment
+The remit of Carroll County News is to **cover news, sports, community, and crime for the greater Carroll County, Arkansas area**	entailment
+The mission of Carroll County News is to  report news, sports, community, and crime for the greater Carroll County, Arkansas area.	entailment
+The usual audience of Carroll County News is **residents of Carroll County, Arkansas**	contradiction
+Carroll County News tends to the least biased	entailment
+Other sources have commented on Carroll County News, stating that it tends to be **least biased**	entailment
+The factuality of Carroll County News is reported to be High	entailment
+The factuality of Carroll County News is reported to be High, according to Media Bias/Fact Check	entailment
+Carroll County News failed a fact-check for an article titled District 28 State Senate race County pushes King over the top in runoff.	contradiction
+Carroll County News printed a retraction after failing a fact-check for an article titled "District 28 State Senate race County pushes King over the top in runoff."	contradiction
+Carroll County News chose not to cover **failed fact checks**	entailment
+Carroll County News relies on advertising for revenue	entailment
+Carroll County News relies on subscriptions for revenue	entailment
+Carroll County News relies on donations for revenue	contradiction
+When aggregating stories, Carroll County News relies on information from **the Associated Press**.	entailment
+Carroll County News has an editorial bias towards **neither left nor right**	entailment
+Carroll County News's headquarter is located in Arkansas	entailment
+The Carroll County News is funded by the private government	contradiction
+Carroll County News covers the following topics: news, sports, community, and crime	entailment

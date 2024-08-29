@@ -1,0 +1,21 @@
+Joseph Fessio founded Catholic World Report	entailment
+Joseph Fessio is the founder of Catholic World Report	entailment
+Catholic World Report is funded through donations and advertising	entailment
+The remit of Catholic World Report is to offer content from a right-leaning perspective, often utilizing emotionally loaded language; for example, the headlines consistently reflect a distinct Christian right perspective like	entailment
+The mission of Catholic World Report is to  provide news, analysis, and commentary from a Catholic perspective, covering various topics related to the Catholic Church, such as theology, spirituality, culture, and current events.	entailment
+The usual audience of Catholic World Report is **right-leaning**	entailment
+Catholic World Report tends to the Right Biased.	entailment
+Other sources have commented on Catholic World Report, stating that it tends to be **right-leaning**	entailment
+The factuality of Catholic World Report is reported to be biased.	entailment
+Catholic World Report relies on advertising for revenue	entailment
+Catholic World Report relies on subscriptions for revenue	entailment
+Catholic World Report relies on donations for revenue	entailment
+Catholic World Report has endorsed right-leaning perspective	entailment
+Catholic World Report has an editorial bias towards right-leaning conservative biases	entailment
+Joseph Fessio is the editor of Catholic World Report	entailment
+Catholic World Report printed a biased article titled **"The Culture of Death is alive as Hell."**	entailment
+Catholic World Report had to apologize for lack of transparency	contradiction
+Catholic World Report's headquarter is located in California.	entailment
+Catholic World Report is funded by the United States government	contradiction
+Catholic World Report is a Right Biased	entailment
+The Catholic World Report covers the following topics: theology, spirituality, culture, and current events.	entailment

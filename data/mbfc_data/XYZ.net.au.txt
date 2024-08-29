@@ -1,0 +1,13 @@
+History
+XYZ.net.au is an Australian-based news and opinion website that focuses on a variety of topics, including politics, society, economics, and philosophy. The website positions itself as a platform for free speech and free markets, acknowledging Australia’s place in Western civilization and culture. They lack transparency as it’s
+[about page](https://xyz.net.au/?page_id=8) returns a 404 error. [Read our profile on Australian media and government.](https://mediabiasfactcheck.com/australian-associated-press-aap/)
+Ownership/Funding
+XYZ.net.au does not disclose its ownership details publicly. The website offers its content for free and also has a Patreon page where readers can financially support the platform.
+Analysis / Bias
+XYZ.net.au exhibits a strong right-biased ideological leaning in its content. The website’s articles often feature biased or provocative titles, such as “
+[Don’t welcome me to my own bloody country](https://xyz.net.au/2023/09/dont-welcome-bloody-country/)” and “ [Better to be a racist than to have abos rule over you](https://xyz.net.au/2023/07/better-to-be-a-racist-than-to-have-abos-rule-over-you/).”
+When it comes to sourcing, it does not provide extensive sourcing for its articles, making factual accuracy hard to verify. The site also focuses on stories that align with a particular ideological perspective, often critical of mainstream narratives. The website’s apparent endorsement of nationalist and conservative viewpoints places it in the right-biased category.
+Regarding science, the website frequently promotes disinformation, such as this related to the Covid-19 vaccine:
+[Proof that Covid Vaccines are AIDS.](https://xyz.net.au/2023/06/proof-that-covid-vaccines-are-aids/) This story originated from the Questionable [Epoch Times](https://mediabiasfactcheck.com/the-epoch-times/) and is rated [false by fact-checkers](https://www.reuters.com/article/factcheck-vaccines-hiv-idUSL1N2UW10H). Finally, they promote propagandistic conspiracies regarding climate change, such as this: [Idiot Greta Thunberg named Communist of the Year](https://xyz.net.au/2019/12/idiot-greta-thunberg-named-communist-of-the-year/). In general, this is not a credible source for news and information.
+Failed Fact Checks
+[In spring 2022, officials in the Australian state of Victoria were considering legislation that would prohibit people from growing their own food.](https://www.snopes.com/fact-check/australia-bill-growing-food/)– False

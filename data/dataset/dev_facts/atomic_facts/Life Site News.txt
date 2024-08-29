@@ -1,0 +1,26 @@
+The Campaign Life Coalition founded Life Site News	entailment
+Campaign Life Coalition is the founder of Life Site News	contradiction
+Conservative Campaign Life Coalition leads Life Site News	entailment
+The Conservative Campaign Life Coalition owns LifeSite News	entailment
+The Conservative Campaign Life Coalition is the owner of Life Site News	entailment
+Conservative Campaign Life Coalition bought Life Site News	entailment
+Conservative Campaign Life Coalition acquired Life Site News	entailment
+Life Site News is funded through donations	entailment
+The remit of Life Site News is to report on anti-abortion, anti-gay marriage, and pro-Evangelical Christian issues.	entailment
+The mission of Life Site News is to report on anti-abortion, anti-gay marriage, and pro-Evangelical Christian issues and promote traditional family values.	entailment
+The usual audience of Life Site News is **conservative Christians**	entailment
+Life Site News tends to the  far-right biased.	entailment
+Life Site News tends to the **right** according to **their About page**	entailment
+Other sources have commented on Life Site News, stating that it tends to be far-right biased	entailment
+The factuality of Life Site News is reported to be Questionable	entailment
+The factuality of Life Site News is reported to be Questionable, according to Mediabiasfactcheck.	entailment
+Life Site News failed a fact-check for an article titled "If you get the Pfizer vax, you’re more likely to get COVID".	entailment
+Life Site News chose not to cover **positive aspects of same-sex marriage**	entailment
+Life Site News relies on advertising for revenue	entailment
+Life Site News relies on donations for revenue	entailment
+Life Site News has received donations from **generous readers**	entailment
+When aggregating stories, Life Site News relies on information from **Rush Limbaugh**.	entailment
+Life Site News has endorsed **former President Trump**	entailment
+Life Site News has an editorial bias towards far-right biased.	entailment
+Life Site News printed a biased article titled **How Trump brought Christmas back to America.**	entailment
+Life Site News had to apologize for **many failed fact checks**	entailment

@@ -1,0 +1,21 @@
+Thinking Humanity is funded through advertising and an online shop selling merchandise.	entailment
+The remit of Thinking Humanity is to provoke our thoughts, inspire and motivate our spirits, and give a better perspective on the injustices across the world.	contradiction
+The mission of Thinking Humanity is to provoke our thoughts, inspire and motivate our spirits, and give a better perspective on the injustices across the world.	entailment
+The usual audience of Thinking Humanity is moderate Pseudoscience source	entailment
+Thinking Humanity tends to the left	entailment
+Other sources have commented on Thinking Humanity, stating that it tends to be **a moderate Pseudoscience source**.	entailment
+The factuality of Thinking Humanity is reported to be  moderate	entailment
+The factuality of Thinking Humanity is reported to be mixed, according to D. Van Zandt 6/6/2020.	entailment
+Thinking Humanity failed a fact-check for an article titled **A video shows a group of whales coming to the surface after hearing an orchestra playing music.**	contradiction
+Thinking Humanity provides original content written by staff journalists	contradiction
+Thinking Humanity relies on advertising for revenue	entailment
+Thinking Humanity relies on subscriptions for revenue	contradiction
+Thinking Humanity relies on donations for revenue	contradiction
+When aggregating stories, Thinking Humanity relies on information from **other sources**.	entailment
+Thinking Humanity has endorsed **pseudoscience, spirituality, and culture news**	entailment
+Thinking Humanity has an editorial bias towards **the left**	entailment
+Thinking Humanity printed a biased article titled [Psychologists Say Donald Trump Shows Signs of Mental Illness, ‘Malignant Narcissism'](https://www.thinkinghumanity.com/2017/03/psychologists-say-donald-trump-shows-signs-of-mental-illness-malignant-narcissism.html)	entailment
+Thinking Humanity had to apologize for **plagiarizing the work of others**	entailment
+Thinking Humanity is funded by the  government.	contradiction
+Thinking Humanity is a  Pseudoscience source.	entailment
+Thinking Humanity covers the following topics: Science/Pseudoscience, Spirituality, Culture.	entailment

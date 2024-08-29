@@ -1,0 +1,23 @@
+Bill Simmons founded The Ringer	entailment
+Bill Simmons is the founder of The Ringer	entailment
+Spotify Technologies owns The Ringer	entailment
+Spotify Technologies is the owner of The Ringer	entailment
+Spotify Technologies bought The Ringer	entailment
+Spotify Technologies acquired The Ringer	entailment
+The Ringer is funded through advertising	entailment
+The remit of The Ringer is to **cover sports, pop culture, and tech**	entailment
+The mission of The Ringer is to  entertain and inform.	entailment
+The Ringer tends to the  Left-Center.	entailment
+The Ringer tends to the Left-Center according to Mediabiasfactcheck.	entailment
+Other sources have commented on The Ringer, stating that it tends to be Left-Center biased	entailment
+The factuality of The Ringer is reported to be High	entailment
+The factuality of The Ringer is reported to be High, according to Mediabiasfactcheck	entailment
+The Ringer failed a fact-check for an article titled "The Case for Indicting Donald Trump"	contradiction
+The Ringer chose not to cover politics	contradiction
+The Ringer relies on advertising for revenue	entailment
+The Ringer relies on donations for revenue	contradiction
+The Ringer has received donations from Spotify Technologies	contradiction
+When aggregating stories, The Ringer relies on information from **credible sources such as the Washington Post, CNN, AP News, The Hill, and the Wall Street Journal**.	entailment
+The Ringer has endorsed left-Center bias	entailment
+The Ringer has an editorial bias towards left.	entailment
+The Ringer printed a biased article titled "The Case for Indicting Donald Trump".	entailment

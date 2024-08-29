@@ -1,0 +1,21 @@
+Lee Enterprises founded Kenosha News	contradiction
+Lee Enterprises is the CEO of Kenosha News	entailment
+Lee Enterprises owns Kenosha News	entailment
+Lee Enterprises is the owner of Kenosha News	entailment
+Lee Enterprises bought Kenosha News	entailment
+Lee Enterprises acquired Kenosha News	entailment
+Kenosha News is funded through **advertising and subscription fees**	entailment
+The remit of Kenosha News is to **cover news, sports, entertainment, lifestyle, and opinion**.	entailment
+The mission of Kenosha News is to **report on news, sports, weather, crime, and entertainment for the greater Kenosha, Wisconsin region. Reporters cover local news with minimal bias.**	contradiction
+Kenosha News tends to the **Left-Center**	entailment
+Kenosha News tends to the left-center according to Mediabiasfactcheck.	entailment
+Other sources have commented on Kenosha News, stating that it tends to be left-leaning	entailment
+The factuality of Kenosha News is reported to be High	entailment
+The factuality of Kenosha News is reported to be High, according to D. Van Zandt 8/10/2020	entailment
+Kenosha News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Kenosha News relies on advertising for revenue	entailment
+Kenosha News relies on donations for revenue	entailment
+When aggregating stories, Kenosha News relies on information from **the Associated Press and CNN**	entailment
+Kenosha News has endorsed Democratic Presidential candidates	entailment
+Kenosha News has an editorial bias towards **the left**	entailment
+Kenosha News printed a biased article titled Editorial: Conservatives on the Supreme Court look set to trash Roe v. Wade’s viability line — but what would they replace it with?	entailment

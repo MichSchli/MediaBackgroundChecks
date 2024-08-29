@@ -1,0 +1,12 @@
+History
+Founded in 1983 as Control Video Corporation and later America Online (AOL), it is a web portal and online service provider. AOL.com features aggregated, curated, and original news reporting.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Several companies in its history have owned AOL, most recently being
+[acquired](https://newsfactsnetwork.com/2021/05/03/verizon-sells-aol-and-yahoo-for-about-half-of-what-it-paid/) by Apollo Global Management from Verizon in a deal said to be worth $5 billion. Advertising and sponsored content derive revenue for the company.
+Analysis / Bias
+In review, the majority of AOL’s news content is curated from other sources. The most common sources cited in the articles I reviewed were
+[Business Insider](http://mediabiasfactcheck.com/business-insider/) (Left-Center), [Reuters](http://mediabiasfactcheck.com/reuters/) (Least Biased), [AP](http://mediabiasfactcheck.com/associated-press/) (Least Biased), and [ABC News](http://mediabiasfactcheck.com/abc-news/) (Left-Center). I rate their curated content low-biased, with minimal loaded words and appropriately sourced. On the other hand, AOL produces news content with a more editorial tone. The AOL-produced content uses moderate loaded words and favors the left in most stories. The articles are typically sourced from mostly left-center sources and, for the most part, are rooted in fact.
+Based on this review, AOL.com aligns with a left-center bias and high factual reporting. The site combines aggregated content from various sources with its own reporting, maintaining a balance in its coverage with a slight lean towards left-center perspectives in its editorial content.
+Failed Fact Checks
+- None in the Last 5 years

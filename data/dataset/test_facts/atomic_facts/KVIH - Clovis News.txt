@@ -1,0 +1,19 @@
+Julian Sinclair Smith is the founder of KVIH - Clovis News	entailment
+Sinclair Broadcast Group owns KVIH - Clovis News	entailment
+Sinclair Broadcast Group is the owner of KVIH - Clovis News.	entailment
+Sinclair Broadcast Group bought KVIH - Clovis News	entailment
+The remit of KVIH - Clovis News is to **report local news with minimal bias in wording**	entailment
+The mission of KVIH - Clovis News is to  deliver local news with minimal bias.	contradiction
+The usual audience of KVIH - Clovis News is **conservative**	entailment
+KVIH - Clovis News tends to the right.	entailment
+Other sources have commented on KVIH - Clovis News, stating that it tends to be **Right-Center Biased**	entailment
+The factuality of KVIH - Clovis News is reported to be High	entailment
+The factuality of KVIH - Clovis News is reported to be high, according to Mediabiasfactcheck.	entailment
+KVIH - Clovis News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+KVIH - Clovis News relies on donations for revenue	contradiction
+When aggregating stories, KVIH - Clovis News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and others by Sinclair properties.	entailment
+Sinclair Broadcasting Group for scripting anchors to deliver a conservative-leaning message	entailment
+KVIH - Clovis News's headquarter is located in Clovis, New Mexico	entailment
+KVIH - Clovis News is funded by the **United States** government	contradiction
+KVIH - Clovis News is a satellite television station	contradiction
+KVIH - Clovis News covers the following topics: local news, sports, weather, lifestyle, and crime reporting	entailment

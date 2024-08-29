@@ -1,0 +1,23 @@
+American Astronomical Society owns Sky and Telescope	entailment
+American Astronomical Society is the owner of Sky and Telescope	entailment
+American Astronomical Society bought Sky and Telescope	entailment
+Sky and Telescope is funded through advertising, subscriptions, a store that sells merchandise.	entailment
+The mission of Sky and Telescope is to report news related to astronomy with minimal bias.	entailment
+Sky and Telescope tends to the pro-Science.	entailment
+Other sources have commented on Sky and Telescope, stating that it tends to be **Pro-Science**	entailment
+The factuality of Sky and Telescope is reported to be **high**	entailment
+The factuality of Sky and Telescope is reported to be high, according to their review.	entailment
+Sky and Telescope failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Sky and Telescope chose not to cover failed fact checks	entailment
+Sky and Telescope relies on advertising for revenue	entailment
+Sky and Telescope relies on subscriptions for revenue	entailment
+Sky and Telescope relies on donations for revenue	contradiction
+When aggregating stories, Sky and Telescope relies on information from astronomy-related sources.	entailment
+Sky and Telescope has endorsed Pro-Science	entailment
+Sky and Telescope has an editorial bias towards Pro-Science	entailment
+Sky and Telescope was fined 	entailment
+Sky and Telescope printed a biased article titled "None in the Last 5 years"	contradiction
+Sky and Telescope had to apologize for **None in the Last 5 years**	entailment
+Sky and Telescope is funded by the American government	contradiction
+Sky and Telescope is a **Pro-Science**	entailment
+Sky and Telescope covers the following topics: Astronomy	entailment

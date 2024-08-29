@@ -1,0 +1,12 @@
+History
+MinnPost is a nonprofit online newspaper based in Minneapolis, founded in 2007, with a focus on Minnesota news. According to their
+[about page](https://www.minnpost.com/about/): “MinnPost provides news and analysis based on reporting by professional journalists, many of whom have decades of experience in the Twin Cities media. MinnPost adheres to the [Society of Professional Journalists’ Code of Ethics](http://www.spj.org/ethicscode.asp).” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The paper is owned by the nonprofit MinnPost. Revenue is generated through memberships, donations, advertisements, and grants. They also disclose their funding on the
+[about page](https://www.minnpost.com/about). Grants of over $50K come from “The Otto Bremer Trust (Greater Minnesota reporting), Facebook Journalism Project (digital growth), The McKnight Foundation (general operating), and The Joyce Foundation (effective democracy, environment, and gun violence prevention).”
+Analysis / Bias
+In review, MinnPost publishes a wide variety of news concerning Minnesota, ranging from politics to the environment. There is little use of loaded language such as this
+[Thousands gather for peaceful protests around Twin Cities](https://www.minnpost.com/glean/2020/06/thousands-gather-for-peaceful-protests-around-the-twin-cities/). This story is properly sourced to the [Pioneer Press](https://mediabiasfactcheck.com/st-paul-pioneer-press/) and [Star Tribune](https://mediabiasfactcheck.com/minneapolis-star-tribune/). There is a left-leaning political bias as most stories favor the left, in particular when it comes to the [environment](https://www.minnpost.com/earth-journal/2018/05/us-and-uk-rushing-understand-risks-rapidly-shrinking-antarctic-glacier).
+In general, they report news factually with a left-leaning editorial bias.
+Failed Fact Checks
+- None in the Last 5 years

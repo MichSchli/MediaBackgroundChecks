@@ -1,0 +1,21 @@
+Dorm 18 – 1 Productions owns iPatriot	entailment
+Dorm 18 – 1 Productions is the owner of iPatriot	entailment
+Dorm 18 – 1 Productions acquired iPatriot	contradiction
+iPatriot is funded through revenue from a store linked to Patriot Depot, which sells conservative-themed merchandise.	entailment
+The remit of iPatriot is to **feature news articles and content published by members**	entailment
+The mission of iPatriot is to **provide news and opinion content with a right bias**	entailment
+The usual audience of iPatriot is **conservative-leaning individuals**.	entailment
+iPatriot tends to the right	entailment
+Other sources have commented on iPatriot, stating that it tends to be **right biased**.	entailment
+The factuality of iPatriot is reported to be Right Biased and Questionable.	entailment
+The factuality of iPatriot is reported to be Right Biased and Questionable, according to D. Van Zandt 7/22/2017.	entailment
+iPatriot provides original content written by staff journalists	contradiction
+iPatriot relies on subscriptions for revenue	contradiction
+When aggregating stories, iPatriot relies on information from **members**	entailment
+iPatriot has endorsed **the right-wing**	entailment
+iPatriot has an editorial bias towards right.	entailment
+iPatriot printed a biased article titled [Reparations: Democrats Scam and Insult Blacks Again](https://ipatriot.com/reparations-democrats-scam-and-insult-blacks-again/).	entailment
+iPatriot's headquarter is located in **Dorm 18 - 1 Productions**	entailment
+The iPatriot is funded by the Christian government	contradiction
+iPatriot is a **right-biased**	entailment
+iPatriot covers the following topics: **politics, conservative viewpoints, current events, opinion pieces, Christian values, libertarianism, and citizen journalism**	entailment

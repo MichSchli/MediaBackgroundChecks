@@ -1,0 +1,16 @@
+History
+Launched in 2016,
+[Newshub](https://www.discoverycorporate.co.nz/home/our-brands.html) is a multi-platform TV, radio, and news service based in Auckland, New Zealand. Newshub covers national and international news, weather, sports, entertainment, technology, and lifestyle. [Read our profile on New Zealand’s government and media.](https://mediabiasfactcheck.com/new-zealand-media-profile/)
+Funded by / Ownership
+In 2020, MediaWorks
+[sold](https://www.stuff.co.nz/business/125319432/discovery-paid-20m-cash-for-tv3-and-rest-of-mediaworks-tv-arm) Newshub and related entities to US multimedia entertainment company Discovery, Inc. (now Warner Bros. Discovery). Newshub is funded through advertising.
+Analysis / Bias
+Newshub publishes news with strong, emotionally loaded words, such as:
+[“Who Mayor Wayne Brown was calling, texting as Auckland flooded.”](https://www.newshub.co.nz/home/politics/2023/03/who-mayor-wayne-brown-was-calling-texting-as-auckland-flooded.html) Mayor Brown is the [center-right](https://www.1news.co.nz/2022/10/08/centre-right-wayne-brown-to-become-aucklands-new-mayor/) Mayor of Auckland. He has been criticized for the delay in declaring a state of emergency as Auckland flooded. A quote from the article reads, “Newshub has obtained a log of calls and text messages Auckland Mayor Wayne Brown made on the day New Zealand’s largest city experienced widespread flooding.”
+Other examples of loaded language include:
+[“Ministry for Environment slammed by ACT Party for spending $913,000 on flights in 11 months,”](https://www.newshub.co.nz/home/politics/2023/03/ministry-for-environment-slammed-by-act-party-for-spending-913-000-on-flights-in-11-months.html) and [“New Zealanders rank inflation, cost of living as most important issue country faces.”](https://www.newshub.co.nz/home/money/2023/02/new-zealanders-rank-inflation-cost-of-living-as-most-important-issue-country-faces.html)
+Regarding sourcing, Newshub utilizes credible sources such as
+[IPSOS](https://mediabiasfactcheck.com/ipsos-polling/) and [environment.govt.nz ](https://environment.govt.nz/assets/publications/OIAD-488-Redacted.pdf) through quotes and images; however, they often don’t provide hyperlinks; therefore, it is difficult to verify the claims. Further, their poll reporting has been criticized, such as in this opinion piece where it is accused of bias, [“Opinion: Newshub’s biased poll reporting.”](https://www.massey.ac.nz/about/news/opinion-newshubs-biased-poll-reporting/)
+In general, Newshub is mostly factual based on not always sourcing properly and a failed fact check. They also hold left-leaning editorial positions such as this
+[Nearly two thirds of Kiwi LGBTQ+ travellers suffer negative holiday experiences – report](https://www.newshub.co.nz/home/travel/2022/08/nearly-two-thirds-of-kiwi-lgbtq-travellers-suffer-negative-travel-experiences-report.html).
+Failed Fact Checks

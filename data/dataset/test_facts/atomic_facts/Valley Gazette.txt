@@ -1,0 +1,24 @@
+Local Report Inc is the founder of Valley Gazette	entailment
+Local Report Inc leads Valley Gazette	entailment
+Local Report Inc owns Valley Gazette	entailment
+Local Report Inc bought Valley Gazette	entailment
+Local Report Inc acquired Valley Gazette	contradiction
+Valley Gazette is funded through **non-transparent means**	entailment
+The remit of Valley Gazette is to  promote left-leaning propaganda.	entailment
+The mission of Valley Gazette is to  promote left-leaning propaganda in support of the Democratic Party.	entailment
+The usual audience of Valley Gazette is **left-leaning and favors the Democratic Party**	entailment
+Valley Gazette tends to the Left	entailment
+Other sources have commented on Valley Gazette, stating that it tends to be left-leaning.	entailment
+The factuality of Valley Gazette is reported to be questionable, according to D. Van Zandt	entailment
+Valley Gazette chose not to cover local news stories on sports, entertainment, and business.	contradiction
+Valley Gazette relies on advertising for revenue	contradiction
+Valley Gazette relies on donations for revenue	contradiction
+When aggregating stories, Valley Gazette relies on information from **The American Independent**	entailment
+Valley Gazette has endorsed Left-Center Biased and Questionable based on serving as an imposter local news site that promotes left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+Valley Gazette has an editorial bias towards Left-Center.	entailment
+Valley Gazette was fined 	entailment
+Valley Gazette printed a biased article titled Mothers in Arizona and Across the U.S. Depend on Medicaid | Opinion	entailment
+Valley Gazette printed a factually misleading titled  Mothers in Arizona and Across the U.S. Depend on Medicaid | Opinion	entailment
+Valley Gazette is funded by the United States government	entailment
+Valley Gazette is a  leftist-leaning.	entailment
+Valley Gazette covers the following topics: sports, entertainment, and business news	entailment

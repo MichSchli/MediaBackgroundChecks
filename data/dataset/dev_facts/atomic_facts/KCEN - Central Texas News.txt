@@ -1,0 +1,20 @@
+TEGNA founded KCEN - Central Texas News	contradiction
+TEGNA leads KCEN - Central Texas News	entailment
+TEGNA Inc. owns KCEN - Central Texas News	entailment
+TEGNA is the owner of KCEN - Central Texas News	entailment
+TEGNA bought KCEN - Central Texas News	entailment
+TEGNA acquired KCEN - Central Texas News	contradiction
+KCEN - Central Texas News is funded through **advertising and sponsored content**.	entailment
+The remit of KCEN - Central Texas News is to serve the greater good of our communities.	entailment
+The mission of KCEN - Central Texas News is to **serve the greater good of our communities**	entailment
+KCEN - Central Texas News tends to the  Least Biased rating according to D. Van Zandt 	entailment
+Other sources have commented on KCEN - Central Texas News, stating that it tends to be **least biased**	entailment
+The factuality of KCEN - Central Texas News is reported to be High	entailment
+The factuality of KCEN - Central Texas News is reported to be high, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/verify-fact-check-bias/)	entailment
+KCEN - Central Texas News failed a fact-check for an article titled "Waco daycare owner, employee heading to court over alleged child abuse at facility".	contradiction
+KCEN - Central Texas News printed a retraction after failing a fact-check for an article titled "Waco daycare owner, employee heading to court over alleged child abuse at facility".	contradiction
+KCEN - Central Texas News chose not to cover op-eds and reports on politics.	entailment
+KCEN - Central Texas News relies on advertising for revenue	entailment
+When aggregating stories, KCEN - Central Texas News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and other TEGNA TV stations.	entailment
+KCEN - Central Texas News has an editorial bias towards **neither side**	entailment
+KCEN - Central Texas News had to apologize for **none in the Last 5 years**.	entailment

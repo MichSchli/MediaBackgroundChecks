@@ -1,0 +1,16 @@
+Santa Monica College owns KCRW - NPR - Santa Monica	entailment
+The answer is: institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System	entailment
+The usual audience of KCRW - NPR - Santa Monica is **left-center biased**	entailment
+KCRW - NPR - Santa Monica tends to the left	entailment
+Other sources have commented on KCRW - NPR - Santa Monica, stating that it tends to be Left-Center Biased	entailment
+The factuality of KCRW - NPR - Santa Monica is reported to be High	entailment
+The factuality of KCRW - NPR - Santa Monica is reported to be High, according to D. Van Zandt 11/2/2022	entailment
+KCRW - NPR - Santa Monica chose not to cover Mayoral hopeful Karen Bass wants to change ‘whack-a-mole approach’ to homelessness	contradiction
+KCRW - NPR - Santa Monica relies on advertising for revenue	contradiction
+KCRW - NPR - Santa Monica has received donations from individual contributions	entailment
+When aggregating stories, KCRW - NPR - Santa Monica relies on information from [NPR](https://mediabiasfactcheck.com/npr/).	entailment
+KCRW - NPR - Santa Monica has endorsed **the left-Center Biased based on story selection and editorial perspectives that slightly favors the left**	entailment
+KCRW - NPR - Santa Monica has an editorial bias towards **the left**	entailment
+KCRW - NPR - Santa Monica is funded by the Santa Monica government	contradiction
+KCRW - NPR - Santa Monica is a **Left-Center Biased**	entailment
+KCRW - NPR - Santa Monica covers the following topics:  Left-Center Biased based on story selection and editorial perspectives that slightly favors the left.	entailment

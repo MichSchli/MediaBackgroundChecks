@@ -1,0 +1,24 @@
+Matt Walsh is the founder of Palm Coast Observer	entailment
+Observer leads Palm Coast Observer	entailment
+Observer Media Group owns Palm Coast Observer	entailment
+Observer Media Group bought Palm Coast Observer	entailment
+Observer Media Group acquired Palm Coast Observer	entailment
+Palm Coast Observer is funded through advertising and subscription fees	entailment
+The remit of Palm Coast Observer is to **publish local and regional news through journalists with minimal bias**	entailment
+The mission of Palm Coast Observer is to report local and regional news through journalists with minimal bias.	entailment
+The usual audience of Palm Coast Observer is local and regional residents.	entailment
+Palm Coast Observer tends to the ***least biased***	entailment
+Palm Coast Observer tends to the least biased based on sound journalism and reasonably balanced editorial positions according to D. Van Zandt 11/30/2022	entailment
+Other sources have commented on Palm Coast Observer, stating that it tends to be **least biased**.	entailment
+The factuality of Palm Coast Observer is reported to be High	entailment
+The factuality of Palm Coast Observer is reported to be high, according to Mediabiasfactcheck.com.	entailment
+"Palm Coast Observer chose not to cover national or international news"	entailment
+Palm Coast Observer provides original content written by staff journalists	entailment
+Palm Coast Observer relies on advertising for revenue	entailment
+Palm Coast Observer relies on subscriptions for revenue	entailment
+Palm Coast Observer relies on donations for revenue	contradiction
+Palm Coast Observer has received donations from None in the Last 5 years	entailment
+When aggregating stories, Palm Coast Observer relies on information from **journalists**.	entailment
+Palm Coast Observer has an editorial bias towards least biased based on sound journalism and reasonably balanced editorial positions.	entailment
+Palm Coast Observer had to apologize for **none in the Last 5 years**.	entailment
+Palm Coast Observer had to apologize to no one for nothing	entailment

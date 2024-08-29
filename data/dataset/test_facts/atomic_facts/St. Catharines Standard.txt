@@ -1,0 +1,22 @@
+Who is the CEO of St. Catharines Standard	entailment
+Metroland Media Group Ltd. leads St. Catharines Standard	entailment
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd. is the owner of St. Catharines Standard	entailment
+Metroland Media Group Ltd.	entailment
+St. Catharines Standard is funded through **advertising**	entailment
+The remit of St. Catharines Standard is to \ Provide online local, national, and world news for the greater St. Catharines, Ontario region.	entailment
+St. Catharines Standard tends to the Left-Center.	entailment
+Other sources have commented on St. Catharines Standard, stating that it tends to be Left-Center biased.	entailment
+The factuality of St. Catharines Standard is reported to be High	entailment
+The factuality of St. Catharines Standard is reported to be High, according to D. Van Zandt 06/24/2023	entailment
+St. Catharines Standard failed a fact-check for an article titled One person dead, one in critical condition following shooting in St. Catharines.	contradiction
+St. Catharines Standard chose not to cover [failed fact checks](https://www.stcatharinesstandard.ca/)	entailment
+St. Catharines Standard relies on advertising for revenue	entailment
+St. Catharines Standard relies on subscriptions for revenue	contradiction
+St. Catharines Standard relies on donations for revenue	contradiction
+When aggregating stories, St. Catharines Standard relies on information from the [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/)	entailment
+St. Catharines Standard has an editorial bias towards left	entailment
+St. Catharines Standard was fined 	entailment
+St. Catharines Standard's headquarter is located in St. Catharines.	entailment
+St. Catharines Standard is funded by the Canadian government	contradiction
+St. Catharines Standard is a  newspaper.	entailment

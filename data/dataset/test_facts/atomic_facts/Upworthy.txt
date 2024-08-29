@@ -1,0 +1,21 @@
+Eli Pariser founded Upworthy	entailment
+Eli Pariser is the founder of Upworthy	entailment
+Good Worldwide owns Upworthy	entailment
+Good Worldwide is the owner of Upworthy	entailment
+Upworthy is funded through advertising	entailment
+The remit of Upworthy is to produce content that will go viral.	entailment
+The mission of Upworthy is to promote stories with a progressive bent on political and social issues.	entailment
+The usual audience of Upworthy is **those who lean left**	entailment
+Upworthy tends to the left	entailment
+Other sources have commented on Upworthy, stating that it tends to be **left biased**.	entailment
+The factuality of Upworthy is reported to be Mostly Factual	entailment
+The factuality of Upworthy is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+Upworthy relies on advertising for revenue	entailment
+Upworthy relies on subscriptions for revenue	contradiction
+Upworthy relies on donations for revenue	contradiction
+Upworthy has endorsed a solid left-leaning bias.	entailment
+Upworthy has an editorial bias towards **the left**	entailment
+Upworthy printed a biased article titled "Trump’s unprecedented refugee policy is a huge economic mistake. Here’s why".	entailment
+Upworthy had to apologize for **a failed fact check**	entailment
+Upworthy is a website	entailment
+Upworthy covers the following topics: viral content, progressive bent on political and social issues, left-leaning bias, political news	entailment

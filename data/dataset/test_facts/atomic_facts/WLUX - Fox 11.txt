@@ -1,0 +1,13 @@
+WLUX - Fox 11 is funded through **advertising**	entailment
+The mission of WLUX - Fox 11 is to **provide news, sports, weather, lifestyle, and crime reporting**	entailment
+WLUX - Fox 11 tends to theright	entailment
+Other sources have commented on WLUX - Fox 11, stating that it tends to be **right-leaning**	entailment
+The factuality of WLUX - Fox 11 is reported to be High	entailment
+The factuality of WLUX - Fox 11 is reported to be high, according to D. Van Zandt 09/15/2021	entailment
+WLUX - Fox 11 failed a fact-check for an article titled "UW-Oshkosh, Green Bay still short of 70% vaccination goal".	contradiction
+WLUX - Fox 11 chose not to cover **op-eds**	entailment
+WLUX - Fox 11 relies on donations for revenue	contradiction
+When aggregating stories, WLUX - Fox 11 relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+WLUX - Fox 11 has an editorial bias towards **the right**	entailment
+WLUX - Fox 11 is a **FOX**	contradiction
+WLUX - Fox 11 covers the following topics: local news, sports, weather, lifestyle, and crime reporting.	entailment

@@ -1,0 +1,22 @@
+Founded in 2010 founded Secure America Now	entailment
+Secure America Now is funded through **donations and a shop that sells conservative-themed merchandise**	entailment
+The remit of Secure America Now is to raise security issues “to the forefront of the American debate.”	entailment
+The mission of Secure America Now is to raise security issues “to the forefront of the American debate.”	entailment
+The usual audience of Secure America Now is **conservative**	entailment
+Secure America Now tends to the **right biased and Questionable**	entailment
+Other sources have commented on Secure America Now, stating that it tends to be right biased	entailment
+The factuality of Secure America Now is reported to be **Questionable**	entailment
+The factuality of Secure America Now is reported to be questionable, according to the promotion of conspiracy theories, poor sourcing, a lack of transparency, and failed fact checks.	entailment
+Secure America Now chose not to cover **donations and a shop that sells conservative-themed merchandise generate revenue**	entailment
+Secure America Now relies on donations for revenue	entailment
+Secure America Now has received donations from Hedge Fund manager Robert Mercer, former Best Buy CEO Brad Anderson, and Best Buy founder Richard Schulz	entailment
+When aggregating stories, Secure America Now relies on information from **external sources**	entailment
+Secure America Now has endorsed **far-right nationalist views points that are not always factual**	entailment
+Secure America Now has an editorial bias towards  right biased	entailment
+Secure America Now printed a biased article titled  "5 Outrageously Hypocritical Democrat Supreme Court Positions"	entailment
+Secure America Now printed a factually misleading titled "5 Outrageously Hypocritical Democrat Supreme Court Positions".	entailment
+Secure America Now had to apologize for **failed fact checks**	entailment
+Secure America Now is funded by the  government.	contradiction
+Secure America Now is a  conservative nonprofit group.	entailment
+Secure America Now uses a peer review process	entailment
+Secure America Now covers the following topics: foreign policy issues, security issues, conservative-themed merchandise, right-leaning causes, news and commentary with a far-right bias, false or unproven information, far-right nationalist views points, conspiracy theories, poor sourcing, failed fact checks.	entailment

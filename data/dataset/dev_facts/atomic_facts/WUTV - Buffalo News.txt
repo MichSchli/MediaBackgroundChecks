@@ -1,0 +1,20 @@
+Julian founded WUTV - Buffalo News	contradiction
+Sinclair Broadcast Group owns WUTV - Buffalo News	entailment
+Sinclair Broadcast Group is the owner of WUTV - Buffalo News	entailment
+Sinclair Broadcast Group bought WUTV - Buffalo News	entailment
+Sinclair Broadcast Group acquired WUTV - Buffalo News	entailment
+The remit of WUTV - Buffalo News is to **report local news with minimal bias in wording**	entailment
+The mission of WUTV - Buffalo News is to **report local news with minimal bias in wording**	entailment
+WUTV - Buffalo News tends to the right	entailment
+WUTV - Buffalo News tends to the right according to mediabiasfactcheck.com	entailment
+Other sources have commented on WUTV - Buffalo News, stating that it tends to be **right-leaning**.	entailment
+The factuality of WUTV - Buffalo News is reported to be High	entailment
+The factuality of WUTV - Buffalo News is reported to be High, according to D. Van Zandt 	entailment
+WUTV - Buffalo News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+WUTV - Buffalo News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+WUTV - Buffalo News provides original content written by staff journalists	entailment
+WUTV - Buffalo News relies on advertising for revenue	entailment
+WUTV - Buffalo News relies on donations for revenue	contradiction
+When aggregating stories, WUTV - Buffalo News relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+WUTV - Buffalo News has an editorial bias towards **the right**	entailment
+"WUTV - Buffalo News was fined "	entailment

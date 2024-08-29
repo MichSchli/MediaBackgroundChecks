@@ -1,0 +1,19 @@
+Jewish Currents owns Jewish Currents	contradiction
+Jewish Currents is funded through subscriptions and donations; the magazine publishes its annual financial statements.	entailment
+The remit of Jewish Currents is to **offer leftist insights and analyses on issues affecting the Jewish community**.	entailment
+The mission of Jewish Currents is to **emphasize social justice and human rights**	entailment
+Jewish Currents tends to the left	entailment
+Other sources have commented on Jewish Currents, stating that it tends to be **left-biased**.	entailment
+The factuality of Jewish Currents is reported to be mostly factual	entailment
+Jewish Currents relies on subscriptions for revenue	entailment
+Jewish Currents relies on donations for revenue	entailment
+Jewish Currents has received donations from **subscriptions and donations**	entailment
+When aggregating stories, Jewish Currents relies on information from **factual information and credible sources**	entailment
+Jewish Currents has endorsed leftist perspectives."	entailment
+Jewish Currents has an editorial bias towards **left-leaning perspectives**	entailment
+Jewish Currents printed a biased article titled "Biden’s Legacy Will Be Apartheid,"	entailment
+Jewish Currents printed a factually misleading titled Even as We Are Trying to Help, We Are Being Attacked	entailment
+Jewish Currents had to apologize for **a report that raised valid questions about the effectiveness of Biden’s approach**	entailment
+Jewish Currents's headquarter is located in Brooklyn.	entailment
+Jewish Currents is a progressive magazine	entailment
+Jewish Currents covers the following topics: politics, culture, and social issues within the Jewish community	entailment

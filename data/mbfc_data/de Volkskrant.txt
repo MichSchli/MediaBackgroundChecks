@@ -1,0 +1,17 @@
+History
+Founded in 1919,
+[de Volkskrant](https://en.wikipedia.org/wiki/De_Volkskrant) is a Dutch daily morning newspaper based in Amsterdam, Netherlands. De Volkskrant covers a wide range of topics, including national news pertaining to the Netherlands, world news, and magazine-style stories typically focused on arts, entertainment, and culture through mostly interviews with national celebrities: [“Arie Boomsma: ‘That my hair and my beard turn gray, I’ll be happy. Baldness is different.”](https://www.volkskrant.nl/mensen/arie-boomsma-dat-mijn-haar-en-mijn-baard-grijs-worden-laat-ik-lekker-gebeuren-kaalheid-is-anders-~bd2cab96/) [Read our Netherlands report on Media and Government.](https://mediabiasfactcheck.com/netherlands-media-profile/)
+Funded by / Ownership
+De Volkskrant is owned by Belgian publishing company De Persgroep which owns media assets in Belgium, Denmark, and the Netherlands. The Van Thillo family owns the firm. Subscriptions and advertising generate revenue.
+Analysis / Bias
+In review, their political articles often utilize emotionally loaded headlines such as:
+[“The angry white man wants his masculinity back.”](https://www.volkskrant.nl/mensen/de-boze-witte-man-wil-zijn-mannelijkheid-terug~b09b0433/) In this article, they interview [Jordan B. Peterson](https://www.vox.com/world/2018/3/26/17144166/jordan-peterson-12-rules-for-life), who, according to [Vox](https://mediabiasfactcheck.com/vox/), is a psychology professor at the University of Toronto and a right-wing internet celebrity who has claimed that feminists have “an unconscious wish for brutal male domination.” A direct quote from the article in de Volkskrant describes Jordan B. Peterson as “Peterson, who is currently regarded as the most important advocate of the young white man in crisis.”
+De Volkskrant utilizes NRC Handelsblad’s national articles and summarizes articles from the
+[New York Times](https://mediabiasfactcheck.com/new-york-times/), [Washington Post](https://mediabiasfactcheck.com/washington-post/), and The [Economist](https://mediabiasfactcheck.com/the-economist/). They also publish an Opinion blog section that utilizes emotionally loaded language in their headlines: “ [The Netherlands was not at the American Embassy in Jerusalem. ‘That’s cowardly behavior’”](https://www.volkskrant.nl/columns-opinie/opinieblog-nederland-was-niet-bij-opening-amerikaanse-ambassade-jeruzalem-dat-is-laf-gedrag-~b579549c/) and [“Export champion Netherlands trumps world trade – and not everyone is happy about that.”](https://www.volkskrant.nl/economie/exportkampioen-nederland-troeft-wereldhandel-af-en-daar-is-niet-iedereen-blij-mee~b0e018a4/)
+De Volkskrant has been described as left-leaning by several sources.
+[Eurotopics.net](http://www.eurotopics.net/en/149418/the-netherlands-a-country-of-newspapers-goes-digital) states that de Volkskrant is left-wing-liberal in orientation, and [Media Landscape Media](https://www.europeansocialsurvey.org/docs/round7/methods/ESS7_media_landscape_media_claims_ed_01_0.pdf) claims their political stance as “Left oriented; although less pronounced in recent years”
+Failed Fact Checks
+- None in the Last 5 years
+Overall, from the articles we reviewed, we rate their political bias Right-Center due to story selection that slightly favors the right through policy and word choices. We also rate them High in factual reporting due to proper sourcing. (M. Huitsing 5/14/2018) Updated (01/28/2022)
+Source:
+[https://www.volkskrant.nl/](https://www.volkskrant.nl/)

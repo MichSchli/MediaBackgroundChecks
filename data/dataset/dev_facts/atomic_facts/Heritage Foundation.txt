@@ -1,0 +1,19 @@
+Joseph Coors founded Heritage Foundation	entailment
+Joseph Coors is the founder of Heritage Foundation	entailment
+Heritage Foundation is funded through individual donations as well as grants from conservative organizations such as the Koch Family Foundations, Marlboro cigarette manufacture’s parent company Altria, and the Bradley Foundation.	entailment
+The remit of Heritage Foundation is to influence U.S. public policymaking and is considered one of the most influential conservative research organizations in the United States.	entailment
+The mission of Heritage Foundation is to **influence U.S. public policymaking**	entailment
+The usual audience of Heritage Foundation is **conservative individuals**.	entailment
+The Heritage Foundation tends to the influential conservative research organizations in the United States.	entailment
+Other sources have commented on Heritage Foundation, stating that it tends to be Right Biased.	entailment
+The factuality of Heritage Foundation is reported to be Mixed, according to Media Bias Fact Check.	entailment
+The Heritage Foundation chose not to cover **straight news**	entailment
+Heritage Foundation provides original content written by staff journalists	contradiction
+Heritage Foundation relies on donations for revenue	entailment
+Heritage Foundation has received donations from Joseph Coors, Richard Mellon Scaife, Koch Family Foundations, Altria, and Bradley Foundation.	entailment
+When aggregating stories, Heritage Foundation relies on information from **conservative writers**.	entailment
+The Heritage Foundation has endorsed conservative policy positions	entailment
+The Heritage Foundation has an editorial bias towards conservative policy positions	entailment
+Heritage Foundation printed a biased article titled "Green New Deal Would Barely Change Earth’s Temperature. Here Are the Facts."	entailment
+The Heritage Foundation printed a factually misleading titled "Green New Deal Would Barely Change Earth’s Temperature. Here Are the Facts."	entailment
+Heritage Foundation had to apologize to no one for nothing	entailment

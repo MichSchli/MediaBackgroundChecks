@@ -1,0 +1,24 @@
+Newsview is the founder of Newsview	contradiction
+ffffdd owns Newsview	entailment
+fffdd bought Newsview	entailment
+Newsview is funded through advertising.	entailment
+The remit of Newsview is to publish sensationalized conservative news that can best be described as mostly fake.	entailment
+The mission of Newsview is to promote extreme right biased and Questionable content based on fake news and conspiracy theories.	entailment
+The usual audience of Newsview is extreme right biased.	entailment
+Newsview tends to the extreme right.	entailment
+Newsview tends to the extreme right according to Media Bias/Fact Check.	entailment
+Other sources have commented on Newsview, stating that it tends to be fake.	entailment
+The factuality of Newsview is reported to be extreme right biased and Questionable	entailment
+The factuality of Newsview is reported to be mostly fake, according to Media Bias/Fact Check.	entailment
+Newsview failed a fact-check for an article titled "Biden’s Climate Requirements: Cut 90% of Red Meat From Diet; Americans Can Only Eat One Burger Per Month"	entailment
+Newsview chose not to cover transparency, naming authors, disclosing ownership, or indicating a location.	entailment
+Newsview provides original content written by staff journalists	contradiction
+Newsview relies on advertising for revenue	entailment
+Newsview relies on subscriptions for revenue	contradiction
+Newsview relies on donations for revenue	entailment
+Newsview has received donations from ffffdd	entailment
+When aggregating stories, Newsview relies on information from **conspiracy websites such as [x22](https://mediabiasfactcheck.com/x22-report/), [Mike Lindell](https://mediabiasfactcheck.com/lindell-tv/), and [Truedefender.com](https://mediabiasfactcheck.com/the-true-defender/)**	entailment
+Newsview has endorsed extreme right biased and Questionable based on the promotion of conspiracy theories and pseudoscience and consistently poorly sourced false information	entailment
+Newsview has an editorial bias towards extreme right.	entailment
+Newsview printed a biased article titled Biden’s Climate Requirements: Cut 90% of Red Meat From Diet; Americans Can Only Eat One Burger Per Month	entailment
+Newsview printed a factually misleading titled **President Trump Alarms The Military To Secure The Arizona Election Audit**	entailment

@@ -1,0 +1,25 @@
+SC Minnesota News leads	contradiction
+Metric Media Foundation owns SC Minnesota News	entailment
+Metric Media LLC is the owner of SC Minnesota News	entailment
+Metric Media LLC acquired SC Minnesota News	entailment
+The SC Minnesota News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The mission of SC Minnesota News is to **"provide objective, data-driven information without political bias."**	contradiction
+The usual audience of SC Minnesota News is right-center, biased, and Questionable.	entailment
+SC Minnesota News tends to the right-center	entailment
+Other sources have commented on SC Minnesota News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of SC Minnesota News is reported to be  Questionable	entailment
+The factuality of SC Minnesota News is reported to be Questionable, according to D. Van Zandt 11/23/2022.	entailment
+The SC Minnesota News failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+The SC Minnesota News chose not to cover false information	contradiction
+SC Minnesota News provides original content written by staff journalists	contradiction
+SC Minnesota News relies on advertising for revenue	entailment
+SC Minnesota News relies on donations for revenue	entailment
+When aggregating stories, SC Minnesota News relies on information from algorithmically produced content.	entailment
+The SC Minnesota News has endorsed right-center, biased, and Questionable	entailment
+The SC Minnesota News has an editorial bias towards conservative-leaning.	entailment
+SC Minnesota News printed a biased article titled **SC Minnesota News**.	entailment
+SC Minnesota News printed a factually misleading titled "First Cannon Rained Down Upon City."	entailment
+SC Minnesota News had to apologize for **publishing false information**	entailment
+The SC Minnesota News is funded by the **Metric Media Foundation** government	contradiction
+SC Minnesota News is a conservative	entailment
+SC Minnesota News covers the following topics: Right-Center, Biased, Questionable	entailment

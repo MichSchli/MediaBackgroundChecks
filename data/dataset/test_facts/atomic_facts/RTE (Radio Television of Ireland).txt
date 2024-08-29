@@ -1,0 +1,27 @@
+He founded RTE (Radio Television of Ireland)	contradiction
+Raidió Teilifís Éireann is the founder of RTE (Radio Television of Ireland)	contradiction
+RTE leads RTE (Radio Television of Ireland)	contradiction
+Raidió Teilifís Éireann owns RTE (Radio Television of Ireland)	entailment
+Raidió Teilifís Éireann is the owner of RTE (Radio Television of Ireland)	entailment
+Raidió Teilifís Éireann bought RTE (Radio Television of Ireland)	contradiction
+Raidió Teilifís Éireann acquired RTE (Radio Television of Ireland)	contradiction
+RTE (Radio Television of Ireland) is funded through **licensing fees and advertising**	entailment
+The remit of RTE (Radio Television of Ireland) is to  provide comprehensive, cost-effective, free-to-air multi-media services to the public in Ireland and interested audiences internationally.	entailment
+The mission of RTE (Radio Television of Ireland) is to  provide comprehensive, cost-effective, free-to-air multi-media services to the public in Ireland and interested audiences internationally.	entailment
+The usual audience of RTE (Radio Television of Ireland) is  **the public in Ireland and interested audiences internationally.**	entailment
+RTE (Radio Television of Ireland) tends to the  Least Biased	entailment
+Other sources have commented on RTE (Radio Television of Ireland), stating that it tends to be Least Biased	entailment
+The factuality of RTE (Radio Television of Ireland) is reported to be High	entailment
+The factuality of RTE (Radio Television of Ireland) is reported to be High, according to Reporters Without Borders.	entailment
+RTE (Radio Television of Ireland) failed a fact-check for an article titled "Trump cancels plans to open US embassy in London".	contradiction
+RTE (Radio Television of Ireland) printed a retraction after failing a fact-check for an article titled "Trump cancels plans to open US embassy in London."	contradiction
+RTE (Radio Television of Ireland) chose not to cover **any failed fact checks in the Last 5 years**	entailment
+RTE (Radio Television of Ireland) relies on advertising for revenue	entailment
+RTE (Radio Television of Ireland) relies on subscriptions for revenue	contradiction
+RTE (Radio Television of Ireland) relies on donations for revenue	entailment
+When aggregating stories, RTE (Radio Television of Ireland) relies on information from **credible sources**.	entailment
+RTE (Radio Television of Ireland) has endorsed **minimal editorializing of news content**.	entailment
+RTE (Radio Television of Ireland) has an editorial bias towards **least biased**	entailment
+RTE (Radio Television of Ireland) printed a biased article titled "Trump cancels plans to open US embassy in London".	contradiction
+RTE (Radio Television of Ireland) had to apologize for **failing to provide proper sourcing and a clean fact check record**.	contradiction
+RTE (Radio Television of Ireland) is a national public-service media organization	entailment

@@ -1,0 +1,24 @@
+Mark Alexander founded The Patriot Post	entailment
+Mark Alexander is the founder of The Patriot Post	entailment
+Publius Press owns The Patriot Post	entailment
+Publius Press is the owner of The Patriot Post	entailment
+Publius Press bought The Patriot Post.	entailment
+Publius Press acquired The Patriot Post.	entailment
+The Patriot Post is funded through donations and an online store that sells patriotic merchandise.	entailment
+The remit of The Patriot Post is to **be an advocate of our Republic’s constitutional Rule of Law over the rule of men, the irrevocable terminus of the latter being tyranny.**	entailment
+The mission of The Patriot Post is to be an “advocate of our Republic’s constitutional Rule of Law over the rule of men, the irrevocable terminus of the latter being tyranny."	entailment
+The Patriot Post tends to the right	entailment
+The Patriot Post tends to the right according to their about page	entailment
+Other sources have commented on The Patriot Post, stating that it tends to be Right Biased	entailment
+The factuality of The Patriot Post is reported to be Mostly Factual	entailment
+The factuality of The Patriot Post is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+The Patriot Post relies on advertising for revenue	contradiction
+The Patriot Post relies on subscriptions for revenue	entailment
+The Patriot Post relies on donations for revenue	entailment
+The Patriot Post has received donations from [donations](https://patriotpost.us/donation/new)	entailment
+When aggregating stories, The Patriot Post relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Washington Post](https://mediabiasfactcheck.com/washington-post/).	entailment
+The Patriot Post has an editorial bias towards **the right**	entailment
+Mark Alexander is the editor of The Patriot Post	entailment
+The Patriot Post was fined 	entailment
+The Patriot Post printed a biased article titled "Strong Economy Continues as Dems Warn of Collapse"	entailment
+The Patriot Post had to apologize for **None in the Last 5 years**	entailment

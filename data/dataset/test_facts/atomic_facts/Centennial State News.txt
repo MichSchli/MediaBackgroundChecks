@@ -1,0 +1,18 @@
+Metric Media Foundation owns Centennial State News	entailment
+Metric Media Foundation is the owner of Centennial State News	entailment
+Centennial State News is funded through donations and grants	entailment
+The remit of Centennial State News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Centennial State News is to  bring about objective, data-driven information without political bias.	contradiction
+The usual audience of Centennial State News is **conservative-leaning**	entailment
+Centennial State News tends to the right-center biased and Questionable	entailment
+Other sources have commented on Centennial State News, stating that it tends to be right-center biased.	entailment
+The factuality of Centennial State News is reported to be Questionable	entailment
+The factuality of Centennial State News is reported to be Questionable, according to D. Van Zandt 02/06/2021.	entailment
+Centennial State News relies on advertising for revenue	entailment
+When aggregating stories, Centennial State News relies on information from **government and other publicly available sources**	entailment
+Centennial State News has endorsed right-center biased and Questionable	entailment
+Centennial State News has an editorial bias towards right-center.	entailment
+Centennial State News printed a biased article titled "Imposer Website Disguised as Local News Source".	entailment
+The Centennial State News is funded by the United States government	contradiction
+Centennial State News is a conservative	entailment
+Centennial State News covers the following topics: conservative-leaning news.	entailment

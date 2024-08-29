@@ -1,0 +1,26 @@
+Atlantic Media Co founded Quartz	entailment
+G/O Media Inc owns Quartz	entailment
+G/O Media Inc is the owner of Quartz	entailment
+G/O Media Inc bought Quartz	entailment
+Whom acquired Quartz	entailment
+Quartz is funded through advertising and subscription fees.	entailment
+The remit of Quartz is to provide business information and analysis, news, commentary, lifestyle, etc.	entailment
+The mission of Quartz is to focus on global economics coverage and provide business information and analysis, news, commentary, lifestyle, etc.	entailment
+The usual audience of Quartz is **left-center**	entailment
+Quartz tends to the left	entailment
+Other sources have commented on Quartz, stating that it tends to be Left-Center Biased	entailment
+The factuality of Quartz is reported to be High	entailment
+The factuality of Quartz is reported to be High, according to Mediabiasfactcheck.com.	entailment
+Quartz failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The text does not provide specific information about what Quartz chose not to cover.	entailment
+Quartz relies on advertising for revenue	entailment
+Quartz relies on donations for revenue	contradiction
+Quartz has received donations from **advertising and subscription fees**	contradiction
+When aggregating stories, Quartz relies on information from credible sources such as 	entailment
+Quartz has endorsed **no political party**	entailment
+Quartz has an editorial bias towards **left**	entailment
+Quartz had to apologize for **censoring content by removing a specific reference to Taiwan from a map in a story**	entailment
+Quartz's headquarter is located in New York City	entailment
+Quartz is funded by the Japanese government	contradiction
+Quartz is a  business news outlet.	entailment
+Quartz covers the following topics: Global economics coverage, business information and analysis, news, commentary, lifestyle, etc.	entailment

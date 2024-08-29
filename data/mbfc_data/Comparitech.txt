@@ -1,0 +1,12 @@
+History
+Comparitech is a website that focuses on providing information, guides, and reviews on various topics related to technology, cybersecurity, privacy, and digital services. According to its
+[About Page](https://www.comparitech.com/about-us/), “Comparitech is a pro-consumer website providing information, tools, reviews and comparisons to help our readers in the US, UK and the rest of the world improve their cyber security and privacy online. [Read our profile on United Kingdom media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+Comparitech.com is owned by
+[Comparitech Limited](https://www.comparitech.com/contact/), a privately held company based in the United Kingdom. The website generates revenue through affiliate partnerships, advertising, and sponsored content.
+Analysis / Bias
+Comparitech presents information in an objective and informative manner. The website covers a wide range of topics related to technology, privacy, cybersecurity, and online services. The articles and guides are well-researched and provide factual information to help users make informed decisions.
+The website covers politics when it relates to technology with minimal loaded wording and opinions such as this:
+[Where does President Biden stand on internet censorship?](https://www.comparitech.com/blog/vpn-privacy/biden-internet-censorship/) When covering former President Trump, they also maintain low-biased reporting like this: [Looking at the Trump Administration’s Impact on Privacy](https://www.comparitech.com/blog/vpn-privacy/internet-privacy-trump/). In general, the content on Comparitech.com is fact-based and low-biased.
+Failed Fact Checks
+- None in the Last 5 years

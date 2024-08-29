@@ -1,0 +1,24 @@
+Christofer Ahlqvist founded Goteborgs-Posten	entailment
+Christofer Ahlqvist is the CEO of Goteborgs-Posten	entailment
+Christofer Ahlqvist leads Goteborgs-Posten	entailment
+The Stampen Group owns Goteborgs-Posten	entailment
+Christofer Ahlqvist is the owner of Goteborgs-Posten	contradiction
+The Stampen Group bought Goteborgs-Posten	entailment
+Goteborgs-Posten is funded through commercial advertising and subscription fees.	entailment
+The remit of Goteborgs-Posten is to **cover mainly Local News, Economy, Sports, Entertainment, and community events, as well as major domestic and foreign news**.	entailment
+The mission of Goteborgs-Posten is to cover mainly Local News, Economy, Sports, Entertainment, and community events, as well as major domestic and foreign news.	entailment
+Goteborgs-Posten tends to the Right-Center	entailment
+Other sources have commented on Goteborgs-Posten, stating that it tends to be **Right-Center Biased**.	entailment
+The factuality of Goteborgs-Posten is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+Goteborgs-Posten chose not to cover immigration	contradiction
+Goteborgs-Posten relies on advertising for revenue	entailment
+Goteborgs-Posten relies on subscriptions for revenue	entailment
+Goteborgs-Posten relies on donations for revenue	contradiction
+When aggregating stories, Goteborgs-Posten relies on information from wire services such as [Sweden’s National News Agency TT](https://tt.se/en/about-us/).	entailment
+Goteborgs-Posten has an editorial bias towards **the Right**.	entailment
+Goteborgs-Posten was fined None in the Last 5 years	entailment
+Goteborgs-Posten printed a biased article titled **"Immigration is not needed to support an aging population."**	entailment
+Goteborgs-Posten's headquarter is located in Gothenburg	entailment
+Goteborgs-Posten is a Swedish newspaper	entailment
+Goteborgs-Posten uses an internal fact-checking process	entailment
+Goteborgs-Posten covers the following topics: Local News, Economy, Sports, Entertainment, and community events, as well as major domestic and foreign news.	entailment

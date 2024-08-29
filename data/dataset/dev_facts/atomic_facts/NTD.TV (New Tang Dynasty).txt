@@ -1,0 +1,20 @@
+Falun Gong founded NTD.TV (New Tang Dynasty)	entailment
+Epoch Media Group	entailment
+"Epoch Media Group" is the owner of NTD.TV (New Tang Dynasty)	entailment
+Epoch Media Group bought NTD.TV (New Tang Dynasty)	entailment
+NTD.TV (New Tang Dynasty) is funded through advertising.	entailment
+NTD.TV (New Tang Dynasty) tends to the right	entailment
+NTD.TV (New Tang Dynasty) tends to the **right** according to **RationalWiki**	entailment
+Other sources have commented on NTD.TV (New Tang Dynasty), stating that it tends to be right-biased	entailment
+The factuality of NTD.TV (New Tang Dynasty) is reported to be right biased.	entailment
+The factuality of NTD.TV (New Tang Dynasty) is reported to be questionable, according to 	entailment
+NTD.TV (New Tang Dynasty) failed a fact-check for an article titled "Dominion Voting Machines Designed to Influence Results: Forensics Report"	entailment
+NTD.TV (New Tang Dynasty) printed a retraction after failing a fact-check for an article titled **"Woman Says Coronavirus Patients Cremated Alive"**	contradiction
+NTD.TV (New Tang Dynasty) relies on advertising for revenue	entailment
+NTD.TV (New Tang Dynasty) relies on subscriptions for revenue	contradiction
+When aggregating stories, NTD.TV (New Tang Dynasty) relies on information from **questionable right biased sister news media company the Epoch Times and they also republish articles from Reuters.**	entailment
+NTD.TV (New Tang Dynasty) has endorsed conservative issues	entailment
+NTD.TV (New Tang Dynasty) has an editorial bias towards **the right**	entailment
+NTD.TV (New Tang Dynasty) printed a biased article titled "NTD TV is Right Biased and Frequently Publishes False and Misleading Information"	entailment
+NTD.TV (New Tang Dynasty) printed a factually misleading titled **"Video: Woman Says Coronavirus Patients Cremated Alive"**	contradiction
+NTD.TV (New Tang Dynasty) had to apologize for **publishing false and misleading information**	entailment

@@ -1,0 +1,29 @@
+John K. Byrne founded Raw Story	entailment
+John K. Byrne is the founder of Raw Story	entailment
+John Byrne is the CEO of Raw Story	entailment
+John Byrne owns Raw Story	entailment
+John Byrne is the owner of Raw Story.	entailment
+Raw Story acquired Raw Story	contradiction
+Raw Story is funded through advertising, donations, subscriptions, and an online store.	entailment
+The remit of Raw Story is to **deliver award-winning investigative reporting, breaking news and bold opinion columns, reaching more than six million readers a month.**	entailment
+The mission of Raw Story is to **deliver award-winning investigative reporting, breaking news, and bold opinion columns, reaching more than six million readers a month**.	entailment
+The usual audience of Raw Story is **left biased based on progressive-liberal editorial perspectives**.	entailment
+Raw Story tends to the **left**	entailment
+Other sources have commented on Raw Story, stating that it tends to be left biased.	entailment
+The factuality of Raw Story is reported to be High	entailment
+The factuality of Raw Story is reported to be high, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/raw-story/).	entailment
+Raw Story failed a fact-check for an article titled **"USPS failed to deliver 27% of mail-in ballots in South Florida"**	entailment
+Raw Story printed a retraction after failing a fact-check for an article titled "USPS failed to deliver 27% of mail-in ballots in South Florida".	entailment
+Raw Story chose not to cover \[Republicans smuggled a filthy racist conspiracy theory into the United States Congress\].	contradiction
+Raw Story relies on advertising for revenue	entailment
+Raw Story relies on subscriptions for revenue	entailment
+Raw Story relies on donations for revenue	entailment
+Raw Story has received donations from **advertising, donations, subscriptions, and an online store**	entailment
+When aggregating stories, Raw Story relies on information from credible media outlets such as the 	entailment
+Raw Story has endorsed left biased based on progressive-liberal editorial perspectives.	entailment
+Raw Story has an editorial bias towards **left**	entailment
+Raw Story was fined **"Postal Service failed deliver 27% mail ballot"**	contradiction
+Raw Story printed a factually misleading titled "USPS failed to deliver 27% of mail-in ballots in South Florida"	entailment
+Raw Story had to apologize for [failing to attribute a story that included material from other outlets](https://www.rawstory.com/2013/05/raw-story-apologizes-to-washington-black-gay-and-lesbian-news-for-unattributed-excerpts/).	entailment
+Raw Story is a  left-leaning online news site.	entailment
+Raw Story covers the following topics: **politics, civil liberties, left-leaning news, investigative reporting, breaking news, opinion columns, climate change, Covid-19 vaccines**	entailment

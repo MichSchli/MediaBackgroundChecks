@@ -1,0 +1,24 @@
+Harold Ross founded New Yorker	entailment
+Harold Ross is the founder of New Yorker	entailment
+Condé Nast Inc. owns New Yorker	entailment
+Condé Nast Inc. is the owner of New Yorker	entailment
+Condé Nast bought New Yorker	entailment
+S.I. Newhouse acquired New Yorker	entailment
+New Yorker is funded through subscriptions, advertising, and newsstand sales.	entailment
+The remit of New Yorker is to **provide strong emotionally loaded headlines and publish in-depth journalistic reporting**	entailment
+The usual audience of New Yorker is liberal.	entailment
+New Yorker tends to the left	entailment
+Other sources have commented on New Yorker, stating that it tends to be **left biased**	entailment
+The factuality of New Yorker is reported to be High	entailment
+The factuality of New Yorker is reported to be High, according to proper sourcing and a clean fact check record.	entailment
+New Yorker relies on advertising for revenue	entailment
+New Yorker relies on subscriptions for revenue	entailment
+When aggregating stories, New Yorker relies on information from credible sources.	entailment
+New Yorker has endorsed Democrats	entailment
+New Yorker has an editorial bias towards Left	entailment
+New Yorker printed a factually misleading titled  "Don’t Underestimate Elizabeth Warren and Her Populist Message"	entailment
+New Yorker had to apologize for None in the Last 5 years	entailment
+New Yorker's headquarter is located in New York City	entailment
+New Yorker is funded by the U.S. government	contradiction
+New Yorker is a magazine	entailment
+New Yorker uses a peer review process	entailment

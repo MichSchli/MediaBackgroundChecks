@@ -1,0 +1,29 @@
+Stefan Molyneux founded Freedomain Radio	entailment
+Stefan Molyneux is the founder of Freedomain Radio	entailment
+Stefan Molyneux leads Freedomain Radio	entailment
+Stefan Molyneux owns Freedomain Radio	entailment
+Stefan Molyneux is the owner of Freedomain Radio.	entailment
+Stefan Molyneux bought Freedomain Radio	entailment
+Stefan Molyneux acquired Freedomain Radio	entailment
+Freedomain Radio is funded through advertising, donations, and the sale of books.	entailment
+The remit of Freedomain Radio is to **spread the cause of liberty and philosophy to millions of listeners around the world**.	contradiction
+The mission of Freedomain Radio is to spread the cause of liberty and philosophy.	contradiction
+The usual audience of Freedomain Radio is **extreme right biased**	entailment
+Freedomain Radio tends to the extreme right	entailment
+Other sources have commented on Freedomain Radio, stating that it tends to be Extreme Right Biased	entailment
+The factuality of Freedomain Radio is reported to be **low**	entailment
+The factuality of Freedomain Radio is reported to be devoid of credibility, according to third-party observations and our reviews of content.	entailment
+Freedomain Radio chose not to cover **facts**	entailment
+Freedomain Radio relies on advertising for revenue	entailment
+Freedomain Radio relies on subscriptions for revenue	contradiction
+Freedomain Radio relies on donations for revenue	entailment
+When aggregating stories, Freedomain Radio relies on information from [Mr. Molyneux's views](http://rationalwiki.org/wiki/StefanMolyneux)	entailment
+Freedomain Radio has endorsed **white nationalists and alt-right figures**	entailment
+Freedomain Radio has an editorial bias towards extreme right.	entailment
+Freedomain Radio printed a biased article titled **"Debunked Racial Theories and White Supremacy Advocacy."**	entailment
+Freedomain Radio printed a factually misleading titled  Extreme Right Biased and a tin foil hat conspiracy website based on promoting debunked scientific racism theories.	entailment
+Freedomain Radio paid damages to individuals after legal disputes.	entailment
+Freedomain Radio is funded by the Canadian government.	contradiction
+Freedomain Radio is a **tin foil hat conspiracy website**	entailment
+Freedomain Radio uses an internal fact-checking process	contradiction
+Freedomain Radio covers the following topics: alt-right libertarianism, racism, misogyny	entailment

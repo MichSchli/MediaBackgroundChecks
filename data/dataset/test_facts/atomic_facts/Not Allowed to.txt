@@ -1,0 +1,24 @@
+Who is the founder of Not Allowed to	contradiction
+Not Allowed to is funded through advertising	entailment
+The remit of Not Allowed to is to **publish shocking, humorous, clickbait type news about entertainment, celebrities, and politics**	entailment
+The mission of Not Allowed to is to **publish shocking, humorous, clickbait type news about entertainment, celebrities, and politics**	entailment
+The usual audience of Not Allowed to is social media.	entailment
+Not Allowed to tends to the 100% lack transparency.	entailment
+Other sources have commented on Not Allowed to, stating that it tends to be **questionable**.	entailment
+The factuality of Not Allowed to is reported to be Questionable.	entailment
+The factuality of Not Allowed to is reported to be questionable, according to D. Van Zandt	entailment
+Not Allowed to failed a fact-check for an article titled MAN WHO DIED OF CORONAVIRUS MIRACULOUSLY RESURRECTS THREE DAYS LATER	entailment
+Not Allowed to chose not to cover satire	entailment
+Not Allowed to relies on advertising for revenue	entailment
+Not Allowed to relies on subscriptions for revenue	contradiction
+Not Allowed to relies on donations for revenue	contradiction
+Not Allowed to has received donations from advertising.	entailment
+When aggregating stories, Not Allowed To relies on information from **questionable due to a complete lack of transparency regarding the content of the website and ownership.**	entailment
+Not Allowed to has endorsed **questionable content**	entailment
+Not Allowed to has an editorial bias towards **satire**	entailment
+Not Allowed to printed a biased article titled **MAN WHO DIED OF CORONAVIRUS MIRACULOUSLY RESURRECTS THREE DAYS LATER**	contradiction
+Not Allowed to printed a factually misleading titled MAN WHO DIED OF CORONAVIRUS MIRACULOUSLY RESURRECTS THREE DAYS LATER	entailment
+Not Allowed to is funded by the United States government	contradiction
+Not Allowed to is a website	entailment
+Not Allowed to uses an internal fact-checking process	contradiction
+Not Allowed to covers the following topics:  Entertainment, Celebrities, Politics	entailment

@@ -1,0 +1,19 @@
+Fox leads WTVT - Fox 13 - Tampa Bay	entailment
+Fox owns WTVT - Fox 13 - Tampa Bay	entailment
+Fox bought WTVT - Fox 13 - Tampa Bay	entailment
+Fox acquired WTVT - Fox 13 - Tampa Bay	entailment
+WTVT - Fox 13 - Tampa Bay is funded through advertising and sponsored content.	entailment
+The remit of WTVT - Fox 13 - Tampa Bay is to  report the Tampa area’s news, sports, crime, and weather.	entailment
+The usual audience of WTVT - Fox 13 - Tampa Bay is **the Tampa Bay area**	entailment
+WTVT - Fox 13 - Tampa Bay tends to the **right**	entailment
+Other sources have commented on WTVT - Fox 13 - Tampa Bay, stating that it tends to be Least Biased	entailment
+The factuality of WTVT - Fox 13 - Tampa Bay is reported to be High	entailment
+The factuality of WTVT - Fox 13 - Tampa Bay is reported to be High, according to Mediabiasfactcheck.	entailment
+WTVT - Fox 13 - Tampa Bay failed a fact-check for an article titled "Tampa man showed no remorse after violently killing Clearwater man on bike with tire iron, police say".	contradiction
+WTVT - Fox 13 - Tampa Bay chose not to cover opinion content	entailment
+WTVT - Fox 13 - Tampa Bay relies on advertising for revenue	entailment
+WTVT - Fox 13 - Tampa Bay relies on subscriptions for revenue	contradiction
+WTVT - Fox 13 - Tampa Bay relies on donations for revenue	contradiction
+WTVT - Fox 13 - Tampa Bay has an editorial bias towards **least biased**	entailment
+WTVT - Fox 13 - Tampa Bay is a **Fox-owned-and-operated**	entailment
+WTVT - Fox 13 - Tampa Bay covers the following topics: news, sports, crime, and weather	entailment

@@ -1,0 +1,21 @@
+PostMedia owns Woodstock Sentinel-Review	entailment
+PostMedia bought Woodstock Sentinel-Review	entailment
+PostMedia acquired Woodstock Sentinel-Review	entailment
+Woodstock Sentinel-Review is funded through advertising and subscription fees	entailment
+The remit of Woodstock Sentinel-Review is to **report local, national, business, and sports news**	entailment
+The usual audience of Woodstock Sentinel-Review is Right-Center Biased	entailment
+The Woodstock Sentinel-Review tends to the right	entailment
+Other sources have commented on Woodstock Sentinel-Review, stating that it tends to be right-leaning.	entailment
+The factuality of Woodstock Sentinel-Review is reported to be High	entailment
+The factuality of Woodstock Sentinel-Review is reported to be High, according to a review by Mediabiasfactcheck.com.	entailment
+The Woodstock Sentinel-Review chose not to cover national news.	contradiction
+Woodstock Sentinel-Review relies on advertising for revenue	entailment
+Woodstock Sentinel-Review relies on subscriptions for revenue	entailment
+Woodstock Sentinel-Review relies on donations for revenue	contradiction
+When aggregating stories, Woodstock Sentinel-Review relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/), whereas world news comes from multiple sources such as [Reuters](https://mediabiasfactcheck.com/reuters/), [Washington Post](https://mediabiasfactcheck.com/washington-post/), and [Bloomberg](https://mediabiasfactcheck.com/bloomberg/).	entailment
+The Woodstock Sentinel-Review has endorsed the conservative right	entailment
+Woodstock Sentinel-Review has an editorial bias towards **the conservative right**	entailment
+Woodstock Sentinel-Review had to apologize for **None in the Last 5 years**	entailment
+Woodstock Sentinel-Review's headquarter is located in Woodstock	entailment
+The Woodstock Sentinel-Review is funded by the Canadian government	contradiction
+Woodstock Sentinel-Review is a newspaper	entailment

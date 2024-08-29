@@ -1,0 +1,18 @@
+Don Black founded Stormfront	entailment
+Don Black owns Stormfront	entailment
+Don Black is the owner of Stormfront.	entailment
+Don Black bought Stormfront	contradiction
+Don Black acquired Stormfront	entailment
+The remit of Stormfront is to promote hate	entailment
+The mission of Stormfront is to promote hate.	entailment
+The usual audience of Stormfront is **White Nationalists who support true diversity and a homeland for all peoples**.	contradiction
+Stormfront tends to the extreme right-biased.	entailment
+Other sources have commented on Stormfront, stating that it tends to be extreme right-biased.	entailment
+The factuality of Stormfront is reported to be extremely low.	entailment
+The factuality of Stormfront is reported to be extreme right-biased, according to mediabiasfactcheck.com.	contradiction
+Stormfront chose not to cover  racist content.	contradiction
+Stormfront has endorsed hate	entailment
+Stormfront has an editorial bias towards extreme right.	entailment
+Stormfront printed a biased article titled "The White Minority: Our Struggle for Survival".	entailment
+Stormfront is a forum	entailment
+Stormfront covers the following topics: racism, antisemitism, Islamophobia	entailment

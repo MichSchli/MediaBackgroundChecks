@@ -1,0 +1,19 @@
+History
+According to their
+[about page](https://www.2ndvote.com/who-we-are/), 2ndvote was founded in 2013 by Dr. David L. Black, the husband of Republican Representative Diane Black. 2ndvote is based in Nashville, TN. The site describes itself as a Conservative Watchdog for Corporate Activism, which rates the conservative values of retailers and nonprofit groups on issues such as abortion, gay rights, and immigration. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+A Bloomberg
+[article](https://www.bloomberg.com/news/articles/2017-10-17/website-2ndvote-scores-companies-on-their-conservative-values) reports that Dr. David Black has spent more than $1 million on 2ndVote. According to Nashville Scene, Dr. David Black and Republican Rep. Diane Black “ [is one of the wealthiest members of Congress”](https://www.nashvillescene.com/news/article/13064479/the-brotherinlaw-of-rep-diane-black-one-of-the-wealthiest-members-of-congress-is-barely-getting-by) The website is funded through donations.
+Analysis / Bias
+2ndVote frequently uses emotionally loaded headlines such as this
+[Big Tech Strikes Again – Against Research, Science, and Free Speech.](https://www.2ndvote.com/big-tech-strikes-again-against-research-science-and-free-speech/)
+2ndVote primarily rates companies and nonprofits on a scale of 1 to 5 (1 is the most liberal, 5 the most conservative), based on how they donate money to causes. 2ndVote rates these sites based on donation criteria to these causes: Immigration (anti), Life (pro), 2nd Amendment (pro), Education (not public), Marriage (not same-sex), environment (pro-fossil fuel), and religious liberty (for Christians). Here is an example of some ratings:
+[Starbucks 1.0](https://2ndvote.com/business-entity/starbucks/), [ACLU 1.4](https://2ndvote.com/business-entity/aclu/), [7 Eleven](https://www.2ndvote.com/business-entity/7-eleven/) 3.0, [Abort 73 5.0](https://2ndvote.com/business-entity/abort-73/), [NRA 5.0](https://2ndvote.com/business-entity/national-rifle-association/), and the [Christian Business Network 5.0](https://2ndvote.com/business-entity/christian-business-network/). The methodology employed appears to be flawed. They use a 7 point system to rate organizations, but they are not counted if the source does not donate to one of the 7 conservative causes on their criteria. For example, Hobby Lobby scores a 5.0, despite only supporting 3 of the 7 causes with money. It seems some weight should be applied to what they don’t support, such as the 2nd Amendment.
+2ndVote has a news section, and the story selection of this section always favors the ideological right. 2ndVote also has a very
+[favorable opinion](https://www.2ndvote.com/mypillow-cancelled-for-conservatism-issue-1st-amendment/) of Conservatives. When it comes to sourcing, 2ndVote usually provides links to credible right-leaning sources such as [Justfactsdaily](https://mediabiasfactcheck.com/just-facts-daily/). However, they sometimes utilize factually mixed factual sources such as [Life News](https://mediabiasfactcheck.com/life-news/). To summarize this site, they are an anti-abortion website that supports a conservative Christian agenda.
+Failed Fact Checks
+- A
+[factual search](https://factualsearch.news/#gsc.tab=0&gsc.q=2ndvote&gsc.sort=&gsc.ref=fact_checking)reveals that 2ndVote has an [unproven claim](https://www.snopes.com/fact-check/did-macys-pull-support-from-planned-parenthood/)by fact-checkers.
+Overall, 2ndVote is Right Biased based on story selection that favors the right and Mixed for factual reporting due to the use of poor sources and an unproven claim. (M. Huitsing 10/11/2018) Updated (09/29/2023)
+Source:
+[https://2ndvote.com/](https://2ndvote.com/)

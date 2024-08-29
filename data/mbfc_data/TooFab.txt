@@ -1,0 +1,12 @@
+History
+Founded in 2010, TooFab is a website that reports on pop culture covering movies, fashion, TV shows, and celebrity news. The website lacks transparency as they do not offer an about page or disclose ownership. However, at the bottom of the page, they state they are in a partnership with
+[TMZ](https://mediabiasfactcheck.com/tmz/). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+TooFab does not openly disclose ownership; however, it indicates they are copyrighted to EHM Productions, Inc., which Warner Brothers Entertainment owns at the bottom of the pages. Revenue is derived through advertising.
+Analysis / Bias
+In review, TooFab primarily reports on entertainment news. Articles and headlines typically utilize sensationalized headlines such as this:
+[21-Year-old Instagrammer Boasts About Not Social Distancing, Catches Coronavirus](https://toofab.com/2020/03/27/21-year-old-instagrammer-boasts-about-not-social-distancing-catches-coronavirus/). This story is only sourced to Instagram. Another example of sensational content is this [Viral Toilet Licker Threatens to Cough on Dr. Phil, Accuses Him of Being Illuminati](https://toofab.com/2020/03/26/viral-toilet-licker-threatens-to-cough-on-dr-phil-accuses-him-of-being-illuminati/). This story, however, is adequately sourced to the [CDC](https://mediabiasfactcheck.com/centers-disease-control-prevention-cdc/).
+Editorially, TooFab does not directly address politics; however, they report on politics when it involves celebrities or entertainment such as this:
+[Elisabeth Hasselbeck Butts Heads with Joy Behar, Sunny Hostin Over Trump’s Coronavirus Response](https://toofab.com/2020/03/11/elisabeth-hasselbeck-joy-behar-sunny-hostin-the-view-coronavirus/). When reporting on President Trump, they often use a negative tone: [Man Dies After Taking Fish Tank Cleaner He Thought Was Coronavirus Treatment Touted by Trump](https://toofab.com/2020/03/24/man-dies-after-taking-fish-tank-cleaner-he-thought-was-treatment-touted-by-trump/). In general, TooFab does not take sides but rather publishes whatever will garner clicks, though they do target former President Trump frequently.
+Failed Fact Checks
+- None

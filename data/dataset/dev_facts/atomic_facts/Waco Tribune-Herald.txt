@@ -1,0 +1,23 @@
+Lee founded Waco Tribune-Herald	entailment
+Lee Enterprises owns Waco Tribune-Herald	entailment
+Lee Enterprises is the owner of Waco Tribune-Herald	entailment
+Lee Enterprises bought Waco Tribune-Herald	entailment
+Lee Enterprises acquired Waco Tribune-Herald	entailment
+Waco Tribune-Herald is funded through advertising and subscription fees	entailment
+The remit of Waco Tribune-Herald is to cover local, national, business, and sports news.	entailment
+The mission of Waco Tribune-Herald is to **cover local, national, business and sports news**.	entailment
+The usual audience of Waco Tribune-Herald is local, national, business, and sports news.	entailment
+Waco Tribune-Herald tends to the [least biased](https://www.wacotrib.com)	entailment
+Waco Tribune-Herald tends to the least biased side of the scale according to D. Van Zandt	entailment
+Other sources have commented on Waco Tribune-Herald, stating that it tends to be **Least Biased**	entailment
+The factuality of Waco Tribune-Herald is reported to be High	entailment
+The factuality of Waco Tribune-Herald is reported to be High, according to D. Van Zandt.	entailment
+Waco Tribune-Herald failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Waco Tribune-Herald printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+Waco Tribune-Herald chose not to cover Failed Fact Checks	entailment
+Waco Tribune-Herald relies on advertising for revenue	entailment
+Waco Tribune-Herald relies on subscriptions for revenue	entailment
+Waco Tribune-Herald relies on donations for revenue	contradiction
+When aggregating stories, Waco Tribune-Herald relies on information from **journalists and with minimal bias in wording**.	entailment
+Waco Tribune-Herald has an editorial bias towards **the right**	entailment
+Waco Tribune-Herald printed a biased article titled "State to seek death penalty in 2 capital murder cases"	contradiction

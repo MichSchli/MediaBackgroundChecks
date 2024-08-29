@@ -1,0 +1,14 @@
+History
+[Founded in 1938](https://en.wikipedia.org/wiki/American_Enterprise_Institute), The American Enterprise Institute for Public Policy Research, known simply as the American Enterprise Institute (AEI), is a Washington, D.C.-based conservative think tank that researches government, politics, economics, and social welfare.
+According to their about page: “The American Enterprise Institute is a public policy think tank dedicated to defending human dignity, expanding human potential, and building a freer and safer world. The work of our scholars and staff advances ideas rooted in our belief in democracy, free enterprise, American strength and global leadership, solidarity with those at the periphery of our society, and a pluralistic, entrepreneurial culture.”
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The American Enterprise Institute is a think tank funded through donations from individuals, corporations, and foundations. According to
+[Sourcewatch,](https://www.sourcewatch.org/index.php/American_Enterprise_Institute) they are funded by many corporations connected to the fossil fuel industry.
+Analysis / Bias
+According to
+[Open Secrets](https://www.opensecrets.org/orgs/summary.php?id=D000031480&cycle=A) AEI almost exclusively supports Republican candidates through donations.
+In review, AEI is closely associated with conservatism and neoconservatism, although it claims to be non-partisan. Policy-wise they advocate for lower taxes, fewer protections for consumers and the environment, and cuts to the social safety net. In articles, they use minimally loaded words and generally source properly. However, there is the moderate use of loaded words, especially when discussing climate change:
+[The climate empire strikes out: The perils of policy analysis in an echo chamber.](http://www.aei.org/publication/the-climate-empire-strikes-out-the-perils-of-policy-analysis-in-an-echo-chamber/) While the American Enterprise Institute does not deny climate change is occurring, they frequently [downplay human involvement](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2018/jun/11/the-wall-street-journal-keeps-peddling-big-oil-propaganda) and reject the consensus of [climate scientists](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/) in favor of further deregulation of emission standards.
+Failed Fact Checks
+[“We also need to recognize that we just had two of the coldest years, biggest drop in global temperatures that we have had since the 1980s, the biggest in the last 100 years. We don’t talk about that.”](https://www.politifact.com/punditfact/statements/2018/nov/28/danielle-pletka/recent-cold-spells-irrelevant-climate-change-big-p/)– False

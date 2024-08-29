@@ -1,0 +1,12 @@
+The remit of BillionBibles.org is to  promote Christian propaganda.	entailment
+The mission of BillionBibles.org is to promote Christian propaganda.	entailment
+BillionBibles.org tends to the **promotion of Christian propaganda**	entailment
+Other sources have commented on BillionBibles.org, stating that it tends to be **Questionable**	entailment
+The factuality of BillionBibles.org is reported to be Questionable	entailment
+The factuality of BillionBibles.org is reported to be Questionable, according to the promotion of Christian propaganda, conspiracy theories, false information, and a complete lack of transparency.	entailment
+BillionBibles.org has endorsed **Christian propaganda**.	entailment
+BillionBibles.org has an editorial bias towards **Christianity**	entailment
+BillionBibles.org printed a biased article titled **"Christianity Versus Islam: A Deceptive Comparison"**	entailment
+BillionBibles.org printed a factually misleading titled "Stop Islam".	entailment
+BillionBibles.org is a  Questionable 	entailment
+BillionBibles.org covers the following topics:  Christian Propaganda, Quran, God’s laws, Jesus, Islam, Stop Islam, True Gospel, Jesus Vs. Muhammad.	entailment

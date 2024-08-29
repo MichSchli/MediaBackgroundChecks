@@ -1,0 +1,16 @@
+CovidAnalysis Network owns C19Ivermectin.com	entailment
+C19Ivermectin.com is funded through **unknown sources**	entailment
+The remit of C19Ivermectin.com is to **promote misinformation regarding alternative treatments for Covid-19**	entailment
+The mission of C19Ivermectin.com is to promote pseudoscience, misinformation, and 	entailment
+The usual audience of C19Ivermectin.com is right-biased and Questionable based on the promotion of pseudoscience, a complete lack of transparency, several failed facts, and frequent misrepresentation of scientific studies; however, we assign a Mixed factual rating because they also publish studies from credible research outlets.	entailment
+C19Ivermectin.com tends to the **promotion of pseudoscience**	entailment
+Other sources have commented on C19Ivermectin.com, stating that it tends to be biased.	entailment
+The factuality of C19Ivermectin.com is reported to be Questionable	entailment
+The factuality of C19Ivermectin.com is reported to be questionable, according to a peer-reviewed study published in the New England Journal of Medicine.	entailment
+C19Ivermectin.com provides original content written by staff journalists	entailment
+When aggregating stories, C19Ivermectin.com relies on information from **studies related to Ivermectin (anti-parasite medication) and its efficacy in treating and preventing Covid-19**.	entailment
+C19Ivermectin.com has endorsed **Ivermectin**	entailment
+C19Ivermectin.com has an editorial bias towards **promoting misinformation regarding alternative treatments for Covid-19**	entailment
+C19Ivermectin.com printed a biased article titled **CovidAnalyisis Network generally promotes misinformation regarding alternative treatments for Covid-19**?	entailment
+C19ivermectin.com is a biased source	entailment
+C19Ivermectin.com covers the following topics: Ivermectin	entailment

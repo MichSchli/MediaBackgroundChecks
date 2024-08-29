@@ -1,0 +1,15 @@
+The remit of Citizen Critics is to **provide rigorous but accessible analysis that holds public figures accountable for their discourse and policies**.	entailment
+The mission of Citizen Critics is to provide rigorous but accessible analysis that holds public figures accountable for their discourse and policies.	entailment
+Citizen Critics tends to the left	entailment
+Other sources have commented on Citizen Critics, stating that it tends to be **Left Biased**.	entailment
+The factuality of Citizen Critics is reported to be Mostly Factual	entailment
+The factuality of Citizen Critics is reported to be Mostly Factual, according to Source: [https://citizencritics.org](https://citizencritics.org)	entailment
+Citizen Critics chose not to cover  Trump’s Rhetorical Stonewalling Strategy.	contradiction
+Citizen Critics relies on donations for revenue	entailment
+When aggregating stories, Citizen Critics relies on information from **mostly credible sources**	entailment
+Citizen Critics has endorsed **the left**	entailment
+Citizen Critics has an editorial bias towards the left	entailment
+Citizen Critics was fined 	entailment
+Citizen Critics had to apologize to USA Today for lack of transparency with ownership.	entailment
+Citizen Critics is a not-for-profit collaboration	entailment
+Citizen Critics covers the following topics: History, The website, Funded by / Ownership, Analysis / Bias, Failed Fact Checks.	entailment

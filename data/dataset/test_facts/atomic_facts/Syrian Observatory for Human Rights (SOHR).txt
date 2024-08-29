@@ -1,0 +1,16 @@
+SOHR acquired Syrian Observatory for Human Rights (SOHR)	entailment
+The remit of Syrian Observatory for Human Rights (SOHR) is to document human rights abuses in Syria.	entailment
+The mission of Syrian Observatory for Human Rights (SOHR) is to document human rights abuses in Syria.	entailment
+The usual audience of Syrian Observatory for Human Rights (SOHR) is **major Western news media**	entailment
+Other sources have commented on Syrian Observatory for Human Rights (SOHR), stating that it tends to be **pro-opposition**	entailment
+The factuality of Syrian Observatory for Human Rights (SOHR) is reported to be Mostly Factual	entailment
+The factuality of Syrian Observatory for Human Rights (SOHR) is reported to be Mostly Factual, according to D. Van Zandt 4/8/2017	entailment
+Syrian Observatory for Human Rights (SOHR) failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Syrian Observatory for Human Rights (SOHR) chose not to cover **its funding**	entailment
+Syrian Observatory for Human Rights (SOHR) relies on advertising for revenue	entailment
+Syrian Observatory for Human Rights (SOHR) has endorsed  Mostly Factual.	entailment
+Syrian Observatory for Human Rights (SOHR) has an editorial bias towards **pro-opposition**	entailment
+Syrian Observatory for Human Rights (SOHR)'s headquarter is located in UK	entailment
+The Syrian Observatory for Human Rights (SOHR) is funded by the UK government	entailment
+Syrian Observatory for Human Rights (SOHR) is a non-profit NGO	entailment
+Syrian Observatory for Human Rights (SOHR) covers the following topics: Human rights abuses in Syria, Syrian Civil War, daily numbers of deaths, civilians killed in airstrikes.	entailment

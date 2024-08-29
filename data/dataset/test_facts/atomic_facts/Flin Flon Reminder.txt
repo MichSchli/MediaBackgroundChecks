@@ -1,0 +1,24 @@
+Glacier Media Group owns Flin Flon Reminder	entailment
+Glacier Media Group is the owner of Flin Flon Reminder	entailment
+Glacier Media Group bought Flin Flon Reminder	contradiction
+Glacier Media Group acquired Flin Flon Reminder	contradiction
+Flin Flon Reminder is funded through advertising and subscriptions	entailment
+The remit of Flin Flon Reminder is to **publish sports, weather, national, world, and local news for the greater Flin Flon, Mantioba region**	entailment
+The mission of Flin Flon Reminder is to **publish sports, weather, national, world, and local news for the greater Flin Flon, Manitoba region**.	entailment
+The usual audience of Flin Flon Reminder is **the greater Flin Flon, Manitoba region**.	entailment
+Flin Flon Reminder tends to the left	entailment
+Other sources have commented on Flin Flon Reminder, stating that it tends to be left-center biased.	entailment
+The factuality of Flin Flon Reminder is reported to be High	entailment
+The factuality of Flin Flon Reminder is reported to be High, according to Mediabiasfactcheck.	entailment
+Flin Flon Reminder failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Flin Flon Reminder chose not to cover investigations underway into string of break-ins, thefts: RCMP.	contradiction
+Flin Flon Reminder relies on advertising for revenue	entailment
+Flin Flon Reminder relies on subscriptions for revenue	entailment
+Flin Flon Reminder relies on donations for revenue	contradiction
+When aggregating stories, Flin Flon Reminder relies on information from [Canadian Press](https://mediabiasfactcheck.com/2018/06/15/fact-check-of-trumps-canadian-trade-stats/), [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Flin Flon Reminder has endorsed the left	entailment
+Flin Flon Reminder has an editorial bias towards the left.	entailment
+Flin Flon Reminder printed a biased article titled  "Preparing to elect a government that helps the north".	entailment
+Flin Flon Reminder had to apologize to no one for no false information.	entailment
+Flin Flon Reminder is a Left-Center Biased	entailment
+The topics that Flin Flon Reminder covers are: sports, weather, national news, world news, and local news for the greater Flin Flon, Mantioba region.	entailment

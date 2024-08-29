@@ -1,0 +1,32 @@
+Judith Curry founded Climate Etc	entailment
+Judith A. Curry is the founder of Climate Etc	entailment
+Judith Curry is the CEO of Climate Etc	entailment
+Judith Curry owns Climate Etc	entailment
+Judith Curry is the owner of Climate Etc	entailment
+Judith Curry acquired Climate Etc	entailment
+Climate Etc is funded through donations	entailment
+The remit of Climate Etc is to **provide a forum for climate researchers, academics and technical experts from other fields, citizen scientists, and the interested public to discuss topics related to climate science and the science-policy interface.**	contradiction
+The mission of Climate Etc is to **provide a forum for climate researchers, academics and technical experts from other fields, citizen scientists, and the interested public to discuss topics related to climate science and the science-policy interface.**	entailment
+The usual audience of Climate Etc is **climate researchers, academics and technical experts from other fields, citizen scientists, and the interested public**	entailment
+Climate Etc tends to the pseudoscience.	entailment
+Other sources have commented on Climate Etc, stating that it tends to be pseudoscience	entailment
+The factuality of Climate Etc is reported to be pseudoscience	entailment
+The factuality of Climate Etc is reported to be **low** according to **Media Bias/Fact Check**	entailment
+Climate Etc failed a fact-check for an article titled "The Earth is not warming."	entailment
+Climate Etc printed a retraction after failing a fact-check for an article titled ["The Earth is not warming."](https://www.politifact.com/factchecks/2013/dec/13/barry-smitherman/scientific-consensus-remains-planet-warming/)	entailment
+Climate Etc chose not to cover human-driven climate change	entailment
+Climate Etc provides original content written by staff journalists	contradiction
+Climate Etc relies on subscriptions for revenue	contradiction
+Climate Etc relies on donations for revenue	entailment
+Climate Etc has received donations from the fossil fuel industry	entailment
+When aggregating stories, Climate Etc relies on information from **blog posts by Judith Curry related to climate change, and they provide links to other sources that also promote human-influenced climate change denial, such as Watts Up With That and John Stossel.**	entailment
+Climate Etc has endorsed anti-climate science propaganda	entailment
+Climate Etc has an editorial bias towards **anti-climate science propaganda**.	entailment
+Judith Curry is the editor of Climate Etc	entailment
+Climate Etc printed a biased article titled **Climate Etc as a Pseudoscience Website**	entailment
+Climate Etc printed a factually misleading titled  "Climate Heretic"	entailment
+Climate Etc had to apologize for **failed numerous fact-checks**	entailment
+Climate Etc's headquarters is located in Atlanta	entailment
+Climate Etc is funded by the United States government	contradiction
+Climate Etc is a pseudoscience website	entailment
+Climate Etc covers the following topics: climate science and the science-policy interface	entailment

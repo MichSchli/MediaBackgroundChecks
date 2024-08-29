@@ -1,0 +1,12 @@
+History
+Founded in 2015, and according to their
+[about page](https://futurism.com/about-us), “Futurism covers the breakthrough technologies and scientific discoveries that will shape humanity’s future. Our mission is to empower our readers and drive the development of these transformative technologies towards maximizing human potential.” The website provides a [Masthead](https://futurism.com/masthead) that indicates Foster Kamer is the Director of Content and James Del is the publisher. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website is owned by
+[Futurism LLC](https://www.bloomberg.com/profile/company/1705167D:US), a privately held company based in New York City. Revenue is derived from advertising.
+Analysis / Bias
+In review, Futurism publishes news and information related to science and cutting-edge or future technologies. Articles often use minimal to moderate loaded language such as this:
+[Deepfake Pioneer: “Perfectly Real” Fake Vids Are Six Months Away](https://futurism.com/pioneer-perfect-deepfake-six-months-away). This story, like all others, is correctly sourced to either scientific papers or credible news media outlets such as [CNBC](https://mediabiasfactcheck.com/cnbc/) and Technology Review.
+The website also features a section called “The Byte,” where they take an article from another publication and summarize it, such as this:
+[THIS SITE TURNS WIKIPEDIA PAGES INTO FAKE ACADEMIC PAPERS](https://futurism.com/the-byte/wikipedia-fake-academic-papers). Politically, Futurism reports only when it pertains to their genre. A search for articles on “ [Trump](https://futurism.com/search?q=trump)” shows relatively neutral language that avoids adding significant opinions.
+Failed Fact Checks

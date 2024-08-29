@@ -1,0 +1,19 @@
+PostMedia is the founder of Pincher Creek Echo	entailment
+PostMedia owns Pincher Creek Echo	entailment
+PostMedia is the owner of Pincher Creek Echo.	entailment
+PostMedia acquired Pincher Creek Echo	entailment
+The Pincher Creek Echo is funded through advertising and subscription fees.	entailment
+The Pincher Creek Echo tends to the right	entailment
+Other sources have commented on Pincher Creek Echo, stating that it tends to be right-center biased.	entailment
+The factuality of Pincher Creek Echo is reported to be High	entailment
+The factuality of Pincher Creek Echo is reported to be high, according to D. Van Zandt.	entailment
+Pincher Creek Echo failed a fact-check for an article titled "No Recent Fact Checks".	contradiction
+Pincher Creek Echo chose not to cover Failed Fact Checks	entailment
+Pincher Creek Echo provides original content written by staff journalists	entailment
+Pincher Creek Echo relies on advertising for revenue	entailment
+Pincher Creek Echo relies on subscriptions for revenue	entailment
+Pincher Creek Echo relies on donations for revenue	contradiction
+When aggregating stories, Pincher Creek Echo relies on information from journalists.	entailment
+Pincher Creek Echo has an editorial bias towards right-leaning	entailment
+The Pincher Creek Echo is funded by the Canadian government	contradiction
+Pincher Creek Echo is a newspaper	entailment

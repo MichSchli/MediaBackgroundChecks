@@ -1,0 +1,14 @@
+Factual Reporting: HIGH
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+Founded in 2014 by
+[Walt Mossberg](https://en.wikipedia.org/wiki/Walt_Mossberg) and [Kara Swisher,](https://en.wikipedia.org/wiki/Kara_Swisher) Recode (formerly Re/code) is a technology news website that focuses on the business of Silicon Valley. In 2015, Recode was bought by Vox Media. Samantha Oltman of [BuzzFeed News](https://mediabiasfactcheck.com/buzzfeed/) was named Recode’s new editor-in-chief in 2019. In May 2019, Recode officially became a part of the [Vox.com website](https://www.niemanlab.org/2019/05/recode-is-officially-part-of-vox-com-now/). [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Recode is owned by Vox Media, which is a digital publishing network founded by
+[Jerome Armstrong](https://en.wikipedia.org/wiki/Jerome_Armstrong), Tyler Bleszinski, and [Markos Moulitsas](https://en.wikipedia.org/wiki/Markos_Moulitsas) and based in Washington, D.C. According to a [Nieman Lab](http://www.niemanlab.org/2016/01/built-on-passion-how-vox-media-grew-from-its-roots-as-an-oakland-as-blog-into-one-of-the-internets-biggest-publishers/) article, Vox Media has eight editorial brands and a custom advertising division. These are (sports-focused) SB Nation, (tech site) [The Verge](https://mediabiasfactcheck.com/the-verge/), (video game site) Polygon, (real estate blog) Curbed, (food and nightlife) Eater, (technology news) Racked, (news hub) Vox, and (technology business) Recode. Further, a [New York Times](https://mediabiasfactcheck.com/new-york-times/) [article](https://www.nytimes.com/2015/08/13/business/media/nbcuniversal-invests-200-million-in-vox-media.html) dated 2015 states that NBC Universal, which is owned by Comcast, invested $200 Million in Vox Media. Recode/Vox is funded through advertising and sponsored content.
+Analysis / Bias
+In review, Recode primarily covers technology and silicon valley business news. Headlines and articles feature minimally loaded words such as this
+[What it’s really like to live with so-called smart devices](https://www.vox.com/recode/2019/5/2/18511551/living-smart-apartment-alexa-google-assistant-nest-furbo). This article is properly sourced to credible media outlets as are most on the Recode website. Editorially, Recode does not directly cover politics, however, they do write articles pertaining to political policy and its impact on tech and business. These articles are typically neutral with some that [lean left](https://www.vox.com/recode/2019/5/1/18525316/facebook-research-data-democracy-cambridge-analytica). In general, this is not a politically driven website.
+Failed Fact Checks
+- None in the Last 5 years

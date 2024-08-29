@@ -1,0 +1,18 @@
+Nick Sorrentino founded Against Crony Capitalism	entailment
+Against Crony Capitalism owns Against Crony Capitalism	entailment
+Against Crony Capitalism is funded through advertising, donations, and the sale of books.	entailment
+The remit of Against Crony Capitalism is to **expose crony capitalism**	entailment
+The mission of Against Crony Capitalism is to expose crony capitalism	entailment
+Against Crony Capitalism tends to the **Right Biased**.	entailment
+Against Crony Capitalism tends to the right according to their bias	entailment
+Other sources have commented on Against Crony Capitalism, stating that it tends to be **right biased**.	entailment
+The factuality of Against Crony Capitalism is reported to be Mostly Factual	entailment
+The factuality of Against Crony Capitalism is reported to be Mostly Factual, according to a source criticism exercise.	entailment
+Against Crony Capitalism chose not to cover ownership.	entailment
+Against Crony Capitalism relies on advertising for revenue	entailment
+Against Crony Capitalism relies on subscriptions for revenue	entailment
+Against Crony Capitalism relies on donations for revenue	entailment
+When aggregating stories, Against Crony Capitalism relies on information from [ac2news.com](https://www.ac2news.com).	entailment
+Against Crony Capitalism has an editorial bias towards right-leaning capitalism	entailment
+Nick Sorrentino is the editor of Against Crony Capitalism	entailment
+Against Crony Capitalism was fined 	entailment

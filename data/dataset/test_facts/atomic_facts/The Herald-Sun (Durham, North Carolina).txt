@@ -1,0 +1,23 @@
+Chatham Assets Management owns The Herald-Sun (Durham, North Carolina)	contradiction
+Chatham Assets Management is the owner of The Herald-Sun (Durham, North Carolina)	entailment
+Chatham Assets Management bought The Herald-Sun (Durham, North Carolina)	entailment
+Chatham Assets Management acquired The Herald-Sun (Durham, North Carolina)	entailment
+The Herald-Sun (Durham, North Carolina) is funded through advertising and subscription fees	entailment
+The remit of The Herald-Sun (Durham, North Carolina) is to **report local news through the use of journalists and national news via the Associated Press, McClatchy, and other McClatchy papers**.	entailment
+The mission of The Herald-Sun (Durham, North Carolina) is to **report local news through the use of journalists and national news via the Associated Press, McClatchy, and other McClatchy papers**.	entailment
+The Herald-Sun (Durham, North Carolina) tends to the left	entailment
+Other sources have commented on The Herald-Sun (Durham, North Carolina), stating that it tends to be **on the left side of Least Biased**.	entailment
+The factuality of The Herald-Sun (Durham, North Carolina) is reported to be High	entailment
+The factuality of The Herald-Sun (Durham, North Carolina) is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+The Herald-Sun (Durham, North Carolina) failed a fact-check for an article titled None in the Last 5 years	contradiction
+The Herald-Sun (Durham, North Carolina) printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**.	contradiction
+The Herald-Sun (Durham, North Carolina) chose not to cover **any failed fact checks in the last 5 years**	entailment
+The Herald-Sun (Durham, North Carolina) relies on advertising for revenue	entailment
+The Herald-Sun (Durham, North Carolina) relies on subscriptions for revenue	entailment
+The Herald-Sun (Durham, North Carolina) relies on donations for revenue	contradiction
+When aggregating stories, The Herald-Sun (Durham, North Carolina) relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/), [McClatchy](https://mediabiasfactcheck.com/mcclatchydc/), and other McClatchy papers such as the [Sun-Sentinel](https://mediabiasfactcheck.com/south-florida-sun-sentinel/).	entailment
+The Herald-Sun (Durham, North Carolina) has endorsed left-leaning positions	entailment
+The Herald-Sun (Durham, North Carolina) has an editorial bias towards left-leaning positions.	entailment
+The Herald-Sun (Durham, North Carolina) is funded by the government.	contradiction
+The Herald-Sun (Durham, North Carolina) is a daily newspaper	entailment
+The Herald-Sun (Durham, North Carolina) covers the following topics: local news and national news	entailment

@@ -1,0 +1,24 @@
+Clark S. Judge is the founder of Pacific Research Institute	contradiction
+Clark S. Judge leads Pacific Research Institute	entailment
+Pacific Research Institute	entailment
+Pacific Research Institute is funded through **donations**	entailment
+The remit of Pacific Research Institute is to champion freedom, opportunity, and personal responsibility for all individuals by advancing free-market policy solutions.	entailment
+The mission of Pacific Research Institute is to champion freedom, opportunity, and personal responsibility for all individuals by advancing free-market policy solutions.	entailment
+The usual audience of Pacific Research Institute is **individuals who lean towards right-leaning opinions**	entailment
+Pacific Research Institute tends to the right	entailment
+Other sources have commented on Pacific Research Institute, stating that it tends to be right-center biased.	entailment
+The factuality of Pacific Research Institute is reported to be Mostly Factual	entailment
+The factuality of Pacific Research Institute is reported to be Mostly Factual, according to D. Van Zandt.	entailment
+Pacific Research Institute failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Pacific Research Institute chose not to cover opinion-based blog.newaxis.	entailment
+Pacific Research Institute provides original content written by staff journalists	entailment
+Pacific Research Institute relies on subscriptions for revenue	entailment
+Pacific Research Institute relies on donations for revenue	entailment
+When aggregating stories, Pacific Research Institute relies on information from [CNBC](https://mediabiasfactcheck.com/cnbc/), [KHN](https://mediabiasfactcheck.com/kaiser-family-foundation/), and [New York Times](https://mediabiasfactcheck.com/new-york-times/).	entailment
+Pacific Research Institute has endorsed **free-market policy solutions**	entailment
+Pacific Research Institute has an editorial bias towards **right-leaning opinions**	entailment
+Pacific Research Institute printed a biased article titled "With Trump’s Election, America Rejects Job-Killing Climate Change Agenda".	entailment
+Pacific Research Institute had to apologize for [none in the Last 5 years](https://www.pacificresearch.org/).	entailment
+Pacific Research Institute's headquarter is located in California	entailment
+Pacific Research Institute is a think tank	entailment
+Pacific Research Institute covers the following topics: [history, funded by / ownership, analysis / bias, failed fact checks].	entailment

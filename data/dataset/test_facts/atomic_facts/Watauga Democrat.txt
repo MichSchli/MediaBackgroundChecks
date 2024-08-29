@@ -1,0 +1,21 @@
+Adams Publishing Group owns Watauga Democrat	entailment
+Stephen Adams is the owner of Watauga Democrat	entailment
+Adams Publishing Group bought Watauga Democrat	entailment
+Watauga Democrat is funded through **advertising and subscription fees**	entailment
+The remit of Watauga Democrat is to **cover local news through journalists with minimal bias**	entailment
+The mission of Watauga Democrat is to report the news factually and with a slight Left-leaning bias.	entailment
+Watauga Democrat tends to the left	entailment
+Other sources have commented on Watauga Democrat, stating that it tends to be Left-Center Biased	entailment
+The factuality of Watauga Democrat is reported to be High	entailment
+The factuality of Watauga Democrat is reported to be High, according to a source review by Media Bias/Fact Check.	entailment
+Watauga Democrat failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Watauga Democrat chose not to cover failed fact checks	entailment
+Watauga Democrat relies on advertising for revenue	entailment
+Watauga Democrat relies on subscriptions for revenue	entailment
+Watauga Democrat relies on donations for revenue	contradiction
+When aggregating stories, Watauga Democrat relies on information from **quotes, interviews, and accounts, while National and world news comes directly from the Associated Press**.	entailment
+Watauga Democrat has an editorial bias towards Left.	entailment
+Watauga Democrat had to apologize for  false fact checks	contradiction
+Watauga Democrat is a newspaper	entailment
+Watauga Democrat uses an internal fact-checking process	entailment
+Watauga Democrat covers the following topics: local news, sports, crime, weather, National and world news	entailment

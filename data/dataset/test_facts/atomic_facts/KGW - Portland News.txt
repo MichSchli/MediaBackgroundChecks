@@ -1,0 +1,26 @@
+TEGNA leads KGW - Portland News	entailment
+TEGNA owns KGW - Portland News	entailment
+TEGNA is the owner of KGW - Portland News	entailment
+TEGNA bought KGW - Portland News	entailment
+TEGNA acquired KGW - Portland News	entailment
+KGW - Portland News is funded through advertising and sponsored content.	entailment
+The remit of KGW - Portland News is to  report local news primarily through TV news videos and accompanying text.	entailment
+The mission of KGW - Portland News is to serve the greater good of our communities.	entailment
+Other sources have commented on KGW - Portland News, stating that it tends to be **least biased**	entailment
+The factuality of KGW - Portland News is reported to be High	entailment
+The factuality of KGW - Portland News is reported to be High, according to Mediabiasfactcheck.	entailment
+KGW - Portland News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KGW - Portland News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+KGW - Portland News chose not to cover op-eds and reports on politics.	entailment
+KGW - Portland News relies on advertising for revenue	entailment
+KGW - Portland News relies on subscriptions for revenue	entailment
+KGW - Portland News relies on donations for revenue	contradiction
+When aggregating stories, KGW - Portland News relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/) and other TEGNA TV stations.	entailment
+KGW - Portland News has an editorial bias towards Least Biased	entailment
+KGW - Portland News printed a biased article titled [None in the Last 5 years].	contradiction
+KGW - Portland News had to apologize for **none**	entailment
+KGW - Portland News's headquarter is located in Portland	entailment
+KGW - Portland News is funded by the TEGNA government	contradiction
+KGW - Portland News is a **news**	entailment
+KGW - Portland News uses an internal fact-checking process	entailment
+KGW - Portland News covers the following topics: local news, sports, weather, national and international news	entailment

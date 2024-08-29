@@ -1,0 +1,19 @@
+Lee Enterprises leads Lake Geneva Regional News	entailment
+Lee Enterprises owns Lake Geneva Regional News	entailment
+Lee Enterprises is the owner of Lake Geneva Regional News	entailment
+Lee Enterprises acquired Lake Geneva Regional News	entailment
+Lake Geneva Regional News is funded through advertising and subscription fees	entailment
+The remit of Lake Geneva Regional News is to report on news, sports, entertainment, lifestyle, and opinion for Racine and the surrounding area.	entailment
+The mission of Lake Geneva Regional News is to **report on news, sports, entertainment, lifestyle, and opinion for Racine and the surrounding area**.	entailment
+Lake Geneva Regional News tends to the least biased	entailment
+Lake Geneva Regional News tends to the right according to Mediabiasfactcheck.	contradiction
+Other sources have commented on Lake Geneva Regional News, stating that it tends to be Least Biased.	entailment
+The factuality of Lake Geneva Regional News is reported to be High	entailment
+The factuality of Lake Geneva Regional News is reported to be High, according to D. Van Zandt	entailment
+Lake Geneva Regional News failed a fact-check for an article titled None in the Last 5 years	contradiction
+Lake Geneva Regional News relies on advertising for revenue	entailment
+Lake Geneva Regional News relies on subscriptions for revenue	entailment
+Lake Geneva Regional News relies on donations for revenue	entailment
+When aggregating stories, Lake Geneva Regional News relies on information from **first-person accounts or through credible media**	entailment
+Lake Geneva Regional News has an editorial bias towards **the right**	contradiction
+Lake Geneva Regional News had to apologize for [None in the Last 5 years].	entailment

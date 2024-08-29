@@ -1,0 +1,21 @@
+Tiso Blackstar Group founded Times of South Africa	contradiction
+Times Live leads Times of South Africa	contradiction
+Tiso Blackstar Group	entailment
+Tiso Blackstar Group	entailment
+Tiso Blackstar Group acquired Times of South Africa	entailment
+Times of South Africa is funded through advertising and subscription fees.	entailment
+The remit of Times of South Africa is to **provide breaking news, opinion, analysis, commentary, and entertainment news**	entailment
+The mission of Times of South Africa is to **provide breaking news, opinion, analysis, commentary, and entertainment news**.	entailment
+Times of South Africa tends to the **Right-Center**	entailment
+Times of South Africa tends to the right-center according to Media Bias/Fact Check	entailment
+Other sources have commented on Times of South Africa, stating that it tends to be Right-Center Biased	entailment
+The factuality of Times of South Africa is reported to be Mostly Factual	entailment
+The factuality of Times of South Africa is reported to be Mostly Factual, according to M. Huitsing 5/6/2018	entailment
+Times of South Africa failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Times of South Africa printed a retraction after failing a fact-check for an article titled **"Zuma is going to have his day in court soon, and it’s going to be ugly,"**	entailment
+Times of South Africa relies on advertising for revenue	entailment
+Times of South Africa relies on subscriptions for revenue	entailment
+Times of South Africa relies on donations for revenue	contradiction
+When aggregating stories, Times of South Africa relies on information from **through quotes**	entailment
+The Times of South Africa has endorsed the right-leaning government.	contradiction
+Times of South Africa has an editorial bias towards Right-Center	entailment

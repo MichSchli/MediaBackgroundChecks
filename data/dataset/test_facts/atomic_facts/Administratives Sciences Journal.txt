@@ -1,0 +1,21 @@
+MDPI AG owns Administratives Sciences Journal	entailment
+Shu-Kun Lin is the owner of Administratives Sciences Journal	entailment
+MDPI bought Administratives Sciences Journal	contradiction
+The remit of Administratives Sciences Journal is to cover theoretical and empirical work on organization studies.	entailment
+Administratives Sciences Journal tends to the Pro-Science	entailment
+Other sources have commented on Administratives Sciences Journal, stating that it tends to be Pro-Science.	entailment
+The factuality of Administratives Sciences Journal is reported to be Mostly Factual	entailment
+The factuality of Administratives Sciences Journal is reported to be Mostly Factual, according to a site that reviews media bias and fact-checks.	entailment
+Administratives Sciences Journal failed a fact-check for an article titled **None**	contradiction
+Administrative Sciences Journal printed a retraction after failing a fact-check for an article titled "Choosing Optimal Omnichannel Coupon Redeeming Options in Multiple Channel Settings".	contradiction
+Administratives Sciences Journal chose not to cover failed fact checks	entailment
+Administratives Sciences Journal relies on advertising for revenue	contradiction
+Administratives Sciences Journal relies on subscriptions for revenue	contradiction
+Administratives Sciences Journal relies on donations for revenue	contradiction
+Administratives Sciences Journal has endorsed Pro-Science and Mostly Factual	entailment
+Administratives Sciences Journal has an editorial bias towards Pro-Science.	entailment
+Administratives Sciences Journal's headquarter is located in Basel	entailment
+Administratives Sciences Journal is funded by the  government	entailment
+Administratives Sciences Journal is a **quarterly**	entailment
+Administratives Sciences Journal uses a peer review process	entailment
+Administratives Sciences Journal covers the following topics: theoretical and empirical work on organization studies.	entailment

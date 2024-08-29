@@ -1,0 +1,21 @@
+Frontiers Media founded Frontiers in Education	entailment
+Frontiers Media SA owns Frontiers in Education	entailment
+Frontiers Media SA is the owner of Frontiers in Education	entailment
+Frontiers Media SA acquired Frontiers in Education	contradiction
+Frontiers in Education is funded through digital sales of content and author fees for publication.	entailment
+The remit of Frontiers in Education is to cover Education	entailment
+The mission of Frontiers in Education is to address global educational challenges, including policy and practice, to provide thoughtful, research-based insights into improving educational outcomes for all.	entailment
+The usual audience of Frontiers in Education is scholars.	entailment
+Frontiers in Education tends to the scientific	entailment
+Frontiers in Education tends to the **educational outcomes for all** according to **its About page**	entailment
+Other sources have commented on Frontiers in Education, stating that it tends to be **Pro-Science**	entailment
+The factuality of Frontiers in Education is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Education is reported to be Mostly Factual, according to D. Van Zandt 	entailment
+Frontiers in Education failed a fact-check for an article titled "How can academic health science centers help to increase diversity in the STEM professions?".	contradiction
+Frontiers in Education chose not to cover failed fact checks	entailment
+Frontiers in Education relies on subscriptions for revenue	contradiction
+Frontiers in Education relies on donations for revenue	contradiction
+Frontiers in Education has received donations from [digital sales of content and author fees for publication].	contradiction
+When aggregating stories, Frontiers in Education relies on information from **research and studies related to education**	entailment
+Frontiers in Education has endorsed Pro-Science	entailment
+Frontiers in Education has an editorial bias towards Pro-Science	entailment

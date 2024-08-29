@@ -1,0 +1,25 @@
+Carrie Severino leads Judicial Crisis Network	entailment
+JCN bought Judicial Crisis Network	contradiction
+JCN acquired Judicial Crisis Network	entailment
+Judicial Crisis Network is funded through **dark money**	entailment
+The remit of Judicial Crisis Network is to  lobby, fund, and support conservative candidates, judges and causes.	entailment
+The mission of Judicial Crisis Network is to advance conservative judicial causes.	entailment
+The usual audience of Judicial Crisis Network is **conservative**	entailment
+Judicial Crisis Network tends to the **right**	entailment
+Other sources have commented on Judicial Crisis Network, stating that it tends to be right biased.	entailment
+The factuality of Judicial Crisis Network is reported to be Mixed	entailment
+The factuality of Judicial Crisis Network is reported to be Mixed, according to D. Van Zandt 2/16/2017.	entailment
+Judicial Crisis Network failed a fact-check for an article titled **none**	contradiction
+Judicial Crisis Network chose not to cover funding and spending	entailment
+Judicial Crisis Network provides original content written by staff journalists	contradiction
+Judicial Crisis Network relies on subscriptions for revenue	entailment
+Judicial Crisis Network relies on donations for revenue	entailment
+When aggregating stories, Judicial Crisis Network relies on information from **news articles from other sources**	entailment
+Judicial Crisis Network has endorsed **conservative candidates and causes**	entailment
+Judicial Crisis Network has an editorial bias towards **right**	entailment
+Judicial Crisis Network printed a biased article titled **The Left Tries to Take Down Another Stellar Trump Judicial Nominee**	entailment
+Judicial Crisis Network had to apologize for **failed fact checks**.	contradiction
+Judicial Crisis Network's headquarter is located in the United States	entailment
+Judicial Crisis Network is funded by the United States government	contradiction
+Judicial Crisis Network is a 501(c)(4) nonprofit organization.	entailment
+Judicial Crisis Network covers the following topics: conservative campaigns, lobbying and funding.	entailment

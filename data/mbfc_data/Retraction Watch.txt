@@ -1,0 +1,11 @@
+History
+Founded in 2010, Retraction Watch is a blog that reports on retractions of scientific papers. The blog is produced by science writers Ivan Oransky (Vice President and Global Editorial Director of MedPage Today) and Adam Marcus (editor of Gastroenterology & Endoscopy News).
+[Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Retraction Watch is owned by the
+[Center for Scientific Integrity](https://en.wikipedia.org/wiki/Center_for_Scientific_Integrity), a New York City-based 501(c)(3) nonprofit “to promote transparency and integrity in science and scientific publishing, and to disseminate best practices and increase efficiency in science.” There does not seem to be a source of revenue, however, The Center for Scientific Integrity has been [supported](https://api.newsguardtech.com/label/retractionwatch.com?cid=be3df7cd-8d19-4682-83a6-3c8444e7fd22) by grants from organizations including the John D. and Catherine T. MacArthur Foundation, the Laura and John Arnold Foundation, and the Leona M. and Harry B. Helmsley Trust.
+Analysis / Bias
+In review, Retraction Watch does exactly as described, they report on scientific studies that have been removed from journals and publications. An example is this
+[Journal retracts paper claiming that group of Indigenous Americans were Black Africans](https://retractionwatch.com/2020/10/12/journal-retracts-paper-claiming-that-group-of-indigenous-americans-were-black-africans/). They also report on studies that should be retracted but have not such as this [The bizarre anti-vaccine paper a Florida professor has been trying to have retracted to no avail](https://retractionwatch.com/2020/10/14/the-bizarre-anti-vaccine-paper-a-florida-professor-has-been-trying-to-have-retracted-to-no-avail/). When it comes to sourcing, Retraction Watch relies on journals and credible sources. In general, this is a pro-science source that is factual.
+Failed Fact Checks
+- None in the Last 5 years

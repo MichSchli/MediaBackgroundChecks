@@ -1,0 +1,25 @@
+Allen founded BNC - Black News Channel	contradiction
+Byron Allen is the founder of BNC - Black News Channel	contradiction
+Allen Media LLC owns BNC - Black News Channel	entailment
+Byron Allen is the owner of BNC - Black News Channel	entailment
+BNC - Black News Channel is funded through **advertising**.	entailment
+The remit of BNC - Black News Channel is to cover news, sports, politics, and entertainment with a focus on the African American community.	entailment
+The mission of BNC - Black News Channel is to cover the unique perspectives, challenges, and successes of Black and Brown communities.	entailment
+The usual audience of BNC - Black News Channel is the African American community.	entailment
+BNC - Black News Channel tends to the left	entailment
+Other sources have commented on BNC - Black News Channel, stating that it tends to be left biased.	entailment
+The factuality of BNC - Black News Channel is reported to be Mostly Factual	entailment
+The factuality of BNC - Black News Channel is reported to be Mostly Factual, according to D. Van Zandt	entailment
+BNC - Black News Channel chose not to cover transparency	entailment
+BNC - Black News Channel relies on advertising for revenue	entailment
+BNC - Black News Channel relies on subscriptions for revenue	contradiction
+BNC - Black News Channel relies on donations for revenue	contradiction
+When aggregating stories, BNC - Black News Channel relies on information from **credible media outlets**	entailment
+BNC - Black News Channel has endorsed **a socially liberal perspective**	entailment
+BNC - Black News Channel has an editorial bias towards left	entailment
+Byron Allen is the editor of BNC - Black News Channel	entailment
+BNC - Black News Channel printed a biased article titled Trump Pushes Conspiracy Theory About Buffalo Protester	entailment
+BNC - Black News Channel had to apologize to [Corporate America](https://bnc.tv/corporate-america-failed-commitment-two-years-george-floyd-death/) for [Corporate America Failed to Deliver Two Years After George Floyd’s Death](https://bnc.tv/corporate-america-failed-commitment-two-years-george-floyd-death/).	entailment
+BNC - Black News Channel's headquarter is located in Tallahassee	entailment
+BNC - Black News Channel is a 24-hour news channel and website.	entailment
+BNC - Black News Channel covers the following topics: news, sports, politics, and entertainment.	entailment

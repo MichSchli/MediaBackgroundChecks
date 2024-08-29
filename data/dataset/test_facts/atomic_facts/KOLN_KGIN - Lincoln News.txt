@@ -1,0 +1,23 @@
+Founded in 1954,  founded KOLNKGIN - Lincoln News	entailment
+Gray Television owns KOLNKGIN - Lincoln News	entailment
+Gray Television is the owner of KOLNKGIN - Lincoln News	entailment
+Gray Television bought KOLN\KGIN - Lincoln News	entailment
+Gray Television acquired KOLNKGIN - Lincoln News	entailment
+The mission of KOLNKGIN - Lincoln News is to  report news factually and with minimal bias.	entailment
+The usual audience of KOLN\KGIN - Lincoln News is **residents of Lincoln, Nebraska, and the surrounding area**.	entailment
+KOLN\KGIN - Lincoln News tends to the  neutral.	entailment
+Other sources have commented on KOLNKGIN - Lincoln News, stating that it tends to be Least Biased.	entailment
+The factuality of KOLNKGIN - Lincoln News is reported to be High	entailment
+The factuality of KOLN\KGIN - Lincoln News is reported to be high, according to Media Bias/Fact Check.	entailment
+KOLNKGIN - Lincoln News failed a fact-check for an article titledNone in the Last 5 years.	contradiction
+KOLNKGIN - Lincoln News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+KOLNKGIN - Lincoln News chose not to cover opinion pages	entailment
+KOLN_KGIN - Lincoln News relies on advertising for revenue	entailment
+KOLN_KGIN - Lincoln News relies on donations for revenue	contradiction
+When aggregating stories, KOLN\KGIN - Lincoln News relies on information from **Gray Television affiliates, the Associated Press, and CNN**.	entailment
+KOLN\KGIN - Lincoln News has an editorial bias towards **neutral reporting**	entailment
+Dale Johnson is the editor of KOLNKGIN - Lincoln News	contradiction
+KOLN\KGIN - Lincoln News had to apologize for  having no failed fact checks in the last 5 years	entailment
+KOLNKGIN - Lincoln News is funded by the  government	contradiction
+KOLN\KGIN - Lincoln News is a Least Biased	entailment
+KOLN\KGIN - Lincoln News covers the following topics: Local and national news, sports, weather, traffic, and entertainment	entailment

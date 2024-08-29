@@ -1,0 +1,23 @@
+Tim Stanley founded Justia	entailment
+Tim Stanley is the founder of Justia	entailment
+Tim Stanley is the CEO of Justia	entailment
+Justia is funded through memberships for legal professionals, online marketing services, advertising, partnerships, and subscription services.	entailment
+The remit of Justia is to promote open and free access to legal information and resources.	entailment
+The mission of Justia is to promote open and free access to legal information and resources.	entailment
+The usual audience of Justia is **legal professionals**	entailment
+Justia tends to the  legal information and resources.	entailment
+Other sources have commented on Justia, stating that it tends to be **least biased**	entailment
+The factuality of Justia is reported to be High	entailment
+The factuality of Justia is reported to be High, according to M. Huitsing	entailment
+Justia printed a retraction after failing a fact-check for an article titled **None in the Last 5 years. Fact-checkers use them as a reference.**	contradiction
+Justia chose not to cover **sports news**	entailment
+Justia relies on advertising for revenue	entailment
+Justia relies on subscriptions for revenue	entailment
+Justia relies on donations for revenue	entailment
+Justia has received donations from **memberships**	entailment
+When aggregating stories, Justia relies on information from [ reputable outlets like the New York Times, Reason, PBS NewsHour, Politico, New Yorker, LA Times (Los Angeles Times), NPR (National Public Radio), The Independent UK, Law360, and Forbes. ]	entailment
+Stacy Lynn Stern is the editor of Justia	contradiction
+Justia had to apologize for **None in the Last 5 years. Fact-checkers use them as a reference.**	entailment
+Justia's headquarter is located in Mountain View, California.	entailment
+Justia uses a peer review process	entailment
+Justia covers the following topics: legal information, case law, codes, regulations, legal articles, legal blog databases, and community resources.	entailment

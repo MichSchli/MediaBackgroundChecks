@@ -1,0 +1,11 @@
+History
+[Stacker](https://stackermedia.com/about/) is a media company that creates and shares data-based articles and works with partners on joint projects. Stacker aims to help publishers and brands cut costs and save time by providing ready-to-publish content. They also offer custom content creation services. Stacker.com is their website that publishes news and information. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+[Noah Greenberg](https://stackermedia.com/about/), the current CEO of Stacker, [co-founded](https://digiday.com/media/wire-service-stacker-aims-to-solve-content-crunch-for-newsrooms-and-brands/) the company in [2017](https://twitter.com/realnoahg/status/1435693186136088583) along with three former colleagues from Graphiq, Nicole Caldwell, who previously worked with Green Matters and Thrillist, serves as Stacker’s managing editor. The company generates revenue through the sale of content to newsrooms and publishers.
+Analysis / Bias
+Stacker creates data-driven content purchased and republished by small and large newsrooms. Some of their customers include Nexstar, Lee Enterprises, Hearst, and
+[MSN](https://mediabiasfactcheck.com/msn-com/). Articles and headlines contain minimal bias focusing on data trends such as this [Highest-paying jobs with no formal education requirements](https://stacker.com/business-economy/highest-paying-jobs-no-formal-education-requirements). This article is appropriately sourced from the BLS.
+Editorially, they do not produce op-eds; however, they do report on government from a data-driven perspective, such as this:
+[Gun control legislation that passed and failed over the last 20 years](https://stacker.com/government/gun-control-legislation-passed-and-failed-over-last-20-years). In general, all content reviewed was fact-based and contained minimal bias.
+Failed Fact Checks
+- None in the Last 5 years

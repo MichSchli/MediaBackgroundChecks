@@ -1,0 +1,24 @@
+Ryan Mauldin founded GOP Daily Brief	entailment
+Ryan Mauldin owns GOP Daily Brief	entailment
+Ryan Mauldin bought GOP Daily Brief	entailment
+Ryan Mauldin acquired GOP Daily Brief	entailment
+GOP Daily Brief is funded through **advertising and sponsored content**	entailment
+The remit of GOP Daily Brief is to give America-loving patriots access to the news the mainstream media won’t report.	entailment
+The mission of GOP Daily Brief is to  provide America-loving patriots access to news the mainstream media won't report.	entailment
+The usual audience of GOP Daily Brief is **right-leaning**	entailment
+GOP Daily Brief tends to the extreme right-wing bias	entailment
+GOP Daily Brief tends to the right according to Media Bias Fact Check	entailment
+Other sources have commented on GOP Daily Brief, stating that it tends to be Questionable	entailment
+The factuality of GOP Daily Brief is reported to be Questionable	entailment
+The factuality of GOP Daily Brief is reported to be Questionable, according to D. Van Zandt	entailment
+GOP Daily Brief failed a fact-check for an article titled **“Swing State Hit With 2020 Voting Lawsuit – Accused Of Registering Over 1,500 Deceased People In Pennsylvania.”**	entailment
+The GOP Daily Brief chose not to cover original content.	entailment
+GOP Daily Brief provides original content written by staff journalists	contradiction
+GOP Daily Brief relies on advertising for revenue	entailment
+GOP Daily Brief relies on subscriptions for revenue	contradiction
+GOP Daily Brief relies on donations for revenue	contradiction
+When aggregating stories, GOP Daily Brief relies on information from **a single, usually right-biased source**.	entailment
+GOP Daily Brief has an editorial bias towards **the right**.	entailment
+GOP Daily Brief was fined 	entailment
+GOP Daily Brief printed a biased article titled "Biden Finally Cracks Under Pressure From Protesters – Joe Breaks Down Over Their Signs, Claims 81 Million Voted For Him"	entailment
+GOP Daily Brief printed a factually misleading titled "Swing State Hit With 2020 Voting Lawsuit – Accused Of Registering Over 1,500 Deceased People In Pennsylvania."	contradiction

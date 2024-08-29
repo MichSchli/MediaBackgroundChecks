@@ -1,0 +1,23 @@
+Jakob Oetama founded Kompas.com	entailment
+Jakob Oetama is the founder of Kompas.com	entailment
+The Kompas Gramedia Group owns Kompas.com	entailment
+Lilik Oetama is the owner of Kompas.com	entailment
+Kompas Gramedia Group bought Kompas.com	entailment
+Kompas.com is funded through subscriptions and advertisements	entailment
+The remit of Kompas.com is to **publish news articles**	entailment
+The usual audience of Kompas.com is neutral	entailment
+Kompas.com tends to the neutral.	entailment
+Other sources have commented on Kompas.com, stating that it tends to be **Least Biased**.	entailment
+The factuality of Kompas.com is reported to be  Mostly Factual	entailment
+The factuality of Kompas.com is reported to be Mostly Factual, according to M. Huitsing 7/21/2020	entailment
+Kompas.com failed a fact-check for an article titled **None in the Last 5 years**.	contradiction
+Kompas.com relies on advertising for revenue	entailment
+Kompas.com relies on subscriptions for revenue	entailment
+Kompas.com relies on donations for revenue	contradiction
+When aggregating stories, Kompas.com relies on information from **quotes from other sources**.	entailment
+Kompas.com has an editorial bias towards **minimal bias**.	entailment
+Wisnu Nugroho is the editor of Kompas.com	entailment
+Kompas.com's headquarter is located in Jakarta	entailment
+Kompas.com is funded by the Indonesian government	contradiction
+Kompas.com is a news website.	entailment
+Kompas.com covers the following topics: politics, business, economy, and sports.	entailment

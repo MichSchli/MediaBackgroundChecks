@@ -1,0 +1,21 @@
+Community Newspaper Holdings Inc. owns Muskogee Phoenix	entailment
+Community Newspaper Holdings Inc. is the owner of Muskogee Phoenix	entailment
+Community Newspaper Holdings Inc. bought Muskogee Phoenix	entailment
+Muskogee Phoenix is funded through **advertising and subscription fees**	entailment
+The remit of Muskogee Phoenix is to cover crime, sports, entertainment, and politics for the Muskogee, Oklahoma, region.	entailment
+The usual audience of Muskogee Phoenix is **residents of Muskogee, Oklahoma**.	entailment
+The Muskogee Phoenix tends to the left	entailment
+Other sources have commented on Muskogee Phoenix, stating that it tends to be **slightly Left-Center Biased**	entailment
+The factuality of Muskogee Phoenix is reported to be High	entailment
+The factuality of Muskogee Phoenix is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+The Muskogee Phoenix chose not to cover failed fact checks	entailment
+Muskogee Phoenix relies on advertising for revenue	entailment
+Muskogee Phoenix relies on subscriptions for revenue	entailment
+Muskogee Phoenix relies on donations for revenue	contradiction
+Muskogee Phoenix has received donations from None in the Last 5 years	entailment
+The Muskogee Phoenix has endorsed a liberal perspective.	entailment
+Muskogee Phoenix has an editorial bias towards left.	entailment
+The Muskogee Phoenix's headquarter is located in Muskogee	entailment
+The Muskogee Phoenix is funded by the private government	contradiction
+Muskogee Phoenix is a newspaper	entailment
+Muskogee Phoenix covers the following topics: crime, sports, entertainment, and politics for the Muskogee, Oklahoma, region.	entailment

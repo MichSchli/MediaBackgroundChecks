@@ -1,0 +1,28 @@
+Theo Baker is the founder of The Stanford Daily	entailment
+Theo Baker is the CEO of The Stanford Daily	entailment
+The Stanford Daily Publishing Corporation owns The Stanford Daily	entailment
+The Stanford Daily is the owner of The Stanford Daily.	contradiction
+The Stanford Daily bought The Stanford Daily	contradiction
+The Stanford Daily acquired The Stanford Daily	contradiction
+The Stanford Daily is funded through advertising and donations	entailment
+The remit of The Stanford Daily is to **publish news about Stanford University and its surrounding community, providing a balanced view of issues.**	entailment
+The Stanford Daily tends to the Left-Center Bias	entailment
+Other sources have commented on The Stanford Daily, stating that it tends to be left-leaning	entailment
+The factuality of The Stanford Daily is reported to be High	entailment
+The factuality of The Stanford Daily is reported to be high, according to proper sourcing and a clean fact-check record.	entailment
+The Stanford Daily failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Stanford Daily printed a retraction after failing a fact-check for an article titled "Law School activists protest Judge Kyle Duncan’s Visit to Campus".	entailment
+The Stanford Daily chose not to cover failed fact checks	entailment
+The Stanford Daily provides original content written by staff journalists	entailment
+The Stanford Daily relies on advertising for revenue	entailment
+The Stanford Daily relies on donations for revenue	entailment
+The Stanford Daily has received donations from advertising and donations	entailment
+When aggregating stories, The Stanford Daily relies on information from **government sources and key historical court decisions**	entailment
+The Stanford Daily has endorsed **left-leaning issues**.	entailment
+The Stanford Daily has an editorial bias towards left-leaning perspectives	entailment
+The Stanford Daily was fined 	contradiction
+The Stanford Daily printed a factually misleading titled "Law School activists protest Judge Kyle Duncan’s Visit to Campus."	entailment
+The Stanford Daily's headquarter is located in California	entailment
+The Stanford Daily is funded by the **Publishing Corporation** government	contradiction
+The Stanford Daily is a student-run daily newspaper	entailment
+The Stanford Daily covers the following topics: news, sports, opinion, arts, features, science, and technology.	entailment

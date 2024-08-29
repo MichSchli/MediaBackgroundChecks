@@ -1,0 +1,22 @@
+Digital First Media owns Los Angeles Daily News	entailment
+Digital First Media acquired Los Angeles Daily News	entailment
+Los Angeles Daily News is funded through a subscription and advertising model	entailment
+The remit of Los Angeles Daily News is to **report local news and national/world news through syndication**	entailment
+The mission of Los Angeles Daily News is to report local news through the use of field journalists and national/world news through syndication of the Associated Press.	entailment
+The usual audience of Los Angeles Daily News is **a mix of left and right-wing opinions**	entailment
+Los Angeles Daily News tends to the Right-Center	entailment
+Other sources have commented on Los Angeles Daily News, stating that it tends to be Right-Center	entailment
+The factuality of Los Angeles Daily News is reported to be High	entailment
+The factuality of Los Angeles Daily News is reported to be High, according to Mediabiasfactcheck.com	entailment
+Los Angeles Daily News relies on advertising for revenue	entailment
+Los Angeles Daily News relies on subscriptions for revenue	entailment
+Los Angeles Daily News relies on donations for revenue	entailment
+When aggregating stories, Los Angeles Daily News relies on information from field journalists and national/world news through syndication of the Associated Press.	entailment
+Los Angeles Daily News has endorsed Republican and Democratic candidates.	entailment
+Los Angeles Daily News has an editorial bias towards **Right-Center**	entailment
+Los Angeles Daily News was fined 	entailment
+Los Angeles Daily News printed a biased article titled "Right-Center biased based on right-leaning editorial positions and High for factual reporting due to proper sourcing and a clean fact check record."	entailment
+Los Angeles Daily News printed a factually misleading titled "slight favoritism"	entailment
+Los Angeles Daily News is funded by the private government	contradiction
+Los Angeles Daily News is a Right-Center biased	entailment
+Los Angeles Daily News covers the following topics:  local news, national news, world news	entailment

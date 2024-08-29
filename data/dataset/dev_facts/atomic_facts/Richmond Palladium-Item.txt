@@ -1,0 +1,22 @@
+Gannett owns Richmond Palladium-Item	entailment
+Gannett is the owner of Richmond Palladium-Item	entailment
+Gannett bought Richmond Palladium-Item	entailment
+Gannett acquired Richmond Palladium-Item	entailment
+Richmond Palladium-Item is funded through advertising and paid subscriptions	entailment
+The remit of Richmond Palladium-Item is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Richmond Palladium-Item is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+Richmond Palladium-Item tends to the left	entailment
+Richmond Palladium-Item tends to the left-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on Richmond Palladium-Item, stating that it tends to be left-center biased.	entailment
+The factuality of Richmond Palladium-Item is reported to be High	entailment
+The factuality of Richmond Palladium-Item is reported to be high, according to 	entailment
+Richmond Palladium-Item failed a fact-check for an article titled "Incumbent commissioner, auditor beaten in GOP primary".	contradiction
+Richmond Palladium-Item chose not to cover Presidential endorsements	entailment
+Richmond Palladium-Item relies on advertising for revenue	entailment
+Richmond Palladium-Item relies on subscriptions for revenue	contradiction
+Richmond Palladium-Item relies on donations for revenue	contradiction
+When aggregating stories, Richmond Palladium-Item relies on information from other Gannett publications and the Associated Press.	entailment
+Richmond Palladium-Item has endorsed **no political candidates**	entailment
+Richmond Palladium-Item has an editorial bias towards left.	entailment
+The Richmond Palladium-Item had to apologize for [None]	entailment
+Richmond Palladium-Item had to apologize to no one for nothing	entailment

@@ -1,0 +1,21 @@
+Americans for Limited Government owns Daily Torch	entailment
+AMERICANS FOR LIMITED GOVERNMENT is the owner of Daily Torch	entailment
+Daily Torch is funded through advertising and individual donations	entailment
+The remit of Daily Torch is to  reduce the size and scope of government and maximize individual freedom.	entailment
+The mission of Daily Torch is to  reduce the size and scope of government and maximizing individual freedom.	entailment
+The Daily Torch tends to the **right biased**	entailment
+Daily Torch tends to the right biased according to Americans for Limited Government	entailment
+Other sources have commented on Daily Torch, stating that it tends to be **right biased**.	entailment
+The factuality of Daily Torch is reported to be High	entailment
+The factuality of Daily Torch is reported to be high, according to a factual reporting.	entailment
+Daily Torch failed a fact-check for an article titled Can pro-NAFTA, pro-PNTR w/ China Joe Biden win in Michigan?	contradiction
+Daily Torch printed a retraction after failing a fact-check for an article titled  "Can pro-NAFTA, pro-PNTR w/ China Joe Biden win in Michigan?"	contradiction
+Daily Torch chose not to cover **human-influenced climate change but they do reject government intervention to solve the problem**.	contradiction
+Daily Torch relies on advertising for revenue	entailment
+Daily Torch relies on subscriptions for revenue	contradiction
+Daily Torch relies on donations for revenue	entailment
+Daily Torch has received donations from advertising and individual donations.	entailment
+When aggregating stories, Daily Torch relies on information from its about page.	entailment
+Daily Torch has an editorial bias towards right	entailment
+Daily Torch printed a biased article titled "Can pro-NAFTA, pro-PNTR w/ China Joe Biden win in Michigan?".	entailment
+Daily Torch had to apologize for **none in the Last 5 years**	entailment

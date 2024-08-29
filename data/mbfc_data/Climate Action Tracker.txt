@@ -1,0 +1,10 @@
+History
+[Founded in 2009](https://whois.domaintools.com/climateactiontracker.org), Climate Action Tracker is an independent science-based assessment that tracks countries’ emission commitments and actions. The website provides an up-to-date review of individual national pledges to reduce greenhouse gas emissions. They have a well-sourced Methodology. [View our profile on Germany’s media and government.](https://mediabiasfactcheck.com/germany-media-profile/)
+Funded by / Ownership
+Climate Action Tracker is owned by Climate Analytics and
+[NewClimate Institute gGmbH](https://newclimate.org/), which conducts research and analysis to support the international climate negotiations, including options for implementing the Paris Agreement. [Funding](https://climateactiontracker.org/about/) is provided by the “ClimateWorks Foundation, the European Climate Foundation, and the German Ministry for Environment, Nature Conservation and Nuclear Safety (BMU) via the International Climate Initiative.”
+Analysis / Bias
+In review, the website features a map highlighting countries by how well they comply with the Paris Climate Agreement. For example, the United States is rated as CRITICALLY INSUFFICIENT, while Canada is rated as INSUFFICIENT, and India as 2°C COMPATIBLE. For the most part, almost every country is insufficient or worse. The website also features reports such as this
+[Scaling up climate action in Australia](https://climateactiontracker.org/publications/scalingupaustralia/). In general, the information contained on this website is low-biased and factual.
+Failed Fact Checks
+- None in the Last 5 years

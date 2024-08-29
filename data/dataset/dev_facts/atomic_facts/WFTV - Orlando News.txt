@@ -1,0 +1,21 @@
+Cox Enterprises owns WFTV - Orlando News	entailment
+Cox Enterprises is the owner of WFTV - Orlando News	entailment
+Cox Enterprises bought WFTV - Orlando News	entailment
+Cox Enterprises acquired WFTV - Orlando News	contradiction
+WFTV - Orlando News is funded through **advertising and sponsored content**	entailment
+The remit of WFTV - Orlando News is to cover news, sports, crime, and weather.	entailment
+The mission of WFTV - Orlando News is to report news factually and with minimal bias.	entailment
+The usual audience of WFTV - Orlando News is **the greater Orlando, Florida area**.	entailment
+WFTV - Orlando News tends to the **Least Biased**	entailment
+WFTV - Orlando News tends to the **least biased** according to **Media Bias Fact Check**	entailment
+Other sources have commented on WFTV - Orlando News, stating that it tends to be **least biased**.	entailment
+The factuality of WFTV - Orlando News is reported to be High	entailment
+The factuality of WFTV - Orlando News is reported to be High, according to mediabiasfactcheck.com	entailment
+WFTV - Orlando News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+WFTV - Orlando News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+WFTV - Orlando News chose not to cover op-eds	entailment
+WFTV - Orlando News relies on advertising for revenue	entailment
+WFTV - Orlando News relies on subscriptions for revenue	contradiction
+WFTV - Orlando News relies on donations for revenue	contradiction
+When aggregating stories, WFTV - Orlando News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+- None in the Last 5 years	entailment

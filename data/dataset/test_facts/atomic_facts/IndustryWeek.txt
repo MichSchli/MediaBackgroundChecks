@@ -1,0 +1,24 @@
+Chris Ferrell founded IndustryWeek	contradiction
+Endeavor Business Media owns IndustryWeek	entailment
+Endeavor Business Media bought IndustryWeek	entailment
+Endeavor Business Media acquired IndustryWeek	entailment
+IndustryWeek is funded through advertisements and subscriptions	entailment
+The remit of IndustryWeek is to provide information on industry trends and developments, focusing on manufacturing, technology, leadership, and supply chain coverage.	entailment
+The mission of IndustryWeek is to provide information on industry trends and developments, focusing on manufacturing, technology, leadership, and supply chain coverage.	entailment
+The usual audience of IndustryWeek is business professionals	entailment
+Other sources have commented on IndustryWeek, stating that it tends to be **Least Biased**.	entailment
+The factuality of IndustryWeek is reported to be High	entailment
+The factuality of IndustryWeek is reported to be High, according to Source: [https://www.industryweek.com/](https://www.industryweek.com/).	entailment
+IndustryWeek failed a fact-check for an article titled None in the Last 5 years	contradiction
+IndustryWeek chose not to cover [the impact of Biden's initiatives and Trump's tariffs on US manufacturing](https://www.industryweek.com/the-economy/competitiveness/article/21265596/biden-tax-credits-trump-tariffs-together-boost-us-manufacturing).	contradiction
+IndustryWeek provides original content written by staff journalists	entailment
+IndustryWeek relies on advertising for revenue	entailment
+IndustryWeek relies on subscriptions for revenue	entailment
+IndustryWeek relies on donations for revenue	contradiction
+When aggregating stories, IndustryWeek relies on information from sources such as prosperousamerica.org, usitc.gov, reshorenow.org, and Bloomberg (gov).	entailment
+IndustryWeek has endorsed [Biden Tax Credits, Trump Tariffs Together Boost US Manufacturing]	entailment
+IndustryWeek has an editorial bias towards Least Biased	entailment
+IndustryWeek printed a factually misleading titled  "Biden Tax Credits, Trump Tariffs Together Boost US Manufacturing"	contradiction
+IndustryWeek's headquarter is located in Cleveland, Ohio	entailment
+IndustryWeek is funded by the United States government	entailment
+IndustryWeek covers the following topics: manufacturing, technology, leadership, and supply chain coverage.	entailment

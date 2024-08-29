@@ -1,0 +1,15 @@
+CherryRoad Media owns Dodge City Daily Globe	entailment
+CherryRoad Media is the owner of Dodge City Daily Globe	entailment
+The Dodge City Daily Globe is funded through advertising and paid subscriptions	entailment
+The mission of Dodge City Daily Globe is to  report news, sports, community, and crime for the greater Dodge City, Kansas, area.	entailment
+The Dodge City Daily Globe tends to the **right**	contradiction
+Other sources have commented on Dodge City Daily Globe, stating that it tends to be Least Biased	entailment
+The factuality of Dodge City Daily Globe is reported to be High	entailment
+The factuality of Dodge City Daily Globe is reported to be High, according to Mediabiasfactcheck.com.	entailment
+Dodge City Daily Globe failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Dodge City Daily Globe chose not to cover **failed fact checks**	entailment
+Dodge City Daily Globe relies on advertising for revenue	entailment
+Dodge City Daily Globe relies on subscriptions for revenue	entailment
+Dodge City Daily Globe relies on donations for revenue	contradiction
+When aggregating stories, Dodge City Daily Globe relies on information from **Associated Press**	entailment
+The Dodge City Daily Globe has an editorial bias towards **neither side**	entailment

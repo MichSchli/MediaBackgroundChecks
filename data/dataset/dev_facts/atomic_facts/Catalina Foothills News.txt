@@ -1,0 +1,22 @@
+Times Media Group owns Catalina Foothills News	entailment
+Times Media Group bought Catalina Foothills News	contradiction
+Times Media Group acquired Catalina Foothills News	contradiction
+Catalina Foothills News is funded through **advertising generates revenue**	entailment
+The remit of Catalina Foothills News is to **report news through local journalists in the Catalina area with minimal bias**.	entailment
+The mission of Catalina Foothills News is to report news through local journalists in the Catalina area with minimal bias.	entailment
+Catalina Foothills News tends to the  least biased.	entailment
+The Catalina Foothills News tends to the least biased according to balanced news reporting and minimal editorializing of news.	entailment
+Other sources have commented on Catalina Foothills News, stating that it tends to be Least Biased	entailment
+The factuality of Catalina Foothills News is reported to be High	entailment
+The factuality of Catalina Foothills News is reported to be High, according to D. Van Zandt 12/14/2022	entailment
+Catalina Foothills News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Catalina Foothills News printed a retraction after failing a fact-check for an article titled "Mayor shares vision for Tucson amid re-election announcement".	entailment
+Catalina Foothills News chose not to cover **None in the Last 5 years**	entailment
+Catalina Foothills News relies on advertising for revenue	entailment
+Catalina Foothills News relies on donations for revenue	contradiction
+When aggregating stories, Catalina Foothills News relies on information from **local journalists in the Catalina area**	entailment
+Catalina Foothills News has endorsed  "Least Biased based on balanced news reporting and minimal editorializing of news".	entailment
+Catalina Foothills News has an editorial bias towards neutral.	entailment
+Catalina Foothills News printed a biased article titled **None**	entailment
+Catalina Foothills News had to apologize for  factual reporting due to proper sourcing and a clean fact-check record.	contradiction
+Catalina Foothills News had to apologize to no one for nothing	entailment

@@ -1,0 +1,23 @@
+Times Media Group owns Scottsdale Progress	entailment
+Times Media Group is the owner of Scottsdale Progress	entailment
+Times Media Group bought Scottsdale Progress	contradiction
+Scottsdale Progress is funded through advertising and subscription fees	entailment
+The remit of Scottsdale Progress is to **report news**	entailment
+The mission of Scottsdale Progress is to report news through local journalists in the Scottsdale area with minimal bias	entailment
+The usual audience of Scottsdale Progress is **local and national news, crime, business, and entertainment**.	entailment
+The Scottsdale Progress tends to the **center**	entailment
+Other sources have commented on Scottsdale Progress, stating that it tends to be **least biased**.	entailment
+The factuality of Scottsdale Progress is reported to be High	entailment
+The factuality of Scottsdale Progress is reported to be High, according to D. Van Zandt	entailment
+Scottsdale Progress failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Scottsdale Progress provides original content written by staff journalists	entailment
+Scottsdale Progress relies on advertising for revenue	entailment
+Scottsdale Progress relies on subscriptions for revenue	entailment
+Scottsdale Progress relies on donations for revenue	contradiction
+When aggregating stories, Scottsdale Progress relies on information from **local journalists in the Scottsdale area**	entailment
+Scottsdale Progress has an editorial bias towards Least Biased	entailment
+Scottsdale Progress was fined 	contradiction
+Scottsdale Progress's headquarter is located in Arizona	entailment
+Scottsdale Progress is funded by the private government	contradiction
+The Scottsdale Progress is a newspaper	entailment
+Scottsdale Progress covers the following topics: local and national news, crime, business, and entertainment.	entailment

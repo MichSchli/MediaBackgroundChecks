@@ -1,0 +1,23 @@
+History
+Founded in 2012, the
+[Rappler](https://en.wikipedia.org/wiki/Rappler) is an online news site based in Manilla, Philippines, founded by [Maria Ressa](https://en.wikipedia.org/wiki/Maria_Ressa). One of the distinguishing features of Rappler is its “Mood Meter,” consisting of bubbles showing the way people react to certain news. The Mood Meter is embedded in each story. Users are asked, “how does this story make you feel?” and are given 8 different emotions to choose from – happy, sad, angry, afraid, annoyed, inspired, amused, and don’t care.
+According to their
+[about page](https://www.rappler.com/about/mission-statement-journalism-communities-technology) “Rappler’s team of data scientists, analysts, and journalists is behind some of the world’s most groundbreaking work on [disinformation](https://www.rappler.com/disinformation) and the impact of unregulated platforms on politics, democracy, freedom, human rights, and security.”
+Due to Rappler’s opposition to President Duterte, they have faced
+[numerous harassment and legal issues](https://en.wikipedia.org/wiki/Rappler).
+On 6/28/2022, they announced they were being
+[shut down by the government](https://newsfactsnetwork.com/2022/06/29/philippine-news-site-rappler-ordered-to-shut-down-founder-maria-ressa-says/), but remain online during the appeal. [Read our profile on the Philippines media and government.](https://mediabiasfactcheck.com/philippines-media-profile/)
+Funded by / Ownership
+Rappler Holdings Corporation, which is in turn owned by
+[Dolphin Fire Group](http://philippines.mom-rsf.org/en/owners/companies/detail/company/company/show/rappler-holdings-corporation/) (31.21%), [Maria Ressa](https://en.wikipedia.org/wiki/Maria_Ressa) (23.77%), Hatchd Group (17.86%), Benjamin So (17.86%), and 9.3 percent of minority shares, owns Rappler. Advertising generates revenue.
+Analysis / Bias
+Rappler reports news from the Philippines. They are fiercely opposed to President Duterte and his anti-drug campaign where he advocates killing drug users. They also frequently report on the police with emotional wording such as this
+[Cop arrested for robbery-extortion in Agusan Del Norte](https://www.rappler.com/nation/cop-arrested-for-robbery-extortion-in-agusan-del-norte).
+The Rappler is also a certified
+[IFCN fact-checker](https://www.ifcncodeofprinciples.poynter.org/signatories). However, [Poynter Institute](https://mediabiasfactcheck.com/poynter-institute/) reports that fact-checkers in the Philippines are under attack by the Government: [Philippine fact-checkers are under attack — again](https://www.poynter.org/fact-checking/2019/philippine-fact-checkers-are-under-attack-again/). These attacks have resulted in the chief executive of Rappler, Maria Ressa to be arrested and placed in jail.
+Editorially, the Rappler is opposed to the right-wing authoritarian government and critical of President Duterte such as this
+[[OPINION | Newspoint] A nation held to ransom](https://www.rappler.com/voices/thought-leaders/philippines-held-to-ransom-west-philippine-sea).
+When reporting international news, Rappler is relatively low biased and straightforward. Further, when reporting on USA politics, they report with
+[minimal bias](https://www.rappler.com/search?q=biden). Finally, from an editorial perspective, they align with the left supporting gay rights, such as this [LGBT rights are human rights](https://www.rappler.com/voices/ispeak/lgbt-human-rights-philippines). In general, they report the news factually and with a left-leaning bias.
+Failed Fact Checks
+- None in the Last 5 years

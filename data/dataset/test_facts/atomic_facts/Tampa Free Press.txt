@@ -1,0 +1,26 @@
+Brian Burns owns Tampa Free Press	entailment
+Brian Burns is the owner of Tampa Free Press.	entailment
+Brian Burns bought Tampa Free Press	entailment
+Brian Burns acquired Tampa Free Press	entailment
+Tampa Free Press is funded through Advertising and donations.	entailment
+The remit of Tampa Free Press is to  report fact-based straight local news, while op-eds are strongly right-biased and sometimes advance false claims and misinformation.	entailment
+The mission of Tampa Free Press is to  provide news and opinion focused on Tampa-St. Petersburg and Florida politics.	contradiction
+The usual audience of Tampa Free Press is conservative.	entailment
+Tampa Free Press tends to the right	entailment
+Other sources have commented on Tampa Free Press, stating that it tends to be **right-biased**	entailment
+The factuality of Tampa Free Press is reported to be Mixed	entailment
+The factuality of Tampa Free Press is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Tampa Free Press failed a fact-check for an article titled "Columnist: Why Is The Biden Admin Set To Approve Big Pharma’s COVID Pills, But Ignore The Abilities Of Ivermectin?".	entailment
+Tampa Free Press chose not to cover **Climate Change Hysteria Renewed: Heat Wave And Tragic Building Collapse**	contradiction
+Tampa Free Press provides original content written by staff journalists	entailment
+Tampa Free Press relies on advertising for revenue	entailment
+Tampa Free Press relies on subscriptions for revenue	contradiction
+Tampa Free Press relies on donations for revenue	entailment
+When aggregating stories, Tampa Free Press relies on information from the conservative-leaning Daily Caller.	entailment
+Tampa Free Press has an editorial bias towards  conservative .	entailment
+Tampa Free Press was fined 	entailment
+Tampa Free Press printed a biased article titled Climate Change Hysteria Renewed: Heat Wave And Tragic Building Collapse	entailment
+Tampa Free Press printed a factually misleading titled  "Columnist: Why Is The Biden Admin Set To Approve Big Pharma’s COVID Pills, But Ignore The Abilities Of Ivermectin?"	entailment
+Tampa Free Press is funded by the private government	contradiction
+Tampa Free Press is a conservative	entailment
+Tampa Free Press covers the following topics: issues of today, law enforcement, local news, national news, and technology	entailment

@@ -1,0 +1,19 @@
+The Pharos Tribune leads Pharos Tribune	contradiction
+Community Newspaper Holdings Inc owns Pharos Tribune	entailment
+Community Newspaper Holdings Inc is the owner of Pharos Tribune	entailment
+Community Newspaper Holdings Inc bought Pharos Tribune	entailment
+Pharos Tribune is funded through **advertising and subscription fees**	entailment
+The remit of Pharos Tribune is to cover crime, sports, entertainment, and politics in the Logansport, Indiana region.	entailment
+The usual audience of Pharos Tribune is **the Logansport, Indiana, region**	entailment
+The Pharos Tribune tends to the left	entailment
+Pharos Tribune tends to the left-center according to Media Bias Fact Check.	entailment
+Other sources have commented on Pharos Tribune, stating that it tends to be **slightly Left-Center Biased**.	entailment
+The factuality of Pharos Tribune is reported to be High	entailment
+The factuality of Pharos Tribune is reported to be High, according to D. Van Zandt 10/31/2022	entailment
+The Pharos Tribune failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Pharos Tribune chose not to cover **international news**	entailment
+Pharos Tribune provides original content written by staff journalists	entailment
+Pharos Tribune relies on advertising for revenue	entailment
+Pharos Tribune relies on subscriptions for revenue	entailment
+The Pharos Tribune has endorsed **a liberal perspective**	entailment
+Pharos Tribune has an editorial bias towards **left**	entailment

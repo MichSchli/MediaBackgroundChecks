@@ -1,0 +1,12 @@
+History
+Founded in 1989, Interfax is a privately owned news agency based in Moscow, Russia. According to their
+[about page](https://group.interfax.ru/txt.asp?txt=about_group_txt), “Interfax news is the world’s most cited source of up-to-date information about Russia and neighboring countries, the most popular news feed on the Russian financial market.” [Read our profile on Russian media and government.](https://mediabiasfactcheck.com/russia-media-profile/)
+Funded by / Ownership
+The Interfax International Information Group owns and publishes Interfax-Russia. Mikhail Komissar is the chairman and CEO. Advertisings and subscriptions generate revenue.
+Analysis / Bias
+Interfax -Russia is a news agency providing national Russian and international news. Articles and headlines are minimally biased in wording like this
+[US to provide $200 million more military aid to Ukraine](https://www.interfax.ru/world/827840). This report is properly sourced from [Whitehouse.gov](https://mediabiasfactcheck.com/whitehouse-gov/). The agency is currently reporting on the Russia-Ukraine war or, as they call it, a “Russian Military Operation” with a pro-Russian government perspective such as this [Russia proposed 10 humanitarian corridors from Kyiv, Chernihiv, Sumy, Kharkov, Mariupol](https://www.interfax.ru/world/827847).
+Editorially, Interfax – Russia does not publish opinion pieces; however, story selection is often favorable to the Russian government and President Putin
+[The Taliban welcomed Putin’s words about their possible exclusion from the list of terrorists](https://www.interfax.ru/world/799288). While Interfax’s reporting appears low-biased, they strongly favor the Russian government by rarely offering criticism and omitting negative reports toward Russia.
+Failed Fact Checks
+[Russian Ruble Jumps Based on False Media Reports Quoting Bolton](https://www.polygraph.info/a/fact-check-russia-us-sanctions-markets-fact-check/29564211.html)– False [Apple has recognized Crimea as Russian](https://www.polygraph.info/a/apple-russia-crimea-ukraine/30299510.html)– Mostly False

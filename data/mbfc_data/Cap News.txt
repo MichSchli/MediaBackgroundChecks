@@ -1,0 +1,8 @@
+Reasoning: Fake Website, Redirects, Malware
+Country: Unknown
+History
+Cap News is a website that just displays advertising with pop-ups and probable malware.
+Funding / Ownership
+The website does not disclose ownership and is funded through popup advertising to unsuspecting victims.
+Analysis / Bias
+Cap News is simply a website that delivers advertising without meaningful content. We did not stick around long enough to determine if this site downloads malware, but it is likely. Steer clear of this website.

@@ -1,0 +1,9 @@
+History
+[Founded in 2004](https://en.wikipedia.org/wiki/Significance_(magazine)), Significance Magazine is a bimonthly magazine published by [Wiley-Blackwell](https://en.wikipedia.org/wiki/Wiley-Blackwell) on behalf of the [Royal Statistical Society](https://en.wikipedia.org/wiki/Royal_Statistical_Society) (RSS) and the [American Statistical Association](https://en.wikipedia.org/wiki/American_Statistical_Association) (ASA). It publishes articles on topics of statistical interest presented at a level suited for a general audience. The current editor is Brian Tarran. [Read our profile on UK’s Media and Government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+Significance Magazine is owned by Wiley-Blackwell on behalf of the Royal Statistical Society (RSS) and the American Statistical Association (ASA). Revenue is derived from print and digital magazine subscriptions. The website offers select limited free articles.
+Analysis / Bias
+In review, Significant Magazine primarily covers statistics and statistical theory. They break the website into the following categories: Business, Culture, Politics, Science, and Sports. For example, under the politics category they often report on Polling Data statistics such as this:
+[Forecast error: Are polls getting worse at predicting elections?.](https://www.significancemagazine.com/politics/595-forecast-error-how-to-predict-an-election) This detailed report is properly sourced and in-depth. Under the politics tab they also tend to demonstrate bias against Donald Trump, as can be seen, be here: [Where is Donald Trump’s statistician?](https://www.significancemagazine.com/politics/262-where-is-donald-trump-s-statistician?highlight=WyJ0cnVtcCIsInRydW1wJ3MiXQ==). This article however is sourced thoroughly and accurately.
+Failed Fact Checks
+- None in the Last 5 years

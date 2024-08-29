@@ -1,0 +1,13 @@
+History
+Founded in 1913, The American Cancer Society is an Atlanta, Georgia-based organization dedicated to eliminating cancer through providing information and funding research. The ACS publishes the journals
+[Cancer](https://en.wikipedia.org/wiki/Cancer_(journal)), [CA: A Cancer Journal for Clinicians](https://en.wikipedia.org/wiki/CA_(journal)) and [Cancer Cytopathology](https://en.wikipedia.org/wiki/Cancer_Cytopathology). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The American Cancer Society (ACS) is a 501(c)(3) nonprofit funded through donations by corporations, the public, and government grants. The organization is transparent as they
+[disclose top donors](https://www.cancer.org/content/dam/cancer-org/online-documents/en/pdf/reports/2017-annual-report.pdf) of over 1 million dollars, such as Boeing, Walmart, Kohls, and CVS.
+Analysis / Bias
+The American Cancer Society provides educational resources to patients and caregivers, funds cancer research, publishes peer-reviewed journals and provides fact-based information regarding cancer on the website. For example, they have a section on the website called
+[Cancer A-Z](https://www.cancer.org/cancer.html) that provides “information about cancer and its causes to in-depth information on specific cancer types – including risk factors, early detection, diagnosis, and treatment options.”
+The website also provides cancer-related news from a pro-science, low-biased perspective such as this
+[Smoking Rates Historically Low, but Other Cancer-related Behaviors Need Improvement](https://www.cancer.org/latest-news/acs-report-smoking-rates-historically-low-but-other-cancer-related-behaviors-need-improvement.html). We could not find any instances of the ACS directly reporting on politics. In general, they are low-biased, fact-based, and pro-science.
+Failed Fact Checks
+- None in the Last 5 years

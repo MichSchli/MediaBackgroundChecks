@@ -1,0 +1,13 @@
+The remit of The Daily Discord is to satirize right-wing conspiracy theorists.	entailment
+The mission of The Daily Discord is to satirize right-wing conspiracy theorists.	entailment
+The usual audience of The Daily Discord is **fans of satire**.	entailment
+The Daily Discord tends to the **right-wing conspiracy theorists**	contradiction
+Other sources have commented on The Daily Discord, stating that it tends to be **a satire website**.	entailment
+The factuality of The Daily Discord is reported to be **Satire**.	entailment
+The factuality of The Daily Discord is reported to be Satire, according to Media Bias/Fact Check.	entailment
+The Daily Discord failed a fact-check for an article titled "Former Cuomo Secretary Describes Old Boss As “Stern But Even Handed”.	entailment
+The Daily Discord chose not to cover ownership.	entailment
+The Daily Discord has endorsed satire	entailment
+The Daily Discord has an editorial bias towards **right-wing conspiracy theorists**	contradiction
+The Daily Discord printed a biased article titled "Former Cuomo Secretary Describes Old Boss As “Stern But Even Handed”	entailment
+The Daily Discord printed a factually misleading titled headline	contradiction

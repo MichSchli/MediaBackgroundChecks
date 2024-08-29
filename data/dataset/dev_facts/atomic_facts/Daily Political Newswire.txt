@@ -1,0 +1,22 @@
+Founded in 2016 founded Daily Political Newswire	entailment
+D. Van Zandt is the owner of Daily Political Newswire	contradiction
+Daily Political Newswire acquired Daily Political Newswire	entailment
+Daily Political Newswire is funded through online advertising	entailment
+The remit of Daily Political Newswire is to **promote propaganda**	entailment
+The mission of Daily Political Newswire is to promote propaganda.	entailment
+The usual audience of Daily Political Newswire is Right biased and Questionable based on a complete lack of transparency, poor sourcing, and promotion of propaganda.	entailment
+Daily Political Newswire tends to the right	entailment
+Daily Political Newswire tends to the right according to a complete lack of transparency, poor sourcing, and promotion of propaganda.	entailment
+Other sources have commented on Daily Political Newswire, stating that it tends to be **biased**	entailment
+The factuality of Daily Political Newswire is reported to be Questionable	entailment
+The factuality of Daily Political Newswire is reported to be questionable, according to Mediabiasfactcheck.	entailment
+Daily Political Newswire chose not to cover **weather reports**	entailment
+Daily Political Newswire relies on advertising for revenue	entailment
+Daily Political Newswire relies on subscriptions for revenue	contradiction
+Daily Political Newswire relies on donations for revenue	contradiction
+Daily Political Newswire has received donations from **online advertising**	entailment
+When aggregating stories, Daily Political Newswire relies on information from **Twitter posts or through the use of quotes from other sources such as the Washington Free Beacon and Louder with Crowder**.	entailment
+Daily Political Newswire has endorsed Right biased and Questionable based on a complete lack of transparency, poor sourcing, and promotion of propaganda.	entailment
+Daily Political Newswire has an editorial bias towards **the Right**	entailment
+Daily Political Newswire printed a biased article titled **Nancy Pelosi Says Illegals Will ‘Tunnel’ Under the Wall, Dan Crenshaw Humiliates Her**	entailment
+Daily Political Newswire printed a factually misleading titled Daily Political Newswire is Right biased and Questionable	entailment

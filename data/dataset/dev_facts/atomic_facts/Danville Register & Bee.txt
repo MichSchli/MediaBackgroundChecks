@@ -1,0 +1,19 @@
+Lee Enterprises is the founder of Danville Register & Bee	contradiction
+Lee Enterprises owns Danville Register & Bee	entailment
+Lee Enterprises is the owner of Danville Register & Bee	entailment
+Lee Enterprises bought Danville Register & Bee	entailment
+Lee Enterprises acquired Danville Register & Bee	entailment
+Danville Register & Bee is funded through **advertising and subscription fees**.	entailment
+The remit of Danville Register & Bee is to **report on news, sports, entertainment, lifestyle, and opinion for Fredericksburg and the surrounding area**.	entailment
+The mission of Danville Register & Bee is to  provide news, sports, entertainment, lifestyle, and opinion for Fredericksburg and the surrounding area.	entailment
+The usual audience of Danville Register & Bee is **residents of Danville, Virginia, and the surrounding area**	entailment
+Other sources have commented on Danville Register & Bee, stating that it tends to be Least Biased	entailment
+The factuality of Danville Register & Bee is reported to be High	entailment
+The factuality of Danville Register & Bee is reported to be High, according to D. Van Zandt.	entailment
+Danville Register & Bee failed a fact-check for an article titled "In ‘an extremely close call,’ Danville area loses out on $5.5B Hyundai electric vehicle plant".	contradiction
+Danville Register & Bee printed a retraction after failing a fact-check for an article titled "In ‘an extremely close call,’ Danville area loses out on $5.5B Hyundai electric vehicle plant".	entailment
+Danville Register & Bee relies on advertising for revenue	entailment
+Danville Register & Bee relies on subscriptions for revenue	entailment
+Danville Register & Bee relies on donations for revenue	contradiction
+When aggregating stories, Danville Register & Bee relies on information from **first-person accounts or through credible media**	entailment
+Danville Register & Bee has an editorial bias towards theRIGHT.	entailment

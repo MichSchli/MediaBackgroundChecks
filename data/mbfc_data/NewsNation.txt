@@ -1,0 +1,21 @@
+History
+[Launched on 9/1/2020](https://en.wikipedia.org/wiki/NewsNation_(WGN_America)), NewsNation Now was a nightly 3-hour-long news program broadcast on [WGN](https://mediabiasfactcheck.com/wgn-news/) America. Based in Chicago, the program utilized the journalistic resources of the 110 television news operations throughout the United States under WGN America’s corporate parent [Nexstar Media Group](https://en.wikipedia.org/wiki/Nexstar_Media_Group). The broadcast was intended to be a straightforward news reporting alternative to the opinion-based programming of [CNN](https://mediabiasfactcheck.com/cnn/), [MSNBC](https://mediabiasfactcheck.com/msnbc/), and [Fox News](https://mediabiasfactcheck.com/fox-news/). The associated website is NewsNationNow.com, which features news from the TV station and supplemental content.
+On March 1, 2021, the channel was relaunched from
+[WGN America](https://mediabiasfactcheck.com/wgn-news/) into NewsNation, a cable news network named after its flagship news program.
+On July 26th, 2022, NewsNation announced that former CNN anchor
+[Chris Cuomo](https://www.newsnationnow.com/danabramslive/chris-cuomo-joining-newsnation/) would join the network with a new prime-time show. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+NewsNation is owned by
+[Nexstar Media Group](https://en.wikipedia.org/wiki/Nexstar_Media_Group), which owns nearly 200 TV stations nationwide. The founder, chairman, president, and CEO of Nexstar is Perry A. Sook. [According](https://www.opensecrets.org/pacs/pacgot.php?cmte=C00567388&cycle=2018) to [Open Secrets](https://mediabiasfactcheck.com/center-for-responsive-politics-open-secrets/), Nexstar Media group gave more money to Republicans in the 2018 election cycle (45% to Democrats, 55% to Republicans); however, in 2020, they gave more to Democrats. Advertising generates revenue.
+Analysis / Bias
+This review will focus on website content, and fact-checking of TV news programming as NewsNation continues to broadcast WGN programming during the day and overnight, with news programming making up almost half of the 24-hour schedule.
+In review, NewsNation publishes news broken into categories such as U.S. (broken into subcategories), the Coronavirus, Weather, World, Shows, The Hill, NewsNation Live, and More. News stories on the website often come from external sources such as the
+[Associated Press](https://mediabiasfactcheck.com/associated-press/), [Reuters](https://mediabiasfactcheck.com/reuters/), [The Hill](https://mediabiasfactcheck.com/the-hill/), and other Nexstar affiliates. Many reports contain videos from TV news content.
+Articles and headlines often have minimally loaded language, such as this
+[Trump, Pence highlight policy-focused events in D.C](https://www.newsnationnow.com/politics/trump-to-return-to-washington-to-deliver-policy-speech/). When covering politics, they generally stick with the facts, such as this [Justice Department probing Trump effort to overturn election](https://www.newsnationnow.com/politics/2020-election/justice-department-probing-trump-effort-to-overturn-election/).
+Editorially, NewsNation does not produce opinion pieces and generally reports on politics neutrally. However, their specific coverage of Coronavirus and race relations in America indicate a leftward lean with story selection. Further, their personality-driven news shows often feature the opinions of the hosts. A review of hosts indicates that more lean left, such as
+[Dan Abrams](https://mediabiasfactcheck.com/law-newz/) and Chris Cuomo, who holds the 8:00-9:00 pm prime time slot.
+When it comes to science, they are usually fact-based such as when covering the Coronavirus and
+[climate change](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/). In sum, the news is generally reported factually and with a slight left-leaning editorial bias.
+Failed Fact Checks
+[Some mouthwashes could help curb coronavirus](https://healthfeedback.org/claimreview/claim-that-mouthwash-could-reduce-the-spread-of-covid-19-has-not-yet-been-confirmed-by-clinical-trials-in-humans-in/)– Lacks Context

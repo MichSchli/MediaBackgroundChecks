@@ -1,0 +1,26 @@
+Mike Adams founded Health.News	entailment
+Mike Adams is the founder of Health.News	entailment
+Mike Adams leads Health.News	entailment
+Mike Adams owns Health.News	entailment
+Mike Adams is the owner of Health.News	entailment
+Mike Adams bought Health.News	entailment
+Mike Adams acquired Health.News	entailment
+Health.News is funded through online advertising	entailment
+The remit of Health.News is to publish extreme right biased Quackery Level Pseudoscience website that also publishes conspiracy theories.	entailment
+The mission of Health.News is to **promote false or misleading information regarding vaccines, alternative health, and government conspiracies**	entailment
+The usual audience of Health.News is **extreme right biased and interested in conspiracy theories**	entailment
+Health.News tends to the extreme right biased Quackery Level Pseudoscience website.	entailment
+Health.News tends to the extreme right according to Rationalwiki	entailment
+Other sources have commented on Health.News, stating that it tends to be extreme right biased.	entailment
+The factuality of Health.News is reported to be **low**	entailment
+The factuality of Health.News is reported to be **very low**, according to **Media Bias/Fact Check**	entailment
+Health.News chose not to cover **legitimate health research or facts**	entailment
+Health.News relies on advertising for revenue	entailment
+Health.News relies on subscriptions for revenue	contradiction
+Health.News relies on donations for revenue	contradiction
+When aggregating stories, Health.News relies on information from **Mike Adams**	entailment
+Health.News has endorsed **right-wing conspiracy and pseudoscience**.	entailment
+Health.News has an editorial bias towards  extreme right biased Quackery Level Pseudoscience	entailment
+Health.News printed a biased article titled **Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook**	entailment
+Health.News printed a factually misleading titled [Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook](https://www.politifact.com/article/2020/jun/05/health-misinformation-website-rebrands-pro-trump-o/) [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Health.News had to apologize to no one for spreading false information	entailment

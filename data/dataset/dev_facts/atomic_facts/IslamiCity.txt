@@ -1,0 +1,20 @@
+Dr. Dany Doueiri founded IslamiCity	entailment
+Dr. Dany Doueiri is the founder of IslamiCity	entailment
+IslamiCity is funded through donations, sponsorships, and its online bazaar.	entailment
+The remit of IslamiCity is to foster peace, inspire action, and promote dialogue among civilizations.	entailment
+The mission of IslamiCity is to foster peace, inspire action, and promote dialogue among civilizations.	entailment
+The usual audience of IslamiCity is **the global Muslim community**	entailment
+IslamiCity tends to the Left	entailment
+IslamiCity tends to the left according to its left-leaning editorial choices and the framing of political content	entailment
+Other sources have commented on IslamiCity, stating that it tends to be left-biased.	entailment
+The factuality of IslamiCity is reported to be Mixed	entailment
+The factuality of IslamiCity is reported to be Mixed, according to M. Huitsing 01/27/2024	entailment
+IslamiCity chose not to cover the Israeli-Palestinian conflict.	contradiction
+IslamiCity relies on advertising for revenue	contradiction
+IslamiCity relies on subscriptions for revenue	contradiction
+IslamiCity relies on donations for revenue	entailment
+When aggregating stories, IslamiCity relies on information from various sources.	entailment
+IslamiCity has endorsed Left-Biased	entailment
+IslamiCity has an editorial bias towards **left-leaning editorial choices and the framing of political content**	entailment
+IslamiCity printed a biased article titled "Political Dynamics: Israeli Aggression in Gaza vs. West Bank Realities"	entailment
+IslamiCity printed a factually misleading titled **“Political Dynamics: Israeli Aggression in Gaza vs. West Bank Realities”**	entailment

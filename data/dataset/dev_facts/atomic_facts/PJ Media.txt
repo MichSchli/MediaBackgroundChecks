@@ -1,0 +1,23 @@
+Charles Johnson and Roger L. Simon founded PJ Media	entailment
+PJ Media leads PJ Media	contradiction
+Salem Media Group owns PJ Media.	entailment
+Salem Media Group bought PJ Media	entailment
+Salem Media Group acquired PJ Media	contradiction
+PJ Media is funded through a combination of online advertising and subscriptions	entailment
+The remit of PJ Media is to challenge the mainstream media with a network of citizen-journalists.	entailment
+The mission of PJ Media is to **challenge the mainstream media with a network of citizen-journalists.**	entailment
+The usual audience of PJ Media is **conservatives and libertarians**	entailment
+PJ Media tends to the extreme right-wing.	entailment
+PJ Media tends to the right according to Media Bias/Fact Check.	entailment
+Other sources have commented on PJ Media, stating that it tends to be **Questionable**	entailment
+The factuality of PJ Media is reported to be Questionable	entailment
+The factuality of PJ Media is reported to be Questionable, according to Source: [https://mediabiasfactcheck.com/united-states-media-profile/](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+PJ Media failed a fact-check for an article titled **Do ‘Liberals’ at the University of Texas Want to Designate Masculinity a Mental Illness?**	entailment
+PJ Media printed a retraction after failing a fact-check for an article titled "Do ‘Liberals’ at the University of Texas Want to Designate Masculinity a Mental Illness?".	contradiction
+PJ Media chose not to cover **left and denigrated the left through wording and story selection**	entailment
+PJ Media provides original content written by staff journalists	entailment
+PJ Media relies on advertising for revenue	entailment
+PJ Media relies on donations for revenue	entailment
+When aggregating stories, PJ Media relies on information from right-leaning media sources.	entailment
+PJ Media has an editorial bias towards **the right**.	entailment
+PJ Media printed a biased article titled "Suspended Pentagon Whistleblower Says FBI’s Russia Probe Was ‘All a Set-Up.’"	entailment

@@ -1,0 +1,17 @@
+WETM - MyTwinTiers.com is funded through **advertising**.	entailment
+The remit of WETM - MyTwinTiers.com is to **publish local news, sports, weather, crime, and lifestyle**.	entailment
+The usual audience of WETM - MyTwinTiers.com is **for the greater Elmira, New York area**	entailment
+WETM - MyTwinTiers.com tends to the **greater Elmira, New York area**	entailment
+WETM - MyTwinTiers.com tends to the Least Biased according to Media Bias/Fact Check	entailment
+Other sources have commented on WETM - MyTwinTiers.com, stating that it tends to be **Least Biased**.	entailment
+The factuality of WETM - MyTwinTiers.com is reported to be High	entailment
+The factuality of WETM - MyTwinTiers.com is reported to be High, according to mediabiasfactcheck.com.	entailment
+WETM - MyTwinTiers.com failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+WETM - MyTwinTiers.com printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+WETM - MyTwinTiers.com chose not to cover op-eds	entailment
+WETM - MyTwinTiers.com relies on advertising for revenue	entailment
+WETM - MyTwinTiers.com relies on subscriptions for revenue	contradiction
+WETM - MyTwinTiers.com relies on donations for revenue	contradiction
+When aggregating stories, WETM - MyTwinTiers.com relies on information from **the Nexstar Media Wire and other prominent media outlets**.	entailment
+WETM - MyTwinTiers.com has an editorial bias towards **neutral straight news reporting without offering opinion pieces**	entailment
+WETM - MyTwinTiers.com was fined 	entailment

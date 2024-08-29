@@ -1,0 +1,23 @@
+C. P. (Chris) Champion	entailment
+Chris Champion is the founder of Dorchester Review	entailment
+The Foundation for Civic Literacy owns Dorchester Review	entailment
+Dorchester Review is funded through 	entailment
+The remit of Dorchester Review is to **present a conservative perspective on historical and cultural issues, often without providing comprehensive evidence or adequately addressing opposing viewpoints**	entailment
+The mission of Dorchester Review is to present a conservative perspective on historical and cultural issues, often without providing comprehensive evidence or adequately addressing opposing viewpoints.	entailment
+The usual audience of Dorchester Review is **conservative**.	entailment
+Dorchester Review tends to the conservative perspective on historical and cultural issues.	entailment
+Other sources have commented on Dorchester Review, stating that it tends to be right-biased	entailment
+The factuality of Dorchester Review is reported to be Mixed	entailment
+The factuality of Dorchester Review is reported to be mixed, according to M. Huitsing 09/21/2023.	entailment
+Dorchester Review chose not to cover "comprehensive evidence or addressing the broader issues at play"	entailment
+Dorchester Review relies on subscriptions for revenue	entailment
+Dorchester Review relies on donations for revenue	entailment
+Dorchester Review has received donations from subscriptions and donations	entailment
+When aggregating stories, Dorchester Review relies on information from [subscriptions and donations](https://www.dorchesterreview.ca/collections/volumes).	entailment
+Dorchester Review has endorsed right-biased based on editorial positions that align with a conservative perspective.	entailment
+Dorchester Review has an editorial bias towards **right-biased based on editorial positions that align with a conservative perspective**	entailment
+Dorchester Review printed a biased article titled "Keep the ‘British’ in British Columbia."	entailment
+Dorchester Review's headquarter is located in Ottawa	entailment
+Dorchester Review is funded by the Canadian government	contradiction
+Dorchester Review is a right-biasedbased-on-editorial-positions-that-align-with-a-conservative-perspective.	entailment
+Dorchester Review uses a peer review process	entailment

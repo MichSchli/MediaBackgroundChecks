@@ -1,0 +1,21 @@
+Stephen Adams is the founder of Glendive Ranger-Review	contradiction
+Adams Publishing Group owns Glendive Ranger-Review	entailment
+Stephen Adams is the owner of Glendive Ranger-Review	entailment
+Adams Publishing Group bought Glendive Ranger-Review	entailment
+Glendive Ranger-Review is funded through **advertising and subscription fees**	entailment
+The mission of Glendive Ranger-Review is to provide a balance in opinions, with slightly more favoring the left.	entailment
+The usual audience of Glendive Ranger-Review is Left-Center Biased.	entailment
+Glendive Ranger-Review tends to the left	entailment
+Other sources have commented on Glendive Ranger-Review, stating that it tends to be Left-Center Biased	entailment
+The factuality of Glendive Ranger-Review is reported to be High	entailment
+The factuality of Glendive Ranger-Review is reported to be High, according to Mediabiasfactcheck.com.	entailment
+Glendive Ranger-Review failed a fact-check for an article titled "Jury finds Jake Burghduff guilty of deliberate homicide under the state’s felony murder rule"	contradiction
+Glendive Ranger-Review chose not to cover failed fact checks	entailment
+Glendive Ranger-Review relies on advertising for revenue	entailment
+Glendive Ranger-Review relies on subscriptions for revenue	entailment
+When aggregating stories, Glendive Ranger-Review relies on information from the Associated Press	entailment
+Glendive Ranger-Review has an editorial bias towards Left	entailment
+Stephen Adams is the editor of Glendive Ranger-Review	contradiction
+The Glendive Ranger-Review is funded by the private government	contradiction
+Glendive Ranger-Review is a newspaper	entailment
+Glendive Ranger-Review covers the following topics: local news, sports, crime, and weather	entailment

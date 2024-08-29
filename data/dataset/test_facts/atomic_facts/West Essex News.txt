@@ -1,0 +1,20 @@
+Metric Media LLC founded West Essex News	entailment
+The West Essex News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of West Essex News is to publish false information.	entailment
+The mission of West Essex News is to **impartially provide news and information without bias or hidden agendas**	contradiction
+The usual audience of West Essex News is **right-center, biased, and Questionable.**	entailment
+West Essex News tends to the right-center	entailment
+Other sources have commented on West Essex News, stating that it tends to be right-center.	entailment
+The factuality of West Essex News is reported to be Questionable	entailment
+The factuality of West Essex News is reported to be *Questionable*, according to *D. Van Zandt 06/28/2023*.	entailment
+West Essex News failed a fact-check for an article titled **"Imposter Site, Lacks Transparency, and Publishes False Information"**	entailment
+West Essex News provides original content written by staff journalists	contradiction
+West Essex News relies on advertising for revenue	entailment
+West Essex News relies on donations for revenue	entailment
+When aggregating stories, West Essex News relies on information from the Metric Media LLC Network.	entailment
+West Essex News has an editorial bias towards **right-center**	entailment
+West Essex News printed a biased article titled **Imposter Site with False Information**	entailment
+West Essex News printed a factually misleading titled "Imposter Site".	entailment
+West Essex News is funded by the Metric Media Foundation government	contradiction
+West Essex News is a conservativebias	entailment
+West Essex News covers the following topics:  Conservative news and opinion.	entailment

@@ -1,0 +1,18 @@
+University of South Florida owns WUSF - NPR - Tampa	entailment
+University of South Florida bought WUSF - NPR - Tampa	entailment
+University of South Florida acquired WUSF - NPR - Tampa	entailment
+WUSF - NPR - Tampa is funded through institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+The remit of WUSF - NPR - Tampa is to report news and radio programming information.	entailment
+The usual audience of WUSF - NPR - Tampa is Left-Center Biased	entailment
+WUSF - NPR - Tampa tends to the left	entailment
+WUSF - NPR - Tampa tends to the left according to mediabiasfactcheck.com	entailment
+Other sources have commented on WUSF - NPR - Tampa, stating that it tends to be Left-Center Biased.	entailment
+The factuality of WUSF - NPR - Tampa is reported to be High	entailment
+The factuality of WUSF - NPR - Tampa is reported to be High, according to D. Van Zandt 	entailment
+WUSF - NPR - Tampa relies on advertising for revenue	contradiction
+WUSF - NPR - Tampa relies on subscriptions for revenue	contradiction
+WUSF - NPR - Tampa has received donations from individuals	entailment
+When aggregating stories, WUSF - NPR - Tampa relies on information from **NPR, American Public Media, and the Corporation for Public Broadcasting**	entailment
+WUSF - NPR - Tampa has endorsed Left-Center Bias	entailment
+WUSF - NPR - Tampa has an editorial bias towards **left**	entailment
+WUSF - NPR - Tampa printed a biased article titled "Remembering Naya Rivera’s Legacy For LGBT People Of Color".	entailment

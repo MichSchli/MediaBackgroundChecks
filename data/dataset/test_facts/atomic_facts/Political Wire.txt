@@ -1,0 +1,21 @@
+Taegan Goddard founded Political Wire	entailment
+Taegan Goddard owns Political Wire	entailment
+Taegan Goddard is the owner of Political Wire	entailment
+Taegan Goddard acquired Political Wire	contradiction
+Political Wire is funded through **membership fees and advertising**.	entailment
+The remit of Political Wire is to **publish short blog entries covering current political news and provide resources such as Political Job Hunt, Political Dictionary, and Electoral Vote Map**	entailment
+The mission of Political Wire is to **provide accurate and balanced political news coverage**	entailment
+The usual audience of Political Wire is **politically interested individuals**	entailment
+Other sources have commented on Political Wire, stating that it tends to be **Least Biased**.	entailment
+The factuality of Political Wire is reported to be High	entailment
+The factuality of Political Wire is reported to be High, according to Media Bias/Fact Check.	entailment
+Political Wire failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Political Wire relies on advertising for revenue	entailment
+Political Wire relies on subscriptions for revenue	entailment
+Political Wire relies on donations for revenue	entailment
+When aggregating stories, Political Wire relies on information from the New York Times, Washington Post, Associated Press, and The Atlantic.	entailment
+Political Wire has an editorial bias towards **neither left- nor right-leaning**	entailment
+Political Wire printed a biased article titled "Virginia Attorney General Also Wore Blackface."	entailment
+Political Wire paid damages to None in the Last 5 years after None in the Last 5 years.	entailment
+Political Wire is funded by the United States government	contradiction
+Political Wire covers the following topics:  Politics	entailment

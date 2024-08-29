@@ -1,0 +1,21 @@
+Dr. Richard M. Fleming founded Fleming-Method	entailment
+Dr. Richard M. Fleming is the founder of Fleming-Method	entailment
+Dr. Fleming owns Fleming-Method	entailment
+Dr. Richard M. Fleming is the owner of Fleming-Method	entailment
+Dr. Richard M. Fleming bought Fleming-Method	entailment
+Fleming-Method is funded through  self-promotion of his method.	entailment
+The remit of Fleming-Method is to promote disinformation related to COVID-19 and its associated vaccines.	entailment
+The mission of Fleming-Method is to promote disinformation related to COVID-19 and its associated vaccines.	entailment
+The usual audience of Fleming-Method is **individuals interested in unconventional health-related information, particularly focused on COVID-19 and vaccines**	entailment
+Fleming-Method tends to the **promotion of disinformation related to COVID-19 and its associated vaccines**	entailment
+Other sources have commented on the Fleming-Method, stating that it tends to be **very low factual conspiracy and pseudoscience website**.	entailment
+The factuality of Fleming-Method is reported to be very low	entailment
+The factuality of Fleming-Method is reported to be very low, according to a range of controversial, scientifically dubious claims about COVID-19 and vaccines.	entailment
+The Fleming-Method failed a fact-check for an article titled "Pfizer’s COVID-19 vaccine attacks human blood and causes dangerous clots."	entailment
+Fleming-Method printed a retraction after failing a fact-check for an article titled "Pfizer’s COVID-19 vaccine attacks human blood and causes dangerous clots."	contradiction
+Fleming-Method chose not to cover Pfizer’s COVID-19 vaccine.	contradiction
+Fleming-Method provides original content written by staff journalists	contradiction
+Fleming-Method has endorsed bioweapon theory	entailment
+Fleming-Method has an editorial bias towards **unconventional and scientifically unsupported views on COVID-19 and vaccines**	entailment
+Fleming-Method printed a biased article titled "COVID-19 Treatment Claims".	entailment
+Fleming-Method printed a factually misleading titled "Pfizer’s COVID-19 vaccine attacks human blood and causes dangerous clots."	contradiction

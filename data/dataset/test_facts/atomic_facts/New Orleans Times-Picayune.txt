@@ -1,0 +1,19 @@
+Georges Media Group founded New Orleans Times-Picayune	contradiction
+Georges Media Group is the owner of New Orleans Times-Picayune	entailment
+New Orleans Times-Picayune is funded through advertising and subscription fees	entailment
+The remit of New Orleans Times-Picayune is to **cover local news with minimal bias**.	entailment
+The mission of New Orleans Times-Picayune is to cover local news with minimal bias.	entailment
+New Orleans Times-Picayune tends to the left	entailment
+Other sources have commented on New Orleans Times-Picayune, stating that it tends to be Left-Center biased	entailment
+The factuality of New Orleans Times-Picayune is reported to be High	entailment
+The factuality of New Orleans Times-Picayune is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+New Orleans Times-Picayune failed a fact-check for an article titled "Medicaid expansion is helping Louisiana weather the coronavirus crisis, in more ways than one"	contradiction
+New Orleans Times-Picayune relies on advertising for revenue	entailment
+New Orleans Times-Picayune relies on subscriptions for revenue	entailment
+New Orleans Times-Picayune relies on donations for revenue	contradiction
+When aggregating stories, New Orleans Times-Picayune relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+New Orleans Times-Picayune has endorsed Democratic candidates	entailment
+New Orleans Times-Picayune has an editorial bias towards Left	entailment
+New Orleans Times-Picayune printed a biased article titled "Our Views: Medicaid expansion is helping Louisiana weather the coronavirus crisis, in more ways than one"	entailment
+New Orleans Times-Picayune had to apologize for **(no verifiable instances found)**	contradiction
+New Orleans Times-Picayune is a Left-Center biased	entailment

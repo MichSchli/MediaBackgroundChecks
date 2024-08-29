@@ -1,0 +1,27 @@
+Susan Watkins is the founder of New Left Review	contradiction
+Susan Watkins leads New Left Review	entailment
+New Left Review owns New Left Review	contradiction
+Susan Watkins is the owner of New Left Review	contradiction
+New Left Review bought New Left Review	contradiction
+New Left Review acquired New Left Review	contradiction
+New Left Review is funded through fee-based subscriptions	entailment
+The remit of New Left Review is to  promote socialism and leftist ideologies.	entailment
+The mission of New Left Review is to endorse socialism	entailment
+The usual audience of New Left Review is **those interested in socialist-leaning perspectives**	entailment
+New Left Review tends to the Left	entailment
+Other sources have commented on New Left Review, stating that it tends to be left-leaning	entailment
+The factuality of New Left Review is reported to be High	entailment
+The factuality of New Left Review is reported to be High, according to Mediabiasfactcheck.	entailment
+New Left Review failed a fact-check for an article titled "CONSERVATIVES AND CORPORATISM"	contradiction
+New Left Review chose not to cover **conservatism**	contradiction
+New Left Review relies on subscriptions for revenue	entailment
+New Left Review relies on donations for revenue	contradiction
+New Left Review has received donations from fee-based subscriptions	entailment
+New Left Review has endorsed socialism	entailment
+New Left Review has an editorial bias towards Socialism	entailment
+Susan Watkins is the editor of New Left Review	entailment
+New Left Review printed a biased article titled "RED FLAG OVER THE WHITE HOUSE?".	entailment
+New Left Review had to apologize for [none in the Last 5 years].	entailment
+New Left Review is funded by the UK government	contradiction
+New Left Review is a socialist-leaning magazine.	entailment
+New Left Review covers the following topics: world politics, economy, and culture	entailment

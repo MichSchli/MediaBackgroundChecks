@@ -1,0 +1,31 @@
+Founded founded The Glasgow Herald	contradiction
+Donald Martin is the founder of The Glasgow Herald	contradiction
+Donald Martin leads The Glasgow Herald	entailment
+Newsquest Media Group Ltd owns The Glasgow Herald	entailment
+Newsquest Media Group Ltd is the owner of The Glasgow Herald	entailment
+Newsquest Media Group Ltd bought The Glasgow Herald	entailment
+Newsquest acquired The Glasgow Herald	entailment
+The Glasgow Herald is funded through **advertising and subscription fees**	entailment
+The remit of The Glasgow Herald is to  report local, regional, national, and international news while maintaining a left-leaning editorial bias.	entailment
+The mission of The Glasgow Herald is to report factually and with a left-leaning editorial bias.	entailment
+The Glasgow Herald tends to the left	entailment
+Other sources have commented on The Glasgow Herald, stating that it tends to be left-leaning.	entailment
+The factuality of The Glasgow Herald is reported to be High	entailment
+The factuality of The Glasgow Herald is reported to be High, according to Mediabiasfactcheck.com	entailment
+The Glasgow Herald failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+The Glasgow Herald printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**.	contradiction
+The Glasgow Herald chose not to cover local news about Glasgow as well as regional, national and international news.	contradiction
+The Glasgow Herald relies on advertising for revenue	entailment
+The Glasgow Herald relies on subscriptions for revenue	entailment
+The Glasgow Herald relies on donations for revenue	contradiction
+When aggregating stories, The Glasgow Herald relies on information from **sources**	entailment
+The Glasgow Herald has endorsed the Left-Center Biased editorial positions.	entailment
+The Glasgow Herald has an editorial bias towards **the left**.	entailment
+Donald Martin is the editor of The Glasgow Herald	entailment
+The Glasgow Herald was fined **£80k**.	entailment
+The Glasgow Herald printed a biased article titled "Opinion Matrix: The union is sunk with ‘blundering’ Boris Johnson".	entailment
+The Glasgow Herald had to apologize for **none in the Last 5 years**	entailment
+The Glasgow Herald's headquarter is located in Glasgow	entailment
+The Glasgow Herald is funded by the UK government	contradiction
+The Glasgow Herald is a daily broadsheet newspaper.	entailment
+The Glasgow Herald covers the following topics: History, Funding/Oversight, Analysis/Bias, Editoriallycontent, Failed Fact Checks	entailment

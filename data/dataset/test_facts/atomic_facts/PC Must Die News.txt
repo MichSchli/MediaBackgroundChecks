@@ -1,0 +1,20 @@
+PC Must Die News is funded through advertising	entailment
+The remit of PC Must Die News is to  publish right-leaning opinions and reword news stories from other sources.	entailment
+The mission of PC Must Die News is to spread propaganda and 	entailment
+PC Must Die News tends to the **extreme right**	entailment
+Other sources have commented on PC Must Die News, stating that it tends to be **Questionable**	entailment
+The factuality of PC Must Die News is reported to be Questionable	entailment
+The factuality of PC Must Die News is reported to be **Questionable** according to **Media Bias/Fact Check**	entailment
+PC Must Die News failed a fact-check for an article titled "New Finnish Study Finds No Evidence For Man-Made Climate Change".	entailment
+PC Must Die News printed a retraction after failing a fact-check for an article titled **New Finnish Study Finds No Evidence For Man-Made Climate Change**	entailment
+PC Must Die News chose not to cover original news content	entailment
+PC Must Die News provides original content written by staff journalists	contradiction
+PC Must Die News relies on advertising for revenue	entailment
+PC Must Die News relies on subscriptions for revenue	entailment
+PC Must Die News relies on donations for revenue	entailment
+When aggregating stories, PC Must Die News relies on information from [existing story and quotes it while offering right-leaning opinions](https://pcmustdie.com/california-says-independents-can-vote-for-democrats-2020-primary-but-not-republicans/).	entailment
+PC Must Die News has endorsed Trump.	entailment
+PC Must Die News has an editorial bias towards ultra-conservatism.	entailment
+PC Must Die News printed a factually misleading titled **New Finnish Study Finds No Evidence For Man-Made Climate Change**	entailment
+PC Must Die News is a Questionable Source	entailment
+PC Must Die News covers the following topics: ultra-conservative, pro-Trump news and opinion.	entailment

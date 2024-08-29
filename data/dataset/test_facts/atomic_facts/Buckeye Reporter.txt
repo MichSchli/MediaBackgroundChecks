@@ -1,0 +1,21 @@
+Metric Media LLC founded Buckeye Reporter	entailment
+Metric Media LLC is the owner of Buckeye Reporter	entailment
+Buckeye Reporter is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Buckeye Reporter is to **provide objective, data-driven information without political bias**	contradiction
+The mission of Buckeye Reporter is to **imposter site, lacks transparency, and publishes false information**.	entailment
+The usual audience of Buckeye Reporter is right-center, biased, and Questionable.	entailment
+Buckeye Reporter tends to the right-center	entailment
+Other sources have commented on Buckeye Reporter, stating that it tends to be **right-center, biased, and Questionable**	entailment
+The factuality of Buckeye Reporter is reported to be  Questionable	entailment
+The factuality of Buckeye Reporter is reported to be *Questionable*, according to *Mediabiasfactcheck.com*.	entailment
+Buckeye Reporter provides original content written by staff journalists	entailment
+Buckeye Reporter relies on advertising for revenue	entailment
+Buckeye Reporter relies on donations for revenue	entailment
+Buckeye Reporter has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Buckeye Reporter relies on information from **algorithmically produced content**	entailment
+Buckeye Reporter has endorsed right-center, biased, and Questionable.	entailment
+Buckeye Reporter has an editorial bias towards conservative-leaning news.	entailment
+Buckeye Reporter printed a biased article titled *An Imposter Site: Lack of Transparency and False Information*.	entailment
+Buckeye Reporter printed a factually misleading titled imposter site, lacks transparency, and publishes false information.	entailment
+Buckeye Reporter is a conservative-leaning news website	entailment
+Buckeye Reporter covers the following topics: Conservative-leaning news.	entailment

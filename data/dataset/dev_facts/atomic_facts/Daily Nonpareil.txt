@@ -1,0 +1,20 @@
+Lee Enterprises owns Daily Nonpareil	entailment
+Lee Enterprises is the owner of Daily Nonpareil	entailment
+Lee Enterprises bought Daily Nonpareil	contradiction
+Lee Enterprises acquired Daily Nonpareil	contradiction
+Daily Nonpareil is funded through Advertising and subscription fees.	entailment
+The remit of Daily Nonpareil is to **report on news, sports, entertainment, lifestyle, and opinion for Clarinda and the surrounding area**.	entailment
+The mission of Daily Nonpareil is to report on news, sports, entertainment, lifestyle, and opinion for Clarinda and the surrounding area.	entailment
+Daily Nonpareil tends to the  news	entailment
+Other sources have commented on Daily Nonpareil, stating that it tends to be Least Biased	entailment
+The factuality of Daily Nonpareil is reported to be High	entailment
+The factuality of Daily Nonpareil is reported to be High, according to a review by Mediabiasfactcheck.com.	entailment
+Daily Nonpareil failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Daily Nonpareil printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+Daily Nonpareil chose not to cover any failed fact checks	entailment
+Daily Nonpareil relies on advertising for revenue	entailment
+Daily Nonpareil relies on subscriptions for revenue	entailment
+Daily Nonpareil relies on donations for revenue	contradiction
+When aggregating stories, Daily Nonpareil relies on information from **first-person accounts or through credible media**	entailment
+Daily Nonpareil has an editorial bias towards  right .	entailment
+Daily Nonpareil had to apologize to no one for no known instances of failed fact checks	entailment

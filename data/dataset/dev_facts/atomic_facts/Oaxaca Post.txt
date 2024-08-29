@@ -1,0 +1,18 @@
+Oaxaca Post acquired Oaxaca Post	contradiction
+Oaxaca Post is funded through advertising	entailment
+The remit of Oaxaca Post is to republish content from other sources.	entailment
+The mission of Oaxaca Post is to deliver news to English-speaking ex-pats and international readers.	entailment
+The usual audience of Oaxaca Post is English-speaking ex-pats and international readers.	entailment
+Oaxaca Post tends to the left.	entailment
+Oaxaca Post tends to the left-center biased according to source criticism	entailment
+Other sources have commented on Oaxaca Post, stating that it tends to be **an imposter site**.	entailment
+The factuality of Oaxaca Post is reported to be questionable	entailment
+The factuality of Oaxaca Post is reported to be questionable, according to an analysis by mediabiasfactcheck.com.	entailment
+Oaxaca Post chose not to cover **original content**	entailment
+Oaxaca Post provides original content written by staff journalists	contradiction
+Oaxaca Post relies on advertising for revenue	entailment
+Oaxaca Post relies on subscriptions for revenue	contradiction
+Oaxaca Post relies on donations for revenue	contradiction
+When aggregating stories, Oaxaca Post relies on information from the Mexico Daily Post, the MDP Newsroom, or other sources.	entailment
+Oaxaca Post has an editorial bias towards Left-Center	entailment
+Oaxaca Post printed a factually misleading titled **Mexico Daily Post as a Reliable Source of News**	entailment

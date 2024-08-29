@@ -1,0 +1,19 @@
+Metric Media LLC is the owner of Current Science Daily	entailment
+Current Science Daily is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Current Science Daily is to **look like a local news source**	entailment
+The mission of Current Science Daily is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of Current Science Daily is right-center, biased, and Questionable	entailment
+Current Science Daily tends to the right-center	entailment
+Other sources have commented on Current Science Daily, stating that it tends to be right-center biased.	entailment
+The factuality of Current Science Daily is reported to be Questionable	entailment
+The factuality of Current Science Daily is reported to be Questionable, according to D. Van Zandt	entailment
+Current Science Daily failed a fact-check for an article titled "The Real Health Benefits of Drinking Coffee"	entailment
+Current Science Daily provides original content written by staff journalists	contradiction
+Current Science Daily relies on advertising for revenue	entailment
+Current Science Daily relies on donations for revenue	entailment
+Current Science Daily has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Current Science Daily relies on information from **algorithmically produced content**.	entailment
+Current Science Daily has an editorial bias towards right-center	entailment
+Current Science Daily printed a factually misleading titled **article**	entailment
+Current Science Daily is funded by the Metric Media Foundation government	contradiction
+Current Science Daily is a conservative-leaning site	entailment

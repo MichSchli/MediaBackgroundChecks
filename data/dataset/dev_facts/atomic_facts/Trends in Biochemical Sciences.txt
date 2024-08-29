@@ -1,0 +1,15 @@
+Trends in Biochemical Sciences is funded through **subscription fees and fees for open-access publishing**	entailment
+The remit of Trends in Biochemical Sciences is to keep readers up to date on recent advances across all disciplines of biochemistry and molecular biology.	entailment
+The mission of Trends in Biochemical Sciences is to keep readers up to date on recent advances across all disciplines of biochemistry and molecular biology.	entailment
+The usual audience of Trends in Biochemical Sciences is **researchers and professionals in the field of Biochemical Science**	entailment
+Other sources have commented on Trends in Biochemical Sciences, stating that it tends to be **Pro-Science**.	entailment
+The factuality of Trends in Biochemical Sciences is reported to be High	entailment
+The factuality of Trends in Biochemical Sciences is reported to be High, according to a source criticism exercise.	entailment
+Trends in Biochemical Sciences failed a fact-check for an article titled None in the Last 5 years.	entailment
+Trends in Biochemical Sciences relies on subscriptions for revenue	entailment
+Trends in Biochemical Sciences relies on donations for revenue	entailment
+Trends in Biochemical Sciences has received donations from **subscriptions and fees for open-access publishing**	entailment
+When aggregating stories, Trends in Biochemical Sciences relies on information from [PubMed](https://mediabiasfactcheck.com/pubmed/)	entailment
+Trends in Biochemical Sciences has endorsed Pro-Science.	entailment
+Trends in Biochemical Sciences has an editorial bias towards Pro-Science	entailment
+Trends in Biochemical Sciences printed a biased article titled "Failed Fact Checks".	contradiction

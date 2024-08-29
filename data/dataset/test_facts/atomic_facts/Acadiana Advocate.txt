@@ -1,0 +1,23 @@
+Georges Media Group is the founder of Acadiana Advocate	contradiction
+Georges Media Group owns Acadiana Advocate	entailment
+Georges Media Group is the owner of Acadiana Advocate	entailment
+Georges Media Group bought Acadiana Advocate	entailment
+Acadiana Advocate is funded through advertising and subscription fees	entailment
+The remit of Acadiana Advocate is to cover local news with minimal bias, such as	entailment
+The mission of Acadiana Advocate is to **cover local news with minimal bias and report factually**	entailment
+The usual audience of Acadiana Advocate is Left-Center biased	entailment
+Acadiana Advocate tends to the left.	entailment
+Other sources have commented on Acadiana Advocate, stating that it tends to be Left-Center biased.	entailment
+The factuality of Acadiana Advocate is reported to be High	entailment
+The factuality of Acadiana Advocate is reported to be High, according to Mediabiasfactcheck.	entailment
+Acadiana Advocate failed a fact-check for an article titled "Lafayette National Guard commander relieved of duties has history of sexual complaints"	contradiction
+The Acadiana Advocate chose not to cover **national and international news**.	contradiction
+Acadiana Advocate relies on advertising for revenue	entailment
+Acadiana Advocate relies on subscriptions for revenue	entailment
+Acadiana Advocate relies on donations for revenue	contradiction
+When aggregating stories, Acadiana Advocate relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Acadiana Advocate has an editorial bias towards **the left**	entailment
+Acadiana Advocate printed a biased article titled "Our Views: An iconic mix of Spanish moss and pollution for Louisiana"	entailment
+Acadiana Advocate had to apologize for None in the Last 5 years	entailment
+The Acadiana Advocate is funded by the **private** government	contradiction
+Acadiana Advocate is a **newspaper**	entailment

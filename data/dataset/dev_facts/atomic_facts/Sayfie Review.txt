@@ -1,0 +1,18 @@
+Justin Sayfie founded Sayfie Review	entailment
+Justin Sayfie is the founder of Sayfie Review	entailment
+Sayfie Media LLC owns Sayfie Review	entailment
+Justin Sayfie is the owner of Sayfie Review	entailment
+Justin Sayfie bought Sayfie Review	entailment
+The remit of Sayfie Review is to **serve as a news curator/aggregator with a lack of original content**	entailment
+The mission of Sayfie Review is to serve as a news curator/aggregator with a lack of original content. While the website owner may lean right throughout their political history, the website draws from both left and right sources such as Politico, Sun-Sentinel, Tallahassee Democrat, Tampa Bay Times, and international media the Associated Press. Based on these sources ranging from left-center to right-center, we rate their aggregated content as least biased due to covering both sides. Sayfie Review also has its own columnist who writes political analysis. These articles display minimal bias and are very well-sourced.	entailment
+Sayfie Review tends to the least biased according to Mediabiasfactcheck	entailment
+Other sources have commented on Sayfie Review, stating that it tends to be least biased	entailment
+The factuality of Sayfie Review is reported to be Least Biased	entailment
+The factuality of Sayfie Review is reported to be high, according to Media Bias/Fact Check	entailment
+Sayfie Review failed a fact-check for an article titled None in the Last 5 years	contradiction
+Sayfie Review chose not to cover original content.	entailment
+Sayfie Review provides original content written by staff journalists	contradiction
+When aggregating stories, Sayfie Review relies on information from both left and right sources such as Politico, Sun-Sentinel, Tallahassee Democrat, Tampa Bay Times, and international media the Associated Press.	entailment
+Sayfie Review has endorsed Least Biased	entailment
+Sayfie Review has an editorial bias towards least biased.	entailment
+Sayfie Review had to apologize for **None in the Last 5 years**	entailment

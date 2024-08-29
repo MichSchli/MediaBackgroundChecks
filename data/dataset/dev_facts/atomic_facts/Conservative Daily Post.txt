@@ -1,0 +1,19 @@
+Conservative Daily Post bought Conservative Daily Post	entailment
+Conservative Daily Post is funded through online advertising	entailment
+The remit of Conservative Daily Post is to **promote right-wing bias and the publication of fake news.**	entailment
+The mission of Conservative Daily Post is to **thrive on independent journalism and truth**.	contradiction
+The usual audience of Conservative Daily Post is right-leaning.	entailment
+Conservative Daily Post tends to the extreme right-wing	entailment
+Conservative Daily Post tends to the right according to 	entailment
+Other sources have commented on Conservative Daily Post, stating that it tends to be Questionable	entailment
+The factuality of Conservative Daily Post is reported to be Questionable	entailment
+The factuality of Conservative Daily Post is reported to be  Questionable, according to  D. Van Zandt 07/22/2022.	entailment
+Conservative Daily Post failed a fact-check for an article titled "No, Trump did not declare George Soros a security threat."	entailment
+Conservative Daily Post chose not to cover **news based on left-leaning perspectives**	entailment
+Conservative Daily Post relies on advertising for revenue	entailment
+Conservative Daily Post relies on subscriptions for revenue	contradiction
+Conservative Daily Post relies on donations for revenue	entailment
+Conservative Daily Post has received donations from online advertising.	entailment
+When aggregating stories, Conservative Daily Post relies on information from **either credible media outlets that are spun to fit a conservative narrative or directly from highly questionable sources.**	entailment
+Conservative Daily Post has an editorial bias towards  extreme right-wing.	entailment
+Conservative Daily Post printed a biased article titled *Racist Thugs Take Democrat Cue, 103-Year-Old Children’s Anthem Monument Targeted By Criminals.*	entailment

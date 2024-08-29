@@ -1,0 +1,25 @@
+NewMarket Health Publishing, LLC leads Natural Health Response	entailment
+NewMarket Health Publishing, LLC owns Natural Health Response	entailment
+NewMarket Health Publishing, LLC is the owner of Natural Health Response	entailment
+NewMarket Health Publishing	entailment
+NewMarket Health Publishing, LLC acquired Natural Health Response	contradiction
+Natural Health Response is funded through **subscription fees**	entailment
+The remit of Natural Health Response is to **promote**	entailment
+The mission of Natural Health Response is to promote.	entailment
+Natural Health Response tends to the quackery-level pseudoscience	entailment
+Other sources have commented on Natural Health Response, stating that it tends to be **Conspiracy-Pseudoscience**.	entailment
+The factuality of Natural Health Response is reported to be a quackery-level pseudoscience.	entailment
+The factuality of Natural Health Response is reported to be **very low**, according to **Media Bias/Fact Check**.	entailment
+Natural Health Response failed a fact-check for an article titled A third party has not fact-checked them.	entailment
+Natural Health Response chose not to cover anti-vaccine and anti-science propaganda	contradiction
+Natural Health Response relies on advertising for revenue	contradiction
+Natural Health Response relies on subscriptions for revenue	entailment
+Natural Health Response relies on donations for revenue	contradiction
+When aggregating stories, Natural Health Response relies on information from **Dr. Richard Gerhauser, M.D.**	entailment
+Natural Health Response has endorsed anti-vaccine and anti-science propaganda	entailment
+Natural Health Response has an editorial bias towards **Conspiracy-Pseudoscience**	entailment
+Natural Health Response printed a biased article titled **NEVER Get the Flu! (No Vaccine Necessary)**	entailment
+Natural Health Response printed a factually misleading titled "NEVER Get the Flu! (No Vaccine Necessary)"	entailment
+Natural Health Response is funded by the United States government	contradiction
+Natural Health Response is a quackery-level pseudoscience	entailment
+Natural Health Response covers the following topics: anti-vaccination propaganda, government conspiracies, credible information	entailment

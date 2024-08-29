@@ -1,0 +1,24 @@
+Who founded Future of Life Institute?	entailment
+Max Tegmark is the founder of Future of Life Institute	entailment
+Elon Musk bought Future of Life Institute	entailment
+Elon Musk acquired Future of Life Institute	contradiction
+Future of Life Institute is funded through individuals and organizations	entailment
+The remit of Future of Life Institute is to minimize the risk of global existential threats, specifically focusing on the risks associated with advanced artificial intelligence (AI).	entailment
+The mission of Future of Life Institute is to minimize the risk of global existential threats	entailment
+Future of Life Institute tends to the **Left-Center**	entailment
+Other sources have commented on Future of Life Institute, stating that it tends to be Left-Center biased.	entailment
+The factuality of Future of Life Institute is reported to be High	entailment
+The factuality of Future of Life Institute is reported to be High, according to Media Bias Fact Check	entailment
+Future of Life Institute failed a fact-check for an article titled "None in the Last 5 years"	entailment
+Future of Life Institute chose not to cover failed fact checks	entailment
+Future of Life Institute relies on advertising for revenue	entailment
+Future of Life Institute relies on donations for revenue	entailment
+Future of Life Institute has received donations from individuals and organizations	entailment
+When aggregating stories, Future of Life Institute relies on information from **reputable sources like the Stockholm International Peace Research Institute (SIPRI)**.	entailment
+Future of Life Institute has endorsed left-leaning editorial perspectives.	entailment
+Future of Life Institute has an editorial bias towards **the left**	entailment
+Future of Life Institute printed a biased article titled "Mitigating the Risks of AI Integration in Nuclear Launch."	entailment
+Future of Life Institute printed a factually misleading titled  "Kelly Wanser on Climate Change as a Possible Existential Threat"	entailment
+Future of Life Institute is funded by the individuals and organizations	entailment
+Future of Life Institute is a non-profit organization	entailment
+Future of Life Institute covers the following topics: emerging technologies, artificial intelligence, global existential threats, projects, signature campaigns, open letter, left-leaning political positions, fact-based editorial perspectives.	entailment

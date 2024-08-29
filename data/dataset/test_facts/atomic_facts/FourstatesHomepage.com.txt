@@ -1,0 +1,18 @@
+Nexstar Media Group owns FourstatesHomepage.com	entailment
+FourstatesHomepage.com is funded through **advertising**	entailment
+The remit of FourStatesHomepage.com is to  report local news, weather, sports, and crime news.	entailment
+The mission of FourstatesHomepage.com is to  "publish news for the greater Joplin, Missouri area with minimal bias."	entailment
+The usual audience of FourstatesHomepage.com is **the greater Joplin, Missouri area**.	entailment
+FourstatesHomepage.com tends to the Least Biased.	entailment
+Other sources have commented on FourstatesHomepage.com, stating that it tends to be **Least Biased**.	entailment
+The factuality of FourstatesHomepage.com is reported to be High	entailment
+The factuality of FourstatesHomepage.com is reported to be High, according to D. Van Zandt 	entailment
+FourstatesHomepage.com failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+FourstatesHomepage.com printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+FourstatesHomepage.com chose not to cover op-eds	entailment
+FourstatesHomepage.com relies on advertising for revenue	entailment
+FourstatesHomepage.com relies on donations for revenue	contradiction
+When aggregating stories, FourstatesHomepage.com relies on information from **Nexstar Media Wire and other large media outlets**	entailment
+FourstatesHomepage.com has an editorial bias towards **neutral straight news reporting without offering opinion pieces.**	entailment
+FourStatesHomepage.com is a news website	entailment
+FourstatesHomepage.com covers the following topics: local news, weather, sports, and crime news	entailment

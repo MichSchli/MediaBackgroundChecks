@@ -1,0 +1,19 @@
+WhereBy.Us Enterprises, Inc. owns The New Tropic	entailment
+WhereBy.Us Enterprises, Inc. is the owner of The New Tropic	entailment
+WhereBy.Us Enterprises, Inc. bought The New Tropic	entailment
+The New Tropic is funded through **paid memberships**.	entailment
+The remit of The New Tropic is to connect Miami.	entailment
+The mission of The New Tropic is to connect Miami.	entailment
+The New Tropic tends to the left	entailment
+Other sources have commented on The New Tropic, stating that it tends to be left-center biased.	entailment
+The factuality of The New Tropic is reported to be High	entailment
+The factuality of The New Tropic is reported to be High, according to D. Van Zandt	entailment
+The New Tropic failed a fact-check for an article titled Conservatives right side equality.	contradiction
+The New Tropic chose not to cover conservative views	entailment
+The New Tropic has endorsed  Left-Center biased and High for factual reporting.	entailment
+The New Tropic has an editorial bias towards **the left**.	entailment
+The New Tropic had to apologize for **having a left bias based on political affiliations supported by the left**.	contradiction
+The New Tropic's headquarter is located in Miami	entailment
+The New Tropic is funded by the **private** government	contradiction
+The New Tropic is a Miami, Florida community news and information website.	entailment
+The New Tropic covers the following topics: left bias based on political affiliations supported by the left, such as LGBTQ and race rights and environmental concerns	entailment

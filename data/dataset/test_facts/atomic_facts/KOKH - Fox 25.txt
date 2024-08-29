@@ -1,0 +1,17 @@
+Julian Sinclair Smith founded KOKH - Fox 25	contradiction
+Sinclair Broadcast Group owns KOKH - Fox 25	entailment
+Sinclair Broadcast Group is the owner of KOKH - Fox 25	entailment
+Sinclair Broadcast Group acquired KOKH - Fox 25	contradiction
+KOKH - Fox 25 is funded through **advertising**	entailment
+The remit of KOKH - Fox 25 is to **report local news with minimal bias**	contradiction
+KOKH - Fox 25 tends to the right	entailment
+Other sources have commented on KOKH - Fox 25, stating that it tends to be **right-leaning**.	entailment
+The factuality of KOKH - Fox 25 is reported to be High	entailment
+The factuality of KOKH - Fox 25 is reported to be high, according to D. Van Zandt	entailment
+KOKH - Fox 25 failed a fact-check for an article titled "Nursing home group against vaccine requirement, less than half of workers vaccinated."	contradiction
+KOKH - Fox 25 printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+The donations from [Sinclair Broadcast Group](https://mediabiasfactcheck.com/sinclair-broadcast-group/)	entailment
+When aggregating stories, KOKH - Fox 25 relies on information from [The Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+KOKH - Fox 25 has an editorial bias towards **the right**.	entailment
+KOKH - Fox 25 is a **Fox**	contradiction
+KOKH - Fox 25 covers the following topics: local news, sports, weather, lifestyle, and crime reporting.	entailment

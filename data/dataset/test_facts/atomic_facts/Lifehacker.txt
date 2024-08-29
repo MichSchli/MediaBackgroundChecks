@@ -1,0 +1,23 @@
+Gawker Media founded Lifehacker	entailment
+G/O Media Inc owns Lifehacker	entailment
+G/O Media Inc is the owner of Lifehacker	entailment
+G/O Media Inc bought Lifehacker	entailment
+Lifehacker is funded through **advertising**	entailment
+The remit of Lifehacker is to cover Life hacks and software launched on January 31, 2005.	entailment
+The mission of Lifehacker is to  Do Everything Better.	entailment
+Lifehacker tends to the left	entailment
+Other sources have commented on Lifehacker, stating that it tends to be Left-Center biased.	entailment
+The factuality of Lifehacker is reported to be Mostly Factual	entailment
+The factuality of Lifehacker is reported to be Mostly Factual, according to D. Van Zandt 10/8/2017	entailment
+Lifehacker failed a fact-check for an article titled "Placing a Coin on Top of a Frozen Glass of Water in Your Freezer Can Help You Tell If Your Freezer Experienced a Significant Loss of Power in Your Absence."	entailment
+Lifehacker chose not to cover political editorials	contradiction
+Lifehacker relies on advertising for revenue	entailment
+Lifehacker relies on subscriptions for revenue	contradiction
+Lifehacker relies on donations for revenue	contradiction
+Lifehacker has received donations from **advertising**	contradiction
+When aggregating stories, Lifehacker relies on information from **credible media outlets**	entailment
+Lifehacker has endorsed left-leaningbias	entailment
+Lifehacker has an editorial bias towards Left-Center	entailment
+Lifehacker printed a biased article titled "How Are Your Trump-loving Relatives Dealing With Recent Events?".	entailment
+Lifehacker is funded by the private equity firm's government	contradiction
+Lifehacker is a website	entailment

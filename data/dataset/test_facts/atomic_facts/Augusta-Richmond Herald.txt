@@ -1,0 +1,16 @@
+Local Report Inc leads Augusta-Richmond Herald	entailment
+Local Report Inc owns Augusta-Richmond Herald	entailment
+Local Report Inc bought Augusta-Richmond Herald	entailment
+Local Report Inc acquired Augusta-Richmond Herald	entailment
+The remit of Augusta-Richmond Herald is to **promote left-leaning propaganda in support of the Democratic Party and lacks transparency**.	entailment
+The mission of Augusta-Richmond Herald is to serve as an imposter local news site that promotes left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+The usual audience of Augusta-Richmond Herald is **left-leaning**.	entailment
+The Augusta-Richmond Herald tends to the **left-leaning.**	entailment
+Other sources have commented on Augusta-Richmond Herald, stating that it tends to be **Left-Center Biased**.	entailment
+The Augusta-Richmond Herald chose not to cover local news stories focused on sports, entertainment, and business news.	contradiction
+Augusta-Richmond Herald relies on donations for revenue	contradiction
+When aggregating stories, Augusta-Richmond Herald relies on information from The American Independent.	entailment
+Augusta-Richmond Herald has an editorial bias towards **left-leaning propaganda in support of the Democratic Party**	entailment
+Augusta-Richmond Herald printed a biased article titled Former Trump Attorney Worked With Atlanta Tech Firm to Hack Coffee Voting System	entailment
+The Augusta-Richmond Herald is a Left-Center Biased and Questionable	entailment
+Augusta-Richmond Herald covers the following topics: local news stories focused on sports, entertainment, and business	entailment

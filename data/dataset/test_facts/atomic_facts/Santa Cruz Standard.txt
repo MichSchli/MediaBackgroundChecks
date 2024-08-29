@@ -1,0 +1,20 @@
+Metric Media founded Santa Cruz Standard	entailment
+Santa Cruz Standard leads Santa Cruz Standard	contradiction
+Metric Media Foundation owns Santa Cruz Standard	entailment
+Santa Cruz Standard is funded through donations and grants	entailment
+The remit of Santa Cruz Standard is to **look like a local news source**.	entailment
+The mission of Santa Cruz Standard is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of Santa Cruz Standard is **right-center biased and Questionable**	entailment
+Santa Cruz Standard tends to the right-center bias	entailment
+Other sources have commented on Santa Cruz Standard, stating that it tends to be right-center biased	entailment
+The factuality of Santa Cruz Standard is reported to be Questionable	entailment
+The factuality of Santa Cruz Standard is reported to be questionable, according to D. Van Zandt.	entailment
+Santa Cruz Standard chose not to cover  conservative-leaning news websites published by the Metric Media LLC Network.	contradiction
+Santa Cruz Standard relies on advertising for revenue	entailment
+Santa Cruz Standard relies on donations for revenue	entailment
+When aggregating stories, Santa Cruz Standard relies on information from **algorithmically produced content**.	entailment
+Santa Cruz Standard has an editorial bias towards right-center.	entailment
+Santa Cruz Standard printed a biased article titled **The Truth About Local Elections**	entailment
+The Santa Cruz Standard is funded by the United States government	contradiction
+Santa Cruz Standard is a right-center biased	entailment
+Santa Cruz Standard covers the following topics:  conservatives-leaning news and right-leaning editorial bias.	entailment

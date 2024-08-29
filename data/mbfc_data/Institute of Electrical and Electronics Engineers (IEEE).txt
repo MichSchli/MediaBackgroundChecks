@@ -1,0 +1,10 @@
+History
+[Founded in 1963](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers), The Institute of Electrical and Electronics Engineers (IEEE) is a professional association for electronic engineering and electrical engineering. It is the world’s largest association of technical professionals, with more than 423,000 members in over 160 countries worldwide. The current executive director is Stephen Welby. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Institute of Electrical and Electronics Engineers (IEEE) is a 501(c)(3) nonprofit organization that is funded through
+[membership fees](https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join).
+Analysis / Bias
+In review, IEEE is an organization that promotes the educational and technical advancement of electrical and electronic engineering, telecommunications, computer engineering, and allied disciplines. IEEE features articles and research written under the tab
+[IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp). These articles tend to be technical and pro-science such as this [Intelligent Reflecting Surface-Enhanced Wireless Network via Joint Active and Passive Beamforming](https://ieeexplore.ieee.org/document/8811733). This research is very well-sourced. In general, this is a hard pro-science website.
+Failed Fact Checks
+- None in the Last 5 years

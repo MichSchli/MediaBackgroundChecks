@@ -1,0 +1,28 @@
+Jann Wenner founded Men's Journal	entailment
+Jann Wenner is the founder of Men's Journal	entailment
+a360media owns Men's Journal	entailment
+American Media Inc bought Men's Journal	entailment
+American Media Inc acquired Men's Journal	entailment
+Men's Journal is funded through advertising, subscription, and newsstand sales.	entailment
+The remit of Men's Journal is to cover various men’s lifestyle topics such as Health & Fitness, Food & Drink, Style, and Traveling.	entailment
+The usual audience of Men's Journal is **men**	entailment
+Men's Journal tends to the Left-Center Bias	entailment
+Other sources have commented on Men's Journal, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of Men's Journal is reported to be Mostly Factual	entailment
+The factuality of Men's Journal is reported to be Mostly Factual, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/mens-journal/).	entailment
+Men's Journal failed a fact-check for an article titled "Say goodbye to belly fat with this workout."	entailment
+Men's Journal printed a retraction after failing a fact-check for an article titled "Say goodbye to belly fat with this workout."	entailment
+Men's Journal chose not to cover science and health by promoting pseudoscience	entailment
+Men's Journal relies on advertising for revenue	entailment
+Men's Journal relies on subscriptions for revenue	entailment
+Men's Journal relies on donations for revenue	contradiction
+Men's Journal has received donations from advertising, subscription, and newsstand sales.	contradiction
+When aggregating stories, Men's Journal relies on information from **credible outlets such as Globalchange.mit.edu**.	entailment
+Men's Journal has endorsed Democratic party politicians	entailment
+Men's Journal has an editorial bias towards a liberal perspective.	entailment
+Men's Journal printed a biased article titled Joe Biden Proves the Short-Sleeve Button-Down is Timeless	entailment
+Men's Journal printed a factually misleading titled "Say goodbye to belly fat with this workout."	entailment
+Men's Journal had to apologize for **false and misleading claims when reporting on science and health by promoting pseudoscience**.	entailment
+Men's Journal is funded by the private equity firm Chatham Asset Management LLC.	entailment
+Men's Journal is a  lifestyle magazine.	entailment
+Men's Journal covers the following topics: Health & Fitness, Food & Drink, Style, and Traveling	entailment

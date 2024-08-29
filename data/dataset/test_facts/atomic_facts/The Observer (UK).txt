@@ -1,0 +1,26 @@
+The Observer is the founder of The Observer (UK)	contradiction
+The Guardian leads The Observer (UK)	entailment
+Guardian Media Group owns The Observer (UK)	entailment
+Guardian Media Group is the owner of The Observer (UK)	entailment
+Guardian Media Group bought The Observer (UK)	entailment
+The Guardian acquired The Observer (UK)	entailment
+The Observer (UK) is funded through subscriptions and advertising	entailment
+The remit of The Observer (UK) is to  provide a social liberal or social democratic line on most issues.	entailment
+The mission of The Observer (UK) is to support left-wing views and promote social liberalism.	entailment
+The usual audience of The Observer (UK) is left-biased	entailment
+The Observer (UK) tends to the left	entailment
+Other sources have commented on The Observer (UK), stating that it tends to be left-biased.	entailment
+The factuality of The Observer (UK) is reported to be Moderate	contradiction
+The factuality of The Observer (UK) is reported to be Mixed, according to mediabiasfactcheck.com.	entailment
+The Observer (UK) failed a fact-check for an article titled *How did Britain fail so badly in dealing with Covid-19?*	entailment
+The Observer (UK) chose not to cover **the right**	entailment
+The Observer (UK) relies on advertising for revenue	entailment
+The Observer (UK) relies on subscriptions for revenue	entailment
+The Observer (UK) relies on donations for revenue	contradiction
+When aggregating stories, The Observer (UK) relies on information from [Guardian Media Group](https://en.wikipedia.org/wiki/GuardianMediaGroup)	entailment
+The Observer (UK) has endorsed left-center biased positions.	entailment
+The Observer (UK) has an editorial bias towards ***the left***	entailment
+The Observer (UK) printed a biased article titled How did Britain fail so badly in dealing with Covid-19?	entailment
+The Observer (UK) printed a factually misleading titled "How did Britain fail so badly in dealing with Covid-19?"	entailment
+The Observer (UK) is funded by the **United Kingdom** government	entailment
+The Observer (UK) is a Sunday only paper	entailment

@@ -1,0 +1,21 @@
+Joe Dunn founded Voice of OC	entailment
+Joe Dunn is the founder of Voice of OC	entailment
+Joe Dunn bought Voice of OC	contradiction
+Voice of OC is funded through various foundations such as the Knight Foundation, Democracy Fund, The Weingart Foundation, and individual donors.	entailment
+The remit of Voice of OC is to **report on local government and politics**	entailment
+The mission of Voice of OC is to  report on local government and politics in Orange County, California.	entailment
+The usual audience of Voice of OC is left-center biased	entailment
+Voice of OC tends to the left	entailment
+Other sources have commented on Voice of OC, stating that it tends to be left-center biased	entailment
+The factuality of Voice of OC is reported to be High	entailment
+The factuality of Voice of OC is reported to be High, according to M. Huitsing	entailment
+Voice of OC failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Voice of OC chose not to cover Orange County Employees Association's initial funding of Voice of OC with $140,000	contradiction
+Voice of OC relies on advertising for revenue	contradiction
+Voice of OC relies on donations for revenue	entailment
+Voice of OC has received donations from various foundations such as the Knight Foundation, Democracy Fund, The Weingart Foundation, and individual donors. The Orange County Employees Association initially funded Voice of OC with $140,000.	entailment
+When aggregating stories, Voice of OC relies on information from **reliable sources**.	entailment
+Voice of OC has an editorial bias towards **left-center biased based on reasonably balanced editorial positions that moderately favor a liberal perspective**	entailment
+Joe Dunn is the editor of Voice of OC	entailment
+Voice of OC is a **left-center**	entailment
+Voice of OC covers the following topics: local government and politics in Orange County, California.	entailment

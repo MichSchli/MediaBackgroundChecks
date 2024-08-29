@@ -1,0 +1,24 @@
+Paxton Media Group owns Russellville Courier	entailment
+Paxton Media Group is the owner of Russellville Courier	entailment
+Paxton Media Group bought Russellville Courier	entailment
+Paxton Media Group acquired Russellville Courier	entailment
+Russellville Courier is funded through advertising and subscriptions	entailment
+The remit of Russellville Courier is to **deliver local news, hometown politics, business news, local events, and sports**	entailment
+Russellville Courier tends to the right-center biased	entailment
+Other sources have commented on Russellville Courier, stating that it tends to be right-center biased	entailment
+The factuality of Russellville Courier is reported to be High	entailment
+The factuality of Russellville Courier is reported to be High, according to Media Bias/Fact Check.	entailment
+Russellville Courier failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Russellville Courier provides original content written by staff journalists	contradiction
+Russellville Courier relies on advertising for revenue	entailment
+Russellville Courier relies on subscriptions for revenue	entailment
+Russellville Courier relies on donations for revenue	contradiction
+When aggregating stories, Russellville Courier relies on information from credible newsagents such as the Associated Press.	entailment
+Russellville Courier has endorsed right-center biased	entailment
+Russellville Courier has an editorial bias towards right.	entailment
+Russellville Courier printed a biased article titled "U.S. inflation is self-made trouble"	entailment
+Russellville Courier had to apologize for **none**	entailment
+Russellville Courier's headquarter is located in Arkansas	entailment
+Russellville Courier is funded by the private government	contradiction
+The Russellville Courier is a  newspaper	entailment
+Russellville Courier covers the following topics: local news, hometown politics, business news, local events, and sports	entailment

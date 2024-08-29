@@ -1,0 +1,16 @@
+Rakesh Dubbudu founded Factly	entailment
+Rakesh Dubbudu is the founder of Factly	entailment
+Rakesh Dubbudu is the CEO of Factly	entailment
+Rakesh Dubbudu leads Factly	entailment
+Factly is funded through partnerships with social media platforms, research and consulting services in open data, and data journalism fact-checking training.	entailment
+The mission of Factly is to enhance civic participation by making government data and information more accessible and understandable to the public.	entailment
+Factly tends to the **least biased**	entailment
+Other sources have commented on Factly, stating that it tends to be **reasonably fact-based**.	entailment
+The factuality of Factly is reported to be mostly factual, according to our analysis	entailment
+Factly provides original content written by staff journalists	entailment
+Factly relies on donations for revenue	contradiction
+When aggregating stories, Factly relies on information from publicly available sources such as government websites and responses to Right to Information applications.	entailment
+Factly had to apologize for **not addressing credibility issues related to inaccessible hyperlinks**	entailment
+Factly's headquarter is located in India	entailment
+Factly is a fact-checker.	entailment
+Factly covers the following topics: data journalism, fact-checking, Electoral Bond distributions, misinformation about COVID-19, and political party vote percentages.	entailment

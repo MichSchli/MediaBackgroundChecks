@@ -1,0 +1,17 @@
+Metric Media Foundation founded Gold Country Today	entailment
+Metric Media Foundation owns Gold Country Today.	entailment
+Gold Country Today is funded through donations and grants	entailment
+The remit of Gold Country Today is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Gold Country Today is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of Gold Country Today is right-center biased.	entailment
+Gold Country Today tends to the right-centerbiased	entailment
+Gold Country Today tends to the right-center according to Media Bias/Fact Check.	entailment
+Other sources have commented on Gold Country Today, stating that it tends to be right-center biased.	entailment
+The factuality of Gold Country Today is reported to be questionable	entailment
+The factuality of Gold Country Today is reported to be Questionable, according to D. Van Zandt 12/5/2020.	entailment
+Gold Country Today relies on advertising for revenue	entailment
+Gold Country Today relies on donations for revenue	entailment
+When aggregating stories, Gold Country Today relies on information from **algorithmically produced content**	entailment
+Gold Country Today has endorsed **right-center biased**	entailment
+Gold Country Today has an editorial bias towards right-center	entailment
+Gold Country Today printed a biased article titled **Original content usually holds a right-leaning editorial bias**.	entailment

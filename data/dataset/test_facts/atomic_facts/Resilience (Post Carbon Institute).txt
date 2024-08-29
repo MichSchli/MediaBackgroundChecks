@@ -1,0 +1,25 @@
+Julian Darley founded Resilience (Post Carbon Institute)	entailment
+Resilience owns Resilience (Post Carbon Institute)	contradiction
+Resilience is the owner of Resilience (Post Carbon Institute)	contradiction
+Resilience bought Resilience (Post Carbon Institute)	contradiction
+Resilience acquired Resilience (Post Carbon Institute)	contradiction
+Resilience (Post Carbon Institute) is funded through donations	entailment
+The remit of Resilience (Post Carbon Institute) is to  support building community resilience in a world of multiple emerging challenges.	entailment
+The mission of Resilience (Post Carbon Institute) is to **support building community resilience in a world of multiple emerging challenges**	entailment
+Resilience (Post Carbon Institute) tends to the **Left Biased**	entailment
+Other sources have commented on Resilience (Post Carbon Institute), stating that it tends to be **Left Biased**.	entailment
+The factuality of Resilience (Post Carbon Institute) is reported to be Mixed	entailment
+The factuality of Resilience (Post Carbon Institute) is reported to be Mixed, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/resilience/).	entailment
+Resilience (Post Carbon Institute) chose not to cover **GMOs**	contradiction
+Resilience (Post Carbon Institute) relies on advertising for revenue	entailment
+Resilience (Post Carbon Institute) relies on subscriptions for revenue	entailment
+Resilience (Post Carbon Institute) relies on donations for revenue	entailment
+When aggregating stories, Resilience (Post Carbon Institute) relies on information from **a wide variety of known media sources to obscure blogs**.	entailment
+Resilience (Post Carbon Institute) has an editorial bias towards **left**	entailment
+Resilience (Post Carbon Institute) was fined 	entailment
+Resilience (Post Carbon Institute) printed a biased article titled "Between Trump and a Devastated Place."	entailment
+Resilience (Post Carbon Institute) paid damages to  after 	entailment
+Resilience (Post Carbon Institute)'s headquarter is located in Santa Rosa, California, United States	entailment
+Resilience (Post Carbon Institute) is funded by the United States government	contradiction
+Resilience (Post Carbon Institute) is a Left Biased	entailment
+Resilience (Post Carbon Institute) covers the following topics: environmental challenges, climate change, biodiversity loss, and social and economic issues.	entailment

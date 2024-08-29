@@ -1,0 +1,26 @@
+Ryan Mauldin founded Patriot Journal	entailment
+Ryan Mauldin owns Patriot Journal	entailment
+Ryan Mauldin bought Patriot Journal	entailment
+Ryan Mauldin acquired Patriot Journal	entailment
+Patriot Journal is funded through advertising and sponsored content.	entailment
+The remit of Patriot Journal is to **give America-loving patriots access to the news the mainstream media won’t report.**	entailment
+The mission of Patriot Journal is to give America-loving patriots access to the news the mainstream media won’t report.	entailment
+The usual audience of Patriot Journal is right-leaning	entailment
+Patriot Journal tends to the extreme right-wing bias	entailment
+Patriot Journal tends to the right according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/patriot-journal/).	entailment
+Other sources have commented on Patriot Journal, stating that it tends to be **Questionable**	entailment
+The factuality of Patriot Journal is reported to be **Questionable**	entailment
+The factuality of Patriot Journal is reported to be Questionable, according to D. Van Zandt 2/21/2019.	entailment
+Patriot Journal failed a fact-check for an article titled **“Swing State Hit With 2020 Voting Lawsuit – Accused Of Registering Over 1,500 Deceased People In Pennsylvania.”**	entailment
+Patriot Journal chose not to cover original content.	entailment
+Patriot Journal provides original content written by staff journalists	contradiction
+Patriot Journal relies on advertising for revenue	entailment
+Patriot Journal relies on subscriptions for revenue	contradiction
+Patriot Journal relies on donations for revenue	contradiction
+Patriot Journal has received donations from Ryan Mauldin through Viral Media Partners LLC.	entailment
+When aggregating stories, Patriot Journal relies on information from single, usually right-biased source	entailment
+Patriot Journal has endorsed extreme right-wing bias.	entailment
+Patriot Journal has an editorial bias towards extreme right-wing	entailment
+Patriot Journal printed a biased article titled  "Democrats Dazed By Trump’s New Welfare Rule – He Saves Taxpayers $150B".	entailment
+Patriot Journal printed a factually misleading titled **"Swing State Hit With 2020 Voting Lawsuit – Accused Of Registering Over 1,500 Deceased People In Pennsylvania."**	entailment
+Patriot Journal had to apologize for **promoting false and misleading information regarding election fraud during the 2020 presidential election**	entailment

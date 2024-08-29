@@ -1,0 +1,17 @@
+Covid.gov is the CEO of Covid.gov	contradiction
+Covid.gov is the owner of Covid.gov	entailment
+The Department of Health & Human Services (HHS)	entailment
+Covid.gov is funded through **the federal United States government**	entailment
+Covid.gov tends to the **pro-science**	entailment
+Other sources have commented on Covid.gov, stating that it tends to be **a Pro-Science source**.	entailment
+The factuality of Covid.gov is reported to be Pro-Science	entailment
+Covid.gov failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Covid.gov chose not to cover Failed Fact Checks.	entailment
+Covid.gov relies on donations for revenue	contradiction
+When aggregating stories, Covid.gov relies on information from the CDC.	entailment
+Covid.gov has endorsed **the consensus of science**	entailment
+Covid.gov has an editorial bias towards Pro-Science	entailment
+Covid.gov printed a biased article titled "None in the Last 5 years"	entailment
+Covid.gov is funded by the **United States** government	entailment
+Covid.gov is a website	entailment
+Covid.gov covers the following topics: Symptoms and Care, At Home Testing, and information on Travel.	entailment

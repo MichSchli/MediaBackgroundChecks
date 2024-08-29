@@ -1,0 +1,23 @@
+Annette Jordan is the founder of Asheboro Courier-Tribune	contradiction
+Gannett owns Asheboro Courier-Tribune	entailment
+Gannett is the owner of Asheboro Courier-Tribune	entailment
+Gannett bought Asheboro Courier-Tribune	entailment
+Gannett acquired Asheboro Courier-Tribune	entailment
+Asheboro Courier-Tribune is funded through advertising and subscription fees	entailment
+The remit of Asheboro Courier-Tribune is to **cover**	entailment
+The mission of Asheboro Courier-Tribune is to **provide low biased, factual news reporting and a reasonably balanced opinion page**.	entailment
+The usual audience of Asheboro Courier-Tribune is **residents of Asheboro, North Carolina, and the surrounding county of Randolph County**.	entailment
+Asheboro Courier-Tribune tends to the Least Biased	entailment
+Other sources have commented on Asheboro Courier-Tribune, stating that it tends to be **Least Biased**.	entailment
+The factuality of Asheboro Courier-Tribune is reported to be High	entailment
+The factuality of Asheboro Courier-Tribune is reported to be High, according to Mediabiasfactcheck.	entailment
+Asheboro Courier-Tribune chose not to cover **any failed fact checks in the last 5 years**	entailment
+Asheboro Courier-Tribune relies on advertising for revenue	entailment
+Asheboro Courier-Tribune relies on subscriptions for revenue	entailment
+Asheboro Courier-Tribune relies on donations for revenue	contradiction
+When aggregating stories, Asheboro Courier-Tribune relies on information from **USA Today, Associated Press**	entailment
+Annette Jordan is the editor of Asheboro Courier-Tribune	entailment
+Asheboro Courier-Tribune printed a biased article titled Warren’s big bad idea: Taxing our way to prosperity	entailment
+Asheboro Courier-Tribune paid damages to None in the Last 5 years after None in the Last 5 years	entailment
+Asheboro Courier-Tribune is funded by the U.S. government	contradiction
+Asheboro Courier-Tribune is a **newspaper**	entailment

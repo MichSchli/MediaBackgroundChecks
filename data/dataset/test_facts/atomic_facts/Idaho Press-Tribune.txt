@@ -1,0 +1,22 @@
+Matt Davison leads Idaho Press-Tribune	entailment
+Adams Publishing Group owns Idaho Press-Tribune	entailment
+Matt Davison is the owner of Idaho Press-Tribune	contradiction
+Adams Publishing Group bought Idaho Press-Tribune	entailment
+Idaho Press-Tribune is funded through **advertising and subscription fees**	entailment
+The remit of Idaho Press-Tribune is to **cover local news through journalists with minimal bias in wording**.	entailment
+The mission of Idaho Press-Tribune is to  report the news factually and with a slight Left-leaning bias.	entailment
+The Idaho Press-Tribune tends to the left	entailment
+Other sources have commented on Idaho Press-Tribune, stating that it tends to be Left-Center Biased	entailment
+The factuality of Idaho Press-Tribune is reported to be High	entailment
+The factuality of Idaho Press-Tribune is reported to be High, according to a clean fact check record.	entailment
+Idaho Press-Tribune failed a fact-check for an article titled "Man charged with two felonies in fatal hit-and-run crash".	contradiction
+Idaho Press-Tribune chose not to cover **failed fact checks**	entailment
+Idaho Press-Tribune relies on advertising for revenue	entailment
+Idaho Press-Tribune relies on subscriptions for revenue	entailment
+Idaho Press-Tribune relies on donations for revenue	contradiction
+When aggregating stories, Idaho Press-Tribune relies on information from the [Associated Press](https://www.bozemandailychronicle.com/news/city/bozeman-continues-to-foster-midtown-development/article51464c29-97fa-57b9-9535-05375f0853c8.html).	entailment
+Idaho Press-Tribune has an editorial bias towards Left.	entailment
+Idaho Press-Tribune printed a biased article titled Left-Center Biased Based on Op-eds and Endorsements.	entailment
+Idaho Press-Tribune had to apologize for **None in the Last 5 years**	entailment
+Idaho Press-Tribune is funded by the **private** government	contradiction
+Idaho Press-Tribune is a daily newspaper	entailment

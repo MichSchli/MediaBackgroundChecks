@@ -1,0 +1,18 @@
+Bradley Cameron is the owner of Pensacola Times	entailment
+Pensacola Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Pensacola Times is to **provide objective, data-driven information without political bias**	contradiction
+The mission of Pensacola Times is to **fill the void in community news**.	contradiction
+The usual audience of Pensacola Times is right-center, biased, and Questionable.	entailment
+Pensacola Times tends to the right-center	entailment
+Pensacola Times tends to the right-center, according to Media Bias/Fact Check.	entailment
+Other sources have commented on Pensacola Times, stating that it tends to be right-center.	entailment
+The factuality of Pensacola Times is reported to be questionable	entailment
+The factuality of Pensacola Times is reported to be Questionable, according to D. Van Zandt 04/09/2021.	entailment
+Pensacola Times printed a retraction after failing a fact-check for an article titled "Partisan News Outlets Seek to Fill Void in US News Deserts"	entailment
+Pensacola Times chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+Pensacola Times relies on advertising for revenue	entailment
+Pensacola Times relies on donations for revenue	entailment
+Pensacola Times has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Pensacola Times relies on information from **algorithmically produced content**	entailment
+Pensacola Times has endorsed right-center, biased, and Questionable.	entailment
+Pensacola Times has an editorial bias towards conservative-leaning.	entailment

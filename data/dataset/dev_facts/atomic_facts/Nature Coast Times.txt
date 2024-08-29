@@ -1,0 +1,14 @@
+Metric Media Foundation owns Nature Coast Times	entailment
+Nature Coast Times is funded through donations and grants	entailment
+The remit of Nature Coast Times is to **provide objective, data-driven information without political bias**	contradiction
+The mission of Nature Coast Times is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of Nature Coast Times is right-center biased.	entailment
+Nature Coast Times tends to the right-center	entailment
+Nature Coast Times tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on Nature Coast Times, stating that it tends to be **right-center biased**	entailment
+The factuality of Nature Coast Times is reported to be Questionable	entailment
+The factuality of Nature Coast Times is reported to be Questionable, according to D. Van Zandt 	entailment
+Nature Coast Times relies on advertising for revenue	entailment
+Nature Coast Times relies on donations for revenue	entailment
+When aggregating stories, Nature Coast Times relies on information from **algorithmically produced content**.	entailment
+Nature Coast Times has an editorial bias towards conservative	entailment

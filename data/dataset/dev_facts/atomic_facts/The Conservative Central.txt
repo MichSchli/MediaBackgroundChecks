@@ -1,0 +1,12 @@
+The remit of The Conservative Central is to **publish news and opinion stories**.	entailment
+The usual audience of The Conservative Central is **right-leaning**	entailment
+The Conservative Central tends to the  Right	entailment
+The Conservative Central tends to the  according to right-leaning viewpoints	entailment
+Other sources have commented on The Conservative Central, stating that it tends to be **right biased**.	entailment
+The factuality of The Conservative Central is reported to be Questionable	entailment
+The factuality of The Conservative Central is reported to be Questionable, according to D. Van Zandt 11/7/2020.	entailment
+The Conservative Central failed a fact-check for an article titled "It has never been fact-checked."	entailment
+When aggregating stories, The Conservative Central relies on information from **right-leaning sources**	entailment
+The Conservative Central has endorsed **extreme right viewpoints**.	entailment
+The Conservative Central has an editorial bias towards **right**	entailment
+The Conservative Central had to apologize to **no one** for **never been fact-checked**.	contradiction

@@ -1,0 +1,21 @@
+Gina McCarthy is the CEO of Natural Resources Defense Council.	entailment
+Gina McCarthy leads Natural Resources Defense Council	entailment
+NRDC bought Natural Resources Defense Council	contradiction
+NRDC acquired Natural Resources Defense Council	contradiction
+Natural Resources Defense Council is funded through donations and grants	entailment
+The remit of Natural Resources Defense Council is to **seek sustainable policies from federal, state, and local government and industrial corporations**.	entailment
+The mission of Natural Resources Defense Council is to advocate sustainable policies from federal, state, and local government and industrial corporations.	entailment
+The usual audience of Natural Resources Defense Council is Left biased	entailment
+Natural Resources Defense Council tends to the environment	entailment
+Natural Resources Defense Council tends to the **environment** according to **their mission**	entailment
+Other sources have commented on Natural Resources Defense Council, stating that it tends to be left biased.	entailment
+The factuality of Natural Resources Defense Council is reported to be Mostly Factual	entailment
+The factuality of Natural Resources Defense Council is reported to be Mostly Factual, according to D. Van Zandt	entailment
+Natural Resources Defense Council provides original content written by staff journalists	entailment
+Natural Resources Defense Council relies on donations for revenue	entailment
+Natural Resources Defense Council has received donations from the Energy Foundation	entailment
+Natural Resources Defense Council has endorsed environmental activism	entailment
+Natural Resources Defense Council has an editorial bias towards **the left**	entailment
+Natural Resources Defense Council was fined $250 million	entailment
+Natural Resources Defense Council printed a biased article titled **Trump’s Cabinet of Horrors**	entailment
+Natural Resources Defense Council printed a factually misleading titled  "Tackling Climate Change Through Diet Change"	entailment

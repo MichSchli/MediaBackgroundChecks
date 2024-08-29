@@ -1,0 +1,14 @@
+History
+Founded in 2017, AmoMama is an entertainment news website that is geared toward a female audience. The website claims that 98% of its readership is female. According to their
+[about page](https://news.amomama.com/about-us), they state “Every day we work hard to make our content quality higher and more relevant for our audience. Our team is a group of professionals who are fully engaged in all content-creating a process and devote themselves to serve the needs of our Facebook followers.”
+They also disclaim, “Here at NEWS.AMOMAMA.COM, we believe nonpartisan and transparent fact-checking can be a powerful instrument of media accountability.”
+Funded by / Ownership
+The website does not openly disclose ownership; however, AmoMama is owned
+[AmoMama Media Limited](https://opencorporates.com/companies/cy/HE376141), based in Cyprus. The director is listed as Marija Kesic. Revenue appears to be primarily derived through advertising.
+Analysis / Bias
+In review, AmoMama primarily reports on entertainment news and celebrity gossip. Headlines use minimally loaded language, such as this
+[Celebrity Couples Who Got Back Together after a Breakup or Divorce](https://news.amomama.com/171395-celebrity-couples-who-got-back-together.html). Stories are usually properly sourced to other credible media outlets. The website also publishes world news with minimal bias and proper sourcing such as this [Hurricane Dorian Leaves around 70,000 People Homeless in the Bahamas](https://news.amomama.com/171666-hurricane-dorian-leaves-70000-people-hom.html). Although they claim on their about page that they do not cover politics, there is a tab that links to political news stories.
+In general, AmoMama focuses on entertainment news utilizing proper sourcing and presenting with minimal bias; however, they do occasionally promote pseudoscience such as this:
+[12 Things You Better Get Rid of to Banish the Bad Energy](https://eng.amomama.com/106109-12-things-you-should-get-rid-banish-bad.html).
+Failed Fact Checks
+- None found

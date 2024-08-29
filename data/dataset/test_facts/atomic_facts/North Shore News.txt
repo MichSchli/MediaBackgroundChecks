@@ -1,0 +1,24 @@
+Glacier Media Group owns North Shore News	entailment
+Glacier Media Group bought North Shore News	entailment
+North Shore News is funded through advertising and subscriptions	entailment
+The remit of North Shore News is to **report news factually**	entailment
+The usual audience of North Shore News is Left-Center Biased	entailment
+North Shore News tends to the left	entailment
+Other sources have commented on North Shore News, stating that it tends to be Left-Center Biased	entailment
+The factuality of North Shore News is reported to be High	entailment
+The factuality of North Shore News is reported to be High, according to D. Van Zandt	entailment
+North Shore News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+North Shore News printed a retraction after failing a fact-check for an article titled "B.C. court upholds three-year drug trafficking sentence"	contradiction
+North Shore News relies on advertising for revenue	entailment
+North Shore News relies on subscriptions for revenue	contradiction
+North Shore News relies on donations for revenue	contradiction
+North Shore News has received donations from [Glacier Media Group](https://www.glaciermedia.ca/brands/media-directory#Community+Media).	entailment
+When aggregating stories, North Shore News relies on information from [the Canadian Press](https://mediabiasfactcheck.com/2018/06/15/fact-check-of-trumps-canadian-trade-stats/), [Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+North Shore News has endorsed Left-Center Bias	entailment
+North Shore News has an editorial bias towards **the left**	entailment
+North Shore News printed a biased article titled Opinion: The invisible effects of human activity on nature.	entailment
+North Shore News's headquarter is located in North Vancouver	entailment
+North Shore News is funded by the Canadian government	contradiction
+North Shore News is a left-center biased	entailment
+North Shore News uses a peer review process	entailment
+North Shore News covers the following topics: sports, weather, national, world, and local news	entailment

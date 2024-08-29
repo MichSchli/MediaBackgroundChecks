@@ -1,0 +1,20 @@
+Who is the founder of Sentencing Project	entailment
+Sentencing Project is funded through donations	entailment
+The remit of Sentencing Project is to promote reforms in sentencing policy, address unjust racial disparities and practices, and advocate for alternatives to incarceration.	entailment
+The mission of Sentencing Project is to promote reforms in sentencing policy, address unjust racial disparities and practices, and advocate for alternatives to incarceration.	entailment
+The usual audience of Sentencing Project is  Left-Center biased based on editorial positions and advocacy that favor the left.	entailment
+The Sentencing Project tends to the fair U.S. criminal justice system	entailment
+Other sources have commented on Sentencing Project, stating that it tends to be Left-Center	entailment
+The factuality of Sentencing Project is reported to be High	entailment
+The factuality of Sentencing Project is reported to be High, according to D. Van Zandt	entailment
+Sentencing Project failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Sentencing Project printed a retraction after failing a fact-check for an article titled "None in the Last 5 years."	contradiction
+Sentencing Project chose not to cover failed fact checks	entailment
+Sentencing Project relies on advertising for revenue	entailment
+Sentencing Project relies on subscriptions for revenue	contradiction
+Sentencing Project relies on donations for revenue	entailment
+When aggregating stories, Sentencing Project relies on information from **government and credible media outlets**	entailment
+Sentencing Project has an editorial bias towards Left.	entailment
+Sentencing Project is funded by the United States government	contradiction
+Sentencing Project is a  non-profit 501(c)(3) organization.	entailment
+Sentencing Project covers the following topics: fair U.S. criminal justice system, racial disparities, sentencing policy reforms, alternatives to incarceration.	entailment

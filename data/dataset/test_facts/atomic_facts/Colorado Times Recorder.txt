@@ -1,0 +1,23 @@
+Jason Salzman founded Colorado Times Recorder	entailment
+Jason Salzman is the founder of Colorado Times Recorder	entailment
+Colorado Times Recorder is funded through advertising and donations	entailment
+The remit of Colorado Times Recorder is to cover Colorado politics from a progressive perspective.	entailment
+The mission of Colorado Times Recorder is to advance or illuminate the progressive values of freedom, justice, responsibility, opportunity, and equality.	entailment
+The usual audience of Colorado Times Recorder is **progressive**	entailment
+Colorado Times Recorder tends to the left	entailment
+Other sources have commented on Colorado Times Recorder, stating that it tends to be left biased	entailment
+The factuality of Colorado Times Recorder is reported to be High	entailment
+The factuality of Colorado Times Recorder is reported to be High, according to Media Bias Fact Check.	entailment
+Colorado Times Recorder failed a fact-check for an article titled None in the Last 5 years	contradiction
+Colorado Times Recorder printed a retraction after failing a fact-check for an article titled GOP Candidate Buckley Paid Himself Thousands in Improper Mileage Reimbursements.	contradiction
+Colorado Times Recorder chose not to cover failed fact checks.	entailment
+Colorado Times Recorder relies on advertising for revenue	entailment
+Colorado Times Recorder relies on donations for revenue	entailment
+When aggregating stories, Colorado Times Recorder relies on information from **credible sources such as The Colorado Springs Gazette and government sources**.	entailment
+Colorado Times Recorder has endorsed **progressive left editorial positions**	entailment
+Colorado Times Recorder has an editorial bias towards the left	entailment
+Colorado Times Recorder had to apologize for **failing to fact-check an article about a GOP candidate.**	contradiction
+Colorado Times Recorder is funded by the  government	entailment
+Colorado Times Recorder is a **left-biased**	entailment
+Colorado Times Recorder uses a peer review process	entailment
+Colorado Times Recorder covers the following topics: Colorado politics	entailment

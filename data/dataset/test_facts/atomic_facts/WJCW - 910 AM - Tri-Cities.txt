@@ -1,0 +1,19 @@
+WJCW - 910 AM - Tri-Cities	entailment
+Cumulus Media owns WJCW - 910 AM - Tri-Cities	entailment
+Cumulus Media bought WJCW - 910 AM - Tri-Cities	contradiction
+Cumulus Media acquired WJCW - 910 AM - Tri-Cities	entailment
+The remit of WJCW - 910 AM - Tri-Cities is to **publish local news stories and conservative talk radio shows**	entailment
+The mission of WJCW - 910 AM - Tri-Cities is to **broadcast conservative news talk shows and publish local and political news on their website**	entailment
+The usual audience of WJCW - 910 AM - Tri-Cities is Right Biased	entailment
+WJCW - 910 AM - Tri-Cities tends to the Right	entailment
+Other sources have commented on WJCW - 910 AM - Tri-Cities, stating that it tends to be **right biased**.	entailment
+The factuality of WJCW - 910 AM - Tri-Cities is reported to be **Mixed**	entailment
+The factuality of WJCW - 910 AM - Tri-Cities is reported to be Mixed, according to D. Van Zandt 01/26/2024.	entailment
+WJCW - 910 AM - Tri-Cities relies on advertising for revenue	entailment
+WJCW - 910 AM - Tri-Cities relies on subscriptions for revenue	entailment
+WJCW - 910 AM - Tri-Cities relies on donations for revenue	contradiction
+WJCW - 910 AM - Tri-Cities has an editorial bias towards **right biased**	entailment
+WJCW - 910 AM - Tri-Cities printed a biased article titled "Right Biased based on the political affiliation of conservative radio hosts."	entailment
+WJCW - 910 AM - Tri-Cities is funded by the American government	contradiction
+WJCW - 910 AM - Tri-Cities is a right biased	entailment
+WJCW - 910 AM - Tri-Cities covers the following topics: local and political news	entailment

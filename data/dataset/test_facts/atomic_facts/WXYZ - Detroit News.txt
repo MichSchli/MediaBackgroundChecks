@@ -1,0 +1,20 @@
+The E. W. Scripps Company owns WXYZ - Detroit News	entailment
+The E. W. Scripps Company is the owner of WXYZ - Detroit News	entailment
+WXYZ - Detroit News is funded through **advertising**	entailment
+The remit of WXYZ - Detroit News is to **cover local news, sports, weather, entertainment, and crime for the greater Detroit, Michigan area.**	entailment
+The mission of WXYZ - Detroit News is to **cover local news, sports, weather, entertainment, and crime for the greater Detroit, Michigan area.**	entailment
+The usual audience of WXYZ - Detroit News is **the greater Detroit, Michigan area**	entailment
+WXYZ - Detroit News tends to the **least biased**	entailment
+Other sources have commented on WXYZ - Detroit News, stating that it tends to be **least biased**	entailment
+The factuality of WXYZ - Detroit News is reported to be High	entailment
+The factuality of WXYZ - Detroit News is reported to be *High*, according to *Mediabiasfactcheck.com*.	entailment
+WXYZ - Detroit News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WXYZ - Detroit News chose not to cover op-eds	entailment
+WXYZ - Detroit News relies on advertising for revenue	entailment
+WXYZ - Detroit News relies on donations for revenue	contradiction
+When aggregating stories, WXYZ - Detroit News relies on information from various sources.	entailment
+WXYZ - Detroit News has an editorial bias towards Least Biased.	entailment
+D. Van Zandt is the editor of WXYZ - Detroit News	contradiction
+WXYZ - Detroit News printed a biased article titled **None**	entailment
+WXYZ - Detroit News is funded by the American government	entailment
+WXYZ - Detroit News covers the following topics: local news, sports, weather, entertainment, and crime	entailment

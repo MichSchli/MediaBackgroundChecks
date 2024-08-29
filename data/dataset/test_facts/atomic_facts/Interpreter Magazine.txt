@@ -1,0 +1,26 @@
+Atlantic Council founded Interpreter Magazine	entailment
+Interpreter Magazine is the founder of Interpreter Magazine	contradiction
+Interpreter Magazine owns Interpreter Magazine.	contradiction
+Interpreter Magazine is the owner of Interpreter Magazine	contradiction
+The text snippet does not contain the answer to the fill-in-the-blank question.	entailment
+Interpreter Magazine is funded through **donations**	entailment
+The remit of Interpreter Magazine is to **translate articles from the Russian press into other languages**	contradiction
+The mission of Interpreter Magazine is to translate articles from the Russian press into other languages.	contradiction
+The usual audience of Interpreter Magazine is Left-Center Biased	entailment
+Interpreter Magazine tends to the Left-Center Biased	entailment
+Other sources have commented on Interpreter Magazine, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Interpreter Magazine is reported to be High	entailment
+The factuality of Interpreter Magazine is reported to be High, according to mediabiasfactcheck.com.	entailment
+Interpreter Magazine failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Interpreter Magazine printed a retraction after failing a fact-check for an article titled "None in the Last 5 years."	contradiction
+Interpreter Magazine relies on advertising for revenue	contradiction
+Interpreter Magazine relies on subscriptions for revenue	contradiction
+Interpreter Magazine relies on donations for revenue	entailment
+Interpreter Magazine has endorsed left-Center Bias	entailment
+Interpreter Magazine has an editorial bias towards Left-Center.	entailment
+Interpreter Magazine is the editor of Interpreter Magazine	entailment
+Interpreter Magazine printed a factually misleading titled "Little did we realize then that the Interpreter would devote as much energy to covering what the Russian Federation got up to outside of its own borders."	entailment
+Interpreter Magazine's headquarter is located in New York City	entailment
+Interpreter Magazine is funded by the **United States** government	contradiction
+Interpreter Magazine is a  Left-Center Biased	entailment
+Interpreter Magazine covers the following topics: Russia’s involvement in international affairs, primarily focused on Syria, Crimea, and the war in Ukraine.	entailment

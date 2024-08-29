@@ -1,0 +1,23 @@
+Ryohei Murayama founded The Asahi Shimbun	entailment
+Ryohei Murayama is the founder of The Asahi Shimbun	contradiction
+Michiko Murayama owns The Asahi Shimbun	entailment
+Michiko Murayama is the owner of The Asahi Shimbun	entailment
+Michiko Murayama acquired The Asahi Shimbun	contradiction
+The Asahi Shimbun is funded through advertising and a metered paywall	entailment
+The remit of The Asahi Shimbun is to **cover wire articles, press releases, as well as opinion pieces regarding politics.**	entailment
+The mission of The Asahi Shimbun is to **provide quality journalism**	entailment
+The usual audience of The Asahi Shimbun is **Left-Center**	entailment
+The Asahi Shimbun tends to the Left-Center	entailment
+The Asahi Shimbun tends to the  according to 	entailment
+Other sources have commented on The Asahi Shimbun, stating that it tends to be **Left-Center biased**	entailment
+The factuality of The Asahi Shimbun is reported to be High	entailment
+The factuality of The Asahi Shimbun is reported to be high, according to a factual search.	entailment
+The Asahi Shimbun printed a retraction after failing a fact-check for an article titled "The School Scandal Haunting Japan Prime Minister Abe: QuickTake"	contradiction
+The Asahi Shimbun chose not to cover [Comfort Women and investigations into Fukushima](https://foreignpolicy.com/2016/05/27/the-silencing-of-japans-free-press-shinzo-abe-media/)	contradiction
+The Asahi Shimbun relies on advertising for revenue	entailment
+The Asahi Shimbun relies on subscriptions for revenue	entailment
+The Asahi Shimbun relies on donations for revenue	contradiction
+The Asahi Shimbun has received donations from **advertising and a metered paywall**	entailment
+When aggregating stories, The Asahi Shimbun relies on information from wire articles, press releases, as well as opinion pieces regarding politics.	entailment
+The Asahi Shimbun has endorsed **left**	entailment
+The Asahi Shimbun has an editorial bias towards **left**	entailment

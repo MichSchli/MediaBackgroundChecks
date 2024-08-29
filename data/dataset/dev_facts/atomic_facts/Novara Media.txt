@@ -1,0 +1,20 @@
+Aaron Bastani is the founder of Novara Media	entailment
+Thousand Hands Ltd owns Novara Media	entailment
+Thousand Hands Ltd is the owner of Novara Media.	entailment
+Novara Media is funded through donations, sales of merchandise, and tickets for events.	entailment
+The remit of Novara Media is to **address the issues that are set to define the 21st century, from a crisis of capitalism to racism and climate change**	entailment
+The mission of Novara Media is to **address the issues that are set to define the 21st century, from a crisis of capitalism to racism and climate change.**	entailment
+The usual audience of Novara Media is **individuals who lean far-left politically**	entailment
+Novara Media tends to the far-left	entailment
+Other sources have commented on Novara Media, stating that it tends to be far-left biased.	entailment
+The factuality of Novara Media is reported to be Mixed	entailment
+The factuality of Novara Media is reported to be Mixed, according to Media Bias Fact Check.	entailment
+Novara Media chose not to cover **Failed Fact Checks**	entailment
+Novara Media relies on advertising for revenue	contradiction
+Novara Media relies on subscriptions for revenue	entailment
+Novara Media relies on donations for revenue	entailment
+Novara Media has endorsed Luxury Communism	entailment
+Novara Media has an editorial bias towards far-left-wing perspective.	entailment
+Novara Media was fined 	entailment
+Novara Media printed a biased article titled "Why Do We Still Fetishise Homeownership?"	entailment
+Novara Media printed a factually misleading titled "A Prestigious London University Has Suspended Four Latinx Cleaners for Protesting Racist Pay, Falsely Accusing Them of Violence".	entailment

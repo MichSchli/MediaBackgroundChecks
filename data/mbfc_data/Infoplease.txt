@@ -1,0 +1,18 @@
+History
+Founded in 1938 as a radio quiz show,
+[Information Please](https://www.gcls.org/infoplease-all-knowledge-you-need) became an annual almanac before going online in 1998 as a free [encyclopedia](https://www.infoplease.com/about-us).
+In 2000, Pearson Education acquired the Family Education Network (FEN), which included
+[Infoplease](https://www.infoplease.com/about-us) and Fact Monster. At the time, FEN was the biggest homeschool community and had a series of educational websites connected to it. Pearson Education then sold FEN to [Sandbox Group](https://es.linkedin.com/company/sbx-group?trk=ppro_cprof) in 2015, a London-based company founded by Bhav Singh in 2014 that operates a network of learning businesses, including Fact Monster, CoolMathGames, and PlayKids. Their edutainment products reach over 60 million children, parents, and teachers. [View our profile on UK Media and Government](https://mediabiasfactcheck.com/united-kingdom-media-profile/).
+Funded by / Ownership
+Sandbox Group owns Infoplease, a London-based company founded by
+[Bhav Singh](https://www.crunchbase.com/person/bhav-singh). Infoplease generates revenue from advertising.
+Analysis / Bias
+While Infoplease is an informational resource providing facts and data on various topics, it also publishes news articles under its “Current Events” section, such as “
+[Alarm In Houston As Dozens Of Migrants Children Reported Missing.”](https://www.infoplease.com/current-events/2022/september-us-news#Alarm%20In%20Houston%20As%20Dozens%20Of%20Migrants%20Children%20Reported%20Missing) This news story is sourced from [Reuters](https://mediabiasfactcheck.com/reuters/). Others reviewed were sourced from the [BBC](https://mediabiasfactcheck.com/bbc/), [The Guardian](https://mediabiasfactcheck.com/the-guardian/), and [Associated Press](https://mediabiasfactcheck.com/associated-press/).
+We examined biographies of various politicians, including
+[Donald Trump](https://www.infoplease.com/people/who2-biography/donald-trump), a former right-populist American president; [Joseph](https://www.infoplease.com/people/who2-biography/joseph-biden) [Biden](https://www.infoplease.com/people/who2-biography/joseph-biden), the current left-center American president; and [Boris Johnson,](https://www.infoplease.com/people/who2-biography/boris-johnson) a former center-right Populist UK prime minister. The Trump article uses negative adjectives like “outspoken” and “flamboyant,” highlighting controversies surrounding him, such as his multiple marriages, divorces, and impeachments. This indicates a negative bias toward the former President.
+On the other hand, the Biden article focuses on his political career and accomplishments, with personal information presented more neutrally. The Boris Johnson article is a comprehensive biography but includes negative language and criticism of his character and actions. The author describes Johnson as “silly,” highlighting controversial behavior during his tenure as mayor, including getting stuck on a zip line and insulting world leaders. The article also criticizes his handling of the COVID-19 pandemic and his controversial appointment of Chris Pincher accused multiple times of sexual harassment, which is called “the final straw.”
+In general, Infoplease is fact-based and relies on credible sources; however, there is a left-leaning editorial bias when providing information on politicians.
+Failed Fact Checks
+- None in the Last 5 years. They are sometimes used as a resource for
+[fact-checkers](https://www.politifact.com/factchecks/2009/feb/27/barack-obama/federal-government-yes-big-school-spending/).

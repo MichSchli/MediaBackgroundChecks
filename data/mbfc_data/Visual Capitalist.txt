@@ -1,0 +1,14 @@
+History
+Visual Capitalist is a Canada-based online publisher focused on topics such as markets, technology, energy, and the global economy.
+[They aim](https://www.visualcapitalist.com/about/) to simplify complex information through data-driven visuals. The site acknowledges the challenge of understanding the world amidst the daily generation of massive amounts of data and positions itself as a tool for cutting through this clutter. [Read our profile on the Canadian media and government.](https://mediabiasfactcheck.com/canada-media-profile/)
+Funded by / Ownership
+Visual Capitalist is a privately held company founded by Jeff Desjardins, who is also the
+[editor-in-chief](https://www.visualcapitalist.com/masthead/#:~:text=,chief). The company is headquartered in Vancouver with an office in [New York](https://www.visualcapitalist.com/contact-us/). Revenue is generated through advertising, sponsored content, licensing graphics, selling subscriptions to VC Plus, and selling books and branded products.
+Analysis / Bias
+Visual Capitalist’s content is primarily data-driven, focusing on markets, technology, energy, and related fields. The articles feature graphics, maps, and analyses related to global economic and technological trends. Example topics include “Recession Risk: Which Sectors are Least Vulnerable?”, “Ranked: The World’s Top 10 Electronics Exporters”, and “Visualizing America’s $1 Trillion Credit Card Debt”.
+There is no overt political bias in the content. Articles like “Charted: Average Years Left to Live by Age” and “Mapped: Which Countries Recognize Israel or Palestine, or Both?” present factual data without a discernible political slant. The site does not post an opinion section and does not mix opinions into news stories.
+The graphics and articles frequently reference reputable sources like the United Nations, World Bank, and
+[Pew Research Center](https://mediabiasfactcheck.com/pew-research/). For instance, articles on topics like global gold production and carbon emissions are grounded in data from credible institutions. Corrections, when necessary, are published with articles, enhancing credibility.
+In summary, Visual Capitalist is a reliable source for data-driven content on economic and technological topics, with a clear focus on presenting information through visuals and graphics. The site maintains a neutral stance politically.
+Failed Fact Checks
+- None in the Last 5 years. They are used by fact-checkers as a reference.

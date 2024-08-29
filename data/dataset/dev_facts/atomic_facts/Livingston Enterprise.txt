@@ -1,0 +1,19 @@
+Adams Publishing Group owns Livingston Enterprise	entailment
+Stephen Adams is the owner of Livingston Enterprise	entailment
+Adams Publishing Group bought Livingston Enterprise	entailment
+Livingston Enterprise is funded through advertising and subscription fees	entailment
+The remit of Livingston Enterprise is to report local news through journalists with minimal bias.	entailment
+Livingston Enterprise tends to the Left-Center	entailment
+Livingston Enterprise tends to the left-center according to Media Bias/Fact Check.	entailment
+Other sources have commented on Livingston Enterprise, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Livingston Enterprise is reported to be High	entailment
+The factuality of Livingston Enterprise is reported to be High, according to Mediabiasfactcheck.	entailment
+Livingston Enterprise failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Livingston Enterprise chose not to cover **any failed fact checks in the last 5 years**	entailment
+Livingston Enterprise provides original content written by staff journalists	entailment
+Livingston Enterprise relies on advertising for revenue	entailment
+Livingston Enterprise relies on subscriptions for revenue	entailment
+Livingston Enterprise relies on donations for revenue	entailment
+When aggregating stories, Livingston Enterprise relies on information from **quotes, interviews, and accounts**.	entailment
+Livingston Enterprise has an editorial bias towards Left.	entailment
+Livingston Enterprise had to apologize for **None in the Last 5 years.**	entailment

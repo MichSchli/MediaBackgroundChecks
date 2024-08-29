@@ -1,0 +1,25 @@
+Advance Publications owns The Express-Times (Lehigh Valley)	entailment
+Advance Publications is the owner of The Express-Times (Lehigh Valley)	entailment
+Advance Publications bought The Express-Times (Lehigh Valley)	entailment
+The Express-Times (Lehigh Valley) is funded through advertising and subscriptions	entailment
+The remit of The Express-Times (Lehigh Valley) is to **cover local news through journalism with minimal loaded words and bias**.	entailment
+The Express-Times (Lehigh Valley) tends to the Left	entailment
+Other sources have commented on The Express-Times (Lehigh Valley), stating that it tends to be Left-Center Biased	entailment
+The factuality of The Express-Times (Lehigh Valley) is reported to be High	entailment
+The factuality of The Express-Times (Lehigh Valley) is reported to be High, according to D. Van Zandt 2/2/2019	entailment
+The Express-Times (Lehigh Valley) failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+The Express-Times (Lehigh Valley) printed a retraction after failing a fact-check for an article titled *None in the Last 5 years*	contradiction
+The Express-Times (Lehigh Valley) chose not to cover **any failed fact checks in the last 5 years**	entailment
+The Express-Times (Lehigh Valley) provides original content written by staff journalists	entailment
+The Express-Times (Lehigh Valley) relies on advertising for revenue	entailment
+The Express-Times (Lehigh Valley) relies on subscriptions for revenue	entailment
+The Express-Times (Lehigh Valley) relies on donations for revenue	contradiction
+When aggregating stories, The Express-Times (Lehigh Valley) relies on information from the Associated Press, Tribune News Service, and the Washington Post.	entailment
+The Express-Times (Lehigh Valley) has endorsed Democratic Candidates such as Barack Obama in 2008.	entailment
+The Express-Times (Lehigh Valley) has an editorial bias towards **left**	entailment
+The Express-Times (Lehigh Valley) printed a biased article titled Left-Center Biased Based on Editorial Positions That Moderately Favor the Left.	entailment
+The Express-Times (Lehigh Valley) printed a factually misleading titled Left-Center Biased	contradiction
+The Express-Times (Lehigh Valley) had to apologize for [none]	entailment
+The Express-Times (Lehigh Valley) is funded by the Private sector-government	contradiction
+The Express-Times (Lehigh Valley) is a **daily broadsheet newspaper**	entailment
+The Express-Times (Lehigh Valley) covers the following topics: local news, national news	entailment

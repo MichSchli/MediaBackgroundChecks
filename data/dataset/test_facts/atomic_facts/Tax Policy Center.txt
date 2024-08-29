@@ -1,0 +1,21 @@
+TPC acquired Tax Policy Center	contradiction
+Tax Policy Center is funded through individuals, corporations, trade groups, and foundations.	entailment
+The remit of Tax Policy Center is to provide independent analyses of current and longer-term tax issues and communicate its analyses to the public and policymakers.	entailment
+The mission of Tax Policy Center is to provide independent analyses of current and longer-term tax issues and communicate its analyses to the public and policymakers.	entailment
+Tax Policy Center tends to the left	entailment
+Other sources have commented on Tax Policy Center, stating that it tends to be least biased	entailment
+The factuality of Tax Policy Center is reported to be high	entailment
+The factuality of Tax Policy Center is reported to be high, according to a review by Mediabiasfactcheck.	entailment
+Tax Policy Center failed a fact-check for an article titled **None**.	contradiction
+Tax Policy Center chose not to cover state tax issues	contradiction
+Tax Policy Center relies on advertising for revenue	contradiction
+Tax Policy Center relies on subscriptions for revenue	contradiction
+Tax Policy Center relies on donations for revenue	entailment
+Tax Policy Center has received donations from individuals, corporations, trade groups, and foundations, including the Ford Foundation, the Bill and Melinda Gates Foundation, and the Rockefeller Foundation.	entailment
+When aggregating stories, Tax Policy Center relies on information from **credible sources of information**	entailment
+Tax Policy Center has an editorial bias towards LEFT-CENTER.	entailment
+Tax Policy Center printed a biased article titled "A Big Error in the Senate Republicans’ Balanced Budget Amendment".	entailment
+Tax Policy Center's headquarter is located in Washington, D.C.	entailment
+The Tax Policy Center is funded by the **United States** government	contradiction
+Tax Policy Center is a nonpartisan think tank.	entailment
+Tax Policy Center covers the following topics: **fair, simple, and efficient taxation, social policy in the tax code, business tax reform, long-term implications of tax and budget choices, and state tax issues**	entailment

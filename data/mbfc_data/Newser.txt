@@ -1,0 +1,12 @@
+History
+Launched in 2007, Newser is a news aggregation website that summarizes the news that it aggregates through human editors. According to their
+[about page:](http://www.newser.com/what-is-newser.aspx) “Newser is a news curator with a kick. Our editors hand-pick the best stories from hundreds of US and international sources and summarize them into sharply written, easy-to-digest news briefs.” The website’s founder is author [Michael Wolff](https://en.wikipedia.org/wiki/Michael_Wolff_(journalist)), who wrote Fire and Fury: Inside the Trump White House. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Newser LLC, owned by Michael Wolff, publishes Newser. Advertising generates revenue.
+Analysis / Bias
+Newser aggregates and curates news stories from other sources and summarizes them into short, easy-to-read articles. Headlines reflect the article’s content and use minimally loaded language such as this
+[Biden Sending Thousands More Troops to Europe.](https://www.newser.com/story/316418/biden-sending-thousands-more-troops-to-europe.html) Source selection derives from credible news wires such as the [Associated Press](https://mediabiasfactcheck.com/associated-press/), [Reuters](https://mediabiasfactcheck.com/reuters/), and [AFP](https://mediabiasfactcheck.com/afp-agence-france-presse/), as well as major sources, the [New York Times](https://mediabiasfactcheck.com/new-york-times/) and [Wall Street Journal](https://mediabiasfactcheck.com/wall-street-journal/).
+Editorially and politically, more stories favor the left and denigrate the right such as this
+[After Graham Balks at Pardons for Rioters, a Trump Slam](https://www.newser.com/story/316419/after-graham-balks-at-pardons-for-rioters-a-trump-slam.html), and [This Is the Way to Interview Trump](https://www.newser.com/story/315684/npr-host-shows-how-to-interview-trump.html). In general, more stories favor the left and come from credible sources.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,16 @@
+Sarah Rosen Wartell leads Urban Institute.	entailment
+Johnson bought Urban Institute	contradiction
+Urban Institute is funded through donations	entailment
+The remit of Urban Institute is to **carry out economic and social policy research**	entailment
+The mission of Urban Institute is to  conduct economic and social policy research.	entailment
+Urban Institute tends to the left	entailment
+Other sources have commented on Urban Institute, stating that it tends to be **Left-Center biased**	entailment
+The factuality of Urban Institute is reported to be High	entailment
+The factuality of Urban Institute is reported to be High, according to Mediabiasfactcheck.	entailment
+Urban Institute relies on advertising for revenue	entailment
+Urban Institute relies on subscriptions for revenue	contradiction
+Urban Institute relies on donations for revenue	entailment
+Urban Institute has an editorial bias towards **the left**	entailment
+Urban Institute's headquarter is located in Washington DC	entailment
+Urban Institute is funded by the United States government.	entailment
+Urban Institute is a non-profit organization	entailment

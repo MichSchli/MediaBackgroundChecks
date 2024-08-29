@@ -1,0 +1,20 @@
+Raphael Shore owns Jewish Unpacked	entailment
+Jewish Unpacked is funded through donations, online advertising, and merchandise sales	entailment
+The remit of Jewish Unpacked is to **address issues related to Israel and Judaism**.	entailment
+The mission of Jewish Unpacked is to promote the organization’s mission to a wider audience.	entailment
+Jewish Unpacked tends to the **right-Center**	entailment
+Other sources have commented on Jewish Unpacked, stating that it tends to be **Right-Center biased**.	entailment
+The factuality of Jewish Unpacked is reported to be high	entailment
+The factuality of Jewish Unpacked is reported to be high, according to Media Bias Fact Check.	entailment
+Jewish Unpacked chose not to cover the marginalization of Jewish students in progressive spaces.	contradiction
+Jewish Unpacked relies on advertising for revenue	entailment
+Jewish Unpacked relies on subscriptions for revenue	entailment
+Jewish Unpacked relies on donations for revenue	entailment
+Jewish Unpacked has received donations from **online advertising, and merchandise sales**	entailment
+When aggregating stories, Jewish Unpacked relies on information from **OpenDor and other contributors**	entailment
+Jewish Unpacked has endorsed **the pro-Israel government political stances**	entailment
+Jewish Unpacked has an editorial bias towards **right-leaning pro-Israeli biases**	entailment
+Jewish Unpacked had to apologize for **factual error**	contradiction
+Jewish Unpacked's headquarter is located in **the United States**	entailment
+Jewish Unpacked is a website	entailment
+Jewish Unpacked covers the following topics: Jewish issues from OpenDor and other contributors.	entailment

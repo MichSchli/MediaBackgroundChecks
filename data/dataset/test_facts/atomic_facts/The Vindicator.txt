@@ -1,0 +1,24 @@
+Robert Nutting is the founder of The Vindicator	contradiction
+Robert Nutting is the CEO of The Vindicator	entailment
+Ogden Newspapers Inc. owns The Vindicator	entailment
+Ogden Newspapers Inc. is the owner of The Vindicator	entailment
+Ogden Newspapers Inc.	entailment
+The Vindicator is funded through advertising and subscription fees	entailment
+The remit of The Vindicator is to **produce original news covering the Youngstown, Ohio, region**	entailment
+The mission of The Vindicator is to inform.	entailment
+The usual audience of The Vindicator is **local residents in Youngstown, Ohio, and the Mahoning County region, as well as southern Trumbull County and northern Columbiana County**	entailment
+The Vindicator tends to the **Least Biased**	entailment
+Other sources have commented on The Vindicator, stating that it tends to be Least Biased	entailment
+The factuality of The Vindicator is reported to be High	entailment
+The factuality of The Vindicator is reported to be High, according to Mediabiasfactcheck.	entailment
+The Vindicator failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+The Vindicator printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Vindicator chose not to cover **failed fact checks**.	entailment
+The Vindicator relies on advertising for revenue	entailment
+The Vindicator relies on subscriptions for revenue	entailment
+The Vindicator relies on donations for revenue	contradiction
+When aggregating stories, The Vindicator relies on information from **the Associated Press**	entailment
+The Vindicator has an editorial bias towards least biased	entailment
+The Vindicator printed a biased article titled "None in the Last 5 years"	contradiction
+The Vindicator printed a factually misleading titled  "Laying of the Roses ceremony honors service members killed in Vietnam"	contradiction
+The Vindicator is a daily broadsheet newspaper	entailment

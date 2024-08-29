@@ -1,0 +1,18 @@
+Prime Media Network owns Watchdog Report.	entailment
+Watchdog Report is funded through **advertising revenue**	entailment
+The remit of Watchdog Report is to **bring you unfiltered, unbiased news from every corner of the USA**	contradiction
+The mission of Watchdog Report is to bring unfiltered, unbiased news from every corner of the USA.	contradiction
+The usual audience of Watchdog Report is right biased and borderline Questionable due to a lack of transparency, the use of poor sources, and reporting from a one-sided conservative perspective.	entailment
+Watchdog Report tends to the right biased	entailment
+Watchdog Report tends to the right according to Media Bias/Fact Check	entailment
+Other sources have commented on Watchdog Report, stating that it tends to be **right biased**.	entailment
+The factuality of Watchdog Report is reported to be borderline Questionable	entailment
+Watchdog Report chose not to cover third-party fact-checks.	entailment
+Watchdog Report relies on advertising for revenue	entailment
+Watchdog Report relies on subscriptions for revenue	entailment
+Watchdog Report relies on donations for revenue	entailment
+When aggregating stories, Watchdog Report relies on information from **far-right and questionable sources**	entailment
+Watchdog Report has endorsed typical conservative positions	entailment
+Watchdog Report has an editorial bias towards **right**	entailment
+D. Van Zandt is the editor of Watchdog Report	entailment
+Watchdog Report printed a biased article titled Joe Biden Refuses to Tackle Illegal Immigrants Bringing COVID Into America	entailment

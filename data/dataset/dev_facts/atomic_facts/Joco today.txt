@@ -1,0 +1,21 @@
+Joco Today leads Joco today	contradiction
+Metric Media Foundation owns Joco today	entailment
+Joco today is funded through advertising and donations.	entailment
+The remit of Joco today is to **publish false information**	entailment
+The mission of Joco today is to **imposter site, lacks transparency, and publishes false information**.	entailment
+The usual audience of Joco today is right-center	entailment
+Joco today tends to the right-center	entailment
+Joco today tends to the right-center according to D. Van Zandt	entailment
+Other sources have commented on Joco today, stating that it tends to be **right-center**	contradiction
+The factuality of Joco today is reported to be Questionable	entailment
+The factuality of Joco today is reported to be Questionable, according to D. Van Zandt 11/25/2021	entailment
+The article titled "is an imposter site, lacks transparency, and publishes false information"	entailment
+Joco today chose not to cover an imposter site	contradiction
+Joco today relies on advertising for revenue	entailment
+Joco today relies on donations for revenue	entailment
+Joco today has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Joco today relies on information from **algorithmically produced content**.	entailment
+Joco today has endorsed **right-center, biased, and Questionable**	entailment
+Joco today has an editorial bias towards conservative	entailment
+Joco today printed a biased article titled "An Imposter Site, Lacks Transparency, and Publishes False Information."	entailment
+Joco today printed a factually misleading titled **information**	entailment

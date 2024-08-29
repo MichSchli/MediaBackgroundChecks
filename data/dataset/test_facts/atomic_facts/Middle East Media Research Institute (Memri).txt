@@ -1,0 +1,24 @@
+Yigal Carmon founded Middle East Media Research Institute (Memri)	entailment
+Yigal Carmon is the founder of Middle East Media Research Institute (Memri)	entailment
+Middle East Media Research Institute (Memri)	entailment
+MEMRI acquired Middle East Media Research Institute (Memri)	contradiction
+Middle East Media Research Institute (Memri) is funded through private donors, including organizations and foundations.	entailment
+The remit of Middle East Media Research Institute (Memri) is to distribute English translations of Middle Eastern media	entailment
+The mission of Middle East Media Research Institute (Memri) is to distribute English translations of Middle Eastern media	entailment
+The usual audience of Middle East Media Research Institute (Memri) is pro-Israeli propaganda supporters.	entailment
+Middle East Media Research Institute (Memri) tends to the **promotion of Israeli propaganda**	entailment
+Other sources have commented on Middle East Media Research Institute (Memri), stating that it tends to be Questionable	entailment
+The factuality of Middle East Media Research Institute (Memri) is reported to be Questionable.	entailment
+The factuality of Middle East Media Research Institute (Memri) is reported to be questionable, according to the promotion of Israeli propaganda, poor sourcing, and a few failed fact checks.	entailment
+Middle East Media Research Institute (Memri) failed a fact-check for an article titled "ISIS called for the assassination of Barron Trump in November 2017".	entailment
+Middle East Media Research Institute (Memri) printed a retraction after failing a fact-check for an article titled **"ISIS called for the assassination of Barron Trump in November 2017."**	contradiction
+Middle East Media Research Institute (Memri) relies on subscriptions for revenue	entailment
+Middle East Media Research Institute (Memri) relies on donations for revenue	entailment
+Middle East Media Research Institute (Memri) has received donations from around 250 private donors, including other organizations and foundations.	entailment
+Middle East Media Research Institute (Memri) has endorsed Israeli propaganda	entailment
+Middle East Media Research Institute (Memri) has an editorial bias towards **pro-Israeli propaganda**	entailment
+Middle East Media Research Institute (Memri) printed a factually misleading titled  "Israeli propaganda organization that selectively translates materials from the Arab/Muslim/Iranian press purportedly demonstrating hostility against Israel/Jews."	entailment
+Middle East Media Research Institute (Memri)'s headquarter is located in Washington DC	entailment
+Middle East Media Research Institute (Memri) is funded by the Israeli government	contradiction
+Middle East Media Research Institute (Memri) is a **Questionable**	entailment
+Middle East Media Research Institute (Memri) covers the following topics: **political, ideological, intellectual, social, cultural, and religious trends**	entailment

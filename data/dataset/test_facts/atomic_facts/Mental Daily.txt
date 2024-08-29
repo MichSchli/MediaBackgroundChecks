@@ -1,0 +1,19 @@
+Mental Daily is funded through advertising	entailment
+The remit of Mental Daily is to cover mental health, sociology, psychopharmacology, and cyberpsychology news	entailment
+Mental Daily tends to the left	entailment
+Other sources have commented on Mental Daily, stating that it tends to be left-leaning.	entailment
+The factuality of Mental Daily is reported to be High	entailment
+The factuality of Mental Daily is reported to be high, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+"Mental Daily failed a fact-check for an article titled A Cerebral Anatomization Of Conspiratorial Beliefs"	contradiction
+Mental Daily chose not to cover COVID-19 misinformation.	contradiction
+Mental Daily relies on advertising for revenue	entailment
+Mental Daily relies on subscriptions for revenue	contradiction
+Mental Daily relies on donations for revenue	contradiction
+When aggregating stories, Mental Daily relies on information from pro-science and peer-reviewed sources.	entailment
+Mental Daily has endorsed Pro-Science	entailment
+Mental Daily has an editorial bias towards left	entailment
+Mental Daily printed a biased article titled "A Cerebral Anatomization Of Conspiratorial Beliefs".	entailment
+Mental Daily had to apologize for **None in the Last 5 years**	entailment
+Mental Daily had to apologize to no one for nothing	entailment
+Mental Daily is a psychology blog	entailment
+Mental Daily covers the following topics: mental health, sociology, psychopharmacology, and cyberpsychology.	entailment

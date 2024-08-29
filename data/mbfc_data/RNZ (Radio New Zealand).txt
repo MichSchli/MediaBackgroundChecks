@@ -1,0 +1,12 @@
+History
+[RNZ (Radio New Zealand)](https://www.rnz.co.nz/about) is a public service multimedia organization and Crown entity established under the Radio New Zealand Act 1995. Its headquarter is in Wellington, New Zealand. It is owned and operated by the New Zealand government. [Read our profile on News Zealand media and government.](https://mediabiasfactcheck.com/new-zealand-media-profile/)
+Funded by / Ownership
+[RNZ](https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/441467/shareholdings) is primarily funded and owned by the [state](https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/441467/shareholdings) and through public funding via NZ on Air. [RNZ](https://www.rnz.co.nz/national/programmes/mediawatch/audio/2018842864/public-media-s-future-funding-made-public-partly) “currently gets around $48m a year in public funding.” RNZ also receives funding from commercial sources, such as digital advertising.
+Analysis / Bias
+Radio New Zealand (RNZ) publishes news with moderately loaded language, such as
+[“Week in Politics: Nash’s resignation upsets Hipkins’ family-friendly week.”](https://www.rnz.co.nz/news/political/486148/week-in-politics-nash-s-resignation-upsets-hipkins-family-friendly-week) The author reports what the other sources said through quotes like [Newshub’s](https://mediabiasfactcheck.com/newshub-bias/) political editor and Beehive, criticizing Stuart Nash. Stuart Nash is a Labor MP who has resigned as Police Minister amid interference claims.
+RNZ utilizes sources through
+[Stuff](https://mediabiasfactcheck.com/leftcenter/) and mostly factual sources like [NewsHub](https://mediabiasfactcheck.com/newshub-bias/). Another article was published with minimally loaded language [“Robertson confident economy will see growth by end of year.”](https://www.rnz.co.nz/news/political/486139/robertson-confident-economy-will-see-growth-by-end-of-year) Finance Minister Grant Robertson is from Labor Party. The article is factual and informative on the Finance Minister’s statements and the state of the New Zealand economy. The article also notes that some economists and business groups have expressed caution and skepticism about the prospects for economic growth. Still, it presents these views in a balanced and objective manner.
+In general, RNZ is fact-based and holds little bias in reporting.
+Failed Fact Checks
+- None in the Last 5 years

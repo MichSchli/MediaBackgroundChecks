@@ -1,0 +1,13 @@
+Factual Reporting: MIXED
+Country: United Kingdom
+World Press Freedom Rank: UK 33/180
+History
+[Cambridge Analytica](https://en.wikipedia.org/wiki/Cambridge_Analytica), based in the UK, is a privately held company that combines data mining and data analysis with strategic communication for the electoral process. It was created in 2013 as an offshoot of its British parent company [SCL Group](https://en.wikipedia.org/wiki/SCL_Group) to participate in American politics. In 2014, Cambridge Analytica was involved in 44 US political races. The company is partly owned by the family of [Robert Mercer](https://en.wikipedia.org/wiki/Robert_Mercer_(businessman)), an American hedge-fund manager who supports many politically conservative causes. [Read our profile on UK’s government and media.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+Cambridge Analytica is owned by SCL Group and is
+[heavily funded](https://www.usatoday.com/story/news/world/2018/03/22/cambridge-analytica-profile/437210002/) through right wing Trump supporter Robert Mercer.
+Analysis / Bias
+In review, The Cambridge Analytica
+[mission statement](https://ca-commercial.com/missionstatement?__hstc=163013475.1721f5482132093541d9d24d4fb439a7.1521325661717.1521325661717.1521329435091.2&__hssc=163013475.1.1521329435091&__hsfp=633398250) reads: “To deliver Data-Driven Behavioral Change by understanding what motivates the individual and engaging with target audiences in ways that move them to action.” According to their website they have provided this service to mostly right leaning politicians such as Donald Trump, Ted Cruz and Ben Carson. They were also involved in the right wing [Pro-Brexit](http://www.bbc.com/news/av/uk-40423629/did-cambridge-analytica-play-a-role-in-the-eu-referendum) movement.
+The Cambridge Analytica website has a blog that publishes news related to their business interests that is usually properly sourced to credible media. On March 17, 2018 Cambridge Analytica was
+[accused](https://www.washingtonpost.com/?utm_term=.3fc32b0607bd) of Data Mining Facebook user data for the benefit of the Trump Campaign. On the same day Cambridge Analytica [released](https://ca-political.com/news/cambridge-analytica-responds-facebook-announcement) a press statement saying they complied with Facebook’s terms of service. According to [Time Magazine,](http://time.com/4783932/inside-russia-social-media-war-america/) Cambridge Analytica is under investigation for spreading false information as well as ties to Robert Mercer, [Breitbart](https://mediabiasfactcheck.com/breitbart/) and Steve Bannon.

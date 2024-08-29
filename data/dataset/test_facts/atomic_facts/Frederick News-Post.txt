@@ -1,0 +1,25 @@
+Ogden Newspapers Inc. leads Frederick News-Post	contradiction
+Ogden Newspapers Inc. owns Frederick News-Post.	entailment
+Ogden Newspapers Inc. is the owner of Frederick News-Post.	entailment
+Ogden Newspapers Inc. bought Frederick News-Post	entailment
+Ogden Newspapers Inc. acquired Frederick News-Post	entailment
+Frederick News-Post is funded through advertising and subscription fees	entailment
+The remit of Frederick News-Post is to  produce original reporting for Frederick, Maryland, and the surrounding area.	entailment
+The Frederick News-Post tends to the **right**	entailment
+Other sources have commented on Frederick News-Post, stating that it tends to be Least Biased	entailment
+The factuality of Frederick News-Post is reported to be High	entailment
+The factuality of Frederick News-Post is reported to be High, according to Mediabiasfactcheck.com	entailment
+Frederick News-Post failed a fact-check for an article titled "Bridge debris leads to fatal crash on Interstate 70"	contradiction
+Frederick News-Post chose not to cover failed fact checks	entailment
+Frederick News-Post provides original content written by staff journalists	entailment
+Frederick News-Post relies on advertising for revenue	entailment
+Frederick News-Post relies on subscriptions for revenue	entailment
+Frederick News-Post relies on donations for revenue	contradiction
+When aggregating stories, Frederick News-Post relies on information from [The Associated Press.](https://www.post-journal.com/news/local-news/2019/10/police-investigating-saturday-stabbing/)	entailment
+Frederick News-Post has an editorial bias towards slight conservative bias	entailment
+Frederick News-Post printed a biased article titled None	entailment
+Frederick News-Post had to apologize for [none]	entailment
+Frederick News-Post paid damages to No one after No failed fact checks	entailment
+Frederick News-Post's headquarter is located in Frederick	entailment
+Frederick News-Post is a newspaper	entailment
+Frederick News-Post covers the following topics: local and national news, sports, crime, and business news	entailment

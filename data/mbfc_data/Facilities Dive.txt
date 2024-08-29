@@ -1,0 +1,12 @@
+History
+Founded by Sean Griffey, Eli Dickinson, and Ryan Willumson, Facilities Dive is an online news platform that focuses on facilities management and is operated by Industry Dive, based in Washington, DC. According to its
+[about page](https://www.facilitiesdive.com/about/), “Facilities Dive provides in-depth journalism and insight into the most impactful news and trends shaping facilities management.” [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+[Industry Dive,](https://www.industrydive.com/who-we-are/about) now a subsidiary of [Informa Tech](https://www.informatech.com/brands/)—a London-based British group specializing in publishing, business intelligence, and exhibitions—was acquired by Informa PLC and operates Facilities Dive along with [other verticals](https://www.industrydive.com/publications) like FoodDive, BioPharmaDive, CFODive, and Facilities Dive. Facilities Dive generates revenue from ads and sponsored content. [Read our profile on UK media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Analysis/Bias
+Facilities Dive publishes news and information related to facilities management. Articles and headlines are minimally biased in word choices, such as this
+[Data centers turn to new on-site power generation, higher rack density: JLL](https://www.facilitiesdive.com/news/jll-global-data-center-outlook-report-liquid-cooling-onsite-renewable/706304/). This story, like all others reviewed, is properly sourced from credible media and information outlets.
+Editorially, they do not produce op-eds; however, they do report on political issues related to the industry, like this
+[DOL rule would promote apprenticeships, tighten program labor standards](https://www.facilitiesdive.com/news/dol-registered-apprenticeship-proposed-regulation/702955/). In reviewing dozens, most articles are pro-business in nature. In general, all content is factual and low-biased.
+Failed Fact Checks
+- None in the Last 5 years

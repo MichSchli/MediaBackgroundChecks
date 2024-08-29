@@ -1,0 +1,16 @@
+Dominick Mezzapesa founded Backroom Buzz	entailment
+Dominick Mezzapesa is the founder of Backroom Buzz	entailment
+Backroom Buzz is funded through advertising.	entailment
+The remit of Backroom Buzz is to **opine on current news from a conservative perspective**	entailment
+The mission of Backroom Buzz is to  provide conservative news and opinion.	entailment
+Backroom Buzz tends to the right	entailment
+Backroom Buzz tends to the right according to D. Van Zandt	entailment
+Other sources have commented on Backroom Buzz, stating that it tends to be Questionable	entailment
+The factuality of Backroom Buzz is reported to be Questionable	entailment
+The factuality of Backroom Buzz is reported to be Questionable, according to D. Van Zandt.	entailment
+Backroom Buzz provides original content written by staff journalists	contradiction
+Backroom Buzz relies on advertising for revenue	entailment
+Backroom Buzz relies on subscriptions for revenue	entailment
+Backroom Buzz relies on donations for revenue	contradiction
+Backroom Buzz has an editorial bias towards conservative.	entailment
+Backroom Buzz printed a biased article titled "Another Day, Another Democrat, Fake News Trump Controversy"	entailment

@@ -1,0 +1,21 @@
+Shu-Kun Lin is the founder of Alloys Journal	contradiction
+MDPI AG owns Alloys Journal	entailment
+Shu-Kun Lin is the owner of Alloys Journal.	entailment
+MDPI bought Alloys Journal	contradiction
+MDPI acquired Alloys Journal	entailment
+Alloys Journal is funded through **authors paying a one-time Article Processing Charge (APC)**.	entailment
+The remit of Alloys Journal is to cover the science of alloys	entailment
+The mission of Alloys Journal is to cover the science of alloys.	entailment
+Alloys Journal tends to the Pro-Science	entailment
+Alloys Journal tends to the science according to its Pro-Science nature	entailment
+Other sources have commented on Alloys Journal, stating that it tends to be **Pro-Science**.	entailment
+The factuality of Alloys Journal is reported to be Mostly Factual	entailment
+The factuality of Alloys Journal is reported to be Mostly Factual, according to M. Huitsing 12/26/2022	entailment
+Alloys Journal failed a fact-check for an article titled None for Alloys Journal; however, other MDPI journals have	contradiction
+Alloys Journal printed a retraction after failing a fact-check for an article titled Oxidation Behavior, Insulation Resistance, and Permeability of FeSiCr Alloys for Multilayer Inductors	contradiction
+Alloys Journal relies on advertising for revenue	entailment
+Alloys Journal relies on subscriptions for revenue	contradiction
+Alloys Journal relies on donations for revenue	contradiction
+When aggregating stories, Alloys Journal relies on information from [MDPI AG](https://mediabiasfactcheck.com/mdpi-multidisciplinary-digital-publishing-institute-bias/).	entailment
+Alloys Journal has an editorial bias towards Pro-Science	entailment
+Alloys Journal had to apologize for  "failed fact checks"	contradiction

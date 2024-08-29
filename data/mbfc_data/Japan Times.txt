@@ -1,0 +1,13 @@
+History
+The Japan Times is an online English Language newspaper based in Tokyo, Japan. It is published by The Japan Times, Ltd. and founded by Motosada Zumoto on March 22, 1897. At present Takeharu Tsutsumi is the president of JP.
+The Japan Times covers current events in Japan and the world, opinion articles, entertainment, and sports. The Japan Times is subscription-based, allowing the reader 5 stories before you need to
+[subscribe](https://japantimes.zendesk.com/hc/en-us/articles/200913427--I-don-t-subscribe-to-the-newspaper-Can-I-read-your-stories-online-) for more. [Read our profile on Japan’s media and government](https://mediabiasfactcheck.com/japan-media-profile/)
+Funded by / Ownership
+The Japan Times, Ltd. publishes it, generating revenue through advertising and subscriptions.
+Analysis / Bias
+When reporting Japanese national news, they are balanced in covering both sides of issues, and minimally loaded wording such as this
+[Suspect signaled Abe killing in letter to Unification Church critic](https://www.japantimes.co.jp/news/2022/07/17/national/abe-suspect-letter/). When reporting international news, The Japan Times reports with minimal bias using credible sources such as [Reuters](https://mediabiasfactcheck.com/reuters/) and the [Associated Press](https://mediabiasfactcheck.com/associated-press/).
+Editorially, op-eds cover a reasonable balance of opinions and are not hyper-partisan such as this
+[Nuclear risks mount as tensions rise and arsenals grow](https://www.japantimes.co.jp/opinion/2022/06/17/editorials/nuclear-proliferation/). In general, the Japan Times reports news factually and with minimal bias.
+Failed Fact Checks
+- None in the Last 5 years

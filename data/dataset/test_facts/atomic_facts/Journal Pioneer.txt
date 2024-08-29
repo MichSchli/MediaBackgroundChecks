@@ -1,0 +1,20 @@
+SaltWire Network owns Journal Pioneer	entailment
+SaltWire Network is the owner of Journal Pioneer	entailment
+Journal Pioneer is funded through subscriptions and advertising.	entailment
+The remit of Journal Pioneer is to report breaking news, opinion, sports, lifestyles, and crime.	entailment
+Journal Pioneer tends to the right-center	entailment
+Other sources have commented on Journal Pioneer, stating that it tends to be right-center.	entailment
+The factuality of Journal Pioneer is reported to be High	entailment
+The factuality of Journal Pioneer is reported to be High, according to M. Huitsing 09/24/2022	entailment
+Journal Pioneer failed a fact-check for an article titled None in the Last 5 years	contradiction
+Journal Pioneer relies on advertising for revenue	entailment
+Journal Pioneer relies on subscriptions for revenue	entailment
+Journal Pioneer relies on donations for revenue	contradiction
+When aggregating stories, Journal Pioneer relies on information from [Reuters](https://mediabiasfactcheck.com/reuters/)	entailment
+Journal Pioneer has endorsed a Right-Center bias	entailment
+Journal Pioneer has an editorial bias towards Right-Center	entailment
+Journal Pioneer had to apologize for **None in the Last 5 years**	entailment
+Journal Pioneer's headquarter is located in Prince Edward Island	entailment
+The Journal Pioneer is funded by the Canadian government	contradiction
+The Journal Pioneer is a newspaper	entailment
+Journal Pioneer covers the following topics: news, opinion, sports, lifestyles, and crime	entailment

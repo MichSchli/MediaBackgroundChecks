@@ -1,0 +1,21 @@
+Sean Griffey is the founder of CFO Dive	entailment
+Informa PLC owns CFO Dive	entailment
+Informa Tech bought CFO Dive	entailment
+CFO Dive is funded through [ads and sponsored content](https://www.cfo.com/).	entailment
+The remit of CFO Dive is to **provide Reporting, Q&As, and research covering accounting & tax, corporate finance, human capital, risk & compliance, strategy, technology**	entailment
+The mission of CFO Dive is to provide Reporting, Q&As, and research covering accounting & tax, corporate finance, human capital, risk & compliance, strategy, technology.	entailment
+The usual audience of CFO Dive is financial officers.	entailment
+CFO Dive tends to the news and information related to Financial Officers.	entailment
+CFO Dive tends to the reporting according to its about page	entailment
+Other sources have commented on CFO Dive, stating that it tends to be **least biased**	entailment
+The factuality of CFO Dive is reported to be least biased	entailment
+CFO Dive failed a fact-check for an article titled "32% of CFOs Believe a Recession is Highly Likely".	contradiction
+The text does not contain information filling in the blanks.	entailment
+CFO Dive relies on advertising for revenue	entailment
+CFO Dive relies on subscriptions for revenue	contradiction
+CFO Dive relies on donations for revenue	contradiction
+When aggregating stories, CFO Dive relies on information from credible media and information outlets.	entailment
+CFO Dive has endorsed **least biased**.	entailment
+CFO Dive has an editorial bias towards least biased.	entailment
+CFO Dive had to apologize for none in the Last 5 years.	entailment
+CFO Dive had to apologize to no one for nothing	entailment

@@ -1,0 +1,18 @@
+History
+Founded in 2018, Latestly is an information and news portal from India. According to their
+[about page](https://www.latestly.com/about-us/), Latestly’s mission is “to provide information for the youth to curate their perception of the news at hand.”
+Latestly focuses on trending stories in categories such as world news, politics, sports, entertainment, and lifestyle. Pittie Group, which owns Latestly, is headquartered in Mumbai.
+[Read our profile on Indian media and government.](https://mediabiasfactcheck.com/india-media-profile/)
+Funded by / Ownership
+Pittie Group owns Latestly, and
+[Aditya Pittie](https://mitenergyconference.org/adityapittie) owns Pittie group, and he is the son of Shri. Krishna Kumar (KK) Pittie, Founder and Chairman of Pittie Group. Latestly generates its revenue from online advertising and subscriptions.
+Analysis / Bias
+According to a
+[Financial Times](https://mediabiasfactcheck.com/financial-times/) article titled [“Indian opposition presses Narendra Modi on China border clashes,”](https://www.ft.com/content/ec9f9ec0-5b3f-4b94-9b4d-1930a30874af) current President Modi is subject to pressure from opposition parties over border confrontations between Indian and Chinese troops in the Himalayas. However, Latestly omits the news as it is critical of the Modi government. Instead, they publish more favorable news about Modi, such as [“COVID-19 Surge: PM Narendra Modi Cautions Against Complacency At High-Level Meet, Directs Officials to Strengthen Surveillance Measures”](https://www.latestly.com/socially/india/news/pm-narendra-modi-in-a-high-level-meeting-on-covid19-urges-wearing-masks-in-crowded-latest-tweet-by-ani-4621446.html).
+Straight news reporting tends to be low-biased and factual, like this
+[Disha Salian Death Case: Maharashtra Deputy CM Devendra Fadnavis Announces SIT Probe; BJP Demands Narco Test on Aaditya Thackeray](https://www.latestly.com/agency-news/india-news-fadnavis-announces-sit-probe-into-disha-salians-death-bjp-demands-narco-test-on-aaditya-thackeray-4620267.html). Latestly also publishes editorials tweeted by Prasar Bharati (the public broadcasting agency).
+Latestly covers world news by publishing tweets from credible news outlets such as
+[Bloomberg](https://mediabiasfactcheck.com/bloomberg/), [Reuters](https://mediabiasfactcheck.com/reuters/), and [BBC](https://mediabiasfactcheck.com/bbc/). When reporting on [U.S. President Joe Biden](https://www.latestly.com/search/?q=biden), they focus on his gaffes and false claims, such as this [U.S. President Joe Biden Recently Said He Gave His Uncle Frank Biden a Purple Heart Medal … – Latest Tweet by Snopes.com](https://www.latestly.com/socially/social-viral/fact-check/u-s-president-joe-biden-recently-said-he-gave-his-uncle-frank-biden-a-purple-heart-medal-latest-tweet-by-snopes-com-4608945.html).
+Editorially, stories favor the right-leaning Prime Minister Modi, such as this
+[Video: PM Narendra Modi Receives Best Wishes From Russian President Vladimir Putin Ahead of His Birthday](https://www.latestly.com/socially/india/news/narendramodi-watch-russian-president-vladimirputin-extends-best-wishes-to-pm-latest-tweet-by-dd-news-4213408.html). In general, Latestly is mostly fact-based and holds right-leaning editorial bias in support of the ruling party.
+Failed Fact Checks

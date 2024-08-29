@@ -1,0 +1,23 @@
+Jonathan Haidt founded Heterodox Academy	entailment
+Jonathan Haidt is the founder of Heterodox Academy	entailment
+Heterodox Academy is funded through **donations**	entailment
+The remit of Heterodox Academy is to advocate for diversity of thought and speech on college campuses, especially as it relates to politics.	entailment
+The mission of Heterodox Academy is to advocate for diversity of thought and speech on college campuses, especially as it relates to politics.	entailment
+The usual audience of Heterodox Academy is professors, educators, administrators, staff, and students.	entailment
+Heterodox Academy tends to the **right-leaning**	entailment
+Other sources have commented on Heterodox Academy, stating that it tends to be **slightly right-leaning**.	entailment
+The factuality of Heterodox Academy is reported to be High	entailment
+The factuality of Heterodox Academy is reported to be High, according to 	entailment
+Heterodox Academy chose not to cover failed fact checks	entailment
+Heterodox Academy relies on advertising for revenue	contradiction
+Heterodox Academy relies on subscriptions for revenue	contradiction
+Heterodox Academy relies on donations for revenue	entailment
+When aggregating stories, Heterodox Academy relies on information from **appropriately sourced credible information**	entailment
+Heterodox Academy has endorsed **diversity of thought and speech**	entailment
+Heterodox Academy has an editorial bias towards  promoting open inquiry, viewpoint diversity, and constructive disagreement in institutions of higher learning.	entailment
+Heterodox Academy was fined ***None***.	entailment
+Heterodox Academy printed a biased article titled "Stop Calling “Wokeness” a Religion".	entailment
+Heterodox Academy had to apologize for **not citing proper sources in a blog post**	entailment
+Heterodox Academy's headquarter is located in New York City.	entailment
+Heterodox Academy is a nonpartisan collaborative.	entailment
+Heterodox Academy covers the following topics: **diversity of thought and speech on college campuses, especially as it relates to politics, tools and resources, and promoting open inquiry and viewpoint diversity**	entailment

@@ -1,0 +1,22 @@
+Stephen Adams leads Miles City Star	entailment
+Adams Publishing Group owns Miles City Star	entailment
+Stephen Adams is the owner of Miles City Star	entailment
+Adams Publishing Group bought Miles City Star	entailment
+Miles City Star is funded through advertising and subscription fees	entailment
+The remit of Miles City Star is to report local news through journalists with minimal bias in wording.	entailment
+The mission of Miles City Star is to report the news factually and with a slight Left-leaning bias.	entailment
+The usual audience of Miles City Star is **local residents**	entailment
+Miles City Star tends to the Left	entailment
+Miles City Star tends to the left according to Media Bias Fact Check.	entailment
+Other sources have commented on Miles City Star, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Miles City Star is reported to be High	entailment
+The factuality of Miles City Star is reported to be High, according to [Media Bias Fact Check](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Miles City Star failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Miles City Star chose not to cover failed fact checks	entailment
+Miles City Star relies on advertising for revenue	contradiction
+Miles City Star relies on subscriptions for revenue	entailment
+Miles City Star has received donations from Adams Publishing Group	entailment
+When aggregating stories, Miles City Star relies on information from **quotes, interviews, and accounts, while National and world news comes directly from the Associated Press**.	entailment
+Miles City Star has endorsed **the left**	entailment
+Miles City Star has an editorial bias towards Left	entailment
+Stephen Adams is the editor of Miles City Star	contradiction

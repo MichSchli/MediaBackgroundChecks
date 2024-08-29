@@ -1,0 +1,23 @@
+Bradley Cameron is the CEO of North STL News	contradiction
+Metric Media Foundation owns North STL News.	entailment
+Metric Media LLC is the owner of North STL News	entailment
+Metric Media LLC bought North STL News	entailment
+North STL News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of North STL News is to **publish false information, lack transparency, and operate as an imposter site**	entailment
+The mission of North STL News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of North STL News is **right-center, biased, and Questionable**.	entailment
+North STL News tends to the right-center	entailment
+North STL News tends to the right-center according to Media Bias Fact Check	entailment
+Other sources have commented on North STL News, stating that it tends to be **right-center**	entailment
+The factuality of North STL News is reported to be Questionable	entailment
+The factuality of North STL News is reported to be Questionable, according to D. Van Zandt 	entailment
+North STL News chose not to cover imposter site	contradiction
+North STL News provides original content written by staff journalists	contradiction
+North STL News relies on advertising for revenue	entailment
+North STL News relies on subscriptions for revenue	contradiction
+North STL News relies on donations for revenue	entailment
+When aggregating stories, North STL News relies on information from **algorithmically produced content**	entailment
+North STL News has endorsed right-center, biased, and Questionable	entailment
+North STL News has an editorial bias towards conservative	entailment
+The North STL News was fined 	entailment
+North STL News printed a biased article titled **Imposter Site**	entailment

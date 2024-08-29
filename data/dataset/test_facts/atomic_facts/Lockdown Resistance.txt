@@ -1,0 +1,17 @@
+The remit of Lockdown Resistance is to present arguments against the pandemic response, particularly lockdowns.	entailment
+The mission of Lockdown Resistance is to present arguments against the pandemic response.	entailment
+The usual audience of Lockdown Resistance is right-biased conspiracy and pseudoscience organization based on the combination of misrepresentative content, false referencing, and the promotion of conspiracy theories, unproven and false claims regarding COVID-19, vaccines, and the government.	entailment
+Lockdown Resistance tends to the right-biased conspiracy and pseudoscience organization.	entailment
+Other sources have commented on Lockdown Resistance, stating that it tends to be **right-biased conspiracy and pseudoscience organization**.	entailment
+The factuality of Lockdown Resistance is reported to be **LOW**	entailment
+The factuality of Lockdown Resistance is reported to be low, according to M. Huitsing 09/29/2023	entailment
+Lockdown Resistance chose not to cover **the benefits of vaccination in controlling the pandemic**	entailment
+Lockdown Resistance relies on subscriptions for revenue	entailment
+When aggregating stories, Lockdown Resistance relies on information from [their own articles and videos that challenge the mainstream narrative on COVID-19, lockdowns, and vaccines. The website does not provide specific details regarding its establishment or the individuals behind it. The domain is registered in the United States.](https://endlockdowns.org/)	entailment
+Lockdown Resistance has endorsed right-biased conspiracy and pseudoscience organization.	entailment
+Lockdown Resistance has an editorial bias towards right-biased conspiracy and pseudoscience organization.	entailment
+Lockdown Resistance was fined 	entailment
+Lockdown Resistance printed a biased article titled "Identity Destruction"	entailment
+Lockdown Resistance printed a factually misleading titled *“The Vaccine Agenda”*	entailment
+Lockdown Resistance is a right-biased conspiracy and pseudoscience organization	entailment
+Lockdown Resistance covers the following topics: conspiracy theories, COVID-19 lockdowns, vaccines, and government.	entailment

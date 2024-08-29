@@ -1,0 +1,13 @@
+History
+[Founded in 1984](https://en.wikipedia.org/wiki/The_Cook_Political_Report), The Cook Political Report is an independent, non-partisan online newsletter/website that analyzes elections and campaigns for the United States House of Representatives, the United States Senate, Governor’s offices, and the American Presidency. Editor Jessica Taylor heads up coverage of Senate and Gubernatorial races, and David Wasserman leads coverage of House races. [Amy Walter](https://en.wikipedia.org/wiki/Amy_Walter) serves as the national editor. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Cook Political Reports is owned by its founder
+[Charlie Cook](https://cookpolitical.com/about), a one-time pollster for Democratic campaigns. Revenue is derived through subscription fees.
+Analysis / Bias
+In review, The Cook Political Report analyzes elections and campaigns for the United States House of Representatives, the United States Senate, the Governor’s offices, and the Presidency. For example, they cover news stories about election dynamics, such as
+[Here Are the Trump Battleground States That Harris Can Help Biden Retake](https://cookpolitical.com/index.php/analysis/national/national-politics/here-are-trump-battleground-states-harris-can-help-biden-retake). This story is sourced from [NBC News](https://mediabiasfactcheck.com/nbc-news/).
+The website also provides projections for elections such as this for the
+[House](https://cookpolitical.com/ratings/house-race-ratings) and the [electoral college](https://cookpolitical.com/sites/default/files/2020-07/EC%20Ratings.072320.2.pdf). All House and Senate contests are rated, regardless of competitiveness, on a seven-point scale; Solid Democrat, Likely Democrat, Lean Democrat, Toss-Up, Lean Republican, Likely Republican, and Solid Republican.
+Many mainstream media organizations use the Cook Political Report as a reliable predictor of elections and trends. In general, they are as factual as possible in the field of election prediction and generally low-biased.
+Failed Fact Checks
+- None in the Last 5 years

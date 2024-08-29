@@ -1,0 +1,23 @@
+Paxton Media Group owns Cleveland Daily Banner.	entailment
+Paxton Media Group is the owner of Cleveland Daily Banner	entailment
+Paxton Media Group bought Cleveland Daily Banner	entailment
+Paxton Media Group acquired Cleveland Daily Banner	entailment
+Cleveland Daily Banner is funded through advertising and subscriptions	entailment
+The usual audience of Cleveland Daily Banner is right-center biased	entailment
+Cleveland Daily Banner tends to the right-center biased	entailment
+Other sources have commented on Cleveland Daily Banner, stating that it tends to be right-center biased.	entailment
+The factuality of Cleveland Daily Banner is reported to be High	entailment
+The factuality of Cleveland Daily Banner is reported to be High, according to Mediabiasfactcheck.com	entailment
+Cleveland Daily Banner failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Cleveland Daily Banner chose not to cover **failed fact checks**	entailment
+Cleveland Daily Banner provides original content written by staff journalists	entailment
+Cleveland Daily Banner relies on advertising for revenue	entailment
+Cleveland Daily Banner relies on subscriptions for revenue	contradiction
+Cleveland Daily Banner relies on donations for revenue	contradiction
+When aggregating stories, Cleveland Daily Banner relies on information from the Associated Press.	entailment
+The Cleveland Daily Banner has endorsed right-center biased.	entailment
+Cleveland Daily Banner has an editorial bias towards right-leaning	entailment
+M. Huitsing is the editor of Cleveland Daily Banner	entailment
+The Cleveland Daily Banner is funded by the private government	contradiction
+The Cleveland Daily Banner is a newspaper	entailment
+The Cleveland Daily Banner covers the following topics: history, local news, hometown politics, business news, local events, and sports.	entailment

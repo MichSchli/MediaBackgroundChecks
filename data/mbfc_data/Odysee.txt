@@ -1,0 +1,16 @@
+History
+Launched in 2020 by LBRY Inc., Odysee is a video-sharing platform that uses the LBRY blockchain protocol. Odysee
+[claims](https://techcrunch.com/2020/12/07/odysee-launch/) to want to “give freedom and control back to creators,” which has resulted in a proliferation of misinformation and false claims. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-governors-bias-ratings/)
+Funded by / Ownership
+LBRY Inc., a company that uses blockchain technology and allows cryptocurrency trading, owns Odysee. LBRY is based in New Hampshire, USA. Advertising, sponsored content, and financial exchanges generate revenue.
+Analysis / Bias
+Odysee is a video platform where users can freely share content on various topics, emphasizing creative freedom “in contrast to YouTube’s censorship and corporate control.” It offers interactive features like comments, view counts, and likes, and its homepage includes sections like News & Politics, Finance 2.0, Gaming, Tech, and The Universe. Additionally, there’s a “Wild West” category with unfiltered content.
+While some content is fact-based, there are numerous instances of the platform sharing conspiracy, pseudoscience, and fake videos. For example, they routinely host videos that spread disinformation regarding Covid-19, like this from the Questionable
+[Children’s Health Defense](https://mediabiasfactcheck.com/childrens-health-defense/): [Mary Holland — Vaccines Created for Vaccine Created Diseases](https://odysee.com/@ChildrensHealthDefense:4/Marry-Holland-RSV-vaccine:3). This is an unsubstantiated claim.
+They also have reported disinformation regarding the 2020 election being “stolen,” such as
+[How the election was stolen…](https://odysee.com/@InfoNews:f/How-the-election-was-stolen%E2%80%A6:7) There is [no evidence](https://www.poynter.org/fact-checking/2022/70-percent-republicans-falsely-believe-stolen-election-trump/) the 2020 election was stolen.
+Finally, the videos hosted often favor a right-wing anti-globalist narrative such as this by
+[Alex Jones:](https://mediabiasfactcheck.com/infowars-alex-jones/) [Aldous Huxley Reveals Globalist Master Plan](https://odysee.com/@AlexJonesChannel:c/Aldous-Huxley-Reveals-Globalist-Master-Plan:9) and offers strong support for former President Trump: [Why Donald Trump Isn’t Trump Enough for Me](https://odysee.com/@StuckinTheMiddle:a/why-donald-trump-isn't-trump-enough-for:d). While many videos favor the right, they do host left-leaning videos such as the [David Pakman Show](https://mediabiasfactcheck.com/davidpakman-com-bias/). In general, Odysee’s audience holds right-leaning biases and often promotes conspiracy theories and pseudoscience.
+Failed Fact Checks
+- The videos they host come from sources who routinely fail fact checks, such as Alex Jones and
+[RT News](https://mediabiasfactcheck.com/rt-news/).

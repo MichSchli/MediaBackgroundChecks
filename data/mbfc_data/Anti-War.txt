@@ -1,0 +1,28 @@
+History
+[Founded in 1995](https://en.wikipedia.org/wiki/Antiwar.com), Antiwar.com is a libertarian website that describes itself as devoted to “non-interventionism” and opposing imperialism and war. It is a project of the Randolph Bourne Institute. According to their [about page](https://www.antiwar.com/who.php): “This site is devoted to the cause of non-interventionism and is read by libertarians, pacifists, leftists, “greens,” and independents alike, as well as many on the Right who agree with our opposition to imperialism.”
+The current managing editor is
+[Eric Garris.](https://en.wikipedia.org/wiki/Eric_Garris) [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Antiwar.com is a nonprofit 501(c) organization and part of the
+[Randolph Bourne Institute](https://en.wikipedia.org/wiki/Randolph_Bourne#Randolph_Bourne_Institute). Revenue is derived through advertising and donations.
+Analysis / Bias
+In review, Antiwar.com reports news related to foreign military intervention, taking the position that the USA should not be engaged in foreign wars. Headlines and articles often do not use loaded language:
+[Russia Takes Over for the US as Buffer Between Turkey, Syria](https://news.antiwar.com/2019/10/15/russia-takes-over-for-us-as-buffer-between-turkey-syria/). This straightforward report is properly sourced to the [New York Times](https://mediabiasfactcheck.com/new-york-times/), [The Hill](https://mediabiasfactcheck.com/the-hill/), and [Washington Times](https://mediabiasfactcheck.com/washington-times/).
+The website also produces editorials that frequently use loaded emotional language to support Libertarian positions such as this:
+[Wake-Up Call On The Syrian Border: Time To End Washington’s Feckless Regime Change Policy and NATO, Too](https://original.antiwar.com/david_stockman/2019/10/15/wake-up-call-on-the-syrian-border-time-to-end-washingtons-feckless-regime-change-policy-and-nato-too/). This Op-Ed does not contain a single hyperlink to an external source. In another article, [Washington Is Wrong Once Again – Kurds Join Assad To Defend Syria](https://original.antiwar.com/paul/2019/10/14/washington-is-wrong-once-again-kurds-join-assad-to-defend-syria/), republished from the factually Mixed [The Ron Paul Institute for Peace & Prosperity,](http://ronpaulinstitute.org/) there is negative reporting on the media and establishment politics.
+Although the website has a right-leaning bias in reporting, it does feature many writers from across the political spectrum, including conservatives such as Pat Buchanan, libertarians such as Ron Paul, and left-leaning authors such as Noam Chomsky and Juan Cole.
+Failed Fact Checks
+Although there are no direct failed fact checks we have found some instances of false or misleading information, especially as it relates the Russian-Ukraine conflict:
+- Claim about the Maidan Revolution in Ukraine (2014 – Present):
+- Description: Antiwar.com published articles claiming that the U.S. supported the Maidan revolution in Ukraine in 2014 as a coup. For example, a January 2023 article titled “
+[MLK: Beyond Vietnam to Ukraine](https://original.antiwar.com/rick_sterling/2023/01/15/beyond-vietnam-to-ukraine/)” stated, “Ukraine is a proxy for the US, which promoted the 2014 coup and has been pumping weapons into Ukraine ever since.”
+- Why It’s False: There is no evidence to support the claim that the Maidan revolution was a Western-backed coup. The Maidan revolution began as a series of protests in Kyiv’s Independence Square against then-President Viktor Yanukovych’s decision to suspend an association agreement with the European Union. The protests grew over time, leading to Yanukovych’s ouster, but this was primarily a domestic political movement, not a foreign-engineered coup.
+- Description: Antiwar.com published articles claiming that the U.S. supported the Maidan revolution in Ukraine in 2014 as a coup. For example, a January 2023 article titled “
+- Claim about the Bucha Massacre:
+- Description: In a January 2023 article titled “
+[Dehumanizing the Enemy](https://original.antiwar.com/gilbert_doctorow/2023/01/01/dehumanizing-the-enemy/),” Antiwar.com stated, “We have heard about ‘massacres of civilians’ in Bucha by retreating Russians… These and similar allegations have been repeated endlessly in Western media as if they were proven facts. They were not and are not anything more than barefaced lies.”
+- Why It’s False: Multiple independent news organizations, including Reuters, The Associated Press, and Agence France-Presse, documented the killing of civilians in Bucha, a city near Kyiv, after Russian occupation. The New York Times’ review of videos and satellite imagery corroborated these reports, showing that many of the civilian deaths occurred during the period of Russian control.
+- Description: In a January 2023 article titled “
+- Claim about the Bombing of a Maternity Hospital in Mariupol:
+- Description: An April 2022 article on Antiwar.com claimed, “Ukraine and western media claim a maternity hospital in Mariupol was bombed by Russia. Evidence shows the hospital was taken over by Ukrainian military forces on March 7, two days before the bombing on March 9.”
+- Why It’s False: There is no evidence that the hospital was being used as a Ukrainian military base at the time of the bombing. Reports from the ground, including those by the Associated Press and photographer Yevgeny Maloletka, confirmed the presence of women and children in the hospital during the attack. Satellite imagery and independent reporting contradicted the claim that the hospital was a military base.

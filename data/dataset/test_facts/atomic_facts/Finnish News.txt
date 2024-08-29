@@ -1,0 +1,21 @@
+Nicholas Anderson founded Finnish News	entailment
+Nicholas Anderson is the founder of Finnish News	entailment
+Nicholas Anderson owns Finnish News	entailment
+Nicholas Anderson is the owner of Finnish News	entailment
+Nicholas Anderson bought Finnish News	entailment
+Finnish News is funded through  advertisements	contradiction
+The remit of Finnish News is to cover Finland and Sweden, as well as entertainment and culture news.	entailment
+The mission of Finnish News is to cover Finland and Sweden, as well as entertainment and culture news such as “Excellent Bars, Cafes and Restaurants in Helsinki.“	entailment
+The usual audience of Finnish News is **left**	entailment
+Finnish News tends to the Left	entailment
+Other sources have commented on Finnish News, stating that it tends to be Left Biased	entailment
+The factuality of Finnish News is reported to be Mostly Factual	entailment
+The factuality of Finnish News is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+Finnish News failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Finnish News has an editorial bias towards Left	entailment
+Nicholas Anderson is the editor of Finnish News	entailment
+Finnish News printed a biased article titled **This Week in Politics – True Finns Are Not True.**	entailment
+Finnish News's headquarter is located in Helsinki	entailment
+Finnish News is funded by the Finnish government	contradiction
+Finnish News is a Left Biased	entailment
+Finnish News covers the following topics: national news, Finland, Sweden, entertainment, culture	entailment

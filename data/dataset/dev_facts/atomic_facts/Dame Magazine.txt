@@ -1,0 +1,22 @@
+Jennifer Reitman founded Dame Magazine	entailment
+Jennifer Reitman is the founder of Dame Magazine	entailment
+Jennifer Reitman owns Dame Magazine	entailment
+Jennifer Reitman is the owner of Dame Magazine.	entailment
+Dame Magazine is funded through its sister company, Dame Media, LLC, as well as reader contributions and donations.	entailment
+The remit of Dame Magazine is to prioritize stories and perspectives that align with its ideological viewpoint.	entailment
+The mission of Dame Magazine is to prioritize stories and perspectives that align with its ideological viewpoint.	entailment
+The usual audience of Dame Magazine is left-biased	entailment
+Dame Magazine tends to the left	entailment
+Dame Magazine tends to the left according to Mediabiasfactcheck.	entailment
+Other sources have commented on Dame Magazine, stating that it tends to be left-biased	entailment
+The factuality of Dame Magazine is reported to be High	entailment
+The factuality of Dame Magazine is reported to be High, according to Media Bias/Fact Check.	entailment
+Dame Magazine chose not to cover GOP Has a Master Plan to Criminalize Being Trans.	contradiction
+Dame Magazine relies on donations for revenue	entailment
+Dame Magazine has received donations from its sister company, Dame Media, LLC, as well as reader contributions and donations.	entailment
+When aggregating stories, Dame Magazine relies on information from **credible sources**	entailment
+Dame Magazine has endorsed a Democratic President Joe Biden with the article “Why Aren’t Biden’s Victories Winning Him Any Points?”	entailment
+Dame Magazine has an editorial bias towards left.	entailment
+Dame Magazine was fined 	entailment
+Dame Magazine printed a biased article titled  "Why Aren’t Biden’s Victories Winning Him Any Points?" 	entailment
+Dame Magazine had to apologize for None in the Last 5 years	entailment

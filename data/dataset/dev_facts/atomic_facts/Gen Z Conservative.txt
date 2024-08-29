@@ -1,0 +1,20 @@
+Gen Z Conservative is funded through advertising and an online shop that sells conservative-themed merchandise.	entailment
+The remit of Gen Z Conservative is to  promote far-right biased commentary that is not always factual.	entailment
+The mission of Gen Z Conservative is to **promote propaganda and conspiracy theories and false information, poor sourcing, and a lack of transparency**	entailment
+The usual audience of Gen Z Conservative is far-right biased and Questionable based on the promotion of propaganda and conspiracy theories and false information, poor sourcing, and a lack of transparency.	entailment
+Gen Z Conservative tends to the far-right	entailment
+Gen Z Conservative tends to the far-right biased commentary according to Media Bias Fact Check	entailment
+Other sources have commented on Gen Z Conservative, stating that it tends to be far-right biased	entailment
+The factuality of Gen Z Conservative is reported to be Questionable	entailment
+The factuality of Gen Z Conservative is reported to be Questionable, according to D. Van Zandt.	entailment
+Gen Z Conservative failed a fact-check for an article titled "Is It True that Chief Justice John Roberts Visited Epstein’s Island?".	entailment
+Gen Z Conservative chose not to cover ownership and authors.	entailment
+Gen Z Conservative relies on advertising for revenue	entailment
+Gen Z Conservative relies on subscriptions for revenue	contradiction
+Gen Z Conservative relies on donations for revenue	entailment
+When aggregating stories, Gen Z Conservative relies on information from **other sources**	entailment
+Gen Z Conservative has endorsed far-right biased commentary and misleading information.	entailment
+Gen Z Conservative has an editorial bias towards far-right.	entailment
+Gen Z Conservative was fined 	entailment
+Gen Z Conservative printed a biased article titled "Celebrate Thanksgiving Despite Covid."	entailment
+Gen Z Conservative printed a factually misleading titled  "All Americans Should Celebrate Thanksgiving Despite Covid".	entailment

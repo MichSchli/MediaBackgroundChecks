@@ -1,0 +1,10 @@
+History
+The AtlasIntel is a research organization based in Sao Paulo, Brazil. According to their
+[about page](https://atlasintel.org/contact), “AtlasIntel combines the most advanced quantitative and experimental methods in business analytics with cutting-edge big data technologies to provide solid insights, resting upon tested, scientific methodologies.” [Read our profile on Brazil’s media and government.](https://mediabiasfactcheck.com/brazil-media-profile/)
+Funded by / Ownership
+AtlasIntel is a part of the Roper Center for Public Research for polling in the United States. Revenue comes from the sale of polling and services.
+Analysis / Bias
+AtlasIntel conducts political research and polls on issues affecting South American and United States politics. The website does not publish political content.
+[FiveThirtyEight](https://mediabiasfactcheck.com/fivethirtyeight/), an expert on measuring and rating pollster performance, has [evaluated 24 polls](https://projects.fivethirtyeight.com/pollster-ratings/) by AtlasIntel, earning 2.7 stars for accuracy, indicating they are High Factual by MBFC’s criteria. They also conclude that their polling slightly favors the right with a score of -0.8, which equates to Least Biased overall in polling bias. In general, AtlasIntel is considered accurate and demonstrates minimal bias in polling.
+Failed Fact Checks
+- None in the Last 5 years

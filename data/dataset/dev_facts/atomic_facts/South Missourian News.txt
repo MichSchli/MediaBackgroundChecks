@@ -1,0 +1,15 @@
+CherryRoad Media owns South Missourian News	entailment
+CherryRoad Media is the owner of South Missourian News	entailment
+South Missourian News is funded through **advertising and paid subscriptions**.	entailment
+The remit of South Missourian News is to cover news, sports, community, and crime for the greater South Missouri area.	entailment
+The South Missourian News tends to the ***least biased***	entailment
+Other sources have commented on South Missourian News, stating that it tends to be **Least Biased**.	entailment
+The factuality of South Missourian News is reported to be High	entailment
+The factuality of South Missourian News is reported to be High, according to Media Bias Fact Check	entailment
+South Missourian News failed a fact-check for an article titled "Generous donation made to Oregon County Food Pantry in Alton".	contradiction
+South Missourian News relies on advertising for revenue	entailment
+South Missourian News relies on subscriptions for revenue	entailment
+South Missourian News relies on donations for revenue	contradiction
+When aggregating stories, South Missourian News relies on information from the [Associated Press.](https://mediabiasfactcheck.com/associated-press/)	entailment
+The South Missourian News has an editorial bias towards **Least Biased**	entailment
+South Missourian News had to apologize to no one for nothing	entailment

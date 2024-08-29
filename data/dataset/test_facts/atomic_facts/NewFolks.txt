@@ -1,0 +1,20 @@
+NewFolks leads NewFolks	contradiction
+Digital Trends Media Group owns NewFolks	entailment
+Digital Trends Media Group bought NewFolks	contradiction
+The remit of NewFolks is to **publish original parenting news and information with minimal bias**	entailment
+The usual audience of NewFolks is **parents**	entailment
+NewFolks tends to the  **parents**.	entailment
+Other sources have commented on NewFolks, stating that it tends to be **least biased**	entailment
+The factuality of NewFolks is reported to be High	entailment
+The factuality of NewFolks is reported to be High, according to D. Van Zandt 	entailment
+NewFolks failed a fact-check for an article titled [What causes a baby’s snoring and what should you do about it](https://www.newfolks.com/stages/baby-snoring/)?	contradiction
+NewFolks chose not to cover political news	entailment
+NewFolks provides original content written by staff journalists	entailment
+NewFolks relies on advertising for revenue	entailment
+NewFolks relies on subscriptions for revenue	contradiction
+NewFolks relies on donations for revenue	contradiction
+When aggregating stories, NewFolks relies on information from **credible outlets**	entailment
+NewFolks has an editorial bias towards **least biased**	entailment
+NewFolks's headquarter is located in Portland.	entailment
+NewFolks is a parenting news and information website	entailment
+NewFolks covers the following topics: parenting news and information.	entailment

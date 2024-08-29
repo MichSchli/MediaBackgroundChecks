@@ -1,0 +1,22 @@
+Marshall Brain founded How Stuff Works	entailment
+Marshall Brain is the founder of How Stuff Works	entailment
+HowStuffWorks owns How Stuff Works	contradiction
+iHeartMedia bought How Stuff Works	entailment
+iHeartMedia acquired How Stuff Works	entailment
+How Stuff Works is funded through advertising and sponsored content	entailment
+The remit of How Stuff Works is to provide its target audience an insight into how many things work	entailment
+The mission of How Stuff Works is to provide its target audience an insight into how many things work.	entailment
+The usual audience of How Stuff Works is general public.	entailment
+Other sources have commented on How Stuff Works, stating that it tends to be **Least Biased**.	entailment
+The factuality of How Stuff Works is reported to be Very-High	entailment
+The factuality of How Stuff Works is reported to be high, according to their about page.	entailment
+How Stuff Works failed a fact-check for an article titled "None in the Last 5 years".	entailment
+How Stuff Works printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+How Stuff Works chose not to cover  Why Is Populism So Popular Again?	contradiction
+How Stuff Works relies on advertising for revenue	entailment
+How Stuff Works relies on subscriptions for revenue	contradiction
+How Stuff Works relies on donations for revenue	contradiction
+When aggregating stories, How Stuff Works relies on information from **WebMD and Yale Medicine**	entailment
+How Stuff Works has an editorial bias towards Least Biased	entailment
+How Stuff Works had to apologize for None in the Last 5 years	entailment
+How Stuff Works had to apologize to no one for nothing	entailment

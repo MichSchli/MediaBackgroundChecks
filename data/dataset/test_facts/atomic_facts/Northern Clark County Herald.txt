@@ -1,0 +1,23 @@
+Local Report Inc founded Northern Clark County Herald	entailment
+The Northern Clark County Herald leads Northern Clark County Herald	contradiction
+Local Report Inc owns Northern Clark County Herald	entailment
+Local Report Inc bought Northern Clark County Herald	contradiction
+Local Report Inc acquired Northern Clark County Herald	entailment
+The remit of Northern Clark County Herald is to **promote left-leaning propaganda in support of the Democratic Party and lacks transparency**	entailment
+The mission of Northern Clark County Herald is to **promote left-leaning propaganda in support of the Democratic Party and lacks transparency**	entailment
+The usual audience of Northern Clark County Herald is ***left-leaning individuals favoring the Democratic Party***	entailment
+The Northern Clark County Herald tends to the left	entailment
+Other sources have commented on Northern Clark County Herald, stating that it tends to be **Left-Center Biased and Questionable**.	entailment
+The factuality of Northern Clark County Herald is reported to be  left-center biased and questionable based on serving as an imposter local news site that promotes left-leaning propaganda.	entailment
+The factuality of Northern Clark County Herald is reported to be questionable, according to its review by Media Bias/Fact Check.	entailment
+Northern Clark County Herald failed a fact-check for an article titled "The Worm Squirms: Nevada Senators Show What CCSD Oversight Can Look Like | Opinion"	contradiction
+Northern Clark County Herald relies on advertising for revenue	contradiction
+Northern Clark County Herald has received donations from **None**	entailment
+When aggregating stories, Northern Clark County Herald relies on information from **The American Independent**	entailment
+Northern Clark County Herald has endorsed left-leaning propaganda and lacks transparency	entailment
+Northern Clark County Herald has an editorial bias towards Left-Center.	entailment
+Northern Clark County Herald printed a biased article titled ***The Worm Squirms: Nevada Senators Show What CCSD Oversight Can Look Like | Opinion***.	entailment
+Northern Clark County Herald had to apologize for **none in the Last 5 years; however,**	entailment
+Northern Clark County Herald had to apologize to **no one** for **failed fact checks**	entailment
+Northern Clark County Herald is a **progressive-liberal imposter news website**	entailment
+Northern Clark County Herald covers the following topics: sports, entertainment, and business news.	entailment

@@ -1,0 +1,25 @@
+Gannett owns Elmira Star-Gazette	entailment
+Gannett is the owner of Elmira Star-Gazette	entailment
+Gannett bought Elmira Star-Gazette	entailment
+Gannett acquired Elmira Star-Gazette	entailment
+Elmira Star-Gazette is funded through **advertising and paid subscriptions**	entailment
+The remit of Elmira Star-Gazette is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	contradiction
+The mission of Elmira Star-Gazette is to **report local news with minimal loaded emotional language**	entailment
+Elmira Star-Gazette tends to the least biased	entailment
+Other sources have commented on Elmira Star-Gazette, stating that it tends to be **least biased**.	entailment
+The factuality of Elmira Star-Gazette is reported to be High	entailment
+The factuality of Elmira Star-Gazette is reported to be High, according to Mediabiasfactcheck.	entailment
+Elmira Star-Gazette failed a fact-check for an article titled None	contradiction
+Elmira Star-Gazette printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**.	entailment
+Elmira Star-Gazette chose not to cover op-eds	entailment
+Elmira Star-Gazette relies on advertising for revenue	entailment
+Elmira Star-Gazette relies on subscriptions for revenue	entailment
+Elmira Star-Gazette relies on donations for revenue	contradiction
+When aggregating stories, Elmira Star-Gazette relies on information from [Gannett publications and the Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+The Elmira Star-Gazette has endorsed least biased	entailment
+Elmira Star-Gazette has an editorial bias towards Least Biased.	entailment
+Elmira Star-Gazette printed a biased article titled Least Biased	contradiction
+Elmira Star-Gazette had to apologize for None in the Last 5 years	entailment
+Elmira Star-Gazette is a newspaper	entailment
+Elmira Star-Gazette uses an internal fact-checking process	entailment
+The Elmira Star-Gazette covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment

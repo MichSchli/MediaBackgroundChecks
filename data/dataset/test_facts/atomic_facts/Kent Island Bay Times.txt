@@ -1,0 +1,21 @@
+Adams Publishing Group owns Kent Island Bay Times	entailment
+Stephen Adams is the owner of Kent Island Bay Times	entailment
+Kent Island Bay Times is funded through **advertising and subscription fees**	entailment
+The remit of Kent Island Bay Times is to ***cover news and crime reports in the Chester region***	entailment
+The mission of Kent Island Bay Times is to **cover local news through journalists with minimal bias in wording**	entailment
+Other sources have commented on Kent Island Bay Times, stating that it tends to be **least biased**.	entailment
+The factuality of Kent Island Bay Times is reported to be High	entailment
+The factuality of Kent Island Bay Times is reported to be high, according to a review by Mediabiasfactcheck.	entailment
+Kent Island Bay Times failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Kent Island Bay Times printed a retraction after failing a fact-check for an article titled Ridgely man arrested in Ocean City triple stabbing	contradiction
+Kent Island Bay Times chose not to cover op-eds	entailment
+Kent Island Bay Times relies on advertising for revenue	entailment
+Kent Island Bay Times relies on subscriptions for revenue	entailment
+Kent Island Bay Times relies on donations for revenue	contradiction
+When aggregating stories, Kent Island Bay Times relies on information from **quotes, interviews, and accounts as sourcing**.	entailment
+Kent Island Bay Times has endorsed **Neutral straight news reporting**.	entailment
+Kent Island Bay Times has an editorial bias towards Least biased	entailment
+The Kent Island Bay Times had to apologize for **None in the Last 5 years**	entailment
+Kent Island Bay Times had to apologize to no one for nothing.	entailment
+Kent Island Bay Times is funded by the private government	contradiction
+Kent Island Bay Times is a weekly newspaper	entailment

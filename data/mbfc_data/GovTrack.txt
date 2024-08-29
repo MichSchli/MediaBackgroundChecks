@@ -1,0 +1,10 @@
+History
+Founded in 2004 by
+[Joshua Tauberer](https://en.wikipedia.org/wiki/Joshua_Tauberer), [GovTrack.us](https://en.wikipedia.org/wiki/GovTrack) enables its users to track the bills and members of the United States Congress. Users can add trackers to certain bills. The website collects data on members of Congress, allowing the users to check voting records and attendance relative to peers. According to their [about page](https://www.govtrack.us/about), “We publish the status of federal legislation, information about your representative and senators in Congress including voting records, and original research on legislation. We’re one of the oldest government transparency websites in the world.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+GovTrack is owned by Civic Impulse LLC, which is owned by Joshua Tauberer. Revenue is derived through advertising and sponsored content.
+Analysis / Bias
+In review, GovTrack does what it disclaims, and that is covering legislative news. Information and news are covered with low bias, such as this
+[Bill would repeal the 1993 “Motor Voter” law which allows people to register to vote at the DMV](https://govtrackinsider.com/bill-would-repeal-the-1993-motor-voter-law-which-allows-people-to-register-to-vote-at-the-dmv-9745d486bd6e). A review of numerous stories generally indicates they hold minimal bias and are factual.
+Failed Fact Checks
+- None in the Last 5 years

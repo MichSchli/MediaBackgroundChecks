@@ -1,0 +1,18 @@
+The London Free Press is the founder of London Free Press	contradiction
+PostMedia owns London Free Press	entailment
+PostMedia bought London Free Press	entailment
+London Free Press is funded through advertising and subscription fees	entailment
+The remit of London Free Press is to  report news through the use of journalists.	entailment
+The mission of London Free Press is to report news through the use of journalists and provide right-leaning bias in story selection and wording.	entailment
+The usual audience of London Free Press is **those with right-leaning bias**	entailment
+London Free Press tends to the right.	entailment
+London Free Press tends to the right according to Mediabiasfactcheck	entailment
+Other sources have commented on London Free Press, stating that it tends to be Right-Center	entailment
+The factuality of London Free Press is reported to be Mostly Factual	entailment
+The factuality of London Free Press is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+London Free Press chose not to cover failed fact checks	entailment
+London Free Press provides original content written by staff journalists	entailment
+London Free Press relies on advertising for revenue	entailment
+London Free Press relies on subscriptions for revenue	contradiction
+When aggregating stories, London Free Press relies on information from **journalists**.	entailment
+London Free Press has an editorial bias towards **the right**	entailment

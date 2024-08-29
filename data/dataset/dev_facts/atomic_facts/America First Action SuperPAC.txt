@@ -1,0 +1,17 @@
+Brad Parscale founded America First Action SuperPAC	entailment
+America First Action SuperPAC is funded through donations.	entailment
+The remit of America First Action SuperPAC is to elect federal candidates who support the agenda of the Trump administration.	entailment
+The mission of America First Action SuperPAC is to elect federal candidates who support the agenda of the Trump administration.	entailment
+The usual audience of America First Action SuperPAC is **supporters of the Trump administration**.	entailment
+America First Action SuperPAC tends to the **right**	entailment
+America First Action SuperPAC tends to the right according to political affiliation with Donald Trump.	entailment
+Other sources have commented on America First Action SuperPAC, stating that it tends to be Right Biased.	entailment
+The factuality of America First Action SuperPAC is reported to be Mixed	entailment
+The factuality of America First Action SuperPAC is reported to be Mixed, according to Poor sourcing and publication of news stories from questionable sources.	entailment
+America First Action SuperPAC failed a fact-check for an article titled **Political ad saying Biden wants to defund the police**	entailment
+America First Action SuperPAC relies on donations for revenue	entailment
+America First Action SuperPAC has received donations from **Republican mega-donor T. Boone Pickens**	entailment
+America First Action SuperPAC has endorsed **Donald Trump Jr.**	entailment
+America First Action SuperPAC has an editorial bias towards **right**	entailment
+America First Action SuperPAC was fined **$350,000**	entailment
+America First Action SuperPAC printed a biased article titled "TV Ads Expose Radical West Virginia Leftist Richard Ojeda For Opposition To Trump".	entailment

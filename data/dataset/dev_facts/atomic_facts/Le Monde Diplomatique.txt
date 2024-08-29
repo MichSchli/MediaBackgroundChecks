@@ -1,0 +1,25 @@
+Hubert Beuve-Méry founded Le Monde Diplomatique	entailment
+Hubert Beuve-Méry is the founder of Le Monde Diplomatique	entailment
+Hubert Beuve-Méry is the CEO of Le Monde Diplomatique	contradiction
+Le Monde Diplomatique leads Le Monde Diplomatique	contradiction
+Groupe Le Monde owns Le Monde Diplomatique	entailment
+Groupe Le Monde bought Le Monde Diplomatique	contradiction
+Groupe Le Monde acquired Le Monde Diplomatique	contradiction
+Le Monde Diplomatique is funded through subscriptions and donations.	entailment
+The remit of Le Monde Diplomatique is to provide in-depth coverage of international affairs and critical perspective on economic and globalization issues.	entailment
+The mission of Le Monde Diplomatique is to provide in-depth coverage of international affairs and offer a critical perspective on economic and globalization issues.	entailment
+The usual audience of Le Monde Diplomatique is **left-leaning**	entailment
+Le Monde Diplomatique tends to the Left	entailment
+Le Monde Diplomatique tends to the left according to its editorial perspective	entailment
+Other sources have commented on Le Monde Diplomatique, stating that it tends to be **left-leaning**	entailment
+The factuality of Le Monde Diplomatique is reported to be High	entailment
+Le Monde Diplomatique failed a fact-check for an article titled None in the Last 5 years	contradiction
+Le Monde Diplomatique chose not to cover **right-leaning perspectives**	entailment
+Le Monde Diplomatique relies on advertising for revenue	contradiction
+Le Monde Diplomatique relies on subscriptions for revenue	entailment
+Le Monde Diplomatique relies on donations for revenue	entailment
+When aggregating stories, Le Monde Diplomatique relies on information from primary sources such as government reports and academic research.	entailment
+Le Monde Diplomatique has endorsed progressive policies	entailment
+Le Monde Diplomatique has an editorial bias towards Left Bias	entailment
+Le Monde Diplomatique printed a biased article titled Labor purge in the UK.	entailment
+Le Monde Diplomatique had to apologize for **nothing**.	entailment

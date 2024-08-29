@@ -1,0 +1,21 @@
+Metric Media Foundation owns SE Arizona News	entailment
+Bradley Cameron is the owner of SE Arizona News	contradiction
+SE Arizona News is funded through donations and grants.	entailment
+The remit of SE Arizona News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of SE Arizona News is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of SE Arizona News is **conservative-leaning**	entailment
+SE Arizona News tends to the right-centerbias.	entailment
+Other sources have commented on SE Arizona News, stating that it tends to be right-center biased.	entailment
+The factuality of SE Arizona News is reported to be Questionable.	entailment
+The factuality of SE Arizona News is reported to be **Questionable**, according to **Media Bias/Fact Check**	entailment
+SE Arizona News provides original content written by staff journalists	contradiction
+SE Arizona News relies on advertising for revenue	entailment
+SE Arizona News relies on subscriptions for revenue	entailment
+SE Arizona News relies on donations for revenue	entailment
+When aggregating stories, SE Arizona News relies on information from **algorithmically produced content**	entailment
+SE Arizona News has endorsed a right-center biased perspective.	entailment
+SE Arizona News has an editorial bias towards conservative-leaning	entailment
+SE Arizona News printed a biased article titled **"Questionable based on being an imposter website that is designed to look like a local news source"**	entailment
+SE Arizona News had to apologize for lack of transparency and false information.	entailment
+SE Arizona News is a right-center biased and Questionable-based imposter website that is designed to look like a local news source.	entailment
+SE Arizona News covers the following topics: conservative-leaning news.	entailment

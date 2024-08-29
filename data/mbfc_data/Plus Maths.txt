@@ -1,0 +1,12 @@
+History
+[Plus Maths](https://plus.maths.org/content/about-plus) is a Cambridge, UK-based online publication focused on mathematics and its applications, including connections to physics, engineering, computer science, and economics. Founded in 1997 as PASS Maths, it’s now part of the Millennium Mathematics Project at the University of Cambridge, which aims to promote the significance of mathematics in science and daily life. [Read our profile on UK media and government.](https://mediabiasfactcheck.com/united-kingdom-media-profile/)
+Funded by / Ownership
+Plus Maths receives funding from
+[the University of Cambridge’s Millennium Mathematics Project](https://plus.maths.org/content/plus-sponsors) and the Kavli Foundation through a grant-funded partnership with the Stephen Hawking Centre for Theoretical Cosmology. They also accept [donations](https://plus.maths.org/content/support-plus) from readers. The website does not display any advertisements or sponsored content.
+Analysis / Bias
+Plus is a website focusing on mathematics and its applications. It presents information with minimal bias, focusing on accurate reporting and high-quality writing. For example, they publish articles with neutral titles, such as
+[“Can artificial intelligence help predict the weather?”](https://plus.maths.org/content/can-artificial-intelligence-help-predict-weather) and use credible sources like the European Centre for Medium-Range Weather Forecasts (ECMWF) and the American Geophysical Union (AGU).
+Plus Maths features articles and profiles that highlight women’s achievements in mathematics and related fields. Plus Maths also publishes articles such as
+[“Maths in a Minute: Thermodynamics,”](https://plus.maths.org/content/maths-minute-thermodynamics) which briefly overviews complex concepts like thermodynamics and how mathematical models are used to understand them. Further, the website publishes articles that explore the relationship between mathematics and politics, including topics on election fairness and the use of mathematical models to analyze voting outcomes. The article [“Elections: Can they be fair?”](https://plus.maths.org/content/elections) is an example of this type of content. In general, Plus is fact-based and low-biased.
+Failed Fact Checks
+- None in the Last 5 years

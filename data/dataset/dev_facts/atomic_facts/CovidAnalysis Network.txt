@@ -1,0 +1,15 @@
+The remit of CovidAnalysis Network is to promote alternative treatments for Covid-19	entailment
+The mission of CovidAnalysis Network is to  promote alternative treatments for Covid-19.	entailment
+CovidAnalysis Network tends to the **promotion of pseudoscience, a complete lack of transparency, several failed facts, and frequent misrepresentation of scientific studies**	entailment
+CovidAnalysis Network tends to the promotion of pseudoscience according to a review by Newsguard.	entailment
+Other sources have commented on CovidAnalysis Network, stating that it tends to be **biased**	entailment
+The factuality of CovidAnalysis Network is reported to be Questionable	entailment
+The factuality of CovidAnalysis Network is reported to be Questionable, according to a source criticism exercise.	entailment
+CovidAnalysis Network failed a fact-check for an article titled **"ivermectin reduces COVID-19 mortality by 81%"**	entailment
+CovidAnalysis Network chose not to cover FDA-approved vaccines from Pfizer and Moderna	entailment
+CovidAnalysis Network relies on advertising for revenue	contradiction
+CovidAnalysis Network has endorsed Ivermectin	entailment
+CovidAnalysis Network has an editorial bias towards **promoting pseudoscience and anti-vaccination propaganda**	entailment
+CovidAnalysis Network printed a biased article titled **Promotion of Misinformation on Alternative Treatments for Covid-19**	entailment
+CovidAnalysis Network printed a factually misleading titled  "Ivermectin is a Credible Treatment"	contradiction
+CovidAnalysis Network had to apologize for promoting misinformation.	entailment

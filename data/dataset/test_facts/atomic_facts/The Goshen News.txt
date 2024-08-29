@@ -1,0 +1,23 @@
+Community Newspaper Holdings Inc owns The Goshen News	entailment
+Community Newspaper Holdings Inc is the owner of The Goshen News	entailment
+Community Newspaper Holdings Inc bought The Goshen News	entailment
+The Goshen News is funded through Advertising and subscription fees.	entailment
+The remit of The Goshen News is to **cover crime, sports, entertainment, and politics for the Goshen, Indiana, region**	entailment
+The mission of The Goshen News is to  inform the community.	entailment
+The usual audience of The Goshen News is **residents of Goshen, Indiana**	entailment
+The Goshen News tends to the **Left-Center Biased**	entailment
+Other sources have commented on The Goshen News, stating that it tends to be **slightly Left-Center Biased**.	entailment
+The factuality of The Goshen News is reported to be High	entailment
+The factuality of The Goshen News is reported to be High, according to D. Van Zandt 	entailment
+The Goshen News failed a fact-check for an article titled "Three people injured in Elkhart shooting".	contradiction
+The Goshen News chose not to cover **Any fact checks in the Last 5 years**	contradiction
+The Goshen News relies on advertising for revenue	entailment
+The Goshen News relies on subscriptions for revenue	entailment
+The Goshen News relies on donations for revenue	contradiction
+When aggregating stories, The Goshen News relies on information from **the Associated Press and the CHNI news service**	entailment
+The Goshen News has endorsed the left	entailment
+The Goshen News has an editorial bias towards **the left**	entailment
+The Goshen News had to apologize to no one for nothing	entailment
+The Goshen News is funded by the **Company** government	contradiction
+The Goshen News is a newspaper	entailment
+The Goshen News covers the following topics: crime, sports, entertainment, and politics.	entailment

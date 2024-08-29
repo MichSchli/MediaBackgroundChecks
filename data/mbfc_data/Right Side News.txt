@@ -1,0 +1,14 @@
+Reasoning: Extreme Right, Conspiracy, Propaganda
+Country: USA
+World Press Freedom Rank: USA 45/180
+History
+Founded in 2007, and according to their
+[about page](https://www.rightsidenews.com/) “Right Side News is your online newspaper, publishing accurate information about threats against Western civilization. Right Side News stands out among news sites, offering the right news from sources you can trust.” There isn’t any other information regarding an editor or ownership of this website which is a red flag.
+Funded by / Ownership
+While Right Side News does not disclose ownership via a privacy account on
+[Whois](http://whois.domaintools.com/rightsidenews.com), we do know they are located in Kirkland, Washington. The website is primarily funded through online advertising.
+Analysis / Bias
+In review, every single article on this website favors the right. There are no exceptions. There is significant use of loaded words such as:
+[The Obama/Soros Machine Beats Trump](https://www.rightsidenews.com/editorial/us-opinion-and-editorial/the-obama-soros-machine-beats-trump/). While stories are generally sourced to mostly credible information, there are times when they are not, such as this, which uses the low factual [WND](https://mediabiasfactcheck.com/world-net-daily-wnd/) as a source: [Footage Shows Florida Ballots Transported By Private Vehicles Being Transferred Into A Rental Truck On Election Night.](https://www.rightsidenews.com/us/politics/footage-shows-florida-ballots-transported-by-private-vehicles-being-transferred-into-a-rental-truck-on-election-night/)
+Right Side News has also made a
+[Pants on Fire Claim.](https://www.politifact.com/truth-o-meter/article/2012/sep/26/pacs-newspaper-ad-filled-falsehoods/)

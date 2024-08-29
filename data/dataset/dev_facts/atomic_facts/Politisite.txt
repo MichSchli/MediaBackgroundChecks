@@ -1,0 +1,21 @@
+Albert Milliron founded Politisite	entailment
+Albert Milliron is the founder of Politisite	entailment
+Iron Mill Interactive Media owns Politisite	entailment
+Politisite is funded through online advertising.	entailment
+The remit of Politisite is to  provide in-depth news with special reports and interactive political coverage.	entailment
+The mission of Politisite is to deliver the latest Breaking Political News, Debate Coverage, Election Results, Commentary and Analysis.	entailment
+The usual audience of Politisite is right-center biased	entailment
+Politisite tends to the right.	entailment
+Politisite tends to the right-center according to Mediabiasfactcheck.	entailment
+Other sources have commented on Politisite, stating that it tends to be **Right-Center Biased**.	entailment
+The factuality of Politisite is reported to be High	entailment
+The factuality of Politisite is reported to be High, according to Mediabiasfactcheck.	entailment
+Politisite chose not to cover **Political News, White House, Political Polls, Election Results**	contradiction
+Politisite provides original content written by staff journalists	entailment
+Politisite relies on advertising for revenue	entailment
+When aggregating stories, Politisite relies on information from **Real Clear Politics** and **FiveThirtyEight**.	entailment
+Politisite has an editorial bias towards right	entailment
+Albert Milliron is the editor of Politisite	entailment
+Politisite printed a biased article titled **Coronavirus and Urban America’s Healthcare Disparity**	entailment
+Politisite printed a factually misleading titled "Joe Biden Statement on Sexual Assault Allegations".	entailment
+Politisite had to apologize for **none in the Last 5 years**	entailment

@@ -1,0 +1,21 @@
+Rhonda Roland Shearer founded iMediaEthics	entailment
+Rhonda Roland Shearer is the founder of iMediaEthics	entailment
+Rhonda Roland Shearer is the CEO of iMediaEthics.	entailment
+Rhonda Roland Shearer leads iMediaEthics	entailment
+Art Science Research Laboratory owns iMediaEthics	entailment
+iMediaEthics is funded through donations	entailment
+The remit of iMediaEthics is to promote the media’s use of scientific methods and experts before publication.	entailment
+The mission of iMediaEthics is to promote the media’s use of scientific methods and experts before publication.	entailment
+iMediaEthics tends to the  information.	entailment
+iMediaEthics tends to the **left** according to **Mediabiasfactcheck.com**	entailment
+Other sources have commented on iMediaEthics, stating that it tends to be highly factual.	entailment
+The factuality of iMediaEthics is reported to be highly factual	entailment
+The factuality of iMediaEthics is reported to be highly factual, according to proper fact check standards	entailment
+iMediaEthics chose not to cover **the Kevin Deutsch story**	contradiction
+iMediaEthics relies on advertising for revenue	entailment
+iMediaEthics relies on subscriptions for revenue	entailment
+iMediaEthics relies on donations for revenue	entailment
+When aggregating stories, iMediaEthics relies on information from **Associated Press**.	entailment
+iMediaEthics has endorsed **proper sourcing and Least Biased (lean left) based on following proper fact check standards**	entailment
+iMediaEthics has an editorial bias towards **left**	entailment
+Rhonda Roland Shearer is the editor of iMediaEthics	entailment

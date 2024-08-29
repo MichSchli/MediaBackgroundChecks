@@ -1,0 +1,13 @@
+History
+Grunge.com is a website that reports on weird and strange news. The primary goal is to produce clicks through the website, which is probably the goal of every website. According to their
+[about page](https://www.grunge.com/about/), “The world is pretty weird…in fact, it’s a whole lot weirder than you think. If you haven’t learned something new today, you’re missing out. Grunge is the place to immerse yourself in weird news, fun facts, and cool tidbits on history, entertainment, science, and plenty more.”
+The website discloses authors’ names and lists short bios but does not indicate who the editor is.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Grunge is owned by
+[ZergNet](https://en.wikipedia.org/wiki/ZergNet), which is a contextual advertising company. ZergNet is featured at the bottom of the website content, clearly labeled as “From Around The Web.” It works like this. A person sees the ad, clicks on it, and is directed to ZergNet, who then re-directs you to their source, which displays advertising for revenue. Long story short, ZergNet gets the initial traffic and then filters to other websites they own.
+Analysis / Bias
+In review, the Grunge is a clickbait news website that derives traffic through sensational or weird content. For example, in this story,
+[PEOPLE WHO KNEW A PANDEMIC WAS COMING BEFORE IT HAPPENED](https://www.grunge.com/198165/people-who-knew-a-pandemic-was-coming-before-it-happened/). Obviously, nobody knew this virus was coming, but the headline is intriguing and hence derives clicks. Some stories endorse pseudoscience, such as this [SCIENTIFICALLY PROVEN SIDE EFFECTS A MAN GETS SHAVING THEIR HEAD](https://www.grunge.com/197317/scientifically-proven-side-effects-a-man-gets-shaving-their-head/). This story is minimally sourced to outside links. In general, Grunge.com is a clickbait website that does not source properly.
+Failed Fact Checks
+- None found.

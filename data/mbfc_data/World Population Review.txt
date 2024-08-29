@@ -1,0 +1,11 @@
+History
+[Founded in 2011](http://whois.domaintools.com/worldpopulationreview.com) by [Shane Fulmer](http://shanefulmer.com/#/), World Population Review is a website dedicated to global population data and trends. According to their [about page](http://worldpopulationreview.com/about/), they state “Most demographic data is hidden in spreadsheets, behind complex APIs, or inside cumbersome tools. World Population Review’s goal is to make this data more accessible through graphs, charts, analysis, and visualizations.” They further report, “World Population Review is an independent organization without any political affiliations.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website is owned by Shane Fulmer, with revenue derived through advertising.
+Analysis / Bias
+In review, World Population Review monitors the world population with real census and UN data and real-time estimates based on birth and death rates. The amount of data found on this website is overwhelming as you can click on individual countries, states, and counties to dig deeper into the data. For example, clicking on
+[China](http://worldpopulationreview.com/countries/china-population/) will pull up a profile page with a wealth of data such as World Population Rank, World Percentage, Growth Rate, Density, and much more. The profile also features a lengthy written report about China and population trends. Some of the sources used for this report are the World Bank, Columbia University, and the [Council on Foreign Relations](https://mediabiasfactcheck.com/council-on-foreign-relations/). Another feature is the ability to search by zip code, which allows you to learn detailed information about the demographics of the zone.
+Editorially, we cannot find evidence of any overt political opinions being offered. This is a straight-up data-driven website with minimal bias. However, they sometimes utilize controversial sources such as data from
+[Richard Lynn](https://worldpopulationreview.com/country-rankings/average-iq-by-country), who calculated IQ by country. His study has been accused of being [racially biased](https://www.splcenter.org/fighting-hate/extremist-files/individual/richard-lynn).
+Failed Fact Checks
+- None in the Last 5 years

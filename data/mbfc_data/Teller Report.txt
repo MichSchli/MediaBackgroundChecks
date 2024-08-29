@@ -1,0 +1,12 @@
+History
+Teller Report is a news aggregator covering various topics, including politics, sports, tech, and life. The website lacks transparency as they do not have an about page or disclose its location and ownership.
+Funded by / Ownership
+Ownership of the Teller Report is not specified, and advertisements generate revenue. Another website called
+[NewsRND](https://mediabiasfactcheck.com/the-limited-times-newsrnd-com-bias-and-credibility/) has a similar look and the same tagline, “Now you can see Non-English News,” indicating the same person or company may own them.
+Analysis / Bias
+Teller Report republishes articles from various sources, including those that may have different levels of factual reporting and bias. For example, it republished an article from RT News titled
+[The US Department of Justice announced the arrest of Russian Marchenko on suspicion of circumventing sanctions](https://www.tellerreport.com/news/2023-09-18-the-us-department-of-justice-announced-the-arrest-of-russian-marchenko-on-suspicion-of-circumventing-sanctions.r1lu1vV8y6.html). RT News is a questionable Russian propaganda news outlet.
+Lastly, Teller Report republishes articles from sources like
+[Al Jazeera](https://mediabiasfactcheck.com/al-jazeera/), which has a [factually mixed](https://mediabiasfactcheck.com/al-jazeera/) rating, as well as credible sources like [France24](https://mediabiasfactcheck.com/france24/). In general, Teller Report republishes news from a wide variety of sources, some of which may not always be factual. Further, its complete lack of transparency lowers its credibility level.
+Failed Fact Checks
+- None, as they are a news aggregator; however, some of the sources they rely on have failed fact checks.

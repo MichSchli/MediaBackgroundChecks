@@ -1,0 +1,20 @@
+Todd Smekens founded Middletown Media	entailment
+Todd Smekens is the founder of Middletown Media	entailment
+Todd Smekens owns Middletown Media	entailment
+Todd Smekens is the owner of Middletown Media	entailment
+Todd Smekens acquired Middletown Media	entailment
+Middletown Media is funded through **advertising**	entailment
+The mission of Middletown Media is to hold existing corporate media, government, and private sectors accountable.	entailment
+The usual audience of Middletown Media is left-leaning biases	entailment
+Middletown Media tends to the Left	entailment
+Other sources have commented on Middletown Media, stating that it tends to be left-biased	entailment
+The factuality of Middletown Media is reported to be Left-Biased.	entailment
+Middletown Media relies on advertising for revenue	entailment
+Middletown Media relies on subscriptions for revenue	contradiction
+Middletown Media relies on donations for revenue	contradiction
+Middletown Media has received donations from Todd Smekens	entailment
+When aggregating stories, Middletown Media relies on information from **other sources**	entailment
+Middletown Media has endorsed Left-Biased	entailment
+Middletown Media has an editorial bias towards **the progressive left**	entailment
+Middletown Media printed a factually misleading titled  "The FBI is Harassing the Antiwar Movement".	entailment
+Middletown Media is a Left-Biased	entailment

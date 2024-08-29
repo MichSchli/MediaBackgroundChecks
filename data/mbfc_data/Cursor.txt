@@ -1,0 +1,14 @@
+History
+Cursor.org is an online platform that aims to filter the daily influx of information and present readers with informative content. According to their
+[About Us](https://www.cursor.org/about-us.html) page, they claim the team at Cursor makes complex information understandable. The website aims to be a go-to source for a healthier lifestyle and a more productive professional career, covering topics like business trends, technology, money news, health, and lifestyle tips. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Ownership details for Cursor.org are not disclosed, making it difficult to assess any potential biases stemming from ownership. The site is funded through advertising, as ads are visible on the webpage.
+Analysis / Bias
+The article
+[“The Controversy Surrounding Amazon’s Return-To-Office”](https://www.cursor.org/business/2023/09/01/controversy-surrounding-amazon-return-office.html) maintains a mostly neutral tone but includes some wording that could be seen as biased. For instance, it suggests that Amazon is “attempting to justify its stance,” which could question the company’s motives. The article cites a [Gallup survey](https://mediabiasfactcheck.com/gallup/) and quotes individuals but lacks hyperlinks for verification, affecting its credibility.
+Moving on to the second article,
+[“The Pervasive Presence Of ‘Forever Chemicals’ In U.S. Tap Water,”](https://www.cursor.org/politics/2023/07/13/forever-chemicals-in-us-tap-water.html) discusses their impact and the government’s response. While it cites studies and mentions a settlement involving 3M, it doesn’t provide hyperlinks for these sources, which could question its factual accuracy.
+Lastly,
+[“Trump May Seek Republican Nomination in 2024”](https://www.cursor.org/politics/2021/12/15/trump-republican-nomination-2024.html), discussing Trump’s potential 2024 run, includes a quote from an anonymous source calling [Trump](https://mediabiasfactcheck.com/donald-trump-republican-presidential-candidate-bias-profile/) a “serial loser,” indicating a possible editorial bias. The article cites [The Atlantic](https://mediabiasfactcheck.com/the-atlantic/) and other media but lacks hyperlinks for verification, making it hard to confirm the accuracy of the quotes. It quotes Newt Gingrich and Mary Trump, although it’s unclear how accurate these quotes are without external verification.
+Failed Fact Checks
+- None in the Last 5 years

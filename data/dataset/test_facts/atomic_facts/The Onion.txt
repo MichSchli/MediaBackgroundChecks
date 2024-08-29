@@ -1,0 +1,26 @@
+The Onion is the founder of The Onion	contradiction
+Univision is the CEO of The Onion	entailment
+The Onion owns The Onion	entailment
+The Onion is the owner of The Onion	entailment
+Univision bought The Onion	contradiction
+The Onion is funded through online advertising	entailment
+The remit of The Onion is to  satire articles.	entailment
+The mission of The Onion is to **produce satirical content**	entailment
+The Onion tends to the satire website on the internet.	entailment
+The factuality of The Onion is reported to be **not factual**	entailment
+The factuality of The Onion is reported to be satire, according to Media Bias Fact Check.	entailment
+The Onion failed a fact-check for an article titled MTA Unveils New Designated Seating For Commuters Who Look Like They’re About To Snap	contradiction
+The Onion chose not to cover [real news stories].	entailment
+The Onion relies on advertising for revenue	entailment
+The Onion relies on subscriptions for revenue	contradiction
+The Onion relies on donations for revenue	contradiction
+The Onion has received donations from **online advertising**	entailment
+When aggregating stories, The Onion relies on information from **stories that might seem real and sometimes are mistaken as real**.	entailment
+The Onion has endorsed Republicans and Democrats	contradiction
+The Onion has an editorial bias towards satire	entailment
+The Onion printed a biased article titled "MTA Unveils New Designated Seating For Commuters Who Look Like They're About To Snap"	entailment
+The Onion printed a factually misleading titled "MTA Unveils New Designated Seating For Commuters Who Look Like They’re About To Snap"	entailment
+The Onion's headquarter is located in Chicago	entailment
+The Onion is funded by the U.S. government	contradiction
+The Onion is a satire website	entailment
+The Onion covers the following topics: satirical articles based on stories that might seem real and sometimes are mistaken as real, pokes fun at both Republicans and Democrats.	entailment

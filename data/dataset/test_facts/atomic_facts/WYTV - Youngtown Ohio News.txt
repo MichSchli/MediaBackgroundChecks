@@ -1,0 +1,20 @@
+Nexstar Media Group owns WYTV - Youngtown Ohio News	entailment
+Nexstar Media Group is the owner of WYTV - Youngtown Ohio News	entailment
+Nexstar Media Group bought WYTV - Youngtown Ohio News	entailment
+Nexstar Media Group acquired WYTV - Youngtown Ohio News	contradiction
+The remit of WYTV - Youngstown Ohio News is to **provide news, sports, weather, politics, and crime reporting**.	entailment
+The mission of WYTV - Youngstown Ohio News is to report news factually and with minimal bias.	entailment
+The usual audience of WYTV - Youngtown Ohio News is **the greater Youngstown, Ohio area**.	entailment
+WYTV - Youngstown Ohio News tends to the **least biased**	entailment
+Other sources have commented on WYTV - Youngtown Ohio News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WYTV - Youngtown Ohio News is reported to be High	entailment
+The factuality of WYTV - Youngtown Ohio News is reported to be high, according to Media Bias/Fact Check.	entailment
+WYTV - Youngstown Ohio News failed a fact-check for an article titled "None in the last 5 years."	contradiction
+WYTV - Youngstown Ohio News chose not to cover opinion pieces	entailment
+WYTV - Youngtown Ohio News relies on advertising for revenue	entailment
+WYTV - Youngtown Ohio News relies on donations for revenue	contradiction
+When aggregating stories, WYTV - Youngstown Ohio News relies on information from **the Associated Press**	entailment
+WYTV - Youngtown Ohio News has endorsed  Least Biased based on neutral straight news reporting without offering opinion pieces.	entailment
+WYTV - Youngstown Ohio News has an editorial bias towards **neither side**	entailment
+WYTV - Youngstown Ohio News is a **television station**	entailment
+WYTV - Youngtown Ohio News covers the following topics: News, sports, weather, politics, and crime reporting.	entailment

@@ -1,0 +1,21 @@
+Tikuno Media LLC founded Opposing Views	contradiction
+Tikuno Media LLC owns Opposing Views	entailment
+Tikuno Media LLC is the owner of Opposing Views	entailment
+Tikuno Media LLC acquired Opposing Views	entailment
+Opposing Views is funded through Advertising	entailment
+The remit of Opposing Views is to provide balanced coverage in an increasingly partisan media climate.	contradiction
+The mission of Opposing Views is to provide balanced coverage in an increasingly partisan media climate.	entailment
+The usual audience of Opposing Views is **right-center**	entailment
+Opposing Views tends to the right.	entailment
+Other sources have commented on Opposing Views, stating that it tends to be **Right-Center biased**.	entailment
+The factuality of Opposing Views is reported to be Mixed	entailment
+The factuality of Opposing Views is reported to be Mixed, according to Mediabiasfactcheck.	entailment
+Opposing Views chose not to cover **climate change**	contradiction
+Opposing Views relies on advertising for revenue	entailment
+Opposing Views relies on subscriptions for revenue	entailment
+Opposing Views relies on donations for revenue	entailment
+Opposing Views has an editorial bias towards **the right**	entailment
+Opposing Views printed a biased article titled **President Biden’s Outfit Turns Heads, Some Critics Call It ‘Unpresidential’.**	entailment
+Opposing Views's headquarter is located in Los Angeles	entailment
+Opposing Views is funded by the **United States** government	entailment
+Opposing Views is a **Right-Center**	entailment

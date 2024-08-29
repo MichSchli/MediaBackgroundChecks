@@ -1,0 +1,19 @@
+Missouri Independent is funded through **grants and a coalition of donors and readers**	entailment
+The remit of Missouri Independent is to **cover state government, politics and policy**	entailment
+The mission of Missouri Independent is to cover state government, politics and policy.	entailment
+The Missouri Independent tends to the left	entailment
+Other sources have commented on Missouri Independent, stating that it tends to be **Left Biased**	entailment
+The factuality of Missouri Independent is reported to be High	entailment
+The factuality of Missouri Independent is reported to be High, according to Mediabiasfactcheck.	entailment
+Missouri Independent failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Missouri Independent chose not to cover [the Arizona Mirror's criticism of their involvement with the Hopewell Foundation]	contradiction
+Missouri Independent provides original content written by staff journalists	entailment
+Missouri Independent relies on subscriptions for revenue	entailment
+Missouri Independent relies on donations for revenue	entailment
+Missouri Independent has received donations from **a coalition of donors and readers**	entailment
+When aggregating stories, Missouri Independent relies on information from whitehouse.gov, Washington Post, Politico, Center for Responsive Politics (Open Secrets), and bls.gov (U.S. Bureau of Labor Statistics).	entailment
+Missouri Independent has an editorial bias towards **left**	entailment
+Missouri Independent had to apologize for **none in the Last 5 years**	entailment
+Missouri Independent is funded by the United States government	contradiction
+Missouri Independent is a nonpartisan, nonprofit news organization	entailment
+Missouri Independent covers the following topics: state government, politics, policy, legislature, environment, national policy, LGBT equality, climate change, Republican politicians.	entailment

@@ -1,0 +1,17 @@
+Matt Gray is the founder of Herb	entailment
+Flora Media, Inc owns Herb	entailment
+The remit of Herb is to **cover the Marijuana industry and associated lifestyle**	entailment
+The mission of Herb is to **simplify cannabis from discovery to purchase**	entailment
+Herb tends to the marijuana industry according to their about page	entailment
+Other sources have commented on Herb, stating that it tends to be left-leaning moderate.	entailment
+The factuality of Herb is reported to be moderate	entailment
+The factuality of Herb is reported to be left-leaning, according to Media Bias Fact Check.	entailment
+Herb failed a fact-check for an article titled  "Cannabis can cure cancer"	entailment
+Herb chose not to cover Failed Fact Checks	contradiction
+Herb relies on advertising for revenue	entailment
+Herb relies on donations for revenue	contradiction
+When aggregating stories, Herb relies on information from justice.gov, bjs.gov, and Pew Research.	entailment
+Herb has endorsed **marijuana legalization and social justice**	entailment
+Herb has an editorial bias towards liberal perspectives.	entailment
+Herb printed a biased article titled "Cannabis can cure cancer".	entailment
+Herb printed a factually misleading titled a left-leaning moderate Pseudoscience website due to the claim that marijuana can cure cancer.	entailment

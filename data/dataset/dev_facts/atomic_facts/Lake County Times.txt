@@ -1,0 +1,23 @@
+Metric Media LLC founded Lake County Times	entailment
+Metric Media Foundation owns Lake County Times	entailment
+Metric Media LLC acquired Lake County Times	entailment
+Lake County Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Lake County Times is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Lake County Times is to  **fill the void in community news after years of decline in local reporting by legacy media. Our approach is to provide objective, data-driven information without political bias.**	entailment
+The usual audience of Lake County Times is **conservative-leaning**.	entailment
+Lake County Times tends to the right-center, biased, and Questionable.	entailment
+Lake County Times tends to the right-center, biased, and Questionable according to D. Van Zandt 02/22/2024.	entailment
+Other sources have commented on Lake County Times, stating that it tends to be right-center biased.	entailment
+The factuality of Lake County Times is reported to be questionable	entailment
+The factuality of Lake County Times is reported to be questionable, according to D. Van Zandt.	entailment
+Lake County Times chose not to cover false information	contradiction
+Lake County Times provides original content written by staff journalists	contradiction
+Lake County Times relies on advertising for revenue	entailment
+Lake County Times relies on subscriptions for revenue	contradiction
+Lake County Times relies on donations for revenue	entailment
+Lake County Times has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Lake County Times relies on information from **algorithmically produced content**.	entailment
+Lake County Times has endorsed right-center, biased, and Questionable	entailment
+Lake County Times has an editorial bias towards conservative	entailment
+Lake County Times printed a biased article titled **Lake County Times an Imposter Site**	entailment
+Lake County Times printed a factually misleading titled imposter site	entailment

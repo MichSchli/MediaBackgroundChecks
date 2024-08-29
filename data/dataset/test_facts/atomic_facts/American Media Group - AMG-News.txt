@@ -1,0 +1,21 @@
+American Media Group - AMG-News is funded through advertising.	entailment
+The remit of American Media Group - AMG-News is to **publish right-leaning conspiracy and pseudoscience information.**	entailment
+The mission of American Media Group - AMG-News is to  debunk fact-checked mainstream media narratives.	contradiction
+The usual audience of American Media Group - AMG-News is right biased and a Tin-Foil Hat Conspiracy and Quackery Level Pseudoscience site based on the consistent publication of unsubstantiated or false information.	entailment
+American Media Group - AMG-News tends to the right biased and a Tin-Foil Hat Conspiracy and Quackery Level Pseudoscience site.	entailment
+Other sources have commented on American Media Group - AMG-News, stating that it tends to be **right biased**.	entailment
+The factuality of American Media Group - AMG-News is reported to be false	entailment
+The factuality of American Media Group - AMG-News is reported to be false, according to D. Van Zandt (10/31/2021).	entailment
+American Media Group - AMG-News failed a fact-check for an article titled **GITMO: Which Presidents Are Going? Deep State, Treason, Military Tribunals, Official Documents, List of Indictments**	entailment
+American Media Group - AMG-News relies on advertising for revenue	entailment
+American Media Group - AMG-News relies on subscriptions for revenue	contradiction
+American Media Group - AMG-News relies on donations for revenue	entailment
+When aggregating stories, American Media Group - AMG-News relies on information from **fringe Youtube videos and conspiracy theorist Hal Turner**.	entailment
+American Media Group - AMG-News has endorsed **over-the-top conspiracy theories and quackery level pseudoscience from a right-leaning perspective**	entailment
+American Media Group - AMG-News has an editorial bias towards **right-leaning conspiracy and pseudoscience information**.	entailment
+American Media Group - AMG-News printed a biased article titled "GITMO: Which Presidents Are Going? Deep State, Treason, Military Tribunals, Official Documents, List of Indictments".	entailment
+American Media Group - AMG-News printed a factually misleading titled **"GITMO: Which Presidents Are Going? Deep State, Treason, Military Tribunals, Official Documents, List of Indictments"**	entailment
+American Media Group - AMG-News had to apologize for **consistently publishing unsubstantiated or false information**	entailment
+American Media Group - AMG-News's headquarter is located in Romania.	entailment
+American Media Group - AMG-News is a Tin-Foil Hat Conspiracy and Quackery Level Pseudoscience site.	entailment
+American Media Group - AMG-News covers the following topics: conspiracy theories, pseudoscience, new world order, FEMA camps, miracle cancer cures, vaccine misinformation, QAnon conspiracies.	entailment

@@ -1,0 +1,21 @@
+Gray Television leads KOSA - CBS7	entailment
+Gray Television owns KOSA - CBS7	entailment
+Gray Television is the owner of KOSA - CBS7	entailment
+Gray Television bought KOSA - CBS7	entailment
+Gray Television acquired KOSA - CBS7	entailment
+KOSA - CBS7 is funded through advertising	entailment
+The remit of KOSA - CBS7 is to **provide news coverage for Odessa, Texas, and the surrounding areas**.	entailment
+The mission of KOSA - CBS7 is to **provide local and national news and sports, weather, traffic, and entertainment**	entailment
+The usual audience of KOSA - CBS7 is **local**	entailment
+Other sources have commented on KOSA - CBS7, stating that it tends to be **Least Biased**.	entailment
+The factuality of KOSA - CBS7 is reported to be High	entailment
+The factuality of KOSA - CBS7 is reported to be high, according to mediabiasfactcheck.com	entailment
+KOSA - CBS7 failed a fact-check for an article titled "Midland Mayor says Jenny Cudd has ‘suffered enough’, recommends no punishment for role in Jan. 6 riots".	contradiction
+KOSA - CBS7 chose not to cover an opinion page.	entailment
+KOSA - CBS7 relies on advertising for revenue	entailment
+KOSA - CBS7 relies on subscriptions for revenue	contradiction
+KOSA - CBS7 relies on donations for revenue	contradiction
+KOSA - CBS7 has endorsed least biased reporting	entailment
+KOSA - CBS7 has an editorial bias towards Least Biased.	entailment
+KOSA - CBS7 is funded by the  United States	contradiction
+KOSA - CBS7 is a television station	entailment

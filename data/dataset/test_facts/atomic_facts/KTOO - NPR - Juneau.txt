@@ -1,0 +1,24 @@
+Founded by Capital Community Broadcasting Inc. founded KTOO - NPR - Juneau	entailment
+Capital Community Broadcasting Inc. owns KTOO - NPR - Juneau	entailment
+Capital Community Broadcasting Inc. is the owner of KTOO - NPR - Juneau	entailment
+Capital Community Broadcasting Inc. bought KTOO - NPR - Juneau	entailment
+Capital Community Broadcasting Inc. acquired KTOO - NPR - Juneau	entailment
+KTOO - NPR - Juneau is funded through institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+The remit of KTOO - NPR - Juneau is to **report news and radio programming information with a slight liberal bias**.	entailment
+The mission of KTOO - NPR - Juneau is to report news and radio programming information with a slight liberal bias.	entailment
+KTOO - NPR - Juneau tends to the left	entailment
+Other sources have commented on KTOO - NPR - Juneau, stating that it tends to be Left-Center Biased	entailment
+The factuality of KTOO - NPR - Juneau is reported to be High	entailment
+The factuality of KTOO - NPR - Juneau is reported to be High, according to Media Bias/Fact Check.	entailment
+"KTOO - NPR - Juneau chose not to cover Juneteenth and Indigenous Peoples Day are now Anchorage municipal holidays"	contradiction
+KTOO - NPR - Juneau relies on advertising for revenue	contradiction
+KTOO - NPR - Juneau relies on subscriptions for revenue	contradiction
+KTOO - NPR - Juneau relies on donations for revenue	entailment
+KTOO - NPR - Juneau has received donations from **individual contributions**	entailment
+When aggregating stories, KTOO - NPR - Juneau relies on information from NPR, American Public Media, and the Corporation for Public Broadcasting.	entailment
+KTOO - NPR - Juneau has endorsed Left-Center Biased	entailment
+KTOO - NPR - Juneau has an editorial bias towards Left-Center	entailment
+KTOO - NPR - Juneau's headquarter is located in Juneau	entailment
+KTOO - NPR - Juneau is funded by the federal government	contradiction
+KTOO - NPR - Juneau is a Left-Center Biased	entailment
+KTOO - NPR - Juneau uses a peer review process	entailment

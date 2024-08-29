@@ -1,0 +1,23 @@
+Thomas E. Lynch founded Intercollegiate Studies Institute	contradiction
+John A. Burtka Iv is the CEO of Intercollegiate Studies Institute	entailment
+John A. Burtka Iv leads Intercollegiate Studies Institute	entailment
+John A. Burtka Iv owns Intercollegiate Studies Institute	entailment
+Thomas E. Lynch bought Intercollegiate Studies Institute	contradiction
+ISI acquired Intercollegiate Studies Institute	contradiction
+Intercollegiate Studies Institute is funded through donations.	entailment
+The remit of Intercollegiate Studies Institute is to **promote conservative thought and ideas on college campuses**	entailment
+The mission of Intercollegiate Studies Institute is to promote conservative thought and ideas on college campuses.	entailment
+Intercollegiate Studies Institute tends to the **right**	entailment
+Other sources have commented on Intercollegiate Studies Institute, stating that it tends to be right-biased.	entailment
+The factuality of Intercollegiate Studies Institute is reported to be mostly factual, according to one-sided opinionated reporting designed to denigrate the left.	entailment
+Intercollegiate Studies Institute relies on advertising for revenue	entailment
+Intercollegiate Studies Institute relies on subscriptions for revenue	entailment
+Intercollegiate Studies Institute relies on donations for revenue	entailment
+Intercollegiate Studies Institute has received donations from various foundations.	entailment
+Intercollegiate Studies Institute has endorsed limited government, individual liberty, personal responsibility, a free-market economy, and traditional values	entailment
+Intercollegiate Studies Institute has an editorial bias towards **right-biased**	entailment
+Intercollegiate Studies Institute printed a biased article titled "Conservatism: Trump and Beyond".	entailment
+Intercollegiate Studies Institute's headquarter is located in Wilmington	entailment
+Intercollegiate Studies Institute is funded by the United States government	contradiction
+Intercollegiate Studies Institute is a nonprofit 	entailment
+Intercollegiate Studies Institute covers the following topics: conservative thought and ideas on college campuses, limited government, individual liberty, personal responsibility, a free-market economy, traditional values.	entailment

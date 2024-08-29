@@ -1,0 +1,18 @@
+Minute Media is the founder of Mental Floss	contradiction
+Minute Media owns Mental Floss	entailment
+Minute Media is the owner of Mental Floss	entailment
+Minute Media bought Mental Floss	entailment
+Minute Media acquired Mental Floss	entailment
+Mental Floss is funded through advertising and sale of merchandise	entailment
+The remit of Mental Floss is to deliver smart, fun and shareable content in an upbeat and witty environment.	entailment
+The mission of Mental Floss is to deliver smart, fun, and shareable content in an upbeat and witty environment.	entailment
+The usual audience of Mental Floss is millennial.	entailment
+Mental Floss tends to the Least Biased	entailment
+Other sources have commented on Mental Floss, stating that it tends to be least biased.	entailment
+The factuality of Mental Floss is reported to be High	entailment
+The factuality of Mental Floss is reported to be High, according to their [Factualsearch profile](https://factualsearch.news/#?fns.type=fact-checking&gsc.tab=0&gsc.q=mental%20floss&gsc.sort=).	entailment
+Mental Floss failed a fact-check for an article titled "A factual search reveals they have not failed a fact check."	contradiction
+Mental Floss chose not to cover **hard news**	entailment
+Mental Floss relies on advertising for revenue	entailment
+Mental Floss relies on donations for revenue	contradiction
+Mental Floss has an editorial bias towards least biased.	entailment

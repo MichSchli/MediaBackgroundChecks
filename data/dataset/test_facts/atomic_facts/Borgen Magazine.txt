@@ -1,0 +1,26 @@
+Clint founded Borgen Magazine	entailment
+Clint Borgen is the founder of Borgen Magazine	entailment
+Borgen Magazine bought Borgen Magazine	contradiction
+Borgen Magazine acquired Borgen Magazine	contradiction
+Borgen Magazine is funded through donations	entailment
+The remit of Borgen Magazine is to advocate for poverty-reducing legislation, mobilize global support, and raise awareness about extreme poverty.	entailment
+The mission of Borgen Magazine is to advocate for poverty-reducing legislation, mobilizes global support, and raises awareness about extreme poverty.	entailment
+The usual audience of Borgen Magazine is left-center biased	entailment
+Borgen Magazine tends to the left	entailment
+Other sources have commented on Borgen Magazine, stating that it tends to be **left-center biased**.	entailment
+The factuality of Borgen Magazine is reported to be high	entailment
+The factuality of Borgen Magazine is reported to be high, according to their use of credible sourcing and a clean fact-check record.	entailment
+Borgen Magazine failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Borgen Magazine chose not to cover [Failed Fact Checks](https://www.borgenmagazine.com/).	entailment
+Borgen Magazine provides original content written by staff journalists	entailment
+Borgen Magazine relies on advertising for revenue	entailment
+Borgen Magazine relies on subscriptions for revenue	contradiction
+Borgen Magazine relies on donations for revenue	entailment
+Borgen Magazine has received donations from donations	entailment
+When aggregating stories, Borgen Magazine relies on information from credible sources.	entailment
+Borgen Magazine has endorsed left-center biased.	entailment
+Borgen Magazine has an editorial bias towards left-center.	entailment
+Borgen Magazine was fined 	entailment
+Borgen Magazine's headquarter is located in Tacoma, WA	entailment
+Borgen Magazine is a online initiative	entailment
+Borgen Magazine covers the following topics: poverty-reducing legislation, global support, extreme poverty, American Politicians Who Have Battled Global Poverty, The READ Act Reauthorization Act of 2023	entailment

@@ -1,0 +1,18 @@
+PostMedia owns Wetaskiwin Times	entailment
+PostMedia is the owner of Wetaskiwin Times	entailment
+PostMedia acquired Wetaskiwin Times	entailment
+Wetaskiwin Times is funded through advertising and subscription fees	entailment
+The mission of Wetaskiwin Times is to **report local and regional news and provide a platform for right-leaning editorial positions**	entailment
+The usual audience of Wetaskiwin Times is Right-Center Biased	entailment
+Wetaskiwin Times tends to the right	entailment
+Wetaskiwin Times tends to the right-center biased according to story selection and editorial positions.	entailment
+Other sources have commented on Wetaskiwin Times, stating that it tends to be right-leaning	entailment
+The factuality of Wetaskiwin Times is reported to be High	entailment
+The factuality of Wetaskiwin Times is reported to be High, according to a profile on [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/canada-media-profile/).	entailment
+Wetaskiwin Times failed a fact-check for an article titled None in the Last 5 years	contradiction
+Wetaskiwin Times relies on advertising for revenue	entailment
+Wetaskiwin Times relies on subscriptions for revenue	entailment
+Wetaskiwin Times relies on donations for revenue	contradiction
+When aggregating stories, Wetaskiwin Times relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/).	entailment
+The Wetaskiwin Times has endorsed conservative right	entailment
+Wetaskiwin Times has an editorial bias towards  conservative right.	entailment

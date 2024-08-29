@@ -1,0 +1,19 @@
+Father Robert Alan Sirico founded Acton Institute	entailment
+Father Robert Alan Sirico is the founder of Acton Institute	entailment
+Father Robert Alan Sirico leads Acton Institute	entailment
+Acton Institute acquired Acton Institute	contradiction
+Acton Institute is funded through donations	entailment
+The remit of Acton Institute is to promote a free and virtuous society characterized by individual liberty and sustained by religious principles	entailment
+The mission of Acton Institute is to promote a free and virtuous society characterized by individual liberty and sustained by religious principles, integrating Judeo-Christian Truths with Free Market Principles.	entailment
+The usual audience of Acton Institute is **right biased**.	entailment
+Acton Institute tends to the Right Biased	entailment
+Other sources have commented on Acton Institute, stating that it tends to be **right biased**.	entailment
+The factuality of Acton Institute is reported to be Mixed	entailment
+The factuality of Acton Institute is reported to be mixed, according to Mediabiasfactcheck.	entailment
+Acton Institute chose not to cover **the consensus of science regarding climate change**	entailment
+Acton Institute relies on donations for revenue	entailment
+Acton Institute has received donations from ExxonMobil and “$3,132,000 from the Lynde and Harry Bradley Foundation.”	entailment
+Acton Institute has endorsed conservative-libertarian perspective	entailment
+Acton Institute has an editorial bias towards conservative-libertarian.	entailment
+Acton Institute was fined 	entailment
+Acton Institute printed a biased article titled "Time to chill about the fiery climate apocalypse".	entailment

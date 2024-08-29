@@ -1,0 +1,17 @@
+America Daily owns America Daily	entailment
+America Daily is funded through advertising and syndication of online radio programs.	entailment
+The remit of America Daily is to promote extreme right-wing bias, conspiracy theories, and pseudoscience as well as a lack of transparency.	entailment
+The mission of America Daily is to **promote the conservative agenda and denigrate the left**	entailment
+The usual audience of America Daily is **individuals with a conservative**	entailment
+America Daily tends to the ***extreme right-wing bias***	entailment
+Other sources have commented on America Daily, stating that it tends to be **Questionable**.	entailment
+The factuality of America Daily is reported to be Questionable	entailment
+The factuality of America Daily is reported to be questionable, according to D. Van Zandt 5/10/2020	entailment
+America Daily chose not to cover fact-checks	entailment
+America Daily relies on advertising for revenue	entailment
+America Daily relies on subscriptions for revenue	contradiction
+America Daily relies on donations for revenue	contradiction
+America Daily has an editorial bias towards extreme right-wing bias	entailment
+America Daily printed a biased article titled "Danger in Vaccines".	entailment
+America Daily is a conservative news and opinion website.	entailment
+America Daily covers the following topics: conservative bias, promotion of conspiracy theories, pseudoscience, far-right agenda.	entailment

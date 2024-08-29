@@ -1,0 +1,19 @@
+Mid America Publishing owns Buffalo Center Tribune	entailment
+Mid America Publishing bought Buffalo Center Tribune	contradiction
+Buffalo Center Tribune is funded through advertising and subscription fees	entailment
+The remit of Buffalo Center Tribune is to  report.	entailment
+The mission of Buffalo Center Tribune is to report on news, sports, lifestyle, and opinion for Buffalo Center and the surrounding area.	entailment
+The usual audience of Buffalo Center Tribune is **residents in Buffalo Center and the surrounding area**	entailment
+Buffalo Center Tribune tends to the local news	entailment
+Other sources have commented on Buffalo Center Tribune, stating that it tends to be **Least Biased**	entailment
+The factuality of Buffalo Center Tribune is reported to be High	entailment
+The factuality of Buffalo Center Tribune is reported to be High, according to D. Van Zandt	entailment
+Buffalo Center Tribune failed a fact-check for an article titled None in the Last 5 years.	contradiction
+Buffalo Center Tribune chose not to cover national news	entailment
+Buffalo Center Tribune relies on advertising for revenue	entailment
+Buffalo Center Tribune relies on donations for revenue	contradiction
+When aggregating stories, Buffalo Center Tribune relies on information from **proper sourcing and a clean fact-check record**.	entailment
+Buffalo Center Tribune has an editorial bias towards the right	entailment
+Buffalo Center Tribune is funded by the U.S. government	contradiction
+Buffalo Center Tribune is a **newspaper**	entailment
+Buffalo Center Tribune covers the following topics: news, sports, lifestyle, and opinion.	entailment

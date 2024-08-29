@@ -1,0 +1,19 @@
+Dr. Michael Greger is the owner of Nutritionfacts.org	entailment
+Nutritionfacts.org is funded through donations	entailment
+The remit of Nutritionfacts.org is to promote a 100% plant-based diet	entailment
+The mission of Nutritionfacts.org is to promote veganism as a cure for many ailments.	entailment
+The usual audience of Nutritionfacts.org is moderate Pseudoscience source due to exaggerated health claims.	entailment
+Nutritionfacts.org tends to the **moderate Pseudoscience source**	entailment
+Other sources have commented on Nutritionfacts.org, stating that it tends to be **a moderate Pseudoscience source due to exaggerated health claims**.	entailment
+The factuality of Nutritionfacts.org is reported to be moderate	entailment
+The factuality of Nutritionfacts.org is reported to be moderate, according to D. Van Zandt 10/9/2017	entailment
+Nutritionfacts.org failed a fact-check for an article titled "Death as a Foodborne Illness: Curable by Veganism"	entailment
+Nutritionfacts.org relies on advertising for revenue	contradiction
+Nutritionfacts.org relies on donations for revenue	entailment
+When aggregating stories, Nutritionfacts.org relies on information from **cherry-picking information that will always favor veganism**.	entailment
+Nutritionfacts.org has endorsed **a 100% plant-based diet**	entailment
+Nutritionfacts.org has an editorial bias towards veganism	entailment
+Nutritionfacts.org printed a biased article titled **Death as a Foodborne Illness: Curable by Veganism**	entailment
+Nutritionfacts.org printed a factually misleading titled "Death as a Foodborne Illness: Curable by Veganism"?	entailment
+Nutritionfacts.org is funded by the United States government	contradiction
+Nutritionfacts.org is a website	entailment

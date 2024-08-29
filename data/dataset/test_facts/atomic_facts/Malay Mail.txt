@@ -1,0 +1,20 @@
+Malay Mail is funded through advertising	entailment
+The remit of Malay Mail is to **publish mostly factual news and with a right-leaning editorial bias**.	entailment
+The mission of Malay Mail is to **provide mostly factual news with a right-leaning editorial bias**	entailment
+The usual audience of Malay Mail is **readers in Malaysia**	entailment
+Malay Mail tends to the right	entailment
+Other sources have commented on Malay Mail, stating that it tends to be **right-leaning**.	entailment
+The factuality of Malay Mail is reported to be Mostly Factual	entailment
+The factuality of Malay Mail is reported to be mostly factual, according to M. Huitsing 	entailment
+Malay Mail chose not to cover **any failed fact checks in the last 5 years**	entailment
+Malay Mail relies on advertising for revenue	entailment
+Malay Mail relies on subscriptions for revenue	entailment
+Malay Mail relies on donations for revenue	contradiction
+When aggregating stories, Malay Mail relies on information from **quotes**	entailment
+Malay Mail has an editorial bias towards right-leaning editorial positions.	entailment
+Malay Mail was fined **RM500,000**	entailment
+Malay Mail printed a factually misleading titled  "Having the urge for ‘casual sex’? Malaysian expert points out why some partners cheat."	entailment
+Malay Mail's headquarter is located in Kuala Lumpur	entailment
+Malay Mail is funded by the Malaysian government	entailment
+Malay Mail is a Malaysian media organization	entailment
+Malay Mail covers the following topics: Malaysia, international news, progressive politics, DAP, right-leaning editorial bias.	entailment

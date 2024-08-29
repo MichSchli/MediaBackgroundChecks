@@ -1,0 +1,20 @@
+Cell Press leads Cell Journal	entailment
+Elsevier owns Cell Journal	entailment
+Elsevier is the owner of Cell Journal	entailment
+Elsevier bought Cell Journal	entailment
+Cell Journal is funded through subscription fees and fees for open-access publishing	entailment
+The remit of Cell Journal is to publish findings of unusual significance in any area of experimental biology, including but not limited to cell biology, molecular biology, neuroscience, immunology, virology, and microbiology, cancer, human genetics, systems biology, signaling, and disease mechanisms and therapeutics.	entailment
+The mission of Cell Journal is to  "publish findings of unusual significance in any area of experimental biology"	entailment
+Cell Journal tends to the pro-science	entailment
+Other sources have commented on Cell Journal, stating that it tends to be **a Pro-Science journal**.	entailment
+The factuality of Cell Journal is reported to be High	entailment
+The factuality of Cell Journal is reported to be high, according to a clean fact check record.	entailment
+Cell Journal failed a fact-check for an article titled None in the Last 5 years.	contradiction
+Cell Journal relies on subscriptions for revenue	entailment
+Cell Journal relies on donations for revenue	entailment
+Cell Journal has endorsed Pro-Science	entailment
+Cell Journal has an editorial bias towards Pro-Science	entailment
+Cell Journal had to apologize for retracting some studies.	entailment
+Funded by / Ownership The Cell Journal is published by Cell Press which is a subsidiary of [Elsevier](https://en.wikipedia.org/wiki/Elsevier), a Dutch information and analytics company and one of the world’s foremost providers of scientific, technical, and medical information. It was established in 1880 as a publishing company. Elsevier’s parent company is RELX plc, a British multinational information and analytics company headquartered in London, England. The journal generates revenue through subscription fees and fees for open-access publishing. Analysis / Bias Cell Journal is a hybrid (some open-access) journal that publishes information and research related to cellular biology. The journal primarily publishes research such as this [Opioid-induced fragile-like regulatory T cells contribute to withdrawal](https://www.cell.com/cell/fulltext/S0092-8674(22)01573-2). Cell Press is an open-access/hybrid publisher of scientific journals. There are two types of Open Access Journals, legitimate and predatory, both of which charge the author for publication. [Predatory journals](https://predatoryjournals.com/about/) often lack peer review and are generally considered not credible. The Cell Journal is considered a [legitimate, open-access publisher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017830/) that is frequently indexed in [PubMed](https://mediabiasfactcheck.com/pubmed/). However, Cell Press has been criticized for [retracting some studies.](https://retractionwatch.com/category/by-journal/cell/) Although Cell Press has retracted some studies in other publications, Cell Journal publishes credible scientific studies that are factual and appropriately peer-reviewed. Failed Fact Checks - None in the Last 5 years Overall, we rate Cell Journal as a Pro-Science journal. We also rate them High for factual reporting due to a clean fact check record. (D. Van Zandt 02/09/2023) Source: [https://www.cell.com/cell/](https://www.cell.com/cell/)	entailment
+Cell Journal uses a peer review process	entailment
+Cell Journal covers the following topics: cell biology, molecular biology, neuroscience, immunology, virology and microbiology, cancer, human genetics, systems biology, signaling, and disease mechanisms and therapeutics.	entailment

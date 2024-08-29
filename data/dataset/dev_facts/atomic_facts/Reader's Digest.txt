@@ -1,0 +1,24 @@
+DeWitt Wallace founded Reader's Digest	entailment
+DeWitt Wallace is the founder of Reader's Digest	entailment
+Bonnie Kintzer is the CEO of Reader's Digest	entailment
+Reader's Digest leads Reader's Digest.	entailment
+Trusted Media Brands, Inc owns Reader's Digest	entailment
+Trusted Media Brands, Inc is the owner of Reader's Digest	entailment
+Trusted Media Brands, Inc bought Reader's Digest	entailment
+Trusted Media Brands, Inc acquired Reader's Digest	entailment
+Reader's Digest is funded through **subscription fees and advertising**	entailment
+The remit of Reader's Digest is to **report news in "listicle" style**	entailment
+Reader's Digest tends to the right according to mediabiasfactcheck.com	entailment
+Other sources have commented on Reader's Digest, stating that it tends to be **right biased**	entailment
+The factuality of Reader's Digest is reported to be **mixed**.	entailment
+The factuality of Reader's Digest is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Reader's Digest failed a fact-check for an article titled **45 Things Heart Doctors Do to Protect Their Own Hearts**	entailment
+Reader's Digest chose not to cover **celebrity profiles and generic how-to magazine features**	entailment
+Reader's Digest relies on advertising for revenue	entailment
+Reader's Digest relies on subscriptions for revenue	contradiction
+Reader's Digest relies on donations for revenue	contradiction
+Reader's Digest has endorsed traditional, conservative values	entailment
+Reader's Digest has an editorial bias towards right	entailment
+Bruce Kelley is the editor of Reader's Digest	entailment
+The biased article titled  "14 Things You Didn’t Know About Donald Trump"	entailment
+Reader's Digest had to apologize to Trading Standards Institute UK for criticizing Readers Digest	contradiction

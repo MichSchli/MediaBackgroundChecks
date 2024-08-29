@@ -1,0 +1,24 @@
+Jonathon Sturgeon leads The Baffler	entailment
+The Baffler owns The Baffler	contradiction
+The Baffler is the owner of The Baffler	contradiction
+The Baffler bought The Baffler	contradiction
+The Baffler acquired The Baffler	contradiction
+The Baffler is funded through **subscription fees, donations, and bookstore sales**.	entailment
+The remit of The Baffler is to cover a wide range of topics through solid journalism that is hard-hitting and, at times, humorous.	entailment
+The usual audience of The Baffler is Left Biased	entailment
+The Baffler tends to the **left**.	entailment
+The Baffler tends to the left according to factual reporting	entailment
+Other sources have commented on The Baffler, stating that it tends to be Left Biased	entailment
+The factuality of The Baffler is reported to be High	entailment
+The factuality of The Baffler is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+The Baffler failed a fact-check for an article titled Nationalism Kills	contradiction
+The Baffler chose not to cover **any positive aspects of capitalism**	entailment
+The Baffler relies on advertising for revenue	contradiction
+The Baffler relies on subscriptions for revenue	entailment
+The Baffler relies on donations for revenue	entailment
+When aggregating stories, The Baffler relies on information from **proper sourcing**.	entailment
+The Baffler has endorsed the progressive left.	entailment
+The Baffler has an editorial bias towards **the progressive left**	entailment
+Jonathon Sturgeon is the editor of The Baffler	entailment
+The Baffler printed a biased article titled **Nationalism Kills**	entailment
+The Baffler had to apologize to no one for nothing	entailment

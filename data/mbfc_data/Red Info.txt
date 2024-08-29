@@ -1,0 +1,13 @@
+Reasoning: Extreme Right, Propaganda, Fake News
+Country: Macedonia
+World Press Freedom Rank: Macedonia 109/180
+History
+Red Info is an
+[extreme right wing fake news site](https://www.wired.com/2017/02/veles-macedonia-fake-news/) that originates from [Veles, Macedonia](http://whois.domaintools.com/redinfo.us).
+Funded by / Ownership
+According to Whois the website is registered to Marko Cvetkovski. The website does not have advertising or a donation link.
+Analysis / Bias
+In review, all stories are either outright fake or simply misleading. There is a reason for this source to be on
+[Politifact’s fake news list](http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/?platform=hootsuite). Red Info typically utilizes loaded headlines that favor the right such as this: [Mike Huckabee Just Exposed Dirty Secret Behind Dem’s SCOTUS Hypocrisy](http://www.redinfo.us/?p=118). Further, most stories are not sourced at all.
+A
+[factual search](https://factualsearch.news/#gsc.tab=0&gsc.q=redinfo&gsc.sort=&gsc.ref=fact_checking) reveals numerous [failed fact checks](https://www.snopes.com/fact-check/muslim-girl-trump-supporter/) from IFCN fact checkers.

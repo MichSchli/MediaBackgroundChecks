@@ -1,0 +1,23 @@
+Gannett is the founder of Alamogordo Daily News	contradiction
+Gannett is the CEO of Alamogordo Daily News	contradiction
+Gannett owns Alamogordo Daily News	entailment
+Gannett is the owner of Alamogordo Daily News	entailment
+Gannett bought Alamogordo Daily News	entailment
+Alamogordo Daily News is funded through advertising and paid subscriptions	entailment
+The remit of Alamogordo Daily News is to **cover news, sports, lifestyle, and entertainment for the greater Alamogordo, New Mexico area**	entailment
+The mission of Alamogordo Daily News is to  provide news, sports, lifestyle, and entertainment for the greater Alamogordo, New Mexico area, as well as national and international coverage.	entailment
+The usual audience of Alamogordo Daily News is **local residents in Alamogordo, New Mexico, and the surrounding area**.	entailment
+Alamogordo Daily News tends to the left	entailment
+Alamogordo Daily News tends to the left-center according to Mediabiasfactcheck.com	entailment
+Other sources have commented on Alamogordo Daily News, stating that it tends to be Left-Center Biased	entailment
+The factuality of Alamogordo Daily News is reported to be High	entailment
+The factuality of Alamogordo Daily News is reported to be High, according to mediabiasfactcheck.com	entailment
+Alamogordo Daily News failed a fact-check for an article titled "Shooting at Cielo Vista Mall survivors share their stories".	contradiction
+Alamogordo Daily News chose not to cover Presidential endorsements	entailment
+Alamogordo Daily News relies on advertising for revenue	entailment
+Alamogordo Daily News relies on subscriptions for revenue	entailment
+Alamogordo Daily News relies on donations for revenue	contradiction
+When aggregating stories, Alamogordo Daily News relies on information from **other Gannett publications and the Associated Press**	entailment
+Alamogordo Daily News has endorsed  Left-Center.	entailment
+Alamogordo Daily News has an editorial bias towards left	entailment
+Alamogordo Daily News had to apologize for **none**	entailment

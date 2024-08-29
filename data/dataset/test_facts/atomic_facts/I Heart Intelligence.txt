@@ -1,0 +1,17 @@
+Stanislav Slavov and Milen Raychev founded I Heart Intelligence	entailment
+Stanislav Slavov and Milen Raychev own I Heart Intelligence	entailment
+Stanislav Slavov and Milen Raychev bought I Heart Intelligence	contradiction
+I Heart Intelligence is funded through advertising, sponsored content, and an online shop that sells merchandise.	entailment
+The mission of I Heart Intelligence is to share interesting stories, amazing facts, and fun, intelligent, and inspiring content.	entailment
+Other sources have commented on I Heart Intelligence, stating that it tends to be a mild pseudoscience website to promote occasional information that does not align with the consensus of science.	entailment
+The factuality of I Heart Intelligence is reported to be Mixed	entailment
+The factuality of I Heart Intelligence is reported to be **Mixed**, according to **Media Bias/Fact Check**	entailment
+I Heart Intelligence failed a fact-check for an article titled "Why Un-Boiling An Egg Could Be The Cancer Treatment Breakthrough Of The Decade".	entailment
+I Heart Intelligence chose not to cover **news stories aligned with the consensus of science**	entailment
+I Heart Intelligence relies on advertising for revenue	entailment
+I Heart Intelligence relies on subscriptions for revenue	contradiction
+I Heart Intelligence relies on donations for revenue	contradiction
+When aggregating stories, I Heart Intelligence relies on information from **a combination of real scientific/technology news and questionable pseudoscience**	entailment
+I Heart Intelligence has an editorial bias towards **mild pseudoscience**	entailment
+I Heart Intelligence printed a factually misleading titled "Natural cancer cures - Why Un-Boiling An Egg Could Be The Cancer Treatment Breakthrough Of The Decade"	entailment
+I Heart Intelligence is a website	entailment

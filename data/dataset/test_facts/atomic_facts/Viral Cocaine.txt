@@ -1,0 +1,23 @@
+Viral Cocaine is funded through advertising	entailment
+The remit of Viral Cocaine is to **deceive in that it is very difficult to separate real and fake news**.	entailment
+The mission of Viral Cocaine is to promote satire and fake news.	entailment
+Viral Cocaine tends to the Questionable	entailment
+Other sources have commented on Viral Cocaine, stating that it tends to be Questionable	entailment
+The factuality of Viral Cocaine is reported to be Questionable	entailment
+The factuality of Viral Cocaine is reported to be questionable, according to D. Van Zandt	entailment
+Viral Cocaine failed a fact-check for an article titled **Map shows the cities where deadly 5G cell towers are being rolled out**.	entailment
+Viral Cocaine printed a retraction after failing a fact-check for an article titled **NYC Man Drops Dead In Middle Of Street – Suspected Coronavirus! [VIDEO]**.	contradiction
+Viral Cocaine chose not to cover politics.	entailment
+Viral Cocaine relies on advertising for revenue	entailment
+Viral Cocaine relies on subscriptions for revenue	contradiction
+Viral Cocaine relies on donations for revenue	contradiction
+When aggregating stories, Viral Cocaine relies on information from **fake news websites**.	entailment
+Viral Cocaine has endorsed **conspiracy theories**	entailment
+Viral Cocaine has an editorial bias towards **sensationalism and conspiracy theories**	entailment
+Viral Cocaine printed a biased article titled **Map shows the cities where deadly 5G cell towers are being rolled out**	entailment
+Viral Cocaine printed a factually misleading titled **"NYC Man Drops Dead In Middle Of Street – Suspected Coronavirus! [VIDEO]"**	entailment
+Viral Cocaine had to apologize to Queens for a man wearing a mask – and suspected to have coronavirus – drop dead on a street.	contradiction
+Viral Cocaine paid damages to **Ja Rule** after **falsely reporting that rapper 50 Cent bought Murder Inc. Records and owned all of Ja Rule's music publishing rights**.	contradiction
+The text you provided does not contain information about the funding of Viral Cocaine by any specific government. If you have any other questions or need information on a different topic, feel free to ask!	entailment
+Viral Cocaine is a questionable	entailment
+Viral Cocaine covers the following topics: entertainment and satirical news.	entailment

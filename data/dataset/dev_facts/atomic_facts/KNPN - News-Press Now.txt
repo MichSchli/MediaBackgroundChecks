@@ -1,0 +1,22 @@
+The News-Press & Gazette Company (NPG) owns KNPN - News-Press Now	entailment
+The News-Press & Gazette Company (NPG)	entailment
+NPG bought KNPN - News-Press Now	entailment
+NPG acquired KNPN - News-Press Now	contradiction
+KNPN - News-Press Now is funded through advertising	entailment
+The mission of KNPN - News-Press Now is to  provide news for the greater St. Joseph, Missouri area.	entailment
+KNPN - News-Press Now tends to the **right**.	contradiction
+KNPN - News-Press Now tends to the **right** according to **Media Bias Fact Check**	contradiction
+Other sources have commented on KNPN - News-Press Now, stating that it tends to be **Least Biased**.	entailment
+The factuality of KNPN - News-Press Now is reported to be High	entailment
+The factuality of KNPN - News-Press Now is reported to be high, according to Mediabiasfactcheck	entailment
+KNPN - News-Press Now failed a fact-check for an article titled "An encouraging trend in highway safety".	contradiction
+KNPN - News-Press Now chose not to cover opinion pieces	entailment
+KNPN - News-Press Now provides original content written by staff journalists	entailment
+KNPN - News-Press Now relies on advertising for revenue	entailment
+KNPN - News-Press Now relies on subscriptions for revenue	entailment
+KNPN - News-Press Now relies on donations for revenue	contradiction
+When aggregating stories, KNPN - News-Press Now relies on information from the Associated Press, CBS News, CNN Newswire, and other large, credible media outlets.	entailment
+KNPN - News-Press Now has an editorial bias towards **neither side**	entailment
+KNPN - News-Press Now was fined **false reporting**.	contradiction
+The factually misleading titled **** was "Man charged with murder in shooting on Kickapoo Reservation".	entailment
+KNPN - News-Press Now had to apologize for None in the Last 5 years.	entailment

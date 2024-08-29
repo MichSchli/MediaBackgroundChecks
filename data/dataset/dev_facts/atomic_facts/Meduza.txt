@@ -1,0 +1,14 @@
+Galina Timchenko is the CEO of Meduza	entailment
+Meduza acquired Meduza	contradiction
+The remit of Meduza is to **provide the most important news and feature stories from hundreds of sources in Russia and across the former Soviet Union**	entailment
+The mission of Meduza is to **focus on "the most important news and feature stories from hundreds of sources in Russia and across the former Soviet Union."**	entailment
+The usual audience of Meduza is Left biased	entailment
+Other sources have commented on Meduza, stating that it tends to be **Left biased**	entailment
+The factuality of Meduza is reported to be High	entailment
+The factuality of Meduza is reported to be High, according to Mediabiasfactcheck.	entailment
+Meduza chose not to cover the Russian invasion of Ukraine	contradiction
+Meduza provides original content written by staff journalists	entailment
+When aggregating stories, Meduza relies on information from **hundreds of sources in Russia and across the former Soviet Union**.	entailment
+Meduza has endorsed left biased editorial positions	entailment
+Meduza has an editorial bias towards Left	entailment
+Meduza printed a biased article titled "Leonid Slutsky must resign from the State Duma."	entailment

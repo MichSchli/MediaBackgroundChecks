@@ -1,0 +1,23 @@
+Nexstar Media Group owns WFXV - Utica News	entailment
+Nexstar Media Group is the owner of WFXV - Utica News	entailment
+Nexstar Media Group bought WFXV - Utica News	entailment
+Nexstar Media Group acquired WFXV - Utica News	entailment
+The remit of WFXV - Utica News is to report news factually and with minimal bias.	entailment
+The mission of WFXV - Utica News is to provide news, sports, weather, politics, and crime reporting.	entailment
+The usual audience of WFXV - Utica News is **the greater Utica, New York area**	entailment
+WFXV - Utica News tends to the least biased	entailment
+Other sources have commented on WFXV - Utica News, stating that it tends to be **Least Biased**	entailment
+The factuality of WFXV - Utica News is reported to be High	entailment
+The factuality of WFXV - Utica News is reported to be high, according to Media Bias Fact Check.	entailment
+WFXV - Utica News failed a fact-check for an article titled None in the Last 5 years	contradiction
+WFXV - Utica News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+WFXV - Utica News chose not to cover op-eds	entailment
+WFXV - Utica News relies on advertising for revenue	entailment
+WFXV - Utica News relies on subscriptions for revenue	entailment
+When aggregating stories, WFXV - Utica News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WFXV - Utica News has endorsed **no political party**	entailment
+WFXV - Utica News has an editorial bias towards least biased	entailment
+WFXV - Utica News had to apologize for None in the Last 5 years.	entailment
+WFXV - Utica News had to apologize to (unknown) for (no documented failures)	entailment
+WFXV - Utica News is a Fox-affiliated television station	entailment
+WFXV - Utica News covers the following topics: news, sports, weather, politics, and crime reporting	entailment

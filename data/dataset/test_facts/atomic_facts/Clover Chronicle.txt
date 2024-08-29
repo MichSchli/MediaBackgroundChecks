@@ -1,0 +1,24 @@
+Maria Taylor acquired Clover Chronicle	entailment
+Clover Chronicle is funded through advertising and donations.	entailment
+The remit of Clover Chronicle is to  propagate conspiracy theories and strongly right-leaning news.	entailment
+The mission of Clover Chronicle is to **promote conspiracy theories and strongly right-leaning news**	entailment
+The usual audience of Clover Chronicle is **far-right individuals**	entailment
+The Clover Chronicle tends to the right	entailment
+Other sources have commented on Clover Chronicle, stating that it tends to be **Questionable**.	entailment
+The factuality of Clover Chronicle is reported to be Questionable	entailment
+The factuality of Clover Chronicle is reported to be Questionable, according to M. Huitsing	entailment
+Clover Chronicle failed a fact-check for an article titled **Hillary Clinton Allegedly Covered Up Elite Pedophile Ring While Serving As Secretary Of State**	entailment
+Clover Chronicle chose not to cover **credible sources such as The Modesto Bee**.	contradiction
+Clover Chronicle provides original content written by staff journalists	entailment
+Clover Chronicle relies on advertising for revenue	entailment
+Clover Chronicle relies on subscriptions for revenue	contradiction
+Clover Chronicle relies on donations for revenue	entailment
+Clover Chronicle has received donations from [advertising and donations.](https://cloverchronicle.com/donate/)	entailment
+When aggregating stories, Clover Chronicle relies on information from **questionable sources**.	entailment
+The Clover Chronicle has endorsed extreme right-wing bias, promotion of propaganda and conspiracy theories, use of poor sources, several failed fact checks, and a complete lack of transparency.	entailment
+Clover Chronicle has an editorial bias towards extreme right-wing bias	entailment
+Clover Chronicle printed a biased article titled Questionable based on extreme right-wing bias	entailment
+Clover Chronicle printed a factually misleading titled "Hillary Clinton Allegedly Covered Up Elite Pedophile Ring While Serving As Secretary Of State."	entailment
+The Clover Chronicle is funded by the Canadian government	contradiction
+Clover Chronicle is a **Questionable**	entailment
+Clover Chronicle covers the following topics: conspiracy theories, right-leaning news, Covid-19 vaccines, election fraud conspiracies.	entailment

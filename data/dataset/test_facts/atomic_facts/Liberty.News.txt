@@ -1,0 +1,29 @@
+Mike Adams founded Liberty.News	entailment
+Mike Adams is the founder of Liberty.News	entailment
+Mike Adams leads Liberty.News	entailment
+Mike Adams owns Liberty.News	entailment
+Mike Adams is the owner of Liberty.News	entailment
+Mike Adams bought Liberty.News	entailment
+Mike Adams acquired Liberty.News	entailment
+Liberty.News is funded through online advertising	entailment
+The remit of Liberty.News is to **promote false information and conspiracy theories**	entailment
+The mission of Liberty.News is to **spread extreme right biased Tin-Foil Hat Conspiracy content that also promotes pseudoscience**.	entailment
+The usual audience of Liberty.News is **extreme right biased**	entailment
+Liberty.News tends to the extreme right biased Tin-Foil Hat Conspiracy website.	entailment
+Other sources have commented on Liberty.News, stating that it tends to be an extreme right biased Tin-Foil Hat Conspiracy website.	entailment
+The factuality of Liberty.News is reported to be extreme right biased	entailment
+The factuality of Liberty.News is reported to be **very low**, according to **Media Bias Fact Check**.	entailment
+Liberty.News chose not to cover health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook, anti-vaccination propaganda, and conspiracy theories.	entailment
+Liberty.News provides original content written by staff journalists	contradiction
+Liberty.News relies on advertising for revenue	entailment
+Liberty.News relies on subscriptions for revenue	contradiction
+Liberty.News relies on donations for revenue	contradiction
+Liberty.News has received donations from **online advertising**	entailment
+When aggregating stories, Liberty.News relies on information from online advertising	entailment
+Liberty.News has an editorial bias towards extreme right.	entailment
+Liberty.News printed a biased article titled **Health misinformation website rebrands as pro-Trump outlet to get around ban from Facebook**	entailment
+Liberty.News printed a factually misleading titled an extreme right biased Tin-Foil Hat Conspiracy website	entailment
+Liberty.News is funded by the United States government	entailment
+Liberty.News is a **Tin-Foil Hat Conspiracy website**	entailment
+Liberty.News uses an internal fact-checking process	entailment
+Liberty.News covers the following topics: extreme right biased Tin-Foil Hat Conspiracy, pseudoscience, false information, health misinformation, pro-Trump, right-wing conspiracy, fake news, controversial, online advertising.	entailment

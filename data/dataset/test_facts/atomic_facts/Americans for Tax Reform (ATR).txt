@@ -1,0 +1,18 @@
+Grover Norquist founded Americans for Tax Reform (ATR)	entailment
+Grover Norquist leads Americans for Tax Reform (ATR)	entailment
+Americans for Tax Reform (ATR) acquired Americans for Tax Reform (ATR)	contradiction
+Americans for Tax Reform (ATR) is funded through tax-deductible contributions.	entailment
+The remit of Americans for Tax Reform (ATR) is to **promote an anti-tax, anti-government conservative agenda**	entailment
+The mission of Americans for Tax Reform (ATR) is to promote an anti-tax, anti-government conservative agenda.	entailment
+The usual audience of Americans for Tax Reform (ATR) is **conservative individuals**	entailment
+Americans for Tax Reform (ATR) tends to the **right**	entailment
+Other sources have commented on Americans for Tax Reform (ATR), stating that it tends to be **right-biased**	entailment
+The factuality of Americans for Tax Reform (ATR) is reported to be  Right Biased	entailment
+The factuality of Americans for Tax Reform (ATR) is reported to be mixed, according to M. Huitsing 7/19/2021.	entailment
+Americans for Tax Reform (ATR) relies on advertising for revenue	entailment
+Americans for Tax Reform (ATR) relies on donations for revenue	entailment
+When aggregating stories, Americans for Tax Reform (ATR) relies on information from **CNBC, treasury.gov and mostly factual sources such as taxfoundation.org and the Wall Street Journal.**	entailment
+Americans for Tax Reform (ATR) has an editorial bias towards anti-tax, anti-government conservative agenda	entailment
+Americans for Tax Reform (ATR)'s headquarter is located in Washington, D.C.	entailment
+Americans for Tax Reform (ATR) is funded by the US government	entailment
+Americans for Tax Reform (ATR) is a conservative nonprofit anti-tax lobbying group	entailment

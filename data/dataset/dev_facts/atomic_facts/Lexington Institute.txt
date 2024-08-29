@@ -1,0 +1,19 @@
+James Courter founded Lexington Institute	entailment
+James Courter is the founder of Lexington Institute.	entailment
+James Courter is the CEO of Lexington Institute	contradiction
+Lexington Institute is funded through corporations, other foundations, and individual donors	entailment
+The remit of Lexington Institute is to  promote libertarian-leaning policy positions.	entailment
+Lexington Institute tends to the **right**	entailment
+Lexington Institute tends to the right-center according to Media Bias Fact Check.	entailment
+Other sources have commented on Lexington Institute, stating that it tends to be Right-Center Biased.	entailment
+The factuality of Lexington Institute is reported to be High	entailment
+The factuality of Lexington Institute is reported to be High, according to 	entailment
+Lexington Institute failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Lexington Institute chose not to cover **climate change denialism**	entailment
+Lexington Institute relies on advertising for revenue	entailment
+Lexington Institute relies on donations for revenue	entailment
+Lexington Institute has received donations from Exxon-Mobile, Smith Richardson Foundation, and the Donner Foundation	entailment
+Lexington Institute has endorsed right-leaning editorial and policy positions	entailment
+Lexington Institute has an editorial bias towards **the right**	entailment
+Lexington Institute was fined 	contradiction
+Lexington Institute printed a factually misleading titled "Britain’s Trump Fails Again"	entailment

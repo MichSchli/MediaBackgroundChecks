@@ -1,0 +1,24 @@
+M. Huitsing is the CEO of CKNX News Today	contradiction
+Blackburn Media Inc. owns CKNX News Today.	entailment
+CKNX bought CKNX News Today	contradiction
+CKNX acquired CKNX News Today	contradiction
+CKNX News Today is funded through advertising and sponsorships	entailment
+The remit of CKNX News Today is to provide local news, sports, and event coverage across the London communities	entailment
+The mission of CKNX News Today is to provide local news, sports, and event coverage across the London communities.	entailment
+CKNX News Today tends to the left.	entailment
+CKNX News Today tends to the left-center according to Mediabiasfactcheck.	entailment
+Other sources have commented on CKNX News Today, stating that it tends to be left-Center biased.	entailment
+The factuality of CKNX News Today is reported to be High	entailment
+The factuality of CKNX News Today is reported to be High, according to a review by Mediabiasfactcheck.	entailment
+CKNX News Today failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+CKNX News Today printed a retraction after failing a fact-check for an article titled "OPP increase presence in Brussels for investigation"	contradiction
+CKNX News Today chose not to cover national or international news	entailment
+CKNX News Today relies on advertising for revenue	entailment
+CKNX News Today relies on subscriptions for revenue	contradiction
+CKNX News Today relies on donations for revenue	contradiction
+When aggregating stories, CKNX News Today relies on information from **quotes**.	entailment
+CKNX News Today has endorsed Left-Center biased	entailment
+CKNX News Today has an editorial bias towards left-leaning perspective on the issues they present that the progressive left favors.	entailment
+M. Huitsing is the editor of CKNX News Today	entailment
+CKNX News Today was fined **None in the Last 5 years**	entailment
+CKNX News Today had to apologize for **None in the Last 5 years**.	entailment

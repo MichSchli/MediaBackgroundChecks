@@ -1,0 +1,14 @@
+History
+[Launched in March 2022](https://whois.domaintools.com/waronfakes.com), War On Fakes is a Russian website that publishes information and fact-checks regarding the Russian invasion of Ukraine. According to their [description](https://waronfakes.com/), “Welcome to the “War on Fakes” project. We are the owners and administrators of several Russian non-political telegram channels. We are going to look into every fake and give links to the real refutations.”
+The website lacks transparency as it does not name owners, editors, or authors.
+[Read our profile on Russian media and government.](https://mediabiasfactcheck.com/russia-media-profile/)
+Funded by / Ownership
+War on Fakes lacks transparency as they do not reveal ownership. They also do not disclose funding.
+Analysis / Bias
+War on Fakes is an anonymous website that publishes information and supposed facts on the Russia-Ukraine war from a pro-Russian perspective. The fact-checks conducted on the website are often inaccurate. For example, in this fact check
+[Fake: there are no US laboratories in Ukraine on creating biological and chemical weapons](https://waronfakes.com/vsu/fake-there-are-no-us-laboratories-in-ukraine-on-creating-biological-and-chemical-weapons/); they make the debunked claim that the USA funds biological weapons labs in Ukraine. This is false, according to conservative fact-checker [The Dispatch](https://mediabiasfactcheck.com/the-dispatch/).
+[The Dispatch states:](https://factcheck.thedispatch.com/p/fact-check-no-there-are-no-us-funded?s=r) “The United States does not own or control any “Biolabs” in Ukraine and any funding from the Cooperative Biological Engagement Program under the Cooperative Threat Reduction program (also known as the Nunn-Lugar program) serves to invest in the security of the facilities and help ensure that skilled scientists work on useful projects and not poached to help WMD programs in rogue nations.”
+While most of the fact checks are inaccurate and promote Russian propaganda, some are accurate such as this
+[Fake: APU shot down an UFO – property of the Russian army](https://waronfakes.com/vsu/fake-apu-shot-down-an-ufo-property-of-the-russian-army/). However, most are demonstrably false such as this [Fake: Zelensky refused to evacuate](https://waronfakes.com/vsu/fake-zelensky-refused-to-evacuate/). In general, the War on Fakes is a Russian disinformation website that promotes pro-Russian government propaganda.
+Failed Fact Checks
+[Zelenskyy refused to evacuate is a fake claim](https://leadstories.com/hoax-alert/2022/03/fact-check-no-evidence-president-zelenskyy-left-kyiv.html)– False [Fake: there are no US laboratories in Ukraine on creating biological and chemical weapons](https://factcheck.thedispatch.com/p/fact-check-no-there-are-no-us-funded?s=r)– False

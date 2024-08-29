@@ -1,0 +1,20 @@
+Julian Sinclair Smith is the CEO of KWNB - NTV ABC	entailment
+KWNB leads KWNB - NTV ABC	entailment
+Sinclair Broadcast Group owns KWNB - NTV ABC	entailment
+Sinclair Broadcast Group is the owner of KWNB - NTV ABC	entailment
+KWNB – NTV ABC bought KWNB - NTV ABC	contradiction
+The remit of KWNB - NTV ABC is to **report local news with minimal bias**.	contradiction
+The mission of KWNB - NTV ABC is to report local news with minimal bias in wording such as this Rollover accident sends driver to hospital with severe injuries.	entailment
+KWNB - NTV ABC tends to the  Right	entailment
+KWNB - NTV ABC tends to the right according to Sinclair Broadcast Group	entailment
+Other sources have commented on KWNB - NTV ABC, stating that it tends to be right-leaning.	entailment
+The factuality of KWNB - NTV ABC is reported to be High	entailment
+The factuality of KWNB - NTV ABC is reported to be High, according to D. Van Zandt 08/08/2021	entailment
+KWNB - NTV ABC failed a fact-check for an article titled "History".	contradiction
+KWNB - NTV ABC printed a retraction after failing a fact-check for an article titled "Rollover accident sends driver to hospital with severe injuries"	contradiction
+KWNB - NTV ABC relies on advertising for revenue	entailment
+KWNB - NTV ABC relies on subscriptions for revenue	entailment
+KWNB - NTV ABC relies on donations for revenue	contradiction
+When aggregating stories, KWNB - NTV ABC relies on information from **The Associated Press**	entailment
+KWNB - NTV ABC has an editorial bias towards **the right**	entailment
+KWNB - NTV ABC printed a biased article titled "Sinclair ordered its stations to produce promos with an “anchor delivered journalistic responsibility message” dictated by the company".	entailment

@@ -1,0 +1,12 @@
+History
+[Reclaim The Net ](https://twitter.com/ReclaimTheNetHQ)is a website that covers topics related to free speech, censorship, and online privacy. The website does not provide information about its ownership, founding date, or country of origin.
+Funded by / Ownership
+The website does not disclose its ownership information. The site generates revenue through donations and merch sales.
+Analysis / Bias
+The website publishes articles that often show a right-leaning bias. For example, an article titled
+[“Another Soros-Funded Group Pushes For Social Media Platforms To Censor Election ‘Disinformation'”](https://reclaimthenet.org/group-pushes-for-social-media-platforms-to-censor-election-disinformation/) criticizes attempts to regulate disinformation on social media platforms, framing it as an attack on free speech. The article emphasizes explicitly the involvement of a “Soros-Funded Group,” a common talking point used to discredit organizations by associating them with George Soros, who is often a target of right-wing conspiracy theories. The article presents information aligned with a right-leaning perspective on free speech and censorship, citing sources like e-archive.Ph and primarily referencing itself.
+Another article,
+[“Emails From Hunter Biden’s Censored Laptop Shows Evidence of Covert Wikipedia Manipulation Attempts,”](https://reclaimthenet.org/hunter-biden-wikipedia-manipulation-attempts/) delves into the alleged manipulation of [Wikipedia](https://mediabiasfactcheck.com/wikipedia/) entries related to Hunter Biden. The article uses phrases like “murky world of high-profile individuals” and “clandestine operations” to describe the actions of Hunter Biden and his associates. It cites a report by journalist Lee Fang but adds its interpretation, suggesting “a premeditated attempt to “erase certain details” about Hunter Biden. The language used in the article indicates a bias against Hunter Biden and adds a conspiratorial tone to the reporting.
+In general, Reclaim the Net holds a conservative editorial bias and is mixed factually based on poor sourcing and the publication of one-sided content that may lack context or evidence to support its claims.
+Failed Fact Checks
+[The United Nations is plotting a “Code Of Conduct” to introduce increased censorship for online platforms to combat misinformation.](https://www.logicallyfacts.com/en/fact-check/false-no-the-united-nations-is-not-calling-for-more-censorship-in-combatting-misinformation)– False

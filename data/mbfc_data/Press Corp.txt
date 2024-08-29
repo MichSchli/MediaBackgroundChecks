@@ -1,0 +1,13 @@
+History
+[Founded in 2015](https://whois.domaintools.com/presscorp.org), Press Corp is a conservative website that purports to conduct “real investigative journalism.” According to their about statement, “America’s Founding Fathers understood that a free press was required to prevent the government from abusing its power. We aim to continue the tradition of the fourth and fifth estates, in order to responsibly hand it over to the next generation of Americans.”
+The website completely lacks transparency as there aren’t names associated with the website.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+[Political Media, Inc.](https://politicalmedia.com/content/services) owns Press Corp, a web development company based in Virginia. Advertising and sponsored content generate revenue.
+Analysis / Bias
+In review, Press Corp claims to conduct investigative reporting; however, we could not easily find this. Perhaps they did long ago, but they simply republish summaries of news from other sources. These sources are always from the right and most often factually mixed or worse. For example, they republish articles from the factually mixed
+[Daily Wire](https://mediabiasfactcheck.com/the-daily-wire/), [Daily Caller](https://mediabiasfactcheck.com/daily-caller/), and [The Blaze](https://mediabiasfactcheck.com/the-blaze/) and articles from Questionable sources such as [Breitbart](https://mediabiasfactcheck.com/breitbart/) and [Epoch Times](https://mediabiasfactcheck.com/the-epoch-times/).
+As of this review, they are republishing election fraud conspiracies such as this
+[SHARPIES WERE MADE AVAILABLE THROUGHOUT ARIZONA’S LARGEST COUNTY OFFICIALS SAY](https://presscorp.org/news/sharpies-were-made-available-throughout-arizona-s-largest-county-officials-say). This story has been cited as [misinformation](https://www.politifact.com/factchecks/2020/nov/04/facebook-posts/voting-machines-dont-read-ballots-filled-sharpies-/) because Sharpies are allowed to be used to fill out ballots in Arizona. In general, Press Corp republishes news articles from unreliable sources.
+Failed Fact Checks
+- They have not been fact-checked as they do not publish original content.

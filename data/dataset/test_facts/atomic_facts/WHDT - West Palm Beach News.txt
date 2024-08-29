@@ -1,0 +1,23 @@
+The E. W. Scripps Company owns WHDT - West Palm Beach News	entailment
+The E. W. Scripps Company is the owner of WHDT - West Palm Beach News	entailment
+WHDT - West Palm Beach News is funded through **advertising**.	entailment
+The remit of WHDT - West Palm Beach News is to cover local news, sports, weather, entertainment, and crime for the greater West Palm Beach, Florida, area.	entailment
+The mission of WHDT - West Palm Beach News is to cover local news, sports, weather, entertainment, and crime for the greater West Palm Beach, Florida, area.	entailment
+The usual audience of WHDT - West Palm Beach News is **the greater West Palm Beach, Florida, area**	entailment
+WHDT - West Palm Beach News tends to the **Right**	contradiction
+Other sources have commented on WHDT - West Palm Beach News, stating that it tends to be **least biased**.	entailment
+The factuality of WHDT - West Palm Beach News is reported to be High.	entailment
+The factuality of WHDT - West Palm Beach News is reported to be High, according to Mediabiasfactcheck.	entailment
+WHDT - West Palm Beach News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+WHDT - West Palm Beach News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+WHDT - West Palm Beach News chose not to cover op-eds	entailment
+WHDT - West Palm Beach News relies on advertising for revenue	entailment
+WHDT - West Palm Beach News relies on subscriptions for revenue	contradiction
+WHDT - West Palm Beach News relies on donations for revenue	contradiction
+When aggregating stories, WHDT - West Palm Beach News relies on information from Associated Press	entailment
+WHDT - West Palm Beach News has an editorial bias towards Least Biased	entailment
+WHDT - West Palm Beach News printed a biased article titled  least biased based on balanced story selection	contradiction
+WHDT - West Palm Beach News printed a factually misleading titled **None of the statements in the text suggest that WHDT - West Palm Beach News printed a factually misleading titled.**	contradiction
+WHDT - West Palm Beach News is funded by the American government	contradiction
+WHDT - West Palm Beach News is a Least Biased.	entailment
+WHDT - West Palm Beach News covers the following topics: local news, sports, weather, entertainment, and crime.	entailment

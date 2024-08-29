@@ -1,0 +1,24 @@
+Naomi Wolf founded DailyClout	entailment
+Naomi Wolf is the founder of DailyClout	entailment
+Naomi Wolf is the CEO of DailyClout.	entailment
+The remit of DailyClout is to empower all people with information, facts and opinion from all viewpoints, that when combined with DailyClout’s proprietary platform, enables them to be well informed and to exercise their rights to directly weigh-in on issues and legislation so that their voices are heard at the local, state or federal level.	contradiction
+The mission of DailyClout is to empower all people with information, facts and opinion from all viewpoints, that when combined with DailyClout’s proprietary platform, enables them to be well informed and to exercise their rights to directly weigh-in on issues and legislation so that their voices are heard at the local, state or federal level.	entailment
+The usual audience of DailyClout is **right-biased conspiracy and pseudoscience website based on promoting false or unproven claims regarding Covid-19 and world governments.**	entailment
+DailyClout tends to the right	entailment
+Other sources have commented on DailyClout, stating that it tends to be **a right-biased conspiracy and pseudoscience website**.	entailment
+The factuality of DailyClout is reported to be **low**	entailment
+The factuality of DailyClout is reported to be Quackery-level pseudoscience website , according to Media Bias Fact Check.	entailment
+DailyClout failed a fact-check for an article titled "Babies of vaccinated mothers are dying in disproportionate numbers and the COVID-19 vaccines are responsible."	entailment
+DailyClout printed a retraction after failing a fact-check for an article titled **Babies of vaccinated mothers are dying in disproportionate numbers and the COVID-19 vaccines are responsible.**	entailment
+DailyClout chose not to cover Covid-19 vaccine conspiracies, promote the “Great Reset,” and claim that Vaccines are Bioweapons.	contradiction
+DailyClout relies on advertising for revenue	entailment
+DailyClout relies on subscriptions for revenue	entailment
+DailyClout relies on donations for revenue	entailment
+DailyClout has endorsed *Covid-19 vaccine disinformation*.	entailment
+DailyClout has an editorial bias towards right.	entailment
+DailyClout printed a biased article titled **Unholy Alliance Between Government, NGOs, and Big Tech Colluded to Smear and Deplatform COVID Dissidents**	entailment
+DailyClout printed a factually misleading titled "Unholy Alliance Between Government, NGOs, and Big Tech Colluded to Smear and Deplatform COVID Dissidents"	entailment
+DailyClout is funded by the Naomi Wolf government	contradiction
+DailyClout is a website.	entailment
+DailyClout uses an internal fact-checking process	contradiction
+DailyClout covers the following topics: Politics, Government, Legislation, Covid-19, World Affairs, Conspiracy Theories.	entailment

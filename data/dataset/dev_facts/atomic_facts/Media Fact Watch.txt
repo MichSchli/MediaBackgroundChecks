@@ -1,0 +1,25 @@
+Mike Adams founded Media Fact Watch	entailment
+Mike Adams is the founder of Media Fact Watch	entailment
+Mike Adams leads Media Fact Watch	entailment
+Mike Adams owns Media Fact Watch	entailment
+Mike Adams bought Media Fact Watch	entailment
+Mike Adams acquired Media Fact Watch	entailment
+Media Fact Watch is funded through **advertising**	entailment
+The remit of Media Fact Watch is to **promote right-wing conspiracy theories and pseudoscience**	entailment
+The mission of Media Fact Watch is to promote false or misleading information.	entailment
+The usual audience of Media Fact Watch is **conspiracy theorists**	entailment
+Media Fact Watch tends to the extreme right-biased Tin-Foil Hat Conspiracy website.	entailment
+Media Fact Watch tends to the right according to Politifact	entailment
+Other sources have commented on Media Fact Watch, stating that it tends to be **an extreme right-biased Tin-Foil Hat Conspiracy website**.	entailment
+The factuality of Media Fact Watch is reported to be **low**	entailment
+The factuality of Media Fact Watch is reported to be extreme right-biased , according to mediabiasfactcheck.com.	entailment
+Media Fact Watch failed a fact-check for an article titled **Climate change cultists are now taking over your local weather forecast**	entailment
+Media Fact Watch provides original content written by staff journalists	contradiction
+Media Fact Watch relies on advertising for revenue	entailment
+Media Fact Watch relies on subscriptions for revenue	contradiction
+Media Fact Watch relies on donations for revenue	contradiction
+Media Fact Watch has received donations from **advertising**	entailment
+When aggregating stories, Media Fact Watch relies on information from Mike Adams	entailment
+Media Fact Watch has an editorial bias towards extreme right-biased Tin-Foil Hat Conspiracy websites	entailment
+Media Fact Watch printed a biased article titled Health misinformation website rebrands as a pro-Trump outlet to get around a ban from Facebook	entailment
+Media Fact Watch printed a factually misleading titled **content**	entailment

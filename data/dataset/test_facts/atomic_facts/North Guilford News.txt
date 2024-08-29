@@ -1,0 +1,22 @@
+Metric Media LLC founded North Guilford News	entailment
+Metric Media Foundation owns North Guilford News	entailment
+Metric Media LLC acquired North Guilford News	entailment
+North Guilford News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of North Guilford News is to **act as an imposter site, publish false information, and lack transparency**.	entailment
+The mission of North Guilford News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of North Guilford News is **right-center, biased, and Questionable.**	entailment
+North Guilford News tends to the right-center, biased, and Questionable	entailment
+Other sources have commented on North Guilford News, stating that it tends to be right-center.	entailment
+The factuality of North Guilford News is reported to be questionable	entailment
+The factuality of North Guilford News is reported to be Questionable, according to D. Van Zandt.	entailment
+North Guilford News relies on advertising for revenue	entailment
+North Guilford News relies on donations for revenue	entailment
+North Guilford News has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, North Guilford News relies on information from **algorithmically produced content**.	entailment
+North Guilford News has endorsed right-center, biased, and Questionable.	entailment
+North Guilford News has an editorial bias towards right-center.	entailment
+North Guilford News printed a biased article titled **"Right-Center, Biased, and Questionable"**	entailment
+North Guilford News printed a factually misleading titled  "Parties Battle in Close Election for Mayor".	entailment
+North Guilford News is funded by the **Metric Media Foundation** government	contradiction
+North Guilford News is a conservative-leaning	entailment
+North Guilford News covers the following topics: **local news and opinion**	contradiction

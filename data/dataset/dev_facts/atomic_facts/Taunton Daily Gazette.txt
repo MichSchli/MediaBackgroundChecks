@@ -1,0 +1,23 @@
+Gannett is the founder of Taunton Daily Gazette	contradiction
+Gannett owns Taunton Daily Gazette	entailment
+Gannett is the owner of Taunton Daily Gazette	entailment
+Gannett bought Taunton Daily Gazette	entailment
+Gannett acquired Taunton Daily Gazette	entailment
+Taunton Daily Gazette is funded through advertising and paid subscriptions.	entailment
+The remit of Taunton Daily Gazette is to **cover local, national, and international news, sports, entertainment, lifestyle, and opinion**	entailment
+The mission of Taunton Daily Gazette is to serve Taunton, Massachusetts, and the surrounding area.	entailment
+The usual audience of Taunton Daily Gazette is **the greater Quincy, Massachusetts area**	entailment
+The Taunton Daily Gazette tends to the left	entailment
+Taunton Daily Gazette tends to the left-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on Taunton Daily Gazette, stating that it tends to be **left-center biased**.	entailment
+The factuality of Taunton Daily Gazette is reported to be High	entailment
+The factuality of Taunton Daily Gazette is reported to be high, according to D. Van Zandt	entailment
+Taunton Daily Gazette failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+The Taunton Daily Gazette chose not to cover **Presidential endorsements**	entailment
+Taunton Daily Gazette relies on advertising for revenue	entailment
+Taunton Daily Gazette relies on subscriptions for revenue	entailment
+Taunton Daily Gazette relies on donations for revenue	contradiction
+When aggregating stories, Taunton Daily Gazette relies on information from other Gannett publications and the Associated Press.	entailment
+Taunton Daily Gazette has endorsed no one	entailment
+Taunton Daily Gazette has an editorial bias towards left	entailment
+Taunton Daily Gazette had to apologize for  reporting.	entailment

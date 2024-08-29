@@ -1,0 +1,22 @@
+Charles Reed is the founder of Food Navigator	contradiction
+Charles Reed is the CEO of Food Navigator	entailment
+Food Navigator owns Food Navigator	contradiction
+Charles Reed bought Food Navigator	contradiction
+Food Navigator is funded through advertising generates revenue.	entailment
+The remit of Food Navigator is to cover news related to the food industry.	entailment
+The mission of Food Navigator is to **provide daily news and analysis, podcasts, videos, and its main audience is the European food industry.**	entailment
+The usual audience of Food Navigator is the European food industry.	entailment
+Food Navigator tends to the left.	entailment
+Other sources have commented on Food Navigator, stating that it tends to be left of center.	entailment
+The factuality of Food Navigator is reported to be Mostly Factual.	entailment
+The factuality of Food Navigator is reported to be Mostly Factual, according to M. Huitsing	entailment
+Food Navigator relies on advertising for revenue	entailment
+Food Navigator relies on subscriptions for revenue	contradiction
+Food Navigator relies on donations for revenue	contradiction
+When aggregating stories, Food Navigator relies on information from [The Guardian](https://mediabiasfactcheck.com/the-guardian), [stuff.co.nz](https://mediabiasfactcheck.com/stuff/), and [The Irish Times](https://mediabiasfactcheck.com/the-irish-times).	entailment
+Food Navigator has endorsed left-Center Biased based on editorial positions that moderately favor the left.	entailment
+Food Navigator has an editorial bias towards **the left**	entailment
+Katy Askew is the editor of Food Navigator	contradiction
+Food Navigator's headquarter is located in West Sussex, UK.	entailment
+Food Navigator is a  Left-Center Biased	entailment
+Food Navigator covers the following topics: food industry, science, market trends, business, policy, views, food safety & quality, and promotional features.	entailment

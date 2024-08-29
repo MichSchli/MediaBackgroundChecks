@@ -1,0 +1,19 @@
+Metric Media Foundation owns West El Dorado News	entailment
+Bradley Cameron is the owner of West El Dorado News	entailment
+Metric Media Foundation bought West El Dorado News	entailment
+West El Dorado News is funded through donations and grants.	entailment
+The remit of West El Dorado News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of West El Dorado News is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of West El Dorado News is right-center biased and Questionable	entailment
+West El Dorado News tends to the **right-center biased**	entailment
+Other sources have commented on West El Dorado News, stating that it tends to be right-center biased	entailment
+The factuality of West El Dorado News is reported to be Questionable	entailment
+The factuality of West El Dorado News is reported to be **Questionable**, according to **Mediabiasfactcheck.com**	entailment
+West El Dorado News relies on advertising for revenue	entailment
+West El Dorado News relies on donations for revenue	entailment
+When aggregating stories, West El Dorado News relies on information from **algorithmically produced content**.	entailment
+West El Dorado News has endorsed right-center biased and Questionable based on being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+West El Dorado News has an editorial bias towards right-center.	entailment
+West El Dorado News printed a biased article titled "Imposter Website Designed to Look Like Local News".	entailment
+West El Dorado News is a right-center biased	entailment
+West El Dorado News covers the following topics: conservative-leaning news	entailment

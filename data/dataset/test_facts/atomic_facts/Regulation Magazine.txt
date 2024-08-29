@@ -1,0 +1,30 @@
+Cato founded Regulation Magazine	contradiction
+Peter Van Doren is the founder of Regulation Magazine	contradiction
+Cato Institute leads Regulation Magazine	entailment
+Cato Institute owns Regulation Magazine	entailment
+ is the owner of the New York Times.	entailment
+Cato Institute bought Regulation Magazine	entailment
+Cato acquired Regulation Magazine	entailment
+The remit of Regulation Magazine is to cover microeconomics and regulatory policy from a right-leaning Libertarian perspective.	entailment
+The mission of Regulation Magazine is to  provide cover microeconomics and regulatory policy from a right-leaning Libertarian perspective.	entailment
+The usual audience of Regulation Magazine is **right-leaning Libertarian**	entailment
+Regulation Magazine tends to the Right-Center Bias	entailment
+Other sources have commented on Regulation Magazine, stating that it tends to be **Right-Center Biased**	entailment
+The factuality of Regulation Magazine is reported to be High	entailment
+The factuality of Regulation Magazine is reported to be High, according to proper sourcing and a clean fact check record.	entailment
+Regulation Magazine failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Regulation Magazine printed a retraction after failing a fact-check for an article titled "The Limits of Antitrust in the 21st Century".	contradiction
+Regulation Magazine chose not to cover **left-leaning**	entailment
+Regulation Magazine relies on advertising for revenue	contradiction
+Regulation Magazine relies on donations for revenue	entailment
+Regulation Magazine has received donations from [Lynde and Harry Bradley Foundation], [Charles Koch Foundation], and [Sarah Scaife Foundation].	entailment
+When aggregating stories, Regulation Magazine relies on information from **Cato Institute**	entailment
+Regulation Magazine has endorsed Right-Center Biased	entailment
+Regulation Magazine has an editorial bias towards  libertarian economic perspective.	entailment
+Peter Van Doren is the editor of Regulation Magazine	entailment
+Regulation Magazine printed a biased article titled **The Limits of Antitrust in the 21st Century**	entailment
+Regulation Magazine printed a factually misleading titled "The Limits of Antitrust in the 21st Century".	contradiction
+Regulation Magazine had to apologize for **none in the Last 5 years**	entailment
+Regulation Magazine had to apologize to [no one] for [no specific issue].	entailment
+Regulation Magazine is a \Right-Center Biased.	entailment
+Regulation Magazine covers the following topics: microeconomics and regulatory policy.	entailment

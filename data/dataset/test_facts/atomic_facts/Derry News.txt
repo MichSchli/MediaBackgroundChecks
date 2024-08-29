@@ -1,0 +1,23 @@
+Community Newspaper Holdings Inc owns Derry News	entailment
+Community Newspaper Holdings Inc is the owner of Derry News	entailment
+Community Newspaper Holdings Inc bought Derry News	contradiction
+The Derry News is funded through advertising and subscription fees.	entailment
+The remit of Derry News is to cover crime, sports, entertainment, and politics for the Derry, New Hampshire region.	entailment
+The usual audience of Derry News is **people in the Derry, New Hampshire region**	entailment
+Derry News tends to the Left-Center.	entailment
+Other sources have commented on Derry News, stating that it tends to be slightly Left-Center Biased.	entailment
+The factuality of Derry News is reported to be High	entailment
+The factuality of Derry News is reported to be High, according to Proper sourcing and a clean fact-check record	entailment
+Derry News failed a fact-check for an article titled "Associate planner told to stay away while job position is considered"	contradiction
+Derry News printed a retraction after failing a fact-check for an article titled "Associate planner told to stay away while job position is considered".	contradiction
+The Derry News chose not to cover **international news**	contradiction
+Derry News relies on advertising for revenue	entailment
+Derry News relies on subscriptions for revenue	contradiction
+Derry News relies on donations for revenue	contradiction
+Derry News has endorsed a slightly Left-Center Biased perspective	entailment
+Derry News has an editorial bias towards **left**	entailment
+The Derry News had to apologize for **none in the Last 5 years**	entailment
+Derry News is funded by the  government	contradiction
+The Derry News is a newspaper	entailment
+Derry News uses an internal fact-checking process	entailment
+The Derry News covers the following topics: crime, sports, entertainment, politics	entailment

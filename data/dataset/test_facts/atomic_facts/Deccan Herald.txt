@@ -1,0 +1,19 @@
+K.N.Guruswamy founded Deccan Herald	entailment
+K.N. Guruswamy is the founder of Deccan Herald	entailment
+Printers (Mysore) Private Limited owns Deccan Herald	entailment
+Printers (Mysore) Private Limited is the owner of Deccan Herald	entailment
+They bought Deccan Herald	contradiction
+They acquired Deccan Herald	contradiction
+The mission of Deccan Herald is to provide informative and unbiased news coverage.	entailment
+The usual audience of Deccan Herald is Left-Center biased	entailment
+Deccan Herald tends to the left.	entailment
+Other sources have commented on Deccan Herald, stating that it tends to be Left-Center biased.	entailment
+The factuality of Deccan Herald is reported to be MIXED	entailment
+The factuality of Deccan Herald is reported to be MIXED, according to M. Huitsing 9/9/2017	entailment
+Deccan Herald chose not to cover Failed Fact Checks	entailment
+When aggregating stories, Deccan Herald relies on information from **quotes**.	entailment
+Deccan Herald has endorsed Left-Centerbias	entailment
+Deccan Herald has an editorial bias towards Left-Center	entailment
+Deccan Herald's headquarter is located in Bengaluru	entailment
+Deccan Herald is a Left-Center biased and MIXED for factual reporting due to a lack of linking to sources.	entailment
+Deccan Herald covers the following topics: India News, World News, Politics, Sports, Society, Literature, Arts, and more.	entailment

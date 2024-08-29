@@ -1,0 +1,20 @@
+Frontiers in Drug Safety and Regulation is the CEO of Frontiers in Drug Safety and Regulation	entailment
+Frontiers Media SA owns Frontiers in Drug Safety and Regulation	entailment
+Frontiers Media SA is the owner of Frontiers in Drug Safety and Regulation	entailment
+Frontiers Media SA bought Frontiers in Drug Safety and Regulation	contradiction
+Frontiers in Drug Safety and Regulation is funded through digital sales of content and author fees for publication	entailment
+The remit of Frontiers in Drug Safety and Regulation is to address potentially emerging issues concerning pharmacovigilance, with special emphasis on how the post-marketing surveillance drives informed regulatory decision process and vice-versa.	entailment
+The mission of Frontiers in Drug Safety and Regulation is to address potentially emerging issues concerning pharmacovigilance, with special emphasis on how the post-marketing surveillance drives informed regulatory decision process and vice-versa.	entailment
+Frontiers in Drug Safety and Regulation tends to the **safety and regulation of drugs**	entailment
+Other sources have commented on Frontiers in Drug Safety and Regulation, stating that it tends to be credible	entailment
+The factuality of Frontiers in Drug Safety and Regulation is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Drug Safety and Regulation is reported to be Mostly Factual, according to D. Van Zandt 02/02/2024	entailment
+Frontiers in Drug Safety and Regulation relies on advertising for revenue	entailment
+Frontiers in Drug Safety and Regulation relies on subscriptions for revenue	contradiction
+Frontiers in Drug Safety and Regulation relies on donations for revenue	entailment
+Frontiers in Drug Safety and Regulation has endorsed Pro-Science	entailment
+Frontiers in Drug Safety and Regulation has an editorial bias towards Pro-Science	entailment
+Frontiers in Drug Safety and Regulation's headquarter is located in Switzerland	entailment
+Frontiers in Drug Safety and Regulation is a **peer-reviewed open-access journal**.	entailment
+Frontiers in Drug Safety and Regulation uses a peer review process	entailment
+Frontiers in Drug Safety and Regulation covers the following topics: safety and regulation on drugs	entailment

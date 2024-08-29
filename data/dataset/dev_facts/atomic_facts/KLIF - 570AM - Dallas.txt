@@ -1,0 +1,16 @@
+Cumulus Media leads KLIF - 570AM - Dallas	contradiction
+Cumulus Media owns KLIF - 570AM - Dallas	entailment
+Cumulus Media bought KLIF - 570AM - Dallas	entailment
+KLIF - 570AM - Dallas is funded through Advertising through radio and the web generates revenue	entailment
+The remit of KLIF - 570AM - Dallas is to **broadcast conservative news talk shows and publish local and political news on its website**	entailment
+The mission of KLIF - 570AM - Dallas is to  inform and entertain.	contradiction
+The usual audience of KLIF - 570AM - Dallas is **conservative**.	entailment
+KLIF - 570AM - Dallas tends to the right bias.	entailment
+KLIF - 570AM - Dallas tends to the right according to Media Bias Fact Check	entailment
+Other sources have commented on KLIF - 570AM - Dallas, stating that it tends to be **right biased**	entailment
+The factuality of KLIF - 570AM - Dallas is reported to be Mixed	entailment
+The factuality of KLIF - 570AM - Dallas is reported to be Mixed, according to D. Van Zandt	entailment
+KLIF - 570AM - Dallas relies on advertising for revenue	entailment
+KLIF - 570AM - Dallas relies on subscriptions for revenue	contradiction
+KLIF - 570AM - Dallas relies on donations for revenue	entailment
+KLIF - 570AM - Dallas has an editorial bias towards **conservative viewpoints**	entailment

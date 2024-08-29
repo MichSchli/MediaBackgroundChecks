@@ -1,0 +1,10 @@
+History
+Founded in 2011, The Verge is an American technology news and media network operated by
+[Vox](http://mediabiasfactcheck.com/vox/) Media. It has offices in Manhattan, New York City. The network publishes news items, long-form feature stories, product reviews, podcasts, and an entertainment show. The Verge won five Webby Awards for the year 2012, including awards for Best Writing (Editorial), Best Podcast for The Vergecast, Best Visual Design, Best Consumer Electronics Site, and Best Mobile News App. The current editor is [Nilay Patel](https://en.wikipedia.org/wiki/Nilay_Patel). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Verge is owned by Vox Media, which includes investors such as NBC Universal. The website generates revenue through advertising and sponsored content.
+Analysis / Bias
+In review, The Verge primarily covers technology and science, with less emphasis on politics. However, when covering politics, they generally use minimally loaded words such as this:
+[Presidential hopeful John Delaney wants you to unfollow Trump on Twitter](https://www.theverge.com/2019/4/24/18514492/john-delaney-presidential-candidate-trump-unfollow-twitter). This story, like most, is properly sourced to credible left-leaning media sources such as The [Daily Beast](https://mediabiasfactcheck.com/daily-beast/) and [Washington Post](https://mediabiasfactcheck.com/washington-post/). Political news is typically related to technology or science information, not just politics. When it comes to science reporting, The Verge aligns with the consensus of science. The Verge does not produce political editorial content, though story selection tends to favor the left slightly.
+Failed Fact Checks
+- None in the Last 5 years

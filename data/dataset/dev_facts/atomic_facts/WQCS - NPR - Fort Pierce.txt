@@ -1,0 +1,20 @@
+Indian River State College leads WQCS - NPR - Fort Pierce	entailment
+Indian River State College owns WQCS - NPR - Fort Pierce	entailment
+Indian River State College is the owner of WQCS - NPR - Fort Pierce	entailment
+Indian River State College bought WQCS - NPR - Fort Pierce	contradiction
+Indian River State College acquired WQCS - NPR - Fort Pierce	entailment
+WQCS - NPR - Fort Pierce is funded through Indian River State College, institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+The remit of WQCS - NPR - Fort Pierce is to  provide news and radio programming information.	entailment
+WQCS - NPR - Fort Pierce tends to the **left**	entailment
+WQCS - NPR - Fort Pierce tends to the **left-center** according to **Media Bias Fact Check**	entailment
+Other sources have commented on WQCS - NPR - Fort Pierce, stating that it tends to be Left-Center Biased	entailment
+The factuality of WQCS - NPR - Fort Pierce is reported to be High	entailment
+The factuality of WQCS - NPR - Fort Pierce is reported to be High, according to D. Van Zandt	entailment
+WQCS - NPR - Fort Pierce failed a fact-check for an article titled  "None in the Last 5 years"	entailment
+WQCS - NPR - Fort Pierce printed a retraction after failing a fact-check for an article titled "Climate change and extreme heat; Unguarded, an investigation".	contradiction
+WQCS - NPR - Fort Pierce chose not to cover climate change and extreme heat; Unguarded, an investigation.	contradiction
+WQCS - NPR - Fort Pierce relies on advertising for revenue	contradiction
+WQCS - NPR - Fort Pierce relies on donations for revenue	entailment
+When aggregating stories, WQCS - NPR - Fort Pierce relies on information from [NPR](https://mediabiasfactcheck.com/npr/), [American Public Media](https://mediabiasfactcheck.com/american-public-media/), and the [Corporation for Public Broadcasting](https://mediabiasfactcheck.com/pbs-news-hour/).	entailment
+WQCS - NPR - Fort Pierce has an editorial bias towards **left**	entailment
+WQCS - NPR - Fort Pierce printed a biased article titled "Climate change and extreme heat; Unguarded, an investigation".	entailment

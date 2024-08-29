@@ -1,0 +1,10 @@
+History
+According to their
+[about page](http://www.canadalandshow.com/about-canadaland/), “CANADALAND is a news site and podcast network funded by its audience. Our primary focus is on media criticism and media reporting. Further, CANADALAND is a member of the [National News Media Council](http://mediacouncil.ca/), an “independent organization established to deal with acceptable journalistic practices and ethical behavior.” [Read our review on Canada’s media and government.](https://mediabiasfactcheck.com/canada-media-profile/)
+Funded by / Ownership
+CANADALAND Inc. is registered as a limited liability corporation with the Province of Ontario. Subscription fees generate revenue.
+Analysis / Bias
+In review, Canadaland reports news on their website with moderately loaded language, such as
+[The King Of Canadian Conservative Shitposting](http://www.canadalandshow.com/ontario-proud-shitposting-king-jeff-ballingall/). Canadaland works to expose false information and misreporting by the media. Although they cover both sides of politics, they tend to favor the left through story selection. All information is well-sourced, and a [factual search](https://factualsearch.news/#gsc.tab=0&gsc.q=canadaland&gsc.sort=&gsc.ref=fact_checking) reveals they have not failed a fact check.
+Failed Fact Checks
+- None in the Last 5 years

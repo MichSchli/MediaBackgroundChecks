@@ -1,0 +1,13 @@
+History
+Launched in 1918, De Standaard is a Dutch-language Belgian newspaper based in Brussels, Belgium. It was founded by
+[Frans Van Cauwelaert](https://www.standaard.be/cnt/dmf20140429_01086865) and provides business, technology, financial, lifestyle, national, and international news. [Read our profile on Belgium media and government.](https://mediabiasfactcheck.com/belgium-media-profile/)
+Funded by / Ownership
+[Mediahuis](https://www.mediahuis.be/nl/activiteiten/nieuwsmedia/) owns De Standaard, and its revenue is derived from subscriptions and advertising.
+Analysis / Bias
+In review, De Standaard uses emotionally loaded wording in their headlines, such as
+[“Why inflation will remain high for a long time to come”](https://www.standaard.be/cnt/dmf20220629_96206575) and [“Minister Demir receives permanent police protection.”](https://www.standaard.be/cnt/dmf20220615_94691234)
+De Standaard reports political news in a neutral tone; for example, the second article above concerns farmers and their protest against the Flemish government’s nitrogen plans. Ms. Demir is currently the Flemish minister, and she is from the Nationalist center-right New Flemish Alliance Party. De Standaard also maintains a neutral tone when reporting on Center Left Social Democratic party Vooruit.
+When it comes to sourcing international news, they provide circular links typically to themselves or source through quotes; in other words, they do not source from outside media outlets. Generally, news reporting is factual; however, some stories are not sourced with hyperlinks. Op-eds are reasonably balanced with slightly more favoring the right such as this
+[Is Joe Biden Too Old?](https://www.standaard.be/cnt/dmf20220626_97656526) and [The U.S. Chief Justices Are Not Activist](https://www.standaard.be/cnt/dmf20220627_97617125).
+Failed Fact Checks
+- None in the Last 5 years

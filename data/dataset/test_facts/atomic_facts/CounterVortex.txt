@@ -1,0 +1,25 @@
+Bill Weinberg founded CounterVortex	entailment
+Bill Weinberg is the founder of CounterVortex	entailment
+Bill Weinberg owns CounterVortex	entailment
+Bill Weinberg is the owner of CounterVortex	entailment
+Bill Weinberg bought CounterVortex	entailment
+Bill Weinberg acquired CounterVortex	entailment
+CounterVortex is funded through donations and subscriptions.	entailment
+The remit of CounterVortex is to offer critical analysis of global issues.	entailment
+The mission of CounterVortex is to provide comprehensive daily coverage of U.S. military operations, the War on Terror, resource conflicts, autonomy movements, and non-mainstream left-wing viewpoints from various regions.	entailment
+The usual audience of CounterVortex is **those interested in global issues and left-wing viewpoints**.	entailment
+CounterVortex tends to the  Far-Left.	entailment
+Other sources have commented on CounterVortex, stating that it tends to be Far-Left biased	entailment
+The factuality of CounterVortex is reported to be Mixed	entailment
+The factuality of CounterVortex is reported to be mixed, according to Media Bias Fact Check.	entailment
+CounterVortex relies on advertising for revenue	contradiction
+CounterVortex relies on subscriptions for revenue	entailment
+CounterVortex relies on donations for revenue	entailment
+CounterVortex has received donations from **subscriptions**.	entailment
+When aggregating stories, CounterVortex relies on information from [Reuters](https://mediabiasfactcheck.com/reuters/#googlevignette), constituteproject.org, ohchr.org, hrlibrary.umn.edu., and [Al Jazeera.](https://mediabiasfactcheck.com/al-jazeera/)	entailment
+CounterVortex has endorsed far-left biased editorial positions that align with the anarchist left.	entailment
+CounterVortex has an editorial bias towards **Far-Left**	entailment
+CounterVortex was fined **$9,530**	entailment
+CounterVortex's headquarter is located in New York	entailment
+CounterVortex is a news website/blog offering critical analysis of global issues.	entailment
+CounterVortex covers the following topics: U.S. military operations, the War on Terror, resource conflicts, autonomy movements, and non-mainstream left-wing viewpoints from various regions.	entailment

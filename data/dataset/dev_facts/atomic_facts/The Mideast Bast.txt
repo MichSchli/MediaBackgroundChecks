@@ -1,0 +1,17 @@
+The Mideast Bast is funded through advertising	entailment
+The remit of The Mideast Bast is to **produce satirical articles about Middle East politics and conflict**	entailment
+The mission of The Mideast Bast is to  Satirize Middle East politics and conflict.	entailment
+The Mideast Beast tends to the **political satire website**	entailment
+The Mideast Bast tends to the  according to 	contradiction
+Other sources have commented on The Mideast Beast, stating that it tends to be a political satire website.	entailment
+The factuality of The Mideast Bast is reported to be a political satire website that clearly disclaims its intentions.	entailment
+The factuality of The Mideast Bast is reported to be political satire, according to D. Van Zandt 8/8/2020.	entailment
+The Mideast Bast chose not to cover USA politics.	contradiction
+The Mideast Bast relies on advertising for revenue	entailment
+The Mideast Bast relies on subscriptions for revenue	contradiction
+The Mideast Bast relies on donations for revenue	contradiction
+The Mideast Beast has received donations from **advertising**.	entailment
+When aggregating stories, The Mideast Bast relies on information from **satirical articles about Middle East politics and conflict.**	entailment
+The Mideast Bast has endorsed  political satire.	entailment
+The Mideast Bast has an editorial bias towards political satire.	entailment
+The Mideast Beast printed a biased article titled "Trump Promises Palestinians a State if they Attend his Inauguration"	contradiction

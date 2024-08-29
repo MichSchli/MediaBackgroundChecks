@@ -1,0 +1,24 @@
+Baptist News Global founded Baptist News Global	contradiction
+Baptist News Global bought Baptist News Global	contradiction
+Baptist News Global acquired Baptist News Global	contradiction
+Baptist News Global is funded through reader-supported donations	entailment
+The remit of Baptist News Global is to **provide original and curated news, opinion and analysis about matters of faith. BNG covers the people, events, and ideas shaping American culture and Baptist life. We do so from a Baptist perspective in heritage and ecumenical in spirit.**	entailment
+The mission of Baptist News Global is to provide original and curated news, opinion and analysis about matters of faith.	entailment
+Baptist News Global tends to the left.	entailment
+Other sources have commented on Baptist News Global, stating that it tends to be Left-Center biased	entailment
+The factuality of Baptist News Global is reported to be High	entailment
+The factuality of Baptist News Global is reported to be High, according to proper sourcing and a clean fact-check record.	entailment
+Baptist News Global failed a fact-check for an article titled "George Floyd and the silence of white evangelical America".	contradiction
+Baptist News Global printed a retraction after failing a fact-check for an article titled [The First Amendment and religious freedom compel me to refute Trump’s position on churches reopening](https://baptistnews.com/article/the-first-amendment-and-religious-freedom-compel-me-to-refute-trumps-position-on-churches-reopening/#.Xtwe2hKiUk).	contradiction
+Baptist News Global chose not to cover George Floyd and the silence of white evangelical America	contradiction
+Baptist News Global relies on subscriptions for revenue	contradiction
+Baptist News Global relies on donations for revenue	entailment
+Baptist News Global has received donations from **reader-supported**	entailment
+When aggregating stories, Baptist News Global relies on information from **a wide variety of credible sources**.	entailment
+Baptist News Global has an editorial bias towards left	entailment
+Baptist News Global printed a biased article titled "George Floyd and the silence of white evangelical America".	entailment
+Baptist News Global had to apologize for [none in the Last 5 years](https://baptistnews.com/).	entailment
+Baptist News Global's headquarter is located in Nashville	entailment
+The Baptist News Global is funded by the reader-supported government	contradiction
+Baptist News Global is a nonprofit organization	entailment
+Baptist News Global covers the following topics: religion and the Baptist Church.	entailment

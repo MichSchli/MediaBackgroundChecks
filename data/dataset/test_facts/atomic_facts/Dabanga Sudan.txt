@@ -1,0 +1,17 @@
+Dabanga Sudan leads Dabanga Sudan	contradiction
+Dabanga bought Dabanga Sudan	entailment
+Dabanga Sudan is funded through donations	entailment
+The remit of Dabanga Sudan is to **report**	entailment
+Other sources have commented on Dabanga Sudan, stating that it tends to be **left-center biased**	entailment
+The factuality of Dabanga Sudan is reported to be  left-center biased.	entailment
+The factuality of Dabanga Sudan is reported to be mixed, according to M. Huitsing 12/07/2023.	entailment
+Dabanga Sudan chose not to cover **LGBTQ+ artistic expression in Sudan**	contradiction
+When aggregating stories, Dabanga Sudan relies on information from **local activists, officials, and organizations**	entailment
+Dabanga Sudan has endorsed left-center biased based on editorial positions that slightly favor the left.	entailment
+Dabanga Sudan has an editorial bias towards left.	entailment
+Dabanga Sudan was fined 	entailment
+Dabanga Sudan printed a biased article titled **"RSF Advisor: Sudan Army Command ‘Deeply Troubled’"**	entailment
+Dabanga Sudan printed a factually misleading titled  "More than 1,100 dead in besieged El Geneina, West Darfur".	entailment
+E. a lack of ownership transparency	entailment
+The text "Dabanga Sudan's headquarter is located in the " has been filled in to read "Dabanga Sudan's headquarter is located in the Netherlands".	entailment
+Dabanga Sudan covers the following topics: human rights, health, gender, youth, and civil society	entailment

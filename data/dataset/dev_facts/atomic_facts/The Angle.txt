@@ -1,0 +1,20 @@
+Digital Trends Media Group owns The Angle	entailment
+Digital Trends Media Group is the owner of The Angle.	entailment
+Digital Trends Media Group bought The Angle	contradiction
+The Angle is funded through **advertising**.	entailment
+The remit of The Angle is to **publish original consumer news and reviews information with minimal bias**	entailment
+The mission of The Angle is to  surface incredible deals, clever advice, and interesting insights across a wide range of topics.	entailment
+The Angle tends to the  Least Biased	entailment
+Other sources have commented on The Angle, stating that it tends to be **least biased**.	entailment
+The factuality of The Angle is reported to be High	entailment
+The factuality of The Angle is reported to be High, according to D. Van Zandt 	entailment
+The Angle failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+The Angle printed a retraction after failing a fact-check for an article titled "Air mattress vs. sleeping bag: Which should you choose?"	contradiction
+The Angle chose not to cover political news	entailment
+The Angle relies on advertising for revenue	entailment
+The Angle relies on subscriptions for revenue	contradiction
+The Angle relies on donations for revenue	contradiction
+When aggregating stories, The Angle relies on information from **credible outlets**	entailment
+The Angle has an editorial bias towards **least biased**.	entailment
+The Angle printed a biased article titled "Air mattress vs. sleeping bag: Which should you choose?"	contradiction
+The Angle had to apologize for  publishing op-eds.	contradiction

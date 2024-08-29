@@ -1,0 +1,21 @@
+Matt Bruenig founded People's Policy Project	entailment
+Matt Bruenig is the founder of People's Policy Project	entailment
+Matt Bruenig leads People's Policy Project	entailment
+Matt Bruenig is the owner of People's Policy Project	entailment
+People's Policy Project is funded through donations through Patreon and ActBlue platforms	entailment
+The remit of People's Policy Project is to **publish ideas and analysis that assist in the development of an economic system that serves the many, not the few**.	entailment
+The mission of People's Policy Project is to publish ideas and analysis that assist in the development of an economic system that serves the many, not the few.	entailment
+The usual audience of People's Policy Project is **left-leaning**	entailment
+People's Policy Project tends to the  according to 	entailment
+Other sources have commented on People's Policy Project, stating that it tends to be left-biased	entailment
+The factuality of People's Policy Project is reported to be mostly factual, according to a bias review by Mediabiasfactcheck.com.	entailment
+People's Policy Project chose not to cover failed fact checks	entailment
+People's Policy Project provides original content written by staff journalists	entailment
+People's Policy Project relies on advertising for revenue	entailment
+People's Policy Project relies on subscriptions for revenue	entailment
+People's Policy Project relies on donations for revenue	entailment
+People's Policy Project has received donations from **Patreon and ActBlue platforms**	entailment
+When aggregating stories, People's Policy Project relies on information from **factually mixed sources**	entailment
+People's Policy Project has endorsed socialist and social-democratic policy ideas	entailment
+People's Policy Project has an editorial bias towards **left-leaning**	entailment
+People's Policy Project printed a biased article titled "Fact-Checking the Fact-Checkers on Medicare for All".	entailment

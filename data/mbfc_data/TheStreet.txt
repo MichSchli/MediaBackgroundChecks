@@ -1,0 +1,13 @@
+History
+Founded in 1996 by Jim Cramer (CNBC’s “Mad Money”), TheStreet is a website that publishes financial and investment news for both experienced and novice investors.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+In 2019, The Street Inc. sold the website to TheMaven for
+[16.5 million dollars](https://www.businesswire.com/news/home/20190808005215/en/Maven-Closes-Acquisition-TheStreet-New-Jim-Cramer). TheMaven has since rebranded as the Arena Group. Revenue is generated through advertising as well as subscription fees for premium content.
+Analysis / Bias
+In review, TheStreet provides original financial, investment news, and tips with minimal bias. However, they employ sensationalized wording such as this headline:
+[Dow Ends Off 1,032; Stocks Slammed as Coronavirus Spreads Outside Asia](https://www.thestreet.com/markets/dow-plunges-coronavirus-china). They also report important news to investors, such as this [Apple Loses Appeal of Patent Verdict, Is Liable for $440 Million Damages](https://www.thestreet.com/technology/apple-loses-patent-case-liable-for-440-million-damages). Regarding sourcing, TheStreet uses a combination of hyperlinks and first-person opinion analysis.
+Editorially, Jim Cramer often reports favorably on President Trump’s record with the stock market. At the same time featuring negative reporting toward progressive Democrats such as this:
+[Jim Cramer: It’s Almost as if the Democrats Have a ‘Death Wish’ Against Trump](https://www.thestreet.com/video/why-jim-cramer-thinks-democrats-have-a-death-wish-against-president-trump). This website generally supports a free market with less government intervention in markets.
+Failed Fact Checks
+- None in the Last 5 years

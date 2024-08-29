@@ -1,0 +1,25 @@
+Digital First Media owns Inland Valley Bulletin	entailment
+Frank Pine is the owner of Inland Valley Bulletin.	contradiction
+Digital First Media bought Inland Valley Bulletin	contradiction
+Inland Valley Bulletin is funded through subscriptions	entailment
+The remit of Inland Valley Bulletin is to **report news with balance and proper sourcing**	entailment
+The mission of Inland Valley Bulletin is to  report news with balance and is properly sourced.	entailment
+Inland Valley Bulletin tends to the left	contradiction
+Other sources have commented on Inland Valley Bulletin, stating that it tends to be **least biased**	entailment
+The factuality of Inland Valley Bulletin is reported to be High	entailment
+The factuality of Inland Valley Bulletin is reported to be High, according to Media Bias Fact Check.	entailment
+Inland Valley Bulletin failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Inland Valley Bulletin provides original content written by staff journalists	entailment
+Inland Valley Bulletin relies on advertising for revenue	entailment
+Inland Valley Bulletin relies on subscriptions for revenue	entailment
+Inland Valley Bulletin relies on donations for revenue	contradiction
+Inland Valley Bulletin has received donations from **paid subscriptions and advertising**	entailment
+When aggregating stories, Inland Valley Bulletin relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Inland Valley Bulletin has endorsed least biased based on balanced news reporting and a diverse editorial page that covers both sides.	entailment
+Inland Valley Bulletin has an editorial bias towards left.	contradiction
+Frank Pine is the editor of Inland Valley Bulletin	entailment
+Inland Valley Bulletin printed a biased article titled "Female presidential candidates likely to face bias based on gender, study shows".	entailment
+Inland Valley Bulletin printed a factually misleading titled Least Biased based on balanced news reporting and a diverse editorial page.	contradiction
+Inland Valley Bulletin had to apologize for **None in the Last 5 years**	entailment
+Inland Valley Bulletin's headquarter is located in Rancho Cucamonga	entailment
+Inland Valley Bulletin covers the following topics: local news, national news, political news	entailment

@@ -1,0 +1,22 @@
+FairVote founded FairVote	contradiction
+FairVote is the founder of FairVote	contradiction
+FairVote bought FairVote	entailment
+FairVote is funded through donations	entailment
+The remit of FairVote is to advocate electoral reform in the United States.	entailment
+The mission of FairVote is to advocate for electoral reforms that give voters greater choice, a stronger voice, and a representative democracy that works for all Americans.	entailment
+FairVote tends to the **Left-Center Biased**.	entailment
+Other sources have commented on FairVote, stating that it tends to be Left-Center Biased	entailment
+The factuality of FairVote is reported to be High	entailment
+The factuality of FairVote is reported to be High, according to mediabiasfactcheck.com	entailment
+FairVote failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+FairVote chose not to cover Failed Fact Checks	entailment
+FairVote relies on advertising for revenue	contradiction
+FairVote relies on subscriptions for revenue	contradiction
+FairVote relies on donations for revenue	entailment
+FairVote has received donations from donors	entailment
+When aggregating stories, FairVote relies on information from its website.	entailment
+FairVote has an editorial bias towards Left-Center Biased	entailment
+FairVote had to apologize to no one for nothing	entailment
+FairVote is funded by the United States government	contradiction
+FairVote is a 501(c)(3)	entailment
+FairVote covers the following topics: electoral reform, Ranked choice voting, plurality voting, the electoral college	contradiction

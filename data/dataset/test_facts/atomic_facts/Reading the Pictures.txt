@@ -1,0 +1,14 @@
+The remit of Reading the Pictures is to **analyze news, documentary, and social media images for meaning, trends, context, and fairness, to impart that appreciation to media consumers and professionals**.	entailment
+The mission of Reading the Pictures is to analyze news, documentary, and social media images for meaning, trends, context, and fairness, to impart that appreciation to media consumers and professionals.	entailment
+The usual audience of Reading the Pictures is left biased through wording and story selection and Mostly Factual for reporting based on a lack of transparency despite a clean fact check record. (D. Van Zandt 9/24/2017) Updated (9/03/2023)	entailment
+Reading the Pictures tends to the left	entailment
+Other sources have commented on Reading the Pictures, stating that it tends to be **left biased**.	entailment
+The factuality of Reading the Pictures is reported to be Mostly Factual	entailment
+The factuality of Reading the Pictures is reported to be Mostly Factual, according to D. Van Zandt.	entailment
+Reading the Pictures failed a fact-check for an article titled None in the Last 5 years	contradiction
+Reading the Pictures chose not to cover ownership and funding sources.	entailment
+Reading the Pictures relies on subscriptions for revenue	entailment
+Reading the Pictures has endorsed a left biased perspective through wording and story selection and has been rated as Mostly Factual for reporting.	entailment
+Reading the Pictures has an editorial bias towards **a liberal perspective**	entailment
+Reading the Pictures printed a biased article titled  "Picturing Vaccination Reluctance Among Conservative Christians".	entailment
+The topics covered by Reading the Pictures are: visual culture, visual literacy, and media literacy by analyzing news, documentary, and social media images.	entailment

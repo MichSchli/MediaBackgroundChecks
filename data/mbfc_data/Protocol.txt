@@ -1,0 +1,12 @@
+History
+Launched in 2020 by
+[Politico](https://mediabiasfactcheck.com/politico/) Executive Chairman Robert Allbritton, Protocol provides in-depth coverage of the Tech Industry. According to their [about page](https://www.protocol.com/st/about_us), “We focus on the people, power, and politics of tech, with no agenda and just one goal: to arm decision-makers in tech, business and public policy with the unbiased, fact-based news and analysis they need to navigate a world in rapid change.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+[Protocol Media, LLC](https://www.dnb.com/business-directory/company-profiles.protocol_media_llc.fa919c02723d8e536122d2967e52e7cc.html), through [Perpetual Capital Partners, LLC](https://www.perpetualcapitalpartners.com/) owns Protocol. Robert Allbritton, the founder of Politico, owns Perpetual Capital Partners, LLC. Initially [funded](https://www.vanityfair.com/news/2019/11/politico-founder-is-launching-a-tech-site) with 10 million dollars, advertising currently generates revenue.
+Analysis / Bias
+Protocol publishes original news and information covering the technology industry. Coverage includes government policy that impacts the industry, the people behind the innovations, and companies that produce tech. Articles and headlines contain moderately emotional language, such as
+[How Slack and Discord became tools for worker revolt](https://www.protocol.com/workplace/slack-discord-worker-protest-tools). Like all others reviewed, this story features credible sourcing from outlets such as the [New York Times](https://mediabiasfactcheck.com/new-york-times/) and [The Verge](https://mediabiasfactcheck.com/the-verge/). The website also publishes technology-related news from other sources such as [The Wall Street Journal](https://mediabiasfactcheck.com/wall-street-journal/) and [Reuters](https://mediabiasfactcheck.com/reuters/).
+Editorially, they properly label
+[opinion pieces](https://www.protocol.com/tag/opinion). All op-eds cover the technology sector with more stories favoring a [left-leaning](https://mediabiasfactcheck.com/leftcenter/) perspective such as this [Why tech should push Biden for a carbon tax and other regulation](https://www.protocol.com/biden-regulations-opinion). In general, the news reporting is fact-based with a left leaning editorial bias.
+Failed Fact Checks
+- None in the Last 5 years

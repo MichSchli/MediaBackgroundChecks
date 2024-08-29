@@ -1,0 +1,23 @@
+Patrick Bet-David founded Valuetainment	entailment
+Patrick Bet-David is the founder of Valuetainment	entailment
+Patrick Bet-David leads Valuetainment	entailment
+Patrick Bet-David owns Valuetainment	entailment
+Patrick Bet-David is the owner of Valuetainment	entailment
+Patrick Bet-David acquired Valuetainment	entailment
+Valuetainment is funded through advertising, paid memberships, and an online store that sells merchandise.	entailment
+The remit of Valuetainment is to **publish news, videos, and podcasts**.	entailment
+The usual audience of Valuetainment is **right-biased in support of conservatives**	entailment
+Valuetainment tends to the right	entailment
+Other sources have commented on Valuetainment, stating that it tends to be right-biased.	entailment
+The factuality of Valuetainment is reported to be Mixed	entailment
+The factuality of Valuetainment is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Valuetainment chose not to cover vaccine hesitancy and Covid misinformation	contradiction
+Valuetainment relies on advertising for revenue	entailment
+Valuetainment relies on donations for revenue	contradiction
+Valuetainment has endorsed right-biased content	entailment
+Valuetainment has an editorial bias towards **the right**	entailment
+Valuetainment had to apologize for **promoting misleading information and a failed fact check**	entailment
+Valuetainment had to apologize to [Factcheck.org](https://mediabiasfactcheck.com/factcheck/) for [promoting anti-Covid Vaccination propaganda on the Joe Rogan show.](https://mediabiasfactcheck.com/the-joe-rogan-experience-bias/)	entailment
+Valuetainment is funded by the private government	contradiction
+Valuetainment is a news and opinion website	entailment
+Valuetainment covers the following topics: business, politics, lifestyle, entertainment, pop culture, and sports	entailment

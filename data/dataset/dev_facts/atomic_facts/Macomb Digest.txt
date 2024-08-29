@@ -1,0 +1,20 @@
+David Brock founded Macomb Digest	entailment
+Local Report Inc owns Macomb Digest	entailment
+Local Report Inc is the owner of Macomb Digest	entailment
+Local Report Inc bought Macomb Digest	contradiction
+Local Report Inc acquired Macomb Digest	contradiction
+Macomb Digest is funded through **lacks transparency**	entailment
+The remit of Macomb Digest is to **promote left-leaning propaganda in support of the Democratic Party**	entailment
+The mission of Macomb Digest is to promote left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+The Macomb Digest tends to the left	entailment
+Macomb Digest tends to the left according to Media Bias Fact Check.	entailment
+Other sources have commented on Macomb Digest, stating that it tends to be left-leaning.	entailment
+The factuality of Macomb Digest is reported to be Left-Center Biased	entailment
+The factuality of Macomb Digest is reported to be **questionable**, according to **Mediabiasfactcheck**.	entailment
+Macomb Digest relies on advertising for revenue	entailment
+Macomb Digest relies on subscriptions for revenue	entailment
+The text does not contain information about specific donations received by Macomb Digest.	entailment
+Macomb Digest has an editorial bias towards **the left and the Democratic Party**	entailment
+Jacob Van Zandt is the editor of Macomb Digest	contradiction
+Macomb Digest was fined 	entailment
+Macomb Digest printed a biased article titled Making Credit Cards More Expensive Would Hurt Minorities | Opinion	entailment

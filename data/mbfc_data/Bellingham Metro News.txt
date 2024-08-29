@@ -1,0 +1,16 @@
+History
+Established in 2019 by Fernando Gonzalez,
+[Bellingham Metro News](https://bellinghammetronews.com/about-us/) is an online-only news website that covers local news and events in Bellingham, Washington, and the surrounding areas. Its headquarter is in Lynden, Washington. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Bellingham Metro News does not clearly disclose its ownership on the website; however, on the
+[Privacy Policy Page](https://bellinghammetronews.com/privacy-policy-2/?fbclid=IwAR3FYJMgQled0nDWVxSusP-ZaZQFdrXo5brY0U1BTvpgtfsx1r6C9Ivjdc8), it indicates they are owned by Bellingham Metro News, inc. [Fernando Gonzalez](https://opencorporates.com/companies/us_wa/604481283) was listed as the initial board of directors when they were a nonprofit. As of 2023, the nonprofit status has been [dissolved](https://opencorporates.com/filings/1208770185). The website generates revenue through subscriptions, although details on the company’s revenue streams are not provided.
+Analysis / Bias
+Bellingham Metro News focuses on local news and events in Bellingham and the surrounding area.
+The website categorizes its news into different sections, including News, Politics, Sports, Entertainment, and Business. Bellingham Metro News covers a range of local news stories, including crime news. One example is an article titled
+[“Three Charged in the Murder of 5-Year-Old Girl in Ferndale.”](https://bellinghammetronews.com/local/three-charged-in-the-murder-of-5-year-old-girl-in-ferndale/)
+The site sometimes sources stories directly from authorities such as the Whatcom County Sheriff’s Office and Ferndale Communications Officer. However, they also source some stories, such as
+[“Man armed with hatchet drives vehicle into food court at Bellis Fair during Police Chase,”](https://bellinghammetronews.com/news/breaking-news/man-armed-with-hatchet-drives-vehicle-into-food-court-at-bellis-fair-during-police-chase/) through unconfirmed sources like police radio or social media groups.
+Some
+[articles](https://www.facebook.com/BellinghamNews/posts/bellingham-crime-rate-mentioned-on-national-news-featuring-tucker-carlson-and-ti/2066411973541426/) published by Bellingham Metro News articles are also republished by local sources, such as [“Bellingham crime rate mentioned on national news: Bellingham Metro News.”](https://darik.news/washington/bellingham-crime-rate-mentioned-on-national-news-bellingham-metro-news/557211.html) The article appears to have a conservative bias as it cites former [Fox News](https://mediabiasfactcheck.com/fox-news-bias/) host [Tucker Carlson.](https://mediabiasfactcheck.com/tucker-carlson-bias-rating/) The article also lacks context and statistical evidence to support the claim that Bellingham has a crime spike. It only lists several incidents of theft and burglary without providing information on crime rates over time or in comparison to other cities. In general, the website holds a slight right-leaning editorial bias and is mostly factual in reporting.
+Failed Fact Checks
+- None in the Last 5 years

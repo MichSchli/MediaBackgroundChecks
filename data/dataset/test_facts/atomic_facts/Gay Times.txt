@@ -1,0 +1,27 @@
+Tag Warner founded Gay Times	entailment
+Tag Warner is the founder of Gay Times	contradiction
+Tag Warner is the CEO of Gay Times	entailment
+Tag Warner leads Gay Times	entailment
+James Frost owns Gay Times	contradiction
+Gay Times bought Gay Times	contradiction
+Gay Times is funded through advertising and subscription fees.	entailment
+The remit of Gay Times is to report news and information for the LGBTQ community.	entailment
+The usual audience of Gay Times is **the LGBTQ+ community**	entailment
+Gay Times tends to the left	entailment
+Other sources have commented on Gay Times, stating that it tends to be left biased.	entailment
+The factuality of Gay Times is reported to be High	entailment
+The factuality of Gay Times is reported to be High, according to M. Huitsing 11/23/2022	entailment
+Gay Times failed a fact-check for an article titled **None in the Last 5 years**	entailment
+Gay Times relies on advertising for revenue	entailment
+Gay Times relies on subscriptions for revenue	entailment
+Gay Times relies on donations for revenue	entailment
+When aggregating stories, Gay Times relies on information from [Vice News](https://mediabiasfactcheck.com/vice-news/) and [Channel 4 news](https://mediabiasfactcheck.com/channel-4-news-uk/).	entailment
+Gay Times has endorsed liberal positions	entailment
+Gay Times has an editorial bias towards **the left**	entailment
+Gay Times was fined 	entailment
+Gay Times printed a biased article titled "AOC slams anti-LGBTQ+ legislator Lauren Boebert for Colorado shooting response."	entailment
+Gay Times printed a factually misleading titled "Donald Trump launches presidential bid with anti-trans speech."	entailment
+Gay Times's headquarter is located in the UK	entailment
+Gay Times is funded by the UK government	contradiction
+Gay Times is a  Left Biased	entailment
+Gay Times covers the following topics: music, culture, drag, fashion, lifestyle, and gay rights for the LGBTQ+ community	entailment

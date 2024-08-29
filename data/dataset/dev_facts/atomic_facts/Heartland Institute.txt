@@ -1,0 +1,17 @@
+Who is the CEO of Heartland Institute?	entailment
+Heartland Institute leads Heartland Institute.	entailment
+Heartland Institute is funded through notable right-leaning institutions such as Exxon-Mobil, Charles G. Koch Foundation, and the Lynde and Harry Bradley Foundation.	entailment
+The remit of Heartland Institute is to  advocate for corporations and minimal regulations	entailment
+The mission of Heartland Institute is to promote free-market solutions to social and economic problems.	entailment
+The usual audience of Heartland Institute is **corporations, right-leaning institutions, and free-market supporters**.	entailment
+Heartland Institute tends to the Right Biased	entailment
+Other sources have commented on Heartland Institute, stating that it tends to be Right Biased.	entailment
+The factuality of Heartland Institute is reported to be Questionable	entailment
+The factuality of Heartland Institute is reported to be questionable, according to IFCN fact-checkers.	entailment
+Heartland Institute chose not to cover their donors	entailment
+Heartland Institute relies on donations for revenue	entailment
+Heartland Institute has received donations from notable right-leaning institutions such as Exxon-Mobil, Charles G. Koch Foundation, and the Lynde and Harry Bradley Foundation.	entailment
+Heartland Institute has an editorial bias towards **right**	entailment
+Heartland Institute printed a biased article titled **The Global Warming Crisis is Over**	entailment
+Heartland Institute printed a factually misleading titled "NOAA makes it official. Last 8 years… global cooling."	contradiction
+Heartland Institute had to apologize to Union of Concerned Scientists for stating "This is absolutely false, malicious, and libelous."	contradiction

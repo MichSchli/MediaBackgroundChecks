@@ -1,0 +1,19 @@
+LRT owns Lithuanian National Radio and Television	contradiction
+LRT is the owner of Lithuanian National Radio and Television	contradiction
+LRT acquired Lithuanian National Radio and Television.	contradiction
+Lithuanian National Radio and Television is funded through taxpayer funding	entailment
+The remit of Lithuanian National Radio and Television is to provide news.	entailment
+The mission of Lithuanian National Radio and Television is to  "provide news in Lithuanian, English, and Russian languages."	entailment
+Other sources have commented on Lithuanian National Radio and Television, stating that it tends to be **least biased**	entailment
+The factuality of Lithuanian National Radio and Television is reported to be High	entailment
+The factuality of Lithuanian National Radio and Television is reported to be High, according to mediabiasfactcheck.com.	entailment
+Lithuanian National Radio and Television failed a fact-check for an article titled **None in the Last 5 years**	entailment
+Lithuanian National Radio and Television chose not to cover Lithuania's liberals take aim at Labour Day – again.	contradiction
+Lithuanian National Radio and Television relies on subscriptions for revenue	entailment
+Lithuanian National Radio and Television relies on donations for revenue	entailment
+Lithuanian National Radio and Television was fined 	entailment
+"Lithuanian National Radio and Television had to apologize for emotionally loaded language in their headlines."	entailment
+Lithuanian National Radio and Television's headquarter is located in Vilnius	entailment
+The Lithuanian National Radio and Television is funded by the public government	entailment
+Lithuanian National Radio and Television is a taxpayer-funded institution.	entailment
+Lithuanian National Radio and Television covers the following topics: political, economic, business, and cultural events in Lithuania	entailment

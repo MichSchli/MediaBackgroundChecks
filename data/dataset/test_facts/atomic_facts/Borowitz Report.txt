@@ -1,0 +1,21 @@
+The New Yorker owns Borowitz Report	entailment
+The New Yorker bought Borowitz Report	contradiction
+The New Yorker acquired Borowitz Report	contradiction
+The remit of Borowitz Report is to **provide political satire that pokes fun at conservatives and favors the left while denigrating the right**	entailment
+The mission of Borowitz Report is to satirize political topics.	entailment
+The usual audience of Borowitz Report is **left-leaning**	entailment
+Borowitz Report tends to the **left**	entailment
+Other sources have commented on Borowitz Report, stating that it tends to be left-biased	entailment
+The factuality of Borowitz Report is reported to be left-biased	entailment
+The factuality of Borowitz Report is reported to be left-biased according to Media Bias Fact Check.	entailment
+Borowitz Report chose not to cover conservatives	contradiction
+Borowitz Report relies on advertising for revenue	entailment
+Borowitz Report relies on subscriptions for revenue	entailment
+Borowitz Report has endorsed left	entailment
+Borowitz Report has an editorial bias towards left	entailment
+Borowitz Report printed a biased article titled "Dr. Oz Hopes to Replace Rand Paul as Biggest Quack in Senate"	entailment
+Borowitz Report printed a factually misleading titled  "Dr. Oz Hopes to Replace Rand Paul as Biggest Quack in Senate"	entailment
+Borowitz Report's headquarter is located in [New York,](https://mediabiasfactcheck.com/new-yorker/)	entailment
+Borowitz Report is funded by the United States government	contradiction
+Borowitz Report is a left-biased Satire website.	entailment
+Borowitz Report covers the following topics: political satire.	entailment

@@ -1,0 +1,23 @@
+Lee Enterprises owns Dispatch-Argus	entailment
+Lee Enterprises is the owner of Dispatch-Argus.	entailment
+Lee Enterprises bought Dispatch-Argus	contradiction
+Dispatch-Argus is funded through advertising and subscription fees	entailment
+The remit of Dispatch-Argus is to  report on news, sports, entertainment, lifestyle, and opinion for the Quad Cities and the surrounding area.	entailment
+The mission of Dispatch-Argus is to report on news, sports, entertainment, lifestyle, and opinion for the Quad Cities and the surrounding area.	entailment
+The usual audience of Dispatch-Argus is **residents of the Quad Cities and the surrounding area**	entailment
+Dispatch-Argus tends to the [  Least Biased  ]	entailment
+Other sources have commented on Dispatch-Argus, stating that it tends to be least biased.	entailment
+The factuality of Dispatch-Argus is reported to be High	entailment
+Dispatch-Argus failed a fact-check for an article titled None in the Last 5 years	contradiction
+Dispatch-Argus printed a retraction after failing a fact-check for an article titled "Iowa to change unemployment process starting Jan. 9".	entailment
+Dispatch-Argus relies on advertising for revenue	entailment
+Dispatch-Argus relies on subscriptions for revenue	entailment
+Dispatch-Argus relies on donations for revenue	contradiction
+When aggregating stories, Dispatch-Argus relies on information from first-person accounts or through credible media.	entailment
+Dispatch-Argus has an editorial bias towards  least biased positions that slightly favor the right.	entailment
+Dispatch-Argus was fined **None**	entailment
+"Dispatch-Argus printed a factually misleading titled None in the Last 5 years"	entailment
+Dispatch-Argus had to apologize to no one for nothing	entailment
+Dispatch-Argus is funded by the Private government	contradiction
+Dispatch-Argus is a daily print newspaper	entailment
+Dispatch-Argus covers the following topics: news, sports, entertainment, lifestyle, and opinion for the Quad Cities and the surrounding area.	entailment

@@ -1,0 +1,14 @@
+Alliance For Securing Democracy is funded through **donations**	entailment
+The remit of Alliance For Securing Democracy is to  deter, defend against, and raise the costs on autocratic efforts to undermine and interfere in democratic institutions.	entailment
+The mission of Alliance For Securing Democracy is to **develop comprehensive strategies to deter, defend against, and raise the costs on autocratic efforts to undermine and interfere in democratic institutions**	entailment
+Alliance For Securing Democracy tends to the **right-leaning**	entailment
+Other sources have commented on Alliance For Securing Democracy, stating that it tends to be slightly right-leaning least biased source.	entailment
+The factuality of Alliance For Securing Democracy is reported to be High	entailment
+The factuality of Alliance For Securing Democracy is reported to be High, according to Media Bias Fact Check.	entailment
+Alliance For Securing Democracy failed a fact-check for an article titled "None in the Last 5 years. IFCN fact-checkers use them."	contradiction
+Alliance For Securing Democracy chose not to cover Failed Fact Checks	entailment
+Alliance For Securing Democracy relies on advertising for revenue	contradiction
+Alliance For Securing Democracy relies on subscriptions for revenue	entailment
+Alliance For Securing Democracy relies on donations for revenue	entailment
+When aggregating stories, Alliance For Securing Democracy relies on information from **mainstream credible news sources**.	entailment
+Alliance For Securing Democracy has an editorial bias towards slightly right-leaning.	entailment

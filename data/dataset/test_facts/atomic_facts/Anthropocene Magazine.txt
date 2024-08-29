@@ -1,0 +1,20 @@
+Future Earth is the founder of Anthropocene Magazine	entailment
+Future Earth owns Anthropocene Magazine	entailment
+Anthropocene bought Anthropocene Magazine	entailment
+Anthropocene Magazine is funded through [gifts, grants, and sponsorships from individuals and organizations for the general support of our activities](http://www.anthropocenemagazine.org/about-us/).	entailment
+The remit of Anthropocene Magazine is to  curate a global conversation about data, technology, and innovation that lead to solutions to the persistent environmental challenges of our time.	entailment
+The mission of Anthropocene Magazine is to curate a global conversation about data, technology, and innovation that lead to solutions to the persistent environmental challenges of our time.	entailment
+Anthropocene Magazine tends to the Left-Center	entailment
+Other sources have commented on Anthropocene Magazine, stating that it tends to be Left-Center Biased	entailment
+The factuality of Anthropocene Magazine is reported to be High	entailment
+The factuality of Anthropocene Magazine is reported to be High, according to D. Van Zandt	entailment
+Anthropocene Magazine printed a retraction after failing a fact-check for an article titled "None in the Last 5 years."	contradiction
+Anthropocene Magazine chose not to cover former President Trump	contradiction
+When aggregating stories, Anthropocene Magazine relies on information from  a network of over 4,000 journalists in developing countries through a partnership with Earth Journalism Network.	entailment
+Anthropocene Magazine has endorsed Left-Center Bias	entailment
+Anthropocene Magazine has an editorial bias towards **the moderate left**	entailment
+Anthropocene Magazine printed a biased article titled Climate change cooks up a toxic ocean stew	entailment
+Anthropocene Magazine had to apologize for **none**	entailment
+Anthropocene Magazine's headquarter is located in Washington, D.C.	contradiction
+Anthropocene Magazine is a non-profit initiative.	entailment
+Anthropocene Magazine covers the following topics: sustainability, the environment, and technology	entailment

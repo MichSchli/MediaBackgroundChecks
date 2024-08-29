@@ -1,0 +1,21 @@
+The DTH Media Corp owns The Daily Tarheel	entailment
+The Daily Tarheel is the owner of The Daily Tarheel	contradiction
+The DTH Media Corp bought The Daily Tarheel	contradiction
+The Daily Tarheel acquired The Daily Tar Heel	contradiction
+The Daily Tarheel is funded through advertising and donations	entailment
+The remit of The Daily Tarheel is to report on University news and sports, but it also includes regular coverage of Orange County and North Carolina state news.	entailment
+The Daily Tarheel tends to the left	entailment
+Other sources have commented on The Daily Tarheel, stating that it tends to be Left-Center Biased	entailment
+The factuality of The Daily Tarheel is reported to be High	entailment
+The factuality of The Daily Tarheel is reported to be High, according to D. Van Zandt.	entailment
+The Daily Tarheel failed a fact-check for an article titled "UNC has until Friday to offer Nikole Hannah-Jones tenure or face federal lawsuit".	contradiction
+The Daily Tarheel chose not to cover **Failed Fact Checks**	entailment
+The Daily Tarheel relies on advertising for revenue	entailment
+The Daily Tarheel relies on donations for revenue	entailment
+When aggregating stories, The Daily Tarheel relies on information from credible media or first-person accounts.	entailment
+The Daily Tarheel has endorsed a left-center perspective	entailment
+The Daily Tarheel has an editorial bias towards left-center	entailment
+The Daily Tarheel had to apologize for **None in the Last 5 years**	entailment
+The Daily Tarheel is funded by the United States government	contradiction
+The Daily Tarheel is a **Left-Center Biased**	entailment
+The Daily Tarheel covers the following topics: University news, sports, Orange County, North Carolina	entailment

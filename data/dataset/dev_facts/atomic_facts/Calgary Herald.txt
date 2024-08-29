@@ -1,0 +1,17 @@
+PostMedia owns Calgary Herald	entailment
+PostMedia is the owner of Calgary Herald	entailment
+PostMedia acquired Calgary Herald	entailment
+Calgary Herald is funded through advertising and subscription fees	entailment
+The mission of Calgary Herald is to **provide news coverage with a right-leaning bias**	entailment
+Calgary Herald tends to the right	entailment
+Calgary Herald tends to the right according to Mediabiasfactcheck	entailment
+Other sources have commented on Calgary Herald, stating that it tends to be right-leaning.	entailment
+The factuality of Calgary Herald is reported to be High	entailment
+The factuality of Calgary Herald is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/canada-media-profile/).	entailment
+Calgary Herald relies on advertising for revenue	entailment
+Calgary Herald relies on subscriptions for revenue	entailment
+Calgary Herald relies on donations for revenue	entailment
+When aggregating stories, Calgary Herald relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+Calgary Herald has an editorial bias towards `the right`.	entailment
+Calgary Herald printed a biased article titled **Editorial: Alberta must not be thrown under the bus to save Trudeau**	entailment
+Calgary Herald had to apologize for right-leaning bias	contradiction

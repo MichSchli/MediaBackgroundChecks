@@ -1,0 +1,23 @@
+MediaNews Group owns Santa Cruz Sentinel	entailment
+MediaNews Group bought Santa Cruz Sentinel	contradiction
+MediaNews Group acquired Santa Cruz Sentinel	entailment
+Santa Cruz Sentinel is funded through Advertising and subscription fees	entailment
+The remit of Santa Cruz Sentinel is to  report local and regional news through journalists with minimal bias.	entailment
+The mission of Santa Cruz Sentinel is to report local and regional news through journalists with minimal bias.	entailment
+Santa Cruz Sentinel tends to the least biased	entailment
+Other sources have commented on Santa Cruz Sentinel, stating that it tends to be least biased.	entailment
+The factuality of Santa Cruz Sentinel is reported to be High	entailment
+The factuality of Santa Cruz Sentinel is reported to be High, according to D. Van Zandt	entailment
+Santa Cruz Sentinel failed a fact-check for an article titled "Strike halts some city services in the city of Santa Cruz"	contradiction
+Santa Cruz Sentinel chose not to cover (Failed Fact Checks)	entailment
+Santa Cruz Sentinel provides original content written by staff journalists	entailment
+Santa Cruz Sentinel relies on advertising for revenue	entailment
+Santa Cruz Sentinel relies on subscriptions for revenue	entailment
+Santa Cruz Sentinel relies on donations for revenue	contradiction
+When aggregating stories, Santa Cruz Sentinel relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Washington Post](https://mediabiasfactcheck.com/washington-post/).	entailment
+Santa Cruz Sentinel has an editorial bias towards least biased.	entailment
+Santa Cruz Sentinel printed a factually misleading titled "Strike halts some city services in the city of Santa Cruz".	contradiction
+Santa Cruz Sentinel had to apologize to No one for No incidents	entailment
+Santa Cruz Sentinel is funded by the private government	contradiction
+Santa Cruz Sentinel is a **newspaper**	entailment
+Santa Cruz Sentinel covers the following topics: local news, sports, crime, lifestyle, and opinion	entailment

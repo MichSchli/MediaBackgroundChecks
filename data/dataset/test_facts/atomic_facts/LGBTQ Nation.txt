@@ -1,0 +1,23 @@
+Bil Browning is the CEO of LGBTQ Nation	contradiction
+Q.Digital owns LGBTQ Nation	entailment
+Q.Digital is the owner of LGBTQ Nation	entailment
+Q.Digital bought LGBTQ Nation	contradiction
+LGBTQ Nation is funded through **offering advertising placements**	entailment
+The remit of LGBTQ Nation is to **promote global gay rights through reporting of news on politics, elections, life, and health**.	entailment
+The mission of LGBTQ Nation is to **promote global gay rights through reporting of news on politics, elections, life, and health**.	entailment
+LGBTQ Nation tends to the left	entailment
+Other sources have commented on LGBTQ Nation, stating that it tends to be left biased.	entailment
+The factuality of LGBTQ Nation is reported to be Mostly Factual	entailment
+The factuality of LGBTQ Nation is reported to be Mostly Factual, according to D. Van Zandt 2/9/2017	entailment
+LGBTQ Nation chose not to cover conservatives	contradiction
+LGBTQ Nation relies on advertising for revenue	entailment
+LGBTQ Nation relies on subscriptions for revenue	entailment
+LGBTQ Nation relies on donations for revenue	contradiction
+When aggregating stories, LGBTQ Nation relies on information from [The Guardian](https://mediabiasfactcheck.com/the-guardian/) and [BBC](https://mediabiasfactcheck.com/bbc/).	entailment
+LGBTQ Nation has endorsed the left	entailment
+LGBTQ Nation has an editorial bias towards **the left**	entailment
+Bil Browning is the editor of LGBTQ Nation	entailment
+LGBTQ Nation printed a biased article titled  "GOP lawmaker’s extremely conservative sex ed bill is dead. She blames LGBTQ activism."	entailment
+LGBTQ Nation had to apologize to conservatives for negatively reporting on them.	entailment
+LGBTQ Nation is a  Left Biased 	entailment
+LGBTQ Nation covers the following topics: **global gay rights, politics, elections, life, health, hate crimes, discrimination, conservatives, former Trump administration**	entailment

@@ -1,0 +1,24 @@
+Nexstar Media Group owns KAMC - Lubbock News	entailment
+Nexstar Media Group is the owner of KAMC - Lubbock News	entailment
+Nexstar Media Group bought KAMC - Lubbock News	entailment
+Nexstar Media Group acquired KAMC - Lubbock News	entailment
+KAMC - Lubbock News is funded through **advertising**	entailment
+The remit of KAMC - Lubbock News is to **provide news for the greater Lubbock, Texas, area**	entailment
+The mission of KAMC - Lubbock News is to report news factually and with minimal bias.	entailment
+The usual audience of KAMC - Lubbock News is **the greater Lubbock, Texas, area**.	entailment
+KAMC - Lubbock News tends to the Least Biased	entailment
+Other sources have commented on KAMC - Lubbock News, stating that it tends to be **Least Biased**	entailment
+The factuality of KAMC - Lubbock News is reported to be High	entailment
+The factuality of KAMC - Lubbock News is reported to be High, according to Media Bias Fact Check.	entailment
+KAMC - Lubbock News failed a fact-check for an article titled "One killed after crash in South Lubbock on Friday afternoon, police said".	contradiction
+KAMC - Lubbock News printed a retraction after failing a fact-check for an article titled "One killed after crash in South Lubbock on Friday afternoon, police said".	entailment
+KAMC - Lubbock News chose not to cover op-eds.	entailment
+KAMC - Lubbock News relies on advertising for revenue	entailment
+KAMC - Lubbock News relies on donations for revenue	contradiction
+KAMC - Lubbock News has received donations from [advertising].	entailment
+When aggregating stories, KAMC - Lubbock News relies on information from the Associated Press	entailment
+KAMC - Lubbock News has endorsed **no political party**	entailment
+KAMC - Lubbock News has an editorial bias towards Least Biased.	entailment
+KAMC - Lubbock News had to apologize for **none in the last 5 years**.	entailment
+KAMC - Lubbock News is a **news outlet**	entailment
+KAMC - Lubbock News covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

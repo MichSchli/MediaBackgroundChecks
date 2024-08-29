@@ -1,0 +1,15 @@
+Brevard Sun leads	contradiction
+Bradley Cameron is the owner of Brevard Sun.	entailment
+Brevard Sun is funded through donations and grants.	entailment
+The remit of Brevard Sun is to **appear like**	entailment
+The usual audience of Brevard Sun is right-center biased	entailment
+Brevard Sun tends to the right-center	entailment
+Brevard Sun tends to the right-center biased according to being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+Other sources have commented on Brevard Sun, stating that it tends to be right-center biased.	entailment
+The factuality of Brevard Sun is reported to be  Questionable	entailment
+The factuality of Brevard Sun is reported to be **Questionable**, according to **Mediabiasfactcheck.com**	entailment
+Brevard Sun relies on advertising for revenue	entailment
+Brevard Sun relies on donations for revenue	entailment
+When aggregating stories, Brevard Sun relies on information from **algorithmically produced content**	entailment
+Brevard Sun has an editorial bias towards conservative	entailment
+Brevard Sun had to apologize to Metric Media LLC for lack of transparency	contradiction

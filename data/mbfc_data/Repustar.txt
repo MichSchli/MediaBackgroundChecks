@@ -1,0 +1,18 @@
+History
+Repustar is an organization and website founded by Chandran Sankaran that provides fact-checking and misinformation-detecting services. According to its
+[FAQ page](https://repustar.com/faq), “Repustar has a mission to advance a more fact-forward world. All investors and stakeholders in the company subscribe to that mission as a condition of participation.”
+Repustar is based in the United States and India.
+[Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+According to the
+[FAQ page](https://repustar.com/faq), “Repustar is currently majority owned by CEO and Founder Chandran Sankaran and is funded by him, along with a handful of minority investors including Greg Sands, Dave Pidwell, Dan Springer, and the firms Susquehanna Growth Equity and Cooley.” Revenue is derived through investors. This site does not have advertising.
+Analysis / Bias
+The Repustar website features three services. The first is Repustar IQ which is currently in development that examines how much misinformation a person or source generates. Next is FactSparrow, a Chrome Extension and Twitter Bot that tells the user the factual rating of the source. Of note, they use Media Bias Fact Check’s ratings to power FactSparrow. Further, they have a stand-alone website at factsparrow.repustar.com that features a system to upvote claims that need to be fact-checked, such as, “
+[Have recent Russian missile strikes targeted civilians?](https://factsparrow.repustar.com/)” The FactSparrow website also features the ability to search for claims that have been fact-checked.
+Finally, the website offers
+[fact briefs](https://repustar.com/contributor/all) that are published on [Gigafact](https://gigafact.org/). Per the website, “Fact briefs are short, credibly sourced summaries that offer “yes/no” answers in response to claims found online. They rely on publicly available, often primary source data and documents.”
+Fact Briefs are derived from various sources, including
+[Lead Stories](https://mediabiasfactcheck.com/lead-stories/), [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Econofact](https://mediabiasfactcheck.com/econofact/). An example fact-brief is as follows: [Have 14 members of Adam Laxalt’s family endorsed his opponent Catherine Cortez Masto in the Nevada Senate race?](https://repustar.com/fact-briefs/have-14-members-of-adam-laxalts-family-endorsed-his-opponent-catherine-cortez-masto-in-the-nevada-senate-race) The answer to this question is “Yes,” provided by [The Nevada Independent](https://mediabiasfactcheck.com/the-nevada-independent/), citing credible sources such as [The Reno Gazette-Journal](https://mediabiasfactcheck.com/reno-journal-gazette-left-center-bias-credible/) and [Las Vegas Review-Journal](https://mediabiasfactcheck.com/las-vegas-review-journal/).
+In general, Repustar is fact-based and presents a minimal bias in reporting.
+Failed Fact Checks
+- None in the Last 5 years. They are fact-checkers.

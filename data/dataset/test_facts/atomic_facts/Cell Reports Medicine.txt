@@ -1,0 +1,17 @@
+Elsevier owns Cell Reports Medicine	entailment
+Cell Reports Medicine is funded through subscription fees and fees for open-access publishing	entailment
+The remit of Cell Reports Medicine is to **publish cutting-edge research in translational and clinical biomedical sciences that inform and influence human health and medicine.**	entailment
+The mission of Cell Reports Medicine is to inform and influence human health and medicine.	entailment
+Cell Reports Medicine tends to the **translational and clinical biomedical sciences**	entailment
+Other sources have commented on Cell Reports Medicine, stating that it tends to be `Pro-Science`.	entailment
+The factuality of Cell Reports Medicine is reported to be High	entailment
+The factuality of Cell Reports Medicine is reported to be high, according to D. Van Zandt 	entailment
+Cell Reports Medicine failed a fact-check for an article titled None in the Last 5 years	contradiction
+Cell Reports Medicine relies on subscriptions for revenue	entailment
+Cell Reports Medicine relies on donations for revenue	contradiction
+When aggregating stories, Cell Reports Medicine relies on information from [credible scientific studies].	entailment
+Cell Reports Medicine has endorsed high for factual reporting due to a clean fact check record.	entailment
+Cell Reports Medicine has an editorial bias towards Pro-Science	entailment
+Cell Reports Medicine is funded by the United States government	entailment
+Cell Reports Medicine uses a peer review process	entailment
+Cell Reports Medicine covers the following topics: translational and clinical biomedical sciences that inform and influence human health and medicine	entailment

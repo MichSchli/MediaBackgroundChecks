@@ -1,0 +1,20 @@
+Washington Pundit acquired Washington Pundit	contradiction
+Washington Pundit is funded through none disclosed.	entailment
+The remit of Washington Pundit is to publish far-right conservative news and opinions without revealing an author.	entailment
+The mission of Washington Pundit is to report news that is favorable to the conservative right and negative toward the left	entailment
+The usual audience of Washington Pundit is **conservative right**	entailment
+Washington Pundit tends to the extreme right-wingbias.	entailment
+Other sources have commented on Washington Pundit, stating that it tends to be extreme right-wing biased.	entailment
+The factuality of Washington Pundit is reported to be **low**	entailment
+The factuality of Washington Pundit is reported to be Questionable, according to extreme right-wing bias, poor sourcing, promotion of propaganda and conspiracies, as well as a complete lack of transparency	entailment
+Washington Pundit failed a fact-check for an article titled "ca-democrats-lgbtq-bill-pedophiles".	entailment
+Washington Pundit chose not to cover **ownership on the website**	entailment
+Washington Pundit provides original content written by staff journalists	contradiction
+Washington Pundit relies on advertising for revenue	contradiction
+Washington Pundit has endorsed extreme right-wing bias	entailment
+Washington Pundit has an editorial bias towards extreme right-wing bias.	entailment
+Washington Pundit printed a biased article titled [Sex Addict Anthony Weiner Moves Back in With Estranged Wife Huma Abedin](https://thewashingtonpundit.com/2019/07/23/sex-addict-anthony-weiner-moves-back-in-with-estranged-wife-huma-abedin/).	entailment
+Washington Pundit printed a factually misleading titled  "Sex Addict Anthony Weiner Moves Back in With Estranged Wife Huma Abedin".	entailment
+Washington Pundit is a Questionable	entailment
+Washington Pundit uses a peer review process	contradiction
+Washington Pundit covers the following topics: far-right conservative news and opinions, sensationalized headlines, fascination with Pedophilia, stories favorable to the conservative right and negative toward the left, promotion of propaganda and deep state conspiracy theories.	entailment

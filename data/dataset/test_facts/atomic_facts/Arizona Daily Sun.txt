@@ -1,0 +1,23 @@
+Lee Enterprises owns Arizona Daily Sun	entailment
+Lee Enterprises is the owner of Arizona Daily Sun	entailment
+Lee Enterprises bought Arizona Daily Sun	contradiction
+Arizona Daily Sun is funded through advertising and subscription fees.	entailment
+The remit of Arizona Daily Sun is to deliver news from politics and business to sports, lifestyle, and entertainment.	entailment
+The mission of Arizona Daily Sun is to deliver news from politics and business to sports, lifestyle, and entertainment.	entailment
+The usual audience of Arizona Daily Sun is Left-Center Biased	entailment
+Arizona Daily Sun tends to the Left-Center Bias	entailment
+Other sources have commented on Arizona Daily Sun, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Arizona Daily Sun is reported to be High	entailment
+The factuality of Arizona Daily Sun is reported to be high, according to a source criticism exercise.	entailment
+Arizona Daily Sun failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Arizona Daily Sun relies on advertising for revenue	entailment
+Arizona Daily Sun relies on subscriptions for revenue	entailment
+Arizona Daily Sun relies on donations for revenue	contradiction
+When aggregating stories, Arizona Daily Sun relies on information from **credible media sources such as the Associated Press**.	entailment
+Arizona Daily Sun has an editorial bias towards Left-Center	entailment
+Arizona Daily Sun printed a biased article titled "McMaster’s exit, Bolton’s arrival foretell dangerous policy shift."	entailment
+Arizona Daily Sun printed a factually misleading titled **none in the Last 5 years**	entailment
+The Arizona Daily Sun's headquarter is located in Flagstaff	entailment
+Arizona Daily Sun is funded by the **advertising and subscription fees** government	contradiction
+Arizona Daily Sun is a  Left-Center Biased	entailment
+Arizona Daily Sun covers the following topics: politics, business, sports, lifestyle, and entertainment	entailment

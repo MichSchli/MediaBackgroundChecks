@@ -1,0 +1,13 @@
+Reasoning: Lack of Transparency, Poor Sourcing, Plagiarism
+Country: Belize
+World Press Freedom Rank: Belize 47/180
+History
+Facts Wanted is a website that publishes a variety of news with a focus on politics. Unfortunately, they do not provide an about page, mission statement or contact information. According to a
+[Whois](http://whois.domaintools.com/factswanted.com) domain search, Facts Wanted was founded in 2017 and located in Belize.
+Funded by / Ownership
+The website does not disclose ownership, however Whois shows the domain is registered by
+[Bedigital Corporation](https://www.linkedin.com/company/bedigital-spain?trk=aff_src.aff-lilpar_c.partners_pkw.123201_net.mediapartner_plc.adgoal%20GmbH_pcrid.449670_learning&veh=aff_src.aff-lilpar_c.partners_pkw.123201_net.mediapartner_plc.adgoal%20GmbH_pcrid.449670_learning&irgwc=1). There does not appear to be a source of revenue for this website.
+Analysis / Bias
+In review, Facts Wanted publishes general news such as this:
+[10 People Have Died In Fire At Brazil Soccer Team Complex](https://factswanted.com/2019/02/09/10-people-have-died-in-fire-at-brazil-soccer-team-complex/) and political news such as this [Supreme Court Blocks Louisiana Abortion Clinic Law.](https://factswanted.com/2019/02/08/supreme-court-blocks-louisiana-abortion-clinic-law/) This latter article does not provide any type of sourcing, we therefore ran a plagiarism check and determined it is [100% plagiarized](https://mediabiasfactcheck.com/wp-content/uploads/2019/02/plagiarism-report.png). There appears be two people publishing articles on Facts Wanted. The first is known as [Insider](https://factswanted.com/author/insider/) and this person never provides hyperlinked sourcing and almost exclusively publishes 100% plagiarized news articles. The proper way to republish an article is to include a short snippet and then provide a hyperlink to the original source. This is considered [Fair Use](https://www.copyright.gov/fair-use/more-info.html), which is not being done on this website. The second author is [ who does a better job of sourcing information and producing original reports. Shauli Bar-On’s articles tend to lean right such as this: ](https://factswanted.com/author/shauli/) [Dems Do Damage Control After Tlaib Calls For Impeachment, Uses Profanity](https://factswanted.com/2019/01/07/dems-do-damage-control-after-tlaib-calls-for-impeachment-uses-profanity/). This article is sourced to [Fox News](https://mediabiasfactcheck.com/fox-news/).
+In general, Facts Wanted publishes real news from other sources, albeit plagiarized. The other author on the website publishes information that leans right in tone.

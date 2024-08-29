@@ -1,0 +1,22 @@
+TEGNA owns KBMT - 12NewsNow	entailment
+TEGNA Inc. is the owner of KBMT - 12NewsNow	entailment
+TEGNA bought KBMT - 12NewsNow	contradiction
+TEGNA acquired KBMT - 12NewsNow	entailment
+KBMT - 12NewsNow is funded through **advertising and sponsored content**	entailment
+The remit of KBMT - 12NewsNow is to **serve the greater good of our communities**.	entailment
+The usual audience of KBMT - 12NewsNow is **local news viewers**.	entailment
+KBMT - 12NewsNow tends to the **right**	contradiction
+KBMT - 12NewsNow tends to the least biased according to Media Bias/Fact Check	entailment
+Other sources have commented on KBMT - 12NewsNow, stating that it tends to be **least biased**	entailment
+The factuality of KBMT - 12NewsNow is reported to be High	entailment
+The factuality of KBMT - 12NewsNow is reported to be High, according to Mediabiasfactcheck.	entailment
+KBMT - 12NewsNow failed a fact-check for an article titled "Texas judge allows Harris County to send all voters applications for mail-in ballots".	contradiction
+KBMT - 12NewsNow printed a retraction after failing a fact-check for an article titled *None in the Last 5 years*	contradiction
+KBMT - 12NewsNow chose not to cover [None in the Last 5 years](https://www.12newsnow.com/)	entailment
+KBMT - 12NewsNow relies on advertising for revenue	entailment
+KBMT - 12NewsNow relies on subscriptions for revenue	contradiction
+KBMT - 12NewsNow relies on donations for revenue	contradiction
+KBMT - 12NewsNow has received donations from [TEGNA Inc.](https://www.tegna.com/)	entailment
+When aggregating stories, KBMT - 12NewsNow relies on information from the Associated Press and other TEGNA TV stations.	entailment
+KBMT - 12NewsNow has an editorial bias towards **neutral wording and minimal editorial content**.	entailment
+KBMT - 12NewsNow was fined 	entailment

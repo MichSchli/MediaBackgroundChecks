@@ -1,0 +1,11 @@
+History
+Vote Smart, formerly called Project Vote Smart (PVS), is a nonprofit, non-partisan
+[research organization](https://en.wikipedia.org/wiki/Vote_Smart) that collects and distributes information on candidates for public office in the United States. It covers candidates and elected officials in six primary areas: background information, issue positions (via the Political Courage Test), voting records, campaign finances, interest group ratings, speeches, and public statements. According to their mission statement, “ [Vote Smart’s mission is to provide free, factual, unbiased information on candidates and elected officials to ALL Americans.”](https://justfacts.votesmart.org/about) [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Vote Smart is a nonprofit organization that is funded through
+[donations](https://justfacts.votesmart.org/help-us). They claim they do not accept contributions from corporations, labor unions, political parties, or other organizations that lobby, support, or oppose candidates or issues.
+Analysis / Bias
+In review, essentially, this website is a search engine to look up politicians’ bios, votes, positions, ratings, speeches, and funding. For example, we searched a random politician, such as
+[Ted Budd,](https://justfacts.votesmart.org/candidate/campaign-finance/171489/ted-budd) a Republican from North Carolina. The website produced accurate results for each category without bias. We tried the Democratic Politician [Cory Booker](https://justfacts.votesmart.org/candidate/biography/76151/cory-booker) and received the same accurate results. While the website does not produce original fact checks, they [partner](https://justfacts.votesmart.org/about/bull) with [FactCheck.org,](http://Factcheck.org) [PolitiFact](https://mediabiasfactcheck.com/politifact/), and The [Washington Post](https://mediabiasfactcheck.com/washington-post/) to expose the most egregious falsehoods. In general, this is a highly factual website that displays minimal bias.
+Failed Fact Checks
+- None in the Last 5 years

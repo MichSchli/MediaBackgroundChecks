@@ -1,0 +1,23 @@
+Michael R. Bloomberg founded Bloomberg.	entailment
+Michael Bloomberg is the founder of Bloomberg	entailment
+Michael R. Bloomberg is the CEO of Bloomberg	entailment
+Michael R. Bloomberg leads Bloomberg	entailment
+Michael R. Bloomberg owns Bloomberg	entailment
+Michael R. Bloomberg is the owner of Bloomberg	entailment
+Bloomberg acquired Bloomberg	contradiction
+Bloomberg is funded through **charging visitors for its content with a metered paywall**	entailment
+The remit of Bloomberg is to deliver business and markets news, data, and analysis to its readers. Further, they also have a section under politics called “Trump Tracker,” which tracks the latest news and reports on Donald Trump. Former editor of The Economist, John Micklethwait is the editor-in-chief of Bloomberg News since 2015. Michael R. Bloomberg is the President & CEO.	entailment
+The mission of Bloomberg is to  "deliver business and markets news, data, and analysis to its readers".	entailment
+The usual audience of Bloomberg is left-leaning.	entailment
+Bloomberg tends to the left.	entailment
+Other sources have commented on Bloomberg, stating that it tends to be Left-Center biased	entailment
+The factuality of Bloomberg is reported to be Mostly Factual	entailment
+The factuality of Bloomberg is reported to be Mostly Factual, according to Mediabiasfactcheck.	entailment
+Bloomberg chose not to cover Michael Bloomberg or his Democratic rivals during the primary	entailment
+Bloomberg relies on subscriptions for revenue	entailment
+Bloomberg has an editorial bias towards **left**	entailment
+John Micklethwait is the editor of Bloomberg	entailment
+Bloomberg had to apologize for not covering Michael Bloomberg or his Democratic rivals during the primary	contradiction
+Bloomberg had to apologize to Democrats for not covering Michael Bloomberg and his Democratic rivals during the primary	contradiction
+Bloomberg's headquarter is located in  New York City	entailment
+Bloomberg is a news organization	entailment

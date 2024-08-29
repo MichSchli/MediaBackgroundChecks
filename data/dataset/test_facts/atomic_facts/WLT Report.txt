@@ -1,0 +1,19 @@
+Noah is the founder of WLT Report	entailment
+WLT Report is funded through advertising, donations, and an online shop that sells conservative and Trump-themed merchandise.	entailment
+The remit of WLT Report is to publish conservative news and opinion.	entailment
+The mission of WLT Report is to save this Country from people hell-bent on destroying it.	entailment
+The usual audience of WLT Report is conservative.	entailment
+WLT Report tends to the  right	entailment
+Other sources have commented on WLT Report, stating that it tends to be **far-right biased**.	entailment
+The factuality of WLT Report is reported to be questionable	entailment
+The factuality of WLT Report is reported to be **questionable**, according to **Mediabiasfactcheck.com**.	entailment
+WLT Report relies on advertising for revenue	entailment
+WLT Report relies on donations for revenue	entailment
+When aggregating stories, WLT Report relies on information from Questionable sources.	entailment
+WLT Report has endorsed far-right biased and questionable content	entailment
+WLT Report has an editorial bias towards **right**	entailment
+WLT Report printed a biased article titled "Does President Trump Look Worried To You"	entailment
+WLT Report printed a factually misleading titled "Does President Trump Look Worried To You".	entailment
+WLT Report is funded by the private government	entailment
+WLT Report is a far-right biased and questionable website.	entailment
+WLT Report covers the following topics: conservative news and opinion, funding sources, bias analysis, failed fact checks and overall rating	contradiction

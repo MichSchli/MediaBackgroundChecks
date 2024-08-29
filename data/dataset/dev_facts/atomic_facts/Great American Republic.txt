@@ -1,0 +1,23 @@
+Tanya Grimsley founded Great American Republic	entailment
+Tanya Grimsley is the founder of Great American Republic	entailment
+Great American Republic is funded through advertising	entailment
+The remit of Great American Republic is to promote far-right conservative propaganda.	entailment
+The mission of Great American Republic is to promote far-right conservative propaganda through the use of loaded language and poor sources.	entailment
+Great American Republic tends to the **Extreme Right bias**	entailment
+Great American Republic tends to the right according to Extreme Right bias	entailment
+Other sources have commented on Great American Republic, stating that it tends to be Questionable	entailment
+The factuality of Great American Republic is reported to be  Questionable	entailment
+The factuality of Great American Republic is reported to be Questionable, according to Extreme Right bias	entailment
+Great American Republic chose not to cover **ownership**	entailment
+Great American Republic provides original content written by staff journalists	entailment
+Great American Republic relies on advertising for revenue	entailment
+Great American Republic relies on subscriptions for revenue	contradiction
+Great American Republic relies on donations for revenue	contradiction
+Great American Republic has received donations from **advertising**	contradiction
+When aggregating stories, Great American Republic relies on information from **Questionable**	entailment
+Great American Republic has endorsed extreme right bias, promotion of conspiracy theories and pseudoscience as well as a lack of transparency regarding ownership.	entailment
+Great American Republic has an editorial bias towards Extreme Right	entailment
+Great American Republic was fined 	entailment
+Great American Republic printed a biased article titled "TOO FUNNY! Liberal Rag Warns of Man-Eating Tigers Due to ‘Climate Change’ & the Reactions Are Priceless".	entailment
+Great American Republic printed a factually misleading titled  "TOO FUNNY! Liberal Rag Warns of Man-Eating Tigers Due to ‘Climate Change’ & the Reactions Are Priceless".	entailment
+Great American Republic paid damages to  after 	entailment

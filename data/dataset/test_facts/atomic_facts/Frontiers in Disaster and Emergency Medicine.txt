@@ -1,0 +1,21 @@
+Frontiers Media SA owns Frontiers in Disaster and Emergency Medicine	entailment
+Frontiers Media SA is the owner of Frontiers in Disaster and Emergency Medicine	entailment
+The funding comes from digital sales of content and author fees for publication.	entailment
+The remit of Frontiers in Disaster and Emergency Medicine is to publish high-quality basic, translational, clinical and population-based research across the field of disaster and emergency medicine.	entailment
+The mission of Frontiers in Disaster and Emergency Medicine is to publish high-quality basic, translational, clinical and population-based research across the field of disaster and emergency medicine.	entailment
+Frontiers in Disaster and Emergency Medicine tends to the Pro-Science	entailment
+Other sources have commented on Frontiers in Disaster and Emergency Medicine, stating that it tends to be **a credible scientific journal**	entailment
+The factuality of Frontiers in Disaster and Emergency Medicine is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Disaster and Emergency Medicine is reported to be Mostly Factual, according to D. Van Zandt 01/08/2024	entailment
+Frontiers in Disaster and Emergency Medicine chose not to cover **road traffic injury and associated factors of patients admitted to emergency departments in Ethiopia**	entailment
+Frontiers in Disaster and Emergency Medicine provides original content written by staff journalists	contradiction
+Frontiers in Disaster and Emergency Medicine relies on advertising for revenue	entailment
+Frontiers in Disaster and Emergency Medicine relies on subscriptions for revenue	contradiction
+Frontiers in Disaster and Emergency Medicine relies on donations for revenue	contradiction
+When aggregating stories, Frontiers in Disaster and Emergency Medicine relies on information from **across the field of disaster and emergency medicine**.	entailment
+Frontiers in Disaster and Emergency Medicine has endorsed Pro-Science	entailment
+Frontiers in Disaster and Emergency Medicine has an editorial bias towards Pro-Science	entailment
+Frontiers in Disaster and Emergency Medicine was fined **none**	entailment
+Frontiers in Disaster and Emergency Medicine's headquarter is located in Switzerland	entailment
+Frontiers in Disaster and Emergency Medicine is funded by the UK government	contradiction
+Frontiers in Disaster and Emergency Medicine uses a peer review process	entailment

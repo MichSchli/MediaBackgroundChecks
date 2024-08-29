@@ -1,0 +1,22 @@
+Gray Television owns WVVA -Bluefield News	entailment
+Gray Television is the owner of WVVA - Bluefield News	entailment
+Gray Television bought WVVA - Bluefield News	entailment
+WVVA -Bluefield News is funded through advertising and sponsored content.	entailment
+The remit of WVVA -Bluefield News is to provide news coverage for Bluefield, West Virginia, and the surrounding areas.	entailment
+The mission of WVVA -Bluefield News is to report news factually and with minimal bias.	entailment
+WVVA -Bluefield News tends to theleast biased.	entailment
+Other sources have commented on WVVA -Bluefield News, stating that it tends to be **least biased**	entailment
+The factuality of WVVA -Bluefield News is reported to be High	entailment
+The factuality of WVVA -Bluefield News is reported to be high, according to Mediabiasfactcheck.	entailment
+WVVA -Bluefield News failed a fact-check for an article titled **None in the Last 5 years**.	contradiction
+WVVA -Bluefield News chose not to cover an opinion page.	entailment
+WVVA -Bluefield News relies on advertising for revenue	entailment
+WVVA -Bluefield News relies on subscriptions for revenue	contradiction
+WVVA -Bluefield News relies on donations for revenue	contradiction
+WVVA -Bluefield News has an editorial bias towards **least biased**.	entailment
+The text does not contain information about WVVA -Bluefield News being fined.	entailment
+WVVA -Bluefield News printed a biased article titled "None in the Last 5 years"	contradiction
+WVVA -Bluefield News had to apologize for  No failed fact checks in the Last 5 years	entailment
+WVVA -Bluefield News is funded by the US government	contradiction
+WVVA -Bluefield News is a **television station**	entailment
+WVVA -Bluefield News covers the following topics: History, Local and National News, Sports, Weather, Traffic, Entertainment	contradiction

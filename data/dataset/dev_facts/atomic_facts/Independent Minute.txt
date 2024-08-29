@@ -1,0 +1,23 @@
+Independent Minute acquired Independent Minute	entailment
+Independent Minute is funded through **advertising generates revenue**	entailment
+The remit of Independent Minute is to **promote propaganda, conspiracy theories, pseudoscience, the use of poor sources, and a lack of transparency**	entailment
+The mission of Independent Minute is to  promote propaganda, conspiracy theories, pseudoscience, the use of poor sources, and a lack of transparency.	entailment
+The usual audience of Independent Minute is **individuals looking for far-right biased news and sensationalized stories**	entailment
+Independent Minute tends to the far-right	entailment
+Independent Minute tends to the right according to Media Bias Fact Check	entailment
+Other sources have commented on Independent Minute, stating that it tends to be Far-Right Biased.	entailment
+The factuality of Independent Minute is reported to be **low**	entailment
+The factuality of Independent Minute is reported to be **VERY LOW**, according to **Media Bias/Fact Check**	entailment
+Independent Minute printed a retraction after failing a fact-check for an article titled "Did President Trump order a raid on Islamberg, New York, that uncovered weapons?".	contradiction
+Independent Minute chose not to cover original content	entailment
+Independent Minute provides original content written by staff journalists	contradiction
+Independent Minute relies on advertising for revenue	entailment
+Independent Minute relies on subscriptions for revenue	contradiction
+Independent Minute relies on donations for revenue	contradiction
+When aggregating stories, Independent Minute relies on information from far-right Questionable or Conspiracy websites.	entailment
+Independent Minute has endorsed far-right bias and questionable content	entailment
+Independent Minute has an editorial bias towards far-right.	entailment
+D. Van Zandt is the editor of Independent Minute	contradiction
+Independent Minute was fined 	entailment
+Independent Minute printed a biased article titled "What They Just Revealed About Disposable Face Masks Will Make You…"	entailment
+Independent Minute printed a factually misleading titled What They Just Revealed About Disposable Face Masks Will Make You…	entailment

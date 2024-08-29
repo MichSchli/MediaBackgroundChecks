@@ -1,0 +1,21 @@
+WOLA leads Washington Office on Latin America (WOLA)	contradiction
+WOLA acquired Washington Office on Latin America (WOLA)	contradiction
+The Washington Office on Latin America (WOLA) is funded through donations	entailment
+The remit of Washington Office on Latin America (WOLA) is to advance human rights and social justice in the Americas.	entailment
+The mission of Washington Office on Latin America (WOLA) is to advance human rights and social justice in the Americas	entailment
+Washington Office on Latin America (WOLA) tends to the **left**	entailment
+Other sources have commented on Washington Office on Latin America (WOLA), stating that it tends to be left-leaning.	entailment
+The factuality of Washington Office on Latin America (WOLA) is reported to be High	entailment
+The factuality of Washington Office on Latin America (WOLA) is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Washington Office on Latin America (WOLA) failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Washington Office on Latin America (WOLA) chose not to cover FAILED FACT CHECKS.	entailment
+Washington Office on Latin America (WOLA) relies on subscriptions for revenue	contradiction
+Washington Office on Latin America (WOLA) relies on donations for revenue	entailment
+Washington Office on Latin America (WOLA) has received donations from the MacArthur Foundation, Open Society Foundations, and the Ford Foundation.	entailment
+When aggregating stories, Washington Office on Latin America (WOLA) relies on information from **multilateral organizations, Congress members, and U.S. and Latin American news media**.	entailment
+Washington Office on Latin America (WOLA) has endorsed **policy that is favored by the left**.	entailment
+Washington Office on Latin America (WOLA) has an editorial bias towards **a liberal perspective**	entailment
+Washington Office on Latin America (WOLA) printed a biased article titled "U.S. and Mexico’s Disappointing Approach to Protection Seeking Venezuelans Puts Thousands at Risk".	entailment
+Washington Office on Latin America (WOLA)'s headquarter is located in Washington	entailment
+Washington Office on Latin America (WOLA) is funded by the  government	contradiction
+Washington Office on Latin America (WOLA) is a non-profit NGO	entailment

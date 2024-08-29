@@ -1,0 +1,24 @@
+Gannett is the founder of Iowa City Press-Citizen	contradiction
+Gannett owns Iowa City Press-Citizen	entailment
+Gannett is the owner of Iowa City Press-Citizen	entailment
+Gannett bought Iowa City Press-Citizen	entailment
+Iowa City Press-Citizen is funded through advertising and paid subscriptions	entailment
+The remit of Iowa City Press-Citizen is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Iowa City Press-Citizen is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The usual audience of Iowa City Press-Citizen is **local, national, and international news, sports, entertainment, lifestyle, and opinion.**	entailment
+Iowa City Press-Citizen tends to the Left	entailment
+Other sources have commented on Iowa City Press-Citizen, stating that it tends to be left-center biased.	entailment
+The factuality of Iowa City Press-Citizen is reported to be High	entailment
+The factuality of Iowa City Press-Citizen is reported to be high, according to Mediabiasfactcheck.	entailment
+Iowa City Press-Citizen chose not to cover Presidential endorsements	entailment
+Iowa City Press-Citizen relies on advertising for revenue	entailment
+Iowa City Press-Citizen relies on subscriptions for revenue	entailment
+Iowa City Press-Citizen relies on donations for revenue	contradiction
+When aggregating stories, Iowa City Press-Citizen relies on information from other Gannett publications and the Associated Press.	entailment
+Iowa City Press-Citizen has endorsed **left-leaning**	entailment
+Iowa City Press-Citizen has an editorial bias towards Left	entailment
+Iowa City Press-Citizen printed a biased article titled "Iowa Legislature’s latest voter suppression efforts authored by same party spreading ‘Big Lie’"	entailment
+Iowa City Press-Citizen had to apologize for **none in the Last 5 years**	entailment
+The Iowa City Press-Citizen is funded by the **United States** government	contradiction
+Iowa City Press-Citizen is a Left-Center Biased	entailment
+Iowa City Press-Citizen covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment

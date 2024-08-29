@@ -1,0 +1,20 @@
+Black Press Media owns Caledonia Courier	entailment
+Black Press Media bought Caledonia Courier	entailment
+The Caledonia Courier is funded through advertising	entailment
+The remit of Caledonia Courier is to cover news, sports, crime, and business for the greater Caledonia area.	entailment
+The mission of Caledonia Courier is to provide news, sports, crime, and business coverage for the greater Caledonia area.	entailment
+The usual audience of Caledonia Courier is slightly Left-Center biased	entailment
+Caledonia Courier tends to the left	entailment
+The Caledonia Courier tends to the news according to factual reporting	entailment
+Other sources have commented on Caledonia Courier, stating that it tends to be **slightly Left-Center biased**.	entailment
+The factuality of Caledonia Courier is reported to be High	entailment
+The factuality of Caledonia Courier is reported to be High, according to Mediabiasfactcheck.com	entailment
+Caledonia Courier failed a fact-check for an article titled "Raw sewage problem plagues Hazelton’s Upper Skeena Recreation Centre"	contradiction
+Caledonia Courier chose not to cover political news.	contradiction
+Caledonia Courier relies on advertising for revenue	entailment
+Caledonia Courier relies on subscriptions for revenue	contradiction
+Caledonia Courier relies on donations for revenue	contradiction
+When aggregating stories, Caledonia Courier relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+The Caledonia Courier has endorsed slightly Left-Center biased.	entailment
+Caledonia Courier has an editorial bias towards left.	entailment
+Caledonia Courier had to apologize to no one for nothing	entailment

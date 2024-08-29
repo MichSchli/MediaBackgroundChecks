@@ -1,0 +1,21 @@
+CherryRoad Media owns Independence Examiner	entailment
+CherryRoad Media is the owner of Independence Examiner	entailment
+CherryRoad Media bought Independence Examiner	entailment
+Independence Examiner is funded through advertising and paid subscriptions	entailment
+The remit of Independence Examiner is to cover news, sports, community, and crime for the greater Independence area.	entailment
+The mission of Independence Examiner is to report news, sports, community, and crime for the greater Independence area.	entailment
+The usual audience of Independence Examiner is **local, national, sports, weather, and crime news for the greater Independence area**	entailment
+Other sources have commented on Independence Examiner, stating that it tends to be **Least Biased**	entailment
+The factuality of Independence Examiner is reported to be High	entailment
+The factuality of Independence Examiner is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Independence Examiner failed a fact-check for an article titled Gas station sale raises neighbors’ concerns	contradiction
+Independence Examiner printed a retraction after failing a fact-check for an article titled Gas station sale raises neighbors’ concerns	contradiction
+Independence Examiner chose not to cover failed fact checks	entailment
+Independence Examiner relies on advertising for revenue	entailment
+Independence Examiner relies on subscriptions for revenue	entailment
+Independence Examiner relies on donations for revenue	contradiction
+When aggregating stories, Independence Examiner relies on information from **Associated Press**	entailment
+Independence Examiner has an editorial bias towards **Neither side**	entailment
+Independence Examiner was fined	entailment
+Independence Examiner had to apologize for  least biased based on mainly balanced editorial positions.	contradiction
+The Independence Examiner is a newspaper	entailment

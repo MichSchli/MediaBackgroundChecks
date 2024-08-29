@@ -1,0 +1,21 @@
+Dr. Edward Group III founded Global Healing Center	entailment
+Dr. Edward Group III is the founder of Global Healing Center	entailment
+Chiropractor Edward Group III owns Global Healing Center	entailment
+Chiropractor Edward Group III bought Global Healing Center	entailment
+Global Healing Center is funded through selling so-called health and nutrition products that are not always proven to be effective.	entailment
+The remit of Global Healing Center is to sell nutritional and alternative medicine products.	entailment
+The mission of Global Healing Center is to  sell nutritional and alternative medicine products.	entailment
+The usual audience of Global Healing Center is **people interested in alternative medicine and natural health**	entailment
+Global Healing Center tends to the sale of nutritional and alternative medicine products	entailment
+Other sources have commented on Global Healing Center, stating that it tends to be a quackery-level pseudoscience site.	entailment
+The factuality of Global Healing Center is reported to be **low**	entailment
+The factuality of Global Healing Center is reported to be low, according to factual reporting.	entailment
+Global Healing Center failed a fact-check for an article titled "No Record Found of Global Healing Center Being Fact-Checked by a Third Party"	entailment
+Global Healing Center chose not to cover fact checks.	entailment
+Global Healing Center relies on donations for revenue	contradiction
+When aggregating stories, Global Healing Center relies on information from **a blog that promotes pseudoscience**.	entailment
+Global Healing Center has an editorial bias towards **pseudoscience and quackery**	entailment
+Global Healing Center was fined 	entailment
+Global Healing Center printed a biased article titled **promotes pseudoscience to sell products**	entailment
+Global Healing Center is a quackery-level pseudoscience site that is attempting to sell snake oil to the gullible.	entailment
+Global Healing Center uses a peer review process	entailment

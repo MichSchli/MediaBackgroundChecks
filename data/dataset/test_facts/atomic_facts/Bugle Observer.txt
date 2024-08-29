@@ -1,0 +1,22 @@
+PostMedia founded Bugle Observer	entailment
+PostMedia leads Bugle Observer	entailment
+PostMedia owns Bugle Observer	entailment
+PostMedia is the owner of Bugle Observer	entailment
+PostMedia bought Bugle Observer	contradiction
+Bugle Observer is funded through **advertising and subscription fees**	entailment
+Bugle Observer tends to the **right**	entailment
+Other sources have commented on Bugle Observer, stating that it tends to be right-leaning.	entailment
+The factuality of Bugle Observer is reported to be High	entailment
+The factuality of Bugle Observer is reported to be High, according to a clean fact-check record.	entailment
+Bugle Observer chose not to cover [general interest news stories or world news from sources like Reuters and Washington Post](https://tj.news/bugle-observer).	contradiction
+Bugle Observer relies on advertising for revenue	entailment
+Bugle Observer relies on subscriptions for revenue	entailment
+Bugle Observer relies on donations for revenue	contradiction
+Bugle Observer has received donations from **advertising and subscription fees**	contradiction
+When aggregating stories, Bugle Observer relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/) and [National Post](https://mediabiasfactcheck.com/national-post/).	entailment
+Bugle Observer has endorsed the conservative right	entailment
+Bugle Observer has an editorial bias towards **the conservative right**	entailment
+Bugle Observer printed a biased article titled Right-Center Biased Based on Story Selection and Editorial Positions That Favor the Right	entailment
+Bugle Observer's headquarter is located in Woodstock	entailment
+Bugle Observer is funded by the Canadian government	contradiction
+Bugle Observer is a newspaper	entailment

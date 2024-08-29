@@ -1,0 +1,26 @@
+David J. Harris Jr. founded DJHJ Media	entailment
+David J. Harris Jr. is the founder of DJHJ Media	entailment
+David J. Harris Jr. leads DJHJ Media	entailment
+David Harris Jr. owns DJHJ Media	entailment
+DJHJ Media is funded through advertising and book sales.	entailment
+The remit of DJHJ Media is to **promote extreme right-biased content and conspiracy theories**	entailment
+The mission of DJHJ Media is to provide opinion and commentary source for conservatives everywhere.	entailment
+The usual audience of DJHJ Media is conservatives	entailment
+DJHJ Media tends to the extreme right-biased	entailment
+Other sources have commented on DJHJ Media, stating that it tends to be extreme right-biased	entailment
+The factuality of DJHJ Media is reported to be extreme right-biased and Questionable	entailment
+The factuality of DJHJ Media is reported to be Questionable, according to Media Bias/Fact Check.	entailment
+DJHJ Media failed a fact-check for an article titled "SoS Brad Raffensperger to Investigate Himself Over Voter Fraud…10 to 1 He Will Find Himself Innocent,".	entailment
+DJHJ Media chose not to cover CIA Whistleblower Exposes Biden’s Alleged Role with the Deaths of Seal Team- Claims to have Documented Proof	entailment
+DJHJ Media provides original content written by staff journalists	entailment
+DJHJ Media relies on advertising for revenue	entailment
+DJHJ Media relies on subscriptions for revenue	entailment
+DJHJ Media relies on donations for revenue	entailment
+When aggregating stories, DJHJ Media relies on information from **questionable sources**	entailment
+DJHJ Media has endorsed extreme right-biased and Questionable viewpoints	entailment
+DJHJ Media has an editorial bias towards extreme right.	entailment
+DJHJ Media printed a biased article titled "Defund the Police' Movement Gets Smacked With Reality After Significant Spikes in Violent Crime".	entailment
+DJHJ Media is funded by the United States government	contradiction
+DJHJ Media is a Extreme right-biased	entailment
+DJHJ Media uses a peer review process	entailment
+DJHJ Media covers the following topics: conservative commentary, opinion pieces, news stories with conservative commentary, and right-wing conspiracy theories.	entailment

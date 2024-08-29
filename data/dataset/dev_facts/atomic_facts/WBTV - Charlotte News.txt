@@ -1,0 +1,24 @@
+Gray Television founded WBTV - Charlotte News	entailment
+Gray Television owns WBTV - Charlotte News.	entailment
+Gray Television is the owner of WBTV - Charlotte News	entailment
+Gray Television bought WBTV - Charlotte News	entailment
+WBTV - Charlotte News is funded through sponsored content and advertising	entailment
+The remit of WBTV - Charlotte News is to **provide news coverage for the Charlotte, NC, market and the surrounding areas**	entailment
+The mission of WBTV - Charlotte News is to [report news, weather, sports, and crime for the Charlotte area.](https://www.wbtv.com/)	entailment
+The usual audience of WBTV - Charlotte News is Charlotte area	entailment
+WBTV - Charlotte News tends to the least biased	entailment
+WBTV - Charlotte News tends to the least biased according to Mediabiasfactcheck	entailment
+Other sources have commented on WBTV - Charlotte News, stating that it tends to be Least Biased	entailment
+The factuality of WBTV - Charlotte News is reported to be High	entailment
+The factuality of WBTV - Charlotte News is reported to be High, according to Mediabiasfactcheck.	entailment
+WBTV - Charlotte News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WBTV - Charlotte News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years."	contradiction
+WBTV - Charlotte News chose not to cover Gov. Roy Cooper greets Presidential candidate Joe Biden during a campaign visit to N.C.	contradiction
+WBTV - Charlotte News provides original content written by staff journalists	entailment
+WBTV - Charlotte News relies on advertising for revenue	entailment
+WBTV - Charlotte News relies on subscriptions for revenue	entailment
+WBTV - Charlotte News relies on donations for revenue	contradiction
+When aggregating stories, WBTV - Charlotte News relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WBTV - Charlotte News has an editorial bias towards Least Biased	entailment
+WBTV - Charlotte News printed a factually misleading titled WBTV - Charlotte News printed a factually misleading titled WBTV Reports News Factually and With Minimal Bias.	contradiction
+WBTV - Charlotte News had to apologize for **None in the Last 5 years**	entailment

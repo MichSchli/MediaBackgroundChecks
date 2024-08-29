@@ -1,0 +1,17 @@
+Jeff Ballingall founded Ontario Proud	entailment
+Jeff Ballingall is the founder of Ontario Proud	entailment
+Jeff Ballingall bought Ontario Proud	contradiction
+Ontario Proud is funded through donations.	entailment
+The remit of Ontario Proud is to **publish information that is opposed to liberal candidates and politics**	entailment
+The mission of Ontario Proud is to **publish information that is opposed to liberal candidates and politics**	entailment
+Ontario Proud tends to the rightbias	entailment
+Ontario Proud tends to the right according to [mediabiasfactcheck.com](https://mediabiasfactcheck.com/canada-media-profile/)	entailment
+Other sources have commented on Ontario Proud, stating that it tends to be **right biased**	entailment
+The factuality of Ontario Proud is reported to be High	entailment
+The factuality of Ontario Proud is reported to be High, according to D. Van Zandt	entailment
+Ontario Proud printed a retraction after failing a fact-check for an article titled "Kathleen Wynne’s Nightmare Before Christmas"	contradiction
+Ontario Proud relies on donations for revenue	entailment
+When aggregating stories, Ontario Proud relies on information from **their website and not social media**	entailment
+Ontario Proud has an editorial bias towards **right**	entailment
+Ontario Proud was fined 	contradiction
+Ontario Proud printed a biased article titled "Kathleen Wynne’s Nightmare Before Christmas"	entailment

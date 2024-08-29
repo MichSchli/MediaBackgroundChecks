@@ -1,0 +1,22 @@
+Eva Hartog Skorobogatova leads Moscow Times	entailment
+TMT LLC owns Moscow Times	entailment
+TMT LLC bought Moscow Times	contradiction
+Moscow Times is funded through donations and advertising	entailment
+The remit of Moscow Times is to **cover Russian national news, politics, and culture for an English language reader**.	entailment
+The usual audience of Moscow Times is foreign citizens residing in Moscow and English-speaking Russians.	entailment
+Moscow Times tends to the left.	entailment
+Moscow Times tends to the left according to mediabiasfactcheck.com	entailment
+Other sources have commented on Moscow Times, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of Moscow Times is reported to be High	entailment
+The factuality of Moscow Times is reported to be High for factual reporting, according to mediabiasfactcheck.com.	entailment
+Moscow Times chose not to cover the Russian invasion of Ukraine	contradiction
+Moscow Times provides original content written by staff journalists	entailment
+Moscow Times relies on advertising for revenue	entailment
+Moscow Times relies on donations for revenue	entailment
+Moscow Times has received donations from TMT LLC	entailment
+When aggregating stories, Moscow Times relies on information from the Western press	entailment
+Moscow Times has endorsed Left-Center Bias	entailment
+Moscow Times has an editorial bias towards **the left**	entailment
+Eva Hartog Skorobogatova is the editor of Moscow Times	entailment
+Moscow Times was fined No Fact Checks.	entailment
+Moscow Times printed a biased article titled "militant anti-Putin paper".	entailment

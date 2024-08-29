@@ -1,0 +1,21 @@
+Linda DiVall founded American Viewpoint	entailment
+Linda DiVall is the founder of American Viewpoint.	entailment
+American Viewpoint is funded through the sale of surveys and market research generating revenue.	entailment
+The remit of American Viewpoint is to conduct market research.	entailment
+The mission of American Viewpoint is to **conduct market research and polling via various mediums**	entailment
+The usual audience of American Viewpoint is **Republican candidates**	entailment
+American Viewpoint tends to the right.	entailment
+Other sources have commented on American Viewpoint, stating that it tends to be **Least Biased**.	entailment
+The factuality of American Viewpoint is reported to be Least Biased.	entailment
+The factuality of American Viewpoint is reported to be Mixed Factual, according to D. Van Zandt 01/21/2024.	entailment
+American Viewpoint failed a fact-check for an article titled "No Fact Checks in the Last 5 Years"	contradiction
+American Viewpoint chose not to cover politics.	contradiction
+American Viewpoint relies on advertising for revenue	contradiction
+American Viewpoint relies on subscriptions for revenue	entailment
+American Viewpoint relies on donations for revenue	entailment
+American Viewpoint has an editorial bias towards Republicans	entailment
+American Viewpoint had to apologize for **none in the Last 5 years**	entailment
+American Viewpoint's headquarter is located in Alexandria.	entailment
+The American Viewpoint is funded by the private government	contradiction
+American Viewpoint is a **private company**	entailment
+American Viewpoint covers the following topics: market research and polling.	entailment

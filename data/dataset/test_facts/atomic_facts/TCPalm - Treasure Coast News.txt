@@ -1,0 +1,26 @@
+Gannett is the founder of TCPalm - Treasure Coast News	entailment
+Gannett leads TCPalm - Treasure Coast News	entailment
+Gannett owns TCPalm - Treasure Coast News	entailment
+Gannett is the owner of TCPalm - Treasure Coast News	entailment
+Gannett bought TCPalm - Treasure Coast News	entailment
+Gannett acquired TCPalm - Treasure Coast News	entailment
+TCPalm - Treasure Coast News is funded through **advertising and paid subscriptions**	entailment
+The remit of TCPalm - Treasure Coast News is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The usual audience of TCPalm - Treasure Coast News is Port St. Lucie, Florida, and the surrounding area.	entailment
+TCPalm - Treasure Coast News tends to the left	entailment
+Other sources have commented on TCPalm - Treasure Coast News, stating that it tends to be **left-center biased**	entailment
+The factuality of TCPalm - Treasure Coast News is reported to be High	entailment
+The factuality of TCPalm - Treasure Coast News is reported to be High, according to Mediabiasfactcheck.	entailment
+TCPalm - Treasure Coast News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+TCPalm - Treasure Coast News chose not to cover Presidential endorsements	entailment
+TCPalm - Treasure Coast News relies on advertising for revenue	entailment
+TCPalm - Treasure Coast News relies on subscriptions for revenue	entailment
+TCPalm - Treasure Coast News relies on donations for revenue	contradiction
+TCPalm - Treasure Coast News has received donations from **advertising and paid subscriptions**	entailment
+When aggregating stories, TCPalm - Treasure Coast News relies on information from **Gannett publications and the Associated Press**	entailment
+TCPalm - Treasure Coast News has an editorial bias towards left	entailment
+TCPalm - Treasure Coast News was fined 	entailment
+TCPalm - Treasure Coast News printed a biased article titled "DeSantis and Mast should lead, not demagogue, on Everglades funding issue | Our View"	entailment
+TCPalm - Treasure Coast News had to apologize for **none**	entailment
+TCPalm - Treasure Coast News is a Left-Center Biased	entailment
+TCPalm - Treasure Coast News covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment

@@ -1,0 +1,18 @@
+History
+Launched in 2015, Apple News is a
+[news aggregator](https://en.wikipedia.org/wiki/Apple_News) app developed by Apple. It presents a continuous flow of articles organized from numerous publishers and magazines available only on IOS and macOS. The app also has a subscription service called Apple News+ that gives access to 300+ magazines. They do not produce original content. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Apple News is owned by Apple, Inc., with revenue derived from subscription fees and advertising.
+Analysis / Bias
+Determining the bias of a news aggregator is different than from a single source that produces original content. The wording on Apple News comes from other sources, so we will not even look at that as a factor. The most logical way to determine the bias of a news aggregator is to look at the sources they use for their news content.
+We reviewed 100 news articles calculating whether the source is Left, Left-Center, Least Biased, Right-Center, or Right Biased by comparing them to our bias ratings and calculating what percentage comes from each bias category. Overall, most stories on Apple News come from Left-Center sources (60%) and 20% from least biased sources. Further, Right-Center sources only made up 8% of the news and Right biased less than 4%, while on the other hand, 8% of stories come from the left-biased category. When looking at purely left-leaning vs. right-leaning sources, the numbers greatly favor the left. See the charts below:
+- Left-Leaning 68%
+- Right-Leaning 12%
+All categories:
+- Left 8%
+- Left-Center 60%
+- Least Biased 20%
+- Right-Center 8%
+- Right 4%
+Out of the 100 articles reviewed, 12 came from sources we rate as factually mixed.
+We are not stating Apple is willfully biased; we are pointing out that the sources used have a strong preference for the left according to our ratings. This could be due to how the algorithm works and more mainstream news media leans left.

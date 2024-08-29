@@ -1,0 +1,20 @@
+Presidential Hill is funded through **advertising generates revenue**.	entailment
+The remit of Presidential Hill is to curate news from other sources and add conservative commentary.	entailment
+The mission of Presidential Hill is to  promote far-right biased news and opinion.	entailment
+Presidential Hill tends to the far-right bias	entailment
+Other sources have commented on Presidential Hill, stating that it tends to be far-right biased.	entailment
+The factuality of Presidential Hill is reported to be questionable	entailment
+The factuality of Presidential Hill is reported to be questionable, according to [mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Presidential Hill failed a fact-check for an article titled "40-of-women-who-get-covid-vaccine-report-changes-to-their-periods"	entailment
+Presidential Hill chose not to cover **ownership information**.	entailment
+Presidential Hill provides original content written by staff journalists	contradiction
+Presidential Hill relies on advertising for revenue	entailment
+Presidential Hill relies on subscriptions for revenue	entailment
+Presidential Hill relies on donations for revenue	entailment
+When aggregating stories, Presidential Hill relies on information from **questionable right biased sources**	entailment
+Presidential Hill has endorsed far-right biased information.	entailment
+Presidential Hill has an editorial bias towards far-right biased sources that promotes conspiracy theories and pseudoscience.	entailment
+Presidential Hill printed a biased article titled "CNN Host Gets Attacked By Democrats For Calling Out Biden’s Improper Use Of Troops".	entailment
+Presidential Hill printed a factually misleading titled far-right biased source.	entailment
+Presidential Hill is a far-right biased source	entailment
+Presidential Hill covers the following topics: Far-right biased news and opinion, conservative commentary, biased reporting, misinformation and conspiracy theories promoting right-wing propaganda.	entailment

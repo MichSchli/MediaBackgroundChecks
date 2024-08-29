@@ -1,0 +1,16 @@
+The remit of Think Americana is to **promote conservative news**	contradiction
+The mission of Think Americana is to promoting conservative news.	entailment
+Think Americana tends to the  Extreme Right Wing Bias.	entailment
+Other sources have commented on Think Americana, stating that it tends to be Questionable	entailment
+The factuality of Think Americana is reported to be Questionable	entailment
+The factuality of Think Americana is reported to be Questionable, according to Extreme Right Wing Bias.	entailment
+Think Americana chose not to cover Hillary	contradiction
+Think Americana provides original content written by staff journalists	contradiction
+Think Americana relies on advertising for revenue	entailment
+When aggregating stories, Think Americana relies on information from the Gateway Pundit.	entailment
+Think Americana has endorsed **President Trump**	entailment
+Think Americana has an editorial bias towards  extreme right wing bias.	entailment
+Think Americana was fined 	contradiction
+Think Americana had to apologize to liberals for denigrating.	entailment
+Think Americana uses an internal fact-checking process	contradiction
+Think Americana covers the following topics: Extreme Right Wing Bias, President Trump, denigrates liberals, Hillary, Trump.	entailment

@@ -1,0 +1,25 @@
+Gannett is the founder of Herkimer Times-Telegram	contradiction
+Gannett leads Herkimer Times-Telegram	entailment
+Gannett owns Herkimer Times-Telegram	entailment
+Gannett is the owner of Herkimer Times-Telegram.	entailment
+Gannett bought Herkimer Times-Telegram	entailment
+Gannett acquired Herkimer Times-Telegram	entailment
+The Herkimer Times-Telegram is funded through advertising and paid subscriptions.	entailment
+The remit of Herkimer Times-Telegram is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Herkimer Times-Telegram is to report local news with minimal loaded emotional language.	entailment
+The usual audience of Herkimer Times-Telegram is **residents of Herkimer, New York, and the surrounding area**	entailment
+Herkimer Times-Telegram tends to the Left-Center Biased	entailment
+Herkimer Times-Telegram tends to the left-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on Herkimer Times-Telegram, stating that it tends to be Left-Center Biased	entailment
+The factuality of Herkimer Times-Telegram is reported to be High	entailment
+The factuality of Herkimer Times-Telegram is reported to be high, according to its fact-check record.	entailment
+Herkimer Times-Telegram failed a fact-check for an article titled "Bassett School-Based Health Center earns $5K award from Excellus. Where the funds will go."	contradiction
+Herkimer Times-Telegram chose not to cover Presidential endorsements	entailment
+Herkimer Times-Telegram provides original content written by staff journalists	contradiction
+Herkimer Times-Telegram relies on advertising for revenue	entailment
+Herkimer Times-Telegram relies on subscriptions for revenue	entailment
+Herkimer Times-Telegram relies on donations for revenue	contradiction
+When aggregating stories, Herkimer Times-Telegram relies on information from **Gannett publications and the Associated Press**.	entailment
+The Herkimer Times-Telegram has endorsed **President Biden**.	contradiction
+Herkimer Times-Telegram has an editorial bias towards **the left**	entailment
+D. Van Zandt is the editor of Herkimer Times-Telegram	contradiction

@@ -1,0 +1,23 @@
+Donald Trump is the CEO of Stars and Stripes	contradiction
+Defense Media Activity (DMA)	entailment
+Stars and Stripes is the owner of Stars and Stripes	contradiction
+Stars and Stripes bought Stars and Stripes	contradiction
+Stars and Stripes acquired Stars and Stripes	entailment
+Stars and Stripes is funded through **advertising and subscription fees**.	entailment
+The remit of Stars and Stripes is to **provide independent news and information to the U.S. military community**	entailment
+The mission of Stars and Stripes is to provide independent news and information to the U.S. military community, including active-duty service members, DoD civilians, veterans, contractors, and their families.	entailment
+The usual audience of Stars and Stripes is  active-duty service members, DoD civilians, veterans, contractors, and their families.	entailment
+Stars and Stripes tends to theinformation of the U.S. military community	entailment
+Stars and Stripes tends to the **right and left-leaning opinions** according to **a left-leaning perspective and a right-leaning perspective**	entailment
+Other sources have commented on Stars and Stripes, stating that it tends to be Least Biased	entailment
+The factuality of Stars and Stripes is reported to be High	entailment
+The factuality of Stars and Stripes is reported to be High, according to D. Van Zandt	entailment
+Stars and Stripes failed a fact-check for an article titled "Power loss, bad weather caused Spangdahlem F-16 crash in Germany, Air Force says"	contradiction
+Stars and Stripes chose not to cover the shutdown.	entailment
+Stars and Stripes relies on advertising for revenue	entailment
+Stars and Stripes relies on subscriptions for revenue	entailment
+Stars and Stripes relies on donations for revenue	contradiction
+Stars and Stripes has received donations from the [Defense Media Activity (DMA)](https://en.wikipedia.org/wiki/DefenseMediaActivity) within the Department of Defense.	entailment
+When aggregating stories, Stars and Stripes relies on information from the Associated Press.	entailment
+Stars and Stripes has an editorial bias towards [neutrality].	entailment
+Stars and Stripes printed a biased article titled "Power loss, bad weather caused Spangdahlem F-16 crash in Germany, Air Force says".	contradiction

@@ -1,0 +1,24 @@
+Exposed by CMD founded Exposed by CMD	entailment
+CMD leads Exposed by CMD	entailment
+The Center for Media and Democracy owns Exposed by CMD	entailment
+CMD is the owner of Exposed by CMD	entailment
+Exposed acquired Exposed by CMD	contradiction
+Exposed by CMD is funded through donations	entailment
+The remit of Exposed by CMD is to **cover news and conduct investigations**	entailment
+The mission of Exposed by CMD is to conduct investigations with a strong left-leaning bias.	entailment
+Exposed by CMD tends to the left	entailment
+Other sources have commented on Exposed by CMD, stating that it tends to be **Left Biased**	entailment
+The factuality of Exposed by CMD is reported to be High	entailment
+The factuality of Exposed by CMD is reported to be High, according to D. Van Zandt	entailment
+Exposed by CMD failed a fact-check for an article titled "Michigan Lockdown Protesters".	contradiction
+Exposed by CMD chose not to cover neutral topics	entailment
+Exposed by CMD relies on donations for revenue	entailment
+Exposed by CMD has received donations from numerous left-leaning foundations such as Open Society Foundations, Ford Foundation, and Tides Foundation.	entailment
+When aggregating stories, Exposed by CMD relies on information from **CBS News**, **Ballotpedia**, **The Progressive**, and .gov sites.	entailment
+Exposed by CMD has endorsed a strong left-leaning bias	entailment
+Exposed by CMD has an editorial bias towards Left Biased	entailment
+Exposed by CMD was fined None	entailment
+Exposed by CMD printed a biased article titled The Far Right’s Plan for a New Confederacy	entailment
+Exposed by CMD printed a factually misleading titled "Constitution in the Crosshairs: The Far Right’s Plan for a New Confederacy".	entailment
+Exposed by CMD is funded by the United States government	contradiction
+Exposed by CMD covers the following topics: investigations into corruption affecting democracy, the environment, and economic prosperity.	entailment

@@ -1,0 +1,20 @@
+Chris Ernesto owns St. Pete for Peace	entailment
+Chris Ernesto is the owner of St. Pete for Peace	entailment
+Chris Ernesto bought St. Pete for Peace	entailment
+Chris Ernesto acquired St. Pete for Peace	entailment
+The remit of St. Pete for Peace is to  curate news from other sources with a progressive left/libertarian bias.	entailment
+The mission of St. Pete for Peace is to **support progressive causes.**	entailment
+The usual audience of St. Pete for Peace is **support for progressive causes**.	entailment
+St. Pete for Peace tends to the progressive left	entailment
+Other sources have commented on St. Pete for Peace, stating that it tends to be left biased	entailment
+The factuality of St. Pete for Peace is reported to be Mixed	entailment
+The factuality of St. Pete for Peace is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+St. Pete for Peace chose not to cover **revenue sources**	entailment
+St. Pete for Peace relies on subscriptions for revenue	contradiction
+When aggregating stories, St. Pete for Peace relies on information from other sources.	entailment
+St. Pete for Peace has endorsed **progressive causes**	entailment
+St. Pete for Peace has an editorial bias towards **progressive left/libertarian**	entailment
+St. Pete for Peace printed a biased article titled "Biden Foreign Policy Fact Sheet".	entailment
+St. Pete for Peace is funded by the United States government	entailment
+St. Pete for Peace is a **non-partisan**	contradiction
+St. Pete for Peace covers the following topics:  antiwar activism, progressive causes, foreign policy of political leaders	entailment

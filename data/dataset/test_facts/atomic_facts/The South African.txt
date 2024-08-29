@@ -1,0 +1,24 @@
+Blue Sky Publications Ltd founded The South African	entailment
+Blue Sky Publications Ltd is the founder of The South African	entailment
+Blue Sky Publications Ltd owns The South African	contradiction
+Blue Sky Publications Ltd is the owner of The South African	entailment
+The South African is funded through advertising revenue.	entailment
+The remit of The South African is to  report local and world news as well as sports, lifestyle, culture, and business.	entailment
+The mission of The South African is to **report local and world news as well as sports, lifestyle, culture, and business**.	entailment
+The usual audience of The South African is expats in the United Kingdom.	contradiction
+The South African tends to the **left-center**	entailment
+Other sources have commented on The South African, stating that it tends to be left-center biased.	entailment
+The factuality of The South African is reported to be High	entailment
+The factuality of The South African is reported to be High, according to D. Van Zandt	entailment
+The South African failed a fact-check for an article titled "Driver arrested after knocking down cyclists in Glencairn".	contradiction
+The South African chose not to cover failed fact checks	entailment
+The South African relies on advertising for revenue	entailment
+The South African relies on subscriptions for revenue	entailment
+The South African relies on donations for revenue	contradiction
+When aggregating stories, The South African relies on information from **proper sourcing and fact-based sources**.	entailment
+The South African has endorsed a left-center biased editorial positions	entailment
+The South African has an editorial bias towards **left-center biased**	entailment
+The South African had to apologize for [none in the Last 5 years].	entailment
+The South African is funded by the **advertising** government	contradiction
+The South African is a left-center biased	entailment
+The South African covers the following topics: local and world news, sports, lifestyle, culture, and business	entailment

@@ -1,0 +1,23 @@
+Milton Glaser and journalist Clay Felker founded New York Magazine	entailment
+Milton Glaser is the founder of New York Magazine	entailment
+Pamela Wasserstein is the CEO of New York Magazine	entailment
+Vox Media owns New York Magazine	entailment
+New York Media is the owner of New York Magazine.	contradiction
+Rupert Murdoch acquired New York Magazine	entailment
+New York Magazine is funded through subscription-based and serves online advertising.	entailment
+The remit of New York Magazine is to serve online advertising	entailment
+The usual audience of New York Magazine is subscription-based and serves online advertising.	entailment
+New York Magazine tends to the Left	entailment
+Other sources have commented on New York Magazine, stating that it tends to be Left Biased.	entailment
+The factuality of New York Magazine is reported to be High	entailment
+The factuality of New York Magazine is reported to be high, according to Media Bias/Fact Check.	entailment
+New York Magazine relies on advertising for revenue	entailment
+New York Magazine relies on donations for revenue	contradiction
+When aggregating stories, New York Magazine relies on information from credible sources.	entailment
+New York Magazine has endorsed **no political candidates**	entailment
+New York Magazine has an editorial bias towards Left	entailment
+David Haskell is the editor of New York Magazine	entailment
+New York Magazine printed a biased article titled **"The Green New Deal Is a Bad Idea, Not Just a Botched Rollout"**	entailment
+New York Magazine's headquarter is located in New York City.	entailment
+New York Magazine is a **left-biased**	entailment
+New York Magazine covers the following topics: politics, New York City life, culture, finance, entertainment, fashion, and food	entailment

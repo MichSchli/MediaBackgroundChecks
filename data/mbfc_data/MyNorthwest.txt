@@ -1,0 +1,13 @@
+History
+MyNorthwest.com is the website for three radio stations in the Seattle, Washington area. The radio stations are KIRO-FM, 710 AM ESPN, and 770 KTTH Conservative Talk Radio. The website features news articles and writings from journalists and radio personalities.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website and radio stations are owned by Bonneville International, a publishing company headquartered in Salt Lake City, Utah. It is a subsidiary of
+[Deseret Management Corporation](https://en.wikipedia.org/wiki/Deseret_Management_Corporation), a holding company owned by the [Corporation of the President of The Church of Jesus Christ of Latter-day Saints](https://en.wikipedia.org/wiki/Corporation_of_the_President_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints). Advertising, sponsored content, and subscription fees generate revenue.
+Analysis / Bias
+In review, local news is covered by a combination of local journalists and curated content from other providers. Articles and headlines do not use loaded language, such as this
+[Seattle police investigate series of assaults robberies in University District](https://mynorthwest.com/3325754/seattle-police-investigate-assaults-robberies-university-district/). National news comes from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).
+Editorially, there is a clear right-leaning bias as most of the radio personalities are
+[conservative](http://mynorthwest.com/category/the-michael-medved-show/) or [libertarian](http://mynorthwest.com/category/the-dori-monson-show/), and their writings reflect that.
+Failed Fact Checks
+- None on the website; however, radio personalities may not always be factual.

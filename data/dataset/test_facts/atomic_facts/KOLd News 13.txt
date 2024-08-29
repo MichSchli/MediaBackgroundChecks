@@ -1,0 +1,20 @@
+Gray Television owns KOLd News 13	entailment
+Gray Television bought KOLd News 13	contradiction
+Gray Television acquired KOLD News 13	contradiction
+KOLd News 13 is funded through **sponsored content and advertising**	entailment
+The remit of KOLD News 13 is to report news factually and with minimal bias.	entailment
+The mission of KOLD News 13 is to report news factually and with minimal bias.	entailment
+The usual audience of KOLD News 13 is Tucson, Arizona, and the surrounding area.	entailment
+KOLD News 13 tends to the **center**	entailment
+Other sources have commented on KOLd News 13, stating that it tends to be **Least Biased**.	entailment
+The factuality of KOLD News 13 is reported to be High	entailment
+The factuality of KOLD News 13 is reported to be High, according to a source criticism exercise.	entailment
+KOLd News 13 failed a fact-check for an article titled Woman struck by vehicle at shooting scene dies days later.	contradiction
+KOLD News 13 chose not to cover an opinion page.	entailment
+KOLd News 13 relies on advertising for revenue	entailment
+KOLd News 13 relies on donations for revenue	contradiction
+When aggregating stories, KOLd News 13 relies on information from **Gray Television affiliates, the Associated Press, CNN, and the Associated Press**.	entailment
+KOLd News 13 has an editorial bias towards **least biased**	entailment
+KOLD News 13 printed a factually misleading titled None in the Last 5 years	entailment
+KOLD News 13 is a television station	entailment
+KOLD News 13 covers the following topics: local and national news, sports, weather, traffic, and entertainment.	entailment

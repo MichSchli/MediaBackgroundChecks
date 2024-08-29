@@ -1,0 +1,25 @@
+U.S. Agency for Global Media owns Radio Free Asia	entailment
+Radio Free Asia is the owner of Radio Free Asia	contradiction
+Radio Free Asia bought Radio Free Asia	contradiction
+U.S. Agency for Global Media acquired Radio Free Asia	contradiction
+Radio Free Asia is funded through donations	entailment
+The remit of Radio Free Asia is to broadcast and publish online news, information, and commentary to listeners in East Asia while “advancing the goals of U.S. foreign policy.”	entailment
+The mission of Radio Free Asia is to advance the goals of U.S. foreign policy.	entailment
+Radio Free Asia tends to the Left	entailment
+Other sources have commented on Radio Free Asia, stating that it tends to be **left-center biased**.	entailment
+The factuality of Radio Free Asia is reported to be High	entailment
+The factuality of Radio Free Asia is reported to be High, according to its clean fact-check record	entailment
+Radio Free Asia failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Radio Free Asia printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Radio Free Asia chose not to cover [None in the Last 5 years](https://www.rfa.org/).	entailment
+Radio Free Asia relies on advertising for revenue	contradiction
+Radio Free Asia relies on donations for revenue	entailment
+Radio Free Asia has received donations from the U.S. Agency for Global Media	entailment
+When aggregating stories, Radio Free Asia relies on information from [properly sourced sources](https://mediabiasfactcheck.com/world-health-organization-who/).	entailment
+Radio Free Asia has endorsed USA interests with a less direct propaganda approach	entailment
+Radio Free Asia has an editorial bias towards Left-Center	entailment
+Radio Free Asia was fined $100,000	entailment
+Radio Free Asia had to apologize for **none in the Last 5 years**	entailment
+Radio Free Asia is funded by the U.S. government	entailment
+Radio Free Asia is a non-profit international broadcasting agency.	entailment
+Radio Free Asia covers the following topics: **Asian countries such as Cambodia, China, North Korea, Myanmar, and Vietnam from an American perspective**	entailment

@@ -1,0 +1,20 @@
+John J. Moser	entailment
+Tim Fallon is the CEO of Lehigh Valley News.	entailment
+Lehigh Valley Public Media owns Lehigh Valley News	entailment
+Lehigh Valley Public Media bought Lehigh Valley News	entailment
+Lehigh Valley Public Media acquired Lehigh Valley News	entailment
+Lehigh Valley News is funded through community support and donations	entailment
+The remit of Lehigh Valley News is to provide thorough coverage on various subjects.	entailment
+The mission of Lehigh Valley News is to provide thorough coverage on various subjects.	entailment
+Lehigh Valley News tends to the center-right.	entailment
+Lehigh Valley News tends to the center-right according to mediabiasfactcheck.com	entailment
+Other sources have commented on Lehigh Valley News, stating that it tends to be **Least Biased**	entailment
+The factuality of Lehigh Valley News is reported to be mostly factual	entailment
+The factuality of Lehigh Valley News is reported to be mostly factual, according to its source assessment.	entailment
+Lehigh Valley News chose not to cover \What is Bidenomics? An Economist Weighs In.\	contradiction
+Lehigh Valley News provides original content written by staff journalists	entailment
+Lehigh Valley News relies on donations for revenue	entailment
+When aggregating stories, Lehigh Valley News relies on information from **direct quotes and expert analysis**	entailment
+Jim Deegan is the editor of Lehigh Valley News	entailment
+Lehigh Valley News printed a factually misleading titled "What is Bidenomics? An Economist Weighs In."	contradiction
+Lehigh Valley News had to apologize to no one for nothing.	entailment

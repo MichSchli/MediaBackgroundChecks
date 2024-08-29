@@ -1,0 +1,14 @@
+History
+Founded in 2010, NK News is a daily English-language news analysis site regarding North Korea. NK News is
+[headquartered](https://www.nknews.org/author-bio/?author=nk-news) in Delaware, U.S.A. The founder and editor is [Chad O’Carroll](https://twitter.com/chadocl). Its sister platform NK Pro is subscription-based. NK News offers a limited number of articles for free, and the rest is subscription-based. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+NK Consulting, Inc. owns NK News. They offer a limited number of articles for free, and the rest is subscription-based.
+Analysis / Bias
+Under the category “News,” NK News utilizes minimally loaded language in their headlines, such as
+[“Give Kim an offer he can’t refuse: exchange nukes for economic modernization](https://www.nknews.org/2018/04/give-kim-an-offer-he-cant-refuse-exchange-nukes-for-economic-modernization/)” however, they source poorly without any links to back their claims.
+Under the category investigation, NK News publishes investigative articles such as
+[“The mysterious network filling social media with anti-North Korea graphics.” ](https://www.nknews.org/2018/03/the-mysterious-network-filling-social-media-with-anti-north-korea-graphics/) In this article, they linked to sources such as social media accounts Instagram, Vimeo, and various blogs related to the subject investigated, however when we clicked the links, most accounts were removed after their investigation. Although NK News does not always source properly, a [factual search](https://factualsearch.news/#gsc.tab=0&gsc.q=nknews&gsc.sort=&gsc.ref=fact_checking) reveals they have never failed a fact check.
+Under the category “Ask a North Korean,” articles are published with a personal essay style written by North Koreans residing in South Korea. Example:
+[“The Kim Jong Un – Moon Jae-in summit: why it was so personal for me.”](https://www.nknews.org/2018/04/the-kim-jong-un-moon-jae-in-summit-why-it-was-so-personal-for-me/) NK News also has a [content syndication](https://www.theguardian.com/world/2015/dec/21/life-in-north-korea-the-early-years) agreement with [The Guardian](https://mediabiasfactcheck.com/the-guardian/), which MBFC rates as Mixed for factual reporting.
+Failed Fact Checks
+- None in the Last 5 years

@@ -1,0 +1,23 @@
+Metric Media-founded SC Kansas News	entailment
+SC Kansas News leads SC Kansas News	entailment
+Metric Media Foundation owns SC Kansas News	entailment
+Metric Media LLC is the owner of SC Kansas News	entailment
+SC Kansas News is funded through advertising and donations to the Metric Media Foundation	entailment
+The remit of SC Kansas News is to **imposter site, lacks transparency, and publishes false information.**	entailment
+The mission of SC Kansas News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of SC Kansas News is right-center biased and Questionable.	entailment
+SC Kansas News tends to the RIGHT-CENTER	contradiction
+Other sources have commented on SC Kansas News, stating that it tends to be right-center	entailment
+The factuality of SC Kansas News is reported to be questionable	entailment
+The factuality of SC Kansas News is reported to be Questionable, according to D. Van Zandt 12/15/2021	entailment
+SC Kansas News failed a fact-check for an article titled *Imposter Site*	entailment
+SC Kansas News chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+SC Kansas News relies on advertising for revenue	entailment
+SC Kansas News relies on donations for revenue	entailment
+When aggregating stories, SC Kansas News relies on information from algorithmically produced content.	entailment
+SC Kansas News has an editorial bias towards **right-center**	entailment
+SC Kansas News printed a biased article titled **Imposter Site Lacks Transparency and Publishes False Information**	entailment
+SC Kansas News printed a factually misleading titled  "Imposter Website Lacks Transparency and Publishes False Information"	entailment
+The Kansas News is funded by the Foundation	entailment
+SC Kansas News is a **right-center**	contradiction
+SC Kansas News covers the following topics:  right-center, biased, and Questionable.	entailment

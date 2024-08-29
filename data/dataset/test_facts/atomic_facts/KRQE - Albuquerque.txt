@@ -1,0 +1,23 @@
+Nexstar Media Group owns KRQE - Albuquerque	entailment
+Nexstar Media Group is the owner of KRQE - Albuquerque.	entailment
+Nexstar Media Group bought KRQE - Albuquerque	entailment
+The remit of KRQE - Albuquerque is to  report news for the greater Albuquerque, New Mexico area.	entailment
+The mission of KRQE - Albuquerque is to **provide news, sports, weather, politics, and crime reporting**	entailment
+The usual audience of KRQE - Albuquerque is **the greater Albuquerque, New Mexico area**	entailment
+Other sources have commented on KRQE - Albuquerque, stating that it tends to be **Least Biased**	entailment
+The factuality of KRQE - Albuquerque is reported to be High	entailment
+The factuality of KRQE - Albuquerque is reported to be High, according to D. Van Zandt	entailment
+KRQE - Albuquerque failed a fact-check for an article titled "None in the last 5 years".	contradiction
+KRQE - Albuquerque chose not to cover op-eds	entailment
+KRQE - Albuquerque provides original content written by staff journalists	entailment
+KRQE - Albuquerque relies on advertising for revenue	entailment
+KRQE - Albuquerque relies on donations for revenue	contradiction
+When aggregating stories, KRQE - Albuquerque relies on information from the Nexstar Media Wire, the Associated Press, and other large credible media outlets.	entailment
+KRQE - Albuquerque has endorsed **no one**	entailment
+KRQE - Albuquerque has an editorial bias towards Least Biased	entailment
+KRQE - Albuquerque printed a biased article titled "Why is New Mexico’s prison population on the decline?"	entailment
+KRQE - Albuquerque had to apologize for [none in the last 5 years].	entailment
+KRQE - Albuquerque's headquarter is located in Albuquerque	entailment
+KRQE - Albuquerque is a [Fox](https://mediabiasfactcheck.com/fox-news-bias/)-affiliated television station licensed to Albuquerque, New Mexico.	entailment
+KRQE - Albuquerque uses an internal fact-checking process	entailment
+KRQE - Albuquerque covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

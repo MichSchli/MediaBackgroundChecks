@@ -1,0 +1,20 @@
+Metric Media Foundation owns Gadsden Today	entailment
+Bradley Cameron is the owner of Gadsden Today	entailment
+Metric Media Foundation acquired Gadsden Today	entailment
+Gadsden Today is funded through **donations and grants but lacks transparency as they do not disclose who their donors are**.	entailment
+The remit of Gadsden Today is to ***provide objective, data-driven information without political bias.***	contradiction
+The usual audience of Gadsden Today is **right-center biased**.	entailment
+Gadsden Today tends to the right-center	entailment
+Other sources have commented on Gadsden Today, stating that it tends to be right-center biased.	entailment
+The factuality of Gadsden Today is reported to be Questionable	entailment
+The factuality of Gadsden Today is reported to be Questionable, according to Mediabiasfactcheck.com	entailment
+Gadsden Today failed a fact-check for an article titled **Biden Admin Gives Millions To Planned Parenthood For "Abortion Satellites"**	entailment
+Gadsden Today chose not to cover being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+Gadsden Today relies on advertising for revenue	entailment
+Gadsden Today relies on donations for revenue	entailment
+When aggregating stories, Gadsden Today relies on information from **algorithmically produced content**	entailment
+Gadsden Today has endorsed right-center biased and Questionable	entailment
+Gadsden Today has an editorial bias towards conservative-leaning.	entailment
+Gadsden Today was fined right-center biased	entailment
+Gadsden Today is a right-center biased website.	entailment
+Gadsden Today covers the following topics: conservative-leaning news.	entailment

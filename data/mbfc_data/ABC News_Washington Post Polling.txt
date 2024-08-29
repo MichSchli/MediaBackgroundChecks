@@ -1,0 +1,10 @@
+History
+ABC News/Washington Post Polling is conducted in a joint effort between
+[ABC News Network](https://mediabiasfactcheck.com/abc-news/) and the [Washington Post Newspaper](https://mediabiasfactcheck.com/washington-post/). ABC News polling is generally conducted through [Langer Research Associates](https://www.langerresearch.com/category/abc-news-polls/). [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+ABC News/Washington Post Polling relies on a private company Langer Research Associates to conduct their polling. Both ABC News and the Washington Post publish the results of these polls and generate revenue through advertising and subscription fees for the Washington Post.
+Analysis / Bias
+ABC News/Washington Post Polling relies on a third-party researcher to conduct its polls. Both sources are rated as Left-Center biased by Media Bias Fact Check based on news reporting and editorial positions that moderately favor the left.
+[FiveThirtyEight](https://mediabiasfactcheck.com/fivethirtyeight/), an expert on measuring and rating pollster performance, has [evaluated 97 polls](https://projects.fivethirtyeight.com/pollster-ratings/) by ABC News/Washington Post Polling, earning 3.0 stars for accuracy (highest score), indicating they are rated Very-High factually by MBFC’s criteria. They also conclude that their polling slightly favors the Left with a score of +0.8, which equates to Least Biased overall in polling bias. In general, ABC News/Washington Post polling is considered to be highly accurate and demonstrates minimal bias.
+Failed Fact Checks
+- None in the Last 5 years

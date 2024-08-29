@@ -1,0 +1,26 @@
+Van Riper is the founder of Akron Beacon Journal	contradiction
+Gannett owns Akron Beacon Journal	entailment
+Gannett is the owner of Akron Beacon Journal	entailment
+Gatehouse Media bought Akron Beacon Journal	entailment
+Gannett acquired Akron Beacon Journal	entailment
+Akron Beacon Journal is funded through advertising and paid subscriptions	entailment
+The remit of Akron Beacon Journal is to **report news with a left-leaning bias and endorse Democratic candidates**	entailment
+The usual audience of Akron Beacon Journal is Left-Center biased	entailment
+Akron Beacon Journal tends to the left	entailment
+Other sources have commented on Akron Beacon Journal, stating that it tends to be Left-Center biased	entailment
+The factuality of Akron Beacon Journal is reported to be High	entailment
+The factuality of Akron Beacon Journal is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+Akron Beacon Journal failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Akron Beacon Journal printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+Akron Beacon Journal chose not to cover failed fact checks	entailment
+Akron Beacon Journal relies on advertising for revenue	entailment
+Akron Beacon Journal relies on subscriptions for revenue	entailment
+Akron Beacon Journal relies on donations for revenue	contradiction
+Akron Beacon Journal has received donations from **advertising and paid subscriptions**.	entailment
+When aggregating stories, Akron Beacon Journal relies on information from **Associated Press**	entailment
+Akron Beacon Journal has endorsed Democratic candidates	entailment
+Akron Beacon Journal has an editorial bias towards **left**	entailment
+Akron Beacon Journal had to apologize for **None**	entailment
+Akron Beacon Journal is funded by the private government	contradiction
+Akron Beacon Journal is a morning newspaper.	entailment
+Akron Beacon Journal covers the following topics: news, sports, lifestyle, and entertainment	entailment

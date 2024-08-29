@@ -1,0 +1,11 @@
+History
+[Launched in 2007](https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/), Hacker News is a news aggregation website focused on technology. The site is similar to Reddit, as users can publish news stories from other sources and then up or downvote them and comment. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Hacker News is owned and published by Y Combinator, which invests in internet startups. Y Combinator has
+[launched over 3500 companies](https://www.ycombinator.com/companies/). Hacker News does not have a source of revenue, but Y Combinator generates revenue through returns on investments.
+Analysis / Bias
+Hacker News does not produce original content but rather relies on user-submitted news stories from third-party sources. News articles focus on technology and science with stories such as this
+[Google pushes emergency Chrome update to fix 8th zero-day in 2022](https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/), which links to the least biased [Bleeping Computer](https://mediabiasfactcheck.com/bleeping-computer-bias-rating/). A review of sources indicates that most are known and credible such as the [BBC](https://mediabiasfactcheck.com/bbc/), [TechCrunch](https://mediabiasfactcheck.com/techcrunch/), and [Nature.org](https://mediabiasfactcheck.com/nature/). However, sometimes users publish articles from obscure sources that are not verified and some from sources that have failed fact checks, like [Al Jazeera](https://mediabiasfactcheck.com/al-jazeera/) and [The Guardian](https://mediabiasfactcheck.com/the-guardian/).
+Editorially, story selection is reflected by the users and therefore offers diverse stories with very few related to politics. In general, Hackers News is low biased but sometimes relies on sources that have failed fact checks.
+Failed Fact Checks
+- Hacker News does not publish original content, but some sources have failed fact-checks in the past.

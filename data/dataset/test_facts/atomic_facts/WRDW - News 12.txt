@@ -1,0 +1,24 @@
+D. Van Zandt is the CEO of WRDW - News 12	entailment
+WRDW leads WRDW - News 12	entailment
+Gray Television owns WRDW - News 12	entailment
+Gray Television is the owner of WRDW - News 12	entailment
+Gray Television bought WRDW - News 12	contradiction
+Gray Television acquired WRDW - News 12	entailment
+WRDW - News 12 is funded through advertising.	entailment
+The remit of WRDW - News 12 is to **provide news coverage for Augusta, Georgia, and the surrounding areas.**	entailment
+The mission of WRDW - News 12 is to report news factually and with minimal bias.	entailment
+The usual audience of WRDW - News 12 is **residents of Augusta, Georgia, and the surrounding area**	entailment
+WRDW - News 12 tends to the local and national news	entailment
+Other sources have commented on WRDW - News 12, stating that it tends to be **least biased**	entailment
+The factuality of WRDW - News 12 is reported to be High	entailment
+The factuality of WRDW - News 12 is reported to be high, according to Media Bias/Fact Check.	entailment
+WRDW - News 12 failed a fact-check for an article titled "Kemp signs new citizen’s arrest legislation for Georgia."	contradiction
+WRDW - News 12 chose not to cover opinion pages.	entailment
+WRDW - News 12 relies on advertising for revenue	entailment
+WRDW - News 12 relies on donations for revenue	contradiction
+When aggregating stories, WRDW - News 12 relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [CNN](https://mediabiasfactcheck.com/cnn/).	entailment
+WRDW - News 12 has endorsed **neither Democratic nor Republican candidates or issues**	entailment
+WRDW - News 12 has an editorial bias towards Least Biased	entailment
+WRDW - News 12 printed a biased article titled "None in the Last 5 years".	contradiction
+WRDW - News 12 had to apologize for   failing to meet the necessary journalistic standards for accuracy in reporting.	contradiction
+WRDW - News 12 is a TV station	entailment

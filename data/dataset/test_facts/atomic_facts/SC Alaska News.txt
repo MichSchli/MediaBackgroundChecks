@@ -1,0 +1,17 @@
+Metric Media Foundation owns SC Alaska News	entailment
+SC Alaska News acquired SC Alaska News	contradiction
+SC Alaska News is funded through donations and grants.	entailment
+The remit of SC Alaska News is to **look like a local news source**	entailment
+The mission of SC Alaska News is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of SC Alaska News is **conservative-leaning**	entailment
+SC Alaska News tends to the right-center biased.	entailment
+Other sources have commented on SC Alaska News, stating that it tends to be **right-center biased.**	entailment
+The factuality of SC Alaska News is reported to be Questionable	entailment
+The factuality of SC Alaska News is reported to be Questionable, according to its review by Media Bias/Fact Check.	entailment
+SC Alaska News relies on advertising for revenue	entailment
+SC Alaska News relies on subscriptions for revenue	contradiction
+SC Alaska News relies on donations for revenue	entailment
+SC Alaska News has endorsed right-center	entailment
+SC Alaska News has an editorial bias towards **right-center**	entailment
+SC Alaska News is a conservative-leaning news website, generally relying on algorithmically produced content.	entailment
+SC Alaska News covers the following topics: conservative-leaning news.	entailment

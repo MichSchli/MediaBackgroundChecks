@@ -1,0 +1,29 @@
+Nick Meyer founded AltHealth Works	entailment
+Nick Meyer is the founder of AltHealth Works.	entailment
+Nick Meyer owns AltHealth Works	entailment
+Nick Meyer is the owner of AltHealth Works	entailment
+Nick Meyer bought AltHealth Works	entailment
+Nick Meyer acquired AltHealth Works	contradiction
+AltHealth Works is funded through advertising	entailment
+The mission of AltHealth Works is to tell the many incredible stories of the growing holistic and natural health community, stories that had slipped through the cracks of the traditional media.	entailment
+The usual audience of AltHealth Works is **individuals interested in alternative health, holistic practices, and nutrition**.	entailment
+AltHealth Works tends to the promotion of dangerous, unproven alternative medicine	entailment
+Other sources have commented on AltHealth Works, stating that it tends to be **a quackery-level pseudoscience website**.	entailment
+The factuality of AltHealth Works is reported to be Low	entailment
+The factuality of AltHealth Works is reported to be Low, according to Media Bias/Fact Check.	entailment
+AltHealth Works failed a fact-check for an article titled "10 Documented Reasons GMOs are Anti-American".	entailment
+AltHealth Works printed a retraction after failing a fact-check for an article titled **"Mothers Break the Silence: How Feeding Their Kids a Non-GMO Diet Healed Everything From Autism Symptoms to Autoimmune Disease"**	contradiction
+AltHealth Works chose not to cover **evidence-based research or scientific consensus**.	entailment
+AltHealth Works relies on advertising for revenue	entailment
+AltHealth Works relies on subscriptions for revenue	entailment
+AltHealth Works relies on donations for revenue	contradiction
+When aggregating stories, AltHealth Works relies on information from [poor sources](https://althealthworks.com/).	entailment
+AltHealth Works has endorsed quackery-level pseudoscience website based on the promotion of dangerous, unproven alternative medicine	entailment
+AltHealth Works has an editorial bias towards **pseudoscience**	entailment
+AltHealth Works was fined 	entailment
+AltHealth Works printed a biased article titled **10 Documented Reasons GMOs are Anti-American**	entailment
+AltHealth Works printed a factually misleading titled "10 Documented Reasons GMOs are Anti-American"	entailment
+AltHealth Works is funded by the United States government	contradiction
+AltHealth Works is a quackery-level pseudoscience website	entailment
+AltHealth Works uses a peer review process	entailment
+AltHealth Works covers the following topics: alternative health, holistic practices, nutrition	entailment

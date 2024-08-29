@@ -1,0 +1,20 @@
+Mihir Sharma founded Foreign Policy in Focus	entailment
+Institute for Policy Studies owns Foreign Policy in Focus	entailment
+Institute for Policy Studies bought Foreign Policy in Focus	entailment
+Foreign Policy in Focus is funded through [transparent funding](http://fpif.org/governance-and-funding/).	entailment
+The remit of Foreign Policy in Focus is to amplify the voice of progressives and to build links with social movements in the U.S. and worldwide.	entailment
+The mission of Foreign Policy in Focus is to amplify the voice of progressives and to build links with social movements in the U.S. and worldwide.	entailment
+The usual audience of Foreign Policy in Focus is **progressives**	entailment
+Foreign Policy in Focus tends to the Left-Center.	entailment
+Other sources have commented on Foreign Policy in Focus, stating that it tends to be **Left-Center biased**	entailment
+The factuality of Foreign Policy in Focus is reported to be High	entailment
+The factuality of Foreign Policy in Focus is reported to be High, according to Media Bias/Fact Check.	entailment
+Foreign Policy in Focus failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Foreign Policy in Focus has received donations from the Institute for Policy Studies.	entailment
+When aggregating stories, Foreign Policy in Focus relies on information from **credible left-leaning media**	entailment
+Foreign Policy in Focus has endorsed progressive causes	entailment
+Foreign Policy in Focus has an editorial bias towards **progressive causes**	entailment
+Foreign Policy in Focus was fined 	entailment
+Foreign Policy in Focus printed a biased article titled Left-Center biased and High for factual reporting based on proper sourcing and a clean fact check record.	entailment
+Foreign Policy in Focus is a **Left-Center biased**	entailment
+Foreign Policy in Focus covers the following topics: **History, Funding and Ownership, Analysis / Bias, Failed Fact Checks**	entailment

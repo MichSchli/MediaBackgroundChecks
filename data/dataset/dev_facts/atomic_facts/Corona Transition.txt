@@ -1,0 +1,23 @@
+Corona-Reset owns Corona Transition	entailment
+Corona-Reset is the owner of Corona Transition	entailment
+Corona-Reset bought Corona Transition	entailment
+Corona Transition is funded through **donations to Corona-Reset**	entailment
+The remit of Corona Transition is to promote alternative health and coronavirus misinformation.	entailment
+The mission of Corona Transition is to  oppose all measures that have been proven scientifically to be beneficial in slowing the spread of coronavirus.	entailment
+Corona Transition tends to the right	entailment
+Corona Transition tends to the right according to bias.	entailment
+Other sources have commented on Corona Transition, stating that it tends to be right biased.	entailment
+The factuality of Corona Transition is reported to be  questionable.	entailment
+The factuality of Corona Transition is reported to be questionable, according to Media Bias/Fact Check.	entailment
+Corona Transition failed a fact-check for an article titled "Face masks: ideal breeding grounds for bacteria and fungi"	entailment
+Corona Transition chose not to cover **factual information such as mainstream science-based guidelines for combating COVID-19**.	entailment
+Corona Transition relies on advertising for revenue	entailment
+Corona Transition relies on subscriptions for revenue	contradiction
+Corona Transition relies on donations for revenue	entailment
+Corona Transition has received donations from **donations to Corona-Reset**	entailment
+When aggregating stories, Corona Transition relies on information from **publicly available but has hardly been taken into account or ignored by decision-makers**.	entailment
+Corona Transition has endorsed Covid-19 misinformation.	entailment
+Corona Transition has an editorial bias towards right-leaning viewpoints.	entailment
+Christoph Pfluger is the editor of Corona Transition.	entailment
+Corona Transition printed a biased article titled **The European Medicines Agency (EMA) rejected Pfizer vaccine batches but granted approval anyway**	entailment
+Corona Transition printed a factually misleading titled "Face masks: ideal breeding grounds for bacteria and fungi."	contradiction

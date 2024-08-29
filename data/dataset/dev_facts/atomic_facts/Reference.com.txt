@@ -1,0 +1,18 @@
+Ask.com founded Reference.com	contradiction
+Ask.com owns Reference.com	entailment
+Reference.com is funded through **advertising generates revenue**	entailment
+The remit of Reference.com is to organize content through a question-and-answer format.	entailment
+The usual audience of Reference.com is **people seeking general information**	entailment
+Reference.com tends to the left-中心	entailment
+Reference.com tends to the left-center according to mediabiasfactcheck.com	entailment
+Other sources have commented on Reference.com, stating that it tends to be left-center biased.	entailment
+The factuality of Reference.com is reported to be high	entailment
+The factuality of Reference.com is reported to be high, according to Media Bias/Fact Check.	entailment
+Reference.com failed a fact-check for an article titled Understanding the History of Mexico’s Independence Day	contradiction
+Reference.com relies on advertising for revenue	entailment
+Reference.com relies on subscriptions for revenue	contradiction
+Reference.com relies on donations for revenue	contradiction
+When aggregating stories, Reference.com relies on information from credible sources.	entailment
+Reference.com has endorsed left-center biased	entailment
+Reference.com has an editorial bias towards left	entailment
+Reference.com was fined $100 million	contradiction

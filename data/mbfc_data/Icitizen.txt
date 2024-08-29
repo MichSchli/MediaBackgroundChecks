@@ -1,0 +1,15 @@
+History
+According to their former
+[about page](https://icitizen.com/about-us/), “icitizen is an award-winning polling platform that connects people and decision-makers to do just that – make their community a better place.” Icitizen was originally founded in 2012 and then in January 2016, icitizen was relaunched with a broader vision to help citizens, elected officials, candidates, organizations, schools, and companies strengthen their relationships with one another.
+At this time, they no longer have an about page and lack transparency.
+[Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website lacks transparency as they do not disclose ownership. According to
+[Pitchbook](https://pitchbook.com/profiles/company/61504-12), it filed for bankruptcy in 2018. Crunchbase reports that in 2019 they raised an undisclosed amount of money from / Series A from [Launch Tennessee.](https://www.crunchbase.com/organization/launch-tennessee) It is not clear how they generate revenue.
+Analysis / Bias
+In review, iCitizen creates polls on its page to gauge the public on a variety of political issues. They also publish news articles that tend to favor the right such as this
+[Republicans scramble to stamp out ‘woke’ political bias, cancel culture in the US military](https://icitizen.com/articles/7bae681a-48be-4d56-bc6d-cfa636b4bc45). This story is sourced from [Fox News](https://mediabiasfactcheck.com/fox-news-bias/), which we rate right biased and questionable.
+Voting polls are published in community forums and genres. While polls cover a variety of topics, many polls are framed to favor the right such as this: “Based on the open letter from 49 former NASA scientists urging NASA to stop using ‘highly dubious’ claims of co2 causing the climate to warming are you . . .?” The top response confirms a mostly right-leaning audience who appear to reject the consensus of science on the cause of global warming: “No change in my belief that co2 does NOT cause global temp to rise.”
+Generally, iCitizen is not a credible pollster as there is no information on the demographics, and anyone can vote in their polls.
+Failed Fact Checks
+- None in the Last 5 years

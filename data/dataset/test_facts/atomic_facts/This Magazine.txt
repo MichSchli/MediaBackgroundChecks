@@ -1,0 +1,19 @@
+Red Maple Foundation owns This Magazine	entailment
+This Magazine is the owner of This Magazine	contradiction
+This Magazine bought This Magazine	contradiction
+This Magazine is funded through donations and subscription fees	entailment
+The remit of This Magazine is to **publish original news stories from a progressive left perspective**.	entailment
+This Magazine tends to the Left	entailment
+Other sources have commented on This Magazine, stating that it tends to be left-biased	entailment
+The factuality of This Magazine is reported to beMostly Factual	entailment
+The factuality of This Magazine is reported to be Mostly Factual, according to Mediabiasfactcheck.com	entailment
+This Magazine failed a fact-check for an article titled "We need to stop pretending there’s no Islamophobia crisis in Canada"	contradiction
+This Magazine chose not to cover conservatives	contradiction
+This Magazine relies on advertising for revenue	contradiction
+This Magazine relies on subscriptions for revenue	entailment
+This Magazine relies on donations for revenue	entailment
+This Magazine has received donations from the Red Maple Foundation	entailment
+This Magazine has endorsed the progressive left	entailment
+This Magazine has an editorial bias towards the progressive left	entailment
+This Magazine is a Left Biased	entailment
+This Magazine covers the following topics: Left Biased based on story selection and editorial positions that often favor the progressive left. We also rate them as Mostly Factual in reporting, rather than High, due to a lack of hyperlinked sourcing in some articles.	entailment

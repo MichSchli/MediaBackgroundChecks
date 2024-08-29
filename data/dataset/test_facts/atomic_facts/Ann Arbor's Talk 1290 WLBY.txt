@@ -1,0 +1,16 @@
+Cumulus Media owns Ann Arbor's Talk 1290 WLBY	entailment
+Cumulus Media bought Ann Arbor's Talk 1290 WLBY	entailment
+Ann Arbor's Talk 1290 WLBY is funded through **advertising**	entailment
+The remit of Ann Arbor's Talk 1290 WLBY is to feature conservative news talk shows, while the website publishes National and political news.	entailment
+The mission of Ann Arbor's Talk 1290 WLBY is to **broadcast conservative news talk shows and publish National and political news on their website**	entailment
+Ann Arbor's Talk 1290 WLBY tends to the right.	entailment
+Other sources have commented on Ann Arbor's Talk 1290 WLBY, stating that it tends to be **right biased**.	entailment
+The factuality of Ann Arbor's Talk 1290 WLBY is reported to be  Mixed 	entailment
+The factuality of Ann Arbor's Talk 1290 WLBY is reported to be Mixed, according to D. Van Zandt 08/14/2023	entailment
+Ann Arbor's Talk 1290 WLBY failed a fact-check for an article titled **8 more West Nile virus cases**.	entailment
+Ann Arbor's Talk 1290 WLBY chose not to cover local news.	entailment
+Ann Arbor's Talk 1290 WLBY relies on advertising for revenue	entailment
+When aggregating stories, Ann Arbor's Talk 1290 WLBY relies on information from **Newsmax**.	entailment
+Ann Arbor's Talk 1290 WLBY has an editorial bias towards **the political affiliation of conservative radio hosts**.	entailment
+Ann Arbor's Talk 1290 WLBY is funded by the **United States** government	contradiction
+Ann Arbor's Talk 1290 WLBY is a right biased	entailment

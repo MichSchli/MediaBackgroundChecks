@@ -1,0 +1,12 @@
+History
+[CyberScoop](https://cyberscoop.com/about-us/) is a digital news media platform founded in 2008, specializing in cybersecurity. It is headquartered in Washington, DC, and is part of the Scoop News Group, a leading public sector tech media company in the United States. Founder & CEO [Goldy Kamali](https://www.linkedin.com/in/goldykamali/) leads the company. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+CyberScoop is part of the
+[Scoop News Group](https://scoopnewsgroup.com/ourbrands/); ownership is not publicly disclosed. Goldy Kamali is the Founder & CEO, and a [Washington Post](https://mediabiasfactcheck.com/washington-post/) [article](https://www.washingtonpost.com/express/wp/2011/06/13/techsavvy-talk-government-it-company/) indicates she also owns Scoop News Group, which monetizes through [advertisements.](https://scoopnewsgroup.com/oursolutions/)
+Analysis / Bias
+CyberScoop publishes articles that maintain a professional tone and rely on facts and expert opinions. For instance, in the article
+[“A year after Russia’s invasion, the scope of cyberwar in Ukraine comes into focus](https://cyberscoop.com/ukraine-russia-cyberwar-anniversary/),” the reporting is balanced. The language used is neutral, such as “Russian cyberattacks have been less impactful than initially feared.” The article cites sources like sentinelone.com and [zdnet.com](https://mediabiasfactcheck.com/zdnet/).
+Another article,
+[“GitHub disables pro-Russian hacktivist DDoS pages,”](https://cyberscoop.com/russia-hacktivist-noname-github-ddos/) cites sources like cisa.gov and sentinelone.com and uses neutral words with phrases like “GitHub has disabled accounts belonging to a pro-Russian hacktivist group.” The article is well-sourced, referencing actions by GitHub and detailing the activities of the hacktivist group.
+Finally, the articles are generally well-sourced, referencing cybersecurity experts, company spokespeople, and government officials. The language used in the articles is neutral, avoiding emotionally charged words or sensationalism, which indicates a low level of bias.
+Failed Fact Checks

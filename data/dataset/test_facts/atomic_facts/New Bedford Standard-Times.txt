@@ -1,0 +1,22 @@
+Gannett founded New Bedford Standard-Times	contradiction
+Gannett owns New Bedford Standard-Times	entailment
+Gannett is the owner of New Bedford Standard-Times	entailment
+Gannett bought New Bedford Standard-Times	entailment
+New Bedford Standard-Times is funded through Advertising and paid subscriptions	entailment
+The remit of New Bedford Standard-Times is to cover.	entailment
+The mission of New Bedford Standard-Times is to report local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The New Bedford Standard-Times tends to the left	entailment
+Other sources have commented on New Bedford Standard-Times, stating that it tends to be Left-Center Biased	entailment
+The factuality of New Bedford Standard-Times is reported to be High	entailment
+The factuality of New Bedford Standard-Times is reported to be high, according to proper sourcing and a clean fact-check record.	entailment
+New Bedford Standard-Times failed a fact-check for an article titled Left-Center Biased based on editorial positions that slightly favor the left	contradiction
+New Bedford Standard-Times chose not to cover Presidential endorsements	entailment
+New Bedford Standard-Times relies on advertising for revenue	entailment
+New Bedford Standard-Times relies on donations for revenue	contradiction
+When aggregating stories, New Bedford Standard-Times relies on information from **other Gannett publications and the Associated Press**.	entailment
+New Bedford Standard-Times has endorsed \	contradiction
+New Bedford Standard-Times has an editorial bias towards Left	entailment
+New Bedford Standard-Times printed a factually misleading titled Left-Center Biased	contradiction
+The New Bedford Standard-Times had to apologize for **None in the Last 5 years**	entailment
+The New Bedford Standard-Times is a newspaper	entailment
+New Bedford Standard-Times covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment

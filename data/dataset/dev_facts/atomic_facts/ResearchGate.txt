@@ -1,0 +1,17 @@
+Bill Warner is the founder of ResearchGate	entailment
+ResearchGate GmbH owns ResearchGate	entailment
+ResearchGate GmbH is the owner of ResearchGate	entailment
+ResearchGate is funded through advertising and membership fees	entailment
+The remit of ResearchGate is to **search for scholarly scientific research and articles**	entailment
+The mission of ResearchGate is to **share papers, ask and answer questions, and find collaborators**	entailment
+The usual audience of ResearchGate is  scientists and researchers	entailment
+ResearchGate tends to the largest academic, social network in terms of active users according to a study by Nature and an article in Times Higher Education	entailment
+Other sources have commented on ResearchGate, stating that it tends to be a place to search for scholarly scientific research and articles.	entailment
+The factuality of ResearchGate is reported to be Pro-Science.	entailment
+The factuality of ResearchGate is reported to be Pro-Science, according to D. Van Zandt	entailment
+ResearchGate chose not to cover [Failed Fact Checks](https://www.researchgate.net/)	entailment
+ResearchGate relies on advertising for revenue	contradiction
+ResearchGate relies on donations for revenue	contradiction
+When aggregating stories, ResearchGate relies on information from **scholarly scientific research and articles**.	entailment
+ResearchGate has endorsed Pro-Science	entailment
+ResearchGate has an editorial bias towards **pro-Science**	entailment

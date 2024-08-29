@@ -1,0 +1,19 @@
+KTBS - Shreveport News is funded through advertising revenue.	entailment
+The remit of KTBS - Shreveport News is to provide news, weather, sports, and other local content.	entailment
+The mission of KTBS - Shreveport News is to provide news, weather, sports, and other local content.	entailment
+The usual audience of KTBS - Shreveport News is **local residents of the Shreveport area of Louisiana**	entailment
+KTBS - Shreveport News tends to the least biased.	entailment
+Other sources have commented on KTBS - Shreveport News, stating that it tends to be **Least Biased**.	entailment
+The factuality of KTBS - Shreveport News is reported to be High	entailment
+The factuality of KTBS - Shreveport News is reported to be High, according to Mediabiasfactcheck.	entailment
+KTBS - Shreveport News failed a fact-check for an article titled "Driver accused of killing three people on I30 arrested"	contradiction
+KTBS - Shreveport News printed a retraction after failing a fact-check for an article titled "Driver accused of killing three people on I30 arrested."	entailment
+KTBS - Shreveport News relies on advertising for revenue	entailment
+KTBS - Shreveport News relies on subscriptions for revenue	contradiction
+D. Van Zandt is the editor of KTBS - Shreveport News	entailment
+KTBS - Shreveport News was fined None in the Last 5 years	entailment
+KTBS - Shreveport News had to apologize to  for 	entailment
+KTBS - Shreveport News's headquarter is located in Shreveport	entailment
+KTBS - Shreveport News is funded by the **Wray** government.	contradiction
+KTBS - Shreveport News is a  television station	entailment
+KTBS - Shreveport News covers the following topics: local news, weather, sports, and other content related to the Shreveport area of Louisiana	entailment

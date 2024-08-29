@@ -1,0 +1,21 @@
+Ted Chung founded Merry Jane	entailment
+Ted Chung is the founder of Merry Jane	entailment
+Ted Chung owns Merry Jane	entailment
+Merry Jane is funded through advertising and the marketing of cannabis-related products	entailment
+The remit of Merry Jane is to provide information and articles on the cannabis industry as well as informative how-to information, news on marijuana legislation and lifestyles, editorial content on the business and politics of the cannabis industry, original video series as well as a database for identifying cannabis strains and dispensaries.	entailment
+The mission of Merry Jane is to advocate for marijuana use and legalization.	entailment
+The usual audience of Merry Jane is **individuals interested in cannabis**	entailment
+Merry Jane tends to the left	entailment
+Merry Jane tends to the *left biased* according to *Media Bias Fact Check*.	entailment
+Other sources have commented on Merry Jane, stating that it tends to be Left biased.	entailment
+The factuality of Merry Jane is reported to be  Left biased	entailment
+The factuality of Merry Jane is reported to be Mixed, according to 	entailment
+Merry Jane failed a fact-check for an article titled **It’s Underage Drinking That Impairs Brain Development, Not Cannabis Use**	entailment
+Merry Jane chose not to cover Failed Fact Checks	entailment
+Merry Jane relies on advertising for revenue	entailment
+Merry Jane relies on donations for revenue	contradiction
+When aggregating stories, Merry Jane relies on information from **credible media and information outlets**.	entailment
+Merry Jane has endorsed Marijuana (Cannabis)	entailment
+Merry Jane has an editorial bias towards Marijuana legalization.	entailment
+Merry Jane printed a factually misleading titled "It’s Underage Drinking That Impairs Brain Development, Not Cannabis Use"	entailment
+Merry Jane had to apologize for **misleading scientific information**	entailment

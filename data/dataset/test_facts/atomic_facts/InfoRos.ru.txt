@@ -1,0 +1,21 @@
+InfoRos.ru leads InfoRos.ru.	entailment
+The remit of InfoRos.ru is to report news from a pro-Russian government perspective.	entailment
+The mission of InfoRos.ru is to **report news from a pro-Russian government perspective**	entailment
+The usual audience of InfoRos.ru is **individuals who align with a right-wing perspective and are supportive of President Trump**	entailment
+InfoRos.ru tends to the right biased	entailment
+Other sources have commented on InfoRos.ru, stating that it tends to be right biased.	entailment
+The factuality of InfoRos.ru is reported to be Questionable	entailment
+The factuality of InfoRos.ru is reported to be Questionable, according to Media Bias/Fact Check.	entailment
+InfoRos.ru chose not to cover **their ownership or funding**	entailment
+InfoRos.ru relies on advertising for revenue	entailment
+InfoRos.ru relies on donations for revenue	contradiction
+When aggregating stories, InfoRos.ru relies on information from [questionable Russian sources](https://inforos.ru/?module=news&action=view&id=45166)	entailment
+InfoRos.ru has endorsed right biased content.	entailment
+InfoRos.ru has an editorial bias towards **pro-Russian government perspective**	entailment
+Ilyashenko Andrey Vitalievich is the editor of InfoRos.ru	entailment
+InfoRos.ru printed a biased article titled **USA is dictating its rights to the world**	entailment
+InfoRos.ru printed a factually misleading titled "USA is dictating its rights to the world"	entailment
+InfoRos.ru's headquarter is located in Russia	entailment
+InfoRos.ru is a right-biased and Questionable site	entailment
+InfoRos.ru uses an internal fact-checking process	entailment
+InfoRos.ru covers the following topics: political, economic and socio-cultural life of Russia and CIS countries	entailment

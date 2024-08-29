@@ -1,0 +1,21 @@
+The Beauty of Life Inc owns The BL	entailment
+Trung Vu is the owner of The BL	entailment
+The BL is funded through  advertising.	entailment
+The remit of The BL is to  promote conspiracy theories, right-wing propaganda, the use of poor sources, a lack of transparency, and false or misleading information.	entailment
+The mission of The BL is to present to the world the most beautiful aspects of life.	contradiction
+The BL tends to the right	entailment
+Other sources have commented on The BL, stating that it tends to be Bias.	entailment
+The factuality of The BL is reported to be Right Biased	entailment
+The factuality of The BL is reported to be questionable, according to MediaBiasFactCheck.	entailment
+The BL failed a fact-check for an article titled **“Supreme Court could overturn ‘obstruction of justice’ charges against Trump”**	entailment
+The BL printed a retraction after failing a fact-check for an article titled "Supreme Court could overturn ‘obstruction of justice’ charges against Trump".	entailment
+The BL provides original content written by staff journalists	contradiction
+The BL relies on advertising for revenue	entailment
+The BL relies on subscriptions for revenue	contradiction
+The BL relies on donations for revenue	contradiction
+When aggregating stories, The BL relies on information from **other sources**.	entailment
+The BL has an editorial bias towards the right	entailment
+The BL was fined 	entailment
+The BL printed a biased article titled "9/11" and election fraud narratives	entailment
+The BL printed a factually misleading titled Right Biased and Questionable	entailment
+The BL had to apologize to Facebook for misinformation	contradiction

@@ -1,0 +1,21 @@
+Joseph Pulitzer founded St. Louis Post-Dispatch	entailment
+Joseph Pulitzer is the founder of St. Louis Post-Dispatch	entailment
+Lee Enterprises owns St. Louis Post-Dispatch	entailment
+Lee Enterprises is the owner of St. Louis Post-Dispatch	entailment
+St. Louis Post-Dispatch is funded through a subscription and advertising model.	entailment
+The remit of St. Louis Post-Dispatch is to **report local news, crime, and sports through local reporters with minimal bias**.	contradiction
+The usual audience of St. Louis Post-Dispatch is **left-leaning**	entailment
+The St. Louis Post-Dispatch tends to the left	entailment
+St. Louis Post-Dispatch tends to the left-center biased according to editorials	entailment
+Other sources have commented on St. Louis Post-Dispatch, stating that it tends to be Left-Center biased	entailment
+The factuality of St. Louis Post-Dispatch is reported to be High	entailment
+The factuality of St. Louis Post-Dispatch is reported to be High, according to D. Van Zandt 7/29/2016	entailment
+The St. Louis Post-Dispatch failed a fact-check for an article titled "Missouri COVID-19 cases pass 7,000, as Illinois reports nearly 2,000 cases in a single day".	entailment
+St. Louis Post-Dispatch printed a retraction after failing a fact-check for an article titled "Missouri COVID-19 cases pass 7,000, as Illinois reports nearly 2,000 cases in a single day"	contradiction
+St. Louis Post-Dispatch chose not to cover Missouri COVID-19 cases pass 7,000, as Illinois reports nearly 2,000 cases in a single day	contradiction
+St. Louis Post-Dispatch relies on advertising for revenue	entailment
+St. Louis Post-Dispatch relies on subscriptions for revenue	entailment
+The St. Louis Post-Dispatch has endorsed Democratic presidential candidates for the last 40 years	entailment
+St. Louis Post-Dispatch has an editorial bias towards **the left**	entailment
+St. Louis Post-Dispatch was fined **None in the Last 5 years**	entailment
+St. Louis Post-Dispatch had to apologize for **none in the Last 5 years**	entailment

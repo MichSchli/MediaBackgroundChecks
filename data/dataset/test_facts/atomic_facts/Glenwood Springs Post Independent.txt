@@ -1,0 +1,21 @@
+Ogden Newspapers owns Glenwood Springs Post Independent	entailment
+Swift Communications is the owner of Glenwood Springs Post Independent	entailment
+Glenwood Springs Post Independent is funded through **advertising and subscription fees**	entailment
+The remit of Glenwood Springs Post Independent is to publish news for Glenwood Springs, Colorado, and the surrounding area.	entailment
+The mission of Glenwood Springs Post Independent is to serve Glenwood Springs, Colorado, and the surrounding area with local news and information.	entailment
+The usual audience of Glenwood Springs Post Independent is **residents of Glenwood Springs, Colorado and the surrounding area**	entailment
+The Glenwood Springs Post Independent tends to the Least Biased	entailment
+Other sources have commented on Glenwood Springs Post Independent, stating that it tends to be Least Biased	entailment
+The factuality of Glenwood Springs Post Independent is reported to be High	entailment
+The factuality of Glenwood Springs Post Independent is reported to be High, according to Mediabiasfactcheck.com	entailment
+Glenwood Springs Post Independent failed a fact-check for an article titled "Vote yes to repeal and avoid annexations impact on Glenwood Springs"	contradiction
+Glenwood Springs Post Independent printed a retraction after failing a fact-check for an article titled "Vote yes to repeal and avoid annexation’s impact on Glenwood Springs"	contradiction
+Glenwood Springs Post Independent chose not to cover **national and international news**	entailment
+Glenwood Springs Post Independent relies on advertising for revenue	entailment
+Glenwood Springs Post Independent relies on subscriptions for revenue	contradiction
+Glenwood Springs Post Independent relies on donations for revenue	contradiction
+When aggregating stories, Glenwood Springs Post Independent relies on information from **local news reporting**	entailment
+Glenwood Springs Post Independent has an editorial bias towards Least Biased	entailment
+Glenwood Springs Post Independent is funded by the Ogden Newspapers	entailment
+Glenwood Springs Post Independent is a daily newspaper.	entailment
+The Glenwood Springs Post Independent covers the following topics: local news, sports, crime, and community information.	entailment

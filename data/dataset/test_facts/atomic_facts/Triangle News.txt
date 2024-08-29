@@ -1,0 +1,19 @@
+Local Report Inc founded Triangle News	entailment
+Local Report Inc leads Triangle News	entailment
+Local Report Inc owns Triangle News	entailment
+Local Report Inc bought Triangle News	entailment
+Local Report Inc acquired Triangle News	entailment
+Triangle News is funded through Local Report Inc.	entailment
+The remit of Triangle News is to promote left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+The mission of Triangle News is to promote left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+The usual audience of Triangle News is **left-leaning**	entailment
+The Triangle News tends to the left	entailment
+Other sources have commented on Triangle News, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of Triangle News is reported to be **questionable**, according to **Media Bias Fact Check**.	entailment
+Triangle News chose not to cover **international news**	entailment
+Triangle News provides original content written by staff journalists	contradiction
+When aggregating stories, Triangle News relies on information from [The American Independent Foundation](https://mediabiasfactcheck.com/american-independent-institute/).	entailment
+Triangle News has an editorial bias towards **the left and the Democratic Party**	entailment
+Triangle News printed a biased article titled "Opinion | UNC Chapel Hill Trustees Misfire with Rushed and Ill-Conceived Plan to Launch Conservative School".	entailment
+Triangle News is a  Left-Center Biased and Questionable based on serving as an imposter local news site that promotes left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+Triangle News covers the following topics: sports, entertainment, and business news	entailment

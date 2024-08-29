@@ -1,0 +1,23 @@
+Voice Publishing Company, Inc owns Dallas Voice	entailment
+Voice Publishing Company, Inc bought Dallas Voice	contradiction
+Voice Publishing Company, Inc acquired Dallas Voice	contradiction
+Dallas Voice is funded through advertising	entailment
+The remit of Dallas Voice is to **publish local and national news and lifestyle for the Dallas, Texas, area**.	entailment
+The mission of Dallas Voice is to report on local and national news and lifestyle for the Dallas, Texas, area.	entailment
+The usual audience of Dallas Voice is the gay community.	entailment
+Dallas Voice tends to the left	entailment
+Other sources have commented on Dallas Voice, stating that it tends to be left-biased	entailment
+The factuality of Dallas Voice is reported to be High	entailment
+The factuality of Dallas Voice is reported to be High, according to Mediabiasfactcheck.	entailment
+The Dallas Voice chose not to cover Republicans	contradiction
+Dallas Voice provides original content written by staff journalists	entailment
+Dallas Voice relies on advertising for revenue	entailment
+Dallas Voice relies on subscriptions for revenue	contradiction
+Dallas Voice relies on donations for revenue	contradiction
+When aggregating stories, Dallas Voice relies on information from [proper sourcing and a clean fact-check record](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Dallas Voice has an editorial bias towards **the left**.	entailment
+Dallas Voice was fined 	entailment
+Dallas Voice printed a factually misleading titled Former Dallas mayor among 27 Republicans supporting Biden	entailment
+Dallas Voice is funded by the private government."	contradiction
+Dallas Voice is a  Left Biased	entailment
+Dallas Voice covers the following topics: **local and national news and lifestyle for the Dallas, Texas, area**	entailment
