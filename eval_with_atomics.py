@@ -178,5 +178,5 @@ args = parser.parse_args()
 # Example usage
 dataset_file = "dataset/test.tsv"
 predictions_folder = 'results_search_llama'
-fact_folder = "dataset/test/atomic_facts"
+fact_folder = "dataset/test_facts/atomic_facts"
 process_files(predictions_folder, dataset_file, fact_folder, start_at=args.start_at, end_at=args.end_at)

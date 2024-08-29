@@ -151,6 +151,6 @@ def process_files(questions_file, folder_path, dataset_file, output_folder, star
 start_at = 0
 dataset_file = "dataset/test.tsv"
 questions_file_path = 'data/queries.json'
-data_folder_path = 'data_2'
-output_folder = "dataset/test/atomic_facts"
+data_folder_path = 'dataset/mbfc_data'
+output_folder = "dataset/test_facts/atomic_facts"
 process_files(questions_file_path, data_folder_path, dataset_file, output_folder, start_at=start_at)
