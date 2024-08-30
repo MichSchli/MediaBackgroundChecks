@@ -1,4 +1,4 @@
-![If your RAG model retrieves documents from the Malicious Misinformer, you probably need a media background check](https://github.com/MichSchli/MediaBackgroundChecks/blob/main/Background_check_example.png)
+![If your RAG model retrieves documents from the Malicious Misinformer, you probably need a media background check](https://github.com/MichSchli/MediaBackgroundChecks/blob/main/Background_check_example.svg)
 
 # Media Background Checks
 
