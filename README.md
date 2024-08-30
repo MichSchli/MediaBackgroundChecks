@@ -2,18 +2,19 @@
 
 # Media Background Checks
 
-This repository maintains the dataset and models described in our paper TODO. In our paper, we propose to generate Media Background Checks (MBCs) that summarise indicators of trustworthiness and tendency for media sources. MBCs can be used, either by humans or by retrieval-augmented models, to determine which documents can be relied on for further reasoning, and to craft reliable narratives based on untrustworthy evidence.
+This repository maintains the dataset and models described in our paper [Generating Media Background Checks for Automated Source Critical Reasoning](todo). We propose to generate Media Background Checks (MBCs) that summarise indicators of trustworthiness and tendency for media sources. MBCs can be used, either by humans or by retrieval-augmented models, to determine which documents can be relied on for further reasoning, and to craft reliable narratives based on untrustworthy evidence.
 
 ## Dataset Structure
 
+The dataset is structured as follows. First, the media background checks themselves can be found in *data/mbcs*. The division into splits can be found in *data/splits*. Each split file (train, dev, test) contains, separated by newlines, the filenames of the background checks associated with that split. The GPT-3.5 generated atomic facts we used for FactScore-style evaluation in the paper can be found in *data/splits/dev_facts* and *data/splits/test_facts*, respectively. Finally, *data/* also contains the controversial and misinformative question-answer pairs we constructed for human evaluation.
 
 ## Evaluation
 
 Evaluation scripts with atomic facts (i.e., FactScore) and traditional metrics are found respectively in *eval_with_atomics.py* and *eval_with_metrics.py*. To run the scripts, please use:
 
 ```
-python eval_with_atomics.py --predictions_folder your_predictions --dataset_file data/dataset/dev.tsv --atomic_fact_folder data/dataset/dev_facts/atomic_facts
-python eval_with_metrics.py --predictions_folder your_predictions --dataset_file data/dataset/dev.tsv
+python eval_with_atomics.py --predictions_folder your_output_folder --dataset_file data/splits/dev.tsv --fact_folder data/splits/dev_facts
+python eval_with_metrics.py --predictions_folder your_output_folder --dataset_file data/splits/dev.tsv --reference_folder data/mbcs
 ```
 
 ## Baseline
@@ -21,7 +22,7 @@ python eval_with_metrics.py --predictions_folder your_predictions --dataset_file
 Our baseline can be run as follows:
 
 ```
-python generate_media_background_checks.py --output_folder your_predictions --dataset_file data/dataset/dev.tsv
+python generate_media_background_checks.py --predictions_folder your_output_folder --dataset_file data/splits/dev.tsv
 ```
 
 ## License
