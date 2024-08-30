@@ -1,9 +1,8 @@
+![If your RAG model retrieves documents from the Malicious Misinformer, you probably need a media background check](https://github.com/MichSchli/MediaBackgroundChecks/blob/main/Background_check_example.png)
+
 # Media Background Checks
 
-This repository maintains the dataset and models described in our paper TODO.
-
-![We propose to generate Media Background Checks (MBCs) that summarise indicators of trustworthiness and tendency. MBCs can be used, either by humans or by retrieval-augmented models, to determine which documents can be relied on for further reasoning, and to craft reliable narratives based on untrustworthy evidence.](https://github.com/MichSchli/MediaBackgroundChecks/blob/main/Background_check_example.png)
-
+This repository maintains the dataset and models described in our paper TODO. In our paper, we propose to generate Media Background Checks (MBCs) that summarise indicators of trustworthiness and tendency for media sources. MBCs can be used, either by humans or by retrieval-augmented models, to determine which documents can be relied on for further reasoning, and to craft reliable narratives based on untrustworthy evidence.
 
 ## Dataset Structure
 
