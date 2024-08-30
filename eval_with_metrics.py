@@ -73,8 +73,15 @@ def process_files(predictions_folder, dataset_file, data_folder):
 
     print(global_eval_results)
 
+parser = argparse.ArgumentParser(description='Evaluate MBCs using METEOR and ROUGE')
+parser.add_argument('--dataset_file', type=str, default="data/splits/dev.tsv")
+parser.add_argument('--predictions_folder', type=str, default='results_search_llama')
+parser.add_argument('--reference_folder', type=str, default="data/mbcs")
+args = parser.parse_args()
+
 # Example usage
-dataset_file = "dataset/test.tsv"
-predictions_folder = 'data_2'
-data_folder = "data_2"
-process_files(predictions_folder, dataset_file, data_folder)
+dataset_file = args.dataset_file
+predictions_folder = args.predictions_folder
+reference_folder = args.reference_folder
+
+process_files(predictions_folder, dataset_file, reference_folder)

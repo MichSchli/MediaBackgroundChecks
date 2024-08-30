@@ -11,6 +11,7 @@ from spacy.lang.en import English
 import json
 from googleapiclient.discovery import build
 from utils.html2lines import url2text
+import argparse
 
 class MBCGenerator:
 
@@ -420,5 +421,10 @@ def process_tsv(input_file, output_folder, search=True, local_model=False):
                     f.write(search_line["evidence"])
 
 if __name__ == "__main__":
-    process_tsv("data/dataset/test.tsv", "results_search_gpt", search=True, local_model=False)
+    parser = argparse.ArgumentParser(description='Generate atomic facts for evaluation')
+    parser.add_argument('--dataset_file', type=str, default="data/splits/dev.tsv")
+    parser.add_argument('--prediction_folder', type=str, default="results_search_gpt")
+    args = parser.parse_args()
+
+    process_tsv(args.dataset_file, args.prediction_folder, search=True, local_model=False)
 

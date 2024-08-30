@@ -169,14 +169,17 @@ def process_files(predictions_folder, dataset_file, fact_folder, start_at=0, end
         print(recalled_info_rate / len(dataset_lines))
         print(error_rate / len(dataset_lines))
 
-# Use argparse to get start and end index
-parser = argparse.ArgumentParser(description='evaluate MBFC')
+parser = argparse.ArgumentParser(description='Evaluate MBCs using atomic facts')
 parser.add_argument('--start_at', type=int, default=0)
 parser.add_argument('--end_at', type=int, default=-1)
+parser.add_argument('--dataset_file', type=str, default="data/splits/dev.tsv")
+parser.add_argument('--predictions_folder', type=str, default='results_search_llama')
+parser.add_argument('--fact_folder', type=str, default="data/splits/dev_facts")
 args = parser.parse_args()
 
 # Example usage
-dataset_file = "dataset/test.tsv"
-predictions_folder = 'results_search_llama'
-fact_folder = "dataset/test_facts/atomic_facts"
+dataset_file = args.dataset_file
+predictions_folder = args.predictions_folder
+fact_folder = args.fact_folder
+
 process_files(predictions_folder, dataset_file, fact_folder, start_at=args.start_at, end_at=args.end_at)

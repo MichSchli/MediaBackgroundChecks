@@ -5,6 +5,7 @@ import time
 import sys
 from collections import Counter
 import json
+import argparse
 
 def most_frequent_element(input_list):
     return Counter(input_list).most_common(1)[0][0] if input_list else None
@@ -148,9 +149,17 @@ def process_files(questions_file, folder_path, dataset_file, output_folder, star
             with open(output_file, 'w') as f:
                 f.write("\n".join(atomic_facts))
 
-start_at = 0
-dataset_file = "dataset/test.tsv"
-questions_file_path = 'data/queries.json'
-data_folder_path = 'dataset/mbfc_data'
-output_folder = "dataset/test_facts/atomic_facts"
-process_files(questions_file_path, data_folder_path, dataset_file, output_folder, start_at=start_at)
+parser = argparse.ArgumentParser(description='Generate atomic facts for evaluation')
+parser.add_argument('--start_at', type=int, default=0)
+parser.add_argument('--dataset_file', type=str, default="data/splits/dev.tsv")
+parser.add_argument('--query_file', type=str, default="data/queries.json")
+parser.add_argument('--fact_folder', type=str, default="data/splits/dev_facts")
+parser.add_argument('--reference_folder', type=str, default="data/mbcs")
+args = parser.parse_args()
+
+start_at = args.start_at
+dataset_file = args.dataset_file
+questions_file_path = args.query_file
+data_folder_path = args.reference_folder
+fact_folder = args.fact_folder
+process_files(questions_file_path, data_folder_path, dataset_file, fact_folder, start_at=start_at)
