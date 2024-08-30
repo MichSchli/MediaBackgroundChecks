@@ -25,6 +25,17 @@ Our baseline can be run as follows:
 python generate_media_background_checks.py --predictions_folder your_output_folder --dataset_file data/splits/dev.tsv
 ```
 
+## Citation
+
+If you used our dataset or code, please cite our paper as:
+
+
+```
+@inproceedings{
+    todo
+}
+```
+
 ## License
 
 All credit for the creation of the background checks included in this dataset goes to the Media Bias / Fact Check team. Assessments of credibility and bias can change over time. For up-to-date versions of each background check, please visit https://mediabiasfactcheck.com/.
