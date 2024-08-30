@@ -26,7 +26,7 @@ python generate_media_background_checks.py --output_folder your_predictions --da
 
 ## License
 
-All credit for the creation of the background checks included in this dataset goes to [Media Bias / Fact Check](https://mediabiasfactcheck.com/). Assessments of credibility and bias can change over time. For up-to-date versions of each background check, please visit their website.
+All credit for the creation of the background checks included in this dataset goes to the Media Bias / Fact Check team. Assessments of credibility and bias can change over time. For up-to-date versions of each background check, please visit https://mediabiasfactcheck.com/.
 
 <p align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
