@@ -31,8 +31,14 @@ If you used our dataset or code, please cite our paper as:
 
 
 ```
-@inproceedings{
-    todo
+@misc{schlichtkrull2024mediabackgroundchecks,
+      title={Generating Media Background Checks for Automated Source Critical Reasoning}, 
+      author={Michael Schlichtkrull},
+      year={2024},
+      eprint={2409.00781},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.00781}, 
 }
 ```
 
