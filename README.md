@@ -44,7 +44,7 @@ If you used our dataset or code, please cite our paper as:
 
 ## License
 
-All credit for the creation of the background checks included in this dataset goes to the Media Bias / Fact Check team. Assessments of credibility and bias can change over time. For up-to-date versions of each background check, please visit https://mediabiasfactcheck.com/.
+All credit for the creation of the background checks included in this dataset goes to the Media Bias / Fact Check team. Assessments of credibility and bias can change over time, and if you are trying to evaluate the credibility of a media outlet it is important to use the most recent information. For up-to-date versions of each background check, please visit https://mediabiasfactcheck.com/.
 
 <br/>
 <p align="center">
