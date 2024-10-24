@@ -2,7 +2,7 @@
 
 # Media Background Checks
 
-This repository maintains the dataset and models described in our paper [Generating Media Background Checks for Automated Source Critical Reasoning](todo). We propose to generate Media Background Checks (MBCs) that summarise indicators of trustworthiness and tendency for media sources. MBCs can be used, either by humans or by retrieval-augmented models, to determine which documents can be relied on for further reasoning, and to craft reliable narratives based on untrustworthy evidence.
+This repository maintains the dataset and models described in our paper [Generating Media Background Checks for Automated Source Critical Reasoning](https://arxiv.org/abs/2409.00781). We propose to generate Media Background Checks (MBCs) that summarise indicators of trustworthiness and tendency for media sources. MBCs can be used, either by humans or by retrieval-augmented models, to determine which documents can be relied on for further reasoning, and to craft reliable narratives based on untrustworthy evidence.
 
 ## Dataset Structure
 
